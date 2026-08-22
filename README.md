@@ -12,11 +12,11 @@ npm start
 # → http://localhost:4173
 ```
 
-`nmp run build` is a no-op; the site is already static under `public/`.
+Use the package build script to generate bible pages from `content/` into `public/bible/`.
 
 ## Deploy
 
-Connect this repo to **Netlify** or **Vercel**. Set the publish / output directory to **`public/`**. No build command is required (Netlify `netlify.toml` already sets `publish = "public"`).
+Connect this repo to **Netlify** or **Vercel**. Set the publish / output directory to **`public/`**. Netlify runs the package build script and publishes `public/`.
 
 ### After GitHub auth
 
@@ -33,4 +33,4 @@ git commit -m "Scaffold GotTheology static site"
 
 - Waitlist backend (email capture + confirmation)
 - Ad slots / network integration
-- Content pipeline: author JSON under `content/`, generate HTML pages from it
+- Content pipeline: author JSON under `content/books/`, then run the build script
