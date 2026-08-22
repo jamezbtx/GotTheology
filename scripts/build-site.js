@@ -10,6 +10,13 @@ const PUBLIC = path.join(ROOT, "public");
 const BIBLE_OUT = path.join(PUBLIC, "bible");
 const VOICES_PATH = path.join(CONTENT, "voices.json");
 const YEAR = new Date().getFullYear();
+const SITE_ORIGIN = "https://got-theology.com";
+
+function absoluteUrl(pathname) {
+  if (!pathname) return SITE_ORIGIN + "/";
+  if (/^https?:\/\//i.test(pathname)) return pathname;
+  return SITE_ORIGIN + (pathname.startsWith("/") ? pathname : "/" + pathname);
+}
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -97,6 +104,22 @@ function truncate(s, n) {
   return t.slice(0, n - 1).trimEnd() + "\u2026";
 }
 
+function buildSearchText(data) {
+  const parts = [];
+  const title =
+    data.title ||
+    data.book + " " + data.chapter + ":" + enDashRange(data.verseStart, data.verseEnd);
+  parts.push(title);
+  parts.push(data.book || "");
+  if (data.context) parts.push(data.context);
+  for (const v of data.verses || []) {
+    if (v && v.text) parts.push(String(v.text));
+    if (v && v.number != null) {
+      parts.push(data.book + " " + data.chapter + ":" + v.number);
+    }
+  }
+  return parts.join(" ").replace(/\s+/g, " ").trim();
+}
 
 function renderVoicesSection(voices) {
   if (!voices) return "";
@@ -179,7 +202,14 @@ function renderPassagePage(data, opts) {
   const pageTitle = data.title || (book + " " + chapter + ":" + rangeLabel);
   const desc =
     data.description ||
-    ("Verse-by-verse Arminian and Reformed commentary on " + pageTitle + ". Free to read on GotTheology.");
+    (context
+      ? truncate(
+          "Arminian and Reformed commentary on " + pageTitle + ". " + context,
+          160
+        )
+      : "Verse-by-verse Arminian and Reformed commentary on " +
+        pageTitle +
+        ". Free to read on GotTheology.");
   const displayDisclaimer =
     data.disclaimer ||
     `<strong>About this sample.</strong>
@@ -190,7 +220,10 @@ function renderPassagePage(data, opts) {
 
   const verseCards = verses.map((v) => renderVerseCard(book, chapter, v)).join("\n");
   const voicesHtml = opts.voices ? renderVoicesSection(opts.voices) : "";
-  const canonicalPath = opts.canonicalPath || passageUrl(bookSlug, chapter, verseStart, verseEnd);
+  const canonicalPath = absoluteUrl(
+    opts.canonicalPath || passageUrl(bookSlug, chapter, verseStart, verseEnd)
+  );
+  const ogTitle = pageTitle + " \u2014 GotTheology";
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -201,6 +234,10 @@ function renderPassagePage(data, opts) {
   <title>${escapeHtml(pageTitle)} \u2014 GotTheology</title>
   <meta name="description" content="${escapeHtml(desc)}" />
   <link rel="canonical" href="${escapeHtml(canonicalPath)}" />
+  <meta property="og:title" content="${escapeHtml(ogTitle)}" />
+  <meta property="og:description" content="${escapeHtml(desc)}" />
+  <meta property="og:url" content="${escapeHtml(canonicalPath)}" />
+  <meta property="og:type" content="website" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
@@ -377,6 +414,11 @@ function renderBibleIndex(passages) {
     '  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />',
     "  <title>Bible Index \u2014 GotTheology</title>",
     '  <meta name="description" content="Browse free verse-by-verse Arminian and Reformed commentary on GotTheology." />',
+    '  <link rel="canonical" href="' + absoluteUrl("/bible/") + '" />',
+    '  <meta property="og:title" content="Bible Index \u2014 GotTheology" />',
+    '  <meta property="og:description" content="Browse free verse-by-verse Arminian and Reformed commentary on GotTheology." />',
+    '  <meta property="og:url" content="' + absoluteUrl("/bible/") + '" />',
+    '  <meta property="og:type" content="website" />',
     '  <link rel="preconnect" href="https://fonts.googleapis.com" />',
     '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />',
     '  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />',
@@ -406,7 +448,17 @@ function renderBibleIndex(passages) {
     "        <h1>Bible passages</h1>",
     "        <p>Arminian and Reformed notes side by side\u2014supported by ads, never paywalled.</p>",
     "      </div>",
+    '      <div class="search-panel" data-search-panel>',
+    '        <label class="search-label" for="siteSearch">Search passages</label>',
+    '        <div class="search-field">',
+    '          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>',
+    '          <input type="search" id="siteSearch" name="q" data-search-input placeholder="Search by book, verse, or wording\u2026" autocomplete="off" enterkeyhint="search" />',
+    "        </div>",
+    '        <div class="search-results" data-search-results hidden></div>',
+    "      </div>",
+    '      <div data-search-catalog>',
     body,
+    "      </div>",
     "    </div>",
     "  </main>",
     '  <footer class="site-footer">',
@@ -448,10 +500,48 @@ function renderBibleIndex(passages) {
     "      });",
     "    })();",
     "  </script>",
+    '  <script src="/assets/search.js" defer></script>',
     "</body>",
     "</html>",
     "",
   ].join("\n");
+}
+
+
+function writeRobotsTxt() {
+  const body =
+    "User-agent: *\n" +
+    "Allow: /\n" +
+    "\n" +
+    "Sitemap: " +
+    SITE_ORIGIN +
+    "/sitemap.xml\n";
+  const outPath = path.join(PUBLIC, "robots.txt");
+  fs.writeFileSync(outPath, body, "utf8");
+  console.log("  wrote " + path.relative(ROOT, outPath));
+}
+
+function writeSitemap(passages) {
+  const urls = ["/", "/bible/", "/verse.html", ...passages.map((p) => p.url)];
+  const seen = new Set();
+  const unique = [];
+  for (const u of urls) {
+    const abs = absoluteUrl(u);
+    if (seen.has(abs)) continue;
+    seen.add(abs);
+    unique.push(abs);
+  }
+  const urlEntries = unique
+    .map((loc) => "  <url>\n    <loc>" + escapeHtml(loc) + "</loc>\n  </url>")
+    .join("\n");
+  const xml =
+    '<?xml version="1.0" encoding="UTF-8"?>\n' +
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+    urlEntries +
+    "\n</urlset>\n";
+  const outPath = path.join(PUBLIC, "sitemap.xml");
+  fs.writeFileSync(outPath, xml, "utf8");
+  console.log("  wrote " + path.relative(ROOT, outPath) + " (" + unique.length + " URLs)");
 }
 
 function cleanGeneratedBibleTree() {
@@ -504,6 +594,9 @@ function main() {
     fs.writeFileSync(outPath, html, "utf8");
     console.log("  wrote " + path.relative(ROOT, outPath));
 
+    const title =
+      data.title ||
+      data.book + " " + data.chapter + ":" + enDashRange(data.verseStart, data.verseEnd);
     passages.push({
       book: data.book,
       bookSlug: data.bookSlug,
@@ -511,11 +604,10 @@ function main() {
       verseStart: data.verseStart,
       verseEnd: data.verseEnd,
       translation: data.translation || "ESV",
-      title:
-        data.title ||
-        data.book + " " + data.chapter + ":" + enDashRange(data.verseStart, data.verseEnd),
+      title,
       context: data.context || "",
       url,
+      text: buildSearchText({ ...data, title }),
     });
 
     if (
@@ -532,6 +624,21 @@ function main() {
   fs.writeFileSync(indexPath, renderBibleIndex(passages), "utf8");
   console.log("  wrote " + path.relative(ROOT, indexPath));
 
+  const searchIndexPath = path.join(PUBLIC, "assets", "search-index.json");
+  const searchIndex = passages.map((p) => ({
+    book: p.book,
+    bookSlug: p.bookSlug,
+    chapter: p.chapter,
+    verseStart: p.verseStart,
+    verseEnd: p.verseEnd,
+    title: p.title,
+    context: p.context,
+    url: p.url,
+    text: p.text,
+  }));
+  fs.writeFileSync(searchIndexPath, JSON.stringify(searchIndex, null, 2) + "\n", "utf8");
+  console.log("  wrote " + path.relative(ROOT, searchIndexPath) + " (" + searchIndex.length + " entries)");
+
   if (sampleAliasHtml) {
     const aliasPath = path.join(PUBLIC, "verse.html");
     fs.writeFileSync(aliasPath, sampleAliasHtml, "utf8");
@@ -540,7 +647,10 @@ function main() {
     console.warn("  note: no Ephesians 1:3-6; left public/verse.html unchanged");
   }
 
-  console.log("Done. " + passages.length + " passage page(s) + bible index.");
+  writeRobotsTxt();
+  writeSitemap(passages);
+
+  console.log("Done. " + passages.length + " passage page(s) + bible index + search index + SEO files.");
 }
 
 try {
