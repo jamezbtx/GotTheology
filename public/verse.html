@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <title>Ephesians 1:3–6 — GotTheology Sample</title>
+  <meta name="description" content="A sample verse-by-verse reading of Ephesians 1:3–6 with fair Arminian and Reformed commentary side by side." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #0f1c2e;
+      --ink-soft: #1a2d45;
+      --ink-muted: #3d5270;
+      --cream: #f7f3eb;
+      --cream-deep: #efe8da;
+      --paper: #fffcf7;
+      --gold: #b08d3e;
+      --gold-soft: #c9a95a;
+      --gold-pale: #f3e9d0;
+      --teal: #3d6b6b;
+      --border: rgba(15, 28, 46, 0.1);
+      --shadow: 0 12px 40px rgba(15, 28, 46, 0.08);
+      --shadow-sm: 0 4px 16px rgba(15, 28, 46, 0.06);
+      --radius: 14px;
+      --max: 880px;
+      --max-wide: 1120px;
+      --font-serif: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+      --font-sans: "Source Sans 3", system-ui, -apple-system, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font-sans);
+      font-size: 1.0625rem;
+      line-height: 1.65;
+      color: var(--ink);
+      background: var(--cream);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    button { font: inherit; }
+
+    .container {
+      width: min(100% - 2.5rem, var(--max-wide));
+      margin-inline: auto;
+    }
+
+    .reader {
+      width: min(100% - 2.5rem, var(--max));
+      margin-inline: auto;
+    }
+
+    h1, h2, h3, .wordmark {
+      font-family: var(--font-serif);
+      font-weight: 600;
+      line-height: 1.15;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 0.85rem;
+    }
+
+
+    /* —— Voices / quotes —— */
+    .voices {
+      padding: 3.5rem 0 1rem;
+    }
+    .voices-intro {
+      text-align: center;
+      max-width: 36rem;
+      margin: 0 auto 2.25rem;
+    }
+    .voices-intro h2 {
+      font-size: clamp(1.65rem, 2.8vw, 2.1rem);
+      margin-bottom: 0.65rem;
+    }
+    .voices-intro p {
+      color: var(--ink-muted);
+      font-size: 1.02rem;
+    }
+    .voices-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+      align-items: start;
+    }
+    .voices-col {
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-sm);
+      padding: 1.35rem 1.35rem 1.1rem;
+    }
+    .voices-col h3 {
+      font-family: var(--font-sans);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 1.1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .voices-col.arminian h3 { color: var(--teal); }
+    .voices-col.reformed h3 { color: var(--gold); }
+    .quote-card {
+      padding: 1rem 0;
+      border-top: 1px solid var(--border);
+    }
+    .quote-card:first-of-type { border-top: none; padding-top: 0; }
+    .quote-card blockquote {
+      font-family: var(--font-serif);
+      font-size: 1.08rem;
+      line-height: 1.45;
+      color: var(--ink);
+      font-style: italic;
+      margin-bottom: 0.7rem;
+    }
+    .quote-card cite {
+      display: block;
+      font-style: normal;
+      font-size: 0.88rem;
+      color: var(--ink-muted);
+      line-height: 1.4;
+    }
+    .quote-card cite strong {
+      color: var(--ink);
+      font-weight: 600;
+    }
+    .voices-note {
+      margin-top: 1.25rem;
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--ink-muted);
+    }
+    @media (max-width: 800px) {
+      .voices-grid { grid-template-columns: 1fr; }
+    }
+
+    /* —— Buttons —— */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.4rem;
+      padding: 0.8rem 1.45rem;
+      border-radius: 999px;
+      border: 1.5px solid transparent;
+      font-weight: 600;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s, border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+    }
+    .btn:active { transform: translateY(1px); }
+
+    .btn-primary {
+      background: var(--ink);
+      color: var(--cream);
+      box-shadow: 0 6px 20px rgba(15, 28, 46, 0.22);
+    }
+    .btn-primary:hover {
+      background: var(--ink-soft);
+      box-shadow: 0 8px 24px rgba(15, 28, 46, 0.28);
+    }
+
+    .btn-gold {
+      background: var(--gold);
+      color: #fff;
+      box-shadow: 0 6px 18px rgba(176, 141, 62, 0.35);
+    }
+    .btn-gold:hover { background: var(--gold-soft); }
+
+    .btn-nav {
+      padding: 0.55rem 1.1rem;
+      font-size: 0.875rem;
+    }
+
+    /* —— Nav —— */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(247, 243, 235, 0.88);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 4.25rem;
+      gap: 1.5rem;
+    }
+
+    .wordmark {
+      font-size: 1.55rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+    .wordmark span { color: var(--gold); }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 1.75rem;
+    }
+
+    .nav-links a {
+      font-size: 0.92rem;
+      font-weight: 500;
+      color: var(--ink-muted);
+      transition: color 0.15s;
+    }
+    .nav-links a:hover { color: var(--ink); }
+
+    .nav-cta { margin-left: 0.5rem; }
+
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: none;
+      padding: 0.4rem;
+      cursor: pointer;
+      color: var(--ink);
+    }
+
+    /* —— Passage header —— */
+    .passage-header {
+      padding: 3.25rem 0 2.25rem;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+      background:
+        linear-gradient(180deg, var(--cream-deep) 0%, var(--cream) 100%);
+    }
+
+    .passage-header h1 {
+      font-size: clamp(2.1rem, 4vw, 2.85rem);
+      margin-bottom: 0.65rem;
+    }
+
+    .passage-meta {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 0.55rem 1rem;
+      margin-bottom: 1rem;
+      font-size: 0.92rem;
+      color: var(--ink-muted);
+    }
+
+    .passage-meta .pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.28rem 0.7rem;
+      border-radius: 999px;
+      background: var(--gold-pale);
+      color: #8a6c28;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .passage-context {
+      max-width: 32rem;
+      margin-inline: auto;
+      font-size: 1.05rem;
+      color: var(--ink-muted);
+      font-style: italic;
+      font-family: var(--font-serif);
+    }
+
+    /* —— Verse blocks —— */
+    .verse-list {
+      padding: 2.5rem 0 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.75rem;
+    }
+
+    .verse-card {
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-sm);
+      overflow: hidden;
+    }
+
+    .verse-text-block {
+      padding: 1.6rem 1.75rem 1.4rem;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(243, 233, 208, 0.35) 0%, var(--paper) 100%);
+    }
+
+    .verse-ref {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 0.65rem;
+    }
+
+    .verse-scripture {
+      font-family: var(--font-serif);
+      font-size: clamp(1.2rem, 2.2vw, 1.45rem);
+      font-weight: 500;
+      line-height: 1.55;
+      color: var(--ink);
+    }
+
+    .verse-scripture .vnum {
+      font-family: var(--font-sans);
+      font-size: 0.72em;
+      font-weight: 700;
+      color: var(--gold);
+      vertical-align: super;
+      margin-right: 0.2em;
+      letter-spacing: 0.02em;
+    }
+
+    .dual-cols {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .dual-col {
+      padding: 1.35rem 1.5rem 1.55rem;
+    }
+
+    .dual-col + .dual-col {
+      border-left: 1px solid var(--border);
+    }
+
+    .dual-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 0.85rem;
+      padding: 0.28rem 0.65rem;
+      border-radius: 999px;
+    }
+
+    .label-arminian {
+      background: rgba(61, 107, 107, 0.12);
+      color: var(--teal);
+    }
+
+    .label-reformed {
+      background: var(--gold-pale);
+      color: #8a6c28;
+    }
+
+    .dual-col p {
+      font-size: 0.94rem;
+      line-height: 1.62;
+      color: var(--ink-muted);
+      margin-bottom: 0.75rem;
+    }
+
+    .dual-col p:last-child { margin-bottom: 0; }
+
+    .key-contrast {
+      margin: 0;
+      padding: 0.9rem 1.5rem 1.15rem;
+      border-top: 1px dashed var(--border);
+      background: rgba(247, 243, 235, 0.55);
+      font-size: 0.88rem;
+      color: var(--ink-soft);
+      line-height: 1.5;
+    }
+
+    .key-contrast strong {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+
+    /* —— Disclaimer —— */
+    .disclaimer {
+      margin: 2.5rem 0 0;
+      padding: 1.35rem 1.5rem;
+      background: var(--cream-deep);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      font-size: 0.88rem;
+      color: var(--ink-muted);
+      line-height: 1.55;
+    }
+
+    .disclaimer strong {
+      color: var(--ink-soft);
+      font-weight: 600;
+    }
+
+    /* —— Bottom CTA —— */
+    .bottom-cta {
+      padding: 3.5rem 0 4.5rem;
+    }
+
+    .cta-box {
+      background: var(--ink);
+      color: var(--cream);
+      border-radius: calc(var(--radius) + 4px);
+      padding: clamp(2.25rem, 4vw, 3.25rem);
+      text-align: center;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .cta-box::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse at 15% 20%, rgba(176, 141, 62, 0.18), transparent 45%),
+        radial-gradient(ellipse at 90% 80%, rgba(61, 107, 107, 0.15), transparent 40%);
+      pointer-events: none;
+    }
+
+    .cta-box > * { position: relative; }
+
+    .cta-box h2 {
+      color: var(--cream);
+      font-size: clamp(1.65rem, 3vw, 2.1rem);
+      margin-bottom: 0.65rem;
+    }
+
+    .cta-box p {
+      color: rgba(247, 243, 235, 0.72);
+      max-width: 28rem;
+      margin: 0 auto 1.5rem;
+      font-size: 1.05rem;
+    }
+
+    /* —— Footer —— */
+    .site-footer {
+      border-top: 1px solid var(--border);
+      padding: 2.75rem 0 2.25rem;
+    }
+
+    .footer-inner {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+
+    .footer-brand .wordmark {
+      font-size: 1.35rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .footer-brand p {
+      font-size: 0.92rem;
+      color: var(--ink-muted);
+      max-width: 18rem;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+
+    .footer-links a {
+      font-size: 0.9rem;
+      color: var(--ink-muted);
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+    .footer-links a:hover { color: var(--ink); }
+
+    .footer-bottom {
+      margin-top: 2rem;
+      padding-top: 1.35rem;
+      border-top: 1px solid var(--border);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 0.75rem;
+      font-size: 0.82rem;
+      color: var(--ink-muted);
+    }
+
+    /* —— Mobile —— */
+    @media (max-width: 900px) {
+      .nav-links { display: none; }
+      .nav-toggle { display: block; }
+
+      .nav-links.open {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        position: absolute;
+        top: 4.25rem;
+        left: 0;
+        right: 0;
+        background: var(--cream);
+        border-bottom: 1px solid var(--border);
+        padding: 1.25rem 1.25rem 1.5rem;
+        gap: 0.85rem;
+        box-shadow: var(--shadow-sm);
+      }
+
+      .nav-links.open .nav-cta {
+        margin-left: 0;
+        align-self: flex-start;
+      }
+
+      .site-header { position: relative; }
+      .site-header.is-open { position: sticky; }
+    }
+
+    @media (max-width: 720px) {
+      .dual-cols { grid-template-columns: 1fr; }
+
+      .dual-col + .dual-col {
+        border-left: none;
+        border-top: 1px solid var(--border);
+      }
+
+      .container,
+      .reader { width: min(100% - 1.75rem, var(--max-wide)); }
+
+      .passage-header { padding: 2.5rem 0 1.85rem; }
+      .verse-text-block { padding: 1.35rem 1.25rem 1.2rem; }
+      .dual-col { padding: 1.2rem 1.25rem 1.35rem; }
+    }
+
+    /* —— Print —— */
+    @media print {
+      .site-header,
+      .nav-toggle,
+      .bottom-cta,
+      .site-footer { display: none !important; }
+
+      body { background: white; color: #000; font-size: 11pt; }
+      .passage-header { background: none; border-bottom: 1px solid #ccc; padding: 1rem 0; }
+      .verse-card {
+        break-inside: avoid;
+        box-shadow: none;
+        border: 1px solid #ccc;
+        margin-bottom: 1rem;
+      }
+      .verse-scripture { font-size: 13pt; }
+      .dual-col p { color: #222; font-size: 10pt; }
+      .key-contrast { background: #f5f5f5; }
+      .disclaimer { border-color: #ccc; background: #f9f9f9; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a href="index.html" class="wordmark">Got<span>Theology</span></a>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16"/>
+        </svg>
+      </button>
+      <nav class="nav-links" id="navLinks" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="index.html#perspectives">Perspectives</a>
+        <a href="index.html#waitlist" class="btn btn-primary btn-nav nav-cta">Get early access</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <header class="passage-header">
+      <div class="reader">
+        <p class="eyebrow">Sample passage</p>
+        <h1>Ephesians 1</h1>
+        <div class="passage-meta">
+          <span>Verses 3–6</span>
+          <span aria-hidden="true">·</span>
+          <span class="pill">ESV</span>
+        </div>
+        <p class="passage-context">Paul’s opening blessing to the Ephesian church—praise that unfolds election, adoption, and grace.</p>
+      </div>
+    </header>
+
+    <div class="reader verse-list">
+
+      <!-- 1:3 -->
+      <article class="verse-card" id="v3">
+        <div class="verse-text-block">
+          <p class="verse-ref">Ephesians 1:3</p>
+          <p class="verse-scripture">
+            <span class="vnum">3</span>Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places,
+          </p>
+        </div>
+        <div class="dual-cols">
+          <div class="dual-col">
+            <span class="dual-label label-arminian">Arminian</span>
+            <p>
+              Paul begins with doxology: God is worthy of blessing because He has already blessed “us”
+              in Christ. The sphere of every spiritual gift is union with the Son—those who are in Him
+              by faith share the riches of heaven’s grace.
+            </p>
+            <p>
+              “In Christ” is the key. Blessings are not scattered at random; they are located in the
+              Messiah. Classical Arminian reading stresses that this union is entered through a genuine
+              response to enabling grace—grace that God freely offers and that people may receive.
+            </p>
+            <p>
+              The verse sets a pastoral tone: whatever follows about choosing and predestining must
+              still sound like praise for a generous Father, not a cold decree.
+            </p>
+          </div>
+          <div class="dual-col">
+            <span class="dual-label label-reformed">Reformed</span>
+            <p>
+              The blessing is Trinitarian in shape and Christ-centered in substance. Every spiritual
+              gift flows from the Father through the Son; the “heavenly places” name the realm where
+              Christ already reigns and where the church’s true life is hid with Him.
+            </p>
+            <p>
+              “Us… in Christ” points to the elect united to the Mediator. Spiritual blessings are not
+              a general pool waiting for whoever claims them; they are secured in the One the Father
+              has given to His people.
+            </p>
+            <p>
+              Reformed readers hear here the ground of assurance: if the Father has blessed us in the
+              Son, the gifts that follow—election, adoption, redemption—rest on God’s prior generosity,
+              not on our initiative.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- 1:4 -->
+      <article class="verse-card" id="v4">
+        <div class="verse-text-block">
+          <p class="verse-ref">Ephesians 1:4</p>
+          <p class="verse-scripture">
+            <span class="vnum">4</span>even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love
+          </p>
+        </div>
+        <div class="dual-cols">
+          <div class="dual-col">
+            <span class="dual-label label-arminian">Arminian</span>
+            <p>
+              “Chose us in him” is often read corporately: God eternally elects the people who will be
+              found in Christ. The Messiah is the elect One; those joined to Him by faith share His
+              chosen status. Election, then, is not an arbitrary sorting of individuals apart from the
+              gospel, but God’s purpose to have a holy people in His Son.
+            </p>
+            <p>
+              Classical Arminians also speak of conditional election: God, foreknowing who would freely
+              believe, chooses them in Christ. Either way, the accent falls on God’s desire for a
+              believing people and on faith as a real human response—enabled by grace, yet not coerced.
+            </p>
+            <p>
+              The purpose clause matters: “that we should be holy and blameless.” Election aims at
+              moral transformation and fellowship with God, not mere privilege. “In love” (often read
+              with what follows) frames the whole as paternal affection, not bare power.
+            </p>
+          </div>
+          <div class="dual-col">
+            <span class="dual-label label-reformed">Reformed</span>
+            <p>
+              The choosing is personal, prior, and unconditional. Before creation—“before the
+              foundation of the world”—God set His love on a people in Christ. The ground is not
+              foreseen faith or future merit, but God’s own good pleasure. Faith is the fruit of
+              election, not its cause.
+            </p>
+            <p>
+              “In him” does not dissolve the elect into a faceless class; it names the sphere of their
+              salvation. They were chosen <em>in</em> the Son who would redeem them. Union with Christ
+              is the means by which eternal election becomes historical blessing.
+            </p>
+            <p>
+              Holiness and blamelessness are the appointed end: God elects unto sanctity. And “in love”
+              (whether attached to v. 4 or v. 5) insists that sovereign choice is warm, not mechanical—
+              the Father’s affection precedes the world’s beginning.
+            </p>
+          </div>
+        </div>
+        <p class="key-contrast">
+          <strong>Key contrast</strong>
+          Arminian readings typically locate the decisive human factor in faith (foreseen or as entry
+          into the elect body in Christ); Reformed readings locate the decisive factor in God’s
+          unconditional choice, with faith as the effectual result.
+        </p>
+      </article>
+
+      <!-- 1:5 -->
+      <article class="verse-card" id="v5">
+        <div class="verse-text-block">
+          <p class="verse-ref">Ephesians 1:5</p>
+          <p class="verse-scripture">
+            <span class="vnum">5</span>he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will,
+          </p>
+        </div>
+        <div class="dual-cols">
+          <div class="dual-col">
+            <span class="dual-label label-arminian">Arminian</span>
+            <p>
+              Predestination here names the destiny God appointed for those in Christ: adoption as
+              sons and daughters. The word does not require that God pick some and pass over others
+              irrespective of faith; it can mean that God marked out beforehand the glorious end of
+              the believing people—full belonging in the household of God.
+            </p>
+            <p>
+              “Through Jesus Christ” keeps the door Christ-shaped. Adoption is not a bare legal
+              status granted apart from the Mediator; it is life in the Son. Grace enables; the Spirit
+              draws; yet that grace remains resistible—so that “adoption” is the promised inheritance
+              of those who do not finally refuse the Father’s call.
+            </p>
+            <p>
+              “According to the purpose of his will” affirms God’s initiative and wisdom without
+              canceling sincere universal love. God wills a family formed in Christ; He does not will
+              that any perish, and His purpose includes genuine human response.
+            </p>
+          </div>
+          <div class="dual-col">
+            <span class="dual-label label-reformed">Reformed</span>
+            <p>
+              Predestination unto adoption is the Father’s sovereign appointment of the elect to
+              sonship. The end is relational and covenantal: not merely pardon, but belonging—heirs
+              with Christ. The decree is particular and certain; those predestined will be brought
+              home.
+            </p>
+            <p>
+              “Through Jesus Christ” ties adoption to the Son’s person and work. Effectual calling and
+              justifying faith are the historical means by which the eternal purpose arrives; they do
+              not create the purpose. Grace here is not merely inviting—it is effectual for those the
+              Father has given to the Son.
+            </p>
+            <p>
+              “According to the purpose of his will” excludes grounding in human foreseen virtue.
+              Consolation follows: if adoption rests on God’s will, it cannot finally be undone by
+              human frailty. Boasting is shut out; praise is opened.
+            </p>
+          </div>
+        </div>
+        <p class="key-contrast">
+          <strong>Key contrast</strong>
+          For Arminians, predestination often describes the foreordained destiny of believers
+          (corporate or conditional); for the Reformed, it is God’s unconditional determination of
+          who will be adopted—grace that prevails, not only enables.
+        </p>
+      </article>
+
+      <!-- 1:6 -->
+      <article class="verse-card" id="v6">
+        <div class="verse-text-block">
+          <p class="verse-ref">Ephesians 1:6</p>
+          <p class="verse-scripture">
+            <span class="vnum">6</span>to the praise of his glorious grace, with which he has blessed us in the Beloved.
+          </p>
+        </div>
+        <div class="dual-cols">
+          <div class="dual-col">
+            <span class="dual-label label-arminian">Arminian</span>
+            <p>
+              The goal of election and adoption is doxology: “the praise of his glorious grace.”
+              God’s purpose is not to showcase raw power but to display a grace so radiant that the
+              church cannot help but worship. That grace is lavished “in the Beloved”—in Jesus, the
+              Father’s dear Son.
+            </p>
+            <p>
+              Arminian readers gladly join this praise. Grace is glorious precisely because it is
+              sincere toward all and sufficient for all who believe. The Father’s favor rests on those
+              found in the Beloved; the invitation remains wide, and every conversion magnifies the
+              kindness that made response possible.
+            </p>
+            <p>
+              Pastoring from this verse means leading people to wonder, not to score points: whatever
+              one’s view of the decree, the right response to grace is thanksgiving.
+            </p>
+          </div>
+          <div class="dual-col">
+            <span class="dual-label label-reformed">Reformed</span>
+            <p>
+              Election and adoption terminate in worship. God predestines “to the praise of his
+              glorious grace”—so that the church’s deepest identity is doxological. Grace is not a
+              backdrop to human achievement; it is the subject of eternal song.
+            </p>
+            <p>
+              “In the Beloved” concentrates everything in Christ. The elect are graced only as they
+              are in the One the Father loves. Reformed theology hears here the exclusivity and
+              sufficiency of the Son: no blessing outside Him, and no failure of grace inside Him.
+            </p>
+            <p>
+              The pastoral note is humility and comfort. If the aim is the praise of grace, then
+              self-reliance is muted and assurance is strengthened—God will have His glory in a people
+              He Himself has blessed.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <aside class="disclaimer" role="note">
+        <strong>About this sample.</strong>
+        Commentary here is written for product demonstration. It is not a substitute for reading
+        primary sources, confessions, or trusted teachers in either tradition. Both Arminian and
+        Reformed families contain internal diversity (Wesleyan, classical Remonstrant, confessional
+        Calvinist, and more). GotTheology aims for fair representation—not a final verdict.
+      </aside>
+    </div>
+
+      <section class="voices" id="voices" aria-labelledby="voices-heading">
+        <div class="voices-intro">
+          <p class="eyebrow">From the tradition</p>
+          <h2 id="voices-heading">Voices from both camps</h2>
+          <p>Historic words from Arminian and Reformed teachers—so you hear each side in its own voice, not a caricature.</p>
+        </div>
+        <div class="voices-grid">
+          <div class="voices-col arminian">
+            <h3><span class="dual-label label-arminian" style="margin:0">Arminian</span> Notable voices</h3>
+            <div class="quote-card">
+              <blockquote>“I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.”</blockquote>
+              <cite><strong>Jacobus Arminius</strong> · Declaration of Sentiments (1608)</cite>
+            </div>
+            <div class="quote-card">
+              <blockquote>“The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.”</blockquote>
+              <cite><strong>John Wesley</strong> · Sermon 128, “Free Grace” (1739)</cite>
+            </div>
+            <div class="quote-card">
+              <blockquote>“That this grace of God is the beginning, continuance, and accomplishment of all good… But as respects the mode of the operation of this grace, it is not irresistible, inasmuch as it is written concerning many, that they have resisted the Holy Spirit.”</blockquote>
+              <cite><strong>The Remonstrance</strong> · Article IV (1610)</cite>
+            </div>
+          </div>
+          <div class="voices-col reformed">
+            <h3><span class="dual-label label-reformed" style="margin:0">Reformed</span> Notable voices</h3>
+            <div class="quote-card">
+              <blockquote>“We call predestination God’s eternal decree, by which he determined with himself what he willed to become of each man. For all are not created in equal condition; rather, eternal life is foreordained for some, eternal damnation for others.”</blockquote>
+              <cite><strong>John Calvin</strong> · Institutes of the Christian Religion 3.21.5</cite>
+            </div>
+            <div class="quote-card">
+              <blockquote>“I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him; and I am sure He chose me before I was born, or else He never would have chosen me afterwards.”</blockquote>
+              <cite><strong>Charles H. Spurgeon</strong> · “A Defense of Calvinism”</cite>
+            </div>
+            <div class="quote-card">
+              <blockquote>“But now that election operates according to grace, there is hope even for the most wretched. If work and reward were the standard of admission into the kingdom of heaven, its gates would be opened for no one.”</blockquote>
+              <cite><strong>Herman Bavinck</strong> · Reformed Dogmatics, vol. 2</cite>
+            </div>
+          </div>
+        </div>
+        <p class="voices-note">Quotations lightly abridged for length; wording follows standard English translations of the sources named.</p>
+      </section>
+
+
+    <section class="bottom-cta" aria-labelledby="cta-heading">
+      <div class="reader">
+        <div class="cta-box">
+          <p class="eyebrow" style="color: var(--gold-soft);">Early access</p>
+          <h2 id="cta-heading">Want this for the whole Bible?</h2>
+          <p>Always free to read (supported by ads). Join the waitlist for verse-by-verse notes—Arminian and Reformed, side by side—kept fair and close to the text.</p>
+          <a href="index.html#waitlist" class="btn btn-gold">Get early access</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <a href="index.html" class="wordmark">Got<span>Theology</span></a>
+          <p>Verse-by-verse theology from the Bible—Arminian and Reformed, side by side. Free to read, supported by ads.</p>
+        </div>
+        <nav class="footer-links" aria-label="Footer">
+          <a href="index.html">Home</a>
+          <a href="index.html#perspectives">Perspectives</a>
+          <a href="index.html#waitlist">Waitlist</a>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 GotTheology. All rights reserved.</span>
+        <span>Sample page · Ephesians 1:3–6</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var toggle = document.getElementById("navToggle");
+      var links = document.getElementById("navLinks");
+      var header = document.querySelector(".site-header");
+      if (!toggle || !links) return;
+      toggle.addEventListener("click", function () {
+        var open = links.classList.toggle("open");
+        toggle.setAttribute("aria-expanded", open ? "true" : "false");
+        header.classList.toggle("is-open", open);
+      });
+      links.querySelectorAll("a").forEach(function (a) {
+        a.addEventListener("click", function () {
+          links.classList.remove("open");
+          header.classList.remove("is-open");
+          toggle.setAttribute("aria-expanded", "false");
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
