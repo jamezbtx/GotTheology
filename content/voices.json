@@ -1,0 +1,40 @@
+{
+  "eyebrow": "From the tradition",
+  "heading": "Voices from both camps",
+  "intro": "Historic words from Arminian and Reformed teachers—so you hear each side in its own voice, not a caricature.",
+  "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+  "arminian": [
+    {
+      "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+      "cite": "Jacobus Arminius",
+      "source": "Declaration of Sentiments (1608)"
+    },
+    {
+      "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+      "cite": "John Wesley",
+      "source": "Sermon 128, “Free Grace” (1739)"
+    },
+    {
+      "quote": "That this grace of God is the beginning, continuance, and accomplishment of all good… But as respects the mode of the operation of this grace, it is not irresistible, inasmuch as it is written concerning many, that they have resisted the Holy Spirit.",
+      "cite": "The Remonstrance",
+      "source": "Article IV (1610)"
+    }
+  ],
+  "reformed": [
+    {
+      "quote": "We call predestination God’s eternal decree, by which he determined with himself what he willed to become of each man. For all are not created in equal condition; rather, eternal life is foreordained for some, eternal damnation for others.",
+      "cite": "John Calvin",
+      "source": "Institutes of the Christian Religion 3.21.5"
+    },
+    {
+      "quote": "I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him; and I am sure He chose me before I was born, or else He never would have chosen me afterwards.",
+      "cite": "Charles H. Spurgeon",
+      "source": "“A Defense of Calvinism”"
+    },
+    {
+      "quote": "But now that election operates according to grace, there is hope even for the most wretched. If work and reward were the standard of admission into the kingdom of heaven, its gates would be opened for no one.",
+      "cite": "Herman Bavinck",
+      "source": "Reformed Dogmatics, vol. 2"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GotTheology passage",
+  "type": "object",
+  "required": [
+    "book",
+    "bookSlug",
+    "chapter",
+    "verses"
+  ],
+  "properties": {
+    "book": {
+      "type": "string"
+    },
+    "bookSlug": {
+      "type": "string"
+    },
+    "chapter": {
+      "type": "integer"
+    },
+    "verseStart": {
+      "type": "integer"
+    },
+    "verseEnd": {
+      "type": "integer"
+    },
+    "translation": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "context": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "eyebrow": {
+      "type": "string"
+    },
+    "disclaimer": {
+      "type": "string"
+    },
+    "showVoices": {
+      "type": "boolean"
+    },
+    "voices": {
+      "type": "object"
+    },
+    "verses": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "number",
+          "text",
+          "arminianNotes",
+          "reformedNotes"
+        ],
+        "properties": {
+          "number": {
+            "type": "integer"
+          },
+          "text": {
+            "type": "string"
+          },
+          "arminianNotes": {
+            "type": "string"
+          },
+          "reformedNotes": {
+            "type": "string"
+          },
+          "keyContrast": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

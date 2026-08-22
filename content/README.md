@@ -1,26 +1,39 @@
 # Content conventions
 
-Future verse pages will be generated from structured files in this tree—not hand-edited HTML forever.
+Authors edit JSON under content/books/. Generated HTML lands in public/bible/.
+See schema.json for the passage shape. Seed: books/ephesians/1/3-6.json.
 
 ## Layout
 
 ```
 content/
-  books/
-    <book-slug>/        # e.g. ephesians, romans
-      <chapter>/          # e.g. 1, 2
-        <verse-range>.json  # e.g. 3-6.json, 1.json
+  books/<book-slug>/<chapter>/<verse-range>.json
+  voices.json
+  schema.json
 ```
 
-- **One folder per book** (lowercase slug).
-- **One folder per chapter** (numeric).
-- **One JSON file per verse range** (or single verse) that a reader page will cover.
+Filename stem becomes the URL stem: `3-6.json` maps to `/bible/ephesians/1/3-6.html`.
 
-## JSON shape (seed)
+## How to add a passage
 
-See `books/ephesians/1/3-6.json` for the sample. Expected fields:
+1. Create `content/books/<bookSlug>/<chapter>/<range>.json` (copy the Ephesians seed).
+2. Fill required fields: `book`, `bookSlug`, `chapter`, `verses[]`.
+3. Run the project build script from the repo root (`package.json` -> `build`).
+4. Confirm the page under `public/bible/...`.
+5. Commit the JSON (and generated HTML if you version `public/`).
 
-- Passage metadata: `book`, `chapter`, `verseStart`, `verseEnd`, `translation`, `title`, `context`
-- `verses[]`: each with `number`, `text`, `arminianNotes`, `reformedNotes`, optional `keyContrast`
+## Required fields
 
-Pages under `public/` are the current prototypes; the long-term path is generate HTML (or hydrate a template) from these files.
+- `book` (string), `bookSlug` (string), `chapter` (number), `verses` (non-empty array)
+- Each verse: `number`, `text`, `arminianNotes`, `reformedNotes`; optional `keyContrast`
+
+## Optional
+
+`verseStart`, `verseEnd`, `translation`, `title`, `context`, `description`, `eyebrow`, `disclaimer`, `showVoices`, `voices`
+
+## Output URLs
+
+- `/bible/<bookSlug>/<chapter>/<start>-<end>.html` (or single number)
+- `/bible/index.html`
+- `public/verse.html` alias for Ephesians 1:3-6
+- `/assets/gottheology.css`
