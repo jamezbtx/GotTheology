@@ -1,0 +1,551 @@
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, "..");
+const CONTENT = path.join(ROOT, "content");
+const BOOKS_DIR = path.join(CONTENT, "books");
+const PUBLIC = path.join(ROOT, "public");
+const BIBLE_OUT = path.join(PUBLIC, "bible");
+const VOICES_PATH = path.join(CONTENT, "voices.json");
+const YEAR = new Date().getFullYear();
+
+function ensureDir(dir) {
+  fs.mkdirSync(dir, { recursive: true });
+}
+
+function escapeHtml(str) {
+  return String(str ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function paragraphsHtml(text) {
+  const raw = String(text ?? "").trim();
+  if (!raw) return "<p></p>";
+  const parts = raw
+    .split(/\n\s*\n/)
+    .map((p) => p.replace(/\s*\n\s*/g, " ").trim())
+    .filter(Boolean);
+  return parts.map((p) => "<p>" + escapeHtml(p) + "</p>").join("\n            ");
+}
+
+function enDashRange(start, end) {
+  if (start === end || end == null) return String(start);
+  return start + "\u2013" + end;
+}
+
+function verseFileStem(verseStart, verseEnd) {
+  if (verseEnd == null || verseEnd === verseStart) return String(verseStart);
+  return verseStart + "-" + verseEnd;
+}
+
+function passageUrl(bookSlug, chapter, verseStart, verseEnd) {
+  return "/bible/" + bookSlug + "/" + chapter + "/" + verseFileStem(verseStart, verseEnd) + ".html";
+}
+
+
+function resolveVerseBounds(data, fileStem) {
+  let verseStart = data.verseStart;
+  let verseEnd = data.verseEnd;
+  if (verseStart == null && Array.isArray(data.verses) && data.verses.length) {
+    const nums = data.verses.map((v) => Number(v.number)).filter((n) => !Number.isNaN(n));
+    verseStart = Math.min(...nums);
+    verseEnd = Math.max(...nums);
+  }
+  if (verseStart == null && fileStem) {
+    const m = String(fileStem).match(/^(\d+)(?:-(\d+))?$/);
+    if (m) {
+      verseStart = Number(m[1]);
+      verseEnd = m[2] ? Number(m[2]) : verseStart;
+    }
+  }
+  if (verseEnd == null) verseEnd = verseStart;
+  return { verseStart, verseEnd };
+}
+
+function validatePassage(data, relPath) {
+  const errors = [];
+  if (!data.book) errors.push("missing book");
+  if (!data.bookSlug) errors.push("missing bookSlug");
+  if (data.chapter == null) errors.push("missing chapter");
+  if (!Array.isArray(data.verses) || data.verses.length === 0) errors.push("missing verses[]");
+  if (errors.length) throw new Error(relPath + ": " + errors.join("; "));
+}
+
+function loadVoicesDefault() {
+  if (!fs.existsSync(VOICES_PATH)) return null;
+  return JSON.parse(fs.readFileSync(VOICES_PATH, "utf8"));
+}
+
+function findPassageFiles(dir, acc = []) {
+  if (!fs.existsSync(dir)) return acc;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) findPassageFiles(full, acc);
+    else if (entry.isFile() && entry.name.endsWith(".json")) acc.push(full);
+  }
+  return acc;
+}
+
+function truncate(s, n) {
+  const t = String(s).trim();
+  if (t.length <= n) return t;
+  return t.slice(0, n - 1).trimEnd() + "\u2026";
+}
+
+
+function renderVoicesSection(voices) {
+  if (!voices) return "";
+  const quoteCards = (list) =>
+    (list || [])
+      .map(
+        (q) => `
+            <div class="quote-card">
+              <blockquote>\u201c${escapeHtml(q.quote)}\u201d</blockquote>
+              <cite><strong>${escapeHtml(q.cite)}</strong> \u00b7 ${escapeHtml(q.source || "")}</cite>
+            </div>`
+      )
+      .join("");
+  const arm = quoteCards(voices.arminian);
+  const ref = quoteCards(voices.reformed);
+  return `
+      <section class="voices" id="voices" aria-labelledby="voices-heading">
+        <div class="reader">
+          <div class="voices-intro">
+            <p class="eyebrow">${escapeHtml(voices.eyebrow || "From the tradition")}</p>
+            <h2 id="voices-heading">${escapeHtml(voices.heading || "Voices from both camps")}</h2>
+            <p>${escapeHtml(voices.intro || "")}</p>
+          </div>
+          <div class="voices-grid">
+            <div class="voices-col arminian">
+              <h3><span class="dual-label label-arminian" style="margin:0">Arminian</span> Notable voices</h3>
+              ${arm}
+            </div>
+            <div class="voices-col reformed">
+              <h3><span class="dual-label label-reformed" style="margin:0">Reformed</span> Notable voices</h3>
+              ${ref}
+            </div>
+          </div>
+          ${voices.note ? `<p class="voices-note">${escapeHtml(voices.note)}</p>` : ""}
+        </div>
+      </section>`;
+}
+
+function renderVerseCard(book, chapter, verse) {
+  const n = verse.number;
+  const contrast = verse.keyContrast
+    ? `
+        <p class="key-contrast">
+          <strong>Key contrast</strong>
+          ${escapeHtml(verse.keyContrast)}
+        </p>`
+    : "";
+  return `
+      <article class="verse-card" id="v${escapeHtml(n)}">
+        <div class="verse-text-block">
+          <p class="verse-ref">${escapeHtml(book)} ${escapeHtml(chapter)}:${escapeHtml(n)}</p>
+          <p class="verse-scripture">
+            <span class="vnum">${escapeHtml(n)}</span>${escapeHtml(verse.text)}
+          </p>
+        </div>
+        <div class="dual-cols">
+          <div class="dual-col">
+            <span class="dual-label label-arminian">Arminian</span>
+            ${paragraphsHtml(verse.arminianNotes)}
+          </div>
+          <div class="dual-col">
+            <span class="dual-label label-reformed">Reformed</span>
+            ${paragraphsHtml(verse.reformedNotes)}
+          </div>
+        </div>${contrast}
+      </article>`;
+}
+
+function renderPassagePage(data, opts) {
+  const book = data.book;
+  const bookSlug = data.bookSlug;
+  const chapter = data.chapter;
+  const verseStart = data.verseStart;
+  const verseEnd = data.verseEnd;
+  const translation = data.translation || "ESV";
+  const context = data.context || "";
+  const verses = data.verses;
+  const eyebrow = data.eyebrow || "Sample passage";
+  const rangeLabel = enDashRange(verseStart, verseEnd);
+  const pageTitle = data.title || (book + " " + chapter + ":" + rangeLabel);
+  const desc =
+    data.description ||
+    ("Verse-by-verse Arminian and Reformed commentary on " + pageTitle + ". Free to read on GotTheology.");
+  const displayDisclaimer =
+    data.disclaimer ||
+    `<strong>About this sample.</strong>
+        Commentary here is written for product demonstration. It is not a substitute for reading
+        primary sources, confessions, or trusted teachers in either tradition. Both Arminian and
+        Reformed families contain internal diversity (Wesleyan, classical Remonstrant, confessional
+        Calvinist, and more). GotTheology aims for fair representation\u2014not a final verdict.`;
+
+  const verseCards = verses.map((v) => renderVerseCard(book, chapter, v)).join("\n");
+  const voicesHtml = opts.voices ? renderVoicesSection(opts.voices) : "";
+  const canonicalPath = opts.canonicalPath || passageUrl(bookSlug, chapter, verseStart, verseEnd);
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <title>${escapeHtml(pageTitle)} \u2014 GotTheology</title>
+  <meta name="description" content="${escapeHtml(desc)}" />
+  <link rel="canonical" href="${escapeHtml(canonicalPath)}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/gottheology.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a href="/index.html" class="wordmark">Got<span>Theology</span></a>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16"/>
+        </svg>
+      </button>
+      <nav class="nav-links" id="navLinks" aria-label="Primary">
+        <a href="/index.html">Home</a>
+        <a href="/bible/index.html">Bible</a>
+        <a href="/index.html#perspectives">Perspectives</a>
+        <a href="/index.html#waitlist" class="btn btn-primary btn-nav nav-cta">Get early access</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <header class="passage-header">
+      <div class="reader">
+        <p class="eyebrow">${escapeHtml(eyebrow)}</p>
+        <h1>${escapeHtml(book)} ${escapeHtml(chapter)}</h1>
+        <div class="passage-meta">
+          <span>Verse${verseStart === verseEnd ? "" : "s"} ${escapeHtml(rangeLabel)}</span>
+          <span aria-hidden="true">\u00b7</span>
+          <span class="pill">${escapeHtml(translation)}</span>
+        </div>
+        ${context ? `<p class="passage-context">${escapeHtml(context)}</p>` : ""}
+      </div>
+    </header>
+
+    <div class="reader verse-list">
+${verseCards}
+
+      <aside class="ad-slot ad-slot-narrow" aria-label="Advertisement">
+        <span class="ad-label">Advertisement</span>
+        <div class="ad-frame ad-frame--leader" data-ad-slot="verse-after-notes">
+          <span>Ad slot \u00b7 kept below the verse notes \u00b7 <strong>728\u00d790</strong></span>
+        </div>
+      </aside>
+
+      <aside class="disclaimer" role="note">
+        ${displayDisclaimer}
+      </aside>
+    </div>
+${voicesHtml}
+
+      <aside class="ad-slot ad-slot-narrow" aria-label="Advertisement">
+        <span class="ad-label">Advertisement</span>
+        <div class="ad-frame ad-frame--rect" data-ad-slot="verse-before-cta">
+          <span>Ad slot \u00b7 <strong>300\u00d7250</strong></span>
+        </div>
+      </aside>
+
+    <section class="bottom-cta" aria-labelledby="cta-heading">
+      <div class="reader">
+        <div class="cta-box">
+          <p class="eyebrow" style="color: var(--gold-soft);">Early access</p>
+          <h2 id="cta-heading">Want this for the whole Bible?</h2>
+          <p>Always free to read (supported by ads). Join the waitlist for verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
+          <a href="/index.html#waitlist" class="btn btn-gold">Get early access</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <a href="/index.html" class="wordmark">Got<span>Theology</span></a>
+          <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>
+        </div>
+        <nav class="footer-links" aria-label="Footer">
+          <a href="/index.html">Home</a>
+          <a href="/bible/index.html">Bible</a>
+          <a href="/index.html#perspectives">Perspectives</a>
+          <a href="/index.html#waitlist">Waitlist</a>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <span>\u00a9 ${YEAR} GotTheology. All rights reserved.</span>
+        <span>${escapeHtml(pageTitle)}</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var toggle = document.getElementById("navToggle");
+      var links = document.getElementById("navLinks");
+      var header = document.querySelector(".site-header");
+      if (!toggle || !links) return;
+      toggle.addEventListener("click", function () {
+        var open = links.classList.toggle("open");
+        toggle.setAttribute("aria-expanded", open ? "true" : "false");
+        header.classList.toggle("is-open", open);
+      });
+      links.querySelectorAll("a").forEach(function (a) {
+        a.addEventListener("click", function () {
+          links.classList.remove("open");
+          header.classList.remove("is-open");
+          toggle.setAttribute("aria-expanded", "false");
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
+`;
+}
+
+function renderBibleIndex(passages) {
+  const byBook = new Map();
+  for (const p of passages) {
+    if (!byBook.has(p.book)) byBook.set(p.book, []);
+    byBook.get(p.book).push(p);
+  }
+
+  const booksHtml = [...byBook.entries()]
+    .sort((a, b) => a[0].localeCompare(b[0]))
+    .map(([book, items]) => {
+      const sorted = [...items].sort((a, b) => {
+        if (a.chapter !== b.chapter) return a.chapter - b.chapter;
+        return a.verseStart - b.verseStart;
+      });
+      const lis = sorted
+        .map((item) => {
+          const range = enDashRange(item.verseStart, item.verseEnd);
+          const label = item.book + " " + item.chapter + ":" + range;
+          const meta = [item.translation, item.context ? truncate(item.context, 90) : null]
+            .filter(Boolean)
+            .join(" \u00b7 ");
+          const metaHtml = meta
+            ? '<span class="meta">' + escapeHtml(meta) + "</span>"
+            : "";
+          return (
+            '<li><a href="' +
+            escapeHtml(item.url) +
+            '"><span class="ref">' +
+            escapeHtml(label) +
+            "</span>" +
+            metaHtml +
+            "</a></li>"
+          );
+        })
+        .join("\n          ");
+      return (
+        '\n      <section class="book-block">\n        <h2>' +
+        escapeHtml(book) +
+        '</h2>\n        <ul class="passage-list">\n          ' +
+        lis +
+        "\n        </ul>\n      </section>"
+      );
+    })
+    .join("\n");
+
+  const empty =
+    '<p class="empty-state">No passages yet. Add JSON under <code>content/books/</code> and run the build script.</p>';
+  const body = passages.length === 0 ? empty : booksHtml;
+
+  return [
+    "<!DOCTYPE html>",
+    '<html lang="en">',
+    "<head>",
+    '  <meta charset="UTF-8" />',
+    '  <meta name="viewport" content="width=device-width, initial-scale=1.0" />',
+    '  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />',
+    "  <title>Bible Index \u2014 GotTheology</title>",
+    '  <meta name="description" content="Browse free verse-by-verse Arminian and Reformed commentary on GotTheology." />',
+    '  <link rel="preconnect" href="https://fonts.googleapis.com" />',
+    '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />',
+    '  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />',
+    '  <link rel="stylesheet" href="/assets/gottheology.css" />',
+    "</head>",
+    "<body>",
+    '  <header class="site-header">',
+    '    <div class="container nav">',
+    '      <a href="/index.html" class="wordmark">Got<span>Theology</span></a>',
+    '      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">',
+    '        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">',
+    '          <path d="M4 7h16M4 12h16M4 17h16"/>',
+    "        </svg>",
+    "      </button>",
+    '      <nav class="nav-links" id="navLinks" aria-label="Primary">',
+    '        <a href="/index.html">Home</a>',
+    '        <a href="/bible/index.html">Bible</a>',
+    '        <a href="/index.html#perspectives">Perspectives</a>',
+    '        <a href="/index.html#waitlist" class="btn btn-primary btn-nav nav-cta">Get early access</a>',
+    "      </nav>",
+    "    </div>",
+    "  </header>",
+    '  <main class="bible-index">',
+    '    <div class="reader">',
+    '      <div class="page-intro">',
+    '        <p class="eyebrow">Free to read</p>',
+    "        <h1>Bible passages</h1>",
+    "        <p>Arminian and Reformed notes side by side\u2014supported by ads, never paywalled.</p>",
+    "      </div>",
+    body,
+    "    </div>",
+    "  </main>",
+    '  <footer class="site-footer">',
+    '    <div class="container">',
+    '      <div class="footer-inner">',
+    '        <div class="footer-brand">',
+    '          <a href="/index.html" class="wordmark">Got<span>Theology</span></a>',
+    "          <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>",
+    "        </div>",
+    '        <nav class="footer-links" aria-label="Footer">',
+    '          <a href="/index.html">Home</a>',
+    '          <a href="/bible/index.html">Bible</a>',
+    '          <a href="/index.html#waitlist">Waitlist</a>',
+    "        </nav>",
+    "      </div>",
+    '      <div class="footer-bottom">',
+    "        <span>\u00a9 " + YEAR + " GotTheology. All rights reserved.</span>",
+    "        <span>Bible index</span>",
+    "      </div>",
+    "    </div>",
+    "  </footer>",
+    "  <script>",
+    "    (function () {",
+    '      var toggle = document.getElementById("navToggle");',
+    '      var links = document.getElementById("navLinks");',
+    '      var header = document.querySelector(".site-header");',
+    "      if (!toggle || !links) return;",
+    '      toggle.addEventListener("click", function () {',
+    '        var open = links.classList.toggle("open");',
+    '        toggle.setAttribute("aria-expanded", open ? "true" : "false");',
+    '        header.classList.toggle("is-open", open);',
+    "      });",
+    '      links.querySelectorAll("a").forEach(function (a) {',
+    '        a.addEventListener("click", function () {',
+    '          links.classList.remove("open");',
+    '          header.classList.remove("is-open");',
+    '          toggle.setAttribute("aria-expanded", "false");',
+    "        });",
+    "      });",
+    "    })();",
+    "  </script>",
+    "</body>",
+    "</html>",
+    "",
+  ].join("\n");
+}
+
+function cleanGeneratedBibleTree() {
+  if (fs.existsSync(BIBLE_OUT)) {
+    fs.rmSync(BIBLE_OUT, { recursive: true, force: true });
+  }
+  ensureDir(BIBLE_OUT);
+}
+
+function main() {
+  ensureDir(path.join(PUBLIC, "assets"));
+  if (!fs.existsSync(path.join(PUBLIC, "assets", "gottheology.css"))) {
+    console.warn("Warning: public/assets/gottheology.css missing.");
+  }
+
+  cleanGeneratedBibleTree();
+
+  const siteVoices = loadVoicesDefault();
+  const files = findPassageFiles(BOOKS_DIR).sort();
+  const passages = [];
+  let sampleAliasHtml = null;
+
+  console.log("Found " + files.length + " passage file(s).");
+
+  for (const file of files) {
+    const rel = path.relative(ROOT, file);
+    let data;
+    try {
+      data = JSON.parse(fs.readFileSync(file, "utf8"));
+    } catch (err) {
+      throw new Error(rel + ": invalid JSON (" + err.message + ")");
+    }
+
+    validatePassage(data, rel);
+    const fileStem = path.basename(file, ".json");
+    const bounds = resolveVerseBounds(data, fileStem);
+    data.verseStart = bounds.verseStart;
+    data.verseEnd = bounds.verseEnd;
+
+    let voices = null;
+    if (data.voices) voices = data.voices;
+    else if (data.showVoices === false) voices = null;
+    else voices = siteVoices;
+
+    const url = passageUrl(data.bookSlug, data.chapter, data.verseStart, data.verseEnd);
+    const outPath = path.join(PUBLIC, url.replace(/^\//, ""));
+    ensureDir(path.dirname(outPath));
+
+    const html = renderPassagePage(data, { voices, canonicalPath: url });
+    fs.writeFileSync(outPath, html, "utf8");
+    console.log("  wrote " + path.relative(ROOT, outPath));
+
+    passages.push({
+      book: data.book,
+      bookSlug: data.bookSlug,
+      chapter: Number(data.chapter),
+      verseStart: data.verseStart,
+      verseEnd: data.verseEnd,
+      translation: data.translation || "ESV",
+      title:
+        data.title ||
+        data.book + " " + data.chapter + ":" + enDashRange(data.verseStart, data.verseEnd),
+      context: data.context || "",
+      url,
+    });
+
+    if (
+      data.bookSlug === "ephesians" &&
+      Number(data.chapter) === 1 &&
+      Number(data.verseStart) === 3 &&
+      Number(data.verseEnd) === 6
+    ) {
+      sampleAliasHtml = html;
+    }
+  }
+
+  const indexPath = path.join(BIBLE_OUT, "index.html");
+  fs.writeFileSync(indexPath, renderBibleIndex(passages), "utf8");
+  console.log("  wrote " + path.relative(ROOT, indexPath));
+
+  if (sampleAliasHtml) {
+    const aliasPath = path.join(PUBLIC, "verse.html");
+    fs.writeFileSync(aliasPath, sampleAliasHtml, "utf8");
+    console.log("  wrote " + path.relative(ROOT, aliasPath) + " (Ephesians alias)");
+  } else {
+    console.warn("  note: no Ephesians 1:3-6; left public/verse.html unchanged");
+  }
+
+  console.log("Done. " + passages.length + " passage page(s) + bible index.");
+}
+
+try {
+  main();
+} catch (err) {
+  console.error("Build failed:", err.message || err);
+  process.exit(1);
+}
