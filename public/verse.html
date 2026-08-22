@@ -461,6 +461,43 @@
     }
 
     /* —— Footer —— */
+
+    /* —— Ad slots (placeholders until network code is wired) —— */
+    .ad-slot {
+      width: min(100% - 2.5rem, var(--max, 1120px));
+      margin: 2.25rem auto;
+      text-align: center;
+    }
+    .ad-slot.ad-slot-narrow {
+      width: min(100% - 2.5rem, 880px);
+    }
+    .ad-label {
+      display: block;
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-muted);
+      margin-bottom: 0.45rem;
+      opacity: 0.75;
+    }
+    .ad-frame {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 90px;
+      padding: 1rem 1.25rem;
+      border: 1px dashed rgba(15, 28, 46, 0.18);
+      border-radius: 12px;
+      background: rgba(15, 28, 46, 0.03);
+      color: var(--ink-muted);
+      font-size: 0.92rem;
+      line-height: 1.45;
+    }
+    .ad-frame strong { color: var(--ink-soft); font-weight: 600; }
+    .ad-frame--leader { min-height: 90px; }
+    .ad-frame--rect { min-height: 250px; max-width: 300px; margin-inline: auto; }
+
     .site-footer {
       border-top: 1px solid var(--border);
       padding: 2.75rem 0 2.25rem;
@@ -821,6 +858,14 @@
         </div>
       </article>
 
+
+      <aside class="ad-slot ad-slot-narrow" aria-label="Advertisement">
+        <span class="ad-label">Advertisement</span>
+        <div class="ad-frame ad-frame--leader" data-ad-slot="verse-after-notes">
+          <span>Ad slot · kept below the verse notes · <strong>728×90</strong></span>
+        </div>
+      </aside>
+
       <aside class="disclaimer" role="note">
         <strong>About this sample.</strong>
         Commentary here is written for product demonstration. It is not a substitute for reading
@@ -871,6 +916,14 @@
         <p class="voices-note">Quotations lightly abridged for length; wording follows standard English translations of the sources named.</p>
       </section>
 
+
+
+      <aside class="ad-slot ad-slot-narrow" aria-label="Advertisement">
+        <span class="ad-label">Advertisement</span>
+        <div class="ad-frame ad-frame--rect" data-ad-slot="verse-before-cta">
+          <span>Ad slot · <strong>300×250</strong></span>
+        </div>
+      </aside>
 
     <section class="bottom-cta" aria-labelledby="cta-heading">
       <div class="reader">
