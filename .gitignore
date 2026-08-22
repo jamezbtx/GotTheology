@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.png
+*.screenshot.html
+voices-only.html
+.vercel
+.netlify
+dist/

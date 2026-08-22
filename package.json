@@ -1,0 +1,10 @@
+{
+  "name": "gottheology",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Free verse-by-verse Arminian + Reformed theology, ad-supported static site",
+  "scripts": {
+    "start": "npx --yes serve public -p 4173",
+    "build": "echo 'Static site; public/ is the build output'"
+  }
+}
