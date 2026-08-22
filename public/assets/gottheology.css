@@ -1,3 +1,25 @@
+/* Text selection — keep copy/paste easy */
+html, body {
+  -webkit-user-select: text;
+  user-select: text;
+}
+p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
+.lede, .hero-note, .dual-col p, .dual-card-verse, .eyebrow,
+.wordmark, .problem-point span, .problem-point strong,
+.step p, .step h3, .form-note, .footer-brand p {
+  -webkit-user-select: text;
+  user-select: text;
+  -webkit-touch-callout: default;
+}
+::selection {
+  background: rgba(176, 141, 62, 0.35);
+  color: var(--ink, #0f1c2e);
+}
+::-moz-selection {
+  background: rgba(176, 141, 62, 0.35);
+  color: var(--ink, #0f1c2e);
+}
+
 :root {
       --ink: #0f1c2e;
       --ink-soft: #1a2d45;
