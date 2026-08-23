@@ -270,7 +270,7 @@ function renderPassagePage(data, opts) {
   const translation = data.translation || "ESV";
   const context = data.context || "";
   const verses = data.verses;
-  const eyebrow = data.eyebrow || "Sample passage";
+  const eyebrow = data.eyebrow || "Passage";
   const rangeLabel = enDashRange(verseStart, verseEnd);
   const pageTitle = data.title || (book + " " + chapter + ":" + rangeLabel);
   const desc =
@@ -285,8 +285,8 @@ function renderPassagePage(data, opts) {
         ". Free to read on GotTheology.");
   const displayDisclaimer =
     data.disclaimer ||
-    `<strong>About this sample.</strong>
-        Commentary here is written for product demonstration. It is not a substitute for reading
+    `<strong>About these notes.</strong>
+        Commentary here is pastoral and educational. It is not a substitute for reading
         primary sources, confessions, or trusted teachers in either tradition. Both Arminian and
         Reformed families contain internal diversity (Wesleyan, classical Remonstrant, confessional
         Calvinist, and more). GotTheology aims for fair representation\u2014not a final verdict.`;
@@ -330,7 +330,7 @@ function renderPassagePage(data, opts) {
         <a href="/index.html">Home</a>
         <a href="/bible/index.html">Bible</a>
         <a href="/index.html#perspectives">Perspectives</a>
-        <a href="/index.html#waitlist" class="btn btn-primary btn-nav nav-cta">Get early access</a>
+        <a href="/bible/index.html" class="btn btn-primary btn-nav nav-cta">Browse Bible</a>
       </nav>
     </div>
   </header>
@@ -375,10 +375,10 @@ ${voicesHtml}
     <section class="bottom-cta" aria-labelledby="cta-heading">
       <div class="reader">
         <div class="cta-box">
-          <p class="eyebrow" style="color: var(--gold-soft);">Early access</p>
-          <h2 id="cta-heading">Want this for the whole Bible?</h2>
-          <p>Always free to read (supported by ads). Join the waitlist for verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
-          <a href="/index.html#waitlist" class="btn btn-gold">Get early access</a>
+          <p class="eyebrow" style="color: var(--gold-soft);">Keep reading</p>
+          <h2 id="cta-heading">More of Matthew is live</h2>
+          <p>Always free to read (supported by ads). Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
+          <a href="/bible/index.html" class="btn btn-gold">Browse the Bible</a>
         </div>
       </div>
     </section>
@@ -388,18 +388,18 @@ ${voicesHtml}
     <div class="container">
       <div class="footer-inner">
         <div class="footer-brand">
-          <a href="/index.html" class="wordmark">Got<span>Theology</span></a>
+          <a href="/index.html" class="wordmark">Got<span>Theology</span>.com</a>
           <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>
         </div>
         <nav class="footer-links" aria-label="Footer">
           <a href="/index.html">Home</a>
           <a href="/bible/index.html">Bible</a>
           <a href="/index.html#perspectives">Perspectives</a>
-          <a href="/index.html#waitlist">Waitlist</a>
+          <a href="/index.html#waitlist">Updates</a>
         </nav>
       </div>
       <div class="footer-bottom">
-        <span>\u00a9 ${YEAR} GotTheology. All rights reserved.</span>
+        <span>\u00a9 ${YEAR} GotTheology.com. All rights reserved.</span>
         <span>${escapeHtml(pageTitle)}</span>
       </div>
     </div>
@@ -543,7 +543,7 @@ function renderBibleIndex(passages) {
     '        <a href="/index.html">Home</a>',
     '        <a href="/bible/index.html">Bible</a>',
     '        <a href="/index.html#perspectives">Perspectives</a>',
-    '        <a href="/index.html#waitlist" class="btn btn-primary btn-nav nav-cta">Get early access</a>',
+    '        <a href="/bible/index.html" class="btn btn-primary btn-nav nav-cta">Browse Bible</a>',
     "      </nav>",
     "    </div>",
     "  </header>",
@@ -571,17 +571,17 @@ function renderBibleIndex(passages) {
     '    <div class="container">',
     '      <div class="footer-inner">',
     '        <div class="footer-brand">',
-    '          <a href="/index.html" class="wordmark">Got<span>Theology</span></a>',
+    '          <a href="/index.html" class="wordmark">Got<span>Theology</span>.com</a>',
     "          <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>",
     "        </div>",
     '        <nav class="footer-links" aria-label="Footer">',
     '          <a href="/index.html">Home</a>',
     '          <a href="/bible/index.html">Bible</a>',
-    '          <a href="/index.html#waitlist">Waitlist</a>',
+    '          <a href="/index.html#waitlist">Updates</a>',
     "        </nav>",
     "      </div>",
     '      <div class="footer-bottom">',
-    "        <span>\u00a9 " + YEAR + " GotTheology. All rights reserved.</span>",
+    "        <span>\u00a9 " + YEAR + " GotTheology.com. All rights reserved.</span>",
     "        <span>Bible index</span>",
     "      </div>",
     "    </div>",
