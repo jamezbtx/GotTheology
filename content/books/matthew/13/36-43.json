@@ -1,0 +1,93 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 13,
+  "verseStart": 36,
+  "verseEnd": 43,
+  "translation": "ESV",
+  "title": "Matthew 13:36–43",
+  "context": "Leaving the crowds, Jesus enters the house and explains the weeds parable to the disciples: Son of Man, world-field, sons of kingdom and of the evil one, end-of-age harvest by angels, fiery judgment, and the righteous shining in the Father’s kingdom.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on judgment, the two humanities, and final glory—so each camp speaks in its own voice beside the weeds’ explanation.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      },
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We call predestination God’s eternal decree, by which he determined with himself what he willed to become of each man. For all are not created in equal condition; rather, eternal life is foreordained for some, eternal damnation for others.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.21.5"
+      },
+      {
+        "quote": "The holy catholic or universal church… is the kingdom of the Lord Jesus Christ… There has always been, is, and will be a church of God on earth, which God protects and preserves against the rage of the whole world.",
+        "cite": "Belgic Confession",
+        "source": "Article 27 (1561)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 36,
+      "text": "Then he left the crowds and went into the house. And his disciples came to him, saying, “Explain to us the parable of the weeds of the field.”",
+      "arminianNotes": "Jesus leaves crowds for the house; disciples ask for explanation. Private clarity follows public parable—learners who want understanding draw near.\n\nClassical Arminians commend this hunger: grace invites asking. The church still comes indoors to Christ’s word for light on hard kingdom stories.",
+      "reformedNotes": "Withdrawal and request mark privileged instruction. Explanation is given to those Christ has drawn into the house.\n\nReformed framing: illumination is granted in Christ’s school. The same Lord who spoke in riddles to the throng opens meaning to His own."
+    },
+    {
+      "number": 37,
+      "text": "He answered, “The one who sows the good seed is the Son of Man.",
+      "arminianNotes": "Identity first: the sower of good seed is the Son of Man. Kingdom planting is Jesus’ own work—Messianic, personal, authoritative.\n\nArminian confidence: the field is not abandoned to chance. Grace trusts the Son who sows; mission joins His planting rather than inventing another seed.",
+      "reformedNotes": "Christ identifies Himself as the sower. The kingdom’s good seed originates in the Son of Man’s action.\n\nReformed comfort: ownership and agency rest in Jesus. What grows as wheat grows because He planted; the parable’s center is His person."
+    },
+    {
+      "number": 38,
+      "text": "The field is the world, and the good seed is the sons of the kingdom. The weeds are the sons of the evil one,",
+      "arminianNotes": "Field equals world—not merely a local plot. Good seed are sons of the kingdom; weeds are sons of the evil one. Two humanities share one stage until harvest.\n\nClassical Arminians hear global scope and moral seriousness. Grace still calls people out of the evil one’s lineage into kingdom sonship; the categories are real, and the invitation to become wheat remains urgent.",
+      "reformedNotes": "World-field, kingdom sons, evil one’s sons—Christ names antithesis inside history. Mixture is cosmic, not accidental.\n\nReformed clarity: belonging is defined by spiritual parentage under God’s decree. The parable does not flatten humanity into neutrality; it reveals two seeds in one field.",
+      "keyContrast": "Both affirm a real antithesis between kingdom sons and the evil one’s sons in the world. Arminians typically stress a sincere, grace-enabled call that people may enter kingdom sonship; Reformed readers typically stress God’s sovereign constituting of the two humanities according to election and reprobation."
+    },
+    {
+      "number": 39,
+      "text": "and the enemy who sowed them is the devil. The harvest is the end of the age, and the reapers are angels.",
+      "arminianNotes": "Enemy equals the devil; harvest equals the end of the age; reapers are angels. Personal evil and personal finale frame the story—history is not endless ambiguity.\n\nArminian pastoral use: resist the devil, hope in the end, leave angelic sorting to God. Grace sustains holy living in a mixed world without pretending evil is imaginary.",
+      "reformedNotes": "Devil, end of the age, angels—Christ fills in the cast and the calendar. Final harvest is appointed, not negotiated.\n\nReformed sobriety: eschatology belongs to God’s decree. Angelic reapers serve the Son’s timetable; the church’s present task is faithfulness, not seizing the sickle early."
+    },
+    {
+      "number": 40,
+      "text": "Just as the weeds are gathered and burned with fire, so will it be at the end of the age.",
+      "arminianNotes": "Analogy becomes prophecy: weed-burning pictures the end of the age. Judgment is certain, vivid, and moral—not a scare tactic without substance.\n\nClassical Arminians preach this as real warning that accompanies real offer. Grace invites repentance now because fire then is not bluff; love tells the truth about the end.",
+      "reformedNotes": "“So will it be” locks the analogy to future fact. Gathering and burning await the age’s close.\n\nReformed gravity: God’s justice will match the parable’s image. Sovereignty guarantees both the timing and the reality of final judgment."
+    },
+    {
+      "number": 41,
+      "text": "The Son of Man will send his angels, and they will gather out of his kingdom all causes of sin and all law-breakers,",
+      "arminianNotes": "The Son of Man sends His angels to gather out of His kingdom every cause of sin and all law-breakers. The kingdom is His; cleansing is thorough.\n\nArminian holiness note: grace that saves also aims at a purged people. Present discipleship takes sin seriously because the King’s future purge is real—and because mercy still calls law-breakers to turn before that day.",
+      "reformedNotes": "Christ commands angelic purge of His kingdom—causes of sin and law-breakers removed. Authority and purity meet at the end.\n\nReformed assurance: the kingdom’s final state is holy because the Son makes it so. Present mixture does not define eternity; His sending settles the field.",
+      "keyContrast": "Both affirm Christ’s thorough final purge of evil from His kingdom. Arminians typically couple the warning with a sincere present call to repentance; Reformed readers typically couple it with certainty that the Son will effectually cleanse His kingdom according to the Father’s purpose."
+    },
+    {
+      "number": 42,
+      "text": "and throw them into the fiery furnace. In that place there will be weeping and gnashing of teeth.",
+      "arminianNotes": "Fiery furnace, weeping, and gnashing of teeth—Jesus will not soften the end of unrepentant law-breaking. Anguish language is deliberate.\n\nClassical Arminians refuse both denial and delight in damnation. Grace warns because God would heal; the furnace stands as the alternative to turning while the invitation still stands.",
+      "reformedNotes": "Judgment imagery is Jesus’ own. Weeping and gnashing describe conscious misery under righteous sentence.\n\nReformed confession: hell is not metaphor for mild disappointment. The Son who saves also judges; justice and mercy are both His."
+    },
+    {
+      "number": 43,
+      "text": "Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear.",
+      "arminianNotes": "After purge comes glory: the righteous shine like the sun in the Father’s kingdom. Destiny for the wheat is radiant belonging, not mere survival.\n\nArminian summons closes with “let him hear.” Grace enables hearing that leads to shining; the beatitude of future light presses present response to the Son’s word.",
+      "reformedNotes": "Righteous ones shine in the Father’s kingdom—public, brilliant joy after separation. The parable ends in doxology as much as warning.\n\nReformed hope: glorification is God’s gift to those He counts righteous in Christ. Ears to hear this promise are themselves mercy; the summons stands under sovereign grace.",
+      "keyContrast": "Both celebrate the righteous shining in the Father’s kingdom and treat the closing summons as serious. Arminians typically hear a grace-enabled call to become among the shining; Reformed readers typically hear a promise God effectually fulfills for the elect He gives ears to hear."
+    }
+  ]
+}

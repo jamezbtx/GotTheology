@@ -1,0 +1,141 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 25,
+  "verseStart": 31,
+  "verseEnd": 46,
+  "translation": "ESV",
+  "title": "Matthew 25:31–46",
+  "context": "Jesus ends the discourse with the Son of Man in glory, angels, and a throne of judgment over all nations. Sheep and goats are separated; the King identifies with ‘the least of these’ in hunger, thirst, strangerhood, nakedness, sickness, and prison. Eternal punishment and eternal life close the chapter—mercy’s fruit revealed, not a rival gospel.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on faith’s fruit, judgment, and love for the needy—so each camp speaks in its own voice beside the sheep and the goats.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Faith working by love… is the essence… of all true religion… We know that the whole of religion is contained in the love of God and of our neighbour.",
+        "cite": "John Wesley",
+        "source": "Sermon 91, “On Charity”"
+      },
+      {
+        "quote": "I know, the saints who will be placed before the tribunal of the Divine Justice, have had Faith, and through Faith have performed good Works. But… they appear and stand before God with this confidence… that God has set forth his Son Jesus Christ as a propitiation through Faith in his blood… I do not read, that Christ is constituted a propitiation through Works… that we may also be justified by Works.",
+        "cite": "Jacobus Arminius",
+        "source": "Works, Vol. 1 (on justification / faith and works)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Christ does not say that the works are the cause of salvation, but the tokens… by which we may know who are the children of God… God will acknowledge those works as done to himself.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 25:35–40)"
+      },
+      {
+        "quote": "Faith… is the alone instrument of justification; yet… is not alone in the person justified, but is ever accompanied with all other saving graces, and is no dead faith, but works by love.",
+        "cite": "Westminster Confession of Faith",
+        "source": "11.2 (1647)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 31,
+      "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne.",
+      "arminianNotes": "Glory, angels, throne—the Son of Man as King-Judge. The meek teacher now sits in open majesty.\n\nArminian awe: the same Jesus who invites also judges. Grace makes the throne good news for those who trust Him.",
+      "reformedNotes": "Parousia glory and judicial session. Christ alone occupies the glorious throne.\n\nReformed certainty: the Judge is the crucified and risen Son. History bends toward His bench."
+    },
+    {
+      "number": 32,
+      "text": "Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats.",
+      "arminianNotes": "All nations gathered; shepherd-separation of sheep and goats.\n\nArminian mission weight: the nations truly stand before Him. The gospel’s call matters because this sorting is real.",
+      "reformedNotes": "Universal assembly, personal separation. Shepherd imagery makes the Judge intimate and decisive.\n\nReformed gravity: God distinguishes peoples one from another with shepherd certainty."
+    },
+    {
+      "number": 33,
+      "text": "And he will place the sheep on his right, but the goats on the left.",
+      "arminianNotes": "Right and left—honored place versus rejection’s side.\n\nArminian clarity: destination language is not metaphor only. Choose the Shepherd’s voice now.",
+      "reformedNotes": "Placement is the King’s act before the sentences are spoken.\n\nReformed note: verdict begins in where He sets you."
+    },
+    {
+      "number": 34,
+      "text": "Then the King will say to those on his right, 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world.",
+      "arminianNotes": "Blessed by the Father, inherit a kingdom prepared from the foundation.\n\nArminian joy: inheritance language keeps salvation gift, even as works will be cited as evidence. Prepared kingdom means grace older than our charity.",
+      "reformedNotes": "Father’s blessing, prepared kingdom, foundation of the world—election’s warmth under inheritance speech.\n\nReformed comfort: the kingdom is prepared before our works. Sheep receive what God planned.",
+      "keyContrast": "Both hear gift in ‘inherit’ and ‘prepared.’ Arminians typically hold preparation together with a real history of enabled mercy; Reformed readers typically stress eternal preparation and works as evidences, not purchase price."
+    },
+    {
+      "number": 35,
+      "text": "For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me,",
+      "arminianNotes": "Hunger, thirst, stranger—met with food, drink, welcome.\n\nArminian discipleship: love of neighbor is not optional garnish. Grace that saves creates concrete mercy.",
+      "reformedNotes": "The King lists embodied cares. Faith’s fruit wears ordinary kindness.\n\nReformed pattern: the righteous are known by mercies that mirror the King’s heart."
+    },
+    {
+      "number": 36,
+      "text": "I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'",
+      "arminianNotes": "Naked, sick, prison—clothing, visiting, coming near.\n\nArminian pastoral: costly presence is kingdom work. Grace pushes toward the overlooked.",
+      "reformedNotes": "Visitation and clothing continue the evidence trail.\n\nReformed note: holiness is social as well as vertical—love of the least under Christ’s claim."
+    },
+    {
+      "number": 37,
+      "text": "Then the righteous will answer him, saying, 'Lord, when did we see you hungry and feed you, or thirsty and give you drink?",
+      "arminianNotes": "The righteous are surprised—they did not keep a scorecard of feeding the King.\n\nArminian beauty: true mercy is often unconscious of its greatness. Love is not self-advertising virtue signaling.",
+      "reformedNotes": "Surprise protects against works-pride. The sheep weren’t trading for a throne.\n\nReformed insight: evidence can be real without being mercenary. God sees what humility forgot to tally."
+    },
+    {
+      "number": 38,
+      "text": "And when did we see you a stranger and welcome you, or naked and clothe you?",
+      "arminianNotes": "Stranger and naked likewise unnoticed in their own memory.\n\nArminian encouragement: ordinary welcome counts in the King’s ledger of love.",
+      "reformedNotes": "The questions continue—unselfconscious righteousness.\n\nReformed tone: the Spirit’s fruit often feels like simply doing the next faithful thing."
+    },
+    {
+      "number": 39,
+      "text": "And when did we see you sick or in prison and visit you?'",
+      "arminianNotes": "Sick and prison visits also surprise them.\n\nArminian note: showing up in hard places is how faith works through love.",
+      "reformedNotes": "Presence with the suffering is remembered in heaven even when forgotten on earth.\n\nReformed comfort: God wastes no cup of cold water given in the King’s name."
+    },
+    {
+      "number": 40,
+      "text": "And the King will answer them, 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'",
+      "arminianNotes": "As you did it to the least of these my brothers, you did it to me.\n\nArminian center: Christ so identifies with His vulnerable people that mercy to them is mercy to Him. Grace teaches us to see Jesus in the least.",
+      "reformedNotes": "The King’s ‘Truly’ binds care for His brothers to care for Himself.\n\nReformed center: union with Christ makes service to His people service to Him. Works are tokens of belonging, not the root of it.",
+      "keyContrast": "Shared ground: Christ is served in the least. Arminians typically emphasize love as the living outworking of a faith that can be resisted or embraced; Reformed readers typically emphasize Spirit-wrought evidence in the elect without making mercy the meritorious cause of justification."
+    },
+    {
+      "number": 41,
+      "text": "Then he will say to those on his left, 'Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.",
+      "arminianNotes": "Depart, cursed, eternal fire prepared for the devil and his angels.\n\nClassical Arminians refuse to blunt this: judgment is personal and everlasting. The warning summons repentance and mercy now.",
+      "reformedNotes": "The left-hand sentence is as clear as the right-hand blessing. Fire prepared for the devil becomes the goats’ place by the King’s word.\n\nReformed solemnity: Jesus teaches real eternal judgment. Holiness and justice meet at this throne."
+    },
+    {
+      "number": 42,
+      "text": "For I was hungry and you gave me no food, I was thirsty and you gave me no drink,",
+      "arminianNotes": "No food, no drink—omissions named as guilt.\n\nArminian warning: neglect can damn as surely as open violence. Grace still opens hands while there is time.",
+      "reformedNotes": "Sins of omission stand in the indictment.\n\nReformed clarity: failing to love is rebellion, not mere incompleteness."
+    },
+    {
+      "number": 43,
+      "text": "I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.'",
+      "arminianNotes": "No welcome, clothing, or visit—absence where presence was owed.\n\nArminian grief: indifference to the least is indifference to Christ. Turn toward them today.",
+      "reformedNotes": "The negative catalog mirrors the sheep’s positives.\n\nReformed weight: what we will not do reveals whom we will not serve."
+    },
+    {
+      "number": 44,
+      "text": "Then they also will answer, saying, 'Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?'",
+      "arminianNotes": "They too are surprised—claiming they never saw the King in need.\n\nArminian edge: blindness to the least is self-serving. Ask for eyes grace can give.",
+      "reformedNotes": "Self-justifying surprise without fruit.\n\nReformed diagnosis: empty religion can miss Christ while using His title ‘Lord.’"
+    },
+    {
+      "number": 45,
+      "text": "Then he will answer them, saying, 'Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.'",
+      "arminianNotes": "As you did not do it to the least, you did not do it to me.\n\nArminian solemnity: omission toward the least is omission toward Jesus. The identification cuts both ways.",
+      "reformedNotes": "The same Truly binds neglect of the least to neglect of the King.\n\nReformed finality: Christ’s solidarity with His own makes lovelessness personal against Him."
+    },
+    {
+      "number": 46,
+      "text": "And these will go away into eternal punishment, but the righteous into eternal life.\"",
+      "arminianNotes": "Eternal punishment and eternal life—parallel forever-words.\n\nClassical Arminians hold both destinies as real outcomes meant to move hearers toward Christ and concrete love now.",
+      "reformedNotes": "Parallel ‘eternal’ seals the seriousness of both ends.\n\nReformed confession: Jesus teaches everlasting punishment and everlasting life. The Judge’s word stands.",
+      "keyContrast": "Both affirm everlasting outcomes. Arminians typically press the warning as a genuine summons to faith working through love; Reformed readers typically press the certainty of the King’s separation and the evidential role of mercy in those appointed to life."
+    }
+  ]
+}

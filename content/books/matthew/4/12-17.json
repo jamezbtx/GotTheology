@@ -1,0 +1,80 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 4,
+  "verseStart": 12,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Matthew 4:12–17",
+  "context": "Hearing of John’s arrest, Jesus withdraws to Galilee, settles in Capernaum by the sea in Zebulun and Naphtali, fulfills Isaiah’s light-for-darkness promise, and begins preaching: “Repent, for the kingdom of heaven is at hand.”",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on repentance, kingdom nearness, and grace—so each camp speaks in its own voice beside Jesus’ first Galilean summons.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "That this grace of God is the beginning, continuance, and accomplishment of all good… But as respects the mode of the operation of this grace, it is not irresistible, inasmuch as it is written concerning many, that they have resisted the Holy Spirit.",
+        "cite": "The Remonstrance",
+        "source": "Article IV (1610)"
+      },
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "But now that election operates according to grace, there is hope even for the most wretched. If work and reward were the standard of admission into the kingdom of heaven, its gates would be opened for no one.",
+        "cite": "Herman Bavinck",
+        "source": "Reformed Dogmatics, vol. 2"
+      },
+      {
+        "quote": "I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him; and I am sure He chose me before I was born, or else He never would have chosen me afterwards.",
+        "cite": "Charles H. Spurgeon",
+        "source": "“A Defense of Calvinism”"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 12,
+      "text": "Now when he heard that John had been arrested, he withdrew into Galilee.",
+      "arminianNotes": "John’s arrest is news that moves Jesus. Withdrawal to Galilee is wisdom, not panic—the mission continues under pressure.\n\nArminian pastoral reading: God’s call advances even when heralds suffer. Hearers in hard places are still summoned; grace does not wait for safe politics.",
+      "reformedNotes": "Providence times the shift. John’s silencing does not stall the kingdom; it relocates the voice to Galilee.\n\nReformed accent: Jesus’ withdrawal is purposeful under the Father’s plan. The Baptist’s arrest becomes the hinge on which public ministry in the north begins."
+    },
+    {
+      "number": 13,
+      "text": "And leaving Nazareth he went and lived in Capernaum by the sea, in the territory of Zebulun and Naphtali,",
+      "arminianNotes": "Nazareth is left; Capernaum by the sea becomes home base in Zebulun and Naphtali. Jesus plants Himself among ordinary lakeside life.\n\nClassical Arminians note the nearness of the King: He dwells where people fish and trade. The invitation will be local and sincere—kingdom news in a working town.",
+      "reformedNotes": "Geography is theology. Capernaum is chosen; tribal names recall Israel’s story and Isaiah’s map.\n\nReformed confidence: the Son’s address is not random. Settling by the sea places light where prophecy said darkness sat—mission plotted by Scripture."
+    },
+    {
+      "number": 14,
+      "text": "so that what was spoken by the prophet Isaiah might be fulfilled:",
+      "arminianNotes": "Matthew frames the move as fulfillment. Jesus’ address is Isaiah’s promise arriving—God keeps His word so people may believe and turn.\n\nArminian hope: prophecy becomes invitation. What God spoke, He now does in history so hearers can respond to the light.",
+      "reformedNotes": "“So that… might be fulfilled” is Matthew’s signature of providence. The prophet’s line lands on schedule.\n\nReformed reading: Scripture’s Author moves the Messiah’s feet. Capernaum is fulfillment geography—God’s decree written beforehand and walked out in time."
+    },
+    {
+      "number": 15,
+      "text": "“The land of Zebulun and the land of Naphtali,\nthe way of the sea, beyond the Jordan, Galilee of the Gentiles—",
+      "arminianNotes": "Isaiah names borderlands and “Galilee of the Gentiles.” The light is aimed at mixed, overlooked places, not only the religious center.\n\nArminian mission tone: the gospel’s reach is wide. Grace that dawns in Gentile Galilee signals a sincere call that will not stay tribal.",
+      "reformedNotes": "Border sea-road and Gentile Galilee sit in the quote. God had already mapped mercy to the margins.\n\nReformed accent: election’s Lord is also the Lord of nations in promise. The territories named are the stage He chose for the kingdom’s opening word."
+    },
+    {
+      "number": 16,
+      "text": "the people dwelling in darkness have seen a great light,\nand for those dwelling in the region and shadow of death,\non them a light has dawned.”",
+      "arminianNotes": "Darkness and death’s shadow name the human condition; a great light dawns. Seeing the light is gift—and summons to walk in it.\n\nClassical Arminians preach dawn as prevenient brightness: God shines so people may turn. Shared doxology: without Christ’s light, we sit in death’s region.",
+      "reformedNotes": "Dwelling in darkness is not a neutral preference; it is bondage. Light dawns as God’s act before our climb.\n\nReformed comfort: illumination is grace. The great light is Christ Himself arriving—sovereign dawn for a people who could not invent daybreak.",
+      "keyContrast": "Both confess real darkness and Christ’s real light. Arminians typically stress a gracious, enabling light that sincerely invites all hearers to repent; Reformed readers typically stress effectual dawn—God shines to bring His people out of death’s shadow."
+    },
+    {
+      "number": 17,
+      "text": "From that time Jesus began to preach, saying, “Repent, for the kingdom of heaven is at hand.”",
+      "arminianNotes": "From that time Jesus preaches John’s keynote as His own: repent, for the kingdom is near. The King Himself invites turning.\n\nArminian urgency: the call is sincere and for the hearers. Prevenient grace awakens; people remain responsible to repent. Kingdom nearness is mercy’s pressure—turn while the light has dawned.",
+      "reformedNotes": "The kingdom’s nearness is God’s doing; repentance is the fitting human response under His reign. Jesus’ first Galilean sermon is royal summons.\n\nReformed accent: the King announces what He brings. Where His Word runs, He effectually gathers a repenting people—same gospel demand John preached, now from Messiah’s own lips.",
+      "keyContrast": "Both treat repentance as urgent under a near kingdom. Arminians typically stress a grace-enabled, resistible-in-principle call all should answer; Reformed readers typically stress God’s initiative in bringing the kingdom and effectually summoning His people to turn."
+    }
+  ]
+}

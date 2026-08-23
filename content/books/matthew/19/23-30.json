@@ -1,0 +1,92 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 19,
+  "verseStart": 23,
+  "verseEnd": 30,
+  "translation": "ESV",
+  "title": "Matthew 19:23–30",
+  "context": "After the rich young man leaves, Jesus warns how hard it is for the rich to enter the kingdom, heightens the image to camel and needle, and answers the disciples’ despair: with man impossible, with God possible. Peter asks about their reward; Jesus promises thrones, hundredfold return, eternal life—and the reversal of first and last.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on grace, human impossibility, and God’s power to save—so each camp speaks in its own voice beside Jesus’ word on the rich and the kingdom.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is easier for a camel to go through the eye of a needle… than for a rich man to go through the strait gate: that is, humanly speaking, it is an absolute impossibility.… With men this is impossible; but with God all things are possible.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 19:24, 26)"
+      },
+      {
+        "quote": "In his lapsed and sinful state, man is not capable, of and by himself, either to think, to will, or to do that which is really good.… I ascribe to grace the commencement, the continuance and the consummation of all good.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Christ… so regulates his style that, after men have been bowed down within themselves, he teaches them to rely on the grace of God alone.… Christ plainly declares, that it is not possible for men to keep the way of salvation, except so far as the grace of God assists them.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 19:26)"
+      },
+      {
+        "quote": "We cannot, by our best works, merit pardon of sin, or eternal life at the hand of God… but when we have done all we can, we have done but our duty, and are unprofitable servants.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 16.5 (Of Good Works)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 23,
+      "text": "And Jesus said to his disciples, “Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven.",
+      "arminianNotes": "Amen-authority names the danger: riches make kingdom entrance hard. Wealth easily becomes trust, identity, and rival lord—as the young man just showed.\n\nArminian pastoral note: grace warns the prosperous without despising them. Difficulty is real; so is the call to loosen the grip and seek the kingdom first.",
+      "reformedNotes": "Jesus turns from the departing man to His disciples with a solemn “Truly.” Affluence is a spiritual hazard, not a covenant badge of favor.\n\nReformed framing: providence may grant riches; fallen hearts misuse them. The kingdom’s door is not sized for baggage of self-sufficiency."
+    },
+    {
+      "number": 24,
+      "text": "Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”",
+      "arminianNotes": "The image intensifies “difficulty” into proverbial impossibility—camel through a needle’s eye. Jesus is not joking away the threat; He is shocking complacency.\n\nArminian urgency: feel the impossibility humanly speaking, Wesley would say. Grace alone opens what wealth cannot buy; the rich must tremble and trust, not negotiate.",
+      "reformedNotes": "Hyperbole with teeth: easier for the huge to pass the tiny than for the rich to enter. Softening the proverb into a Jerusalem gate myth misses Jesus’ point.\n\nReformed sobriety: Christ means to crush confidence in means. Kingdom entry is not a wealth-management problem; it is a miracle problem."
+    },
+    {
+      "number": 25,
+      "text": "When the disciples heard this, they were greatly astonished, saying, “Who then can be saved?”",
+      "arminianNotes": "Astonishment is pastoral gold: if the advantaged cannot enter, who can? Their question universalizes the crisis beyond one rich man.\n\nArminian reading: grace uses despair of self to prepare for God’s power. The right question is not “How hard must I try?” but “Who then can be saved?”—answered in the next verse.",
+      "reformedNotes": "Disciples equate riches with blessing and conclude the situation is hopeless for everyone. Their shock shows how deeply prosperity-theology ran.\n\nReformed note: the Spirit often begins salvation’s comfort by killing false hopes. “Who then can be saved?” is the doorway to sola gratia.",
+      "keyContrast": "Both treat the disciples’ cry as the right crisis before grace. Arminians typically hear a universal impossibility that God’s assisting, resistible grace can overcome in those who do not finally refuse; Reformed readers typically hear total human inability that only God’s effectual power overcomes in the elect."
+    },
+    {
+      "number": 26,
+      "text": "But Jesus looked at them and said, “With man this is impossible, but with God all things are possible.”",
+      "arminianNotes": "Jesus looks at them—compassion with clarity. Man-side: impossible. God-side: all things possible. Salvation is God’s work, not self-salvation by deeds or dollars.\n\nClassical Arminians gladly confess impossibility apart from grace—and insist that the God who makes all things possible sincerely enables and invites; hearers must not resist the grace that alone can save.",
+      "reformedNotes": "The hinge of the paragraph: impossibility with man, possibility with God. Calvin hears Christ bowing us down so we rely on grace alone.\n\nReformed comfort: God saves the otherwise unsavable—including the rich He chooses to free from their treasure. Omnipotence, not human ascent, opens the kingdom.",
+      "keyContrast": "Shared ground: self-salvation is impossible; God alone can save. Arminians typically describe God’s possibility as powerful, enabling grace that can be resisted; Reformed readers typically describe it as sovereign, effectual grace that actually brings the dead to life and the rich to follow."
+    },
+    {
+      "number": 27,
+      "text": "Then Peter said in reply, “See, we have left everything and followed you. What then will we have?”",
+      "arminianNotes": "Peter contrasts their leaving with the young man’s clinging. The question mixes faith and calculation: we followed—what is our portion?\n\nArminian pastoral care: grace does not scold honest cost-counting. Disciples may ask what following yields; Jesus will answer with promise, not with shame for having left all.",
+      "reformedNotes": "Peter voices the Twelve’s investment: everything left, Jesus followed. Reward language is not forbidden; it is about to be reframed by Christ.\n\nReformed accent: following is already gift; yet the Lord freely attaches future reward. Peter’s “we” rests on grace that first called them, not on bargaining leverage."
+    },
+    {
+      "number": 28,
+      "text": "Jesus said to them, “Truly, I say to you, in the new world, when the Son of Man will sit on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.",
+      "arminianNotes": "Amen again: regeneration of the world (palingenesia), glorious throne, shared rule. The Twelve who followed receive unique honor in Israel’s restoration under the Son of Man.\n\nArminian hope: grace that called them to leave also secures a future. Following Jesus now is not loss without recompense; the kingdom’s renewal includes real participation for His apostles.",
+      "reformedNotes": "Christ locates reward in the new world under His throne. Apostolic thrones are His to assign; judgment of Israel’s tribes belongs to the followers He names.\n\nReformed assurance: eschatology is Christ-centered. The same sovereign Lord who makes salvation possible grants kingdom roles—not as wages earned, but as royal gift to those He kept following."
+    },
+    {
+      "number": 29,
+      "text": "And everyone who has left houses or brothers or sisters or father or mother or children or lands, for my name’s sake, will receive a hundredfold and will inherit eternal life.",
+      "arminianNotes": "The promise widens beyond the Twelve: everyone who leaves for Jesus’ name. Hundredfold and eternal life answer both loss and the young man’s original quest.\n\nArminian mission tone: costly discipleship is not elite only. Grace enables leaving; the Lord repays beyond calculation—family and lands redefined in the church now, and life forever.",
+      "reformedNotes": "“For my name’s sake” is the motive that counts. Inheritance language (“eternal life”) shows gift, not paycheck; hundredfold is lavish generosity from the King.\n\nReformed comfort: no sacrifice for Christ is forgotten. Providence may strip houses and kin; the covenant keeps better goods—and ends in life that cannot die."
+    },
+    {
+      "number": 30,
+      "text": "But many who are first will be last, and the last first.”",
+      "arminianNotes": "Reversal closes the unit: status now does not equal status then. The rich “first” may finish last; the leaving “last” may be first.\n\nArminian warning and hope: grace overturns rankings. Do not trust present advantage; do not despair in low place—follow Jesus, and let Him order the line.",
+      "reformedNotes": "The proverb prepares the vineyard parable (20:1–16). God’s kingdom scrambles human scoreboards.\n\nReformed pastoral weight: election and reward both humble the proud. Those who look first by wealth or résumé may be last; the last whom grace lifts will stand first when the Son of Man reigns."
+    }
+  ]
+}

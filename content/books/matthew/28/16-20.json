@@ -1,0 +1,76 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 28,
+  "verseStart": 16,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Matthew 28:16–20",
+  "context": "The eleven meet Jesus on the mountain in Galilee. They worship—yet some doubt. The risen Lord claims all authority in heaven and on earth, sends them to make disciples of all nations, commands Triune baptism and obedience-teaching, and promises His presence to the end of the age.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the risen Christ’s authority, the nations, Triune baptism, and promised presence—so each camp speaks in its own voice beside the Great Commission.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I look upon all the world as my parish; thus far I mean, that, in whatever part of it I am, I judge it meet, right, and my bounden duty to declare unto all that are willing to hear, the glad tidings of salvation.",
+        "cite": "John Wesley",
+        "source": "Journal (11 June 1739)"
+      },
+      {
+        "quote": "We place Him first in the Holy Trinity: for so hath Christ taught us, by commanding us to baptize in the name of the Father, and of the Son, and of the Holy Ghost.",
+        "cite": "Jacobus Arminius",
+        "source": "Works, Vol. 1 (Disputation on the Person of the Father and the Son)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "When they learn that he to whom they owe their services is the Governor of heaven and earth, this alone was abundantly sufficient for preparing them to rise superior to all opposition.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 28:18)"
+      },
+      {
+        "quote": "The outward element to be used in this sacrament is water, wherewith the party is to be baptized in the name of the Father, and of the Son, and of the Holy Ghost, by a minister of the gospel lawfully called thereunto.",
+        "cite": "Westminster Confession of Faith",
+        "source": "28.2 (1647)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 16,
+      "text": "Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them.",
+      "arminianNotes": "Eleven—not twelve—go where Jesus directed. Obedience gathers a wounded band on His mountain.\n\nArminian encouragement: failed disciples still answer His appointment. Grace restores them to a place of meeting and sending.",
+      "reformedNotes": "They go to Galilee’s mountain by prior word of the Lord. Direction precedes appearance.\n\nReformed pattern: Christ’s flock is gathered by His command. The Commission will rest on those who first went where He said."
+    },
+    {
+      "number": 17,
+      "text": "And when they saw him they worshiped him, but some doubted.",
+      "arminianNotes": "Worship and doubt in one verse. Seeing the risen Lord does not instantly erase every hesitation in every heart.\n\nClassical Arminians refuse to shame honest struggle: grace meets mixed disciples. The invitation is still to worship the One before them, not to pretend perfect certainty before faith matures.",
+      "reformedNotes": "Matthew tells the truth: some doubted even as others worshiped. Weak faith stands inside the church’s first Easter assembly.\n\nReformed pastoral: Christ will speak authority into that mixture. Doubt is recorded; it does not veto His claim or His Commission.",
+      "keyContrast": "Both refuse to erase “some doubted.” Arminians typically treat doubt as a real human response that grace patiently invites toward fuller trust; Reformed readers typically stress that Christ’s person and word remain decisive for worshipers and hesitators alike."
+    },
+    {
+      "number": 18,
+      "text": "And Jesus came and said to them, “All authority in heaven and on earth has been given to me.",
+      "arminianNotes": "All authority—heaven and earth—given to the crucified and risen Son. Mission rests on His lordship, not on the Eleven’s strength.\n\nArminian confidence: because He reigns, the gospel may be sincerely offered to all. Universal authority grounds a wide invitation; hearers remain responsible to bow.",
+      "reformedNotes": "Mediator’s investiture: all authority given. The Commission’s therefore will lean on this throne.\n\nReformed certainty: the risen Christ governs every realm. Preachers raise eyes to the Master whose power estimates the gospel’s majesty.",
+      "keyContrast": "Shared confession: Jesus holds all authority. Arminians typically link that reign to a genuine gospel call extended to all nations; Reformed readers typically link it to Christ’s effectual rule that also secures the gathering of His people from the nations."
+    },
+    {
+      "number": 19,
+      "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+      "arminianNotes": "Therefore go—authority becomes mission. Make disciples of all nations; baptize into the one Name of Father, Son, and Holy Spirit. Triune confession marks the entrance of learners.\n\nArminian mission heart: no nation is written off. Grace sends the church to teach and baptize widely; baptism binds disciples to the living God in three persons.",
+      "reformedNotes": "Disciple-making among all nations, sealed by Triune baptism. The singular “name” confesses one God in three persons.\n\nReformed gravity: the church’s sacrament and mission are Christ-commanded. Baptism is not tribal branding but covenant sign under the Father, Son, and Spirit.",
+      "keyContrast": "Both uphold Triune baptism and nations-wide disciple-making. Arminians typically emphasize the sincere offer and enabled response among the nations; Reformed readers typically emphasize God’s sure purpose to disciple peoples under Christ’s authority while baptism signs and seals covenant grace."
+    },
+    {
+      "number": 20,
+      "text": "teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”",
+      "arminianNotes": "Teaching for obedience completes disciple-making—not bare decisions. Then the promise: Behold, I am with you always, to the end of the age.\n\nArminian comfort and charge: presence fuels perseverance in mission. The same Lord who commands observation of all He taught walks with those who go; remain teachable and go on declaring glad tidings.",
+      "reformedNotes": "All He commanded must be taught for observance. Christ retains the Teacher’s chair while promising abiding presence to the age’s end.\n\nReformed doxology: the Commission is impossible by flesh; it is carried by “I am with you.” His spiritual presence sustains ministers and churches until history closes.",
+      "keyContrast": "Both cling to Christ’s abiding presence as mission’s life. Arminians typically hear a promise that accompanies responsible obedience in going and teaching; Reformed readers typically hear a covenant pledge that Christ Himself ensures His church’s endurance and fruit to the end."
+    }
+  ]
+}

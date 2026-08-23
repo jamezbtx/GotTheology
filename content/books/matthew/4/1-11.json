@@ -1,0 +1,111 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 4,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "Matthew 4:1–11",
+  "context": "After baptism, the Spirit leads Jesus into the wilderness to be tempted by the devil; fasting forty days, He answers each assault with Scripture, refuses bread, spectacle, and false worship, and after Satan departs angels minister to Him.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Son’s obedience and the Word against the tempter—so each camp speaks in its own voice beside the wilderness contest.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "This state [of humiliation] was necessary, both that he might yield obedience to his Father, and that, having been tempted in all things without sin, he might be able to sympathize with those who are tempted.",
+        "cite": "Jacobus Arminius",
+        "source": "Disputation XXXVIII, On the States of Christ’s Humiliation and Exaltation"
+      },
+      {
+        "quote": "O give me that book! At any price, give me the book of God! I have it: Here is knowledge enough for me. Let me be homo unius libri. [A man of one book.]",
+        "cite": "John Wesley",
+        "source": "Preface to Sermons on Several Occasions"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Whenever Satan shall cover his deception by Scripture, and ungodly men shall labor to subvert our faith by the same means, let us borrow our armor exclusively from Scripture for the protection of our faith.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 4:6)"
+      },
+      {
+        "quote": "This office the Lord Jesus did most willingly undertake; which that he might discharge, he was made under the law, and did perfectly fulfill it.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 8.4 (1647)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.",
+      "arminianNotes": "The same Spirit who rested on Jesus at the Jordan now leads Him into the wilderness. Temptation is not a detour from the Father’s will; it is part of the Son’s obedient path for our sake.\n\nClassical Arminians linger on solidarity: the sinless One enters real testing so He can sympathize with the tempted. Shared ground: the Spirit’s leading and the devil’s assault meet in a genuine contest that reveals who Jesus is.",
+      "reformedNotes": "“Led up by the Spirit… to be tempted by the devil” holds providence and warfare together. The Father’s plan includes this hour; Satan does not seize the initiative from God.\n\nReformed accent: the wilderness is appointed. The beloved Son enters combat as our Head—not by accident, but by the Spirit’s purposeful leading toward victory for His people."
+    },
+    {
+      "number": 2,
+      "text": "And after fasting forty days and forty nights, he was hungry.",
+      "arminianNotes": "Forty days echo Israel’s wilderness and Moses’ fasts. Jesus is truly hungry—true humanity, not a shielded appearance. Weakness of body is real while holiness remains intact.\n\nArminian pastoral note: the gospel does not deny hunger, loneliness, or bodily need. Grace meets us in frailty; the Son who hungers is able to help those who do.",
+      "reformedNotes": "Matthew records hunger without apology. The Messiah’s fasting is obedience under providence, not spiritual showmanship.\n\nReformed reading: true flesh, true need. The Second Adam stands where the first failed—weakened in body yet unbroken in will—so that His later “It is written” lands as a Man’s trust in God’s Word."
+    },
+    {
+      "number": 3,
+      "text": "And the tempter came and said to him, “If you are the Son of God, command these stones to become loaves of bread.”",
+      "arminianNotes": "The first thrust questions Sonship and presses self-serving power: turn stones to bread. Need is real; the proposed fix detaches trust from the Father’s timing.\n\nArminian warning: temptation often dresses as practical religion—“use your gifts now.” The call is to trust God’s Word and wait, not to seize provision apart from obedience.",
+      "reformedNotes": "“If you are the Son of God” is not honest inquiry; it is a challenge to prove identity on Satan’s terms. Stones-to-bread would shortcut dependence.\n\nReformed framing: the Father already named Jesus beloved Son. The tempter’s “if” tries to pry Sonship from obedience. Providence supplies bread in season; the Son will not seize it by autonomous power.",
+      "keyContrast": "Both reject using divine power for self-centered proof. Arminians typically stress Jesus’ free, trusting refusal as our pattern under grace; Reformed readers typically stress the Son’s obedience within the Father’s decree, refusing Satan’s terms for proving Sonship."
+    },
+    {
+      "number": 4,
+      "text": "But he answered, “It is written,\n\n“‘Man shall not live by bread alone,\nbut by every word that comes from the mouth of God.’”",
+      "arminianNotes": "Jesus answers with Deuteronomy: life hangs on God’s every word, not bread alone. Scripture is His first weapon—trusted, quoted, obeyed.\n\nArminian warmth: the Word is a living means of grace. Hearers are summoned to live by what God says. Shared confession: Christ triumphs by Scripture, not by clever improvisation.",
+      "reformedNotes": "“It is written” is the Son’s rule of life. He binds Himself to the Father’s uttered word as true food.\n\nReformed comfort: the incarnate Word honors the written Word. Victory begins where Adam failed—trusting God’s speech over appetite and spectacle. The church fights the same way."
+    },
+    {
+      "number": 5,
+      "text": "Then the devil took him to the holy city and set him on the pinnacle of the temple",
+      "arminianNotes": "The scene shifts to Jerusalem’s temple height—holy place, public stage. Temptation can wear religious clothing and seek a dramatic leap.\n\nArminian pastoral caution: not every “spiritual” dare is from God. Grace teaches discernment: location and Scripture-sounding language do not make a test holy.",
+      "reformedNotes": "Holy city and temple pinnacle do not sanctify the devil’s agenda. Sacred geography can host unholy counsel.\n\nReformed accent: Satan relocates the battle; God still rules the hour. The Son is carried into a setting of worship’s symbols so that false trust may be unmasked."
+    },
+    {
+      "number": 6,
+      "text": "and said to him, “If you are the Son of God, throw yourself down, for it is written,\n\n“‘He will command his angels concerning you,’\n\nand\n\n“‘On their hands they will bear you up,\nlest you strike your foot against a stone.’”",
+      "arminianNotes": "Satan quotes Psalm 91—almost. He omits the walk-within-God’s-ways frame and urges a leap to force angelic rescue. Twisted Scripture is still temptation.\n\nClassical Arminians press careful reading: grace enables us to test quoted verses against the whole counsel of God. Shared ground: misuse of the Bible is a real danger for devout people.",
+      "reformedNotes": "The adversary is literate and selective. Promise without context becomes poison. “Throw yourself down” turns providence into a stunt.\n\nReformed sobriety: Scripture interprets Scripture. Christ’s later reply will restore the cut edges. Believers need the full Word, not a verse weaponized against obedience.",
+      "keyContrast": "Both insist Satan misuses Scripture. Arminians often accent the believer’s responsible discernment under prevenient/illuminating grace; Reformed readers often accent the Spirit’s preserving the elect in the whole counsel of God against twisted texts."
+    },
+    {
+      "number": 7,
+      "text": "Jesus said to him, “Again it is written, ‘You shall not put the Lord your God to the test.’”",
+      "arminianNotes": "“Again it is written” answers abuse with more Scripture. Testing God means demanding proofs on our timetable instead of walking in trust.\n\nArminian application: faith waits on God’s promises without manufacturing crises. The sincere call is to trust, not to stage miracles that force God’s hand.",
+      "reformedNotes": "Jesus will not put the Father to the test. Dependence refuses reckless experiments that treat God like a performer.\n\nReformed reading: true faith obeys within appointed means. The Son’s “again” models how the church answers half-quotes—with the Word that restores humble trust."
+    },
+    {
+      "number": 8,
+      "text": "Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory.",
+      "arminianNotes": "A mountain vista of kingdoms and glory: the lure of power without the cross. Temptation now is shortcut dominion—rule without worship of the Father.\n\nArminian pastoral note: glory offered apart from obedience is a lie. Hearers are called to refuse empire-by-compromise and to follow the King who will receive kingdoms God’s way.",
+      "reformedNotes": "All kingdoms’ glory flashes before the Son who will one day inherit them rightly. Satan displays what he cannot finally keep.\n\nReformed accent: providence allows the showing; the Son’s heart does not covet. The false offer clarifies true kingship—glory through the Father’s path, not the usurper’s bargain."
+    },
+    {
+      "number": 9,
+      "text": "And he said to him, “All these I will give you, if you will fall down and worship me.”",
+      "arminianNotes": "The price is clear: fall down and worship Satan. Bread and spectacle led here—idolatry as the root. No kingdom is worth that bow.\n\nClassical Arminians preach exclusive worship: grace enables a real “no” to rival lords. Shared confession across camps: only God is to be worshiped.",
+      "reformedNotes": "The mask drops. The issue was never bread or angels alone; it was worship. Satan claims to give what belongs to God.\n\nReformed clarity: idolatry is the endgame of every temptation. The Son will not trade the Father’s glory for a counterfeit crown."
+    },
+    {
+      "number": 10,
+      "text": "Then Jesus said to him, “Be gone, Satan! For it is written,\n\n“‘You shall worship the Lord your God\nand him only shall you serve.’”",
+      "arminianNotes": "“Be gone, Satan!” is decisive dismissal, grounded again in Deuteronomy: worship and serve the Lord only. Jesus ends the duel with exclusive allegiance.\n\nArminian Christology: the obedient Son freely refuses false worship and models the first commandment fulfilled. Grace invites us into the same exclusive loyalty—enabled, not coerced theater.",
+      "reformedNotes": "Command and confession meet: be gone, for it is written. The Son wields the Word as a bronze wall, not a reed.\n\nReformed triumph: the Second Adam succeeds where Israel and Adam fell. Worship belongs to God alone; the Mediator’s perfect obedience is already underway for His people’s salvation.",
+      "keyContrast": "Both confess exclusive worship of God and Christ’s victory. Arminians typically stress Jesus’ free, exemplary obedience that grace enables us to follow; Reformed readers typically stress the Son’s representative obedience securing salvation while also patterning the church’s warfare."
+    },
+    {
+      "number": 11,
+      "text": "Then the devil left him, and behold, angels came and were ministering to him.",
+      "arminianNotes": "Satan leaves; angels minister. The Father’s care arrives after obedience, not as a leap-forced spectacle. Ministry follows faithfulness.\n\nArminian comfort: God sustains those who trust His Word. The same Jesus who refused angelic rescue as a stunt now receives true angelic help in the Father’s time.",
+      "reformedNotes": "The devil’s departure is temporary in the larger story, yet real in this hour. Angels serve the victorious Son.\n\nReformed assurance: providence closes the scene. The Beloved is not abandoned; the wilderness ends with heavenly care, and the path now turns toward Galilee and the kingdom’s public word."
+    }
+  ]
+}

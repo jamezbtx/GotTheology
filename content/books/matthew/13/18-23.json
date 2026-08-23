@@ -1,0 +1,81 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 13,
+  "verseStart": 18,
+  "verseEnd": 23,
+  "translation": "ESV",
+  "title": "Matthew 13:18–23",
+  "context": "Jesus explains the Sower to the disciples: four soils picture four hearings of the kingdom word—snatched, shallow, choked, and fruitful. Understanding and endurance become the pastoral hinge of the parable’s meaning.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on hearing the word, perseverance, and fruitful faith—so each camp speaks in its own voice beside the parable’s explanation.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "That this grace of God is the beginning, continuance, and accomplishment of all good… But as respects the mode of the operation of this grace, it is not irresistible, inasmuch as it is written concerning many, that they have resisted the Holy Spirit.",
+        "cite": "The Remonstrance",
+        "source": "Article IV (1610)"
+      },
+      {
+        "quote": "Saving faith… is a divine evidence and conviction, not only that God was in Christ, reconciling the world unto himself, but also that Christ loved me, and gave himself for me. It is by this faith… that we receive Christ.",
+        "cite": "John Wesley",
+        "source": "Sermon 43, “The Scripture Way of Salvation”"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "But now that election operates according to grace, there is hope even for the most wretched. If work and reward were the standard of admission into the kingdom of heaven, its gates would be opened for no one.",
+        "cite": "Herman Bavinck",
+        "source": "Reformed Dogmatics, vol. 2"
+      },
+      {
+        "quote": "I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him; and I am sure He chose me before I was born, or else He never would have chosen me afterwards.",
+        "cite": "Charles H. Spurgeon",
+        "source": "“A Defense of Calvinism”"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "“Hear then the parable of the sower:",
+      "arminianNotes": "Jesus turns explanation into summons: “Hear then.” The parable is not a riddle for the curious but a call to receive the kingdom word with understanding.\n\nClassical Arminians hear grace inviting careful attention. Explanation itself is mercy—Christ clarifies so that hearers may respond responsibly to what God offers.",
+      "reformedNotes": "Christ interprets His own story. Disciples receive meaning as gift before they can apply soils to others or themselves.\n\nReformed note: the Word explains the Word. Illumination belongs to Jesus’ teaching office; fruitful hearing starts with His granted understanding."
+    },
+    {
+      "number": 19,
+      "text": "When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what has been sown in his heart. This is what was sown along the path.",
+      "arminianNotes": "Path-hearing is hearing without understanding: the kingdom word is sown in the heart, yet the evil one snatches it. Outward audition is not reception.\n\nArminian urgency: prevenient grace enables understanding; hardness and neglect leave the heart exposed. The warning is pastoral—ask for light, resist the thief, take the word in before it is gone.",
+      "reformedNotes": "Lack of understanding invites the evil one’s raid. Seed is sown; comprehension fails; the heart is left empty of living word.\n\nReformed realism: Satan opposes the kingdom message, and God alone opens understanding. Path-soil exposes both enemy hostility and the absence of effectual illumination.",
+      "keyContrast": "Both treat path-soil as tragic non-understanding of a real sown word. Arminians typically stress grace that enables understanding and blameworthy hardness; Reformed readers typically stress that saving understanding is God’s sovereign gift, without denying the evil one’s agency."
+    },
+    {
+      "number": 20,
+      "text": "As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy,",
+      "arminianNotes": "Rocky ground hears and immediately receives with joy. Quick delight is real as far as it goes—yet joy alone is not root.\n\nClassical Arminians caution against equating emotion with conversion. Grace enables lasting reception; initial enthusiasm must be met with depth, not presumption that a bright beginning finishes the race.",
+      "reformedNotes": "Immediate joyful reception can still be shallow. Visible response is not identical to saving endurance under the Word.\n\nReformed vigilance: temporary joy may accompany a hearing that never goes deep. The Lord knows the difference between profession and rooted life."
+    },
+    {
+      "number": 21,
+      "text": "yet he has no root in himself, but endures for a while, and when tribulation or persecution arises on account of the word, immediately he falls away.",
+      "arminianNotes": "No root, brief endurance, then immediate falling away when trouble comes because of the word. Heat reveals what joy concealed.\n\nArminian pastoral care refuses both despair and cheap assurance. Assisting grace enables perseverance; hearers remain responsible not to abandon Christ when the word costs. The warning is sharp because lasting faith is truly needed and truly possible by grace.",
+      "reformedNotes": "Tribulation does not create the failure; it discloses no root. Temporary endurance collapses when the word brings persecution.\n\nReformed gravity and comfort: those God has rooted endure; withering unmasks a work that never went deep by His saving power. Perseverance of the saints is not optional ornament—it is the mark of true calling.",
+      "keyContrast": "Both see persecution as the test that unmasks shallow reception. Arminians typically emphasize grace-enabled perseverance and a real danger of falling away from a non-rooted profession; Reformed readers typically emphasize that those effectually called are kept, so falling away exposes a faith that was never savingly rooted."
+    },
+    {
+      "number": 22,
+      "text": "As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful.",
+      "arminianNotes": "Thorny hearing is crowded hearing: cares and deceitful riches choke the word until it proves unfruitful. Competing loves smother what began.\n\nClassical Arminians press responsible clearing of the heart. Prevenient and assisting grace enable repentance from divided loyalties; the parable urgently invites hearers not to let the world’s grip strangle the kingdom message.",
+      "reformedNotes": "The word is heard, yet choked into barrenness by worldly anxiety and wealth’s lies. Presence of seed is not presence of harvest.\n\nReformed diagnosis: providence exposes divided hearts. God alone makes soil where the word is not finally smothered; fruitlessness under thorns warns the church against mistaking hearing for holiness."
+    },
+    {
+      "number": 23,
+      "text": "As for what was sown on good soil, this is the one who hears the word and understands it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.”",
+      "arminianNotes": "Good soil hears and understands—and bears fruit in varied measures. Understanding joined to harvest defines true reception of the kingdom word.\n\nArminian joy: grace enables comprehension and lasting response; differing yields still honor one gracious seed. The summons is to fruitful hearing, not identical outward success.",
+      "reformedNotes": "Fruitful hearing is marked by understanding and produce—hundred-, sixty-, thirtyfold. Variety of yield does not cancel unity of gift.\n\nReformed doxology: good soil is God’s making; effectual blessing of the Word brings certain fruit where He gives life. Harvest displays grace, not human farming skill.",
+      "keyContrast": "Both celebrate understanding-plus-fruit as true hearing. Arminians typically credit prevenient/assisting grace that enables free, responsible reception unto harvest; Reformed readers typically credit God’s sovereign creation of good soil and effectual working of the Word so fruit certainly follows where He grants life."
+    }
+  ]
+}

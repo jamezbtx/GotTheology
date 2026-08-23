@@ -1,0 +1,74 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 3,
+  "verseStart": 13,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Matthew 3:13–17",
+  "context": "Jesus comes from Galilee to be baptized by John; John hesitates, Jesus insists on fulfilling all righteousness, and after the baptism the heavens open, the Spirit descends like a dove, and the Father’s voice names Jesus the beloved Son.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Son and the Spirit’s work—so each camp speaks in its own voice beside Jesus’ baptism.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "That this grace of God is the beginning, continuance, and accomplishment of all good… But as respects the mode of the operation of this grace, it is not irresistible, inasmuch as it is written concerning many, that they have resisted the Holy Spirit.",
+        "cite": "The Remonstrance",
+        "source": "Article IV (1610)"
+      },
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him; and I am sure He chose me before I was born, or else He never would have chosen me afterwards.",
+        "cite": "Charles H. Spurgeon",
+        "source": "“A Defense of Calvinism”"
+      },
+      {
+        "quote": "We call predestination God’s eternal decree, by which he determined with himself what he willed to become of each man. For all are not created in equal condition; rather, eternal life is foreordained for some, eternal damnation for others.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.21.5"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 13,
+      "text": "Then Jesus came from Galilee to the Jordan to John, to be baptized by him.",
+      "arminianNotes": "The sinless One comes to a baptism of repentance. He travels from Galilee to the Jordan seeking John’s baptism, identifying with the people He came to save.\n\nClassical Arminians linger on this grace: Jesus freely steps into solidarity with sinners. The journey is deliberate love, not accident.",
+      "reformedNotes": "Jesus’ coming to John is mission, not need of cleansing. The Son enters the waters in obedience to the Father’s plan.\n\nReformed accent: providence brings the Messiah to the Jordan at the right hour. Identification with His people is covenant purpose unfolding."
+    },
+    {
+      "number": 14,
+      "text": "John would have prevented him, saying, “I need to be baptized by you, and do you come to me?”",
+      "arminianNotes": "John knows the mismatch: the lesser should not baptize the greater. His protest honors Jesus’ holiness.\n\nArminian pastoral note: true messengers feel their unworthiness before Christ. John’s hesitation is humility, not unbelief—and Jesus will still lead the next step.",
+      "reformedNotes": "John’s resistance shows right instinct about rank. The Baptist needs what only Jesus gives.\n\nReformed reading: even the greatest prophet stands beneath the Son. Prevention fails because the Father’s will for this baptism will stand."
+    },
+    {
+      "number": 15,
+      "text": "But Jesus answered him, “Let it be so now, for thus it is fitting for us to fulfill all righteousness.” Then he consented.",
+      "arminianNotes": "“Let it be so now” and “fulfill all righteousness” frame baptism as fitting obedience, not confession of Jesus’ own sin. John consents.\n\nArminian Christology: Jesus perfectly does the Father’s will and walks the path appointed for our salvation. Righteousness fulfilled is good news for those who trust Him.",
+      "reformedNotes": "Fitting righteousness is Jesus’ obedience in our place and for our salvation. The “us” draws John into the Father’s purpose.\n\nReformed comfort: the Son fulfills all righteousness—active obedience that sinners cannot supply. Consent follows the King’s word.",
+      "keyContrast": "Both deny that Jesus is baptized for His own guilt. Arminians typically stress His willing solidarity and perfect obedience; Reformed readers typically stress His representative obedience fulfilling righteousness for His people."
+    },
+    {
+      "number": 16,
+      "text": "And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him;",
+      "arminianNotes": "Heavens open; the Spirit descends like a dove and rests on Jesus. Matthew shows the Spirit’s anointing for the Son’s public mission.\n\nArminian warmth: the same Spirit who rests on Jesus is later poured out on the church. Grace that rests on Christ is grace offered through Christ to the world.",
+      "reformedNotes": "The Spirit’s descent marks and empowers the Messiah. Heaven’s opening is revelation, not spectacle alone.\n\nReformed accent: Father, Son, and Spirit are here in united action. The Spirit rests on the appointed Son for the work decreed from eternity."
+    },
+    {
+      "number": 17,
+      "text": "and behold, a voice from heaven said, “This is my beloved Son, with whom I am well pleased.”",
+      "arminianNotes": "The Father’s voice names Jesus beloved Son and declares pleasure in Him. Christology is public: this is God’s Son.\n\nClassical Arminians preach this pleasure as the ground of gospel invitation—come to the Son in whom the Father delights. Shared doxology: Jesus is not merely a prophet; He is the beloved Son.",
+      "reformedNotes": "Heaven’s verdict settles identity and pleasure. The Father’s love for the Son frames the whole gospel.\n\nReformed assurance: the well-pleased Son is the One given for sinners. Election’s center is this beloved Son; all saving grace runs through Him.",
+      "keyContrast": "Both confess full deity-honoring Sonship here. Arminians often accent the open declaration that invites faith in the beloved Son; Reformed readers often accent the Father’s sovereign pleasure in the Son as the hub of electing grace and mission."
+    }
+  ]
+}

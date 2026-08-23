@@ -1,0 +1,116 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 19,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Matthew 19:1–12",
+  "context": "Leaving Galilee for Judea beyond the Jordan, Jesus faces a Pharisee trap about divorce. He answers from creation’s one-flesh design, names hardness of heart behind Moses’ concession, and then speaks of kingdom celibacy as a gift not all can receive.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on marriage, divorce, and the kingdom—so each camp speaks in its own voice beside Jesus’ teaching.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "By making them one man and one woman, he condemned polygamy: by making them one flesh, he condemned divorce.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 19:4)"
+      },
+      {
+        "quote": "They should be considered as one body, but also as two souls in one body, with a complete union of interests, and an indissoluble partnership of life and fortune, comfort and support, desires and inclinations, joys and sorrows.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Matt 19:5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses permitted it on account of their obstinacy, and not because he approved of it as lawful… When God at first instituted marriage, he established a perpetual law, which ought to remain in force till the end of the world.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 19:7–8)"
+      },
+      {
+        "quote": "Although the corruption of man be such as is apt to study arguments unduly to put asunder those whom God hath joined together in marriage: yet nothing but adultery, or such wilful desertion as can no way be remedied by the Church or civil magistrate, is cause sufficient of dissolving the bond of marriage.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 24.6 (Of Marriage and Divorce)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now when Jesus had finished these sayings, he went away from Galilee and entered the region of Judea beyond the Jordan.",
+      "arminianNotes": "A chapter turn marks a geographic turn: Jesus leaves familiar Galilee for the Judean approach. The sayings of chapter 18—humility, restoration, forgiveness—still ring as He moves toward the cross.\n\nArminian pastoral note: grace that taught the disciples in the north now leads them south. Following Jesus means crossing new thresholds; the invitation to walk with Him remains open wherever He goes.",
+      "reformedNotes": "Matthew signals a new stage: finished teaching, new region, nearer the Passion. The Lord sets the itinerary.\n\nReformed framing: providence, not accident, carries Christ toward Jerusalem. The same Word that ordered the church’s life in chapter 18 now walks His people into harder testing."
+    },
+    {
+      "number": 2,
+      "text": "And large crowds followed him, and he healed them there.",
+      "arminianNotes": "Crowds and healings continue even as controversy looms. Compassion is not paused for debate; Jesus still mends bodies while hearts remain unsettled.\n\nArminian warmth: grace meets need in public. Many follow for healing who have not yet bowed to His marriage ethic; the mercy that draws them also summons deeper obedience.",
+      "reformedNotes": "Kingdom power accompanies the King: large crowds, real healings “there.” Authority over sickness foreshadows authority over the Law’s misuse.\n\nReformed accent: Christ is no mere casuist. Before He settles divorce, He displays the Creator’s restoring hand—grace that heals and grace that binds belong to the same Lord."
+    },
+    {
+      "number": 3,
+      "text": "And Pharisees came up to him and tested him by asking, “Is it lawful to divorce one’s wife for any cause?”",
+      "arminianNotes": "The question is a trap, not a pastoral inquiry. “For any cause” echoes the lenient school that treated marriage as disposable whenever a husband found fault.\n\nArminian warning: testing Jesus still happens when we hunt for loopholes instead of fidelity. Grace exposes the heart that wants permission more than covenant; hearers remain responsible not to weaponize Scripture against their spouses.",
+      "reformedNotes": "Pharisees “tested” Him—legal combat dressed as piety. The Hillel-style “any cause” divorce is on the table.\n\nReformed sobriety: corrupt religion often asks what the law will tolerate, not what God joined. Christ will answer from creation, not from their preferred school."
+    },
+    {
+      "number": 4,
+      "text": "He answered, “Have you not read that he who created them from the beginning made them male and female,",
+      "arminianNotes": "Jesus begins with Scripture they claim to honor: creation, not casuistry. Male and female are God’s design, not a late concession.\n\nArminian reading: “Have you not read?” presses accountable hearers. Grace enables us to receive what creation already teaches; willful ignoring of the text is real resistance, not mere ignorance.",
+      "reformedNotes": "Christ’s first move is revelatory: the Creator’s act defines marriage. Sexed humanity is given “from the beginning.”\n\nReformed note: doctrine starts with God’s making, not human preference. What God constituted at the start remains the rule for interpreting later permissions."
+    },
+    {
+      "number": 5,
+      "text": "and said, ‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’?",
+      "arminianNotes": "Genesis 2:24 is quoted as God’s own voice through Scripture: leave, hold fast, one flesh. Marriage reorders loyalties and forges a new, exclusive union.\n\nArminian pastoral weight: “hold fast” is a lived calling enabled by grace. Couples are summoned to cleave—not drift—and the Spirit strengthens the will to keep covenant love when feelings thin.",
+      "reformedNotes": "“One flesh” is more than sentiment; it is God’s joining of two into a shared life. Leaving father and mother marks a new household under divine ordinance.\n\nReformed comfort and demand: the bond is sacred because God speaks it. Human vows echo a Creator’s word; marriage is not a private contract we may rewrite at will."
+    },
+    {
+      "number": 6,
+      "text": "So they are no longer two but one flesh. What therefore God has joined together, let not man separate.”",
+      "arminianNotes": "Jesus draws the line: God joins; man must not sever. Divorce talk that ignores God’s act treats a holy union as human clay.\n\nArminian preaching: grace that saves also calls for fidelity. We are responsible not to “separate” what God joined—by hardness, neglect, or self-serving exits—while mercy still restores the repentant.",
+      "reformedNotes": "The prohibition is absolute in form: let not man separate. The Agent of joining is God; human authority is derivative and limited.\n\nReformed gravity: marriage’s permanence rests on divine action. Courts and customs may manage fallout, but they do not unmake what God has made one."
+    },
+    {
+      "number": 7,
+      "text": "They said to him, “Why then did Moses command one to give a certificate of divorce and to send her away?”",
+      "arminianNotes": "They elevate Deuteronomy 24 into a “command,” as if Moses ordered divorce rather than regulated a tragic practice. The trap tries to pit Jesus against Moses.\n\nArminian note: Scripture-twisting often turns permission into mandate. Grace teaches honest reading; we must not baptize our exits with Moses’ name.",
+      "reformedNotes": "Their rebuttal assumes that whatever Moses regulated he approved. Certificate language becomes a shield for “any cause.”\n\nReformed clarity: political concession is not moral ideal. Christ will distinguish hardness-managing law from creation’s perpetual design."
+    },
+    {
+      "number": 8,
+      "text": "He said to them, “Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so.",
+      "arminianNotes": "Jesus renames Moses’ act: allowed, not commanded—and the cause is hardness of heart. Creation’s “beginning” remains the standard; divorce law was damage control for stubborn hearts.\n\nClassical Arminians hear both diagnosis and accountability: hardness is real sin that grace confronts and can soften. Moses’ concession does not erase responsibility to repent of the hardness that makes divorce thinkable.",
+      "reformedNotes": "Hardness of heart explains the concession; creation explains the norm. “From the beginning it was not so” restores the perpetual rule beneath temporary allowance.\n\nReformed emphasis: fallen obstinacy necessitated regulation, not endorsement. Only divine mercy restrains worse evil—and only a new heart recovers marriage’s original intent.",
+      "keyContrast": "Both refuse to treat Moses’ divorce allowance as God’s ideal. Arminians typically stress hardness as resistible sin that grace enables us to repent of; Reformed readers typically stress hardness as deep corruption that only God’s regenerating work overcomes—while both uphold creation’s one-flesh design as the true standard."
+    },
+    {
+      "number": 9,
+      "text": "And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”",
+      "arminianNotes": "Jesus speaks with royal authority (“I say to you”). Except for porneia—sexual immorality that violates the covenant—divorce-plus-remarriage is labeled adultery. The bar is high, protecting the vulnerable spouse.\n\nArminian pastoral care: grace calls for fidelity and for honest dealing with real betrayal. The exception is not a loophole for preference; it names covenant-breaking sin while still summoning repentance, forgiveness, and holy remarriage ethics under Christ’s word.",
+      "reformedNotes": "Christ’s ethic is stricter than “any cause” and clearer than the Pharisees’ reading. The exception clause recognizes that adultery can shatter the one-flesh bond; otherwise remarriage after wrongful divorce is adultery.\n\nReformed pastoral weight: Christ’s word, not cultural ease, sets the boundary. Churches historically guarded marriage closely here—compassion for the betrayed without soft-pedaling the Lord’s verdict."
+    },
+    {
+      "number": 10,
+      "text": "The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.”",
+      "arminianNotes": "The disciples flinch: lifelong fidelity sounds harder than casual divorce. Their “better not to marry” is half insight, half self-protection.\n\nArminian honesty: grace does not hide the cost. Marriage is good, yet demanding; hearers must count the cost rather than enter lightly—or flee the calling God may give.",
+      "reformedNotes": "Shock reveals how low expectations of marriage had sunk. If permanence is real, celibacy suddenly looks safer to fleshly calculation.\n\nReformed note: the disciples’ reaction confirms Jesus raised the standard. Fear of the bond is not wisdom until Christ interprets gift and calling in the next verses."
+    },
+    {
+      "number": 11,
+      "text": "But he said to them, “Not everyone can receive this saying, but only those to whom it is given.",
+      "arminianNotes": "Jesus neither scolds nor universalizes their panic. “This saying” (the hard marriage ethic, and/or the celibacy alternative) is receivable only by those to whom it is given—a gift language that still invites reception.\n\nClassical Arminians gladly call continence and fidelity graces given—yet typically insist the gift is to be received, not presumed, and that grace enabling holy singleness or holy marriage can be neglected or refused.",
+      "reformedNotes": "Capacity is gift: “those to whom it is given.” Jesus denies that every hearer can simply choose the disciples’ “better not to marry” by willpower alone.\n\nReformed accent: God distributes the gift of receiving this word. Celibacy for the kingdom (v. 12) is not a ladder of merit but a sovereign enablement; marriage likewise is lived under grace, not bare resolve.",
+      "keyContrast": "Shared ground: receiving Jesus’ hard word is gift, not bare grit. Arminians typically describe the gift as enabling grace that must be freely received and can be resisted; Reformed readers typically describe it as effectual bestowal that secures reception in those to whom the Father gives it."
+    },
+    {
+      "number": 12,
+      "text": "For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven. Let the one who is able to receive this receive it.”",
+      "arminianNotes": "Three kinds: natural, coerced, and voluntary kingdom celibacy. The last is metaphorical self-denial for undivided devotion—not literal self-harm, and not contempt for marriage.\n\nArminian mission tone: some are able to receive celibacy for the kingdom; others are called to faithful marriage. Grace assigns callings differently; each must receive what is given without despising the other’s path.",
+      "reformedNotes": "Jesus legitimates kingdom singleness without denigrating marriage. “Made themselves eunuchs” means purposeful abstinence for heaven’s sake, possible only where ability is given.\n\nReformed pastoral balance: vocation is God’s to assign. The church honors both the marriage covenant and the celibate who receives that harder saying—neither as superior merit, both as stewardship under Christ’s word."
+    }
+  ]
+}

@@ -6,3 +6,6 @@ voices-only.html
 .vercel
 .netlify
 dist/
+
+handoff/
+*.zip

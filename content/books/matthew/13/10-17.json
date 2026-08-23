@@ -1,0 +1,94 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 13,
+  "verseStart": 10,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Matthew 13:10–17",
+  "context": "After the Sower parable, the disciples ask why Jesus teaches the crowds in parables. He answers with the gift of kingdom secrets, Isaiah’s judgment oracle on dull hearts, and a blessing on eyes and ears that truly see and hear—framing how the word divides hearers.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on revelation, hearing, and grace that opens eyes—so each camp speaks in its own voice beside Jesus’ purpose for the parables.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      },
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Flesh and blood reveal nothing of this kind… Faith is not formed by the understanding of the flesh, but by the secret revelation of the Spirit.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 16:17)"
+      },
+      {
+        "quote": "I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him; and I am sure He chose me before I was born, or else He never would have chosen me afterwards.",
+        "cite": "Charles H. Spurgeon",
+        "source": "“A Defense of Calvinism”"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 10,
+      "text": "Then the disciples came and said to him, “Why do you speak to them in parables?”",
+      "arminianNotes": "The disciples draw near with a pastoral question: why hide the kingdom in stories for the crowds? They sense that form matters for those still outside the circle of clear teaching.\n\nClassical Arminians hear concern for public hearers. Grace that offers the word to many also presses the church to ask how truth is given—so that invitation and clarity remain real for those who may yet receive.",
+      "reformedNotes": "The question marks a turn from crowd to disciples. Jesus will explain His method under the Father’s purpose, not as a technique to maximize applause.\n\nReformed framing: Christ governs how revelation is dispensed. Parables are not a failure of communication but a sovereignly chosen mode that both discloses and judges."
+    },
+    {
+      "number": 11,
+      "text": "And he answered them, “To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given.",
+      "arminianNotes": "Jesus distinguishes gift: secrets of the kingdom have been given to the disciples, not to the resistant crowd in the same way. Knowledge of the kingdom is grace, not native cleverness.\n\nClassical Arminians gladly ascribe saving insight to God’s gift—yet typically insist that this grace is sincerely offered more widely, and that hardness often follows resisted light rather than an arbitrary withholding of every opportunity to hear.",
+      "reformedNotes": "“It has been given… it has not been given” locates kingdom knowledge in divine donation. Secrets are not seized by flesh; they are bestowed.\n\nReformed emphasis: distinguishing grace is real. The Father gives spiritual understanding to whom He will; the same Jesus who invites also discloses that saving knowledge is God’s gift, not human entitlement.",
+      "keyContrast": "Both confess that kingdom secrets are given, not earned. Arminians typically stress grace that enables a real response and warn that persistent refusal dulls further light; Reformed readers typically stress God’s sovereign, effectual granting of knowledge to the elect and withholding of saving insight from the reprobate."
+    },
+    {
+      "number": 12,
+      "text": "For to the one who has, more will be given, and he will have an abundance, but from the one who has not, even what he has will be taken away.",
+      "arminianNotes": "Jesus states a spiritual economy: receptive hearing receives more; empty, refusing hearing loses even seeming possession. Privilege unused becomes judgment.\n\nArminian pastoral weight: grace enables stewardship of light received. Those who welcome the word grow into abundance; those who neglect or resist find even prior advantages slip away—a sober call to responsible reception.",
+      "reformedNotes": "Abundance and loss follow the Lord’s giving. Those who “have” by gift receive more; those who “have not” in saving reality lose even outward hold on truth.\n\nReformed gravity: providence and justice meet here. God’s Word does not leave hearts unchanged—He multiplies light where He has planted life and removes presumptuous claim where there is no true possession.",
+      "keyContrast": "Both treat this as a serious spiritual principle, not a proverb about luck. Arminians typically tie increase and loss to grace-enabled response or refusal; Reformed readers typically tie them to God’s sovereign distribution of further light and judicial hardening."
+    },
+    {
+      "number": 13,
+      "text": "This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand.",
+      "arminianNotes": "Parables meet a people who look without seeing and hear without understanding. Form matches spiritual condition—stories that invite the willing and leave the stubborn without excuse.\n\nClassical Arminians stress culpability: dullness is moral, not merely intellectual. Prevenient grace has granted capacity; refusal to understand remains a real, blameworthy closing of eyes and ears.",
+      "reformedNotes": "Jesus explains method from spiritual inability: they see and hear outwardly yet do not perceive. Parables both veil and reveal according to the heart’s state under God’s judgment.\n\nReformed confession: natural sight is not spiritual sight. Without the Spirit’s opening work, crowds remain spectators of truth they do not grasp—even while the Word continues to accomplish God’s purpose.",
+      "keyContrast": "Both affirm real blindness and real guilt. Arminians typically emphasize resistible grace and responsible dulling of the heart; Reformed readers typically emphasize inability cured only by effectual illumination, with parables serving judicial as well as revelatory ends."
+    },
+    {
+      "number": 14,
+      "text": "Indeed, in their case the prophecy of Isaiah is fulfilled that says: “‘“You will indeed hear but never understand, and you will indeed see but never perceive.”",
+      "arminianNotes": "Isaiah’s oracle lands again: hearing without understanding, seeing without perception. Jesus reads Israel’s tragedy as Scripture fulfilled—not as surprise, but as the outworking of long refusal.\n\nArminian reading holds God’s foreknowledge and human responsibility together. The prophecy does not cancel sincere offers of the word; it exposes a people who keep hearing and will not turn.",
+      "reformedNotes": "Fulfillment language binds Jesus’ ministry to Isaiah 6. Judicial blindness is not a new idea; it is covenant judgment arriving in the Messiah’s day.\n\nReformed comfort and sobriety: God’s Word never fails of its purpose. Even misunderstood parables fulfill prophecy; sovereignty frames both revelation and the hardening that Scripture foresaw."
+    },
+    {
+      "number": 15,
+      "text": "For this people's heart has grown dull, and with their ears they can barely hear, and their eyes they have closed, lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them.’",
+      "arminianNotes": "The verbs press responsibility: heart grown dull, ears barely hearing, eyes they have closed. Healing stands ready—“I would heal them”—yet they will not turn.\n\nClassical Arminians hear both tragedy and sincerity: God desires healing upon repentance; prevenient grace enables turning; the “lest” names a self-protective refusal that blocks the cure freely offered.",
+      "reformedNotes": "Dull heart, heavy ears, closed eyes describe a people under judgment who also act as agents of their own blindness. The “lest” clause shows aversion to the very healing God would give.\n\nReformed theology holds guilt and inability together: they close their eyes, and God judicially confirms that path. Healing belongs to those the Lord turns; the text still leaves no room to blame God for their sin.",
+      "keyContrast": "Both see dullness as culpable and healing as God’s gift upon turning. Arminians typically stress that grace enables a genuine turn and that God sincerely would heal; Reformed readers typically stress effectual turning as God’s work and judicial hardening as His righteous response to persistent unbelief."
+    },
+    {
+      "number": 16,
+      "text": "But blessed are your eyes, for they see, and your ears, for they hear.",
+      "arminianNotes": "Blessing flips the oracle: the disciples’ eyes and ears are pronounced happy because they truly see and hear. Privilege is gift, and it calls for grateful stewardship.\n\nArminian joy: grace has opened them to receive what crowds miss. The beatitude invites all hearers to seek the same opened sight—enabled by grace, answered in real faith—rather than presume on nearness to Jesus.",
+      "reformedNotes": "“But blessed” marks distinguishing mercy. The same Lord who judges dull hearts blesses seeing eyes and hearing ears among His own.\n\nReformed doxology: spiritual perception is beatitude, not boast. Those who see do so because God has given sight; the blessing rests on gift before it rests on response."
+    },
+    {
+      "number": 17,
+      "text": "For truly, I say to you, many prophets and righteous people longed to see what you see, and did not see it, and to hear what you hear, and did not hear it.",
+      "arminianNotes": "Prophets and righteous ones longed for this day and did not receive it. The disciples stand in a privileged hour of fulfillment—Messiah present, kingdom secrets unfolding.\n\nClassical Arminians urge humility and urgency: greater light means greater responsibility. Grace that grants what saints of old desired also summons present hearers not to waste the open door.",
+      "reformedNotes": "Salvation history peaks here: what prophets longed for, the disciples now see and hear. Redemptive epochs are ordered by God’s decree, not human timetable.\n\nReformed awe: providence times revelation. The church inherits sight and hearing as gift in the fullness of time; longing across ages magnifies the mercy now given in Christ."
+    }
+  ]
+}

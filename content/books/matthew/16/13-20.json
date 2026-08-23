@@ -1,0 +1,92 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 16,
+  "verseStart": 13,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Matthew 16:13–20",
+  "context": "At Caesarea Philippi Jesus asks who He is. Peter confesses Him as the Christ, the Son of the living God. Jesus blesses this as the Father’s revelation, promises to build His church on this rock, grants keys of the kingdom, and charges silence for now.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on confession, revelation, and the church—so each camp speaks in its own voice beside Peter’s confession and the keys.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      },
+      {
+        "quote": "Saving faith… is a divine evidence and conviction, not only that God was in Christ, reconciling the world unto himself, but also that Christ loved me, and gave himself for me. It is by this faith… that we receive Christ.",
+        "cite": "John Wesley",
+        "source": "Sermon 43, “The Scripture Way of Salvation”"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Flesh and blood reveal nothing of this kind… Faith is not formed by the understanding of the flesh, but by the secret revelation of the Spirit.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 16:17)"
+      },
+      {
+        "quote": "The holy catholic or universal church… is the kingdom of the Lord Jesus Christ… There has always been, is, and will be a church of God on earth, which God protects and preserves against the rage of the whole world.",
+        "cite": "Belgic Confession",
+        "source": "Article 27 (1561)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 13,
+      "text": "Now when Jesus came into the district of Caesarea Philippi, he asked his disciples, “Who do people say that the Son of Man is?”",
+      "arminianNotes": "In a pagan border town Jesus begins with public opinion. “Son of Man” is His chosen self-designation—humble yet loaded with Daniel’s glory.\n\nArminian mission tone: the question still stands for every generation. Grace presses hearers to move from rumor about Jesus to a personal answer.",
+      "reformedNotes": "Location matters: Caesarea Philippi, thick with rival lords, becomes the place of true confession.\n\nReformed framing: Christ initiates the catechism. Before He reveals more of the cross, He draws out what disciples have received about His identity."
+    },
+    {
+      "number": 14,
+      "text": "And they said, “Some say John the Baptist, others say Elijah, and others Jeremiah or one of the prophets.”",
+      "arminianNotes": "The crowd’s answers are respectful—and inadequate. Jesus is ranked among the great, yet not confessed as the Christ.\n\nArminian warning: admiration is not saving faith. Many may honor Jesus as prophet while refusing the trust grace enables.",
+      "reformedNotes": "Poll results show partial light without saving clarity. Prophetic categories cannot contain the Son.\n\nReformed note: human religion can praise Jesus highly and still miss Him. True knowledge of Christ is more than comparative fame."
+    },
+    {
+      "number": 15,
+      "text": "He said to them, “But who do you say that I am?”",
+      "arminianNotes": "The question turns from “people” to “you.” Discipleship requires a personal confession, not borrowed headlines.\n\nClassical Arminians hear a genuine summons: grace has brought them this far; now they must answer. Faith is personal trust in the living Christ.",
+      "reformedNotes": "Christ will not leave identity to the crowd. He requires His own to speak.\n\nReformed pastoral weight: the church is built on confessed truth about Jesus. This question still divides life and death."
+    },
+    {
+      "number": 16,
+      "text": "Simon Peter replied, “You are the Christ, the Son of the living God.”",
+      "arminianNotes": "Peter’s words are the Gospel in miniature: Jesus is Messiah and divine Son. “Living God” contrasts every dead idol of Caesarea.\n\nArminian joy: this confession is what saving faith says. Grace enables the mouth to agree with the heart; the invitation remains for all who will trust the same Christ.",
+      "reformedNotes": "Here is the church’s creed before creeds: Christ, Son of the living God. Peter speaks beyond fleshly guesswork.\n\nReformed comfort: the Son revealed and confessed is the center of salvation. Everything after this verse hangs on who Jesus is."
+    },
+    {
+      "number": 17,
+      "text": "And Jesus answered him, “Blessed are you, Simon Bar-Jonah! For flesh and blood has not revealed this to you, but my Father who is in heaven.",
+      "arminianNotes": "Blessing rests on revelation: the Father disclosed what pedigree and cleverness could not. Confession is gift before it is achievement.\n\nClassical Arminians gladly ascribe the beginning of saving knowledge to grace—yet typically insist that this revealing grace can be resisted, and that those who receive it do so with a real, enabled response.",
+      "reformedNotes": "Jesus locates Peter’s insight in the Father’s revealing act, not in human ancestry (“Bar-Jonah”) or committee consensus.\n\nReformed emphasis: saving confession is the fruit of divine revelation. Flesh and blood cannot manufacture the Christ-knowledge that saves.",
+      "keyContrast": "Both deny that unaided human nature produces this confession. Arminians typically describe the Father’s revelation as grace that enables a free believing response; Reformed readers typically describe it as effectual revelation that secures true confession in the elect."
+    },
+    {
+      "number": 18,
+      "text": "And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it.",
+      "arminianNotes": "Jesus claims the church as His (“my church”) and pledges to build it. Protestant readers have heard “rock” as Peter’s confession, Peter as first confessor, or Christ the ultimate Rock—without denying Peter’s honored role.\n\nArminian confidence: the church advances by the gospel confessed, and hell’s gates cannot finally stop Christ’s building. Grace keeps calling people into that confessing people.",
+      "reformedNotes": "Christ alone is the builder; the church is His creation, not a human franchise. “Gates of hell” will not prevail—an unbreakable promise.\n\nReformed assurance: the church’s survival rests on Christ’s oath, not on perfect leaders. Whether “rock” is stressed as Peter, confession, or Christ, the victory belongs to the Lord who builds.",
+      "keyContrast": "Shared ground: Christ builds an unconquerable church. Accents differ less on whether Peter is honored than on how grace brings people into that church—enabled, resistible response versus effectual calling into the confessing body."
+    },
+    {
+      "number": 19,
+      "text": "I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven.”",
+      "arminianNotes": "Keys suggest stewardship of entrance—opening by gospel proclamation and church discipline under Christ’s word. Binding and loosing are not magic; they follow heaven’s verdict announced on earth.\n\nArminian pastoral use: the keys serve mission. The church sincerely offers Christ to all and warns that refusal is real. Authority is ministerial, tethered to Scripture.",
+      "reformedNotes": "Keys are kingdom authority entrusted for the gospel’s open door and for ordered discipline. Heaven leads; earth echoes what God has determined in His Word.\n\nReformed gravity: church authority is real yet derivative. Christ retains the ownership of the keys’ power; officers serve His binding Word for the good of His people."
+    },
+    {
+      "number": 20,
+      "text": "Then he strictly charged the disciples to tell no one that he was the Christ.",
+      "arminianNotes": "Silence is temporary strategy, not shame. Wrong expectations of Messiah could distort the news before the cross interprets it.\n\nArminian reading: timing matters in witness. Grace teaches when to speak; later the risen Lord will send them openly to the nations.",
+      "reformedNotes": "Christ controls His own revelation schedule. Messianic title without the cross would mislead Israel’s hopes.\n\nReformed note: providence governs even publicity. The same Lord who reveals to Peter also restrains premature announcement until the appointed hour."
+    }
+  ]
+}

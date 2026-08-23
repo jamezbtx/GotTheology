@@ -1,0 +1,91 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 17,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Matthew 17:1–8",
+  "context": "Six days after Peter’s confession and the first passion prediction, Jesus takes Peter, James, and John up a high mountain. He is transfigured; Moses and Elijah appear; the Father’s voice from the bright cloud commands them to listen to the beloved Son. The disciples fall in fear; Jesus touches them, and they see Jesus only.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on revelation, the beloved Son, and listening to Christ—so each camp speaks beside the Transfiguration.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… according to the scriptures, many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      },
+      {
+        "quote": "Hear ye him—As if he had said, Hear not Moses, or Elijah: they were only servants; hear Him, who is my beloved Son.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 17:5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Listen to him. These words are very emphatic; for they mean that… we must listen to him alone… The Father commands us to listen to him alone.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 17:5)"
+      },
+      {
+        "quote": "Why is he called God’s only begotten Son, when we also are children of God? Because Christ alone is the eternal, natural Son of God. We, however, are children of God by adoption, through grace, for Christ’s sake.",
+        "cite": "Heidelberg Catechism",
+        "source": "Q&A 33 (1563)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "And after six days Jesus took with him Peter and James, and John his brother, and led them up a high mountain by themselves.",
+      "arminianNotes": "After the hard word of the cross (16:21–28), Jesus grants a selected three a mountain vision. Grace often prepares faith with both warning and wonder.\n\nArminian pastoral reading: God sincerely strengthens disciples for the road ahead. The invitation upward is gift; they must still climb in obedient trust.",
+      "reformedNotes": "Timing (“after six days”) ties glory to the passion path already announced. Christ chooses witnesses according to His purpose.\n\nReformed accent: revelation is scheduled by the Lord, not seized by the crowd. What they will see is preparation for Gethsemane and the cross."
+    },
+    {
+      "number": 2,
+      "text": "And he was transfigured before them, and his face shone like the sun, and his clothes became white as light.",
+      "arminianNotes": "The veiled glory of the Son briefly shines. Disciples glimpse who has been walking with them in ordinary flesh.\n\nClassical Arminians rejoice that God makes Christ known so that faith may rest on a real Person. The light is given to be received, not earned by spiritual achievement.",
+      "reformedNotes": "Metamorphosis before them: the Son’s majesty breaks through. This is not borrowed radiance but His own.\n\nReformed comfort: the same Lord who will suffer is already glorious. Faith is steadied by God’s disclosure of who Jesus truly is."
+    },
+    {
+      "number": 3,
+      "text": "And behold, there appeared to them Moses and Elijah, talking with him.",
+      "arminianNotes": "Law and Prophets stand with Jesus—not as rivals, but as witnesses. Conversation centers on Him.\n\nArminian hope: all prior revelation leads to Christ and still calls for a living response. Scripture’s storyline presses hearers toward the Son.",
+      "reformedNotes": "Moses and Elijah appear as servants flanking the Master. Redemptive history converges on this mountain.\n\nReformed note: the covenant Word finds its goal in Christ. God Himself arranges the scene so that Jesus is not one prophet among equals."
+    },
+    {
+      "number": 4,
+      "text": "And Peter said to Jesus, “Lord, it is good that we are here. If you wish, I will make three tents here, one for you and one for Moses and one for Elijah.”",
+      "arminianNotes": "Peter’s zeal is sincere and confused. Equal tents would flatten the hierarchy the Father is about to declare.\n\nArminian caution: warm religious impulse still needs correcting by grace. Loving Jesus does not exempt us from learning His unique place.",
+      "reformedNotes": "“If you wish” sounds humble, yet the plan levels Christ with Moses and Elijah. Affection can still mis-order glory.\n\nReformed realism: even favored disciples need the Father’s voice to reorder their theology. Christ will not share equal booths with the servants."
+    },
+    {
+      "number": 5,
+      "text": "He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, “This is my beloved Son, with whom I am well pleased; listen to him.”",
+      "arminianNotes": "The Father interrupts Peter’s building plan. Identity (“beloved Son”) and command (“listen to him”) are the heart of the vision.\n\nClassical Arminians hear a genuine summons to all: grace reveals the Son and enables obedience; hearers remain responsible to listen rather than silence Him.",
+      "reformedNotes": "Shekinah cloud and heavenly voice seal Jesus’ identity. Pleasure and belovedness echo the baptism; the added “listen” crowns the revelation.\n\nReformed weight: saving knowledge of the Son is the Father’s gift and charge. The church lives under this royal command.",
+      "keyContrast": "Both receive the Father’s word as decisive. Arminians typically stress grace that enables a real, obedient hearing of the Son; Reformed readers typically stress the Father’s effectual revelation that secures true listening in His people."
+    },
+    {
+      "number": 6,
+      "text": "When the disciples heard this, they fell on their faces and were terrified.",
+      "arminianNotes": "Holy fear is the right first response to the Father’s voice. Proximity to glory undoes casual religion.\n\nArminian pastoral note: conviction and awe prepare the heart for the comfort Jesus will give. Grace both humbles and restores.",
+      "reformedNotes": "Hearing produces prostration. Sinners cannot stand unshaken before unveiled majesty.\n\nReformed sobriety: true revelation includes holy dread. God is not managed; disciples are undone before they are lifted."
+    },
+    {
+      "number": 7,
+      "text": "But Jesus came and touched them, saying, “Rise, and have no fear.”",
+      "arminianNotes": "The same Jesus who shines in glory comes near with a human touch. Comfort follows command.\n\nArminian gospel tone: the Son who must be heard is also the Savior who raises the fearful. Grace invites rising trust, not paralysis.",
+      "reformedNotes": "Incarnate kindness meets holy terror. Touch and word together restore the witnesses.\n\nReformed comfort: the Mediator stands between glory and frailty. He who is the beloved Son also shepherds trembling disciples."
+    },
+    {
+      "number": 8,
+      "text": "And when they lifted up their eyes, they saw no one but Jesus only.",
+      "arminianNotes": "Moses and Elijah vanish; the vision ends with Jesus alone. The point was never equal tents but exclusive attention to the Son.\n\nArminian application: Christian life keeps lifting the eyes to Christ. Grace continually recenters faith on Him alone for salvation and obedience.",
+      "reformedNotes": "“Jesus only” is the theological summary of the mountain. Servants withdraw; the Son remains.\n\nReformed confession: all lesser lights yield to Christ. The church’s hope, hearing, and holiness are fixed on Him alone."
+    }
+  ]
+}

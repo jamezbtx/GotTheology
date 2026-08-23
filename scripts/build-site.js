@@ -12,6 +12,79 @@ const VOICES_PATH = path.join(CONTENT, "voices.json");
 const YEAR = new Date().getFullYear();
 const SITE_ORIGIN = "https://got-theology.com";
 
+
+const CANONICAL_BOOKS = [
+  // Old Testament (39)
+  { name: "Genesis", slug: "genesis", testament: "ot" },
+  { name: "Exodus", slug: "exodus", testament: "ot" },
+  { name: "Leviticus", slug: "leviticus", testament: "ot" },
+  { name: "Numbers", slug: "numbers", testament: "ot" },
+  { name: "Deuteronomy", slug: "deuteronomy", testament: "ot" },
+  { name: "Joshua", slug: "joshua", testament: "ot" },
+  { name: "Judges", slug: "judges", testament: "ot" },
+  { name: "Ruth", slug: "ruth", testament: "ot" },
+  { name: "1 Samuel", slug: "1-samuel", testament: "ot" },
+  { name: "2 Samuel", slug: "2-samuel", testament: "ot" },
+  { name: "1 Kings", slug: "1-kings", testament: "ot" },
+  { name: "2 Kings", slug: "2-kings", testament: "ot" },
+  { name: "1 Chronicles", slug: "1-chronicles", testament: "ot" },
+  { name: "2 Chronicles", slug: "2-chronicles", testament: "ot" },
+  { name: "Ezra", slug: "ezra", testament: "ot" },
+  { name: "Nehemiah", slug: "nehemiah", testament: "ot" },
+  { name: "Esther", slug: "esther", testament: "ot" },
+  { name: "Job", slug: "job", testament: "ot" },
+  { name: "Psalms", slug: "psalms", testament: "ot" },
+  { name: "Proverbs", slug: "proverbs", testament: "ot" },
+  { name: "Ecclesiastes", slug: "ecclesiastes", testament: "ot" },
+  { name: "Song of Solomon", slug: "song-of-solomon", testament: "ot" },
+  { name: "Isaiah", slug: "isaiah", testament: "ot" },
+  { name: "Jeremiah", slug: "jeremiah", testament: "ot" },
+  { name: "Lamentations", slug: "lamentations", testament: "ot" },
+  { name: "Ezekiel", slug: "ezekiel", testament: "ot" },
+  { name: "Daniel", slug: "daniel", testament: "ot" },
+  { name: "Hosea", slug: "hosea", testament: "ot" },
+  { name: "Joel", slug: "joel", testament: "ot" },
+  { name: "Amos", slug: "amos", testament: "ot" },
+  { name: "Obadiah", slug: "obadiah", testament: "ot" },
+  { name: "Jonah", slug: "jonah", testament: "ot" },
+  { name: "Micah", slug: "micah", testament: "ot" },
+  { name: "Nahum", slug: "nahum", testament: "ot" },
+  { name: "Habakkuk", slug: "habakkuk", testament: "ot" },
+  { name: "Zephaniah", slug: "zephaniah", testament: "ot" },
+  { name: "Haggai", slug: "haggai", testament: "ot" },
+  { name: "Zechariah", slug: "zechariah", testament: "ot" },
+  { name: "Malachi", slug: "malachi", testament: "ot" },
+  // New Testament (27)
+  { name: "Matthew", slug: "matthew", testament: "nt" },
+  { name: "Mark", slug: "mark", testament: "nt" },
+  { name: "Luke", slug: "luke", testament: "nt" },
+  { name: "John", slug: "john", testament: "nt" },
+  { name: "Acts", slug: "acts", testament: "nt" },
+  { name: "Romans", slug: "romans", testament: "nt" },
+  { name: "1 Corinthians", slug: "1-corinthians", testament: "nt" },
+  { name: "2 Corinthians", slug: "2-corinthians", testament: "nt" },
+  { name: "Galatians", slug: "galatians", testament: "nt" },
+  { name: "Ephesians", slug: "ephesians", testament: "nt" },
+  { name: "Philippians", slug: "philippians", testament: "nt" },
+  { name: "Colossians", slug: "colossians", testament: "nt" },
+  { name: "1 Thessalonians", slug: "1-thessalonians", testament: "nt" },
+  { name: "2 Thessalonians", slug: "2-thessalonians", testament: "nt" },
+  { name: "1 Timothy", slug: "1-timothy", testament: "nt" },
+  { name: "2 Timothy", slug: "2-timothy", testament: "nt" },
+  { name: "Titus", slug: "titus", testament: "nt" },
+  { name: "Philemon", slug: "philemon", testament: "nt" },
+  { name: "Hebrews", slug: "hebrews", testament: "nt" },
+  { name: "James", slug: "james", testament: "nt" },
+  { name: "1 Peter", slug: "1-peter", testament: "nt" },
+  { name: "2 Peter", slug: "2-peter", testament: "nt" },
+  { name: "1 John", slug: "1-john", testament: "nt" },
+  { name: "2 John", slug: "2-john", testament: "nt" },
+  { name: "3 John", slug: "3-john", testament: "nt" },
+  { name: "Jude", slug: "jude", testament: "nt" },
+  { name: "Revelation", slug: "revelation", testament: "nt" },
+];
+
+
 function absoluteUrl(pathname) {
   if (!pathname) return SITE_ORIGIN + "/";
   if (/^https?:\/\//i.test(pathname)) return pathname;
@@ -238,6 +311,7 @@ function renderPassagePage(data, opts) {
   <meta property="og:description" content="${escapeHtml(desc)}" />
   <meta property="og:url" content="${escapeHtml(canonicalPath)}" />
   <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="GotTheology" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
@@ -357,15 +431,17 @@ ${voicesHtml}
 }
 
 function renderBibleIndex(passages) {
-  const byBook = new Map();
+  const bySlug = new Map();
   for (const p of passages) {
-    if (!byBook.has(p.book)) byBook.set(p.book, []);
-    byBook.get(p.book).push(p);
+    const key = p.bookSlug || String(p.book || "").toLowerCase().replace(/\s+/g, "-");
+    if (!bySlug.has(key)) bySlug.set(key, []);
+    bySlug.get(key).push(p);
   }
 
-  const booksHtml = [...byBook.entries()]
-    .sort((a, b) => a[0].localeCompare(b[0]))
-    .map(([book, items]) => {
+  function renderBookBlock(book) {
+    const items = bySlug.get(book.slug) || [];
+    const live = items.length > 0;
+    if (live) {
       const sorted = [...items].sort((a, b) => {
         if (a.chapter !== b.chapter) return a.chapter - b.chapter;
         return a.verseStart - b.verseStart;
@@ -392,18 +468,47 @@ function renderBibleIndex(passages) {
         })
         .join("\n          ");
       return (
-        '\n      <section class="book-block">\n        <h2>' +
-        escapeHtml(book) +
+        '\n      <section class="book-block book-block--live" data-book="' +
+        escapeHtml(book.slug) +
+        '">\n        <h2>' +
+        escapeHtml(book.name) +
         '</h2>\n        <ul class="passage-list">\n          ' +
         lis +
         "\n        </ul>\n      </section>"
       );
-    })
-    .join("\n");
+    }
+    return (
+      '\n      <section class="book-block book-block--soon" data-book="' +
+      escapeHtml(book.slug) +
+      '">\n        <h2>' +
+      escapeHtml(book.name) +
+      '</h2>\n        <p class="coming-soon">Coming soon</p>\n      </section>'
+    );
+  }
 
-  const empty =
-    '<p class="empty-state">No passages yet. Add JSON under <code>content/books/</code> and run the build script.</p>';
-  const body = passages.length === 0 ? empty : booksHtml;
+  function renderTestament(id, title, books) {
+    const blocks = books.map(renderBookBlock).join("\n");
+    return (
+      '\n      <section class="testament" id="' +
+      id +
+      '" aria-labelledby="' +
+      id +
+      '-heading">\n        <h2 class="testament-heading" id="' +
+      id +
+      '-heading">' +
+      escapeHtml(title) +
+      "</h2>\n        " +
+      blocks +
+      "\n      </section>"
+    );
+  }
+
+  const ot = CANONICAL_BOOKS.filter((b) => b.testament === "ot");
+  const nt = CANONICAL_BOOKS.filter((b) => b.testament === "nt");
+  const body =
+    renderTestament("old-testament", "Old Testament", ot) +
+    "\n" +
+    renderTestament("new-testament", "New Testament", nt);
 
   return [
     "<!DOCTYPE html>",
@@ -419,6 +524,7 @@ function renderBibleIndex(passages) {
     '  <meta property="og:description" content="Browse free verse-by-verse Arminian and Reformed commentary on GotTheology." />',
     '  <meta property="og:url" content="' + absoluteUrl("/bible/") + '" />',
     '  <meta property="og:type" content="website" />',
+    '  <meta property="og:site_name" content="GotTheology" />',
     '  <link rel="preconnect" href="https://fonts.googleapis.com" />',
     '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />',
     '  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />',
@@ -507,7 +613,6 @@ function renderBibleIndex(passages) {
   ].join("\n");
 }
 
-
 function writeRobotsTxt() {
   const body =
     "User-agent: *\n" +
@@ -522,7 +627,7 @@ function writeRobotsTxt() {
 }
 
 function writeSitemap(passages) {
-  const urls = ["/", "/bible/", "/verse.html", ...passages.map((p) => p.url)];
+  const urls = ["/", "/bible/", ...passages.map((p) => p.url)];
   const seen = new Set();
   const unique = [];
   for (const u of urls) {

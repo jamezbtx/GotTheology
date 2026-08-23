@@ -1,0 +1,135 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 18,
+  "verseStart": 21,
+  "verseEnd": 35,
+  "translation": "ESV",
+  "title": "Matthew 18:21–35",
+  "context": "Peter asks how often a brother must be forgiven—seven times?—and Jesus answers with unlimited pardon, then tells the parable of the unmerciful servant. A king cancels an unpayable debt; the forgiven man throttles a fellow servant over a tiny sum; the master reverses mercy and warns that the heavenly Father will do likewise to those who will not forgive from the heart.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on unlimited forgiveness and received mercy—so each camp speaks in its own voice beside the Lord’s warning that hearts forgiven much must show mercy.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "All our trespasses and sins are forgiven us, if we forgive, and as we forgive, others.… So that if any malice or bitterness, if any taint of unkindness or anger remains, if we do not clearly, fully, and from the heart, forgive all men their trespasses, we far cut short the forgiveness of our own.… Now, even now, by his grace, forgive as you would be forgiven! Now have compassion on thy fellow-servant, as God hath had and will have pity on thee!",
+        "cite": "John Wesley",
+        "source": "Sermon 26, “Upon Our Lord’s Sermon on the Mount: Discourse VI” (on Matt 6:12–15)"
+      },
+      {
+        "quote": "Justification is a just and gracious act of God as a judge, by which, from the throne of his grace and mercy, he absolves from his sins, man, a sinner, but who is a believer, on account of Christ.… How highly soever any one of the saints may be endowed with faith, hope, and charity… yet he will not obtain from God, the judge, a sentence of justification, unless He quit the tribunal of His severe justice, and place Himself in the throne of Grace… For woe to a life of the greatest innocence, if it be judged without mercy!",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation XIX, “On the Justification of Man before God”"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Christ is so far from yielding to this objection, that he expressly declares that there ought to be no limit to forgiving; for he did not intend to lay down a fixed number, but rather to enjoin us never to become wearied.… How ill then does that man deserve the compassion of God, who, though oppressed with an immense load, implacably refuses to forgive even the smallest offenses to men like himself?… Though he offers mercy to all, yet severe creditors, from whom no forgiveness can be obtained, are unworthy of enjoying it.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists, on Matt 18:21–35"
+      },
+      {
+        "quote": "And forgive us our debts, as we also have forgiven our debtors. That is: For the sake of Christ’s blood, do not impute to us, wretched sinners, any of our transgressions, nor the evil which still clings to us, as we also find this evidence of your grace in us that we are fully determined wholeheartedly to forgive our neighbour.",
+        "cite": "Heidelberg Catechism",
+        "source": "Q&A 126, Lord’s Day 51 (citing Matt 6:14–15; 18:21–35)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 21,
+      "text": "Then Peter came up and said to him, “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?”",
+      "arminianNotes": "Peter seeks a countable limit—seven times sounds generous beside rabbinic three—yet still treats pardon as a ledger. The question assumes we may eventually stop.\n\nArminian pastoral reading: grace has taught him to forgive at all, yet the heart still bargains for a ceiling. Responsibility remains: hearers must not ration mercy when the Lord keeps opening the door of reconciliation.",
+      "reformedNotes": "Even a disciple who has heard much still measures forgiveness by number. Flesh wants a boundary that protects pride and fatigue.\n\nReformed note: the question exposes how quickly we turn grace into accounting. Christ will answer by exploding the math and grounding pardon in the Father’s own mercy."
+    },
+    {
+      "number": 22,
+      "text": "Jesus said to him, “I do not say to you seven times, but seventy-seven times.",
+      "arminianNotes": "Jesus refuses Peter’s ceiling. Seventy-seven times (or seventy times seven) names endless readiness, not a new higher quota to track.\n\nArminian warmth: grace enables a forgiveness that keeps going. The call is sincere and weighty—we must not grow weary of showing the mercy we keep asking to receive.",
+      "reformedNotes": "Christ cancels arithmetic. The point is never becoming wearied of forgiving a repentant brother.\n\nReformed accent: kingdom ethics flow from kingdom grace. Unlimited pardon among brothers mirrors the Lord’s own patience with His people, produced by the Spirit rather than gritted willpower alone."
+    },
+    {
+      "number": 23,
+      "text": "“Therefore the kingdom of heaven may be compared to a king who wished to settle accounts with his servants.",
+      "arminianNotes": "“Therefore” ties the parable to unlimited forgiveness. The kingdom is pictured as royal accounting—God as King calling servants to settle.\n\nArminian reading: the scene is moral and personal. We stand before a real King who deals in debts and mercy; the story presses hearers to respond rightly to the grace offered.",
+      "reformedNotes": "The kingdom is compared to a king settling accounts—Christ’s chosen frame for how God relates to His household regarding forgiveness.\n\nReformed gravity: divine reckoning is real. The parable will show both astonishing pity and severe judgment on those who refuse to mirror mercy received."
+    },
+    {
+      "number": 24,
+      "text": "When he began to settle, one was brought to him who owed him ten thousand talents.",
+      "arminianNotes": "Ten thousand talents is hyperbole for an unpayable sum—millions of days’ wages. The servant’s debt dwarfs any human capacity to repay.\n\nArminian note: our sin before God is not a negotiable balance. Grace alone can cancel what we could never work off; the size of the debt prepares us to feel the wonder of release.",
+      "reformedNotes": "The figure shocks on purpose. Compared with God, our obligation is immense beyond calculation.\n\nReformed accent: the parable’s first lesson is how much we owe. Until that weight is felt, small offenses from brothers will seem large, and mercy will look optional."
+    },
+    {
+      "number": 25,
+      "text": "And since he could not pay, his master ordered him to be sold, with his wife and children and all that he had, and payment to be made.",
+      "arminianNotes": "Inability meets justice: he cannot pay, so the master orders total loss—family, property, freedom—as ancient law allowed for debt.\n\nArminian sobriety: without mercy, judgment is what we deserve. The threat is not theater; it shows how desperate the sinner’s case is before a holy King.",
+      "reformedNotes": "Justice speaks first: sell him and all he has. Christ sketches what severity would look like if God exacted every due.\n\nReformed pastoral weight: left to the rigor of the debt, we are ruined. The coming pity will shine brighter against this backdrop of deserved loss."
+    },
+    {
+      "number": 26,
+      "text": "So the servant fell on his knees, imploring him, ‘Have patience with me, and I will pay you everything.’",
+      "arminianNotes": "He falls and begs for patience—yet still imagines he can pay everything. Desperation mixes with an unrealistic vow.\n\nArminian pastoral tone: pleading is right; promising full repayment of an infinite debt is not. Still, the King will answer the plea with more than installment plans—He will cancel.",
+      "reformedNotes": "Kneeling and imploring are fitting; the boast of full repayment is not. The servant underestimates both the debt and the master’s pity.\n\nReformed note: prayer for patience is the sinner’s refuge, yet salvation is not our eventual solvency. What follows is gift, not earned clearance."
+    },
+    {
+      "number": 27,
+      "text": "And out of pity for him, the master of that servant released him and forgave him the debt.",
+      "arminianNotes": "Pity moves the master: release and full forgiveness—not a payment plan. The debt is cancelled by royal compassion.\n\nArminian joy: this is prevenient and saving mercy pictured—God forgives what we cannot repay. Such grace invites a transformed life; to receive it and remain hard is to resist the very mercy that set us free.",
+      "reformedNotes": "Compassion, not the servant’s creditworthiness, cancels the debt. Release and forgiveness arrive together as sheer gift.\n\nReformed comfort: here is the gospel shape of the parable—God’s pity remits what justice could claim. Effectual grace does not leave the heart unchanged; those truly freed learn to free others.",
+      "keyContrast": "Both marvel at free, pity-driven cancellation of an unpayable debt. Arminians typically stress sincere mercy that can be resisted afterward if the heart stays hard; Reformed readers typically stress that true reception of such pity remakes the heart toward mercy as its fruit."
+    },
+    {
+      "number": 28,
+      "text": "But when that same servant went out, he found one of his fellow servants who owed him a hundred denarii, and seizing him, he began to choke him, saying, ‘Pay what you owe.’",
+      "arminianNotes": "“That same servant” walks out forgiven and immediately seizes a peer over a hundred denarii—a tiny sum beside ten thousand talents. Violence replaces gratitude.\n\nArminian warning: received grace can be squandered. The man who begged for patience now chokes for payment; refusing to forgive resists the mercy just shown.",
+      "reformedNotes": "The contrast is deliberate and ugly: forgiven much, he throttles over little. Fellowship language (“fellow servant”) heightens the betrayal.\n\nReformed severity: this is how a heart untouched by true grace behaves. Profession of having been released means nothing while fists close on a neighbor’s throat."
+    },
+    {
+      "number": 29,
+      "text": "So his fellow servant fell down and pleaded with him, ‘Have patience with me, and I will pay you.’",
+      "arminianNotes": "The smaller debtor echoes the first man’s own words—fall, plead, ask patience. Empathy should have been automatic.\n\nArminian note: grace supplies the memory of our own pleading. When we hear our cry in another’s mouth, love ought to answer; hardness here is culpable refusal.",
+      "reformedNotes": "Same posture, same plea—yet no pity. The mirror is unmistakable.\n\nReformed accent: God often lets us hear our own petitions in a brother’s voice. Those who know the King’s compassion recognize the scene; those who do not expose what rules them."
+    },
+    {
+      "number": 30,
+      "text": "He refused and went and put him in prison until he should pay the debt.",
+      "arminianNotes": "Refusal is active: he will not, and he imprisons. Mercy received becomes cruelty given.\n\nArminian pastoral weight: this is resistible grace lived out badly—real forgiveness was offered upstream, yet the servant will not extend it. v. 35 will press the warning home.",
+      "reformedNotes": "Hard refusal and prison close the scene. No limit-testing, no negotiation—only severity.\n\nReformed reading: such implacability is incompatible with a heart that has truly tasted the King’s pity. The story moves toward judgment that unveils what the man really is."
+    },
+    {
+      "number": 31,
+      "text": "When his fellow servants saw what had taken place, they were greatly distressed, and they went and reported to their master all that had taken place.",
+      "arminianNotes": "Witnesses are distressed and report. Cruelty among servants is not private; the household feels the wound.\n\nArminian note: community matters. Brothers who see unforgiveness should not shrug; bringing it to the Master is love for both the oppressed and the oppressor.",
+      "reformedNotes": "Fellow servants become witnesses before the king. Outrage at cruelty is natural and right.\n\nReformed gravity: God needs no informers, yet the parable teaches that our dealings with one another are seen and will be told. The church’s distress at mercilessness echoes heaven’s."
+    },
+    {
+      "number": 32,
+      "text": "Then his master summoned him and said to him, ‘You wicked servant! I forgave you all that debt because you pleaded with me.",
+      "arminianNotes": "The master summons and names him wicked. The charge rests on memory: I forgave all that debt because you pleaded.\n\nArminian reading: prior mercy makes later hardness inexcusable. Grace was real; the plea was heard; the servant’s refusal is therefore a willful betrayal of received kindness.",
+      "reformedNotes": "Wickedness is defined by contrast with free forgiveness already given. The king rehearses his own pity as the standard.\n\nReformed accent: judgment here is not arbitrary. It answers a heart that treated infinite release as license for cruelty—exposing a profession empty of the mercy it claimed."
+    },
+    {
+      "number": 33,
+      "text": "And should not you have had mercy on your fellow servant, as I had mercy on you?’",
+      "arminianNotes": "The key question: should you not have had mercy as I had mercy? Received pity creates obligation to show pity.\n\nArminian preaching: this “should” is a real moral demand. Grace enables and requires; to refuse mercy toward a fellow servant is to resist the pattern of the King who forgave you.",
+      "reformedNotes": "“As I had mercy on you” is the ethic of the kingdom. Horizontal mercy is measured by vertical mercy already shown.\n\nReformed comfort and warning: the Spirit writes this logic on new hearts. Where mercy toward brothers is stubbornly absent, we must ask whether the King’s mercy has truly been known.",
+      "keyContrast": "Both hear a binding ‘ought’ rooted in mercy already received. Arminians typically stress enabled responsibility—we must not resist showing the pity given us; Reformed readers typically stress that effectual grace produces merciful hearts, so persistent refusal may expose a false claim to have received that mercy."
+    },
+    {
+      "number": 34,
+      "text": "And in anger his master delivered him to the jailers, until he should pay all his debt.",
+      "arminianNotes": "Anger delivers him to the jailers until full payment—an impossibility that signals ruin. Reversed mercy becomes judgment.\n\nArminian sobriety: the warning is sincere. Those who will not forgive place themselves back under a debt they cannot pay; grace refused as a way of life meets real consequence.",
+      "reformedNotes": "Royal anger hands him over. Calvin notes the “until” points not to temporary satisfaction but to unresolved ruin under judgment.\n\nReformed severity: God is not mocked. Unmerciful hardness invites a fatherly and final severity that matches the parable’s close—and drives the church to examine whether grace has taken root."
+    },
+    {
+      "number": 35,
+      "text": "So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.”",
+      "arminianNotes": "Jesus applies the parable without soft edges: the heavenly Father will do likewise to each who will not forgive from the heart. Heart-level pardon, not mere words, is required.\n\nArminian warning taken seriously: refusing to forgive is resisting grace. The same Lord who enables unlimited mercy warns that an unforgiving posture forfeits the mercy we claim; repent, and forgive as you have been forgiven.",
+      "reformedNotes": "“So also” binds heaven’s action to the story. Forgiveness must be from the heart—Spirit-wrought, not theatrical.\n\nReformed pastoral weight: v. 35 is deadly earnest. Persistent unforgiveness may expose a false profession or invite severe fatherly judgment; those truly justified find in grace the evidence Heidelberg names—a firm resolve to forgive their neighbor.",
+      "keyContrast": "Both take v. 35 with full seriousness—no loophole that shrugs off heart-forgiveness. Arminians typically hear a real warning that refusing to forgive resists and can cut short experienced grace; Reformed readers typically hear that unforgiveness may unmask an unrenewed heart or bring fatherly judgment, while effectual grace reliably yields merciful hearts."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 3,
+  "verseStart": 7,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Matthew 3:7–12",
+  "context": "John confronts Pharisees and Sadducees seeking baptism without fruit: viper brood, Abrahamic presumption, axe at the root, and a Coming One who baptizes with Spirit and fire and separates wheat from chaff.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on repentance, wrath, and fruit—so each camp speaks in its own voice beside John’s warning.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      },
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We call predestination God’s eternal decree, by which he determined with himself what he willed to become of each man. For all are not created in equal condition; rather, eternal life is foreordained for some, eternal damnation for others.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.21.5"
+      },
+      {
+        "quote": "But now that election operates according to grace, there is hope even for the most wretched. If work and reward were the standard of admission into the kingdom of heaven, its gates would be opened for no one.",
+        "cite": "Herman Bavinck",
+        "source": "Reformed Dogmatics, vol. 2"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 7,
+      "text": "But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, “You brood of vipers! Who warned you to flee from the wrath to come?",
+      "arminianNotes": "Religious leaders arrive, and John does not flatter them. “Brood of vipers” and “wrath to come” strip pedigree of safety. Fleeing wrath is wise only if fruit follows.\n\nArminian urgency: the warning is sincere. Wrath is real, and hearers are summoned to flee it by true repentance—not by a baptism that leaves the heart unchanged.",
+      "reformedNotes": "John exposes counterfeit approach to baptism. Wrath is coming; religious labels do not cancel it.\n\nReformed sobriety: God’s judgment is not a scare tactic without substance. The prophet’s harshness is mercy that tells the truth before the axe falls."
+    },
+    {
+      "number": 8,
+      "text": "Bear fruit in keeping with repentance.",
+      "arminianNotes": "Repentance has a matching harvest. Fruit “in keeping with” means a life that fits the turn claimed at the water.\n\nClassical Arminians preach this as real moral change under grace. Confession without fruit is incomplete; grace enables a new walk that can and should appear.",
+      "reformedNotes": "Fruit authenticates repentance. John refuses empty profession.\n\nReformed accent: new life shows. Fruit is evidence of a heart God has turned—not a wage that buys pardon, yet never optional window dressing.",
+      "keyContrast": "Both demand fruit with repentance. Arminians typically stress grace-enabled responsibility to produce a matching life; Reformed readers typically stress fruit as necessary evidence of a repentance God has wrought."
+    },
+    {
+      "number": 9,
+      "text": "And do not presume to say to yourselves, ‘We have Abraham as our father,’ for I tell you, God is able from these stones to raise up children for Abraham.",
+      "arminianNotes": "Abrahamic descent is no shelter from wrath. God can raise children from stones—heritage cannot replace faith and fruit.\n\nArminian pastoral cut: privilege without response is presumption. The invitation remains open, but ancestry does not save.",
+      "reformedNotes": "Covenant privilege without faith is empty. God is free to create a people for Abraham beyond bloodlines.\n\nReformed reading: election and promise are God’s to fulfill. Stones-language humbles every boast in flesh while magnifying God’s power to raise a true seed."
+    },
+    {
+      "number": 10,
+      "text": "Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.",
+      "arminianNotes": "The axe is already at the root—judgment is near, not theoretical. Fruitless trees face fire.\n\nArminian plea: repent while the axe has not yet swung. The warning aims at conversion, not despair alone.",
+      "reformedNotes": "“Even now” marks present crisis. Fruitless trees are cut down and burned.\n\nReformed honesty: final judgment is rooted in God’s righteousness. The axe image is gospel seriousness that drives sinners to the Coming One, not to self-repair."
+    },
+    {
+      "number": 11,
+      "text": "“I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.",
+      "arminianNotes": "John’s water baptism is for repentance; the Coming One is mightier and baptizes with Spirit and fire. John decreases; Jesus surpasses.\n\nArminian Christology of grace: the Spirit’s work is offered in the Mightier One. Fire can purify or judge; either way, Jesus’ baptism eclipses John’s.",
+      "reformedNotes": "John’s humility frames Jesus’ supremacy. Spirit-and-fire baptism is the Messiah’s own work.\n\nReformed accent: the Spirit is given by the Son according to the Father’s purpose. John’s ministry is preparatory; Christ’s is decisive and effectual."
+    },
+    {
+      "number": 12,
+      "text": "His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire.”",
+      "arminianNotes": "Winnowing separates wheat and chaff. Jesus gathers and burns; the invitation to be wheat is urgent under unquenchable fire.\n\nArminian evangelism: flee chaff’s end by true repentance and faith in the Coming One. The fork is in His hand—respond while gathering is still offered.",
+      "reformedNotes": "The threshing floor is His; wheat and chaff meet different ends. Gathering and burning are the Messiah’s acts.\n\nReformed confidence: Christ clears His floor completely. Judgment and salvation are not left unfinished; the barn and the fire both display His lordship.",
+      "keyContrast": "Both preach real separation under Christ. Arminians typically emphasize the sincere call to repent and become wheat; Reformed readers typically emphasize Christ’s effectual clearing of His floor—gathering His wheat and judging the chaff."
+    }
+  ]
+}

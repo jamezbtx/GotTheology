@@ -1,0 +1,90 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 5,
+  "verseStart": 43,
+  "verseEnd": 48,
+  "translation": "ESV",
+  "title": "Matthew 5:43–48",
+  "context": "The antitheses climax in love of enemies. Jesus corrects a shriveled reading of neighbor-love, roots disciple love in the Father’s common kindness to evil and good, and calls His people toward the Father’s own perfection—holy love that refuses a closed circle.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "On loving enemies and the Father’s generous sun and rain, Arminian and Reformed teachers both refuse tribal hatred—yet they accent how such love is possible and what “perfect” demands.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you—that ye may be the children of your Father which is in heaven.",
+        "cite": "John Wesley",
+        "source": "Sermon 22, “Upon Our Lord’s Sermon on the Mount,” Discourse Two (on Matt 5:43–48)"
+      },
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      },
+      {
+        "quote": "That this grace of God is the beginning, continuance, and accomplishment of all good… But as respects the mode of the operation of this grace, it is not irresistible, inasmuch as it is written concerning many, that they have resisted the Holy Spirit.",
+        "cite": "The Remonstrance",
+        "source": "Article IV (1610)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "There is a general kindness of God which extends to all… He makes his sun to rise on the evil and on the good, and sends rain on the just and on the unjust.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 5:45)"
+      },
+      {
+        "quote": "We call predestination God’s eternal decree, by which he determined with himself what he willed to become of each man. For all are not created in equal condition; rather, eternal life is foreordained for some, eternal damnation for others.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.21.5"
+      },
+      {
+        "quote": "But now that election operates according to grace, there is hope even for the most wretched. If work and reward were the standard of admission into the kingdom of heaven, its gates would be opened for no one.",
+        "cite": "Herman Bavinck",
+        "source": "Reformed Dogmatics, vol. 2"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 43,
+      "text": "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’",
+      "arminianNotes": "“Love your neighbor” is biblical; “hate your enemy” is a distortion piled on. Jesus exposes a tradition that shrunk love into tribal loyalty.\n\nClassical Arminians hear a corrective that widens the circle. Neighbor-love was never meant to baptize hatred; grace confronts selective compassion.",
+      "reformedNotes": "Christ separates God’s word from human add-ons. Hatred of enemies is not Torah’s true trajectory.\n\nReformed note: the King reclaims the law from hard hearts. What “was said” includes oral tradition; what Jesus says restores love’s scope under God’s authority."
+    },
+    {
+      "number": 44,
+      "text": "But I say to you, Love your enemies and pray for those who persecute you,",
+      "arminianNotes": "Love and prayer for persecutors is the kingdom’s hard edge. Enemies remain enemies in role, yet become objects of active goodwill.\n\nArminian emphasis: grace enables a real obedience here—believers may refuse hatred and intercede. The command is sincere, costly, and central to Jesus’ ethic.",
+      "reformedNotes": "Enemy-love is not sentimental; it is commanded likeness to the Father. Prayer for persecutors is warfare by mercy.\n\nReformed accent: such love is Spirit fruit in those united to Christ, who loved us while we were enemies (Rom 5:10). The indicative of the cross underwrites the imperative.",
+      "keyContrast": "Both treat enemy-love as non-negotiable. Arminians typically stress grace-assisted, responsible obedience to a sincere command; Reformed readers typically stress that this love flows from union with Christ and the Spirit’s effectual work in the regenerate."
+    },
+    {
+      "number": 45,
+      "text": "so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.",
+      "arminianNotes": "Sonship is shown in family resemblance: the Father’s common kindness to evil and good. Sun and rain preach a generosity disciples must mirror.\n\nArminian reading treasures this as evidence of God’s sincere goodwill toward all—common kindness that also invites repentance. Disciples love broadly because the Father does.",
+      "reformedNotes": "Common kindness (sun and rain) displays God’s providence toward all creatures without erasing electing grace. Children copy the Father’s open-handedness in daily mercies.\n\nReformed distinction: general kindness is real and to be imitated; saving grace remains God’s sovereign gift. Enemy-love images the Father’s providence, not a denial of particular redemption."
+    },
+    {
+      "number": 46,
+      "text": "For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?",
+      "arminianNotes": "Reciprocal love is natural religion; kingdom love exceeds the circle of those who already like us. Tax collectors become the mirror—if even they manage mutual affection, disciples must go further.\n\nArminian pastoral prod: grace calls for more than comfortable friendships. Reward language invites faithfulness that seeks the Father’s smile.",
+      "reformedNotes": "Jesus relativizes in-group affection. Covenant people must surpass pagan reciprocity.\n\nReformed note: “reward” is Fatherly commendation, not wages that purchase adoption. The critique exposes counterfeit righteousness that never leaves the safety of mutual admiration."
+    },
+    {
+      "number": 47,
+      "text": "And if you greet only your brothers, what more are you doing than others? Do not even the Gentiles do the same?",
+      "arminianNotes": "Greeting only brothers is courtesy inside the tribe. “What more” presses distinctive holiness—love that crosses the boundary.\n\nClassical Arminians hear a missional ethic: grace forms a people whose kindness is noticeable beyond the family circle.",
+      "reformedNotes": "Gentile sameness shames selective warmth. Kingdom righteousness is “more”—not in pride, but in scope.\n\nReformed accent: the holy nation greets beyond blood and clique because it belongs to a Father whose mercies are not tribal."
+    },
+    {
+      "number": 48,
+      "text": "You therefore must be perfect, as your heavenly Father is perfect.”",
+      "arminianNotes": "“Perfect” (complete, mature) sums the antitheses: whole-hearted love like the Father’s. The standard is God Himself—humbling and empowering under grace.\n\nArminian hope: entire sanctification traditions hear here a serious call toward love made complete, while all classical Arminians agree the aim is real conformity, not a shrug that holiness is optional.",
+      "reformedNotes": "The standard is the Father’s own perfection—an absolute that drives disciples to Christ even as it directs their aim. Perfect love is the goal of sanctification.\n\nReformed comfort: justification is not by our reaching this mark; yet the regenerate are summoned toward it, and God finishes what He begins. The verse closes the door on half-love and half-obedience.",
+      "keyContrast": "Both refuse a truncated ethic. Arminians often stress a sincere, grace-enabled pursuit of complete love (some Wesleyans hearing entire sanctification); Reformed readers often stress the Father’s perfection as both the believer’s aim and a standard that drives reliance on Christ’s righteousness while the Spirit sanctifies."
+    }
+  ]
+}

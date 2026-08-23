@@ -642,6 +642,19 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
   color: var(--ink-muted);
   font-size: 1.05rem;
 }
+.testament {
+  margin-bottom: 2.75rem;
+}
+.testament-heading {
+  font-family: var(--font-serif);
+  font-size: clamp(1.65rem, 3vw, 2rem);
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: 0.01em;
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 2px solid var(--gold);
+}
 .book-block {
   background: var(--paper);
   border: 1px solid var(--border);
@@ -649,6 +662,30 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
   box-shadow: var(--shadow-sm);
   padding: 1.5rem 1.6rem 1.35rem;
   margin-bottom: 1.25rem;
+}
+.book-block--live {
+  border-color: rgba(176, 141, 62, 0.35);
+}
+.book-block--soon {
+  background: transparent;
+  box-shadow: none;
+  border-style: dashed;
+  opacity: 0.72;
+  padding: 1rem 1.25rem;
+}
+.book-block--soon h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.35rem;
+  padding-bottom: 0;
+  border-bottom: none;
+  color: var(--ink-muted);
+  font-weight: 500;
+}
+.book-block .coming-soon {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  font-style: italic;
 }
 .book-block h2 {
   font-size: 1.55rem;

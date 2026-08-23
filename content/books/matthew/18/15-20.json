@@ -1,0 +1,81 @@
+{
+  "book": "Matthew",
+  "bookSlug": "matthew",
+  "chapter": 18,
+  "verseStart": 15,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Matthew 18:15–20",
+  "context": "Jesus moves from seeking the stray sheep to ordered restoration among brothers. He maps private confrontation, witnesses, and church involvement—aimed at gaining the offender—then grounds the process in binding and loosing, corporate prayer, and His own presence with the gathered few.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on restoration, discipline, and Christ’s presence with His people—so each camp speaks in its own voice beside the Lord’s steps for gaining a brother.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Such a society is no other than a company of men having the form and seeking the power of godliness, united in order to pray together, to receive the word of exhortation, and to watch over one another in love, that they may help each other to work out their salvation.… If there be any among us who observe them not, who habitually break any of them, let it be known unto them who watch over that soul as they who must give an account. We will admonish him of the error of his ways. We will bear with him for a season. But then, if he repent not, he hath no more place among us. We have delivered our own souls.",
+        "cite": "John Wesley",
+        "source": "The Nature, Design, and General Rules of the United Societies (1743)"
+      },
+      {
+        "quote": "Ecclesiastical discipline is an act of the church, by which, according to the power instituted by God and Christ, and bestowed on her… she reprehends… those who belong to the church, if they have fallen into open sin, and admonishes them to repent; or, if they pertinaciously persevere in their sins, she excommunicates them, to the benefit of the whole church, the salvation of the sinner himself, to the profit of those who are without, and to the glory of God himself and Christ.… The intention is, the salvation of him who has sinned, and that of the whole body of the church.",
+        "cite": "Jacobus Arminius",
+        "source": "Disputation LVII, “On the Power of the Church in Administering Justice, or on Ecclesiastical Discipline”"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The church binds him whom she excommunicates, not by plunging him into eternal ruin and despair, but condemning his life and manners, and admonishing him, that, unless he repent, he is condemned. She looses him whom she receives into communion… Let no one, therefore, contumaciously despise the judgment of the Church… The Lord testifies that such judgment of the faithful is nothing else than the promulgation of his own sentence, and that what they do on earth is ratified in heaven.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion IV.11.2 (on Matt 18:17–18)"
+      },
+      {
+        "quote": "Church censures are necessary, for the reclaiming and gaining of offending brethren, for deterring of others from the like offences, for purging out of that leaven which might infect the whole lump, for vindicating the honour of Christ, and the holy profession of the Gospel, and for preventing the wrath of God, which might justly fall upon the Church, if they should suffer His covenant, and the seals thereof, to be profaned by notorious and obstinate offenders.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 30.3, “Of Church Censures” (1646)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 15,
+      "text": "“If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother.",
+      "arminianNotes": "Discipline begins in private love, not public spectacle. The aim is explicit: gain your brother—restore fellowship, not win an argument.\n\nArminian pastoral reading: grace supplies sincere means. The offended goes; the offender may listen. Responsibility is mutual—courage to speak and freedom to repent—without skipping to shame that hardens rather than heals.",
+      "reformedNotes": "Christ orders the first step: go alone. Covering a brother’s fault as far as possible protects charity while still pursuing truth.\n\nReformed accent: this is Christ’s ordinance for His household, not optional etiquette. The Spirit often uses a quiet word as the means of reclaiming; the goal is gain, matching the Shepherd who seeks the stray."
+    },
+    {
+      "number": 16,
+      "text": "But if he does not listen, take one or two others along with you, that every charge may be established by the evidence of two or three witnesses.",
+      "arminianNotes": "Obstinacy widens the circle carefully. Witnesses establish the matter and add weight without leaping to the whole assembly.\n\nArminian note: further means of grace arrive—loving pressure that can still be refused. The congregation’s responsibility grows by measured steps; neither gossip nor premature publicity serves restoration.",
+      "reformedNotes": "Moses’ standard of two or three witnesses (Deut 19:15) guards both truth and the accused. Escalation is ordered, not impulsive.\n\nReformed gravity: Christ builds due process into His church. Witnesses serve justice and meekness together, so that when the church must later speak, the charge rests on established evidence."
+    },
+    {
+      "number": 17,
+      "text": "If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector.",
+      "arminianNotes": "The church becomes the final earthly court of appeal among brothers. Persistent refusal yields a changed status: treat him as outsider—yet Jesus befriended Gentiles and tax collectors, so the stance is separation from membership privileges, not hatred or abandoned evangelism.\n\nArminian reading: discipline is a loving invitation that can be refused. The offender remains accountable; the congregation must not pretend fellowship where repentance is spurned, while still hoping grace may yet reclaim.",
+      "reformedNotes": "Refusal to hear even the church brings excommunication’s posture: as Gentile and tax collector—outside the covenant community’s table and intimacy.\n\nReformed pastoral weight: purity of the church and reclaiming of the offender belong together. Heaven takes the church’s faithful judgment seriously; the aim remains gaining the brother if he turns, while protecting the flock from leaven that would corrupt the whole.",
+      "keyContrast": "Both refuse gossip-first discipline and both keep restoration as the goal. Arminians typically stress sincere, resistible means—the offender may refuse a real invitation; Reformed readers typically stress Christ’s ordinance of the keys, whereby the church’s faithful censures align with heaven’s verdict and serve the Spirit’s reclaiming work."
+    },
+    {
+      "number": 18,
+      "text": "Truly, I say to you, whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven.",
+      "arminianNotes": "Amen-authority ties earth’s church judgments to heaven—not as magic, but as declarative ministry under Christ’s word. Binding and loosing name the church’s stewardship when it faithfully retains or remits according to Scripture.\n\nArminian caution: authority is real yet ministerial. Congregations remain responsible to judge by the gospel; heaven does not rubber-stamp every human verdict, and offenders remain responsible to repent when loosing is offered.",
+      "reformedNotes": "Here the keys appear in the discipline setting: what the church binds or looses in fidelity to Christ’s word is ratified in heaven.\n\nReformed comfort and warning: church censures are not empty social gestures. Christ pledges that heaven stands behind His people’s Word-bound judgment—condemning impenitence and receiving the penitent—while He alone remains the true Judge who speaks through His ordinance.",
+      "keyContrast": "Shared ground: binding and loosing are church authority tethered to heaven, not private vengeance. Arminians typically accent ministerial declaration and the real possibility of resisting the means; Reformed readers typically accent heaven’s ratification of Christ’s keys exercised for purity and reclaiming."
+    },
+    {
+      "number": 19,
+      "text": "Again I say to you, if two of you agree on earth about anything they ask, it will be done for them by my Father in heaven.",
+      "arminianNotes": "“Again” links prayer-agreement to the discipline context: the small circle that confronts and the church that judges should ask together. The Father hears united petitions shaped by Christ’s will.\n\nArminian warmth: corporate prayer is a sincere means. Believers must agree and ask; the promise invites responsibility to seek the Father’s help for wisdom, courage, and the offender’s restoration—not a blank check for selfish wishes.",
+      "reformedNotes": "Agreement in prayer undergirds the church’s hard work. The Father’s answer is promised to requests aligned with the Son’s name and purpose.\n\nReformed accent: God governs His church by Word and prayer. The Spirit uses gathered asking so that binding, loosing, and restoration are not mere human politics but acts seeking the Father’s will.",
+      "keyContrast": "Both tie small-company agreement to the Father’s action. Arminians typically stress enabled, responsible asking that grace invites; Reformed readers typically stress the Father’s sure hearing of prayers He Himself orders for His people’s good."
+    },
+    {
+      "number": 20,
+      "text": "For where two or three are gathered in my name, there am I among them.”",
+      "arminianNotes": "Christ’s presence explains the weight of even a small gathering “in my name”—gathered under His authority, for His purposes, not for clique or conspiracy. Two or three who confront, pray, or worship are not alone.\n\nArminian encouragement: the means of grace include Christ’s nearness with His people. Discipline and fellowship both happen before a living Lord who enables fidelity and still calls the wandering to return.",
+      "reformedNotes": "The promise is presence, not mere sentiment: where two or three gather in His name, Christ is among them—guiding, confirming, and owning the assembly that seeks Him.\n\nReformed assurance: the church’s smallest faithful meeting is not orphaned. Christ’s true presence with His people grounds both gentle restoration and solemn censure; He keeps His ordinance and comforts those who obey it."
+    }
+  ]
+}
