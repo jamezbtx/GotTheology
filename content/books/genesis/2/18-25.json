@@ -1,0 +1,91 @@
+{
+  "book": "Genesis",
+  "bookSlug": "genesis",
+  "chapter": 2,
+  "verseStart": 18,
+  "verseEnd": 25,
+  "translation": "ESV",
+  "title": "Genesis 2:18–25",
+  "context": "Still in the garden, the LORD God names the first “not good”: the man’s aloneness. Verses 18–25 narrate a helper fit for him—animals named and found wanting, a deep sleep, a woman built from his side, joy at bone and flesh, and the one-flesh ordinance of marriage—ending in shameless innocence before the fall.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on helper, one flesh, and the first marriage—so each camp speaks in its own voice beside the garden ordinance.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is not good that man—this man—should be alone. Though there was an upper world of angels, and a lower world of brutes, yet there being none of the same rank of beings with himself, he might be truly said to be alone… This lovely creature, now presented to him, was a piece of himself and was to be his companion, and the wife of his covenant… differing from man in sex only, not in nature; made of man, and joined to man. The sabbath and marriage were two ordinances instituted in innocency, the former for the preservation of the church, the latter for the preservation of mankind.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 2:18, 23–24)"
+      },
+      {
+        "quote": "I will make him a help meet for him; ezer kenegdo, a help, a counterpart of himself, one formed from him, and a perfect resemblance of his person. If the word be rendered scrupulously literally, it signifies one like, or as himself, standing opposite to or before him. And this implies that the woman was to be a perfect resemblance of the man, possessing neither inferiority nor superiority, but being in all things like and equal to himself.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Gen 2:18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses intended to note some equality. And hence is refitted the error of some, who think that the woman was formed only for the sake of propagation… as if she had been given to him only for the companion of his chamber, and not rather that she might be the inseparable associate of his life… The voice of God is rather to be heard, which declares that woman is given as a companion and an associate to the man, to assist him to live well.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 2:18)"
+      },
+      {
+        "quote": "Marriage is to be between one man and one woman: neither is it lawful for any man to have more than one wife, nor for any woman to have more than one husband, at the same time. Marriage was ordained for the mutual help of husband and wife, for the increase of mankind with legitimate issue, and of the church with an holy seed; and for preventing of uncleanness.",
+        "cite": "Westminster Confession of Faith",
+        "source": "24.1–2 (1647)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "Then the LORD God said, “It is not good that the man should be alone; I will make him a helper fit for him.”",
+      "arminianNotes": "The first “not good” in Genesis is aloneness: the LORD God will make a helper fit for him. Wesley: without a being of his own rank, the man is truly alone among angels and brutes. Clarke: ezer kenegdo is counterpart—like himself, neither inferior nor superior.\n\nClassical Arminians hear companionship as original goodness, not a post-fall concession. Helper names strength alongside, not a menial add-on; marriage will be covenant between equals in nature, a fit corresponding to the man, sincerely given for mutual life.",
+      "reformedNotes": "God Himself diagnoses what is not good and promises a helper fit for him. Calvin: Moses notes some equality; she is counterpart, the inseparable associate of life, not formed only for propagation or as a “necessary evil.”\n\nReformed confession: marriage is divine design for mutual society, the best support of life, with mutual obligation—the woman a companion-help, the man her head not as tyrant but as leader who owes her in return. The institution is good even before any fall-remedy is needed."
+    },
+    {
+      "number": 19,
+      "text": "Now out of the ground the LORD God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.",
+      "arminianNotes": "Beasts and birds, formed from the ground, are brought to the man to see what he would call them; whatever he called each, that was its name. Naming is knowledge and gentle dominion, a proof of the man’s wisdom.\n\nArminian reading: God honors real human agency. The man inspects and names; his words stick. The parade also pedagogically displays that no animal is his counterpart—so the helper, when she comes, will be received as gift, not as one more creature among the herd.",
+      "reformedNotes": "God brings the animals for naming; the man’s designations stand. Calvin: this bringing is God’s giving them a disposition of obedience, so they offer themselves to be distinguished.\n\nReformed accent: dominion is exercised under God’s eye. Names are not random noises; they rest on knowledge God enables. The review will prove a negative: among all these, no helper fit for him—providence teaching by what is withheld."
+    },
+    {
+      "number": 20,
+      "text": "The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him.",
+      "arminianNotes": "He names livestock, birds, and beasts of the field—but for Adam no helper fit for him is found. The search ends in a holy lack; solitude is now felt, not only announced.\n\nClassical Arminians hear the man’s social nature as created, not accidental. Fitness is the issue: many good creatures, none corresponding. The coming woman will not be a failed animal but a match in rank, the answer to a want God named first.",
+      "reformedNotes": "Naming runs its course; for Adam no helper fit is found. The verse makes the distinction of kind unmistakable.\n\nReformed note: God could have spoken the woman into being at once, yet He leads Adam through this inventory so that the gift is known as gift. Lack is pedagogical. The helper will be of his kind, or the man remains destitute of a proper help."
+    },
+    {
+      "number": 21,
+      "text": "So the LORD God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.",
+      "arminianNotes": "The LORD God causes a deep sleep, takes one of the man’s ribs, and closes the place with flesh. Wesley: this is the sixth day’s making of male and female told distinctly; the sleep is deep so the opening of his side is no grievance—while he knows no sin, God takes care he feels no pain.\n\nArminian pastoral note: the man does not invent the woman or seize her. He sleeps; God acts. Marriage’s origin is mercy in surgery, not a contract the stronger party drafts while awake.",
+      "reformedNotes": "Deep sleep, a rib taken, flesh closed. Calvin: both sexes spring from one origin so that the conjunction of the race might be more sacred; Adam will recognize himself in his wife as in a mirror.\n\nReformed comfort: God could have made her from the dust as He made the man, but He chose a shared substance. The sleep hides pain, not the meaning; what is taken is returned richer—one body destined for a faithful associate of life."
+    },
+    {
+      "number": 22,
+      "text": "And the rib that the LORD God had taken from the man he made into a woman and brought her to the man.",
+      "arminianNotes": "The rib taken from the man He made (Hebrew: built) into a woman and brought her to the man. She is God’s workmanship, then God’s gift, presented like a bride.\n\nClassical Arminians stress the bringing: the man receives her from the LORD’s hand. Marriage is instituted by presentation, not by the man’s will grabbing a partner. The woman arrives as built person, not raw material still waiting to be named into dignity.",
+      "reformedNotes": "Made into a woman and brought to the man: Calvin heard marriage divinely instituted because Adam did not take a wife at his own will but received her as offered by God.\n\nReformed confession: God is Author and Patron of marriage. To defame the ordinance is to reproach its Giver; to receive it is to take a wife from His hand, in chastity and honor, as the completing of the human building begun in the man."
+    },
+    {
+      "number": 23,
+      "text": "Then the man said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.”",
+      "arminianNotes": "“This at last”—bone of bones, flesh of flesh; she shall be called Woman, because taken out of Man. Wesley: a piece of himself, companion and wife of his covenant; Isha, a she-man, differing in sex only, not in nature.\n\nArminian reading: the man’s first recorded words are recognition and welcome, not ownership-by-contempt. Naming here is kinship: made of man and joined to man. Equality of nature is sung before any later distortion of rule.",
+      "reformedNotes": "Adam’s “at last” confesses that something had been wanting; he sees another self, and names her from man. Calvin: God made the origin manifest so that they would be more closely joined by this bond.\n\nReformed note: joy and headship meet without canceling each other. He names, as he named the animals, yet the name itself proclaims shared flesh. Taken out of man is the ground of union, not of disdain."
+    },
+    {
+      "number": 24,
+      "text": "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.",
+      "arminianNotes": "Therefore a man leaves father and mother, holds fast to his wife, and they become one flesh. Wesley: Sabbath and marriage are ordinances of innocency; God Himself says a man must leave relations to cleave to his wife, a bond stronger even than nature.\n\nClassical Arminians receive monogamous, covenantal union as creation’s pattern—one man, one woman, one flesh—to be entered with parental honor and kept by grace. Jesus will cite this verse against easy divorce; the call to hold fast is a living duty, not a metaphor we may thin at will.",
+      "reformedNotes": "Leave, hold fast, one flesh: Moses draws the end of the institution. Calvin: the conjugal bond is the principal sacred office of human society, wife preferred even to father; the singular “wife” and “one flesh” refute polygamy.\n\nReformed confession, with Westminster 24: marriage is one man and one woman, ordained for mutual help, legitimate issue, and holiness. What God joined in the beginning remains the rule; to dissolve it lightly is to reduce the laws of nature to nothing."
+    },
+    {
+      "number": 25,
+      "text": "And the man and his wife were both naked and were not ashamed.",
+      "arminianNotes": "Both naked and not ashamed: no need of clothes for cold, ornament, or decency. Wesley: they knew not what shame was; blushing is now the color of virtue, but it was not the color of innocency.\n\nArminian pastoral honesty: this verse describes original integrity, not a program to recover shamelessness by ignoring sin. The fall will teach covering; until then, the one-flesh pair stands before God and each other without hiding. Grace later clothes what innocency did not need to hide.",
+      "reformedNotes": "Naked and unashamed: Calvin, nothing in uncorrupted nature was dishonorable; whatever is now opprobrious must be imputed to our own fault.\n\nReformed note: the verse is the last look at integrity before chapter 3. Shame will enter with sin, not with embodiment or with marriage. The good of one flesh is here still whole—body and communion alike unmarred—until they reach for the tree that was not given as food."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "book": "Genesis",
+  "bookSlug": "genesis",
+  "chapter": 3,
+  "verseStart": 8,
+  "verseEnd": 15,
+  "translation": "ESV",
+  "title": "Genesis 3:8–15",
+  "context": "The LORD God comes walking in the garden; the hiding pair are called, questioned, and exposed as they shift blame. Judgment falls first on the serpent, then a promise cuts through the curse: enmity between the serpent and the woman, between their offspring, and a head-bruising victory that will cost a wounded heel. Genesis 3:8–15 is confrontation that does not end in silence—the first gospel word after the fall.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the first gospel promise after the fall—so each camp speaks in its own voice on Genesis 3:15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "But, lest any one should suppose that the Fathers who lived under the law and the Old Testament, were entirely destitute of grace, faith and eternal life; it is to be recollected that even at that period, the promise was in existence which had been made to Adam concerning “the Seed of the woman,” (Genesis 3:15,) which also concerned the seed of Abraham, to whom “the promises were made,” (Galatians 3:16,) and that these promises were received in faith by the holy fathers.",
+        "cite": "Jacobus Arminius",
+        "source": "The Works of James Arminius, vol. 1, Disputation 13 — “On the Comparison of the Law and the Gospel” (Nichols)"
+      },
+      {
+        "quote": "A gracious promise is here made of Christ as the deliverer of fallen man from the power of Satan. By faith in this promise, our first parents, and the patriarchs before the flood, were justified and saved… Notice is here given them of three things concerning Christ. (1.) His incarnation, that he should be the seed of the woman. (2.) His sufferings and death, pointed at in Satan’s bruising his heel, that is, his human nature. (3.) His victory over Satan thereby.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 3:15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I explain, therefore, the seed to mean the posterity of the woman generally. But since experience teaches that not all the sons of Adam by far, arise as conquerors of the devil, we must necessarily come to one head, that we may find to whom the victory belongs… But because one stronger than he has descended from heaven, who will subdue him, hence it comes to pass that, in the same manner, the whole Church of God, under its Head, will gloriously exult over him.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 3:15)"
+      },
+      {
+        "quote": "From where do you know this? From the holy gospel, which God himself first revealed in Paradise; afterwards proclaimed by the holy patriarchs and prophets, and foreshadowed by the sacrifices and other ceremonies of the law; and finally fulfilled by his well-beloved Son.",
+        "cite": "Heidelberg Catechism",
+        "source": "Q&A 19 (1563)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 8,
+      "text": "And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.",
+      "arminianNotes": "They hear the sound of the LORD God walking in the garden in the cool of the day, and they hide among the trees. The Giver they distrusted now sounds like a threat. Fellowship has become flight.\n\nBoth camps agree: God seeks the hiding pair. The coming is not yet the sword. Mercy is already in the footfall; they remain responsible for the hiding. Classical Arminians hear a genuine approach that can still be answered rather than evaded.",
+      "reformedNotes": "The LORD God is present in His garden at the day’s breeze, and the man and his wife hide from His presence. Sin’s first social move toward God is concealment.\n\nReformed note: they hide, but He comes. Providence has not abandoned the scene. The sound that once meant communion now exposes them—yet it is still His garden, and He still walks it. Shared ground: shame followed sin, and God did not leave them to their leaves."
+    },
+    {
+      "number": 9,
+      "text": "But the LORD God called to the man and said to him, “Where are you?”",
+      "arminianNotes": "“Where are you?” is not a lost Creator hunting coordinates. It is a call that makes space for confession. The question treats Adam as a person who can still answer.\n\nArminian reading: seeking grace addresses the will. God does not begin with annihilation; He begins with a word that can be received or evaded. The hiding man is summoned to come out.",
+      "reformedNotes": "The LORD God called to the man. The question locates a rebel, not a gap in omniscience. Holy interrogation is already mercy.\n\nReformed instinct: God takes the first step after the fall. The seeker is the Judge. “Where are you?” unmasks the new distance without pretending Adam could repair it alone. Shared ground: God seeks; they do not find Him first."
+    },
+    {
+      "number": 10,
+      "text": "And he said, “I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.”",
+      "arminianNotes": "Adam names fear, nakedness, and hiding. He tells a partial truth: he did hear, he was afraid, he was naked. He does not yet say, “I ate.”\n\nArminian pastoral honesty: shame talks. Fear of God after sin is not yet repentance. Do not over-systematize the psychology; the pair still have a chance to tell the whole story, and the next verses will show they prefer a smaller one.",
+      "reformedNotes": "Fear and hiding are the psychology of guilt, not a new revelation. He heard the sound “of you” and fled because he was naked—naked in a way 2:25 had not been.\n\nReformed reading: the sinner’s first theology of God is dread without trust. The confession is real as far as it goes and still evades the command he broke. Shared ground: opened eyes taught them to hide, not to come."
+    },
+    {
+      "number": 11,
+      "text": "He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?”",
+      "arminianNotes": "Two questions press him: who told you that you were naked? Have you eaten of the tree I commanded you not to eat? God ties shame to the specific word they were given.\n\nClassical Arminians hear a genuine opening to confess. The command is cited as still binding. Grace that seeks also names the sin; Adam can still tell the truth rather than hide behind the gift of the woman.",
+      "reformedNotes": "The LORD will not let nakedness be a vague mood. He connects it to the forbidden tree and His own command. Knowledge of shame has a moral cause.\n\nReformed accent: God prosecutes by His word. The issue is not information they lacked; it is the eating He forbade. The Judge already knows; the questions are for Adam’s mouth. Shared ground: the command was clear."
+    },
+    {
+      "number": 12,
+      "text": "The man said, “The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.”",
+      "arminianNotes": "The man blames “the woman whom you gave to be with me.” He implicates both the gift and the Giver, then admits, “I ate.” Agency is confessed at the end, after it has been relocated.\n\nArminian note: do not over-systematize. This is familiar self-exoneration. Grace is already being resisted in the courtroom of the garden; he will not simply own the choice he made.",
+      "reformedNotes": "Federal head and husband though he is, Adam speaks like a victim of providence: the woman You gave me. Gift is recast as God’s fault.\n\nReformed sobriety: fallen reason still talks, and it talks to justify. The “I ate” is true and too late in the sentence. Blame-shifting is original sin’s rhetoric, not a puzzle about decrees. Shared ground: neither camp needs a theory to hear the dodge."
+    },
+    {
+      "number": 13,
+      "text": "Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”",
+      "arminianNotes": "The LORD asks the woman what she has done. She answers, “The serpent deceived me, and I ate.” Deception is real—Paul will say so (1 Tim. 2:14)—and so is her eating.\n\nArminian pastoral caution: name the deceit without woman-bashing, and name her act without pretending she was a puppet. Both ate; both must answer. The serpent’s lie does not erase her choice.",
+      "reformedNotes": "God addresses the woman next, still in words. She tells the truth about deceit and about eating, while the serpent becomes the remaining shield.\n\nReformed reading: 1 Timothy 2:14 can be noted without contempt for Eve. Adam was not deceived as she was; she was deceived and still guilty. The chain of blame is almost complete; God will now speak to the serpent. Shared ground: shifting blame is not repentance."
+    },
+    {
+      "number": 14,
+      "text": "The LORD God said to the serpent, “Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life.",
+      "arminianNotes": "The LORD God curses the serpent above livestock and beasts: belly and dust all his days. Humiliation fits the craft. Judgment begins with the deceiver, not with a shrug.\n\nBoth camps agree the serpent is Satan’s instrument (cf. Rev. 12:9; Rom. 16:20). Arminian emphasis: this curse is just answer to a real deed—“because you have done this”—not a show trial. The liar is not excused as a necessary cog.",
+      "reformedNotes": "Speech turns to sentence. The serpent is cursed; crawling and dust picture ongoing defeat and shame. God does not negotiate with the liar.\n\nReformed comfort: the enemy is a creature under curse. Even this judgment is measured, and it prepares the promise of the next verse. Shared ground: God is not the author of the serpent’s speech, and He is Lord over the serpent’s end."
+    },
+    {
+      "number": 15,
+      "text": "I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”",
+      "arminianNotes": "Enmity is God’s gift: He will put it between the serpent and the woman, between offspring and offspring. “He shall bruise your head, and you shall bruise his heel.” Wesley and Arminius hear Christ specifically as the Seed—incarnation, suffering, and victory—and justification by faith in this promise already for our first parents.\n\nClassical Arminians take this as the first gospel sincerely offered and received. The holy fathers were not destitute of grace; they believed the promise concerning the Seed of the woman. The heel is real pain; the head-wound is real deliverance, held out to be trusted.",
+      "reformedNotes": "Calvin will not leap to a merely singular “seed” at the first word: the woman’s posterity generally is in view. Yet because not all of Adam’s sons conquer the devil, we must come to one Head to whom the victory belongs—and then the church under that Head (cf. Rom. 16:20).\n\nReformed confession: this is protoevangelium, gospel for the church under Christ. God ordains the enmity and the bruising. Fairness to Calvin matters: he does land on Christ, not by treating “seed” as a lone individual from the first syllable, but by necessity of the victory. The cross will look like a heel-wound and be a crushed skull."
+    }
+  ]
+}

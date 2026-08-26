@@ -1,0 +1,164 @@
+{
+  "book": "Genesis",
+  "bookSlug": "genesis",
+  "chapter": 22,
+  "verseStart": 1,
+  "verseEnd": 19,
+  "translation": "ESV",
+  "title": "Genesis 22:1–19",
+  "context": "After the birth of Isaac and the sending of Ishmael, God tests Abraham: take your only son, whom you love, and offer him on a mountain in Moriah. Abraham rises early, walks three days, answers Isaac that God will provide the lamb, binds his son, and is stopped by the angel of the LORD. A ram is offered instead. The mount is named “The LORD will provide,” and the oath of blessing is sworn because Abraham did not withhold his son.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on trial, faith, and the provided lamb—so each camp speaks in its own voice beside the Akedah, where Abraham does not withhold his son and God provides a substitute.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "God did tempt Abraham — that is, try him, whether he loved him best. Not that God was ignorant how the case stood, but to make it evident, both to Abraham and to others… God never tempts any man to sin; but he tries his people’s faith and obedience.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 22:1)"
+      },
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This was no ordinary trial… Abraham is commanded to slay his only and beloved son, in whom the hope of salvation was placed. Faith, however, at length overcame… He who had received the promise was ready to offer up his only begotten.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 22:1–2; cf. Heb 11:17)"
+      },
+      {
+        "quote": "Faith… is the work of the Spirit of Christ in their hearts, and is ordinarily wrought by the ministry of the Word… By this faith, a Christian believeth to be true whatsoever is revealed in the Word… acting differently upon that which each particular passage thereof containeth; yielding obedience to the commands, trembling at the threatenings, and embracing the promises of God for this life, and that which is to come.",
+        "cite": "Westminster Confession of Faith",
+        "source": "14.1–2 (1647)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "After these things God tested Abraham and said to him, “Abraham!” And he said, “Here I am.”",
+      "arminianNotes": "God tests Abraham; He does not tempt him to evil. The call is personal—“Abraham!”—and the answer is availability: “Here I am.”\n\nClassical Arminians hear a real trial of love. Grace has brought Abraham this far; the test will reveal whether he will keep clinging to the Giver above the gift. The response remains his, enabled but not forced.",
+      "reformedNotes": "“After these things” follows Isaac’s birth and Ishmael’s sending. The Tester is God; the test is not Satan’s snare but the Father’s proving.\n\nReformed framing: God already knows the heart, yet He appoints trials that make faith public. Abraham’s “Here I am” is the fruit of a life God has been forming.",
+      "keyContrast": "Both deny that God entices to sin. Arminians typically stress a genuine, grace-enabled trial Abraham might have refused; Reformed readers typically stress a Father-appointed proving that will display faith God Himself sustains."
+    },
+    {
+      "number": 2,
+      "text": "He said, “Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you.”",
+      "arminianNotes": "The command piles love on love: your son, your only son, whom you love. Moriah is unnamed in detail until obedience walks.\n\nArminian weight: this is no theatrical order. Abraham must actually go. Grace does not cancel the horror of the ask; it enables trust that God’s character is better than the knife.",
+      "reformedNotes": "Isaac is named as the loved only son—the child of promise. The burnt offering would seem to unmake Genesis 12–21.\n\nReformed tension: the God who promised offspring now commands the offering. Faith must hold promise and command together until God Himself resolves them.",
+      "keyContrast": "Both refuse to flatten the command. Arminians typically emphasize Abraham’s costly, enabled choice to obey; Reformed readers typically emphasize God’s sovereignty in commanding what only He can later explain and provide."
+    },
+    {
+      "number": 3,
+      "text": "So Abraham rose early in the morning, saddled his donkey, and took two of his young men with him, and his son Isaac. And he cut the wood for the burnt offering and arose and went to the place of which God had told him.",
+      "arminianNotes": "Early rising, saddled donkey, cut wood: obedience is practical, not delayed debate. Isaac is taken along as commanded.\n\nClassical Arminians honor prompt faith. Assisting grace does not wait for full explanation; Abraham walks while the wound is still fresh.",
+      "reformedNotes": "No recorded argument. Morning action follows night’s word. Wood is prepared by the father who must also carry the knife.\n\nReformed note: providence is already in the details—the place God had told him, the son in tow. Obedience here is faith with a saddle and an axe."
+    },
+    {
+      "number": 4,
+      "text": "On the third day Abraham lifted up his eyes and saw the place from afar.",
+      "arminianNotes": "Three days of walking with the command unanswered. Sight of the place from afar lengthens the trial rather than ending it.\n\nArminian pastoral reading: faith has time to turn back and does not. Grace sustains a long obedience, not only a moment’s zeal.",
+      "reformedNotes": "The third day becomes the horizon of the test. Abraham sees the appointed mountain before he climbs it.\n\nReformed readers hear providence in the delay: God times the seeing. The place is not stumbled upon; it is shown."
+    },
+    {
+      "number": 5,
+      "text": "Then Abraham said to his young men, “Stay here with the donkey; I and the boy will go over there and worship and come again to you.”",
+      "arminianNotes": "“Worship” and “come again” sit together. Abraham speaks of return while carrying wood for a burnt offering.\n\nClassical Arminians hear Hebrews 11 in seed form: he trusts God can restore Isaac. The confession is sincere hope, not a polite lie to the servants.",
+      "reformedNotes": "The servants are left behind. Worship is named as the errand, and return is spoken as fact.\n\nReformed comfort: Abraham’s “we will come again” rests on God’s power to raise, even if the knife falls. Promise still governs the mountain."
+    },
+    {
+      "number": 6,
+      "text": "And Abraham took the wood of the burnt offering and laid it on Isaac his son. And he took in his hand the fire and the knife. So they went both of them together.",
+      "arminianNotes": "Isaac bears the wood; Abraham bears fire and knife. They walk together—father and son in one hard fellowship.\n\nArminian tenderness: the scene invites later readers toward another Son who carried wood up a hill. Faith here is companionship under a terrible word.",
+      "reformedNotes": "Wood on the beloved son; instruments of death in the father’s hand. “Both of them together” is the narrator’s refrain.\n\nReformed typology is cautious but real: the promised seed bears the wood toward the place God chose. The Father’s purpose and the son’s path meet on the road."
+    },
+    {
+      "number": 7,
+      "text": "And Isaac said to his father Abraham, “My father!” And he said, “Here I am, my son.” He said, “Behold, the fire and the wood, but where is the lamb for a burnt offering?”",
+      "arminianNotes": "Isaac’s “My father!” mirrors Abraham’s “Here I am.” The missing lamb is the child’s honest question.\n\nArminian pastoral ache: faith must answer a son without cynicism. The question is not rebellion; it is trust asking for the piece that is not yet visible.",
+      "reformedNotes": "The boy sees fire and wood and names the absence. Abraham answers with presence—“Here I am, my son”—before he answers with theology.\n\nReformed note: the lamb question is the hinge of the chapter. God will fill what Isaac cannot yet see."
+    },
+    {
+      "number": 8,
+      "text": "Abraham said, “God will provide for himself the lamb for a burnt offering, my son.” So they went both of them together.",
+      "arminianNotes": "“God will provide for himself the lamb.” Provision is God’s business; walking on is Abraham’s. They go together still.\n\nClassical Arminians hear living faith speaking before the ram appears. Grace taught this sentence; Abraham must keep walking as if it is true.",
+      "reformedNotes": "The verb is God’s: He will provide for Himself. The lamb is not Abraham’s invention but the Lord’s supply.\n\nReformed gospel: Jehovah-jireh is confessed before it is seen. Faith names God’s character, then takes the next step together.",
+      "keyContrast": "Both treasure this confession. Arminians typically stress faith that keeps walking on a promise it might still refuse; Reformed readers typically stress that God Himself will supply the lamb His purpose requires."
+    },
+    {
+      "number": 9,
+      "text": "When they came to the place of which God had told him, Abraham built the altar there and laid the wood in order and bound Isaac his son and laid him on the altar, on top of the wood.",
+      "arminianNotes": "Altar, ordered wood, bound son. Isaac is not a toddler wrestled down; the text lets him be laid on the wood.\n\nArminian reading honors both: Abraham’s obedience and Isaac’s yieldedness. Grace is at work in more than one will on that mountain.",
+      "reformedNotes": "The place is the one God told. Building and binding complete the commanded sequence up to the edge.\n\nReformed gravity: nothing here is accidental architecture. The altar is where promise and command finally meet, awaiting God’s interruption."
+    },
+    {
+      "number": 10,
+      "text": "Then Abraham reached out his hand and took the knife to slaughter his son.",
+      "arminianNotes": "The hand and the knife are real. Faith is not a metaphor at this point; it is a reached arm.\n\nClassical Arminians do not romanticize the moment. Obedience has gone as far as it can without becoming the sin God never wanted.",
+      "reformedNotes": "The narrator slows on the reach. Intent is complete; the slaughter is a breath away.\n\nReformed emphasis: God allowed the trial to this brink so that the halt and the ram would be unmistakably His."
+    },
+    {
+      "number": 11,
+      "text": "But the angel of the LORD called to him from heaven and said, “Abraham, Abraham!” And he said, “Here I am.”",
+      "arminianNotes": "Heaven breaks in with a doubled name. Abraham answers the same way he began: “Here I am.”\n\nArminian relief: the Tester also rescues. Grace that asked now stops the knife; the man who kept answering is still listening.",
+      "reformedNotes": "The angel of the LORD calls from heaven—urgent, personal, twice. The same availability that received the test now receives the stay.\n\nReformed comfort: intervention is God’s timing, not Abraham’s invention. The voice from heaven owns both the trial and the halt."
+    },
+    {
+      "number": 12,
+      "text": "He said, “Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me.”",
+      "arminianNotes": "“Now I know” is covenant language of demonstrated fear, not divine ignorance. The boy is spared; the fear of God has been shown.\n\nClassical Arminians stress that Abraham truly did not withhold. Grace enabled a free, costly yes that could have been a no.",
+      "reformedNotes": "The hand is forbidden; the knowledge is declared. Fear of God is proved in not withholding the only son.\n\nReformed reading: God “knows” here as Judge who now publicly owns what He had ordained to display. The son is safe because the LORD says so.",
+      "keyContrast": "Both hear real fear of God in not withholding Isaac. Arminians typically emphasize a demonstrated, resistible obedience; Reformed readers typically emphasize God’s appointed proof of a fear He Himself worked."
+    },
+    {
+      "number": 13,
+      "text": "And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son.",
+      "arminianNotes": "Eyes lift; a ram is caught. “Instead of his son” is substitution in a sentence. The provided lamb is not a slogan yet—it is blood on the same wood.\n\nArminian gospel: God supplies what He required. Faith receives the substitute and does not insist on finishing the first terrible offering.",
+      "reformedNotes": "Behold: a ram already caught, not hunted up by panic. The burnt offering proceeds, but the son lives.\n\nReformed heart of the scene: instead. Another dies in Isaac’s place. The mountain preaches provision and substitution before the Law is given.",
+      "keyContrast": "Both confess a real substitute. Arminians typically stress receiving the ram God provides in place of the son; Reformed readers typically stress God’s prepared victim, already caught, accomplishing the offering His justice required."
+    },
+    {
+      "number": 14,
+      "text": "So Abraham called the name of that place, “The LORD will provide”; as it is said to this day, “On the mount of the LORD it shall be provided.”",
+      "arminianNotes": "The place gets a name so memory will not shrink to private relief. Jehovah-jireh becomes a proverb: on the LORD’s mount it shall be provided.\n\nArminian worship: name the provision, then live as if future need will meet the same God. Grace that provided once still invites trust.",
+      "reformedNotes": "Naming is theology. “The LORD will provide” turns a past ram into a standing confession.\n\nReformed hope: the proverb looks beyond Moriah. What God provided here trains the church to look to another mount where He provides Himself."
+    },
+    {
+      "number": 15,
+      "text": "And the angel of the LORD called to Abraham a second time from heaven",
+      "arminianNotes": "A second call follows the offering. God is not finished once the knife is down.\n\nArminian note: mercy keeps speaking. The same voice that stopped the hand now opens the oath.",
+      "reformedNotes": "Heaven speaks again. The trial’s end is not silence but further word.\n\nReformed structure: halt, ram, name—then oath. God interprets what He has done by swearing."
+    },
+    {
+      "number": 16,
+      "text": "and said, “By myself I have sworn, declares the LORD, because you have done this and have not withheld your son, your only son,",
+      "arminianNotes": "God swears by Himself. The ground named is Abraham’s deed: you have not withheld your only son.\n\nClassical Arminians take “because” seriously. Obedient faith is the appointed condition under which the sworn blessing is confirmed—never meriting the promise, yet truly engaged by grace.",
+      "reformedNotes": "The LORD swears by Himself—there is none greater. “Because you have done this” attaches the oath to the demonstrated fear.\n\nReformed balance: the promise was already given; the oath now confirms it through the obedience God produced. Hebrews 6 will call this unchangeable counsel.",
+      "keyContrast": "Both hear a divine oath tied to not withholding Isaac. Arminians typically treat obedient faith as a real, enabled condition of the confirmation; Reformed readers typically treat the obedience as God’s appointed means of confirming a promise He had already sworn to keep."
+    },
+    {
+      "number": 17,
+      "text": "I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies,",
+      "arminianNotes": "Double “surely”: bless and multiply. Stars and sand return, now with gates of enemies possessed.\n\nArminian hope: the blessing is wide enough for nations yet to come. Grace that confirmed Abraham still invites his offspring to walk in the same trust.",
+      "reformedNotes": "Blessing and multiplication are God’s certainties. Offspring like stars and sand will take the enemy’s gate.\n\nReformed assurance: the oath’s content is victory and fruitfulness God Himself performs. The seed’s future does not rest on Abraham’s nerve remaining high."
+    },
+    {
+      "number": 18,
+      "text": "and in your offspring shall all the nations of the earth be blessed, because you have obeyed my voice.”",
+      "arminianNotes": "All nations blessed in the offspring—gospel width from Moriah. “Because you have obeyed my voice” again ties the story to hearing that acts.\n\nClassical Arminians preach this as sincere global mercy. The Seed is Christ; the nations are truly invited; obedience of faith remains the way people share the blessing.",
+      "reformedNotes": "The Abrahamic promise to the nations is restated from the mountain. Obedience of Abraham’s voice-hearing is named as the because.\n\nReformed gospel: Galatians 3 hears this offspring as Christ. Nations are blessed in Him by God’s sworn purpose, not by their climbing Moriah on their own.",
+      "keyContrast": "Both confess worldwide blessing in Abraham’s offspring. Arminians typically stress a sincere offer received by obedient faith; Reformed readers typically stress God’s sworn, effectual blessing of the nations in the promised Seed."
+    },
+    {
+      "number": 19,
+      "text": "So Abraham returned to his young men, and they arose and went together to Beersheba. And Abraham lived at Beersheba.",
+      "arminianNotes": "Return to the servants fulfills “we will come again.” Beersheba becomes home again after the mount.\n\nArminian quiet ending: faith comes down the mountain and lives. The test does not become a permanent theater; it becomes a named place and a kept oath.",
+      "reformedNotes": "They go together to Beersheba; Abraham lives there. Ordinary geography resumes under an extraordinary oath.\n\nReformed close: the God who provided also returns His man to ordinary life. The ram, the name, and the oath travel with him."
+    }
+  ]
+}

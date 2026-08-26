@@ -320,7 +320,7 @@ function renderPassagePage(data, opts) {
 <body>
   <header class="site-header">
     <div class="container nav">
-      <a href="/index.html" class="wordmark">Got<span>Theology</span></a>
+      <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>
       <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
           <path d="M4 7h16M4 12h16M4 17h16"/>
@@ -376,8 +376,8 @@ ${voicesHtml}
       <div class="reader">
         <div class="cta-box">
           <p class="eyebrow" style="color: var(--gold-soft);">Keep reading</p>
-          <h2 id="cta-heading">More of Matthew is live</h2>
-          <p>Always free to read (supported by ads). Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
+          <h2 id="cta-heading">Matthew, Colossians, and Genesis are live</h2>
+          <p>Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
           <a href="/bible/index.html" class="btn btn-gold">Browse the Bible</a>
         </div>
       </div>
@@ -388,18 +388,18 @@ ${voicesHtml}
     <div class="container">
       <div class="footer-inner">
         <div class="footer-brand">
-          <a href="/index.html" class="wordmark">Got<span>Theology</span>.com</a>
+          <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>
           <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>
         </div>
         <nav class="footer-links" aria-label="Footer">
           <a href="/index.html">Home</a>
           <a href="/bible/index.html">Bible</a>
           <a href="/index.html#perspectives">Perspectives</a>
-          <a href="/index.html#waitlist">Updates</a>
+          <a href="/index.html#updates">Updates</a>
         </nav>
       </div>
       <div class="footer-bottom">
-        <span>\u00a9 ${YEAR} GotTheology.com. All rights reserved.</span>
+        <span>\u00a9 ${YEAR} Got-Theology.com. All rights reserved.</span>
         <span>${escapeHtml(pageTitle)}</span>
       </div>
     </div>
@@ -533,7 +533,7 @@ function renderBibleIndex(passages) {
     "<body>",
     '  <header class="site-header">',
     '    <div class="container nav">',
-    '      <a href="/index.html" class="wordmark">Got<span>Theology</span></a>',
+    '      <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>',
     '      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">',
     '        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">',
     '          <path d="M4 7h16M4 12h16M4 17h16"/>',
@@ -571,17 +571,16 @@ function renderBibleIndex(passages) {
     '    <div class="container">',
     '      <div class="footer-inner">',
     '        <div class="footer-brand">',
-    '          <a href="/index.html" class="wordmark">Got<span>Theology</span>.com</a>',
+    '          <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>',
     "          <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>",
     "        </div>",
     '        <nav class="footer-links" aria-label="Footer">',
     '          <a href="/index.html">Home</a>',
     '          <a href="/bible/index.html">Bible</a>',
-    '          <a href="/index.html#waitlist">Updates</a>',
     "        </nav>",
     "      </div>",
     '      <div class="footer-bottom">',
-    "        <span>\u00a9 " + YEAR + " GotTheology.com. All rights reserved.</span>",
+    "        <span>\u00a9 " + YEAR + " Got-Theology.com. All rights reserved.</span>",
     "        <span>Bible index</span>",
     "      </div>",
     "    </div>",

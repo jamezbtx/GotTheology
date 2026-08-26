@@ -1,0 +1,98 @@
+{
+  "book": "Genesis",
+  "bookSlug": "genesis",
+  "chapter": 12,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Genesis 12:1–9",
+  "context": "After Babel’s scattering, the Lord calls Abram out of country, kindred, and father’s house toward a land He will show. Promise piles on promise: a great nation, a great name, blessing that will reach all the families of the earth. Abram goes; altars rise at Shechem and Bethel as the Canaanites still occupy the land.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on calling, covenant promise, and blessing for the nations—so each camp speaks in its own voice beside Abram’s call.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      },
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The covenant made with all the patriarchs is so much like ours in substance and reality that the two are actually one and the same. Yet they differ in the mode of dispensation.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 2.10.11"
+      },
+      {
+        "quote": "The distance between God and the creature is so great, that although reasonable creatures do owe obedience unto Him as their Creator, yet they could never have any fruition of Him as their blessedness and reward, but by some voluntary condescension on God’s part, which He hath been pleased to express by way of covenant.",
+        "cite": "Westminster Confession of Faith",
+        "source": "7.1 (1647)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now the LORD said to Abram, “Go from your country and your kindred and your father’s house to the land that I will show you.",
+      "arminianNotes": "The Lord speaks first. Abram is called to leave country, kindred, and father’s house for a land not yet named—faith stepping out under a word, not a map.\n\nClassical Arminians hear a genuine summons. Grace initiates; Abram must go. The call is not theater. God addresses a man who can obey or cling to Haran, and the story turns on that grace-enabled response.",
+      "reformedNotes": "The narrative of promise begins with God’s speech, not Abram’s search. Country, kindred, and house are stripped away so that the Lord’s showing will be enough.\n\nReformed accent: vocation here is God’s effectual word. Abram will go because the Lord who calls also draws. The land is gift; the path is commanded; the initiative is entirely the LORD’s."
+    },
+    {
+      "number": 2,
+      "text": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.",
+      "arminianNotes": "Nation, blessing, and a great name are God’s “I will,” aimed outward: “so that you will be a blessing.” Election here is unto others, not a private prize.\n\nArminian pastoral note: the God who blesses Abram intends Abram to become a channel. Grace received is meant to overflow. The promise invites trust and a life that hands blessing on.",
+      "reformedNotes": "Sevenfold promise language begins with God’s making. Greatness of name is the Lord’s work, reversing Babel’s self-made name.\n\nReformed comfort: the purpose clause (“so that you will be a blessing”) sits inside God’s sworn “I will.” Abram becomes a blessing because God has bound Himself to make him one."
+    },
+    {
+      "number": 3,
+      "text": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.”",
+      "arminianNotes": "The horizon is “all the families of the earth.” Abram’s call is missionary from the first sentence of blessing. Those who honor or slight him meet the Lord’s own yes or no.\n\nClassical Arminians linger on the wideness: the promise sincerely aims at the nations. In Abram—and, the apostles will say, in his Seed—God opens a blessing offered to the families of the world, to be received by faith.",
+      "reformedNotes": "Blessing and curse attach to how people treat the man God has chosen; then the line opens onto the world. Paul will read this as the gospel preached beforehand (Gal 3:8).\n\nReformed accent: “all families” is the scope of the covenant of grace in seed form. God will gather a people from the nations according to promise, not according to Abram’s later performance.",
+      "keyContrast": "Both hear a worldwide gospel in this verse. Arminians typically stress a sincere blessing aimed at all families, to be received by faith; Reformed readers typically stress that the same promise is God’s sure covenant, effectual in the Seed, by which He will bless the nations He intends to save."
+    },
+    {
+      "number": 4,
+      "text": "So Abram went, as the LORD had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran.",
+      "arminianNotes": "Abram went “as the LORD had told him.” Obedience is named; so is Lot’s company and Abram’s age. Faith here looks like packing up at seventy-five.\n\nArminian reading: the call was real, and the going is a responsible act under grace. Delay at Haran (11:31) gives way to departure. The word received becomes a journey taken.",
+      "reformedNotes": "The first fruit of the promise is motion. Abram goes as told; even Lot’s tagging along sits under providence.\n\nReformed note: seventy-five years underline that this is not youthful restlessness but a word that creates pilgrims. The obedience is real, and it is the Lord’s call that produced it."
+    },
+    {
+      "number": 5,
+      "text": "And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan,",
+      "arminianNotes": "Household, goods, and people acquired in Haran go with him. Faith is not disembodied; it relocates a family toward Canaan and actually arrives.\n\nClassical Arminians see a complete response: he takes what is his and sets out. Arrival in Canaan shows the promise already beginning to locate them, even before a square foot is owned.",
+      "reformedNotes": "The caravan is named in full: wife, nephew, property, persons. God moves a household, not a lonely mystic.\n\nReformed instinct: “they came to the land of Canaan” is providence keeping the word of verse 1. The land He would show is now under their feet, still occupied, still gift."
+    },
+    {
+      "number": 6,
+      "text": "Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land.",
+      "arminianNotes": "Shechem and the oak of Moreh mark a first pause. The narrator adds the tension: Canaanites already live here. Promise and present occupancy stand in the same sentence.\n\nArminian pastoral word: faith often walks through what it does not yet possess. The call remains trustworthy even when the land is full of other claims.",
+      "reformedNotes": "Geography is theological: Shechem, the oak, and the Canaanites in the land. God leads Abram through occupied territory, not an empty stage.\n\nReformed accent: the parenthetical is honest providence. The gift will be given in God’s time; present inhabitants do not cancel the oath."
+    },
+    {
+      "number": 7,
+      "text": "Then the LORD appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to the LORD, who had appeared to him.",
+      "arminianNotes": "Appearance and speech: the land is promised to Abram’s offspring. He answers with an altar—worship before ownership.\n\nArminian emphasis: revelation calls for response. Abram builds because the Lord appeared. Grace that shows itself invites altar, gratitude, and continued trust for a seed he does not yet hold.",
+      "reformedNotes": "The Lord appears and specifies: this land, to your offspring. The gift is covenantal and future-tense, yet already located.\n\nReformed comfort: altar follows appearance. Worship is Abram’s confession that the God who showed Himself will keep the deed—offspring and land both rest on God’s “I will.”"
+    },
+    {
+      "number": 8,
+      "text": "From there he moved to the hill country on the east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the LORD and called upon the name of the LORD.",
+      "arminianNotes": "Tent and altar travel together: sojourner’s housing, public worship between Bethel and Ai. He calls on the name of the LORD in a land of other names.\n\nClassical Arminians hear pilgrim faith that keeps invoking the Lord. The altar is not a one-time gesture; calling on the Name is the ongoing life of those who have heard and gone.",
+      "reformedNotes": "Pitching a tent and building an altar sketch covenant pilgrimage. Bethel and Ai frame a worshiper who owns no city yet names the LORD.\n\nReformed note: invoking the Name is the patriarch’s liturgy. God has pledged land and seed; Abram answers by staking worship, not by seizing real estate."
+    },
+    {
+      "number": 9,
+      "text": "And Abram journeyed on, still going toward the Negeb.",
+      "arminianNotes": "The paragraph ends in motion, not settlement. Toward the Negeb, still a traveler under promise.\n\nArminian pastoral close: obedience is often unfinished geography. The God who called still leads; Abram keeps going rather than freezing the blessing into a campsite.",
+      "reformedNotes": "“Journeyed on” is the right last word for this call narrative. The Negeb lies ahead; the promise is not yet a map fully colored in.\n\nReformed accent: perseverance looks like continued sojourning under a sworn God. The story will test that journey in Egypt next—without canceling the word already spoken."
+    }
+  ]
+}

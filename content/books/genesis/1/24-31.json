@@ -1,0 +1,91 @@
+{
+  "book": "Genesis",
+  "bookSlug": "genesis",
+  "chapter": 1,
+  "verseStart": 24,
+  "verseEnd": 31,
+  "translation": "ESV",
+  "title": "Genesis 1:24–31",
+  "context": "The sixth day completes the land’s living creatures according to kinds, then turns to the week’s climax: humanity in God’s image, male and female, blessed with fruitfulness, dominion, and daily bread. Verses 24–31 end with God surveying everything He has made—very good. Image, blessing, and vocation sit at the heart of later disagreements, even as both camps confess the Creator’s goodness.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the image of God, original righteousness, and humanity’s place in creation—so each camp speaks in its own voice beside the sixth day.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "In the state of Primitive Innocence, man had a mind endued with a clear understanding of heavenly light and truth concerning God, and his works and will, as far as was sufficient for the salvation of man and the glory of God; he had a heart imbued with “righteousness and true holiness,” and with a true and saving love of good; and powers abundantly qualified or furnished perfectly to fulfill the law which God had imposed on him. This admits easily of proof, from the description of the image of God, after which man is said to have been created (Gen. i. 26, 27).",
+        "cite": "Jacobus Arminius",
+        "source": "Works, Vol. 1 (Disputation 11, On the Free Will of Man and Its Powers)"
+      },
+      {
+        "quote": "God’s image upon man consists, in his nature, not that of his body, for God has not a body, but that of his soul. The soul is a spirit, an intelligent, immortal spirit, an active spirit, herein resembling God… As he has the government of the inferior creatures, he is as it were God’s representative on earth. Yet his government of himself by the freedom of his will, has in it more of God’s image, than his government of the creatures. And chiefly in his purity and rectitude. God’s image upon man consists in knowledge, righteousness, and true holiness… Thus holy, thus happy, were our first parents, in having the image of God upon them.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 1:26–27)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Since the image of God had been destroyed in us by the fall, we may judge from its restoration what it originally had been. Paul says that we are transformed into the image of God by the gospel. And, according to him, spiritual regeneration is nothing else than the restoration of the same image… That he made this image to consist in righteousness and true holiness, is by the figure synecdoche; for though this is the chief part, it is not the whole of God’s image. Therefore by this word the perfection of our whole nature is designated, as it appeared when Adam was endued with a right judgment, had affections in harmony with reason, had all his senses sound and well-regulated, and truly excelled in everything good.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 1:26)"
+      },
+      {
+        "quote": "While all creatures display vestiges of God, only a human being is the image of God. And he is such totally, in soul and body, in all his faculties and powers, in all conditions and relations. Man is the image of God because and insofar as he is truly human, and he is truly and essentially human because, and to the extent that, he is the image of God.",
+        "cite": "Herman Bavinck",
+        "source": "Reformed Dogmatics, Vol. 2 (2.555, on the image of God)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 24,
+      "text": "And God said, “Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.” And it was so.",
+      "arminianNotes": "God said, “Let the earth bring forth living creatures according to their kinds”—livestock, creeping things, beasts. Land life, like plants, comes through the earth under the word.\n\nArminian reading: means are honored. The earth “brings forth,” yet only because God speaks; kinds keep the world from dissolving into confusion. Creation’s richness is gift, not a ladder we climb to God.",
+      "reformedNotes": "A dead element is commanded to bring forth living creatures according to kinds—and it was so.\n\nReformed confession: the miracle matches creation from nothing in its dependence. God did not need the earth as material aid; He used it to bind the world’s parts together under one will."
+    },
+    {
+      "number": 25,
+      "text": "And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good.",
+      "arminianNotes": "God made the beasts, livestock, and creeping things according to their kinds, and saw that it was good. Making matches the command; goodness covers wild and tame alike.\n\nClassical Arminians hear no contempt for the nonhuman world. Kinds are good before dominion is mentioned; creatures are not raw material only, but works God Himself enjoys.",
+      "reformedNotes": "God made each class according to its kind and judged the work good. Making matches the command; nothing is left unspecified.\n\nReformed accent: species-stability is His making. The good of verse 25 is the completed land fauna—orderly, limited, approved—before the unique act of verse 26."
+    },
+    {
+      "number": 26,
+      "text": "Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”",
+      "arminianNotes": "“Let us make man in our image, after our likeness,” with dominion over fish, birds, livestock, earth, and creeping things. The counsel-language marks dignity; image includes nature, vocation, and a will able to answer God.\n\nClassical Arminians, with Arminius, locate original righteousness in that image: a mind lit toward God, a heart of true holiness, and powers furnished to fulfill God’s law—yet not so confirmed that turning away was impossible. Dominion is representative stewardship on the earth, and self-government by a free will belongs to the likeness more deeply than rule over beasts.",
+      "reformedNotes": "“Let us make” signals a work of unique honor; God needs no other counselor, so Christians have heard plurality within the one God. Image and likeness name one gift: humanity as God intended.\n\nReformed confession: the image is original righteousness and the integrity of our whole nature—right judgment, affections in harmony with reason—while dominion is a real but smaller portion, vice-regency under God’s decree, not the image’s core. “Let us” is not a committee with creation; it is the Lord’s own deliberation over a creature who will bear His glory."
+    },
+    {
+      "number": 27,
+      "text": "So God created man in his own image, in the image of God he created him; male and female he created them.",
+      "arminianNotes": "God created man in His own image—in the image of God He created him; male and female He created them. The image is not male only; woman and man together are the created “him/them.”\n\nArminian pastoral weight: original holiness is real in both, and so is the relational form of humanity. Image-bearers are made for God and for one another; the likeness includes knowledge, righteousness, and a will that can love—later defaced, yet still the dignity the gospel addresses.",
+      "reformedNotes": "The threefold “created” and the repeated “image” are not filler. Male and female share the title; the man alone was incomplete.\n\nReformed comfort: we judge from the image’s restoration in Christ what it originally was—righteousness and true holiness as the chief part of a whole-person endowment. Both sexes bear that glory; the fall explains how far we have declined from it."
+    },
+    {
+      "number": 28,
+      "text": "And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”",
+      "arminianNotes": "God blessed them and said, “Be fruitful and multiply and fill the earth and subdue it,” with dominion over every living thing. Blessing and vocation arrive together as gift and calling.\n\nClassical Arminians receive the mandate as enablement to be lived, not a bare decree that erases responsibility. Dominion is stewardship—care of the garden-world as God’s representatives—while fruitfulness is covenant kindness, a blessing that can be received with gratitude or twisted into grasping.",
+      "reformedNotes": "Blessing is the source from which the race flows; “subdue” and “have dominion” put them in possession of a right God had already intended.\n\nReformed reading: this is office under decree. Vice-regency is real authority bounded by the Giver; the earth is mapped for inhabitants by His benediction, which actually makes fruitful what He names."
+    },
+    {
+      "number": 29,
+      "text": "And God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food.",
+      "arminianNotes": "“Behold, I have given you every plant yielding seed… You shall have them for food.” Daily bread is assigned before anyone hungers; food is gift, not plunder.\n\nArminian note: the Father provides and permits. What we eat we receive from His hand, so gratitude and restraint belong together—touching only what He has given, with open hands rather than anxious hoarding.",
+      "reformedNotes": "God grants herbs and fruit as food, a grant that authorizes use. The table is assigned, not seized.\n\nReformed comfort: man was rich before he was born. Paternal care furnished the table in advance; we cannot enjoy anything with a good conscience except as from His hand."
+    },
+    {
+      "number": 30,
+      "text": "And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.” And it was so.",
+      "arminianNotes": "Beasts, birds, and creeping things—everything with the breath of life—are given green plants for food as well. The table is wider than humanity; other lives matter to God.\n\nClassical Arminians hear kindness that does not terminate on us. Image-bearers share a world God feeds; dominion cannot mean starvation of what He has also blessed to live.",
+      "reformedNotes": "The breath of life in beasts is under the same Giver, who assigns their food. Providence here is as wide as the living world.\n\nReformed note: God takes even this charge upon Himself. The One who made kinds also sustains them; human rule does not replace His providence over every living thing."
+    },
+    {
+      "number": 31,
+      "text": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.",
+      "arminianNotes": "God saw everything that He had made, and behold, it was very good—evening and morning, the sixth day. The finished work, including image-bearing humanity in original righteousness, receives a stronger verdict than the earlier “good.”\n\nClassical Arminians rest in that “very good.” Creation is not a necessary evil or a soul-trap; freedom, blessing, and holiness as they actually were belong to the world God approved. The later fall will be tragedy against this grain, not the first fact about us.",
+      "reformedNotes": "After the last finishing touch, God pronounces the whole very good. The earlier simple approvals yield to a judgment of complete symmetry.\n\nReformed confession: His seeing is our rule. We are not free to dispute what He has approved; the sixth day closes a world whose highest perfection is the order He made—including humanity in His image—before sin marred it."
+    }
+  ]
+}
