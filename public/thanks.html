@@ -9,6 +9,12 @@
   <link rel="stylesheet" href="/assets/gottheology.css" />
 </head>
 <body>
+  <!-- Hidden duplicate so Netlify can handle POST to this action URL -->
+  <form name="updates" method="POST" data-netlify="true" netlify-honeypot="bot-field" hidden>
+    <input type="hidden" name="form-name" value="updates" />
+    <input name="bot-field" />
+    <input type="email" name="email" />
+  </form>
   <header class="site-header">
     <div class="container nav">
       <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>
