@@ -393,7 +393,7 @@ ${voicesHtml}
         <div class="cta-box">
           <p class="eyebrow" style="color: var(--gold-soft);">Keep reading</p>
           <h2 id="cta-heading">Genesis, Matthew, John, Ephesians, and Colossians are live</h2>
-          <p>Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text. John 1\u20136 is live; chapters 7\u201321 are still coming.</p>
+          <p>Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
           <a href="/bible/index.html" class="btn btn-gold">Browse the Bible</a>
         </div>
       </div>
@@ -413,6 +413,7 @@ ${voicesHtml}
           <a href="/index.html#perspectives">Perspectives</a>
           <a href="mailto:info.got.theology@gmail.com">Contact</a>
           <a href="/privacy.html">Privacy</a>
+          <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>
           <a href="/index.html#updates">Updates</a>
         </nav>
       </div>
@@ -569,6 +570,7 @@ function renderBrowseDocument(opts) {
     '          <a href="/bible/index.html">Bible</a>',
     '          <a href="mailto:info.got.theology@gmail.com">Contact</a>',
     '          <a href="/privacy.html">Privacy</a>',
+    '          <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>',
     "        </nav>",
     "      </div>",
     '      <div class="footer-bottom">',

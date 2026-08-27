@@ -1,0 +1,89 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 8,
+  "verseStart": 12,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "John 8:12–20",
+  "context": "After the bracketed pericope, the ESV resumes the temple discourse of Tabernacles. Jesus names himself the light of the world and promises that whoever follows him will not walk in darkness. Pharisees object that self-witness is invalid. He answers with origin and destiny, refuses flesh-judgment, and claims the two-witness rule of their Law: he and the Father who sent him. They ask where his Father is; he says they know neither him nor the Father. He speaks these words in the treasury; no one arrests him, because his hour has not yet come.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Light of the world, two witnesses, and “you know neither me nor my Father”—so each camp speaks in its own voice beside John 8:12–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He that followeth me shall in nowise walk in darkness—In ignorance, wickedness, misery: but shall have the light of life—He that closely, humbly, steadily follows me, shall have the Divine light continually shining upon him, diffusing over his soul knowledge, holiness, joy, till he is guided by it to life everlasting. Ye judge after the flesh—As the flesh, that is, corrupt nature dictates. I judge no man—Not thus; not now; not at my first coming. Then said they to him, Where is thy Father? Jesus answered—Showing the perverseness of their question; and teaching that they ought first to know the Son, if they would know the Father.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 8:12–19)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It is a beautiful commendation of Christ, when he is called the light of the world; for, since we are all blind by nature, a remedy is offered, by which we may be freed and rescued from darkness and made partakers of the true light. Nor is it only to one person or to another that this benefit is offered, for Christ declares that he is the light of the whole world; for by this universal statement he intended to remove the distinction, not only between Jews and Gentiles, but between the learned and ignorant, between persons of distinction and the common people. … Out of Christ there is not even a spark of true light. … To the doctrine he adds an exhortation, which he immediately afterwards confirms by a promise. … we ought to be excited to follow him, and, indeed, by stretching out his hand—as it were—he draws us to him.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 8:12)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 12,
+      "text": "Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”",
+      "arminianNotes": "I am: another of the festival’s great claims. Light of the world is as wide as the darkness. Wesley: whoever follows closely, humbly, steadily shall in nowise walk in ignorance, wickedness, misery, but have divine light diffusing knowledge, holiness, joy unto everlasting life.\n\nClassical Arminians hear a sincere universal offer with a real condition: follow. Prevenient grace makes following possible; remaining in darkness is not lack of a lamp but refusal to walk after him. “Whoever” is not a trick word.",
+      "reformedNotes": "Calvin: we are all blind by nature; a remedy is offered. He is light of the whole world—Jew and Gentile, learned and ignorant—yet out of Christ there is not a spark of true light. He stretches out his hand, as it were, and draws followers; the promise is that they shall not walk in darkness even to life.\n\nReformed pairing: the invitation is world-wide; sight is Christ’s gift. Following is not a native skill of the blind; the Light both summons and illumines those who walk in him.",
+      "keyContrast": "Both preach a world-darkness and a Christ who truly shines. Arminians typically take “whoever follows” as a genuine, grace-enabled call anyone may heed or refuse. Reformed readers typically take the same words as a real promise to followers, while holding that the blind do not follow unless the Light draws them."
+    },
+    {
+      "number": 13,
+      "text": "So the Pharisees said to him, “You are bearing witness about yourself; your testimony is not true.”",
+      "arminianNotes": "They retort John 5:31 against him: self-witness is invalid. Legalism as a shield—if they can reduce the Light to a procedural error, they need not follow.\n\nArminian warning: unbelief often sounds like a rulebook. The testimony is true; the problem is a will that will not walk in the light it litigates.",
+      "reformedNotes": "Calvin: they adduce the common saying that no man ought to be trusted in his own cause. “Not true” here means not lawful or worthy of credit. They want proof from elsewhere so they need not yield to him.\n\nReformed hearing: the objection is not honest epistemology. It is unbelief demanding a court that can never admit the Son of God as his own witness."
+    },
+    {
+      "number": 14,
+      "text": "Jesus answered, “Even if I do bear witness about myself, my testimony is true, for I know where I came from and where I am going, but you do not know where I come from or where I am going.",
+      "arminianNotes": "Wesley: though I testify of myself, my testimony is valid, for I am inseparably united to the Father. Knowledge of origin and destiny is the ground: he came from God as God and man, and knows it though they do not.\n\nClassical Arminians: he gives them light enough. Their not-knowing is not missing data only; it is refusal of a witness who actually knows heaven. They remain accountable for the Light standing in the treasury.",
+      "reformedNotes": "Calvin: his testimony has sufficient authority because he is not a private person. “I know whence I came and whither I go” excludes him from ordinary rank. Divine doctrine is not to be subjected to the laws of men.\n\nReformed accent: their ignorance does not shrink his glory. Faith in this Gospel must rise above the world’s suspicion of self-witness, because the Speaker came from the Father."
+    },
+    {
+      "number": 15,
+      "text": "You judge according to the flesh; I judge no one.",
+      "arminianNotes": "Wesley: ye judge after the flesh—as corrupt nature dictates. I judge no man—not thus; not now; not at my first coming. Their metric is appearance and party; his first advent is saving more than sentencing.\n\nArminian pastoral note: flesh-judgment is a choice they are making in real time. They could judge righteously (7:24); they prefer a flesh court. The Light still withholds the last assize so they may yet follow.",
+      "reformedNotes": "Calvin prefers flesh versus Spirit: they are not competent judges because they have not the Spirit for their guide. “I judge no one” he confines to this scene—he teaches and does not seize their bench, which makes their pride the more glaring.\n\nReformed reading: flesh cannot try the Son. His restraint is not emptiness of authority; it is the shape of this hour. When he does judge, that judgment will not be flesh."
+    },
+    {
+      "number": 16,
+      "text": "Yet even if I do judge, my judgment is true, for it is not I alone who judge, but I and the Father who sent me.",
+      "arminianNotes": "Wesley: I am not alone—no more in judging than in testifying. Father and Son are distinct persons, one God, inseparable. The Son’s earthly mission did not leave the Father, nor the Father the Son.\n\nClassical Arminians rest the trustworthiness of Christ’s verdicts in communion with the Father, not in a lonely genius. Hearers are summoned to that joint judgment as true—not optional if it cuts against flesh.",
+      "reformedNotes": "Calvin: he will not appear to surrender his right. If he judges, the judgment is entitled to authority because he does nothing but according to the Father’s commandment. “I am not alone” means he is not one of ordinary rank.\n\nReformed confession: all he does and teaches is to be accounted divine. Hidden deity under servant-flesh is why he names the Father beside himself rather than flashing raw glory they would only stone."
+    },
+    {
+      "number": 17,
+      "text": "In your Law it is written that the testimony of two people is true.",
+      "arminianNotes": "He meets them on their own Torah (Deut. 19:15). Two witnesses suffice. He will not despise Moses; he will fulfill the two-witness rule in a way they did not budget for.\n\nArminian appeal: even the Law they wield already has room for his claim if they would receive the Father’s witness with the Son’s. Light uses their Scripture rather than tossing it.",
+      "reformedNotes": "Calvin admits the argument looks weak if Christ were a private man speaking in his own cause. The Son of God is not of that ordinary number; he transacts the Father’s business.\n\nReformed note: he accommodates himself to their capacity by distinguishing himself from the Father according to his office as sent, while the doctrine remains God’s."
+    },
+    {
+      "number": 18,
+      "text": "I am the one who bears witness about myself, and the Father who sent me bears witness about me.”",
+      "arminianNotes": "Two witnesses: the Son and the Sender. Self-witness is not isolated ego; it is inseparable from the Father’s testimony already given in works, words, and Scripture.\n\nClassical Arminians: the court is stacked in favor of truth, not of unbelief. They have more than enough light to follow. Remaining in darkness after two divine witnesses is culpable, not unfortunate.",
+      "reformedNotes": "The Father’s witness is not a later exhibit they can subpoena at leisure. Sending is already testimony. To reject the sent One is to call the Sender a liar.\n\nReformed weight: God has not left his Son without corroboration. Unbelief here is not a hung jury; it is refusal of the only two witnesses who matter."
+    },
+    {
+      "number": 19,
+      "text": "They said to him therefore, “Where is your Father?” Jesus answered, “You know neither me nor my Father. If you knew me, you would know my Father also.”",
+      "arminianNotes": "Where is your Father? Wesley hears perverseness: they ought first to know the Son if they would know the Father. Knowledge of one includes the other; they are two witnesses yet one in essence.\n\nArminian tragedy: the question pretends geography while refusing relationship. They could know the Father in the Son standing before them. Not-knowing is not fate only; it is the fruit of not receiving the Light they have.",
+      "reformedNotes": "Calvin: mockery. They do not value the Father so as to ascribe anything to the Son on his account. Seeing, they do not see. Just punishment of pride: those who despise the familiarly offered Son never approach the Father.\n\nReformed path: whoever aspires to know God and does not begin with Christ wanders in a labyrinth. Humble yourself before Jesus and you are led straight to the Father; leave Christ and you do not have God.",
+      "keyContrast": "Both deny that the Father is found apart from the Son. Arminians typically stress that this not-knowing is culpable refusal of a Light sincerely offered. Reformed readers typically stress the same exclusivity as judgment on pride: God is not approached except by the hand of the Son he has sent."
+    },
+    {
+      "number": 20,
+      "text": "These words he spoke in the treasury, as he taught in the temple; but no one arrested him, because his hour had not yet come.",
+      "arminianNotes": "Location matters: the treasury, a crowded, official space. Words about the Father are public. Still no arrest—not because they lack will, but because the hour has not come.\n\nArminian pastoral close: opportunity continues. The Light is still teaching in the house. Today’s non-arrest is patience, not permission to keep judging after the flesh forever.",
+      "reformedNotes": "Calvin: a much-frequented place; a large assembly; less excuse. Astonishing power of God: they lately sought to seize him, yet cannot banish him by a word. He is guarded until the hour God appointed.\n\nReformed close: we live and die not by men’s will but by God’s. The treasury sermon stands because the Father’s clock, not the Pharisees’, governs the Son."
+    }
+  ]
+}

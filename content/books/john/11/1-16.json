@@ -1,0 +1,132 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 11,
+  "verseStart": 1,
+  "verseEnd": 16,
+  "translation": "ESV",
+  "title": "John 11:1–16",
+  "context": "Lazarus of Bethany is ill. The sisters send word to the Lord who loves him. Jesus says the illness is for the glory of God, then stays two days where he is. He walks toward Judea despite the recent attempt to stone him, calls Lazarus’s death sleep, and is glad for the disciples’ sake that he was not there, so that they may believe. Thomas says, Let us also go, that we may die with him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a sickness not unto death, a two-day delay, and the glory of God in a friend’s grave—so each camp speaks in its own voice beside John 11:1–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "This sickness is not to death, but for the glory of God—The event of this sickness will not be death, in the usual sense of the word, a final separation of his soul and body; but a manifestation of the glorious power of God. Our friend Lazarus sleepeth—This he spoke, just when he died. Sleepeth—Such is the death of good men in the language of heaven. But the disciples did not yet understand this language.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 11:4, 11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As Christ is the only mirror of the grace of God, we are taught by this delay on his part, that we ought not to judge of the love of God from the condition which we see before our eyes. When we have prayed to him, he often delays his assistance, either that he may increase still more our ardor in prayer, or that he may exercise our patience, and, at the same time, accustom us to obedience. That the resurrection of Lazarus, therefore, might be acknowledged by the disciples to be truly a Divine work, it must be delayed, that it might be very widely removed from a human remedy.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 11:5–6, 15)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha.",
+      "arminianNotes": "A named household in a named village: Lazarus, Mary, Martha. Illness enters a home Jesus already knows. Wesley thought Lazarus likely the younger sibling, listed after the sisters whose town it is called.\n\nArminian pastoral note: the gospel does not freeze people as types. A real family sends a real plea. The Lord who will soon say “whoever believes” begins here with particular friends, not a parable.",
+      "reformedNotes": "John opens the last great sign with a sick man and two sisters whose house had hosted Christ. The stage is historical before it is theological.\n\nReformed framing: God is about to display glory on a rotting corpse, as Calvin said—a lively image of our future resurrection. The names matter because the work will be public, dated, and later used to plot the cross."
+    },
+    {
+      "number": 2,
+      "text": "It was Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was ill.",
+      "arminianNotes": "John identifies this Mary by the anointing still ahead in chapter 12. Love already marks the house; the reader is told who she is by what she will do.\n\nClassical Arminians hear a household of responsive love. The same Mary who will pour ointment now has a dying brother. Devotion and need sit at one table; neither cancels the other.",
+      "reformedNotes": "The Evangelist writes after the anointing, pointing backward from a known act of worship. This is that Mary.\n\nReformed note: God threads the story so witnesses can identify the family. The coming sign will not be an anonymous wonder; it is tied to people already known for honoring the Lord."
+    },
+    {
+      "number": 3,
+      "text": "So the sisters sent to him, saying, “Lord, he whom you love is ill.”",
+      "arminianNotes": "The message is short and trustful: Lord, the one you love is ill. They do not dictate the miracle; they lay the fact in his love.\n\nArminian prayer-tone: love is grounds for asking, not a lever. They believe his affection is real and that he can be approached. A sincere plea to a loving Lord is how this narrative of “whoever believes” begins.",
+      "reformedNotes": "Calvin heard them pouring distress into Christ’s bosom, expecting relief because he loves. Where God’s love is, deliverance is sure—though not always swift.\n\nReformed reading: they appeal to Christ’s love, not to their worth. The love is true; the timetable will still serve glory rather than panic."
+    },
+    {
+      "number": 4,
+      "text": "But when Jesus heard it he said, “This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it.”",
+      "arminianNotes": "Wesley: the event will not be death in the usual sense—a final soul-body split—but a manifestation of God’s glorious power. Illness is not denied; its last word is denied.\n\nArminian hearing: glory does not make the sisters’ request insincere. The Son will be glorified through a work meant to be seen and believed. Delay is coming, but the stated aim is life-display, not a closed circle of spectators.",
+      "reformedNotes": "Jesus interprets the sickness before he moves. It does not lead to death as its end; it is for the glory of God, that the Son may be glorified through it.\n\nReformed accent: the Father’s purpose governs the timetable. Calvin: Christ meant the kind glory of his saving office—power fitted not to terrify but to save. The delay that follows is not neglect; it is appointed so this glory cannot be mistaken for a near-miss of nature.",
+      "keyContrast": "Shared ground: the illness serves the glory of God in the Son. Arminians typically stress that this glory is a public manifestation meant to invite faith in a Lord who sincerely loves and can be asked. Reformed readers typically stress that the delay and the outcome are ordered by God so the work is unmistakably divine—love judged by purpose, not by speed."
+    },
+    {
+      "number": 5,
+      "text": "Now Jesus loved Martha and her sister and Lazarus.",
+      "arminianNotes": "John will not let delay be misread as cooling affection. He loved Martha, and her sister, and Lazarus—each named in the love.\n\nClassical Arminians rest here: divine love is real toward particular people who will still weep. Love and the coming two days are not enemies. The Lord who loves also calls “whoever believes.”",
+      "reformedNotes": "Calvin felt the apparent clash: love should hurry, yet Jesus stays. As Christ is the mirror of God’s grace, we must not judge that love by the scene before our eyes.\n\nReformed comfort: he never sleeps and never forgets his people. The love is electing and keeping; it is not measured by our stopwatch."
+    },
+    {
+      "number": 6,
+      "text": "So, when he heard that Lazarus was ill, he stayed two days longer in the place where he was.",
+      "arminianNotes": "Heard—and stayed. The “so” is jarring. Two days are chosen, not accidental. The sisters’ messenger is not ignored; he is answered on a different clock.\n\nArminian pastoral note: waiting is not proof that prayer was unheard. A sincere plea can be loved and still not be granted on our day. The same Jesus who delays will later invite Martha with “Do you believe this?”—a real question for a real hearer.",
+      "reformedNotes": "Calvin: he often delays assistance to increase ardor in prayer, exercise patience, and accustom us to obedience. Let believers implore help and also learn to suspend their desires.\n\nReformed weight: the two days remove the work from “human remedy.” Lazarus will be four days dead. The delay is for glory—so that when life comes, it is recognized as God’s, not as a timely physician.",
+      "keyContrast": "Both refuse to read the wait as lovelessness. Arminians typically treat the delay as a hard providence that still leaves room for genuine petition and later faith-response. Reformed readers typically treat it as designed so the resurrection cannot be credited to nature—and so faith, when it comes, rests on a work only God could do."
+    },
+    {
+      "number": 7,
+      "text": "Then after this he said to the disciples, “Let us go to Judea again.”",
+      "arminianNotes": "After the two days, not after a better poll of danger: Let us go to Judea again. He includes the disciples in the going.\n\nArminian note: the invitation is corporate—“let us.” They will have to consent to walk toward risk. Obedience is addressed to people who can hang back, as they immediately will.",
+      "reformedNotes": "He now shows that he had not forgotten Lazarus, though the disciples thought other matters outranked a friend’s life.\n\nReformed framing: the hour of going is his, not theirs. When he says go, the path is calling, not a committee’s courage."
+    },
+    {
+      "number": 8,
+      "text": "The disciples said to him, “Rabbi, the Jews were just now seeking to stone you, and are you going there again?”",
+      "arminianNotes": "They remember chapter 10’s stones. The question is not atheism; it is self-preservation dressed as concern for him.\n\nArminian realism: fear talks in the church. They can hear “let us go” and still argue. The Lord does not cancel the going; he will answer with light-and-day, then keep walking—still addressing them as responsible companions.",
+      "reformedNotes": "Calvin: they dissuade, not so much for him as for themselves; dread of the cross hunts for pious excuses.\n\nReformed edge: unbelief often sounds like prudence. The recent stoning is fact; using it to veto the Father’s timing is still unbelief."
+    },
+    {
+      "number": 9,
+      "text": "Jesus answered, “Are there not twelve hours in the day? If anyone walks in the day, he does not stumble, because he sees the light of this world.",
+      "arminianNotes": "Wesley: the Jews divided sunrise to sunset into twelve hours, longer or shorter with the season. There is a determined time God has allotted; during it Jesus does not stumble, seeing the light of God around him.\n\nArminian hearing: allotted time is not fatalism that silences effort. It is a call to walk while it is day. The light is given to walk in; night-walking is still a real danger for those who will not.",
+      "reformedNotes": "Calvin: God’s calling is like daylight. Whoever obeys the word and undertakes nothing but by his command has God as sun and guide.\n\nReformed accent: safety is in the calling, not in staying east of the Jordan. Angels guard those in his ways; the twelve hours are the Father’s appointment, which the Son will fill."
+    },
+    {
+      "number": 10,
+      "text": "But if anyone walks in the night, he stumbles, because the light is not in him.”",
+      "arminianNotes": "Wesley: if he have not light from God; if providence no longer protect him. Night is absence of that light, not a secret decree that some must trip.\n\nClassical Arminians hear a warning that can still be heeded: walk in the light you have. Stumbling is the fruit of night-walking, and the light of this world is sincerely offered in the One who is about to go.",
+      "reformedNotes": "Night-walking is self-guided life: no light in him. Calvin: the whole course of those who disregard God’s word is a wander.\n\nReformed diagnosis: the issue is whether God’s lamp is leading. Those without that inner light stumble even on familiar roads; the Son does not, because he walks the Father’s day."
+    },
+    {
+      "number": 11,
+      "text": "After saying these things, he said to them, “Our friend Lazarus has fallen asleep, but I go to awaken him.”",
+      "arminianNotes": "Wesley: he spoke this just when Lazarus died. Sleep is heaven’s language for the death of good men; our slow minds make Scripture stoop to our ruder speech.\n\nArminian comfort: “our friend” keeps love in the sentence. Awakening is promised as easily as rousing a sleeper—and the disciples are still invited to go with him, not merely to watch a decree unfold from a distance.",
+      "reformedNotes": "Calvin: Christ asserts his own power—he will come to awake Lazarus. He is Lord of death when he says he awakes those he restores.\n\nReformed center: sleep-language is not sentiment. The same voice that will later cry “Lazarus, come out” here names the work in advance. Life is his to give."
+    },
+    {
+      "number": 12,
+      "text": "The disciples said to him, “Lord, if he has fallen asleep, he will recover.”",
+      "arminianNotes": "They hear ordinary sleep and ordinary recovery—and would rather have that than Judean stones. Mishearing can be a way of staying put.\n\nArminian note: they are not mocking; they are dull. Dullness is still addressable. Jesus will speak more plainly rather than abandon the conversation.",
+      "reformedNotes": "Calvin: they seize a chance to avoid danger, thinking he meant rest. Their theology of sleep is medically true and spiritually beside the point.\n\nReformed note: flesh prefers a natural convalescence to a trip toward glory. He will not let the euphemism stand."
+    },
+    {
+      "number": 13,
+      "text": "Now Jesus had spoken of his death, but they thought that he meant taking rest in sleep.",
+      "arminianNotes": "John pauses to split the idiom from the misunderstanding. Death was meant; rest was heard.\n\nArminian patience: the Evangelist does not despise them. Revelation meets slow hearers. The Lord will keep teaching until the word is plain—then still say, Let us go.",
+      "reformedNotes": "The narrator sides with Jesus’ meaning against the disciples’ thought. Ignorance here is not innocence of facts only; it is unreadiness for a Lord of death.\n\nReformed weight: even those who will soon believe need a work widely removed from human remedy, as Calvin said, or they will keep translating glory back into nature."
+    },
+    {
+      "number": 14,
+      "text": "Then Jesus told them plainly, “Lazarus has died,",
+      "arminianNotes": "Plain speech: Lazarus has died. The friend is not napping. Wesley’s “not unto death” meant not final separation; this verse names the middle of the story, not its denial.\n\nArminian gravity: Jesus does not varnish the corpse. Faith will not be asked to pretend Lazarus is only ill. Truth first, then the going.",
+      "reformedNotes": "Calvin marveled that Christ bore such gross ignorance, delaying a larger gift of the Spirit so the later miracle of their renewing might be greater.\n\nReformed note: plainness is mercy. He will not build their faith on a metaphor they cannot carry. Death is stated so resurrection, when it comes, is resurrection."
+    },
+    {
+      "number": 15,
+      "text": "and for your sake I am glad that I was not there, so that you may believe. But let us go to him.”",
+      "arminianNotes": "Glad—not that Lazarus died, but that Jesus was absent—for their sake, so that they may believe. The delay has an evangelistic aim toward people standing in front of him.\n\nClassical Arminians hear a real purpose clause: that you may believe. The disciples are not props. Absence was for a faith they are summoned to exercise. “Let us go” still treats them as companions whose believing matters.",
+      "reformedNotes": "Calvin: his absence was profitable because instant help would have looked too like nature. The more God’s works resemble the ordinary, the less they are valued.\n\nReformed pairing: “that you may believe” is confirmation of weak faith already begun, not its first spark from nowhere. The Father delays so the work is seen as divine, and by that seeing he grants the faith he requires.",
+      "keyContrast": "Shared ground: the delay is for believing, not for cruelty. Arminians typically take “so that you may believe” as a sincere aim at responsible hearers who must actually trust. Reformed readers typically take the delay as God’s means of displaying a work no flesh could do, by which he confirms and creates the faith of those he means to save."
+    },
+    {
+      "number": 16,
+      "text": "So Thomas, called the Twin, said to his fellow disciples, “Let us also go, that we may die with him.”",
+      "arminianNotes": "Wesley: Thomas/Didymus means twin; “with him” means with Jesus, whom he supposed the Jews would kill. It seems the language of despair—yet he still says go.\n\nArminian sympathy: gloomy loyalty is still a response. Thomas does not refuse the road. Mixed motives do not stop Jesus from taking them; the Twin will meet a better word after Easter, but here his “let us go” is not nothing.",
+      "reformedNotes": "Calvin: Thomas is prepared to follow without confidence, not fortifying himself by the promise. The phrase may glance at Lazarus ironically, but Calvin prefers: he does not refuse to die with Christ—an inconsiderate zeal that should have taken courage from the promise.\n\nReformed edge: despairing courage is not yet faith. Going to die with him is still better than staying; it is not the same as believing the One who goes to awaken the dead."
+    }
+  ]
+}

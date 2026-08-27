@@ -1,0 +1,95 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 15,
+  "verseStart": 18,
+  "verseEnd": 27,
+  "translation": "ESV",
+  "title": "John 15:18–27",
+  "context": "Still the farewell: if the world hates them, it hated him first. They are not of the world because he chose them out of it; a servant is not greater than his master. Persecution comes on account of his name, because they do not know the Sender. His words and works leave the haters without excuse; whoever hates him hates the Father; the Law is fulfilled: they hated him without a cause. The Helper—the Spirit of truth who proceeds from the Father—will bear witness about him; the disciples will also bear witness, having been with him from the beginning.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the world’s hatred and the Helper who proceeds from the Father and bears witness—so each camp speaks in its own voice beside John 15:18–27.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "When the Comforter is come, whom I will send from the Father, the Spirit of truth, who proceedeth from the Father, he shall testify of me—The Spirit’s coming, and being sent by our Lord from the Father, to testify of him, are personal characters, and plainly distinguish him from the Father and the Son; and his title as the Spirit of truth, together with his proceeding from the Father, can agree to none but a Divine person.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 15:26)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Spirit is said to testify of Christ, because he retains and fixes our faith on him alone, that we may not seek elsewhere any part of our salvation. When he says that he will send him from the Father, and, again, that he proceedeth from the Father, he does so in order to increase the weight of his authority; for the testimony of the Spirit would not be sufficient against attacks so powerful if we were not convinced that he proceedeth from God. And you also bear testimony: the testimony of the Spirit will not be of such a nature that the apostles shall have it for their private advantage, but that by them it will be widely diffused, because they will be organs of the Holy Spirit.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 15:26–27)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "“If the world hates you, know that it has hated me before it hated you.",
+      "arminianNotes": "Hatred is framed as a condition they may meet, not a surprise. It hated him first. The order matters: their coming rejection is participation in his, not proof they have misread the mission. Wesley will soon say the world in every age hates those whose maxims are opposite to its own.\n\nClassical Arminians: this is pastoral realism, not fatalism. The world can hate and still be addressed (vv. 22–24 will call that hatred inexcusable). Being hated does not mean they have left the vine; it often means they have not gone back into the world.",
+      "reformedNotes": "Calvin: the gospel cannot be published without driving the world to rage; godly teachers will not avoid that hatred. Christ tells them early so they will not be raw recruits, valiant until the battle starts. He also confirms them by his example: it is not reasonable that he be hated and they, who represent him, have the world on their side.\n\nReformed consolation: the world’s rage is the world’s continuity with itself. Their task is not to win the world’s fondness but to remain his. Hatred of the Master is the context of their ministry, not a sign that the choosing of vv. 16 and 19 has failed."
+    },
+    {
+      "number": 19,
+      "text": "If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you.",
+      "arminianNotes": "Cause of hatred: they are not the world’s own. The therefore rests on “I chose you out of the world”—the same choosing as v. 16, now as separation from a loving world rather than as appointment to fruit. Wesley: because your maxims, tempers, actions are quite opposite to theirs; for the same reason the world in all ages hates those who are not of it.\n\nArminian reading stays historical first: he chose these men out of that world for mission. It does not deny the separation is his act. It does not treat “out of the world” as, by itself, a map of every later believer’s decretal status. The moral contrast (maxims, tempers, actions) is real; hatred tracks holiness of life, not only a hidden list.",
+      "reformedNotes": "Calvin: to choose here means to separate. If they were chosen out of the world, they were once a part of it; only by God’s mercy are they distinguished from the rest who perish. World in this passage: all not regenerated by the Spirit; church contrasted with world, as chapter 17 will show more fully.\n\nReformed accent: the hatred is evidence of a mercy-wrought distinction, not of the disciples’ superior taste. They do not make themselves unworldly and then get chosen. He chose them out; therefore the world hates. The same prior choice as v. 16 now explains hostility as well as fruit.",
+      "keyContrast": "Shared: Jesus chose them out of the world, and that chosen-outness is why the world hates rather than loves them as its own. Arminians typically hear the Eleven’s historical separation for a contrary way of life (Wesley: maxims, tempers, actions), without taking this sentence alone as the decree of all believers versus the reprobate. Reformed readers typically hear mercy that distinguishes them from those who perish, and “world” as the unregenerate mass—without denying that holy lives, not mere labels, draw the world’s hate."
+    },
+    {
+      "number": 20,
+      "text": "Remember the word that I said to you: ‘A servant is not greater than his master.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.",
+      "arminianNotes": "The foot-washing proverb (13:16) returns as a persecution proverb. They should not expect a quieter path than his. The second if is not sarcasm only: some did keep his word; some will keep theirs. Hatred is typical, not the only outcome of witness.\n\nArminian note: both clauses are real forecasts. Persecution does not mean the word is futile; keeping does not mean the world has converted. Responsible hearing still happens. Their word can be kept because it is his word continued, not a new religion they invented.",
+      "reformedNotes": "Calvin prefers the imperative: remember. It is unreasonable that the servant’s condition be better than the Master’s. He moves from persons to doctrine: if they heard his word, they will keep the apostles’. Christ is the church’s only Teacher; he meant his doctrine to be preached by them afterward.\n\nReformed realism: contempt for the apostles’ teaching is not a new crisis that threatens the plan. The Son met the same. Remembering his word is how they interpret both the rage and the remnant who keep it."
+    },
+    {
+      "number": 21,
+      "text": "But all these things they will do to you on account of my name, because they do not know him who sent me.",
+      "arminianNotes": "Cause behind the cause: on account of his name, because they do not know the Sender. Wesley: in all ages and nations, they who know not God will for this cause hate and persecute those who do. Ignorance here is not invincible darkness; v. 22 will strip the excuse.\n\nArminian weight: not-knowing is culpable in the presence of the Sent One. The name is public enough to be a reason for persecution. Grace has been given in the Son; refusal to know the Father is not a missing decree so much as a refused revelation.",
+      "reformedNotes": "Calvin: the world’s fury against the doctrine of its own salvation is monstrous; the reason is blind ignorance hurrying it to destruction. No one would deliberately battle God. Consolation is a good conscience—and gratitude that, while the world perishes in blindness, God has given us his light.\n\nReformed pairing: ignorance of the Sender and hatred of the name go together. Unbelief is blind, not uninformed in every sense: they know enough to rage and not enough to worship. The disciples’ persecution is theologically located, not random misfortune."
+    },
+    {
+      "number": 22,
+      "text": "If I had not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin.",
+      "arminianNotes": "Coming-and-speaking intensifies guilt. Wesley: they had not had sin—not in this respect. The point is not that the world was innocent before Christmas, but that this sin—hating the spoken Christ—now has no cloak.\n\nClassical Arminians: revelation increases responsibility. The words were a real offer of light; refusing them is a real, inexcusable act. This is hard to square with any scheme in which those hearers never had a sincere word addressed to them. Speech happened; excuse died.",
+      "reformedNotes": "Calvin: their blindness is malicious, as if shutting the eyes to avoid the light. Christ performed a good teacher’s duty; their malice would not let them be sound. Sin here is not every sin in the world, but this one: despising and hating the gospel. He does not promise pardon; he holds enemies convicted who obstinately rejected offered life.\n\nReformed gravity: the coming-and-speaking removes the pretense of ignorance. Particular grace in the disciples (vv. 16, 19) does not make the world’s hearing a charade. They have no excuse. That is Jesus’ verdict, not a later system’s."
+    },
+    {
+      "number": 23,
+      "text": "Whoever hates me hates my Father also.",
+      "arminianNotes": "No split-level piety: hate the Son, hate the Father. Wesley: he that hates me—as every unbeliever does—for as love of God is inseparable from faith, so is hatred of God from unbelief.\n\nArminian edge: the verse exposes a religious option the world loves—honor God, dismiss Jesus. John will not allow it. Unbelief is not neutral respect for the Father. It is hatred with a theological name.",
+      "reformedNotes": "Calvin: a remarkable passage—no one can hate the gospel’s doctrine without impiety against God. Many profess otherwise, abhorring the gospel while wishing to be thought God’s servants; a contempt of God is concealed within. The light of the doctrine discovers hypocrisy.\n\nReformed reading: this is John 5:23 in hatred-form. Honor of the Father is tested at the Son. The world’s claim to know God while hating Jesus is the lie this verse names."
+    },
+    {
+      "number": 24,
+      "text": "If I had not done among them the works that no one else did, they would not be guilty of sin, but now they have seen and hated both me and my Father.",
+      "arminianNotes": "Works join words (v. 22) as light that removes excuse. Unique works, seen, then hated—seeing is not saving. They have seen and hated both Son and Father.\n\nArminian moral clarity: evidence was not scarce. Signs, words, and the Person were public. Hatred after seeing is will, not lack of data. The same seeing still calls for a different love; the guilt is that they will not.",
+      "reformedNotes": "Calvin includes under works all proofs of divine glory: miracles, the Spirit’s power, demonstrations that he is the Son. They have seen and hated: they cannot hide behind “we only dealt with a mortal man.” God manifested his divinity in the Son.\n\nReformed note: seeing without loving is the tragedy of this paragraph. The works were sufficient to obligate; the Spirit who will witness (v. 26) is not Plan B because the works failed. He is how the church will stand while the world keeps hating what it saw."
+    },
+    {
+      "number": 25,
+      "text": "But the word that is written in their Law must be fulfilled: ‘They hated me without a cause.’",
+      "arminianNotes": "Psalm 69:4 (and 35:19) is “their Law,” turned on them. Hatred without a cause means without a just cause—not that there was no occasion. Wesley simply points to the psalm. The world’s hatred is not an accident Jesus failed to foresee; it is Scripture filling up.\n\nArminian caution: “must be fulfilled” does not make the haters puppets. John regularly holds together fulfillment and fault (see 12:37–40). They hated freely; the psalm had already described that freedom’s pattern.",
+      "reformedNotes": "Calvin: nothing is more contrary to reason than to hate God; so great was the malice that they hated him without a cause. The psalm is fulfilled not because David’s story was unrelated, but to reprove a nation’s obstinate malice continued from fathers to children.\n\nReformed pairing: Scripture’s “must” and human causeless hatred are both in the verse. The Law they claim is the witness against them. Fulfillment is God’s truth-telling, not an excuse they can cite in court."
+    },
+    {
+      "number": 26,
+      "text": "“But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.",
+      "arminianNotes": "After causeless hatred, a Person: the Helper, sent by Jesus from the Father, the Spirit of truth who proceeds from the Father, will bear witness about Jesus. Wesley: coming, being sent, testifying are personal characters that distinguish him from Father and Son; Spirit of truth plus proceeding from the Father can agree to none but a divine person. The camps do not divide on that deity.\n\nClassical Arminians: the Spirit’s witness is real help for a hated church, not a substitute for the disciples’ own witness (v. 27). Procession and sending here are about who the Spirit is and how he comes, not a slogan that some hearers cannot be truly witnessed to. The world has already refused spoken word and seen works; the Helper still comes. People can hate the light they are given. The Eleven remain responsible to speak.",
+      "reformedNotes": "Calvin: against the world’s fury Christ produces the Spirit’s testimony; if consciences rest there, they will not be shaken. The Spirit testifies of Christ because he retains and fixes faith on him alone. He is called Helper so that, relying on his protection, faith may not yield; Spirit of truth, as opposed to the drift of minds without this Witness. Sent from the Father and proceeding from the Father, to increase authority: this is not a human gift but a pledge of divine grace.\n\nReformed accent: the Helper’s witness is how the chosen-out church stands, not how it congratulates itself. Faith that leaves this sanctuary for the world’s opinion becomes miserable uncertainty. The same Spirit who proceeds and is sent is the Spirit who regenerates (v. 19’s world vs. church). None of that makes v. 27 redundant: they will still speak.",
+      "keyContrast": "Shared Trinitarian ground: Jesus sends the Helper from the Father; the Spirit of truth proceeds from the Father and will bear witness about Jesus—Wesley and Calvin both treat him as a divine person, not an energy. Arminians typically stress that this personal witness equips a real mission whose word can still be refused (as Jesus’ own words and works were, vv. 22–24), while the disciples must also bear witness as responsible friends. Reformed readers typically stress that the Spirit’s testimony is God’s own seal, the firmness of faith against hatred, proceeding from the Father so the witness is not the church’s self-confidence—without denying that the apostles truly speak as his organs (v. 27). Do not turn the verse into a filioque fight between the camps; both of these commentators hear sending by the Son and proceeding from the Father."
+    },
+    {
+      "number": 27,
+      "text": "And you also will bear witness, because you have been with me from the beginning.",
+      "arminianNotes": "You also: the Helper’s witness does not retire the Eleven. They will bear witness because they have been with him from the beginning—eyewitness history, not private visions. The Spirit (v. 26) and the friends (v. 15) speak together.\n\nArminian close: from-the-beginning is qualification and obligation. They can fail to abide (v. 6); they are still appointed to go (v. 16) and now to testify. The world’s hatred (v. 18) is the climate of that testimony, not a reason to go silent. Grace enables the witness; it does not make their speaking a mere echo without agency.",
+      "reformedNotes": "Calvin: the Spirit’s testimony is not for the apostles’ private advantage; by them it will be widely diffused, because they will be organs of the Holy Spirit. Faith is by hearing, yet derives certainty from the Spirit’s seal. Christ joins the two: no faith until the Spirit seals, and no chasing oracles in the clouds—the word near us must hold the senses.\n\nReformed close: from-the-beginning makes them eyewitnesses, as 1 John 1 will say. God provided for full confirmation of the gospel. The Helper proceeds and testifies; they also testify. Neither camp should separate what Jesus has joined: divine witness and human witnesses, in a world that hated him first."
+    }
+  ]
+}

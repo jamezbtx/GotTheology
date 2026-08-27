@@ -1,0 +1,101 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 12,
+  "verseStart": 9,
+  "verseEnd": 19,
+  "translation": "ESV",
+  "title": "John 12:9–19",
+  "context": "A large crowd comes not only for Jesus but to see Lazarus; the chief priests plot to kill the raised man because many are believing. The next day pilgrims take palms and cry Hosanna to the King of Israel. Jesus sits on a young donkey, as Zechariah wrote. The disciples do not understand until He is glorified; Pharisees lament that the world has gone after Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the palm-procession and faith that understands later—so each camp speaks in its own voice beside John 12:9–19.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "These things his disciples understood not at first—The design of God’s providential dispensations is seldom understood at first. We ought therefore to believe, though we understand not, and to give ourselves up to the Divine disposal. The great work of faith is, to embrace those things which we knew not now, but shall know hereafter.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 12:16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Apostles are the servants of God to fulfill the prophecy, but they do not understand what they are doing. To them, therefore, it is an unmeaning exhibition, until the Lord, after his glorious resurrection, opens their eyes. We are blind, unless the word of God go before our steps, and it is not even enough that the word of God shine on us, if the Spirit do not also enlighten our eyes, which otherwise would be blind amidst the clearest light.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 12:16)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 9,
+      "text": "When the large crowd of the Jews learned that Jesus was there, they came, not only on account of him but also to see Lazarus, whom he had raised from the dead.",
+      "arminianNotes": "News travels: Jesus is in Bethany, and so is the man who was dead. They come for both—the Worker and the work. Curiosity and hope share the road.\n\nArminian pastoral note: a sign this public still summons real people. Wanting to see Lazarus is not yet saving faith, but it is not nothing. The raised man is meant to be looked at; the crowd is accountable for what they do with the looking.",
+      "reformedNotes": "Calvin: they come not to honor Lazarus as a celebrity but to behold Christ’s power displayed in him. God intended the miracle to have many witnesses as the death of Christ drew near.\n\nReformed accent: celebrity-seeking can still serve providence. The sign is a remarkable proof of divinity, staged so that after the cross stronger faith would have something remembered. Sight of Lazarus is appointed testimony, not a sideshow."
+    },
+    {
+      "number": 10,
+      "text": "So the chief priests made plans to put Lazarus to death as well,",
+      "arminianNotes": "The plot widens: if the sign will not go away, kill the evidence. A living Lazarus is more dangerous to unbelief than a dead one. This is not confusion; it is policy.\n\nClassical Arminians hear willful suppression of light. They have enough evidence to believe; they choose to erase it. Hardening here is not innocence trapped; it is officials deciding that a resurrection is worth a second murder.",
+      "reformedNotes": "Calvin calls it worse than insane fury: to seek the death of one manifestly raised by divine power. Wickedness, not mere mistake, drives them to war against God.\n\nReformed reading: Satanic giddiness would rather bury the work of God than repent before it. The resurrection of Lazarus was not dim; ungodliness could invent no other cover than a shocking murder. Their plan is itself a backhanded confession of the sign."
+    },
+    {
+      "number": 11,
+      "text": "because on account of him many of the Jews were going away and believing in Jesus.",
+      "arminianNotes": "John states the motive: Lazarus is costing them people. “Going away and believing” is movement toward Jesus that the priests mean to stop. A man walking around after death is an argument they cannot win in debate.\n\nArminian weight: believing here is a real response to a real sign. Many are not described as puppets; they see and trust. The tragedy of the plot is that officials would rather kill than let that believing continue. The sign was sincere; the faith it awakened is treated as a problem to be managed.",
+      "reformedNotes": "Belief spreads “on account of him”—the raised man as means. Calvin will soon show crowds ascribing Messiah’s honor to the son of Mary because of this power.\n\nReformed accent: God uses the sign to draw many, and the same sign inflames the plot. Going away to Jesus does not make the priests helpless victims of fate; it exposes hearts that would rather extinguish witnesses than yield. Faith in view of Lazarus is still faith God must keep; unbelief in view of Lazarus is still guilt.",
+      "keyContrast": "Both take the believing as real and the priests’ motive as wicked. Arminians typically hear a sincere, sign-awakened faith that hearers are responsible to follow. Reformed readers typically hear God appointing the sign and the movement, without softening the priests’ war against what God has made public."
+    },
+    {
+      "number": 12,
+      "text": "The next day the large crowd that had come to the feast heard that Jesus was coming to Jerusalem.",
+      "arminianNotes": "Sunday of the week, feast-crowd, rumor that He is coming. Wesley notes the multitude is chiefly pilgrims, Galileans more than Jerusalem’s establishment. Hearing is the hinge: they will go out because they have heard.\n\nArminian note: the news is a genuine summons. Coming to the feast already placed them near the King; hearing that He is on the road now asks what they will do with the nearness. Palms are about to become a decision.",
+      "reformedNotes": "Calvin: He comes of His own accord to offer Himself to die—a voluntary sacrifice of obedience—yet before the cross He will be publicly hailed as King. Strangers prove readier than Jerusalem’s insiders.\n\nReformed framing: the crowd is assembled by a movement of His Spirit, as a prince’s trumpet gathers subjects. They do not yet understand the kingdom; Christ looks to the future and permits only what suits a spiritual reign."
+    },
+    {
+      "number": 13,
+      "text": "So they took branches of palm trees and went out to meet him, crying out, “Hosanna! Blessed is he who comes in the name of the Lord, even the King of Israel!”",
+      "arminianNotes": "Palms and Psalm 118: Save, we pray; blessed is the Coming One. They name Him King of Israel in the Lord’s name. The words are better than their grasp; the cry is still a real confession the city can hear.\n\nClassical Arminians: Scripture put this prayer in Israel’s mouth so that, when the King appeared, people might use it. Using it is not automatically saving faith, but it is not theater. They are calling on the Messiah who is actually approaching; the days ahead will test whether Hosanna becomes trust or a discarded slogan.",
+      "reformedNotes": "Calvin: Hosanna is the church’s old prayer for the Messiah’s arrival; the Spirit put those words in their mouths as heralds. Palms mark gladness at a new king; “in the name of the Lord” marks a King God has actually sent.\n\nReformed accent: God can guide tongues to bless Christ’s kingdom even when the speakers barely know what they say. The prayer remains the church’s: we still ask that this reign flourish, and sloth in that asking is our shame, not His weakness."
+    },
+    {
+      "number": 14,
+      "text": "And Jesus found a young donkey and sat on it, just as it is written,",
+      "arminianNotes": "He does not seize a warhorse. He finds a young donkey and sits, matching what is written. The King interprets the crowd’s Hosanna by choosing meekness.\n\nArminian pastoral picture: He accepts the welcome without inflating it into a revolt. The written word steers the moment. Those who cry King are now shown what kind of King they have—one who fulfills Scripture rather than their appetite for force.",
+      "reformedNotes": "John is brief where the Synoptics send two disciples; Calvin treats the she-ass and colt as Hebrew repetition, one animal in view. Providence exhibits Zechariah on a public stage.\n\nReformed note: sitting on the donkey is not the whole proof that He is Messiah—His glory and resurrection carry that—but it is a confirmation we ought not despise. The kingdom will have nothing in common with the world’s pomp."
+    },
+    {
+      "number": 15,
+      "text": "“Fear not, daughter of Zion; behold, your king is coming, sitting on a donkey’s colt!”",
+      "arminianNotes": "Wesley: “Fear not—For his meekness forbids fear, as well as the end of his coming.” Zion is told to look: her King arrives low, not as a terror. Zechariah’s line becomes John’s caption.\n\nArminian comfort: the coming is for her, and the manner is mercy. Fear not is a real word to a real people. The colt preaches that this reign saves rather than crushes; the daughter of Zion is summoned to receive Him without panic and without pride.",
+      "reformedNotes": "Calvin: tranquillity returns only when we know Christ reigns among us. The Evangelist turns the prophet’s joy into the removal of fear—peace with God through this King, sin’s yoke broken.\n\nReformed hearing: “Daughter of Zion” now names believers who submit so that He may reign in them. The donkey is an outward pledge that the kingdom is spiritual. Behold your King: confidence in Him rises above the dangers that remain."
+    },
+    {
+      "number": 16,
+      "text": "His disciples did not understand these things at first, but when Jesus was glorified, then they remembered that these things had been written about him and had been done to him.",
+      "arminianNotes": "They help fulfill a prophecy they cannot yet read. Understanding waits for glorification—cross, resurrection, ascension—then memory and Scripture lock together. Faith here is not omniscience; it is staying with Him until the lights come on.\n\nClassical Arminians follow Wesley: we ought to believe though we understand not, and give ourselves to the Divine disposal. The great work of faith is to embrace what we shall know hereafter. Delay of insight is not proof that the palm Sunday was unreal; it is proof that disciples are taught over time and remain responsible to keep following in the fog.",
+      "reformedNotes": "Calvin: they hear a distinct salutation of Christ as King and still find it an unmeaning exhibition until the risen Lord opens their eyes. Word must go before our steps, and even shining Scripture leaves us blind unless the Spirit enlightens.\n\nReformed accent: this grace is bestowed after the resurrection, when the Spirit’s fullness comes. Remembering is gift, not native cleverness. The whole transaction was regulated by providence because what was written had to be fulfilled.",
+      "keyContrast": "Both refuse to mock slow disciples. Arminians typically treat the gap as a call to trust and keep yielding, with understanding promised later. Reformed readers typically stress that even clear Scripture and a public fulfillment remain dark until the Spirit opens the eyes the risen Christ gives."
+    },
+    {
+      "number": 17,
+      "text": "The crowd that had been with him when he called Lazarus out of the tomb and raised him from the dead continued to bear witness.",
+      "arminianNotes": "Eyewitnesses keep talking: they were there when He called Lazarus out. Wesley admires the ease of the style—great miracle, simple sentence. Testimony continues; it does not evaporate after the tomb.\n\nArminian note: witness is a moral act. Those who saw are still speaking, and hearers of the witness can still believe. The raising was not a private spiritual impression; it is public speech still running beside the donkey.",
+      "reformedNotes": "Calvin: rumor of the restored Lazarus is why crowds go out. They have reason to ascribe Messiah’s honor to the son of Mary, given such power.\n\nReformed reading: testimony is appointed accompaniment to the entry. God will not let the sign be only a Bethany memory; He keeps witnesses talking so that the King’s approach is interpreted by a resurrection."
+    },
+    {
+      "number": 18,
+      "text": "The reason why the crowd went to meet him was that they heard he had done this sign.",
+      "arminianNotes": "Motive clause: they heard, so they went. Hearing about Lazarus, not a sudden political program, gathers the meeting-party. Signs still function as intended: they point, and people move.\n\nClassical Arminians: hearing is enough to obligate a response. The sign was done; the report is true; going out to meet Him is a fitting use of the light they have. Mixed motives may come later; this verse names a real reason, not a fake one.",
+      "reformedNotes": "Two crowds join: those who saw the raising and those who heard of it. Calvin notes they meet Him because the miracle’s fame had spread.\n\nReformed accent: the sign is the God-given cause of the procession’s size. Hearing is means; the King they meet is still the One who must die. Popular excitement can be providence without yet being Pentecost."
+    },
+    {
+      "number": 19,
+      "text": "So the Pharisees said to one another, “You see that you are gaining nothing. Look, the world has gone after him.”",
+      "arminianNotes": "Panic in the leadership: our measures fail; “the world” is after Him. The line is bitter and half-true—John will soon introduce Greeks who want to see Jesus. Opposition diagnoses its own impotence.\n\nArminian pastoral irony: they can see the movement and still refuse the Man. “Gaining nothing” is the fruit of fighting light. The world going after Him is not a threat to humble faith; it is a cue to repent and go after Him too. Their words become an unwitting mission statement.",
+      "reformedNotes": "Calvin: they spur themselves to greater rage, blaming their own sloth for the people’s revolt. Desperate men talk this way before extreme measures.\n\nReformed close: if enemies persevere so in evil, the church should be steadier in a just cause. “The world” on their lips is hyperbole and, in God’s irony, a pointer toward the nations. Their failure to gain is not accident; it is the collision of a spiritual King with unbelief that will not yield."
+    }
+  ]
+}

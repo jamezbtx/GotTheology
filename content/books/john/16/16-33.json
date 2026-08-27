@@ -1,0 +1,143 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 16,
+  "verseStart": 16,
+  "verseEnd": 33,
+  "translation": "ESV",
+  "title": "John 16:16–33",
+  "context": "A little while: they will not see Him, then see Him. Sorrow will turn to joy like birth pangs to a child. In that day they will ask the Father in His name; the Father Himself loves them. He came from the Father and returns. Their new confidence is met with a question and a prediction of scattering—yet He is not alone, and in Him they may have peace: in the world tribulation, but He has overcome the world.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on sorrow turned to joy and the Son who has overcome the world—so each camp speaks in its own voice beside John 16:16–33.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Your sorrow shall be turned into joy. Ask, and ye shall receive, that your joy may be full. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 16:20, 24, 33)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Their sorrow will be turned into joy by his resurrection… The Father himself loves you. Be of good courage: I have overcome the world. The victory is already ours in Christ, though we still wrestle under the cross.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 16:20, 27, 33)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 16,
+      "text": "“A little while, and you will see me no longer; and again a little while, and you will see me.”",
+      "arminianNotes": "Two little whiles: absence, then sight. The cross-and-resurrection clock is hidden in a riddle they cannot yet parse.\n\nArminian nearness: the absence is real and short. He prepares them for a night that will not be the last word.",
+      "reformedNotes": "Little while / little while: His timetable, not theirs.\n\nReformed measure: the Lord of hours speaks in compressed time. Seeing and not-seeing are both under His “little.”"
+    },
+    {
+      "number": 17,
+      "text": "So some of his disciples said to one another, “What is this that he says to us, ‘A little while, and you will not see me, and again a little while, and you will see me’; and, ‘because I am going to the Father’?”",
+      "arminianNotes": "They quote Him to each other and still do not understand. Horizontal processing of a vertical departure.\n\nArminian classroom: confusion is allowed. They stay in the conversation; that is better than leaving.",
+      "reformedNotes": "Some said to one another: the riddle is shared, not solved.\n\nReformed note: going to the Father is the clause they cannot yet fit to “see me.” The resurrection will parse it."
+    },
+    {
+      "number": 18,
+      "text": "So they were saying, “What does he mean by ‘a little while’? We do not know what he is talking about.”",
+      "arminianNotes": "They fixate on the phrase. Not knowing is confessed.\n\nArminian honesty: “we do not know” is a disciple sentence. He will answer the want (v. 19) before He rebukes the scatter (v. 32).",
+      "reformedNotes": "The little while is the sticking point. They admit ignorance.\n\nReformed kindness: John records the blank look so that later readers will see how resurrection light had to be given, not guessed."
+    },
+    {
+      "number": 19,
+      "text": "Jesus knew that they wanted to ask him, so he said to them, “Is this what you are asking yourselves, what I meant by saying, ‘A little while and you will not see me, and again a little while and you will see me’?",
+      "arminianNotes": "He knows the unasked question and voices it. Omniscience here is pastoral, not a trap.\n\nArminian comfort: the Lord answers what we cannot quite form. Wanting to ask is already met.",
+      "reformedNotes": "He knew, so He said. The interior of the Eleven is not private from Him.\n\nReformed seeing: the Word reads His own. The following explanation is gift to a desire He named for them."
+    },
+    {
+      "number": 20,
+      "text": "Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn into joy.",
+      "arminianNotes": "Weep, lament, world’s party—then sorrow turned, not merely ended. Wesley heard the turn as real joy.\n\nArminian promise: the world’s rejoice is temporary. Grief over the cross will become joy; the turn is His work, and they will enter it.",
+      "reformedNotes": "Calvin located the turn in the resurrection. World-rejoice is the wrong feast.\n\nReformed reversal: God writes joy where they will write funeral. The truly, truly binds the conversion of sorrow to His act."
+    },
+    {
+      "number": 21,
+      "text": "When a woman is giving birth, she has sorrow because her hour has come, but when she has delivered the baby, she no longer remembers the anguish, for joy that a human being has been born into the world.",
+      "arminianNotes": "Birth is the metaphor: hour of sorrow, then a human being, and anguish recedes before joy.\n\nArminian image: the cross is labor, not stillbirth. What comes out of the hour is life the world can meet.",
+      "reformedNotes": "Hour, delivery, joy over a born human. The analogy is creational and precise.\n\nReformed hope: the anguish is not pointless. A world gets a new-born joy because the hour came."
+    },
+    {
+      "number": 22,
+      "text": "So also you have sorrow now, but I will see you again, and your hearts will rejoice, and no one will take your joy from you.",
+      "arminianNotes": "I will see you again—His seeing, not only theirs. Joy untakeable.\n\nArminian staying power: resurrection joy is not mood. No one takes it; they are still commanded later to abide, but the joy’s source is His seeing them.",
+      "reformedNotes": "He will see them: subject is Jesus. Hearts will rejoice; the joy is theft-proof.\n\nReformed security: the joy is located in His return-to-them. Enemies can take comforts; they cannot steal this seeing."
+    },
+    {
+      "number": 23,
+      "text": "In that day you will ask nothing of me. Truly, truly, I say to you, whatever you ask of the Father in my name, he will give it to you.",
+      "arminianNotes": "That day relocates asking: to the Father in the Son’s name, with a truly-truly promise of giving.\n\nArminian prayer: the name is not a charm; it is access. Ask—the command assumes they may, and the Father gives.",
+      "reformedNotes": "Ask the Father in my name: new covenant access. He will give.\n\nReformed access: the day of resurrection/Spirit opens asking that is heard because of the Son, not because of better technique."
+    },
+    {
+      "number": 24,
+      "text": "Until now you have asked nothing in my name. Ask, and you will receive, that your joy may be full.",
+      "arminianNotes": "Until now: a new key. Ask, receive, full joy. Wesley joined this to the sorrow-joy thread.\n\nClassical Arminians: asking is a real act of faith God answers. Fullness of joy is the purpose, not leftover scraps.",
+      "reformedNotes": "Asked nothing in my name—yet. The imperative creates a new practice.\n\nReformed purpose clause: that joy may be full. Prayer in the name is a means of the joy He promised in v. 22."
+    },
+    {
+      "number": 25,
+      "text": "“I have said these things to you in figures of speech. The hour is coming when I will no longer speak to you in figures of speech but will tell you plainly about the Father.",
+      "arminianNotes": "Figures now, plain speech coming. The Father is the subject of the clearer telling.\n\nArminian pedagogy: He moves them from riddle to plainness. The hour of the Spirit/resurrection will not make Him a different Lord, only a clearer one.",
+      "reformedNotes": "Figures / plainly: two modes, one Christ. The hour is His.\n\nReformed unveiling: plain speech about the Father is the fruit of the finished hour, not of their cleverness tonight."
+    },
+    {
+      "number": 26,
+      "text": "In that day you will ask in my name, and I do not say to you that I will ask the Father on your behalf;",
+      "arminianNotes": "Not a denial of intercession (cf. 17; Rom 8) so much as a denial that they are distanced. They will ask in His name.\n\nArminian nearness: you are not stuck in a waiting room while Jesus files papers. Name-access is real communion.",
+      "reformedNotes": "He will not speak as if they lacked access. Name-asking is itself the path.\n\nReformed nuance: the High Priest is not unemployed; the point is the Father’s open welcome (v. 27), not a cold chain of clerks."
+    },
+    {
+      "number": 27,
+      "text": "for the Father himself loves you, because you have loved me and have believed that I came from God.",
+      "arminianNotes": "The Father himself loves you—because they have loved and believed the Sent One. Love and faith are named as the relational because.\n\nArminian warmth: this because is not wages that bought the Father, but the living bond He delights in. Loving and believing Jesus is how people stand in that love; the invitation to such faith remains sincere.",
+      "reformedNotes": "Calvin: the Father himself loves you. The because marks those who love and believe the Son as the people of that love.\n\nReformed fountain: the Father’s love for the Son’s people is prior in the Gospel (3:16; 17:23–24) and here is traced in their love and faith as evidence and bond, not as an independent cause that created God’s heart.",
+      "keyContrast": "Shared: the Father himself loves those who love and believe the Son. Arminians typically hear a real, living condition of trust. Reformed readers typically hear the Father’s own love displayed in and under the faith He has already been forming in them."
+    },
+    {
+      "number": 28,
+      "text": "I came from the Father and have come into the world, and now I am leaving the world and going to the Father.”",
+      "arminianNotes": "The whole itinerary in one sentence: from Father, into world, leaving, going to Father.\n\nArminian gospel: origin and return interpret everything between. Believing He came from God (v. 27, 30) is believing this itinerary.",
+      "reformedNotes": "Mission summary: descent and ascent. The world is a stop He now leaves.\n\nReformed plot: the Sender and the destination are the same Father. History is that going."
+    },
+    {
+      "number": 29,
+      "text": "His disciples said, “Ah, now you are speaking plainly and not using figurative speech!",
+      "arminianNotes": "They think the hour of plainness has already arrived. Ah, now—overconfident timing.\n\nArminian smile: we often declare we understand just before we scatter. He will question this now (v. 31).",
+      "reformedNotes": "They announce the curriculum complete. Plain speech, they say.\n\nReformed irony: the figures are barely dry. Their certainty is a setup for v. 32."
+    },
+    {
+      "number": 30,
+      "text": "Now we know that you know all things and do not need anyone to question you; this is why we believe that you came from God.”",
+      "arminianNotes": "They ground belief in His knowing-all, including unasked questions. The why of faith is right-directioned and premature.\n\nArminian faith: this is real belief, thin and about to be tested. He does not say they never believed; He asks if they do now, then predicts the scatter.",
+      "reformedNotes": "Knowledge of His omniscience becomes their stated reason for believing His origin.\n\nReformed testing: true as far as it goes. The next sentences will measure this confession against an hour, not a seminar."
+    },
+    {
+      "number": 31,
+      "text": "Jesus answered them, “Do you now believe?",
+      "arminianNotes": "A question, not a congratulations. Now is the word under pressure.\n\nArminian seriousness: present faith must become remaining faith. The question is an invitation to humility, not a sneer.",
+      "reformedNotes": "Do you now believe?—the now is fragile.\n\nReformed probe: He does not deny all faith; He refuses their timetable of arrival. The hour will tell."
+    },
+    {
+      "number": 32,
+      "text": "Behold, the hour is coming, indeed it has come, when you will be scattered, each to his own home, and will leave me alone. Yet I am not alone, for the Father is with me.",
+      "arminianNotes": "Scatter, home, leaving Him alone—yet He is not alone. Their coming failure is predicted without canceling the Father’s presence with the Son.\n\nArminian realism: believers can scatter. Restoration is coming (ch. 21), and the prediction is meant to be remembered as mercy, not merely shame.",
+      "reformedNotes": "The hour has come: scattering is imminent. Alone as to them; not alone as to the Father.\n\nReformed solitude: the Son’s communion with the Father holds when disciples do not. Their leaving does not un-Son Him."
+    },
+    {
+      "number": 33,
+      "text": "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”",
+      "arminianNotes": "Purpose: peace in Him. Location: tribulation in the world. Command: take heart. Ground: He has overcome. Wesley: be of good cheer.\n\nArminian courage: peace is in a person, not in a calm decade. They will have trouble and may still take heart because His overcoming is announced as fact to be trusted.",
+      "reformedNotes": "Calvin: victory is already ours in Christ though we wrestle under the cross. In me / in the world: two realms.\n\nReformed already: I have overcome—perfected conquest. Take heart is not pep; it is union with the Victor while tribulation is still honest.",
+      "keyContrast": "Shared: tribulation in the world, peace in Christ, because He has overcome. Arminians typically press take-heart as a real call to trust the Victor. Reformed readers typically press the perfect tense: the overcoming is accomplished, and their peace is participation in that finished victory."
+    }
+  ]
+}

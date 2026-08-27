@@ -1,0 +1,132 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 19,
+  "verseStart": 1,
+  "verseEnd": 16,
+  "translation": "ESV",
+  "title": "John 19:1–16",
+  "context": "Pilate flogs Jesus; soldiers crown him with thorns and mock the King. The governor presents the man, finds no guilt, then hears the charge that he made himself the Son of God. Jesus names authority from above; Caesar's friendship outweighs justice; the priests confess no king but Caesar. Jesus is delivered to be crucified.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the innocent King delivered over—so each camp speaks in its own voice beside John 19:1–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He was the more afraid—He seems to have been afraid before of shedding innocent blood. Thou couldst have no power over me—For I have done nothing to expose me to the power of any magistrate. Therefore he that delivered me to thee, namely, Caiaphas, knowing this, is more blamable than thou.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 19:8, 11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "His innocence is frequently attested by the testimony of the judge, in order to assure us that he was free from all sin, and that he was substituted as a guilty person in the room of others, and bore the punishment due to the sins of others. Pilate did not condemn Christ before he had several times acquitted him with his own mouth, in order that we may learn from it that it was for our sins that he was condemned, and not on his own account.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 19:1, 12)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Then Pilate took Jesus and flogged him.",
+      "arminianNotes": "The flogging is not a last-ditch kindness that works. Pilate still hopes a beaten Jesus will satisfy the crowd without a cross. Classical Arminians read a real political choice: a magistrate using lesser violence to dodge a greater injustice, and failing.\n\nArminian pastoral note: the innocent is already paying. Nothing in the scene says this suffering is a show. The world is watching a judge who knows better and still lays the lash on a man he will soon call guiltless.",
+      "reformedNotes": "Pilate adheres to his original intention, Calvin notes, adding a second ignominy in hope the Jews will be satisfied with a light chastisement. Heaven's decree, not Pilate's tactic, is carrying Christ toward death.\n\nReformed framing: the judge's mouth will keep attesting innocence while his hand inflicts punishment. The substitution has begun in public: a sinless man is already treated as if he were the guilty party."
+    },
+    {
+      "number": 2,
+      "text": "And the soldiers twisted together a crown of thorns and put it on his head and arrayed him in a purple robe.",
+      "arminianNotes": "Thorns and purple: kingship as a joke they can handle. They dress him as what they refuse to believe he is. Classical Arminians hear the mockery as culpable unbelief, not as a secret that he was never offered as King.\n\nThe robe does not make him king; it only advertises the title they mean to laugh off. The King they crown in scorn is still the King the gospel sincerely names to the world.",
+      "reformedNotes": "Calvin: this was done by Pilate's authority, to affix infamy on the Son of God for having made himself a king. Soldiers then outrun the order, as ungodly men seize any door to do evil.\n\nReformed note: God is directing even this cruelty to reconcile the world to himself by the death of his Son. The crown of thorns is not barracks humor only; it is the King bearing the curse of the ground on his brow."
+    },
+    {
+      "number": 3,
+      "text": "They came up to him, saying, “Hail, King of the Jews!” and struck him with their hands.",
+      "arminianNotes": "Hail, then a blow: worship-language turned into assault. The soldiers come up to him—near enough to hit what they will not honor. Arminian reading: they have light enough to name him King and will enough to strike him.\n\nClassical Arminians do not excuse the blows as inevitable. Hail can still become true confession later; here it is sin. The gospel will keep calling people to a better hail than this.",
+      "reformedNotes": "The soldiers' hail is liturgy as insult. Calvin saw Jewish hardness unmoved by the piteous spectacle; the same hardness is in Gentile hands.\n\nReformed accent: every blow lands inside the Father's purpose without becoming morally clean. The King of the Jews is struck because he is standing in the room of others, not because he has a crime of his own."
+    },
+    {
+      "number": 4,
+      "text": "Pilate went out again and said to them, “See, I am bringing him out to you that you may know that I find no guilt in him.”",
+      "arminianNotes": "See—and know: I find no guilt. Pilate wants the verdict without the cost of enforcing it. Classical Arminians hear a conscience still speaking. He has light; he is using it as a shield, not as a sentence.\n\nArminian weight: “no guilt” is true of Jesus and still not saving for Pilate. Knowing innocence and refusing to stand by it is a real refusal, not a missing decree. The offer to do right remains on the table.",
+      "reformedNotes": "Calvin: innocence is frequently attested by the judge so that we may be sure Christ was free from all sin and substituted as a guilty person in the room of others. The trembling conscience acquits with the mouth and punishes as if guilty.\n\nReformed reading: God is stacking public acquittals before the condemnation. We are meant to learn that this death is for our sins, not his. Pilate's verdict is evidence in the substitution case."
+    },
+    {
+      "number": 5,
+      "text": "So Jesus came out, wearing the crown of thorns and the purple robe. Pilate said to them, “Behold the man!”",
+      "arminianNotes": "Behold the man—not a theory, a beaten human being. Pilate hopes pity will do what justice would not. Classical Arminians take the display as a real appeal: look, and stop.\n\nArminian pastoral: beholding is the right verb. The gospel still says Behold. Pity that never becomes faith is not enough, but the man is truly set before them. They may yet receive the King they are being shown.",
+      "reformedNotes": "Calvin heard a judge trying to allay fury by showing how little this man looks like a tyrant. Behold the man is irony God overrules into gospel: here is the last Adam, the true man, presented in weakness.\n\nReformed note: the man they are to behold is the one Isaiah's Servant looked like. God is not waiting to see whether the crowd will be nicer; he is exhibiting the substitute he intends to give."
+    },
+    {
+      "number": 6,
+      "text": "When the chief priests and the officers saw him, they cried out, “Crucify him, crucify him!” Pilate said to them, “Take him yourselves and crucify him, for I find no guilt in him.”",
+      "arminianNotes": "Sight does not soften them. They see the man and cry for a cross. Pilate again finds no guilt and tries to wash his hands with a dare: take him yourselves. Classical Arminians hear double culpability—priests who will not stop, a governor who will not finish his own verdict.\n\nArminian warning: seeing Jesus beaten can harden as well as melt. The cry Crucify is a decision, not a fate they could not have refused. Pilate's “no guilt” still obligated him.",
+      "reformedNotes": "Calvin: Pilate does not wish to abandon Christ to their fury; he only refuses to be their executioner, and the reason is the same verdict—no guilt. The priests and officers are the bellows that will kindle the crowd.\n\nReformed gravity: the innocent is being hunted by office-holders who should have known the law's aim. Their cry does not create his guilt; it hands him over as the appointed sacrifice while remaining their own sin."
+    },
+    {
+      "number": 7,
+      "text": "The Jews answered him, “We have a law, and according to that law he ought to die because he has made himself the Son of God.”",
+      "arminianNotes": "Wesley: they understood Son of God in the highest sense and therefore counted it blasphemy. The charge is theological, not merely political. Classical Arminians agree the title is the highest—and that Jesus did not “make himself” what he eternally is.\n\nArminian reading: a true general rule (no mere man may seize God's honor) is misapplied to the one who is the Son. They had light in their own Scriptures; they are accountable for refusing to ask whether this Jesus is the promised Messiah.",
+      "reformedNotes": "Calvin: the general doctrine was true—men may not assume what is due to God—but they erred grievously in the application. They would not consider the titles Scripture gives the Messiah, nor even inquire whether Jesus was that Messiah.\n\nReformed note: a true major premise and a false minor. Jesus is not a mere man claiming deity; he is the Son they ought to have recognized. Bad reasoning from a true law still crucifies the Lord of glory.",
+      "keyContrast": "Shared ground: “Son of God” is the highest claim, and a mere man making it would be blasphemy. Arminians typically stress that they had sufficient light in Moses and the prophets to recognize him and are culpable for the misapplication. Reformed readers typically add that unbelief here is not a lack of data but a heart that will not inquire—yet still treat the legal error as real guilt, not a feint."
+    },
+    {
+      "number": 8,
+      "text": "When Pilate heard this statement, he was even more afraid.",
+      "arminianNotes": "Wesley: he seems to have been afraid before of shedding innocent blood; now he is more afraid. Son of God lands on a pagan conscience. Classical Arminians hear common-grace fear: even an irreligious man can be struck by the Name.\n\nArminian pastoral: fear is not yet faith. Pilate has another chance to use the fear toward justice. Grace is pressing him; he may still refuse, and that refusal will be his.",
+      "reformedNotes": "Calvin allows two readings and prefers the religious one: after hearing the name of the Son of God, Pilate's mind is moved. Reverence for God on an irreligious man is a proof that people have a natural sentiment of religion.\n\nReformed accent: the fear is real and transitory. It will not regenerate him. God can unsettle a governor with a title and still hand his Son over by that same governor's later collapse."
+    },
+    {
+      "number": 9,
+      "text": "He entered his headquarters again and said to Jesus, “Where are you from?” But Jesus gave him no answer.",
+      "arminianNotes": "Wesley: Whose son art thou? The question is origin, not hometown. Jesus is silent. Classical Arminians do not treat the silence as contempt for a sincere seeker so much as refusal to plead for acquittal when his hour has come.\n\nArminian note: silence can be a word. Pilate is not denied light he already has—innocence, the title, the fear. Christ will not bargain his way off the path to the cross he came to walk.",
+      "reformedNotes": "Calvin: Jesus does not stand before Pilate as a defendant hungry for acquittal but as one who appeared in our room; it was proper that he should be condemned. His silence is not a failure of confession (Paul says he made a good confession) but a refusal to ask for release.\n\nReformed center: the silent Christ is already substituting. He will not talk himself out of the sentence the guilty need him to bear. The headquarters interview is the Lamb not opening his mouth."
+    },
+    {
+      "number": 10,
+      "text": "So Pilate said to him, “You will not speak to me? Do you not know that I have authority to release you and authority to crucify you?”",
+      "arminianNotes": "The pride is the point: speak to me; I have authority both ways. Pilate treats release and crucifixion as his personal property. Classical Arminians hear a real authority of office—and a real abuse of it. He could still release; he names that power while he is preparing not to use it.\n\nArminian warning: claiming two-way power is not the same as doing right. Authority to release was a door still open. Boasting about it while the innocent stands there is already a kind of crucifixion of conscience.",
+      "reformedNotes": "Calvin: the dread was transitory; forgetting all fear, Pilate breaks into monstrous contempt of God, threatening Christ as if there were no Judge in heaven. He acknowledges innocence and then boasts he has power to cut his throat, making himself no better than a robber.\n\nReformed diagnosis: unregenerate fear does not hold. Ambition drives him to claim infinite power and, by that boast, to condemn himself. The heart is deceitful: a moment of religion, then haughty unbelief."
+    },
+    {
+      "number": 11,
+      "text": "Jesus answered him, “You would have no authority over me at all unless it had been given you from above. Therefore he who delivered me over to you has the greater sin.”",
+      "arminianNotes": "Wesley: Thou couldst have no power over me—I have done nothing to expose me to any magistrate. Therefore Caiaphas, knowing this, is more blamable than thou. Jesus grants derived authority and grades guilt. Classical Arminians hold both: providence from above, and greater/lesser sin that is truly theirs.\n\nArminian weight: from above does not cancel Pilate's agency or Caiaphas's. Greater sin means real comparison, not a puppet show. The gospel can say God gave the authority and still call the delivery a sin—because the gift of office was never a license to murder the innocent.",
+      "reformedNotes": "Calvin prefers to confine the saying to the magistrate's office: Pilate's power is from God, and heaven's throne is higher than his tribunal. The one who delivered Jesus (the Jewish leadership pressing a holy ordinance into lawless service) has the greater sin, not to excuse Pilate but to mark how they pollute a divine government.\n\nReformed pairing: nothing moves a finger but as God directs, and the actors remain sinners. The innocent is under a given authority so that he may be condemned in our room. Greater sin is still sin; the decree does not launder Caiaphas.",
+      "keyContrast": "Do not flatten the verse. Shared ground: Pilate's power is given from above, and delivering Jesus is sin—greater in the deliverer, still real in the judge. Arminians typically keep providence and resistible, culpable choice together: office was a genuine chance to do right. Reformed readers typically hear the same givenness as the Father's purpose to hand over the Son, while still grading human guilt rather than calling the actors innocent tools."
+    },
+    {
+      "number": 12,
+      "text": "From then on Pilate sought to release him, but the Jews cried out, “If you release this man, you are not Caesar's friend. Everyone who makes himself a king opposes Caesar.”",
+      "arminianNotes": "From then on he sought to release him: the word from above has landed. Then the political knife—Caesar's friend. Classical Arminians watch a man almost doing right, then trading Jesus for a career. The seeking was real; the collapse is real.\n\nArminian pastoral: friendship with power is a common idol. The crowd names a cost he is unwilling to pay. He could have remained Caesar's friend and still told the truth; he believes the false dilemma and consents.",
+      "reformedNotes": "Calvin: though not conscientious, and more ambitious than just, Pilate is still so meek after Christ's rebuke that he is more disposed to release him—until the Caesar threat breaks him. John labors these circumstances so we know Christ was not condemned until repeatedly acquitted, and so we learn he died for our sins.\n\nReformed reading: he also declined to use the judge's favor to talk himself free. That obedience makes the death a sacrifice of sweet savor. The political cry is wicked; God is still giving the Son over."
+    },
+    {
+      "number": 13,
+      "text": "So when Pilate heard these words, he brought Jesus out and sat down on the judgment seat at a place called The Stone Pavement, and in Aramaic Gabbatha.",
+      "arminianNotes": "Wesley notes the pavement as Mosaic work and Gabbatha as a high place so the judge could be seen. Hearing Caesar's name, Pilate takes the seat. Classical Arminians read a public, responsible act: he sits to judge, not to be swept along in a riot.\n\nArminian note: formality does not clean the verdict. Sitting down is a choice to proceed. The high place will make the injustice visible, which is also how the gospel later names it.",
+      "reformedNotes": "Calvin: conflicting opinions pass through Pilate as if he were acting two characters. He ascends the seat to pronounce death solemnly, and still declares he does so reluctantly. Christ is condemned from a lofty place so that he, coming from heaven as Judge, may acquit us at the last day.\n\nReformed irony: the Stone Pavement is a stage God uses. The reluctant sentence from Gabbatha is the appointed means by which the guiltless is legally handed over."
+    },
+    {
+      "number": 14,
+      "text": "Now it was the day of Preparation of the Passover. It was about the sixth hour. He said to the Jews, “Behold your King!”",
+      "arminianNotes": "Wesley: every Friday was a preparation; when Passover fell on Friday it was the preparation of the Passover—hence the rush to finish. Behold your King! is taunt and truth. Classical Arminians hear a sincere royal claim still being held out: this is their King, whether they will have him.\n\nArminian weight: Preparation-day haste does not shrink the invitation in the words. Behold is the same verb as v. 5. They may yet own him. Passover timing means the Lamb is being identified in public, for a people who can still look.",
+      "reformedNotes": "Calvin treats Behold your King as irony meant to shame the charge of rival kingship. The hour-count he reconciles with the other Gospels by the day's four watches.\n\nReformed accent: God dictated more than Pilate meant. On Preparation of the Passover the true Lamb is presented. Behold your King is providence using a coward's sarcasm as a title the church will preach."
+    },
+    {
+      "number": 15,
+      "text": "They cried out, “Away with him, away with him, crucify him!” Pilate said to them, “Shall I crucify your King?” The chief priests answered, “We have no king but Caesar.”",
+      "arminianNotes": "Away with him—then the priests' line: no king but Caesar. They reject the one in whom their salvation was contained. Classical Arminians take the cry as a real, resistible apostasy from the kingdom they were meant to receive.\n\nArminian warning: you can prefer an empire to Christ and call it loyalty. The priests had another King offered. Saying we have no king but Caesar is not forced unbelief; it is a choice that also throws away the promises that ran through David's line.",
+      "reformedNotes": "Calvin: shocking madness—priests who ought to know the Law reject the one on whom all the promises depended, and by rejecting him deprive themselves of the grace of God. Even if they denied he was the Christ, they had no excuse for acknowledging no king but Caesar.\n\nReformed gravity: wicked men, to fly from Christ, draw down misery. The sole happiness of the godly is to be subject to Christ's royal authority. The cry fulfills the handing-over without becoming anything other than unbelief."
+    },
+    {
+      "number": 16,
+      "text": "So he delivered him over to them to be crucified. So they took Jesus,",
+      "arminianNotes": "Delivered over: the verb of the passion. Pilate hands him to them; they take him. Classical Arminians read two takers, both responsible. The story does not say the taking was unreal for either party.\n\nArminian close of the range: the innocent is now on the road because people who could have stopped used their authority wrongly. The same delivering is, in the gospel's other voice, the Father giving the Son—without turning Pilate or the priests into puppets. What they meant for injustice, God means as the opening of redemption wide enough for the world.",
+      "reformedNotes": "Calvin: Pilate was constrained by importunity, yet this was not a riot; Christ was solemnly condemned in ordinary form, given up to insatiable cruelty though convicted of no crime. The legal delivery matters: we are to know he was condemned for our sins.\n\nReformed close: they took Jesus because the hour written from above has arrived. The substitute is now in their hands. What follows is not a failed rescue but the appointed sacrifice beginning to walk to the Place of a Skull.",
+      "keyContrast": "Shared ground: an innocent man is legally delivered to a cross. Arminians typically emphasize that the deliverers acted with real, guilty freedom against light they had. Reformed readers typically emphasize that this delivery is the Father substituting the guiltless in the room of others—actually bearing the punishment due to those he came to save—while still calling the human verdict sin."
+    }
+  ]
+}

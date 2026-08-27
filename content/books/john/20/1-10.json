@@ -1,0 +1,95 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 20,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "John 20:1–10",
+  "context": "First day of the week, still dark: Mary Magdalene finds the stone taken away, runs to Peter and the beloved disciple, and reports a missing body. They run; linen cloths and a folded face cloth lie in the tomb. The other disciple sees and believes, yet they still do not understand the Scripture that he must rise. They go home. The Lord is not there—and they do not yet know why.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the empty tomb, the linen signs, and faith that still had not grasped the Scripture that he must rise—so each camp speaks in its own voice beside John 20:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Peter seeth the linen clothes lie—and the napkin folded up. The angels who ministered to him when he rose, undoubtedly folded up the napkin and linen clothes. He saw—that the body was not there, and believed—that they had taken it away as Mary said. For as yet—they had no thought of his rising again. They went home—not seeing what they could do farther.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 20:6–10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As the resurrection of Christ is the most important article of our faith, and without it the hope of eternal life is extinguished, for this reason the Evangelists are the more careful to prove it. There being so little faith, or rather almost no faith, both in the disciples and in the women, it is astonishing that they had so great zeal. Some seed of faith, therefore, remained in their hearts, but quenched for a time. Thus the Spirit of God often works in the elect in a secret manner. John accuses himself when he acknowledges that the first time that he believed was when he beheld the proofs of Christ’s resurrection; they not only had forgotten the words of Christ, but they did not believe the Scriptures.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 20:1–9)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now on the first day of the week Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.",
+      "arminianNotes": "The week’s first day, still dark: Mary comes and sees the stone gone. Love got her there before she had a doctrine of resurrection. The fact is public—an open tomb—before anyone preaches it.\n\nArminian pastoral note: she uses the light she has. Coming in the dark is not unbelief; it is devotion that still expects a body. Grace often meets people at the grave they cannot yet interpret. The stone is already rolled; the question is whether they will read it.",
+      "reformedNotes": "Calvin: God chose what is weak in the world. John begins with a woman as witness, and her testimony is not thereby liable to objection; Christ was pleased to reckon such the principal witnesses of his resurrection.\n\nReformed framing: the first day is God’s date, not Mary’s invention. Darkness and a moved stone are already the Father’s work. The flock is little; priests and Pilate remain blind. Revelation starts where God wills, not where earthly grandeur would have placed it."
+    },
+    {
+      "number": 2,
+      "text": "So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, “They have taken the Lord out of the tomb, and we do not know where they have laid him.”",
+      "arminianNotes": "She runs. The report is loss, not Easter: they have taken the Lord, and we do not know. The plural we matches the other Gospels’ women; John can name Mary without erasing her companions. She still calls him Lord while assuming a corpse has been moved.\n\nClassical Arminians hear honest speech from partial light. She does what she can: she tells the church. Misreading the empty tomb is not the same as refusing it. The next move belongs to those who hear her.",
+      "reformedNotes": "Calvin notes that “we know not” shows she was not alone, though John names her. The report is still unbelief’s first grammar: missing body, unknown location, no rising in view.\n\nReformed accent: love of Jesus and ignorance of Scripture can stand in one sentence. She runs to Peter and the beloved disciple because the church must hear even a confused witness. God will not leave the story at “they have taken him.”"
+    },
+    {
+      "number": 3,
+      "text": "So Peter went out with the other disciple, and they were going toward the tomb.",
+      "arminianNotes": "Peter and the other disciple go. The word is enough to move them, even if they do not yet believe a rising. Going toward the tomb is already a kind of faith’s beginning: they treat Mary’s news as worth checking.\n\nArminian weight: testimony is meant to be tested and received. They are not dragged; they go. Responsibility sits on hearers of a true report, however incomplete the reporter’s theology still is.",
+      "reformedNotes": "Calvin: so little faith, almost none—and yet such zeal. Religious feeling in the ordinary sense cannot explain it. Some seed remained, quenched for a time; the Spirit works in the elect secretly.\n\nReformed reading: they go because God has not let the root die. Confused piety toward Christ is not yet the faith of the resurrection, but it is not nothing. The Lord nourishes them as still below infancy in this article."
+    },
+    {
+      "number": 4,
+      "text": "Both of them were running together, but the other disciple outran Peter and reached the tomb first.",
+      "arminianNotes": "They run together; the other disciple arrives first. Love and grief have speed. The race is not a contest of office; it is two men who cannot walk to this news.\n\nArminian note: haste toward evidence is fitting. God has given a tomb that can be inspected. Running is the right use of the report; remaining at home would have been the culpable ease.",
+      "reformedNotes": "Calvin later observes that Peter, though slower, will enter first: many have more given them in the end than appears at the beginning. Fervour at the start is not the same as finishing.\n\nReformed patience: outrunning is not election, and lagging is not reprobation. The beloved disciple’s speed and Peter’s eventual entering will both serve the same proof. God writes resurrection faith through different paces."
+    },
+    {
+      "number": 5,
+      "text": "And stooping to look in, he saw the linen cloths lying there, but he did not go in.",
+      "arminianNotes": "Stooping, he sees linen cloths and stays outside. The grave is not empty of signs—only of a body. Sight is given before full entry.\n\nArminian pastoral: some stop at the threshold of evidence. The cloths already contradict a simple theft: wrappings left, Lord gone. Light is there to be used; hesitation is real, and the invitation to look further remains.",
+      "reformedNotes": "Calvin: the linen clothes might be regarded as spoils leading to belief of the resurrection. It was not probable the body had been stripped to be moved—neither friend nor enemy would do that.\n\nReformed accent: God leaves tokens, not a bare hole. The beloved disciple sees what is sufficient and still does not enter. Proof is present; understanding will wait on more than a glance."
+    },
+    {
+      "number": 6,
+      "text": "Then Simon Peter came, following him, and went into the tomb. He saw the linen cloths lying there,",
+      "arminianNotes": "Peter follows and goes in. He sees what the other saw, now from inside. Wesley: Peter sees the linen clothes lie. The church’s impulsive apostle does the plain thing: enter and look.\n\nClassical Arminians: entering is a human act under grace, not a violation of sovereignty. Evidence is for use. Peter’s going in does not create the rising; it meets the signs God left.",
+      "reformedNotes": "Calvin: Peter made less haste and is first to enter. Many who seem slow assume courage when the moment arrives; some who start hot give way at conflict.\n\nReformed note: the first look inside belongs to the man who will later preach Psalm 16. Providence orders the inspection. The cloths are lying—ordered leftover of a finished death, not the clutter of graverobbers."
+    },
+    {
+      "number": 7,
+      "text": "and the face cloth, which had been on Jesus' head, not lying with the linen cloths but folded up in a place by itself.",
+      "arminianNotes": "A face cloth, folded, by itself. Wesley thought angels who ministered at the rising folded napkin and linens. Whether angelic hands or the risen Lord’s, the scene is composure, not panic.\n\nArminian reading: God gives intelligible signs. A folded cloth is a kind of sentence: this was not snatch-and-run. Hearers who refuse the rising refuse evidence arranged to be read.",
+      "reformedNotes": "Calvin: laying aside the tokens of death, Christ testified that he had clothed himself with blessed and immortal life. The separate napkin also refutes later fables of one holy winding-sheet for the whole body.\n\nReformed accent: resurrection leaves a history, not a mythic blur. Head-cloth apart from body-cloths is particular, almost domestic. Glory here looks like order. Death’s costume has been set down because the wearer is alive."
+    },
+    {
+      "number": 8,
+      "text": "Then the other disciple, who had reached the tomb first, also went in, and he saw and believed;",
+      "arminianNotes": "He goes in, sees, and believes. Wesley took this as believing Mary’s report that they had taken the body—because verse 9 says they did not yet understand the rising. That reading keeps “believed” modest: he now trusts the tomb is empty as she said.\n\nArminian caution: seeing signs is not yet resurrection faith. You can believe a fact and miss the Scripture. The verse still honors coming in and looking; it does not baptize incomplete faith as saving knowledge of the risen Christ.",
+      "reformedNotes": "Calvin rejects as poor the view that John only believed Mary’s theft-story: believe used simply does not mean that, and Luke has Peter wondering at the order of the tomb—something greater than Mary had told.\n\nReformed hearing: this is faith’s increase, not its perfection. Sight of proofs starts a belief that will have to catch up with Scripture. John accuses himself in the next verse; “saw and believed” is dawn, not noon.",
+      "keyContrast": "Shared: they enter, they see real signs, and “believed” is not yet the full Easter gospel of verse 31. Arminians (Wesley) often take v. 8 as believing the body was gone as Mary said—honest, incomplete, still without the rising. Reformed readers (Calvin) typically hear the beginnings of resurrection faith itself, still dim, produced by the signs God left, while Scripture remains not yet understood."
+    },
+    {
+      "number": 9,
+      "text": "for as yet they did not understand the Scripture, that he must rise from the dead.",
+      "arminianNotes": "The for explains the limit: they did not yet understand the Scripture that he must rise. Wesley: as yet they had no thought of his rising again. The must was already on the page and in Jesus’ mouth; the failure is theirs.\n\nClassical Arminians: Scripture was sufficient. Unbelief here is not missing election papers; it is not using the light given. The same men will later believe that must. Culpable ignorance can be cured when they finally receive what was written.",
+      "reformedNotes": "Calvin: John accuses himself. They had often heard this from Christ; it had flowed from their hearts. He represents the guilt more strongly: they had not only forgotten Christ’s words but did not believe the Scriptures. Whatever is defective in our faith ought to be attributed to ignorance of the Scriptures, which clearly reveal Christ’s excellence.\n\nReformed weight: the must is God’s decree in writing—Psalm 16, Psalm 110, Isaiah 53—not a lucky turn. Understanding will be given; the defect is real. Resurrection faith is Scripture-faith, not a private inference from cloths alone.",
+      "keyContrast": "Both refuse to treat the empty tomb as a substitute for Scripture. Arminians stress that the written must was already clear enough to obligate thought of the rising—they could have understood and did not. Reformed readers agree the Scriptures were clear and the disciples culpable, and add that true sight of that must is God’s work in opening what flesh had let go; signs aid, the Word is the ground."
+    },
+    {
+      "number": 10,
+      "text": "Then the disciples went back to their homes.",
+      "arminianNotes": "They go home. Wesley: not seeing what they could do farther. The inspection ends without a sermon and without Mary’s remaining. Empty-tomb evidence has not yet become proclamation.\n\nArminian close: going home is not apostasy; it is unfinished faith. The signs were there; understanding of Scripture was not. The chapter will not leave them at their houses. Grace keeps coming to people who have looked and still do not know what to do next.",
+      "reformedNotes": "They return while still in doubt and perplexity, Calvin notes, which is not inconsistent with the beginnings of belief. Dawn is not day. Homes are where frightened disciples wait until the Lord himself stands among them.\n\nReformed close: God has begun with cloths and a missing body. He will not finish with inference. The elect’s seed of faith remains; the risen Christ will have to speak. Verse 10 is pause, not conclusion—the tomb is behind them, Scripture not yet opened, homes not yet church."
+    }
+  ]
+}

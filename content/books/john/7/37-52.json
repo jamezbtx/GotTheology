@@ -1,0 +1,133 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 7,
+  "verseStart": 37,
+  "verseEnd": 52,
+  "translation": "ESV",
+  "title": "John 7:37–52",
+  "context": "On the last, great day of Booths, Jesus stands and cries that if anyone thirsts, he should come and drink; rivers of living water will flow from the believer’s heart—the Spirit, not yet given because Jesus is not yet glorified. The crowd divides over Prophet, Christ, and Galilee. Officers return empty: no one ever spoke like this man. Pharisees scorn the accursed crowd; Nicodemus asks for a hearing and is mocked. Chapter 7 ends at v. 52; 7:53 belongs with the pericope of 8:1–11.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on thirst, coming to drink, and rivers of the Spirit—so each camp speaks in its own voice beside John 7:37–52.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "On the last, the great day of the feast—On this day there was the greatest concourse of people, and they were then wont to fetch water from the fountain of Siloam, which the priests poured out on the great altar, singing one to an other, With joy shall ye draw water from the wells of salvation. … He that believeth—This answers to let him come to me. And whosoever doth come to him by faith, his inmost soul shall be filled with living water, with abundance of peace, joy, and love, which shall likewise flow from him to others. … The Holy Ghost was not yet given—That is, those fruits of the Spirit were not yet given even to true believers, in that full measure.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 7:37–39)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "the invitation was not addressed to one or two persons only, or in a low and gentle whisper, but that this doctrine is proclaimed to all, in such a manner that none may be ignorant of it, but those who, of their own accord shutting their ears, will not receive this loud and distinct cry. … he exhorts all to partake of his blessings, provided that, from a conviction of their own poverty, they desire to obtain assistance. For it is true that we are all poor and destitute of every blessing, but it is far from being true that all are roused by a conviction of their poverty to seek relief. … many persons do not stir a foot … until the Spirit of God, by his own fire, kindle hunger and thirst in their hearts. It belongs to the Spirit, therefore, to cause us to desire his grace.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 7:37)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 37,
+      "text": "On the last day of the feast, the great day, Jesus stood up and cried out, “If anyone thirsts, let him come to me and drink.",
+      "arminianNotes": "Wesley: greatest concourse; they fetched Siloam water, poured it on the altar, and sang of drawing from the wells of salvation; they remembered water from the rock and prayed for rain. Into that rite he stands and cries. “Anyone” and “thirsts” and “come” are as public as the feast.\n\nClassical Arminians: this is a sincere universal invitation. Prevenient grace accounts for the thirst he names; coming is a real act faith makes; drinking is receiving him. None is locked out of the cry by a secret prior exclusion. Those who will not come refuse a loud mercy, not a whisper meant for someone else.",
+      "reformedNotes": "Calvin: plots did not make him desist; courage rose with danger. God restrained rage so he could preach on the most public day. The invitation is not to one or two, nor in a whisper: none may be ignorant except those who shut their ears. He exhorts all, provided they desire help from a conviction of poverty. We are all poor; not all are roused to seek relief. Many wither until the Spirit, by his own fire, kindles hunger and thirst. It belongs to the Spirit to cause us to desire his grace. He alludes to Isaiah 55:1; he alone fully satisfies; to seek elsewhere is labor in vain.\n\nReformed pairing: the cry is truly to all; thirst is the Spirit’s kindling. Unconditional election does not muffle the shout. Effectual calling explains why some drink and some only hear the sound.",
+      "keyContrast": "Both preach a public, urgent Christ. Arminians typically take “if anyone thirsts, let him come” as a genuine, resistible invitation enabled by prevenient grace. Reformed readers typically take the same words as a real, indiscriminate cry, while holding that the thirst which actually comes is the Spirit’s own fire in those the Father draws."
+    },
+    {
+      "number": 38,
+      "text": "Whoever believes in me, as the Scripture has said, ‘Out of his heart will flow rivers of living water.’”",
+      "arminianNotes": "Wesley: he that believeth answers let him come. Whosoever comes by faith, his inmost soul is filled with living water—peace, joy, love—which flows also to others. “As the Scripture has said” is a general reference to Spirit-effusion under the figure of water, not one isolated proof-text.\n\nClassical Arminians: whoever believes is as wide as the thirst of v. 37. Conditionality is not earning; it is the appointed way of receiving. Rivers are gift, not wage. Unbelief stops at the bank; it is not that the river was never offered.",
+      "reformedNotes": "Calvin: coming is believing—embracing Christ as held out in the gospel, full of the Spirit’s gifts. Believers shall suffer no want. Living water never dries. Rivers in the plural: diversified graces needed for the soul’s life. He does not mean they are full on day one so as never to hunger again; enjoyment kindles new desire. The Spirit is a continually flowing fountain (John 4:14). Each partakes according to the measure of faith; we lack perfect fullness now, yet first-fruits carry us toward perpetuity of life. Small capacity of faith is why graces come by drops that would flow like rivers if we gave due admission to Christ.\n\nReformed confession: the promise is vast, and faith itself is not native. Whoever-believes language invites the world and describes those in whom the Spirit has become a fountain. Perseverance is implied in water that does not fail.",
+      "keyContrast": "Both hear abundance for believers. Arminians typically keep “whoever believes” as the open, grace-enabled condition of the feast-cry. Reformed readers typically keep the same wideness as the promise’s form, while tracing the believing heart and its rivers to the Spirit’s effectual gift."
+    },
+    {
+      "number": 39,
+      "text": "Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.",
+      "arminianNotes": "Wesley: the Holy Ghost was not yet given—those fruits were not yet given even to true believers in that full measure. John’s aside ties the water to Pentecostal fullness after the cross and exaltation, not to a different Savior.\n\nArminian hope: they who believed were to receive. Faith is already the open hand; the glorified Jesus is the giver. The sequence does not shrink v. 37. Thirsty people are still called to come now, awaiting a fullness historically timed to his glory.",
+      "reformedNotes": "Calvin: water here is the sap and moisture of life; without the Spirit we are destitute, and those not regenerated ought to be reckoned dead. The Spirit is eternal, but the post-resurrection grace had not been openly manifested—comparatively, as New to Old. Disciples already had first-fruits (whence faith, if not from the Spirit?). Christ delayed the full manifestation until, exalted, he took solemn possession of his kingdom. The question is regeneration, not merely visible gifts; sloth and small faith explain why we still lie poor while he sits in glory.\n\nReformed structure: glorification, then poured-out Spirit, then rivers. Election and effectual calling sit inside that history, not outside the feast-cry. The dead are made thirsty and given drink by the same Lord who must first be glorified.",
+      "keyContrast": "Both bind the water to the Spirit and to Christ’s glory. Arminians typically keep coming-and-believing as the sincere way any thirsty hearer receives that promised Spirit. Reformed readers typically add that regeneration and the thirst itself are the Spirit’s work, publicly timed to the Son’s glorification and privately given to those he makes alive."
+    },
+    {
+      "number": 40,
+      "text": "When they heard these words, some of the people said, “This really is the Prophet.”",
+      "arminianNotes": "Wesley: the prophet they expected as forerunner of the Messiah. The water-cry produces a title—true as far as it goes, still short of “the Christ” in the next breath.\n\nClassical Arminians: hearing can begin well. “The Prophet” is a step into light, not a sneer. They remain responsible to keep listening when the next voices pull toward Galilee-objections.",
+      "reformedNotes": "Calvin: some fruit of the last sermon: three classes among the common people, not among open deadly enemies. The first perceive something divine and regard him with reverence—a willingness that might later open easily into faith—yet they do not truly receive him as Prophet without also acknowledging him as Son and Author of salvation. The confession is light and trifling until then.\n\nReformed patience: honor the spark without calling it finished. God can grow a title into worship; we should neither crush it nor rest in it."
+    },
+    {
+      "number": 41,
+      "text": "Others said, “This is the Christ.” But some said, “Is the Christ to come from Galilee?",
+      "arminianNotes": "A better confession stands beside a geography veto. Wesley will soon ask how they could forget Bethlehem after Herod’s terror. Galilee becomes a reason not to drink.\n\nArminian reading: “This is the Christ” is the feast’s proper answer to v. 37. The counter-question is not forced. They could have searched; they use origin as a shield. Unbelief of the crowd is often this: a half-remembered rule against a full-throated cry.",
+      "reformedNotes": "Calvin: the second opinion is more correct; the third rise up, and hence the debate. Do not think it strange if people divide by controversies. Christ’s sermon produced a schism in the chief seat of the Church. Doctrine is not to be blamed as the cause of disturbance; better that the word be received by a few than that peace be the stupidity of those who do not know God. Differences lay concealed in men; the gospel, like sunrise, makes the vapors appear.\n\nReformed nerve: keep the word even when the courts split. Galilee-scorn is not an exegetical accident; it is the heart inventing a stumbling block."
+    },
+    {
+      "number": 42,
+      "text": "Has not the Scripture said that the Christ comes from the offspring of David, and comes from Bethlehem, the village where David was?”",
+      "arminianNotes": "Wesley: from Bethlehem—and how could they forget that Jesus was born there? Had not Herod given terrible reason to remember it? Micah 5:2. They cite Scripture truly and apply it lazily.\n\nClassical Arminians: the Bible in a hostile mouth is still the Bible. They had enough to go and ask where he was born. Refusing the drink because they will not check the register is will, not fate. Right judgment (v. 24) would have joined David, Bethlehem, and the man teaching in the temple.",
+      "reformedNotes": "Calvin: they fortify the turn-away with Scripture and do violence to the passage. They are wrong in making him a Galilean. Whence this ignorance but from contempt? They would have seen both titles: born in Bethlehem, son of David. In small matters we are ashamed of indolence; in heavenly mysteries we slumber. Men make obstacles out of the Scriptures that lead to Christ.\n\nReformed lament: it is possible to quote Micah against the Micah-child. Industrious in excuse, dull in receiving sound doctrine—this is unbelief’s scholarship."
+    },
+    {
+      "number": 43,
+      "text": "So there was a division among the people over him.",
+      "arminianNotes": "John names the result: a schism over him, not over a side issue. The living-water cry does not produce bland consensus.\n\nArminian pastoral use: division means the word is doing something. People are deciding. The division is tragic where it hardens, hopeful where it marks some coming to drink. Do not baptize the split as proof that the invitation was never universal.",
+      "reformedNotes": "Calvin has already said the sermon produced a schism in the Church’s chief seat, and that peace among those who do not know God is more stupidity than agreement. The seed of conflict was in them; the gospel awakened it.\n\nReformed counsel: do not panic when Christ divides. Undoubted truth is the only firm agreement. The good shepherd’s voice was never a technique for keeping a crowd unsplit."
+    },
+    {
+      "number": 44,
+      "text": "Some of them wanted to arrest him, but no one laid hands on him.",
+      "arminianNotes": "Want without success, again. The hour still holds. Desire to seize and inability to touch sit in the same verse.\n\nClassical Arminians: even arrest-minded hearers remain in a moment where hands fail. Mercy in the restraint. They could still hear v. 37 instead of closing fingers. Failed arrest is not their conversion; it is more time.",
+      "reformedNotes": "Calvin: they not only despised him; rejection was accompanied by cruelty. Superstition is always cruel. That efforts failed we ascribe to providence: his hour was not yet come; guarded by the Father, he surmounted dangers.\n\nReformed calm: the Father’s protection is as real as the hatred. Neither cancel the other. The cross will be given, not grabbed ahead of time."
+    },
+    {
+      "number": 45,
+      "text": "The officers then came to the chief priests and Pharisees, who said to them, “Why did you not bring him?”",
+      "arminianNotes": "The warrant returns empty. Power asks a procedural question as if the temple were theirs to empty of this man.\n\nArminian note: even officers can fail a plot because they have been made hearers. The next verse will show that speech, not logistics, stopped them. Grace can arrest the arresters.",
+      "reformedNotes": "Calvin: blind arrogance. They admire their own greatness so as to trample morality and religion. If anything crosses their wish, they would mingle heaven and earth. They magnify their power as if nothing ought to oppose the command.\n\nReformed reading: “why did you not bring him?” is the sound of a bench that has forgotten God. The answer will be about how he spoke, not about how they failed as police."
+    },
+    {
+      "number": 46,
+      "text": "The officers answered, “No one ever spoke like this man!”",
+      "arminianNotes": "Temple police become unwitting preachers. The teaching of v. 16–17 has reached men sent to stop it. They do not yet confess him as Christ; they tell the truth about his speech.\n\nClassical Arminians: hearers at the bottom of the hierarchy can respond when rulers will not. The word is not bound to the Pharisees’ permission. These men could go further than admiration; some officers of this world still can.",
+      "reformedNotes": "Calvin: they acknowledge they are subdued by Christ’s word, yet do not on that account repent or give due honor. If never man spoke like this, why did the divine power not make them devote themselves to God? Isaiah: he will prostrate the wicked by the breath of his mouth. Learn that Christ’s doctrine can terrify the wicked; take care to be softened rather than broken. Many still admire the gospel and remain in the enemy’s camp.\n\nReformed warning: conviction is not conversion. Effectual calling does more than stun a detail. Admiration that will not yield is already a kind of judgment."
+    },
+    {
+      "number": 47,
+      "text": "The Pharisees answered them, “Have you also been deceived?",
+      "arminianNotes": "Deceived—the same charge as v. 12’s “leading astray.” Anyone moved by Jesus is, by definition, a dupe. The rulers catechize their own officers in contempt.\n\nArminian pastoral alert: mocking a hearer’s first movement is a way of resisting for two people at once. The officers had begun to tell the truth. The Pharisees choose to shame them back into the plot. That shame is resistible.",
+      "reformedNotes": "Calvin: while they reprove the officers they try to keep them in subjection. It would be unreasonable, they imply, that they should not remain steady though the whole people revolt. See on what they rest when they insult Christ so haughtily.\n\nReformed note: the fear of being numbered with the “deceived” is a social gospel of unbelief. Status becomes the rule of faith. The next verse will make that rule explicit."
+    },
+    {
+      "number": 48,
+      "text": "Have any of the authorities or the Pharisees believed in him?",
+      "arminianNotes": "Wesley: hath any of the rulers—men of rank or eminence—or of the Pharisees—men of learning or religion—believed? The implied answer is meant to settle the matter: respectable unbelief as canon.\n\nClassical Arminians: this is the crowd’s unbelief in clerical dress. Authority is being used to cancel the feast-cry. Nicodemus is about to falsify the boast. Rank does not regenerate; neither does it have a veto on “anyone who thirsts.” A ruler may believe, and a ruler’s scorn does not bind the thirsty.",
+      "reformedNotes": "Calvin: “he has none but low and ignorant men; rulers and persons of distinction oppose him.” They name Pharisees for reputation of knowledge and holiness. The objection seems plausible: if governors lose authority, disorder follows; Deuteronomy gave the high priest a judgment. They err in claiming highest authority while unwilling to submit to God. All pastoral authority is subject to the word. Wicked men often rule in the Church; beware giving authority to men as soon as they depart from that word. Faith would be too unsteady if it stood or fell by princes’ pleasure.\n\nReformed edge: unbelief of elites is not a criterion of truth. God often hides things from the wise. Election is not visible on a Sanhedrin roll.",
+      "keyContrast": "Both refuse to let the bench define the Messiah. Arminians typically hear a culpable, resistible appeal to status against a universal invitation. Reformed readers typically hear the same boast as the old clerical tyranny Calvin named: the word judges rulers, not the reverse, and God is free to pass by the wise."
+    },
+    {
+      "number": 49,
+      "text": "But this crowd that does not know the law is accursed.”",
+      "arminianNotes": "Wesley: this populace, who know not the law—this ignorant rabble—are accursed, exposed by ignorance to the curse of being thus seduced. Contempt of the poor is their last argument.\n\nArminian grief and hope: the people they curse are the people Jesus just invited to drink. The gospel is not embarrassed by an unlettered thirst. Accursed-language here is slander; the real curse is refusing the Son. The crowd remains called.",
+      "reformedNotes": "Calvin: first pride, the priestly title used to tyrannize; next, despising others. They pronounce the populace accursed, alleging ignorance of the law, concealing the real reason: they think holiness exists only in their rank. It is true that all uninstructed in God’s law are accursed, and by that knowledge we are sanctified—but that knowledge is not confined to a few swollen with confidence. It belongs in common to all God’s children, from smallest to greatest, in the same obedience of faith. God prefers the mean and despised to those of highest power.\n\nReformed gospel: the curse they speak is the opposite of the rivers Jesus promised. God will populate the kingdom from the crowd they despise."
+    },
+    {
+      "number": 50,
+      "text": "Nicodemus, who had gone to him before, and who was one of them, said to them,",
+      "arminianNotes": "Wesley: having now a little more courage, being present as a member of the great council. Chapter 3’s night visitor is still “one of them,” not yet a public disciple, and still a crack in v. 48’s boast.\n\nClassical Arminians: light received by night can grow. He does not yet preach Christ; he does slow the machine. Grace often works this way in hostile rooms—one just question at a time. He remains responsible to come further, as he later will with spices.",
+      "reformedNotes": "Calvin: a neutral man, not venturing an earnest defense of sound doctrine, yet unable to endure truth oppressed. The night-coming is partly praise, partly disgrace. Some spark of godliness shines when he dares one word; remaining among enemies, he still loves concealment. Those who today wear a Nicodemus mask to mock God with impunity find little help here: he only says a man should be heard, which might be said of a robber, and in trying to release the person he leaves the doctrine.\n\nReformed patience: the Lord often lets doctrine that seemed to perish take a concealed root and, after long delay, put forth a bud—first untimely, afterwards vigorous. Nicodemus’s faith will acquire new vigor from the death of Christ."
+    },
+    {
+      "number": 51,
+      "text": "“Does our law judge a man without first giving him a hearing and learning what he does?”",
+      "arminianNotes": "Wesley hears the point: do not we ourselves act as if we knew not the law, if we pass sentence before we hear him? He turns v. 49 back on them. Process is not yet gospel, but it is obedience to the law they claim.\n\nArminian pastoral: a fair hearing is the least the feast-cry deserves. Nicodemus uses common justice as a stay of execution. The law they boast of already required what v. 24 called right judgment. They could still hear; they will not.",
+      "reformedNotes": "Calvin: this is not yet the boldness of a disciple. It is a proverb of justice—better to acquit the innocent than condemn the guilty—and it does not defend the doctrine. Still, a seed is there. God can use even a procedural protest to break a council’s momentum.\n\nReformed note: law they will not keep cannot be their refuge. The hearing they refuse is the hearing Jesus has already given the temple. Their haste is theological, not merely legal."
+    },
+    {
+      "number": 52,
+      "text": "They replied, “Are you from Galilee too? Search and see that no prophet arises from Galilee.”",
+      "arminianNotes": "Wesley: they answered by personal reflection; the argument they could not answer, and therefore did not attempt it. Art thou also a Galilean—one of his party? Out of Galilee ariseth no prophet—they could not but know the contrary: Jonah, Nahum, Elijah’s Thisbe. They might have known Jesus was born at Bethlehem from the register and David’s genealogies. Conscious the answer would not bear examination, they prevented a reply. So ends chapter 7. Verse 53 belongs with 8:1–11, not here.\n\nClassical Arminians: geography as slur is the last shield. They will not search as they command him to search. Unbelief of the learned is often this: a false maxim spoken loudly enough to end the meeting. The thirsty can still come; this bench has refused to.",
+      "reformedNotes": "Calvin: they say all who favor Christ are from Galilee, spoken reproachfully, as if he could have followers only from a small unknown corner. Extreme violence against Nicodemus shows hatred of Christ: he had not even undertaken Christ’s defense, only said he ought not be condemned unheard. Among Papists, no token of candor on behalf of the gospel escapes the charge of heresy.\n\nReformed close: the chapter ends without an arrest and without a confession from the rulers. God can scatter a formidable conspiracy; he can also leave proud men to their slogan. The next public word of this Gospel, after the disputed pericope, will be light. The rivers were already offered. Galilee is not the refutation they think it is."
+    }
+  ]
+}

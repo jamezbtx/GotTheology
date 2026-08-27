@@ -1,0 +1,108 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 7,
+  "verseStart": 25,
+  "verseEnd": 36,
+  "translation": "ESV",
+  "title": "John 7:25–36",
+  "context": "Jerusalemites wonder that the sought man teaches openly. They “know where he comes from,” so he cannot be the Christ. He cries that they do not know the One who sent him; they seek to arrest him, but his hour has not come, and many believe because of the signs. Officers are sent. He says he goes to the Sender: they will seek and not find; where he is they cannot come. They joke about the Dispersion.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a Christ whose origin they think they know, and on seeking him too late—so each camp speaks in its own voice beside John 7:25–36.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Then cried Jesus—With a loud and earnest voice. Do ye both know me, and know whence I am?—Ye do indeed know whence I am as a man. But ye know not my Divine nature, nor that I am sent from God. I am from him—By eternal generation: and he hath sent me—His mission follows from his generation. … Ye shall seek me—Whom ye now despise. These words are, as it were, the text which is commented upon in this and the following chapter. Where I am—Christ’s so frequently saying while on earth, where I am, when he spake of his being in heaven, intimates his perpetual presence there in his Divine nature: though his going thither was a future thing, with regard to his human nature.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 7:28–34)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "My presence, which is now irksome and intolerable to you, will last for a short time; but ere long you shall seek me in vain, for, far removed from you, not only by my body, but also by my power, I shall behold from heaven your destruction. … When they seek him, they do not seek him; for unbelief and obstinacy—by shutting up their hearts, as it were—hinders them from approaching to God. … God usually punishes the contempt of his grace in the reprobate, so that … they complain, and cry, and howl, but without reaping any advantage. … Hence let us learn that we ought to receive Christ without delay, while he is still present with us, that the opportunity of enjoying him may not pass away from us; for if the door be once shut, it will be vain for us to try to open it.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 7:33–34)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 25,
+      "text": "Some of the people of Jerusalem therefore said, “Is not this the man whom they seek to kill?",
+      "arminianNotes": "Locals know the plot the pilgrims missed. The question is already a crack in the official story: the wanted man is teaching, not hiding.\n\nArminian note: information is not yet faith, but it is light. They can move from “is not this the man?” toward him, or use the knowledge only as gossip. The next verses will show both impulses in the same streets.",
+      "reformedNotes": "Calvin: these are those to whom the rulers had communicated their plots. The wider people looked on the danger as a dream; these have reason to wonder that he preaches freely and the rulers say nothing. Yet in a divine miracle they do not reckon on God’s providence.\n\nReformed hearing: carnal wonder stares at the politics and never asks whose hand holds the hour. We ought to read such restraint as God defeating violent counsel, not as a lucky gap in enforcement."
+    },
+    {
+      "number": 26,
+      "text": "And here he is, speaking openly, and they say nothing to him! Can it be that the authorities really know that this is the Christ?",
+      "arminianNotes": "Open speech plus official silence suggests, for a moment, that the rulers know. The guess is almost faith—and will be walked back in the next breath by a theory of origins.\n\nClassical Arminians: God has given them a public, unarrested Christ. The question is a genuine fork. They could conclude that the authorities’ quiet is providence and come; they will instead invent a reason not to.",
+      "reformedNotes": "Calvin: they wonder, but the power of God never enters their mind. Whenever wicked men cannot hinder the gospel as they wish, we should be persuaded their efforts have been rendered fruitless because God interposed his word.\n\nReformed note: “can it be?” is not yet confession. It is the mind circling a fact it will not worship. Silence from the bench is already a kind of testimony they will refuse."
+    },
+    {
+      "number": 27,
+      "text": "But we know where this man comes from, and when the Christ appears, no one will know where he comes from.”",
+      "arminianNotes": "Wesley: the tradition was true of his divine nature—none could declare his generation—but false of his human nature, whose family and birthplace were plainly foretold. They use a half-truth to cancel Bethlehem and David.\n\nArminian tragedy: they “know” what they have not searched. The same Scriptures they will cite in v. 42 already named the village. Unbelief is often certainty about the wrong half of Christ. They could have asked; they prefer a rule that keeps him small.",
+      "reformedNotes": "Calvin: we see not only blindness in judging of God, but a vice almost natural—ingenuity in contriving what may hinder arrival at the truth. They mangle the Scriptures and even Christ, admitting only half of him. Micah names Bethlehem and, in the same breath, a loftier going-forth that is hidden. Wretched men, seeing only what is liable to contempt, conclude he is not the promised one.\n\nReformed counsel: look on the mean condition of Christ in the flesh so that the humiliation the wicked despise raises you to his heavenly glory. Bethlehem is a door into the presence of the eternal God."
+    },
+    {
+      "number": 28,
+      "text": "So Jesus proclaimed, as he taught in the temple, “You know me, and you know where I come from. But I have not come of my own accord. He who sent me is true, and him you do not know.",
+      "arminianNotes": "Wesley: he cried with a loud and earnest voice. Ye know whence I am as a man; ye know not my divine nature, nor that I am sent from God. The not-knowing of the Sender is the real ignorance under their geography.\n\nClassical Arminians: he tells them the truth in the temple so they may yet know the Father in the Son. “Him you do not know” is diagnosis and summons, not a lock. Remaining ignorant of the true Sender after this cry is refusal of light, not lack of coordinates.",
+      "reformedNotes": "Calvin: irony. You know all things, and yet you know nothing. There is no more destructive plague than being intoxicated by a scanty portion of knowledge so as to reject whatever contradicts it. God will testify that he came from heaven. He calls God true as Paul calls him faithful: unbelief does not shrink the gospel. The beginning of wisdom is to behold God; not knowing him, they do not know the sent One.\n\nReformed accent: their confidence is the barrier. Humble ignorance would have been closer to faith than this knowing that cannot survive the Sender.",
+      "keyContrast": "Both deny that hometown data is saving knowledge. Arminians typically stress that the not-knowing of the Father is culpable resistance to a public cry. Reformed readers typically stress irony and judgment: pride in partial knowledge blinds, and none know the Sender unless they receive the sent Son."
+    },
+    {
+      "number": 29,
+      "text": "I know him, for I come from him, and he sent me.”",
+      "arminianNotes": "Wesley: I am from him—by eternal generation; and he hath sent me—mission follows generation. These two answer their two boasts: Do ye know me? Do ye know whence I am?\n\nArminian confession: the Son’s knowledge of the Father is the ground of ours. He offers himself as the one who actually knows God. Coming from him and being sent are good news to any who will receive the sent One—not a private code for a few already in the know.",
+      "reformedNotes": "Calvin: he knows God, so his confidence is not light assumption. We are warned not to vaunt God’s name as patron of our inventions, as fanatics do. He who is fully aware that God is on his side need not dread the charge of trampling the world’s haughtiness. Some refer “I am from him” to essence and “he sent me” to office; Calvin will not press the wording into an anti-Arian proof-text, though heavenly descent may be inferred.\n\nReformed rest: the church’s knowledge of God is participation in the Son’s knowledge, not independent research. Mission and origin meet in him; they do not in us until we are taught by him."
+    },
+    {
+      "number": 30,
+      "text": "So they were seeking to arrest him, but no one laid a hand on him, because his hour had not yet come.",
+      "arminianNotes": "Wesley: his hour—the time of his suffering. Hands fail because the clock is not theirs. The same will is later freely given, not finally stolen.\n\nClassical Arminians: “hour” is real appointment, not play-acting. Until then, arrest cannot succeed; when it comes, he will lay life down of himself. The delay is mercy for hearers still in the courts. They remain able, in this hour, to believe rather than seize.",
+      "reformedNotes": "Calvin: no want of will, even an attempt, and strength to do it—yet they are benumbed as if bound. Christ’s hour had not come; he was guarded by God’s protection. This also meets the offense of the cross: he is dragged to death not by caprice of men but as destined for sacrifice by the Father’s decree. A general doctrine: the time of every death is fixed; we are safe until God is pleased to call us, and we should follow our calling without being led from duty by fear—yet not beyond the bounds he commands.\n\nReformed comfort: sovereignty here is pastoral. The plot is real; it is not ultimate. The cross will be obedience, not an accident that escaped the Father."
+    },
+    {
+      "number": 31,
+      "text": "Yet many of the people believed in him. They said, “When the Christ appears, will he do more signs than this man has done?”",
+      "arminianNotes": "Signs-faith again: they reason from quantity of miracles toward messiahship. It is more than muttering, less than full confession. John still calls it believing.\n\nClassical Arminians: a real response to light they have. Prevenient grace and public works have drawn many. This faith can grow or stall; it is not dismissed as impossible because it began with signs. The same crowd remains responsible if they later walk away.",
+      "reformedNotes": "Calvin: we might have thought he preached to the deaf, yet some fruit followed. Sow and wait. “Believe” is used inaccurately: they depended more on miracles than on doctrine and were not fully convinced he was the Christ; yet being prepared to listen is called faith. The Spirit’s honoring of a small spark should encourage us that faith, however small, is acceptable to God.\n\nReformed caution: John can name a beginning without calling it finished. Signs may dispose; the doctrine must still hold them. What God has begun he can confirm; what is only marvel will be tested.",
+      "keyContrast": "Both refuse to sneer at this many. Arminians typically treat the believing as a genuine, still-vulnerable response anyone in the crowd might make. Reformed readers typically receive John’s word while noting Calvin’s caution: it may be preparation more than full faith, a spark God can own without our inflating it."
+    },
+    {
+      "number": 32,
+      "text": "The Pharisees heard the crowd muttering these things about him, and the chief priests and Pharisees sent officers to arrest him.",
+      "arminianNotes": "Muttering that sounds like faith is enough to trigger the warrant. Pharisees and chief priests, not always allies, combine. Officers go; the Word keeps speaking.\n\nArminian warning: institutional power can organize against a sincere pull in the crowd. That does not cancel the pull. The sent officers will later confess they have never heard a man speak like this—proof that even agents of the plot remain hearers.",
+      "reformedNotes": "Calvin: Pharisees as watchmen, then the whole priestly order. Sects that differed conspire under Satan against the Son. If they toiled so to defend tyranny, how much more zealous should we be to maintain Christ’s kingdom.\n\nReformed note: opposition here is not evidence of a failed offer only; it is the world’s hatred (v. 7) taking official form. God will still restrain the arrest until the hour. The sending of officers cannot outrun the Sender."
+    },
+    {
+      "number": 33,
+      "text": "Jesus then said, “I will be with you a little longer, and then I am going to him who sent me.",
+      "arminianNotes": "Wesley: continuing the discourse from v. 29 which they had interrupted. A little longer: presence is real and dated. Going to the Sender is return, not annihilation.\n\nClassical Arminians: the little-while is a true window. He is with them now; the going will close something. Receive him while he is near. Delay is not safety. The same voice that will soon cry “if anyone thirsts” first warns that he will not always stand in this court.",
+      "reformedNotes": "Calvin: he particularly addresses enemies who had taken counsel to destroy him. He ridicules their efforts as ineffectual until the Father’s time, reproaches obstinacy that furiously opposes offered grace, and threatens that it will ere long be taken. “I am with you” rebukes ingratitude: given by the Father, come down, desiring to assist, he is received by few. “A little while” warns that God will not long endure such contempt. Going to the Sender means death will not extinguish him; a more excellent condition awaits after the embassy is discharged.\n\nReformed gravity: preaching is Christ’s descent to us. If we accept the hand, he leads to the Father; if we disregard his presence, he loses nothing, and we are left strangers to God and to life."
+    },
+    {
+      "number": 34,
+      "text": "You will seek me and you will not find me. Where I am you cannot come.”",
+      "arminianNotes": "Wesley: ye shall seek me—whom ye now despise. These words are the text of this and the following chapter. “Where I am” while still on earth intimates perpetual presence in heaven in his divine nature, though the going of his human nature is still future.\n\nClassical Arminians hear a real closing, not a pretend seek. He is findable now. Seeking after refusal is not the same as coming while he stands in the temple. “Cannot come” is the end of persistent unbelief, not a sign that the present cry was never meant for them. The warning is mercy: come while you may.",
+      "reformedNotes": "Calvin: they sought him to kill; soon they shall seek otherwise. Presence now irksome will be sought in vain. When they seek, they do not seek: unbelief shuts the heart. God punishes contempt of grace in the reprobate—they cry and howl without advantage, remaining cruel, wishing God changed since they cannot destroy him. Example: Esau. Receive Christ without delay; if the door is once shut, it is vain to try to open it. He uses present tense for the future: where I am, you cannot come.\n\nReformed edge: the accepted time is short. Effectual coming is God’s gift; this verse also names a judgment on obstinacy. The reprobate’s later seeking is not saving faith. Come now.",
+      "keyContrast": "Both preach urgency. Arminians typically take “seek and not find” as the tragic end of resisting a sincere present offer. Reformed readers typically take it as punishment of despised grace in the reprobate: later distress is not conversion, and the door God shuts does not reopen by human panic."
+    },
+    {
+      "number": 35,
+      "text": "The Jews said to one another, “Where does this man intend to go that we will not find him? Does he intend to go to the Dispersion among the Greeks and teach the Greeks?",
+      "arminianNotes": "Wesley: the dispersed among the Greeks—Jews scattered in heathen nations, Greece particularly—or will he teach the heathens themselves? They hear geography, not the Father.\n\nArminian irony: their joke accidentally sketches the mission. The Greeks will hear. Unbelief can mock a mercy it is about to refuse and still be overtaken by that mercy going elsewhere. The question did not have to be a taunt.",
+      "reformedNotes": "Calvin: the Evangelist shows the people’s stupidity. Wicked men are deaf to instruction; dreadful threatenings pass as a fable. He spoke of the Father; they think of distant countries. “Dispersion” fits Jews abroad, not native Greeks. They may be teasing: will Messiah leave Canaan for Greece? The severe threatening did not affect them.\n\nReformed lament: mockery is how some people spend the last of a little-while. The word will go to the nations; that is not their conversion. It is their loss narrated in a joke."
+    },
+    {
+      "number": 36,
+      "text": "What does he mean by saying, ‘You will seek me and you will not find me,’ and, ‘Where I am you cannot come’?”",
+      "arminianNotes": "They repeat the sentence they will not interpret. Quotation without repentance is a kind of unbelief. The saying sits in the feast like an unopened letter.\n\nClassical Arminians: even the repetition is more light. They could still ask him, not only each other. Chapter 8 will take up the same text with a sharper edge. The window of v. 33 has not yet shut; misunderstanding is still addressable.",
+      "reformedNotes": "The question is right; the heart is not. Meaning is not their lack; willingness is. Calvin has already said they treat threatenings as fable. Repeating the clause does not count as seeking him.\n\nReformed pastoral use: congregations can quote Jesus accurately and still not come. The next public cry will not be this warning only, but “if anyone thirsts.” Those who only puzzle over cannot-come language may yet be made thirsty—or may remain in the riddle."
+    }
+  ]
+}

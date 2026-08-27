@@ -1,0 +1,163 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 10,
+  "verseStart": 1,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "John 10:1–21",
+  "context": "Jesus answers the Pharisees of chapter 9 with a sheepfold figure: thieves climb another way; the shepherd enters by the door, calls his own by name, and they follow his voice. He is the door and the good shepherd who lays down his life of his own accord, has other sheep not of this fold, and takes his life up again. The words divide the hearers: some say he has a demon; others, these are not the words of one who is oppressed by a demon.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the door, the good shepherd, the life laid down of his own accord, and the other sheep—so each camp speaks in its own voice beside John 10:1–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I am the door—Christ is both the Door and the Shepherd, and all things. If any one—as a sheep, enter in by me—through faith, he shall be safe—from the wolf, and from those murdering shepherds. I have also other sheep—which he foreknew; which are not of this fold—not of the Jewish Church or nation, but Gentiles. I must bring them likewise. I lay it down of myself—by my own free act and deed. I have an original power and right of myself, both to lay it down as a ransom, and to take it again, after full satisfaction is made, for the sins of the whole world.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 10:7–18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The good shepherd giveth his life for the sheep. From the extraordinary affection which he bears towards the sheep, he shows how truly he acts towards them as a shepherd; for he is so anxious about their salvation, that he does not even spare his own life. And I have other sheep. Them also I must bring. He means that the election of God will be secure, so that nothing of all that he wishes to be saved shall perish. For the secret purpose of God, by which men were ordained to life, is at length manifested in his own time by the calling—the effectual calling, when he regenerates by his Spirit, to be his sons, those who formerly were begotten of flesh and blood. We are already God’s sheep, before we are aware that He is our shepherd.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 10:11–16)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "“Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber.",
+      "arminianNotes": "Truly, truly: the fold has a door, and climbing another way is theft. Wesley: the door is Christ, the only lawful entrance; the sheepfold is the Church; a thief and robber in God’s account—such were the teachers Jesus had just been answering in chapter 9.\n\nArminian pastoral note: office without Christ is not shepherding. The warning is public and sincere. Hearers can tell a climber from a door-man; they are not told to stay under whoever holds the keys of the fold.",
+      "reformedNotes": "Calvin: scribes and priests were reckoned pastors, yet Christ will not let that title bless their unbelief. Not all who outwardly claim a place in the Church are shepherds or sheep. No plague is more destructive than wolves in shepherds’ garb.\n\nReformed framing: the honorable name “Church” makes the distinction between true and false doctrine more urgent, not less. Weak consciences need not panic when rulers resist the Gospel; the door, not the occupancy of the fold, tells who belongs."
+    },
+    {
+      "number": 2,
+      "text": "But he who enters by the door is the shepherd of the sheep.",
+      "arminianNotes": "The contrast is simple: the shepherd uses the door. True pastors come through Christ, not around him. Sheep are not a private brand the climber can steal by rank.\n\nClassical Arminians hear a test for ministry. If the way in is Christ, then preaching that bypasses him—tradition as salvation, power over consciences apart from the Shepherd—is already robbery, however authorized it looks.",
+      "reformedNotes": "Calvin’s general view: Christ compares the Church to a sheepfold and himself to a door, because there is no other entrance but by himself. They alone are good shepherds who lead people straight to Christ.\n\nReformed accent: belonging to the flock means devotion to Christ alone, and all of this is doctrinal. Whoever turns aside from him neither keeps the road nor enters by the door, whatever title he wears."
+    },
+    {
+      "number": 3,
+      "text": "To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out.",
+      "arminianNotes": "The gatekeeper opens; the sheep hear; he calls his own by name and leads them out. Wesley: it is not unworthy of the Father to be styled the door-keeper. Real Christians hear, listen to, understand, and obey; he counteth them his own, dearer than friend or brother, and leadeth them in paths of righteousness.\n\nArminian hearing: the call is personal and the response is real—hear, listen, obey. Named sheep are not deaf objects. The Shepherd’s voice is meant to be followed, and following is how the flock is known.",
+      "reformedNotes": "Calvin will allow the porter to be God, contrasting God’s judgment with the world’s applause of pastors. He takes “calls his own by name” as the mutual consent of faith: teacher and disciple united by one Spirit, so the teacher goes before and the disciple follows.\n\nReformed accent: “his own” is already on the page. The sheep who hear are not a random sample of the fold’s occupants; they are the ones he calls out as his. Voice and ownership go together."
+    },
+    {
+      "number": 4,
+      "text": "When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice.",
+      "arminianNotes": "He goes before; they follow because they know his voice. Wesley: he teaches by example as well as precept; they tread in his steps, having the witness in themselves that his words are the wisdom and power of God.\n\nClassical Arminians put weight on following. Knowledge of the voice is not a tattoo; it is recognized and obeyed. The security of the flock is the security of those who actually go after the Shepherd who goes first.",
+      "reformedNotes": "Calvin: we must attend to why the sheep follow—they know how to distinguish shepherds from wolves by the voice. This is the spirit of discernment by which the elect discriminate God’s truth from men’s inventions. Knowledge of the truth goes before; then an earnest desire to obey.\n\nReformed hearing: they not only understand what is true but receive it with warm affection. Effectual hearing shows in following. The voice creates a flock that can tell the Shepherd from a stranger."
+    },
+    {
+      "number": 5,
+      "text": "A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.”",
+      "arminianNotes": "They will not follow a stranger; they flee; they do not know that voice. Wesley: one whom Christ hath not sent; who can constrain them? They flee as from the plague; they cannot relish it; they find nothing of God therein.\n\nArminian note: refusal of the stranger is a living act of the flock, not a spell. Sheep can be warned and can flee. Remaining in the flock includes a holy intolerance of voices that do not sound like the Shepherd.",
+      "reformedNotes": "Calvin commends not only assembling at the shepherd’s voice but also not listening to strangers and not dispersing when anyone cries. The sheep of Christ are kept from the new winds that carry others off.\n\nReformed accent: discernment is a gift in the flock, not a hobby. That they will not follow a stranger is evidence of whose they are. The same voice that draws them out teaches them to run from counterfeits."
+    },
+    {
+      "number": 6,
+      "text": "This figure of speech Jesus used with them, but they did not understand what he was saying to them.",
+      "arminianNotes": "The figure is used; they do not understand. Wesley: “they” are the Pharisees to whom he more immediately spoke, as the close of chapter 9 shows. Light can be spoken in a parable and still meet a closed ear.\n\nArminian patience: misunderstanding here is not innocence. They have just seen a blind man given sight and then been told they are blind. The next sentences will drop the figure and name the Door. Remaining baffled after that is a decision.",
+      "reformedNotes": "Calvin: they proudly vaunt wisdom and reject the light of Christ; in a matter not very obscure they are dull of apprehension. Unbelief can wear the face of not getting the metaphor.\n\nReformed note: failure to understand the sheepfold is of a piece with chapter 9’s “are we also blind?” Sight is the Shepherd’s gift. The unexplained figure already sorts hearers before the “I am” sayings land."
+    },
+    {
+      "number": 7,
+      "text": "So Jesus again said to them, “Truly, truly, I say to you, I am the door of the sheep.",
+      "arminianNotes": "He says it again, now without hiding: I am the door of the sheep. Wesley: Christ is both the Door and the Shepherd, and all things. Access is a person, sincerely set before them.\n\nArminian gospel: if he is the door, then entering is by him—through faith, as Wesley will say at v. 9—not by lineage, Sanhedrin, or climbing. The invitation is as wide as “I am.”",
+      "reformedNotes": "Calvin: without this explanation the discourse would have remained allegory. The principal point of all spiritual doctrine, on which souls are fed, consists in Christ. There is but one open door; all approach another way is prohibited.\n\nReformed center: he invokes all who desire salvation to come to him. In vain do they wander who leave him to go to God. The Door is exclusive because he is sufficient, not because the sentence is a riddle."
+    },
+    {
+      "number": 8,
+      "text": "All who came before me are thieves and robbers, but the sheep did not listen to them.",
+      "arminianNotes": "All who came before—Wesley: independently of me, assuming my character, rabbis over consciences, traditions as the way of salvation, running before they were sent—are thieves (temporal profit) and robbers (plundering the sheep). But the sheep did not listen.\n\nArminian reading: not listening is the flock’s real refusal of false voices. Sheep are those who will not take a counterfeit Christ. Moses and the prophets are not in view as thieves; those who steal the flock from the Door are.",
+      "reformedNotes": "Calvin will not restrict this to Judas the Galilean; Christ contrasts all false doctrine with the Gospel. Moses and the prophets aimed to establish Christ’s kingdom; the Law is a preparation for the Gospel. Apart from him there is nothing but destruction.\n\nReformed consolation: those led away by impostors did not belong to the Church of God. Christ has always guarded his sheep so that they are not left as Satan’s prey. By nature we are lions and wolves until the Spirit tames us; we are already sheep in God’s heart before we are born, and we begin to be sheep in ourselves by the calling."
+    },
+    {
+      "number": 9,
+      "text": "I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.",
+      "arminianNotes": "I am the door—repeated. If anyone enters by me, he will be saved, go in and out, find pasture. Wesley: as a sheep, through faith, he shall be safe from the wolf and from murdering shepherds; he shall attend the shepherds Christ has sent; pasture is food for the soul in all circumstances.\n\nClassical Arminians rest on anyone. The Door is not a trick door. Entering is by faith in him; salvation, liberty, and pasture are promised to the one who does. The condition is real; the promise is sincere. Remaining in that safety is remaining in the Door, not climbing another way later.",
+      "reformedNotes": "Calvin: the highest consolation of believers is that, having once embraced Christ, they learn they are out of danger; he promises salvation and happiness. Going in and out: they shall go safely wherever necessary and be fed to the full. Twofold advantage of the Gospel: pasture for famished souls, and faithful protection against wolves and robbers.\n\nReformed pairing: the anyone is as large as the Door; those who enter are those who actually come through Christ. The verse is comfort for the flock in him, not a claim that unaided wanderers appoint themselves sheep. Saved, going in and out, finding pasture—this is the life of those the Shepherd has taken in.",
+      "keyContrast": "Shared ground: Christ is the only door; entering by him means salvation, freedom, and pasture. Arminians typically hear “anyone” as a sincere, universal invitation through faith, with safety belonging to those who enter and remain in him. Reformed readers typically hear the same invitation as truly addressed, while taking the ones who enter as the sheep Christ actually gathers and keeps—pasture and protection as the fruit of being in the Door, not as a self-made lease."
+    },
+    {
+      "number": 10,
+      "text": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.",
+      "arminianNotes": "Two comings, two aims. The thief: steal, kill, destroy. Wesley: nothing else can follow a shepherd who does not enter by Christ. Jesus: I came that they may have life, and have it abundantly.\n\nArminian weight: abundant life is the errand of the coming, not a footnote. The “they” are sheep he came to give life to; the offer is as generous as the contrast with the thief is sharp. Life is received in the Door, not extracted from him.",
+      "reformedNotes": "Calvin: Christ pulls our ear so that Satan’s ministers may not find us drowsy. False teachers, however mild, carry deadly poison. Then the comparison shifts: he is not only the door but the only Shepherd strictly so called; other faithful pastors are his agents, raised, endowed, and governed by him.\n\nReformed accent: they only who will not submit to his staff are exposed to wolves. Life is continually increased in those who do not revolt from him. Progress in faith approaches fullness of life because the Spirit, who is life, grows in the sheep."
+    },
+    {
+      "number": 11,
+      "text": "I am the good shepherd. The good shepherd lays down his life for the sheep.",
+      "arminianNotes": "I am the good shepherd—another “I am.” The mark is not hire but a life laid down for the sheep. The death is for them: actual, costly, intended. Wesley will later say the ransom is for the sins of the whole world (v. 18); here the flock is named as the ones he dies for as their Shepherd.\n\nDo not hear Arminians denying that he keeps those who are his. They preach a Shepherd who truly dies to save, calls all to enter by the Door, and actually cares for the sheep who hear. “For the sheep” is love in blood, not a slogan that the world was never in view.",
+      "reformedNotes": "Calvin: from extraordinary affection he shows how truly he is shepherd—so anxious about their salvation that he does not spare his own life. They who reject the guardianship of so kind a shepherd are exceedingly ungrateful. Augustine is right that the passage teaches what to desire, avoid, and endure in the Church’s government.\n\nReformed confession: he keeps the Church safe first by himself, then by his agents. The life is laid down for the sheep—his own, whom he knows (vv. 14–15). Particular love here does not make the Door a feint; it names the people his death actually saves and the flock he will not abandon to the wolf.",
+      "keyContrast": "Both worship the good shepherd who dies for the sheep. Arminians typically hold the death as a real ransom with the world in view (v. 18) and the flock as those who hear and enter; they still confess he actually saves and keeps his sheep. Reformed readers typically take “for the sheep” as the people given him, whom he effectually saves—without denying that thieves are warned and hearers are summoned through the Door."
+    },
+    {
+      "number": 12,
+      "text": "He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them.",
+      "arminianNotes": "Hired hand, not owner: he sees the wolf, leaves, flees; the wolf snatches and scatters. Wesley: hire itself does not make a hireling—the laborer is worthy of his hire—but loving the hire more than the work. The wolf is any enemy who by force or fraud attacks a Christian’s faith, liberty, or life; he seizes some and scatters the rest.\n\nArminian pastoral edge: scattering is a real wound in the flock. That is why remaining with the good Shepherd matters, and why hireling ministry is a grief. The verse assumes sheep can be harmed by wolves when the wrong man is over them—hence the call to the Shepherd who will not flee.",
+      "reformedNotes": "Calvin: hirelings may retain pure doctrine and proclaim truth to serve a purpose rather than from pure zeal; we ought still to hear them as sitting in Moses’ seat, yet the contest will prove their treachery. Christ appears almost to make all shepherds besides himself hirelings, since none of us may say the sheep are our own—yet those guided by the Spirit reckon what belongs to the Head as their charge.\n\nReformed note: the wolf’s harm in this verse is what happens under a fleeing hireling, not a denial of vv. 28–29. The good Shepherd’s flock is not finally the wolf’s; bad under-shepherds still do real harm, which is why Christ prefers even one sheep to his own life."
+    },
+    {
+      "number": 13,
+      "text": "He flees because he is a hired hand and cares nothing for the sheep.",
+      "arminianNotes": "He flees because he is a hired hand: Wesley—because he loves the hire, not the sheep. Care is the difference. The good Shepherd’s opposite is not a poorly paid man but a man whose motive cannot survive a wolf.\n\nArminian warning: congregations can smell this. Ministry for pay-without-love is already flight in seed form. The sheep need a carer, not a contractor.",
+      "reformedNotes": "Calvin: he flees because he cares not for the sheep—his heart is not moved by the scattering of the flock, because he thinks it does not belong to him. Looking to the hire, he may deceive in tranquillity; in the contest he shows what he is.\n\nReformed diagnosis: ownership and care are Christ’s, shared with agents only as they are united to the Head. A heart unmoved by scattered sheep is already outside the Shepherd’s affection, whatever the title."
+    },
+    {
+      "number": 14,
+      "text": "I am the good shepherd. I know my own and my own know me,",
+      "arminianNotes": "Again: I am the good shepherd. I know my own; my own know me. Wesley: he knows with tender regard and special care; he is known with a holy confidence and affection. Mutual knowledge is the flock’s life, not a password for a closed caste.\n\nClassical Arminians: to be his own is to be in this knowing—hearing, trusting, loving back. Sheep are identified by that reciprocity. Knowing him is how one remains in the flock; refusing that knowledge is how one shows oneself not his own.",
+      "reformedNotes": "Calvin: knowledge proceeds from love and is accompanied by care. He holds out his love toward us, and in the other clause utterly disregards all who do not obey the Gospel—as he will confirm: he is known by the sheep.\n\nReformed accent: “my own” is already his before their answering knowledge, yet the answering knowledge is not optional. The sheep know him because they are his; those who will not obey are not excused by a vacant title of sheep."
+    },
+    {
+      "number": 15,
+      "text": "just as the Father knows me and I know the Father; and I lay down my life for the sheep.",
+      "arminianNotes": "The knowing is measured by the Father-Son knowing. Wesley: a knowledge that implies an inexpressible union; and I lay down my life—speaking of the present, for his whole life was only a going unto death. The cross is already in the shepherding.\n\nArminian Christology: union with the Father grounds the death for the sheep. He does not die as a trapped victim (v. 18) but as the known Son. The flock is invited into a knowledge analogical to that union—real, not mechanical.",
+      "reformedNotes": "Calvin refuses thorny speculation about how the Father knows his Wisdom. Christ is the bond of our union with God, placed between Him and us: it is no more possible that he forget us than that he be rejected by the Father. He employs all the power received from the Father for our protection, and wishes us obedient as he is devoted to the Father.\n\nReformed center: the life laid down for the sheep is the Father’s known Son dying for a known flock. Protection and death are one ministry. The comparison “just as” is pastoral assurance, not a claim that our knowing equals the inner life of God."
+    },
+    {
+      "number": 16,
+      "text": "And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd.",
+      "arminianNotes": "Other sheep, not of this fold: Wesley—which he foreknew; not of the Jewish Church or nation, but Gentiles. I must bring them into my Church, the general assembly of those whose names are written in heaven. One flock (Wesley insists: not “one fold,” a false print)—no corrupt or divided flocks remaining; one shepherd who laid down his life and will leave no hireling among them. The whole flock shall hear the one shepherd.\n\nArminian hearing: “they will listen” is promise with a voice attached. Gentiles are truly sought; the must-bring is the Shepherd’s mission, not a shrug over Israel. Names written in heaven do not cancel the hearing by which they are gathered. One flock is the goal of a death wide enough to make one people out of two.",
+      "reformedNotes": "Calvin has no doubt this is the calling of the Gentiles: “fold” was Israel’s enclosure of rites; other sheep lacked that mark but not the Shepherd’s claim. Augustine is true that there are wolves within and sheep without, yet here the point is the outward gathering of strangers into the kingdom. He names unbelievers “sheep” by secret election—we are already God’s sheep before we know he is our shepherd.\n\nReformed certainty: “I must bring them” means election will be secure, so that nothing he wishes saved shall perish. Secret purpose is manifested in effectual calling, when he regenerates by his Spirit those formerly of flesh and blood. The flock is gathered when all have one shepherd and his voice alone is heard. They will listen because he brings them.",
+      "keyContrast": "Both hear Gentile inclusion and one flock under one shepherd. Arminians typically take “other sheep” as those he foreknew and will bring by a voice they truly hear—gathered into the church, one flock without remaining hireling divisions. Reformed readers typically take the other sheep as already his by election before they resemble sheep, brought by effectual calling so that none he wills to save perish. Neither side should be heard as making the Gentile mission insincere or as shrinking the one Shepherd."
+    },
+    {
+      "number": 17,
+      "text": "For this reason the Father loves me, because I lay down my life that I may take it up again.",
+      "arminianNotes": "The Father’s love is tied to this laying-down in order to take-up. Wesley: I cheerfully die to expiate the sins of men, to the end I may rise again for their justification. Death is not the end of the shepherding; resurrection is in the same sentence.\n\nArminian gospel: expiation and justification are the cheerful aim. The sheep get a living Shepherd, not a merely tragic one. Taking the life up again is as much the errand as laying it down.",
+      "reformedNotes": "Calvin knows a higher reason the Father loves the Son—the beloved in whom he is well pleased—yet as he was made man for us, we need not wonder if he declares the reason to be that our salvation is dearer to him than his own life. He comforts disciples shaken by the death-word with speedy resurrection: he will not be swallowed by death but rise a conqueror.\n\nReformed doxology: contemplate the death and, at the same time, the glory of the resurrection. He is life because in contest with death he obtained a splendid victory. The Father’s love here is the love that gives us a dying-and-rising Shepherd."
+    },
+    {
+      "number": 18,
+      "text": "No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This charge I have received from my Father.”",
+      "arminianNotes": "No one takes it; he lays it down of his own accord. Authority both ways; a charge from the Father. Wesley: by my own free act; original power and right of myself to lay it down as a ransom and take it again after full satisfaction is made for the sins of the whole world. The Father’s commission is why he used that power—obedience—not the ground of the power itself, which he had antecedent to the commission.\n\nClassical Arminians hear “whole world” without embarrassment, and “of my own accord” without making the Father a bystander. The death is voluntary, sufficient, aimed at a world of sinners, and still the charge of the Father. Own-accord is not independence from the Father; it is the Son’s willing ransom.",
+      "reformedNotes": "Calvin: another consolation—he does not die by constraint but offers himself willingly for the salvation of his flock. Men have no power to put him to death except as he permits; he is free from every violence of necessity. We die for our sins; he was born mortal by voluntary submission. The death is an expiation because it was a voluntary sacrifice: by the obedience of one many were made righteous.\n\nReformed accent: he recalls us to the Father’s eternal purpose—such care for our salvation that he dedicated to us his only-begotten Son. “Of my own accord” and “this charge” are one will, not a tug-of-war. The flock’s redemption is a free offering inside the Father’s commandment; authority to take the life up again is already in the laying down.",
+      "keyContrast": "Shared ground: the death is voluntary, authoritative, and the Father’s charge; no one takes the Son’s life as if he were overpowered. Arminians (Wesley) typically stress original right in the Son and a ransom for the sins of the whole world. Reformed readers typically stress willing obedience inside the Father’s eternal purpose, an expiation for the flock he actually saves. Do not hear either camp as making the cross an accident or the Father and Son at cross-purposes."
+    },
+    {
+      "number": 19,
+      "text": "There was again a division among the Jews because of these words.",
+      "arminianNotes": "Again a division, because of these words—door, shepherd, death of his own accord, other sheep. The same sermon splits the room. Words about a dying Shepherd do not produce a calm consensus.\n\nArminian note: division is not a failure of clarity. Some will slander; some will weigh the words against the opened eyes of chapter 9. The split is already a moral response to a sincere claim.",
+      "reformedNotes": "Calvin: the discourse procured some disciples, but as the doctrine has many adversaries, they split who formerly appeared one body. If that Abraham-and-Moses profession had been sincere, Christ, the bond of charity, would not have broken their agreement. The light of the Gospel exposes hypocritical pretense.\n\nReformed caution: when schisms arise, inquire who revolts from God and from his pure doctrine. It is better that some separate from the wicked to be united to Christ than that all be of one mind in despising God. Blame for the tear belongs to unbelief, not to the Shepherd’s voice."
+    },
+    {
+      "number": 20,
+      "text": "Many of them said, “He has a demon, and is insane; why listen to him?”",
+      "arminianNotes": "Many reach for the hardest slander: demon, insanity, stop listening. The good Shepherd’s claim is treated as madness. “Why listen?” is already a refusal of the voice the sheep hear.\n\nArminian warning: this is how a room leaves the fold without walking out—by naming the Shepherd’s voice demonic. The question is not curiosity; it is a campaign to shut ears. Listening remains the issue.",
+      "reformedNotes": "Calvin: they employ the most offensive reproach they can devise, that all may shudder at hearing him. Wicked men, that they may not be forced to yield to God, break out with closed eyes into proud contempt and excite others to the same rage, so that not a single word of Christ is heard in silence.\n\nReformed diagnosis: unbelief here is not a meek maybe. It is a strategy to make the voice unsayable. The doctrine, Calvin adds, has sufficient power in itself to defend it against slanders—which is what the next verse begins to do."
+    },
+    {
+      "number": 21,
+      "text": "Others said, “These are not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?”",
+      "arminianNotes": "Others refuse the slander: these are not the words of one oppressed by a demon. Wesley: the original word takes in actions too. Can a demon open the eyes of the blind?—chapter 9 is still in the room. Words and works sit in judgment on the charge.\n\nArminian close: some hear and test. The Door has already given sight; the Shepherd’s speech does not sound like oppression. Division here includes a real yes forming. The next scene (vv. 22–42) will press the same crowd toward a plainer Christ and a harder line about who his sheep are.",
+      "reformedNotes": "Calvin: believers demand that people judge from the fact itself; truth is strong enough to maintain itself. This is the only protection of our faith: wicked men will never hinder the power, wisdom, and goodness of God from shining in the Gospel.\n\nReformed close: the opened eyes of the man born blind remain public evidence. Some already know these are not a demoniac’s words. The winter Dedication scene will not create a new Christ; it will show why many still will not believe—and why those who are his hear."
+    }
+  ]
+}

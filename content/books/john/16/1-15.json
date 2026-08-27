@@ -1,0 +1,124 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 16,
+  "verseStart": 1,
+  "verseEnd": 15,
+  "translation": "ESV",
+  "title": "John 16:1–15",
+  "context": "Jesus warns the Eleven so they will not fall away: synagogue expulsion and killing done as service to God, because the persecutors know neither the Father nor Him. It is to their advantage that He goes, for then He will send the Helper, who convicts the world concerning sin, righteousness, and judgment, and who guides them into all the truth, glorifying the Son.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Helper who convicts the world and guides the church—so each camp speaks in its own voice beside John 16:1–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is expedient for you that I go away… If I go, I will send him to you. He will convince the world of sin, because they believe not on me. This is the grand damning sin. Of righteousness, because I go to my Father… Of judgment, because the prince of this world is judged.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 16:7–11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Spirit will convince the world of sin, because they do not believe in Christ… This is the principal sin, and the source of all others. He will convince of righteousness, because I go to the Father; and of judgment, because the prince of this world is already judged. The Spirit does this by the preaching of the Gospel.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 16:8–11)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "“I have said all these things to you to keep you from falling away.",
+      "arminianNotes": "The farewell is pastoral: spoken so they will not fall away when hatred comes. Forewarning is mercy.\n\nArminian care: falling away is a real danger Jesus takes seriously. Grace that keeps also uses remembered words; they must hold what He said.",
+      "reformedNotes": "He speaks to preserve them. The point of the discourse is perseverance through scandal.\n\nReformed comfort: the Shepherd prepares His own. The words themselves are a means by which He keeps them from apostasy."
+    },
+    {
+      "number": 2,
+      "text": "They will put you out of the synagogues. Indeed, the hour is coming when whoever kills you will think he is offering service to God.",
+      "arminianNotes": "Excommunication, then killing as liturgy. Zeal without knowledge can baptize murder as worship.\n\nArminian warning: religious sincerity is not the same as knowing God. People can be culpable while feeling devout.",
+      "reformedNotes": "The hour includes pious violence. Service-to-God language does not make the deed holy.\n\nReformed sobriety: ignorance of the Father (v. 3) can wear vestments. The church should not be shocked when hatred sounds devout."
+    },
+    {
+      "number": 3,
+      "text": "And they will do these things because they have not known the Father, nor me.",
+      "arminianNotes": "The cause is not knowing. Hatred of the messengers tracks ignorance of the Sender and the Son.\n\nClassical Arminians: this not-knowing is culpable; light has come. The gospel still calls persecutors to know the Father in the Son.",
+      "reformedNotes": "Not known: relational, not a trivia gap. Persecution is fruit of that ignorance.\n\nReformed note: knowing the Father is given in the Son. Where that knowledge is withheld or refused, violence against His people follows."
+    },
+    {
+      "number": 4,
+      "text": "But I have said these things to you, that when their hour comes you may remember that I told them to you. I did not say these things to you from the beginning, because I was with you.",
+      "arminianNotes": "Memory is the aim. He withheld the worst while He was physically with them.\n\nArminian discipleship: remember when the hour comes. Foreknowledge of trial is meant to steady faith, not to freeze it.",
+      "reformedNotes": "Their hour will come, and His words will be waiting. Timing of disclosure is pastoral.\n\nReformed providence: He rations hard truth. Presence then, memory now, are both His care."
+    },
+    {
+      "number": 5,
+      "text": "But now I am going to him who sent me, and none of you asks me, ‘Where are you going?’",
+      "arminianNotes": "Going to the Sender should have drawn a where, but sorrow has swallowed the question (v. 6).\n\nArminian reading: they are responsible hearers whose grief has narrowed them. He still goes for their good.",
+      "reformedNotes": "The departure is to the Sender. Their silence is noted, not condemned as final.\n\nReformed direction: the mission’s next movement is upward. Their unasked question does not halt it."
+    },
+    {
+      "number": 6,
+      "text": "But because I have said these things to you, sorrow has filled your heart.",
+      "arminianNotes": "Sorrow filled—not a passing mood. The Helper’s coming will have to meet a full heart of grief.\n\nArminian honesty: Jesus names their feeling without scorning it. Grief can coexist with a faith that still needs courage.",
+      "reformedNotes": "Filled hearts: the diagnosis before the advantage of v. 7.\n\nReformed pastoral: He interprets their interior life. The Spirit is promised to the sorrowful, not to the already unshaken."
+    },
+    {
+      "number": 7,
+      "text": "Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you.",
+      "arminianNotes": "Advantage in absence: the Helper will not come unless He goes, and if He goes, He sends Him. Wesley stressed expedience for the church.\n\nArminian hope: the Spirit is Christ’s gift to them, not a vague force. Going is for their good; the sending is personal and promised.",
+      "reformedNotes": "Truth against their sorrow: His going is their gain because the Helper comes only then, and Jesus sends Him.\n\nReformed gift: Pentecost is the Son’s act from the Father’s side. The church’s Helper is not self-summoned."
+    },
+    {
+      "number": 8,
+      "text": "And when he comes, he will convict the world concerning sin and righteousness and judgment:",
+      "arminianNotes": "The Helper’s first named work toward the world is conviction—sin, righteousness, judgment. Not flattery; exposure that can save.\n\nClassical Arminians hear a real work of grace toward the world. Conviction is sincere; people may yield or resist, but the Spirit truly addresses the world, not a cipher.",
+      "reformedNotes": "When He comes: conviction is the Spirit’s office in the world, Calvin said, through the gospel preached.\n\nReformed accent: this is Christ’s victory applied. The world is not left unaddressed; the Spirit convicts as the Son’s witness, effectual for those given to Him and exposing for those who will not believe.",
+      "keyContrast": "Shared: the Spirit convicts the world of sin, righteousness, and judgment. Arminians typically describe that conviction as grace toward the world that can be received or refused. Reformed readers typically describe it as the gospel’s Spirit-powered exposure—savingly effectual in the elect, and a real verdict on remaining unbelief."
+    },
+    {
+      "number": 9,
+      "text": "concerning sin, because they do not believe in me;",
+      "arminianNotes": "The head sin is unbelief in Jesus. Wesley called it the grand damning sin. Conviction aims here first.\n\nArminian evangelism: the Spirit names not-believing as sin so that people may yet believe. The diagnosis is an invitation, not a locked door.",
+      "reformedNotes": "Sin specified: they do not believe in me. Calvin: principal sin and source of others.\n\nReformed focus: unbelief is not a small gap in data. The Spirit’s conviction of the world centers on refusal of the Son."
+    },
+    {
+      "number": 10,
+      "text": "concerning righteousness, because I go to the Father, and you will see me no longer;",
+      "arminianNotes": "Righteousness is interpreted by His going to the Father—vindication of the crucified. They will not see Him, yet the Spirit will preach that going as righteousness.\n\nArminian gospel: the world’s measure of Jesus is reversed. Conviction of righteousness means the cross was not failure; hearers may trust the Vindicated One.",
+      "reformedNotes": "Going to the Father is the public proof of His righteousness once sight is gone.\n\nReformed vindication: the Spirit convinces the world that the departed Christ is the Righteous One. Ascension interprets Golgotha."
+    },
+    {
+      "number": 11,
+      "text": "concerning judgment, because the ruler of this world is judged.",
+      "arminianNotes": "Judgment: the ruler is already judged. Conviction includes announcing the devil’s lost case.\n\nArminian courage: the world’s prince is not the last court. The Spirit’s work frees people to switch allegiance while the verdict stands.",
+      "reformedNotes": "The ruler is judged—perfect tense in force. The Spirit applies that judgment to the world.\n\nReformed triumph: conviction of judgment is not pending maybe. Christ’s cross has judged the tyrant; the Spirit makes that fact inescapable."
+    },
+    {
+      "number": 12,
+      "text": "“I still have many things to say to you, but you cannot bear them now.",
+      "arminianNotes": "More truth, later capacity. He will not crush them with what they cannot bear tonight.\n\nArminian pacing: revelation is pedagogical. The Spirit (v. 13) will continue what they cannot carry yet; they remain learners, not finished repositories.",
+      "reformedNotes": "Cannot bear now: limitation He honors. Many things remain His to say.\n\nReformed patience: the Spirit’s coming is also a curriculum. What they cannot bear, He will not dump; He will send a Guide."
+    },
+    {
+      "number": 13,
+      "text": "When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come.",
+      "arminianNotes": "Spirit of truth, guide into all the truth, speaking what He hears, declaring what is to come. The Eleven are promised guidance, not autonomous inspiration.\n\nArminian hearing: the Spirit’s guidance is real and bound to what He hears from Christ. The church still listens; guidance is not a license to ignore the Son’s words.",
+      "reformedNotes": "He will guide—future, personal, comprehensive of the truth they need, not a rival canon from nowhere.\n\nReformed origin: the Spirit does not freelance. What He hears, He speaks. Apostolic truth is Christ’s, delivered by the Spirit."
+    },
+    {
+      "number": 14,
+      "text": "He will glorify me, for he will take what is mine and declare it to you.",
+      "arminianNotes": "The Spirit’s metric is Jesus’ glory. He takes what is Christ’s and declares it—no separate celebrity.\n\nArminian test of spirits: does this glorify the Son? The Helper’s ministry is Christ-centered, and the church is meant to receive that declaration.",
+      "reformedNotes": "Glorify me: the Spirit’s mission statement. Taking and declaring what is Christ’s.\n\nReformed rule: pneumatology serves Christology. Where the Son is not glorified, the claim to the Helper is already suspect."
+    },
+    {
+      "number": 15,
+      "text": "All that the Father has is mine; therefore I said that he will take what is mine and declare it to you.",
+      "arminianNotes": "Father’s all is the Son’s; therefore the Spirit’s declaring is Trinitarian, not a third gospel.\n\nArminian worship: Father, Son, and Spirit share this giving. What is declared to the church is the fullness of God in the Son.",
+      "reformedNotes": "The therefore binds the Trinity to the church’s hearing. All the Father has is the Son’s; the Spirit takes from that and declares.\n\nReformed fullness: no deficit in the Son. The Spirit does not supplement a half-Christ; He distributes what is already His."
+    }
+  ]
+}

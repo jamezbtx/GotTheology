@@ -1,0 +1,78 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 9,
+  "verseStart": 35,
+  "verseEnd": 41,
+  "translation": "ESV",
+  "title": "John 9:35–41",
+  "context": "Jesus hears that they have cast him out, finds him, and asks, Do you believe in the Son of Man? The man asks who he is, that he may believe; Jesus answers, you have seen him, and it is he who is speaking to you. Lord, I believe—and he worships. Jesus: for judgment I came into this world, that those who do not see may see, and those who see may become blind. Some Pharisees ask, Are we also blind? If you were blind, you would have no guilt; but now that you say, We see, your guilt remains.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus finding the cast-out man, the confession “Lord, I believe,” and judgment on those who say they see—so each camp speaks in its own voice beside John 9:35–41.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Having found him—For he had sought him. Who is he, that I may believe?—This implies some degree of faith already. He was ready to receive whatever Jesus said. For judgment am I come into the world—That is, the consequence of my coming will be, that by the just judgment of God, while the blind in body and soul receive their sight, they who boast they see, will be given up to still greater blindness than before. If ye had been blind—Invincibly ignorant; if ye had not had so many means of knowing: ye would have had no sin—Comparatively to what ye have now. But now ye say—Ye yourselves acknowledge, Ye see, therefore your sin remaineth—Without excuse, without remedy.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 9:35–41)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Christ now meets him, when he is no longer in the temple, but wandering hither and hither; receives and embraces him, when he is cast out by the priests; raises him up from the ground, and offers to him life, when he has received the sentence of death… It is true that we are all born blind… If you would acknowledge your disease, it would not be altogether incurable; but now because you think that you are in perfect health, you continue in a desperate state… When a blind man is desirous to obtain deliverance, God is ready to assist him; but they who, insensible to their diseases, despise the grace of God, are incurable.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 9:35, 41)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 35,
+      "text": "Jesus heard that they had cast him out, and having found him he said, “Do you believe in the Son of Man?”",
+      "arminianNotes": "Jesus heard they had cast him out, found him, and asked: Do you believe in the Son of Man? Wesley: having found him—for he had sought him.\n\nArminian: seeking is grace; the question is a real one. “Do you believe?” treats him as one who may answer. The Light does not absorb him without a confession. Coming to the Light here is explicit faith in the Son of Man.",
+      "reformedNotes": "Calvin: if he had been allowed to remain in the synagogue he would have been in danger of becoming alienated from Christ. Christ now meets him wandering, receives and embraces him when the priests have cast him out, raises him from the ground, and offers him life after a sentence of death.\n\nReformed: initiative is the finding. The question is the means by which the finder grants fuller knowledge. Spiritual inability is why he must be found; the asking does not make the finding unnecessary.",
+      "keyContrast": "Both treasure that Jesus seeks the outcast. Arminians typically hear a genuine call to believe that the man can, by grace, answer; Reformed readers typically hear the Son’s prior finding as the decisive mercy—faith asked for because Christ has already come to the man who could not come back into the synagogue on his own."
+    },
+    {
+      "number": 36,
+      "text": "He answered, “And who is he, sir, that I may believe in him?”",
+      "arminianNotes": "And who is he, sir, that I may believe in him? Wesley: this implies some degree of faith already. He was ready to receive whatever Jesus said.\n\nArminian: “that I may believe” is desire, not delay-as-refusal. He wants the object of faith identified. Ready reception is a real movement toward the Son.",
+      "reformedNotes": "Calvin: though he had not yet attained clear or certain knowledge of Christ, he was obedient and ready to receive instruction: as soon as he is pointed out, I am ready to embrace him. He desires to be instructed by Christ as a Prophet, already convinced that Christ had been sent by God.\n\nReformed: readiness is itself the fruit of what God has already done in opening bodily and inner eyes. He does not at random place reliance on Jesus’ doctrine."
+    },
+    {
+      "number": 37,
+      "text": "Jesus said to him, “You have seen him, and it is he who is speaking to you.”",
+      "arminianNotes": "You have seen him, and it is he who is speaking to you. The Seer is the seen. Sight given in v. 7 now looks at its Giver.\n\nArminian: revelation is personal and sufficient. He is not asked to climb to heaven; the Son of Man is speaking. Unbelief after this would be refusing a present Light.",
+      "reformedNotes": "Calvin: by these words the man could not yet be carried to the full articles of the faith—atonement, resurrection, the Spirit as earnest of adoption—but Calvin has no doubt that Jesus intended to be acknowledged as the Christ, that from this beginning he might lead him forward to more intimate knowledge.\n\nReformed: the Speaker grants what the question needs. Progressive illumination is the Lord’s tutoring, not the man’s self-schooling."
+    },
+    {
+      "number": 38,
+      "text": "He said, “Lord, I believe,” and he worshiped him.",
+      "arminianNotes": "Lord, I believe, and he worshiped him. Wesley: what an excellent spirit was this man of—of so deep and strong an understanding, and yet of so teachable a temper.\n\nArminian: this is the end of coming to the light in the story’s personal arc: confession and worship. Not a slogan; a man on his face. Judgment will now address those who will not make this move.",
+      "reformedNotes": "Calvin: the word denotes something rare and uncommon—far more honor than to an ordinary man or even a prophet. Calvin does not think that at that time he had made such progress as to know Christ was God manifested in the flesh; convinced that Jesus was the Son of God, he nearly lost the command of himself and, in rapturous admiration, bowed down.\n\nReformed: faith and worship are the proper effect of being found. The man does not complete himself; he yields to the One who identified himself."
+    },
+    {
+      "number": 39,
+      "text": "Jesus said, “For judgment I came into this world, that those who do not see may see, and those who see may become blind.”",
+      "arminianNotes": "For judgment I came, that those who do not see may see, and those who see may become blind. Wesley: the consequence of my coming will be that, by the just judgment of God, while the blind in body and soul receive their sight, they who boast they see will be given up to still greater blindness than before.\n\nArminian: judgment is not an arbitrary split; it is what Light does when some come and some claim sight and refuse. The man who knew he was blind now sees; teachers who say they see go darker. That is moral consequence, and it is just.",
+      "reformedNotes": "Calvin: “judgment” here cannot mean only punishment; it includes the grace of illumination. Christ restores to order what was disordered, by a wonderful purpose of God. The blindness does not proceed so much from Christ as from the fault of men: by his nature he is the light of the world, and it is an accidental result that some are made blind by his coming. The reprobate desire to extinguish that light; diseased eyes are dazzled.\n\nReformed: we are all born blind, yet hypocrites think their sight uncommonly acute. When brightness is brought near they rise in open war, and God in vengeance puts out what remnant they had. Giving sight to those who do not see is strictly the cause of his coming.",
+      "keyContrast": "Shared: the coming sorts sight and blindness. Arminians typically stress judgment as the just result of coming to or refusing the Light—especially those who boast they see; Reformed readers typically stress that giving sight to the unseeing is Christ’s proper work, while the blinding of the self-wise is judicial, rooted in native blindness and malice, not in a defect in the Light."
+    },
+    {
+      "number": 40,
+      "text": "Some of the Pharisees near him heard these things, and said to him, “Are we also blind?”",
+      "arminianNotes": "Pharisees near him: Are we also blind? The “also” bristles. They hear insult, not diagnosis.\n\nArminian: the question is already an answer. They will not take the place of the man who said he was blind. Claiming not to need sight, they refuse the only Eye-opener.",
+      "reformedNotes": "Calvin: indignation, and a haughty contempt of the grace of Christ: we do not choose to receive sight from you on the condition of admitting that we have been hitherto blind. No man is qualified to be a disciple of Christ until he has been divested of self, and they were very far from being so.\n\nReformed: hypocrisy is full of pride and venom. Distinguished men, intoxicated, almost forget they are men. The wound pointed out is treated as an injury Christ inflicted."
+    },
+    {
+      "number": 41,
+      "text": "Jesus said to them, “If you were blind, you would have no guilt; but now that you say, ‘We see,’ your guilt remains.”",
+      "arminianNotes": "If you were blind, you would have no guilt; but now that you say, We see, your guilt remains. Wesley: invincibly ignorant—if ye had not had so many means of knowing—ye would have had no sin comparatively; ye yourselves acknowledge, Ye see; therefore your sin remaineth—without excuse, without remedy.\n\nArminian close: this is the chapter’s verdict on claimed sight. Means of knowing were many; remaining in guilt is refusing the Light while advertising vision. Coming to the Light remains a real demand; judgment rests on those who will not.",
+      "reformedNotes": "Calvin: if you would acknowledge your disease, it would not be altogether incurable; now because you think you are in perfect health, you continue in a desperate state. “No sin” does not excuse ignorance as harmless; he means the disease may be cured when it is truly felt. When a blind man is desirous to obtain deliverance, God is ready to assist him; they who, insensible to their diseases, despise the grace of God, are incurable.\n\nReformed close: spiritual inability is not an excuse for the man who says “We see.” The proud claim of sight is the incurable posture. The found man is the opposite: he knew he was blind, and the Son gave him light.",
+      "keyContrast": "Both hear remaining guilt in the claim “We see.” Arminians typically take this as heightened responsibility where light was offered and refused—no invincible ignorance left; Reformed readers typically take it as the incurability of those who will not confess blindness, while the truly blind whom God assists are the ones Christ came to give sight."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 18,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "John 18:1–11",
+  "context": "After the prayer of chapter 17, Jesus goes with his disciples across the Kidron into a garden Judas knows. Knowing all that would happen, he comes forward, names himself “I am he,” and the arrest party falls. He shields those the Father gave him, forbids Peter’s sword, and drinks the cup the Father has given.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the arrest, the I AM that dropped a band of men, and the cup the Father gave—so each camp speaks in its own voice beside John 18:1–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "As soon as he said, I am he, they went backward and fell to the ground—How amazing is it, that they should renew the assault, after so sensible an experience both of his power and mercy! If ye seek me, let these (my disciples) go—It was an eminent instance of his power over the spirits of men, that they so far obeyed this word, as not to seize even Peter, when he had cut off the ear of Malchus.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 18:6–8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Nor was he led astray by inadvertency, for he knew beforehand all that was to happen. Wicked men had no power over him, except so far as he gave permission. He replies mildly that he is the person whom they seek, and yet, as if they had been struck down by a thunderbolt, he lays them prostrate on the ground. There was no want of power to restrain their hands, if he had thought proper; but he wished to obey his Father, by whose decree he knew that he was called to die. Shall I not drink the cup which my Father hath given me? The draught appointed for Christ was to suffer the death of the cross for the reconciliation of the world. He must drink the cup which his Father measured out and delivered to him.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 18:4–11)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "When Jesus had spoken these words, he went out with his disciples across the brook Kidron, where there was a garden, which he and his disciples entered.",
+      "arminianNotes": "The prayer is finished; he goes out. Kidron, garden, disciples with him—John will not let the arrest look like a snatch in a random alley. Wesley: a private place for devotion, and so that the people would not attempt a tumultuous rescue.\n\nArminian pastoral note: he walks into a known place on purpose. The hour is not a trap that closes on an unwitting teacher. Disciples still accompany him; the next verses will show both his care for them and their confusion.",
+      "reformedNotes": "Spoken words of chapter 17, then Kidron. John points the place so we see a willing going, not a misstep. Calvin: he entered a garden Judas knew, to present himself of his own accord.\n\nReformed framing: the Son who has just spoken of those the Father gave him now walks toward the hour. Geography serves obedience. The garden is the appointed threshold, not an accident of night."
+    },
+    {
+      "number": 2,
+      "text": "Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples.",
+      "arminianNotes": "Judas knew the place because Jesus often met there. Habit becomes the betrayer’s map. The intimacy of discipleship is turned into coordinates.\n\nClassical Arminians: Judas’s knowledge is real and culpable. He uses light he had—shared prayer-places—against the Lord. Foreknowledge that Judas would come does not wash the kiss; the man still chooses the garden he learned in friendship.",
+      "reformedNotes": "The betrayer knows because the Shepherd had a custom. John will not hide that the arrest uses holy familiarity.\n\nReformed reading: Judas is already “who betrayed him.” The often-meeting is not a security failure God forgot; it is how the hour arrives through a disciple’s treachery. The place is known, and the Lord still goes there."
+    },
+    {
+      "number": 3,
+      "text": "So Judas, having procured a band of soldiers and some officers from the chief priests and the Pharisees, went there with lanterns and torches and weapons.",
+      "arminianNotes": "Judas has procured a cohort and temple officers. Lanterns, torches, weapons—enough force to take a man who will not run. They bring light into a garden to hunt the Light.\n\nArminian warning: religious officers and imperial steel can move together against Jesus. The hardware is a kind of unbelief: they expect resistance. He will meet them with a question, not a skirmish.",
+      "reformedNotes": "Calvin: such a retinue is a sign of a bad conscience, which always trembles without cause. A borrowed Roman band, a captain, officers from the priests, Pharisees more enraged than the rest.\n\nReformed accent: the world’s apparatus arrives as if the Lamb were a riot. The disproportion preaches: they need a cohort; he will need only a word. Weapons in a prayer-garden already indict the errand."
+    },
+    {
+      "number": 4,
+      "text": "Then Jesus, knowing all that would happen to him, came forward and said to them, “Whom do you seek?”",
+      "arminianNotes": "Shared confession: he knows all that would happen, and he comes forward. Knowledge is not passivity. The Shepherd walks toward the hour and still asks a real question: Whom do you seek?\n\nClassical Arminians: foreknowledge does not make Judas a puppet or the soldiers automata. He knows the band, the bonds, the cup—and still addresses them. The question is sincere speech to men who may yet name him and, in naming, fall.",
+      "reformedNotes": "Knowing all, he came forward. Calvin: not inadvertency; he presents himself of his own accord to traitor and enemies. Wicked men have no power over him except as he permits.\n\nReformed accent: this is decree and willingness together—not a tragedy that overtook an unwitting rabbi. The Son who knows the whole hour still speaks. “Whom do you seek?” is majesty in a question, not a stall for time.",
+      "keyContrast": "Both refuse a surprised Jesus. Shared: he knows all that would happen and comes forward. Arminians typically keep that knowledge together with the betrayer’s real, culpable choice and a question still addressed to hearers. Reformed readers typically hear the same knowledge as the Son walking the Father’s appointed hour, giving his enemies only the power he allows. Do not flatten either into fate-without-speech or into a Jesus who merely guessed well."
+    },
+    {
+      "number": 5,
+      "text": "They answered him, “Jesus of Nazareth.” Jesus said to them, “I am he.” Judas, who betrayed him, was standing with them.",
+      "arminianNotes": "They want Jesus of Nazareth. He answers, I am he—Greek I am, the same self-naming that has run through this Gospel. Judas stands with them, not with the eleven.\n\nArminian hearing: the identification is public and costly. He does not hide the Name. Judas’s stance is a finished choice in this scene: standing with lanterns against the One he had followed. The word is still spoken in his hearing.",
+      "reformedNotes": "I am he: mild as to wording, immense as to who speaks. Judas is located—standing with them—so the betrayal is visible, not a rumor.\n\nReformed reading: the I AM of this Gospel is not a translator’s flourish only. He names himself to an armed band. The betrayer’s place in the line already shows which flock he has joined for the night."
+    },
+    {
+      "number": 6,
+      "text": "When Jesus said to them, “I am he,” they drew back and fell to the ground.",
+      "arminianNotes": "The word drops them. Wesley: how amazing that they renew the assault after so sensible an experience of both his power and his mercy. They felt the Name and got up to bind him anyway.\n\nClassical Arminians: power and mercy in one sentence—he could have destroyed; he lets them rise. The fall is a real warning they can still heed. That they stand up and take him is stubborn refusal, not missing evidence. Grace in the garden is not irresistible in their case.",
+      "reformedNotes": "Calvin: as if by a thunderbolt he lays them prostrate. No want of power to restrain their hands; he obeys the Father’s decree to die. A token of the voice that will strike the earth.\n\nReformed accent: the I AM is not theater. They fall because he speaks. That they are allowed to rise is not weakness; it is the Lamb choosing the cup. The same mouth that floors a cohort will soon be silent before accusers—by will, not by lack.",
+      "keyContrast": "Shared: the I AM knocks them down; he is not overpowered. Arminians (Wesley) typically stress power and mercy together—they experience both and still renew the assault, a resistible warning. Reformed readers (Calvin) typically take the fall as proof they had no power except as he permitted, a preview of judgment’s voice. Neither camp should be heard as denying the miracle or the mercy that let them stand."
+    },
+    {
+      "number": 7,
+      "text": "So he asked them again, “Whom do you seek?” And they said, “Jesus of Nazareth.”",
+      "arminianNotes": "He asks again. After the fall, the same question, the same answer. The repetition is patience, not amnesia.\n\nArminian pastoral note: he gives them another moment to say the Name after they have felt it. They still want Jesus of Nazareth as a capture, not as Lord. The second asking is sincere address to men who have already been warned by the ground.",
+      "reformedNotes": "Calvin on their proceeding: oxen if they fall are touched with feeling; these men, after an open display of power, go on as if they had not seen even the shadow of a man. Judas himself remains unmoved.\n\nReformed weight: a just judgment can leave people stupid toward a miracle they just tasted. The repeated question exposes hardness; it does not mean the first word failed for lack of volume."
+    },
+    {
+      "number": 8,
+      "text": "Jesus answered, “I told you that I am he. So, if you seek me, let these men go.”",
+      "arminianNotes": "If you seek me, let these men go. Wesley: an eminent instance of his power over the spirits of men—they so far obeyed as not to seize even Peter after Malchus’s ear.\n\nArminian reading: he uses the Name to shield friends. The Shepherd’s care is practical in the dark: they came for him; he will not have the eleven swept in. Commanding their release is love with authority, and the band obeys a bound man.",
+      "reformedNotes": "Calvin: the Son not only goes to death of his own accord but discharges a good Shepherd’s office. He sees the wolves and goes forward to guard the flock. Whenever wicked men or devils attack, this Shepherd is ready to aid in the same manner.\n\nReformed accent: “let these men go” is not a plea. It is the Shepherd’s word that keeps. He gives himself and withholds them. The arrest is substitution-shaped even before the cross."
+    },
+    {
+      "number": 9,
+      "text": "This was to fulfill the word that he had spoken: “Of those whom you gave me I have lost not one.”",
+      "arminianNotes": "John hears 17:12 in the garden: of those you gave me I have lost not one. In this hour none of the eleven is seized. Judas is already standing with the band; he is not among “these men.”\n\nClassical Arminians: the keeping is real and fatherly. He does not throw weak disciples into a trial they cannot yet bear. “Given” is true discipleship language in John—not a trick word—and Peter, about to deny, is still among the kept this night. Do not flatten this into “the given can never fail in any sense”; the next scene will show how far a kept man may fall and still be held from being lost as Judas is lost.",
+      "reformedNotes": "Calvin: the quote seems to concern souls more than bodies; John means that by sparing them now Christ made provision for their eternal salvation. Their weakness could not yet stand the test; he rescues them from a destruction that would have been more than arrest.\n\nReformed accent: the given are the Father’s gift (17:6–12). None of them is lost. Judas was the son of destruction, not of that giving. Temporal sparing serves eternal keeping. The word is fulfilled, not approximately fulfilled.",
+      "keyContrast": "Shared: he loses not one of those the Father gave him; Judas is already on the other side of the lanterns. Arminians typically hear a real keeping in this hour that still leaves room for later failure and restoration (Peter)—grace that protects without making the given incapable of stumbling. Reformed readers typically hear John 17’s gift: the given are not lost, and this sparing is how their eternal salvation is preserved. Do not flatten “lost not one” into either a merely tactical jailbreak or a denial that these men can still sin terribly."
+    },
+    {
+      "number": 10,
+      "text": "Then Simon Peter, having a sword, drew it and struck the high priest’s servant and cut off his right ear. (The servant’s name was Malchus.)",
+      "arminianNotes": "Peter has a sword and uses it. Only John names him and names Malchus. Zeal without the Lord’s leave: he will fight for a kingdom Jesus is about to call not-of-this-world.\n\nArminian sympathy and rebuke together: love can still sin. Peter means loyalty; he produces a wound. The ear is as far as flesh can go to stop the cup. Wesley notes that the other evangelists dared not name him while he lived.",
+      "reformedNotes": "Calvin: foolish zeal, bold and courageous, yet so far from praise that Christ severely blames it. In Peter, Christ condemns whatever men dare from their own fancy under the cloak of zeal. He resists appointed power and nearly turns the Lord into a highwayman’s associate.\n\nReformed edge: the man who will not confess with his tongue will riot with a blade. Sword-faith is not the faith of the cup. Malchus named: the gospel remembers the wounded even when the zealot wanted a victory."
+    },
+    {
+      "number": 11,
+      "text": "So Jesus said to Peter, “Put your sword into its sheath; shall I not drink the cup that the Father has given me?”",
+      "arminianNotes": "Shared confession: he drinks the Father’s cup. The question expects yes. Put up the sword—this kingdom is not kept by steel. The cup is given, and he consents to drink it.\n\nClassical Arminians: the will is genuine. He is not a stoic object sliding into fate; he receives the cup from the Father’s hand. Disciples are not authorized to prevent the passion by violence. The same Lord who floored a cohort now refuses a rescue. Obedience here is love, not collapse.",
+      "reformedNotes": "Calvin: the draught appointed for Christ was to suffer the death of the cross for the reconciliation of the world. The Father measured it out and delivered it. Afflictions are as a master’s cups; this one is the Lamb’s.\n\nReformed accent: sword-zeal would hinder a decreed cup. He drinks it as from the Father, not as from Judas or Rome in the last analysis. Shall I not drink? is holy necessity and holy willingness together—the appointed hour, not a last-minute martyrdom Peter might still veto.",
+      "keyContrast": "Shared: Jesus drinks the cup the Father has given; Peter’s sword is out of place. Arminians typically stress a real human will that consents—the cup received, not merely undergone. Reformed readers typically stress the measured, appointed draught for the world’s reconciliation. Do not flatten Gethsemane into theater, or into a death the Father did not give."
+    }
+  ]
+}

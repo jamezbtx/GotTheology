@@ -1,0 +1,103 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 11,
+  "verseStart": 17,
+  "verseEnd": 27,
+  "translation": "ESV",
+  "title": "John 11:17–27",
+  "context": "Jesus finds Lazarus already four days in the tomb. Bethany is near Jerusalem; many Jews have come to console. Martha meets him: if you had been here, my brother would not have died—yet even now God will give you whatever you ask. Jesus says her brother will rise. She answers with the last-day resurrection. He answers: I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this? Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the One who is resurrection and life, and on the whoever that believes—so each camp speaks in its own voice beside John 11:17–27.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Whatsoever thou wilt ask, God will give it thee—So that she already believed he could raise him from the dead. I am the resurrection—Of the dead. And the life—Of the living. He that believeth in me, though he die, yet shall he live—In life everlasting.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 11:22, 25)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I am the resurrection and the life. Christ first declares that he is the resurrection and the life… Now the whole human race is plunged in death; and, therefore, no man will be a partaker of life until he is risen from the dead. Why then is Christ the resurrection? Because by his Spirit he regenerates the children of Adam, who had been alienated from God by sin, so that they begin to live a new life. Away now with those who idly talk that men are prepared for receiving the grace of God by the movement of nature. They might as well say that the dead walk… Accordingly, they who believe in Christ, though they were formerly dead, begin to live, because faith is a spiritual resurrection of the soul.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 11:25)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 17,
+      "text": "Now when Jesus came, he found that Lazarus had already been in the tomb four days.",
+      "arminianNotes": "Four days: beyond popular hope of the soul lingering, past the window of “he only sleeps.” Jesus arrives late by every human clock.\n\nArminian pastoral note: the delay is now visible on the calendar. Martha will still come out to meet him. Lateness does not cancel the invitation that is about to be spoken: whoever believes.",
+      "reformedNotes": "Four days in the tomb is the Father’s staging. Calvin later ties the delay to a work widely removed from human remedy.\n\nReformed framing: glory needed a corpse that had begun to be itself, not a faint. When life comes, it will not be resuscitation-on-time; it will be the voice of the Resurrection."
+    },
+    {
+      "number": 18,
+      "text": "Bethany was near Jerusalem, about two miles off,",
+      "arminianNotes": "Geography serves witness: two miles from the city that will soon plot his death. Consolers can come; news can travel.\n\nArminian note: the sign is not hidden in Galilee. Nearness means more ears for “whoever believes,” and more risk. The invitation and the danger share a road.",
+      "reformedNotes": "Calvin: John traces what certifies the story—near Jerusalem so that many from the city, gathered by a secret decree, would be witnesses, not only the family.\n\nReformed note: providence assembles an audience that did not mean to see a resurrection. The stage is public so unbelief later will be without the excuse of distance."
+    },
+    {
+      "number": 19,
+      "text": "and many of the Jews had come to Martha and Mary to console them concerning their brother.",
+      "arminianNotes": "Many come to console—ordinary mercy around a grave. Grief is allowed; the house is full of it.\n\nClassical Arminians see a crowded mercy that will become a crowded decision. Some of these consolers will believe; some will report to Pharisees. The same sight will meet different responses.",
+      "reformedNotes": "Comfort was their aim; God had another, as Calvin said. The house is respected enough to draw Jerusalem’s many.\n\nReformed reading: mourners are unwittingly stationed as witnesses. Kindness is not mocked; it is overtaken by a larger purpose."
+    },
+    {
+      "number": 20,
+      "text": "So when Martha heard that Jesus was coming, she went and met him, but Mary remained seated in the house.",
+      "arminianNotes": "Wesley: Mary sat in the house, probably not hearing what was said. Martha goes; Mary stays. Temperaments differ in one believing family.\n\nArminian pastoral note: coming out to meet him is already a faith-motion. Martha does not wait for a perfect creed before she moves. The conversation that follows will meet a woman already on the road.",
+      "reformedNotes": "Martha travels beyond the village. Calvin suggests reverence and caution—his danger was fresh; she may have sought a more secret meeting.\n\nReformed note: God uses her going. The Christ she meets will not stay at “if you had been here”; he will name himself resurrection before he names the tomb."
+    },
+    {
+      "number": 21,
+      "text": "Martha said to Jesus, “Lord, if you had been here, my brother would not have died.",
+      "arminianNotes": "If you had been here—love in the subjunctive. She does not stop calling him Lord. The complaint is faith with a bruise, not unbelief with a slogan.\n\nArminian sympathy: people still tell Jesus he came late. He does not scold the sentence off her lips; he will enlarge it. Honest grief can sit beside real trust.",
+      "reformedNotes": "Calvin: she begins with a complaint that modestly carries a wish. Partly faith—she ascribes power and goodness—partly disorderly passion that hurries past the word.\n\nReformed care: she had no promise that his bodily presence would have prevented death. Faith must be tied to what he has said, not to what we wish he had done sooner."
+    },
+    {
+      "number": 22,
+      "text": "But even now I know that whatever you ask from God, God will give you.”",
+      "arminianNotes": "Wesley: so that she already believed he could raise him from the dead. Even now—after four days—she has not shut the book. Whatever you ask, God will give you.\n\nClassical Arminians hear a living faith-response under grief. She has not been regenerated as a stone; she knows, asks, hopes. The later confession (v. 27) will clarify this “even now,” not cancel it as theater.",
+      "reformedNotes": "Calvin granted that ascribing power and goodness proceeds from faith, yet she persuades herself of more than she had heard him declare—and that has nothing to do with faith, which must agree with the word.\n\nReformed caution: “even now” is sparks, not full brightness. Mixed desire is real; it still needs the Word that follows, I am the resurrection, before hope is safe.",
+      "keyContrast": "Shared ground: Martha’s “even now” is not cynicism. Arminians typically take it as genuine faith already reaching for a present raising. Reformed readers typically take it as mixed: true sparks of faith tangled with wishes beyond the word, which Christ will both forgive and correct."
+    },
+    {
+      "number": 23,
+      "text": "Jesus said to her, “Your brother will rise again.”",
+      "arminianNotes": "A promise without a date. Your brother will rise again—enough to hold a sister, open enough that she hears the last day first.\n\nArminian note: he gives more than she dared ask straight, as Calvin also saw in his kindness. The word is meant to be believed now, not filed under eschatology only.",
+      "reformedNotes": "Calvin: the kindness of Christ is amazing, forgiving the faults just named and promising of his own accord more than she had ventured plainly to ask.\n\nReformed accent: the promise is his gift, not her extraction. Rise again will mean both last-day hope and a sign in this village, because he is what he is about to say."
+    },
+    {
+      "number": 24,
+      "text": "Martha said to him, “I know that he will rise again in the resurrection on the last day.”",
+      "arminianNotes": "She knows the common hope of Israel: resurrection on the last day. It is true, and it is not yet as large as the One in front of her.\n\nArminian hearing: orthodox future-tense faith can still miss a present Lord. He will not mock her knowledge; he will personalize it. The last day remains; I AM stands in Bethany today.",
+      "reformedNotes": "Calvin: now she falls the other way—when Christ stretches out his hand she stops short, as if alarmed. She had fabricated a hope from her feelings; now she extenuates his words.\n\nReformed warning: both extremes kill—empty hopes without the word, and closed hearts when God opens his mouth. She wants to know if he means something greater than the last day. He does: himself."
+    },
+    {
+      "number": 25,
+      "text": "Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live,",
+      "arminianNotes": "I AM—not I arrange a resurrection, but I am it. Wesley: the resurrection of the dead; the life of the living. Whoever believes in me, though he die, yet shall he live—in life everlasting.\n\nThis is a sincere universal invitation. Whoever is not a trap word. Classical Arminians preach it to Martha and to every hearer: the condition named is believing in him. Death does not veto the believer; unbelief does. The same Lord who is resurrection himself still asks, in the next breath, Do you believe this?",
+      "reformedNotes": "Calvin: he is the resurrection because restoration from death comes before the state of life. The whole human race is plunged in death; no one partakes of life until risen. He is the commencement of life; continuance is also his grace.\n\nReformed center: Jesus is resurrection itself, not a helper to our native spark. “Whoever believes” is as large as faith—and faith is the Spirit’s raising of the dead, not nature’s motion. Away, said Calvin, with talk that men are prepared for grace by nature: that is saying the dead walk. Life is given to those who believe as the Father’s gift in the Son.",
+      "keyContrast": "Do not flatten the verse. Shared ground: Jesus himself is the resurrection and the life, and whoever believes in him shall live though he die. Arminians typically take “whoever believes” as a sincere invitation to all hearers, with Martha soon answering in real faith; death is not the end of the believer, and the call is as wide as the word whoever. Reformed readers typically take the same whoever as truly promising life to every believer, while holding that Jesus is resurrection itself who, by the Spirit, makes the dead live—faith the Father’s gift, not a movement of nature."
+    },
+    {
+      "number": 26,
+      "text": "and everyone who lives and believes in me shall never die. Do you believe this?”",
+      "arminianNotes": "Everyone who lives and believes shall never die—and then the question lands on a named woman: Do you believe this? Wesley’s “he that believeth… shall live in life everlasting” is pressed into a present decision.\n\nArminian hinge: Jesus does not announce a closed list; he asks. The question is sincere. Martha can say yes or stall. “Everyone who… believes” keeps the door as wide as living faith, and the “you” keeps it personal. This is not theater over a decree she cannot answer.",
+      "reformedNotes": "Calvin: this is how he is the life—he never permits the life once bestowed to be lost, but preserves it to the end. Perpetuity is founded on his power, that he may complete what he has begun. Believers “never die” because souls born of incorruptible seed have Christ dwelling in them.\n\nReformed weight: “Do you believe this?” is the Son creating and drawing out the faith he gives. The question is real address; the life promised is his ongoing gift, not Martha’s grip. Those who live and believe shall never die because he keeps them.",
+      "keyContrast": "Shared ground: living believers shall never die, and Jesus asks Martha if she believes it. Arminians typically hear a universal, resistible invitation whose “everyone who believes” is honest toward all, with the question awaiting her free yes. Reformed readers typically hear the Son who is life preserving those he has quickened—the question effectual in the sheep, the never-dying a gift he finishes, not a possibility hanging on independent will."
+    },
+    {
+      "number": 27,
+      "text": "She said to him, “Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world.”",
+      "arminianNotes": "Yes, Lord—I believe. She answers the question with the church’s confession: the Christ, the Son of God, the Coming One. This is a real faith-response, not a ventriloquized formula.\n\nClassical Arminians take Martha at her word. Grief, incomplete understanding of the tomb, and true faith can coexist. She believes in the One who is resurrection and life. The later wobble at the stone (v. 39) shows that faith can be real and still need strengthening—not that this yes was fake.",
+      "reformedNotes": "Calvin: to prove she believes he is the resurrection and the life, she replies that he is the Christ and the Son of God—this knowledge including the sum of all blessings. She strengthens faith by the prophets’ predictions of the One who was to come.\n\nReformed confession: the full restoration is to be expected from him. Her yes is God’s work in a sister he loves, aligning her with the truth just revealed. It does not make her the author of life; it receives the Life who has spoken.",
+      "keyContrast": "Shared ground: Martha’s confession is true Christian faith in the Christ who is Son of God. Arminians typically treat “Yes, Lord; I believe” as her responsible, grace-enabled answer to a sincere question. Reformed readers typically treat the same confession as the fruit of the Life who has addressed her—real faith, given, not self-generated, still soon to be schooled at the grave."
+    }
+  ]
+}

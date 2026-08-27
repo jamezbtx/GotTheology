@@ -1,0 +1,107 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 9,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "John 9:1–12",
+  "context": "As he passes by, Jesus sees a man blind from birth. The disciples ask who sinned. Jesus refuses the dilemma: it was not that this man or his parents sinned, but that the works of God might be displayed in him. Night is coming; while he is in the world he is the light. He makes mud with spit, anoints the man’s eyes, and sends him to Siloam (Sent). The man goes, washes, and comes seeing. Neighbors dispute his identity; he testifies that he is the man, and that he does not know where Jesus is.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the man born blind, the works of God displayed, and the washing at Siloam—so each camp speaks in its own voice beside John 9:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The scope of his answer is, It was neither for any sins of his own, nor yet of his parents; but that the power of God might be displayed. I am the light of the world—I teach men inwardly by my Spirit, and outwardly by my preaching, what is the will of God; and I show them, by my example, how they must do it. He went and washed, and came seeing—He believed, and obeyed, and found a blessing. Had he been wise in his own eyes, and reasoned, like Naaman, on the impropriety of the means, he had justly been left in darkness.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 9:3, 5, 7)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This man, he says, was born blind, that the works of God might be manifested in him… For the condition of our nature is delineated in the person of one man, that we are all destitute of light and understanding from the womb, and that we ought to seek the cure of this evil from Christ alone… The astonishing goodness of God is displayed in this respect, that he comes of his own accord to cure the blind man, and does not wait for his prayers to bestow help. And, indeed, since we are by nature averse to him, if he do not meet us before we call on him, and anticipate by his mercy us who are plunged in the forgetfulness of light and life, we are ruined.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 9:3, 7)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "As he passed by, he saw a man blind from birth.",
+      "arminianNotes": "Jesus sees. The man does not hunt the Healer down; the Lord notices a lifetime of darkness as he passes. Blind from birth is not a prop for a riddle—it is a person about to be addressed by mercy.\n\nArminian pastoral note: the seeing is already kindness. Classical Arminians do not require the beggar to have asked first in order for the Light to draw near; they do say that when the Light comes, a real response will be asked of him.",
+      "reformedNotes": "Passing by is not accident. The Son sees what the Father means to display. Congenital blindness is the canvas of the sign, not a surprise that interrupts the day’s itinerary.\n\nReformed framing: initiative sits in the verb “saw.” Calvin will later say Christ comes of his own accord and does not wait for prayers. The chapter begins with the Lord’s sight, not the beggar’s request."
+    },
+    {
+      "number": 2,
+      "text": "And his disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?”",
+      "arminianNotes": "Rabbi, who sinned—this man or his parents? They treat congenital suffering as a courtroom with two defendants. Wesley notes that many Jews even supposed a pre-existent sin, without ground from Scripture.\n\nArminian caution: the question becomes pastoral poison if it is our first move around pain. Misery is not a simple ledger of whose fault. The coming answer will refuse to let curiosity about blame replace mercy.",
+      "reformedNotes": "Calvin names three errors in our rush to diagnose others’ pain: we spare ourselves, we over-condemn the sufferer, and we treat every cross as proof of special guilt.\n\nReformed note: Scripture does say the world’s distresses arise from sin, yet God has more purposes in affliction than punishment. The disciples’ either/or is too small for providence—and the idea that this man sinned before birth is, Calvin says, a rash labyrinth."
+    },
+    {
+      "number": 3,
+      "text": "Jesus answered, “It was not that this man sinned, or his parents, but that the works of God might be displayed in him.",
+      "arminianNotes": "Not that this man sinned, or his parents, but that the works of God might be displayed in him. Jesus will not settle their speculative court. Wesley: the scope of the answer is that the power of God might be displayed.\n\nClassical Arminians hear both a refusal of karmic blame and a purpose: God intends to show his works in this man. Display is not cruelty dressed as theology; it is the stage on which mercy will act, and the man will soon believe, obey, and see.",
+      "reformedNotes": "Calvin: Christ does not say they were free of all blame, but that we ought not to seek the cause of the blindness in sin. He uses the plural “works”: while the man was blind, severity taught fear; the cure then displayed astonishing goodness.\n\nReformed accent: this life is taken up into God’s self-glorifying purpose. That is not a denial of the man’s personhood. It is why, Calvin says, this must be exhibited on the theater of the world as the true cause—that God glorify his name.",
+      "keyContrast": "Both refuse a neat “who sinned” ledger for this blindness. Arminians typically stress that the display of God’s works includes a genuine call to trust the means of healing; Reformed readers typically stress that God appointed the affliction and the cure so that his works would be manifested, the man an instrument of that glory."
+    },
+    {
+      "number": 4,
+      "text": "We must work the works of him who sent me while it is day; night is coming, when no one can work.",
+      "arminianNotes": "We must work while it is day; night is coming when no one can work. Wesley: no one can do anything toward working out salvation after this life is ended; yet Christ can work always, though his earthly season is appointed.\n\nArminian urgency: day is opportunity. The Light is present; delay is not neutral. Hearers are summoned into that daylight rather than postponed to a night that cannot work.",
+      "reformedNotes": "Calvin: day names the time the Father fixed for the Son’s assigned work; every calling has its day, and short light should shame idleness.\n\nReformed weight: “must” is the Son’s obedience to the Sender, not a gamble with chance. The night of his death will withdraw the view of his bodily presence; the works of this day are decreed labor, not optional charity."
+    },
+    {
+      "number": 5,
+      "text": "As long as I am in the world, I am the light of the world.”",
+      "arminianNotes": "As long as I am in the world, I am the light of the world. Wesley: he teaches men inwardly by his Spirit and outwardly by his preaching what the will of God is, and shows by example how they must do it.\n\nArminian hearing: Light is here to be received. Teaching, example, and Spirit are given so people may walk. Remaining in dark once the Light has come is refusal, not lack of a lamp.",
+      "reformedNotes": "Calvin: Christ compares himself to the sun; his death resembles sunset, withdrawing the view of the light from the world, not extinguishing it. His manifestation in flesh was a bright day for illustrating God’s glory.\n\nReformed center: he does not say he offers a light if we will switch it on. He is the light. Those without this guide grope. Illumination is a person present by the Father’s timing."
+    },
+    {
+      "number": 6,
+      "text": "Having said these things, he spit on the ground and made mud with the saliva. Then he anointed the man’s eyes with the mud",
+      "arminianNotes": "Spit, mud, anointing. Wesley: this might almost have blinded a sighted man—what could it do toward curing the blind? It reminds us that God is no farther from the event when he works with or without means, and that creatures are only what his almighty operation makes them.\n\nArminian note: odd means test humble trust. The man will have to accept a method he cannot improve. Recovering grace often arrives in forms pride would refuse.",
+      "reformedNotes": "Calvin: the operation looks absurd, as if doubling the blindness; Christ intended to try the man’s faith and obedience. Clay recalls creation: as man was made of clay, the Restorer shows the same power over a part of the body that the Father displayed in forming the whole.\n\nReformed trial: the sign is not magic mud. It is the Lord’s word attached to a creature, proving all things are at his disposal—and that faith clings to a bare command."
+    },
+    {
+      "number": 7,
+      "text": "and said to him, “Go, wash in the pool of Siloam” (which means Sent). So he went and washed and came back seeing.",
+      "arminianNotes": "Go, wash in Siloam (Sent). He went, washed, came seeing. Wesley: he believed, and obeyed, and found a blessing; had he been wise in his own eyes and reasoned like Naaman on the impropriety of the means, he had justly been left in darkness.\n\nClassical Arminians linger here. The Light’s command meets a real going. Means do not save by themselves; refusing the means would have left him dark. Coming to the pool is the pattern of coming to the Light: grace recovers, and the will really moves.",
+      "reformedNotes": "Calvin: neither clay nor Siloam had power to cure; Christ used outward symbols. The name Sent daily reminded Jews of the coming One they now despise. The condition of our nature is delineated in this one man: all destitute of light and understanding from the womb, and the cure is to be sought from Christ alone. He comes of his own accord and does not wait for prayers.\n\nReformed accent: the man obeys, yes—but the initiative, the power, and the interpretation (Sent) are Christ’s. Blindness from the womb is our condition; washing is gift before it is homework.",
+      "keyContrast": "Shared ground: he went, washed, and saw. Arminians typically take the going as a genuine, grace-enabled response without which he would have remained dark; Reformed readers typically take the same obedience as the fruit of Christ’s prior, unasked approach—power in the Sent One, not in the pool."
+    },
+    {
+      "number": 8,
+      "text": "The neighbors and those who had seen him before as a beggar were saying, “Is this not the man who used to sit and beg?”",
+      "arminianNotes": "Neighbors recognize a beggar and cannot quite believe the change. Public memory becomes a witness: this was the man who sat and begged.\n\nArminian pastoral: grace that heals does not hide. The man’s former life is known; the new sight will have to be confessed among people who remember the dark.",
+      "reformedNotes": "Calvin: being known contributed to the fame of the miracle. Impiety is ingenious in obscuring the works of God; many thought it was not the same man because a new power of God openly appeared in him.\n\nReformed note: the more brightly God’s majesty is displayed, the less credit some give. Neighbor-doubt will force clearer testimony."
+    },
+    {
+      "number": 9,
+      "text": "Some said, “It is he.” Others said, “No, but he is like him.” He kept saying, “I am the man.”",
+      "arminianNotes": "Some say it is he; others, he is like him. He keeps saying, I am the man. Identity is not a trick; he will not let them dissolve the miracle into resemblance.\n\nArminian courage already: he owns his story. Coming to the light includes telling the truth about who you were and who you are now.",
+      "reformedNotes": "The man’s “I am” is simple fact against a split crowd. God does not need the neighbors’ consensus to have opened eyes.\n\nReformed reading: unbelief starts as identity-skepticism. The healed man becomes a standing contradiction to “this cannot have happened.”"
+    },
+    {
+      "number": 10,
+      "text": "So they said to him, “Then how were your eyes opened?”",
+      "arminianNotes": "How were your eyes opened? The question is right if it wants a witness; wrong if it only wants a loophole.\n\nArminian: he will tell them the how—Jesus, mud, Siloam, washing. Light invites explanation; it does not owe a philosophy seminar before the mercy counts.",
+      "reformedNotes": "How-questions can be honest or evasive. John will let the facts pile up until “how” becomes “who.”\n\nReformed: the opened eyes are the work; the explanation is a man named Jesus. Mechanism will not replace the Worker."
+    },
+    {
+      "number": 11,
+      "text": "He answered, “The man called Jesus made mud and anointed my eyes and said to me, ‘Go to Siloam and wash.’ So I went and washed and received my sight.”",
+      "arminianNotes": "The man called Jesus made mud, sent him; he went, washed, received sight. Wesley: he seems to have been before totally ignorant of him.\n\nArminian beauty: partial knowledge still speaks truly. He does not yet know where Jesus is or who he fully is; he already traces the gift to Jesus’ word and his own going. Faith can begin as honest report.",
+      "reformedNotes": "Calvin: so happy a result of obedience warns us to surmount every obstacle and proceed wherever the Lord calls, not doubting that what we undertake by his authority will have a prosperous issue.\n\nReformed comfort: the name “Jesus” is already enough to locate the work. Sight is received, not self-invented. Ignorance of Christ’s full identity does not cancel the gift already given."
+    },
+    {
+      "number": 12,
+      "text": "They said to him, “Where is he?” He said, “I do not know.”",
+      "arminianNotes": "Where is he? I do not know. Honesty again. He will not pretend a theology he does not have.\n\nArminian: not knowing Jesus’ location is not the same as refusing light. He has come as far as he can; the Pharisees will soon demand more than he has, and later Jesus will find him.",
+      "reformedNotes": "The Healer is absent from the interrogation to come. The sign stands without Jesus on the premises—enough to obligate, not yet the fuller disclosure of vv. 35–38.\n\nReformed patience: Christ will seek this man again. For now the testimony is “I do not know where,” which is truer than a forced speculation."
+    }
+  ]
+}

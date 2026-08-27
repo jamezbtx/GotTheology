@@ -1,0 +1,82 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 13,
+  "verseStart": 31,
+  "verseEnd": 38,
+  "translation": "ESV",
+  "title": "John 13:31–38",
+  "context": "When Judas has gone, Jesus says now the Son of Man is glorified, and God in Him. He will be with them only a little longer; they cannot follow now. A new commandment: love one another as He has loved them; by this all will know they are His disciples. Peter asks why he cannot follow now and vows his life. Jesus answers with the rooster: the denier before dawn.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the new commandment and a disciple’s vowed life—so each camp speaks in its own voice beside John 13:31–38.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "A new commandment I give unto you, that ye love one another; as I have loved you. By this shall all men know that ye are my disciples. Wilt thou lay down thy life for my sake? The cock shall not crow, till thou hast denied me thrice.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 13:34–38)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The commandment is called new, because he sets before them his own example. By this love they will be known as his. Peter’s rash confidence is reproved: he will deny him thrice before the cock crows.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 13:34–38)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 31,
+      "text": "When he had gone out, Jesus said, “Now is the Son of Man glorified, and God is glorified in him.",
+      "arminianNotes": "Gone out, now glorified. The night of v. 30 is, in His mouth, the now of glory.\n\nArminian now: Judas’s exit starts the public path to the cross, and Jesus calls that glorifying. Glory is not only later shine; it is obedient love visible.",
+      "reformedNotes": "Now: after the traitor’s leaving, glory language.\n\nReformed now: the hour of 12:23 and 13:1 speaks. God glorified in the Son of Man includes this handing-over."
+    },
+    {
+      "number": 32,
+      "text": "If God is glorified in him, God will also glorify him in himself, and glorify him at once.",
+      "arminianNotes": "If / will / at once: the Father’s answering glory is not delayed to a remote age only.\n\nArminian soon: at once includes resurrection and the name above every name, pledged to the One walking toward Friday.",
+      "reformedNotes": "God will glorify him in himself, at once.\n\nReformed exchange: the Son’s glorifying of God is met by God’s glorifying of the Son. At once is the Father’s speed."
+    },
+    {
+      "number": 33,
+      "text": "Little children, yet a little while I am with you. You will seek me, and just as I said to the Jews, so now I also say to you, ‘Where I am going you cannot come.’",
+      "arminianNotes": "Little children—tender, after glory-talk. A little while; you cannot come where I am going, the same line once said to “the Jews.”\n\nArminian ache: even His own cannot follow this hour. 14:1–3 will promise a later taking; tonight’s cannot is real.",
+      "reformedNotes": "Little children / cannot come. The restriction is for this going.\n\nReformed distinction: later they will follow (v. 36). The cannot is timed to the unique hour of atonement."
+    },
+    {
+      "number": 34,
+      "text": "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another.",
+      "arminianNotes": "New commandment: love one another as I have loved you. New because the measure is now His own love, heading to the basin and the cross. Wesley and Calvin both mark the example.\n\nArminian ethic: this is command, not mood. As I have loved you is the standard grace enables in a people who must actually love.",
+      "reformedNotes": "Calvin: new because He sets His own example. Just as I have loved you.\n\nReformed newness: Leviticus already said love neighbor; the newness is the as of the crucified Lord as the community’s law.",
+      "keyContrast": "Shared: the new command is mutual love measured by Jesus’ love. Arminians typically emphasize the enabled duty of the as. Reformed readers typically emphasize that His prior love is both pattern and power of theirs."
+    },
+    {
+      "number": 35,
+      "text": "By this all people will know that you are my disciples, if you have love for one another.”",
+      "arminianNotes": "The world’s knowledge of their discipleship hangs on if you have love. Apologetics here is a common life.\n\nArminian public: all people will know—or not. The if is the church’s visible test, sincerely laid on them.",
+      "reformedNotes": "By this all will know / if you have love.\n\nReformed mark: doctrine without this love fails the Lord’s own ID badge. The if is the appointed evidence, not a rival gospel."
+    },
+    {
+      "number": 36,
+      "text": "Simon Peter said to him, “Lord, where are you going?” Jesus answered him, “Where I am going you cannot follow me now, but you will follow afterward.”",
+      "arminianNotes": "Where? Cannot now, will afterward. Peter’s story is already a now and a later (21:19).\n\nArminian hope: the cannot is not a never. Afterward includes restoration after the rooster. Following is still the calling.",
+      "reformedNotes": "Cannot now / will afterward: Peter’s two tenses.\n\nReformed pastoral: the Lord writes Peter’s martyrdom into afterward while forbidding tonight’s heroics."
+    },
+    {
+      "number": 37,
+      "text": "Peter said to him, “Lord, why can I not follow you now? I will lay down my life for you.”",
+      "arminianNotes": "Why not now, plus a vow of his life. The will is loud and sincere and about to fail.\n\nArminian Peter: zeal is not the same as ability. He needs the washing he almost refused and the Spirit not yet given; the vow without that is a trap.",
+      "reformedNotes": "Why can I not / I will lay down my life. Rash confidence, Calvin said.\n\nReformed reverse: the Shepherd will lay down His life for Peter, not first the other way. The vow inverts the gospel."
+    },
+    {
+      "number": 38,
+      "text": "Jesus answered, “Will you lay down your life for me? Truly, truly, I say to you, the rooster will not crow till you have denied me three times.",
+      "arminianNotes": "Will you?—then the rooster and three denials before dawn. Foreknowledge is mercy that will hurt.\n\nArminian warning: a real disciple can deny. The prediction is meant to be remembered when he weeps, so that afterward (v. 36) still stands. Falling is not treated as impossible, nor as the last word.",
+      "reformedNotes": "Will you lay down your life for me? The question unmasks the vow. Three times before the crow.\n\nReformed mercy in the wound: Jesus knows the denials and still calls him little child, still promises afterward. Peter’s collapse is certain tonight; it is not the end of being His."
+    }
+  ]
+}

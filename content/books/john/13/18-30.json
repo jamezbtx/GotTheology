@@ -1,0 +1,112 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 13,
+  "verseStart": 18,
+  "verseEnd": 30,
+  "translation": "ESV",
+  "title": "John 13:18–30",
+  "context": "He is not speaking of all of them. Scripture must be fulfilled: he who ate bread lifted his heel. He tells them before it happens so they will believe. The one who receives whom He sends receives Him and the Sender. Troubled in spirit, He discloses that one will betray Him. The beloved disciple, at Peter’s nod, asks who. Jesus dips the morsel, gives it to Judas; Satan enters him. “What you are going to do, do quickly.” Judas goes out. It was night.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the betrayer at the table and the night he entered—so each camp speaks in its own voice beside John 13:18–30.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I speak not of you all; I know whom I have chosen. He it is to whom I shall give a sop. After the sop, Satan entered into him. He then having received the sop went immediately out: and it was night.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 13:18, 26–30)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I know whom I have chosen. The Scripture must be fulfilled. Satan entered into him: he was already the devil’s, and now is given up. It was night: a fit time for the work of darkness.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 13:18, 27, 30)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "I am not speaking of all of you; I know whom I have chosen. But the Scripture will be fulfilled, ‘He who ate my bread has lifted his heel against me.’",
+      "arminianNotes": "Not all; I know whom I have chosen. Psalm 41 must be fulfilled in a table-companion’s heel. Wesley noted the not-all.\n\nArminian reading: chosen here is the Eleven in contrast to Judas—His knowing is not confusion. Fulfillment does not make Judas a victim without a heel of his own; lifting the heel is still his act.",
+      "reformedNotes": "Calvin: I know whom I have chosen. Scripture must be fulfilled.\n\nReformed pairing: Jesus’ knowledge of His chosen and Scripture’s must sit together with Judas’s real treachery. The heel is guilty and written.",
+      "keyContrast": "Shared: Jesus knows His chosen; Scripture is fulfilled in the betrayer at bread. Arminians typically refuse to let fulfillment erase Judas’s agency. Reformed readers typically refuse to let agency erase that Jesus knew and Scripture stood."
+    },
+    {
+      "number": 19,
+      "text": "I am telling you this now, before it takes place, that when it does take place you may believe that I am he.",
+      "arminianNotes": "Told beforehand so that when it happens they may believe that I am. Betrayal itself becomes a faith-argument.\n\nArminian so that: He wants their believing to survive the scandal. The I am is the point, even of this wound.",
+      "reformedNotes": "Before it takes place / you may believe that I am he.\n\nReformed use of evil: the treachery will confirm, not cancel, His identity for those who remember this sentence."
+    },
+    {
+      "number": 20,
+      "text": "Truly, truly, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me.”",
+      "arminianNotes": "Whoever receives the sent receives Jesus and the Father. Mission is personal identification.\n\nArminian sending: after a betrayal warning, a reception promise. The church’s sent ones still carry this whoever of welcome.",
+      "reformedNotes": "Truly, truly: chained reception—sent / me / Sender.\n\nReformed identification: to receive His messenger is to receive the chain of God. Judas’s going out does not void this for the others He will send."
+    },
+    {
+      "number": 21,
+      "text": "After saying these things, Jesus was troubled in his spirit, and testified, “Truly, truly, I say to you, one of you will betray me.”",
+      "arminianNotes": "Troubled in spirit, then the testimony: one of you. Love to the end includes this distress.\n\nArminian Jesus: not a stoic. The betrayal of a friend wrenches Him, and He still tells the truth.",
+      "reformedNotes": "Troubled, testified, truly truly. One of you—the circle is the wound.\n\nReformed emotion: the Word made flesh is troubled. Disclosure is costly and necessary."
+    },
+    {
+      "number": 22,
+      "text": "The disciples looked at one another, uncertain of whom he spoke.",
+      "arminianNotes": "Looks around the table, uncertainty. No one points first at Judas.\n\nArminian humility: they examine one another, even themselves (in the Synoptics). Uncertainty is healthier than “not me.”",
+      "reformedNotes": "Uncertain of whom: the secret is not obvious to flesh.\n\nReformed hiddenness: the betrayer is still in their fellowship-sight as one of them."
+    },
+    {
+      "number": 23,
+      "text": "One of his disciples, whom Jesus loved, was reclining at table at Jesus’ side,",
+      "arminianNotes": "The beloved, at His side. Love named as the disciple’s identity in this Gospel.\n\nArminian nearness: reclining at His side is John’s picture of the share Peter feared to lose. Intimacy is gift.",
+      "reformedNotes": "Whom Jesus loved: the narrator’s name for himself or his figure.\n\nReformed near: the side-place will be the asking-place (v. 25). Love here is Jesus’ love."
+    },
+    {
+      "number": 24,
+      "text": "so Simon Peter motioned to him to ask Jesus of whom he was speaking.",
+      "arminianNotes": "Peter prompts the one closer. Hierarchy of access at a table.\n\nArminian church: we often need a brother to ask the question we cannot. Peter’s motion is not cowardice only; it is using the beloved’s place.",
+      "reformedNotes": "Motioned to ask: Peter still leading from a seat not the bosom.\n\nReformed staging: two disciples, one question, the Lord’s answer with a morsel."
+    },
+    {
+      "number": 25,
+      "text": "So that disciple, leaning back against Jesus, said to him, “Lord, who is it?”",
+      "arminianNotes": "Leaning back against Jesus, Lord, who is it? The question is whispered from contact.\n\nArminian prayer-posture: who-is-it is asked from against-Him, not from a cold row.",
+      "reformedNotes": "Leaning back: the physical of 13:23 becomes speech.\n\nReformed ask: the beloved puts Peter’s question into the Lord’s ear."
+    },
+    {
+      "number": 26,
+      "text": "Jesus answered, “It is he to whom I will give this morsel of bread when I have dipped it.” So when he had dipped the morsel, he gave it to Judas, the son of Simon Iscariot.",
+      "arminianNotes": "The sign is a dipped morsel given. Honor-gesture as identification. He gives bread to the heel-lifter.\n\nArminian pain: the last gift before the night is food from Jesus’ hand. Judas receives bread and will not receive the Lord.",
+      "reformedNotes": "Morsel dipped and given: the named man is Judas son of Simon.\n\nReformed particularity: no riddle left for the beloved. The gift of bread and the gift of identity fall on the same man."
+    },
+    {
+      "number": 27,
+      "text": "Then after he had taken the morsel, Satan entered into him. Jesus said to him, “What you are going to do, do quickly.”",
+      "arminianNotes": "After the morsel, Satan entered. Then Jesus’ do quickly. Agency is layered: Satan, Judas, and Jesus’ command to hasten.\n\nArminian layers: entering does not erase Judas’s going-to-do. He is not excused as occupied housing; he is told to do what he is going to do, and he will walk out.",
+      "reformedNotes": "Calvin: already the devil’s, now given up. Do quickly is not permission as approval; it is sovereign haste over a chosen evil.\n\nReformed handing-over: Satan enters, and the hour moves at Jesus’ word. Darkness does not seize the timetable."
+    },
+    {
+      "number": 28,
+      "text": "Now no one at the table knew why he said this to him.",
+      "arminianNotes": "The table does not understand do quickly. Even with the morsel, they miss.\n\nArminian opacity: spiritual crisis can sit in a room of friends who are still thinking about groceries (v. 29).",
+      "reformedNotes": "No one knew why. The beloved may know who, not yet why the quickly.\n\nReformed hidden hour: Jesus and Judas share a meaning the others do not."
+    },
+    {
+      "number": 29,
+      "text": "Some thought that, because Judas had the moneybag, Jesus was telling him, “Buy what we need for the feast,” or that he should give something to the poor.",
+      "arminianNotes": "Moneybag logic: feast or poor. They interpret in the only ledger they have.\n\nArminian misread: good guesses (charity, feast) can be completely wrong. We still baptize others’ exits with innocent errands.",
+      "reformedNotes": "Treasurer explanations. Feast / poor: reasonable and false.\n\nReformed irony: the thief of 12:6 is thought to be on a mercy run. Night will correct the minutes."
+    },
+    {
+      "number": 30,
+      "text": "So, after receiving the morsel of bread, he immediately went out. And it was night.",
+      "arminianNotes": "Received, immediately out, and it was night. Wesley and Calvin both felt the night. Light has come; a man walks into dark with bread from Jesus still in the story.\n\nArminian tragedy: going out is chosen motion into night. The hour of 13:1 is now Judas’s hour too, and the door was not locked.",
+      "reformedNotes": "Calvin: a fit time for the work of darkness. Immediately went out.\n\nReformed night: more than clock. John 1’s darkness, 3:19’s loved dark, here walks on two feet."
+    }
+  ]
+}
