@@ -1,0 +1,11 @@
+# Guessed URLs without /bible/ (Netlify Analytics 404s like /ephesians/2)
+/genesis           /bible/genesis/           301
+/genesis/*         /bible/genesis/:splat     301
+/matthew           /bible/matthew/           301
+/matthew/*         /bible/matthew/:splat     301
+/john              /bible/john/              301
+/john/*            /bible/john/:splat        301
+/ephesians         /bible/ephesians/         301
+/ephesians/*       /bible/ephesians/:splat   301
+/colossians        /bible/colossians/        301
+/colossians/*      /bible/colossians/:splat  301
