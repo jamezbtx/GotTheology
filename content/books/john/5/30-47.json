@@ -1,0 +1,145 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 5,
+  "verseStart": 30,
+  "verseEnd": 47,
+  "translation": "ESV",
+  "title": "John 5:30–47",
+  "context": "Jesus names the witnesses to his mission—John, the works, the Father, the Scriptures—and charges his hearers with refusing to come to him for life.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the witnesses to Jesus and the charge “you refuse to come to me that you may have life”—so each camp speaks in its own voice beside John 5:30–47.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "These things—Concerning John, whom ye yourselves reverence, I say, that ye may be saved—So really and seriously did he will their salvation. Yet they were not saved. Most, if not all of them, died in their sins. Yet ye will not come unto me—As they direct you. But I know you—With this ray he pierces the hearts of the hearers. And this doubtless he spake with the tenderest compassion.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 5:34, 40, 42)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This is the true way of profiting, when the word of God takes root in us, so that, being impressed on our hearts, it has its fixed abode there. Christ affirms that the heavenly doctrine has no place among the Jews, because they do not receive the Son of God. And you will not come to me. He again reproaches them that it is nothing but their own malice that hinders them from becoming partakers of the life offered in the Scriptures; for when he says that they will not, he imputes the cause of their ignorance and blindness to wickedness and obstinacy.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 5:38, 40)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 30,
+      "text": "\"I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me.",
+      "arminianNotes": "The Son’s judgment is just because it is not self-willed. Wesley: it is impossible he should do anything separately from the Father. Hearers may trust this Judge; he is not an independent rival to the Father, nor a threat to sincere faith.",
+      "reformedNotes": "As in v. 19: one will, one judgment. The incarnate Son seeks the Sender’s will. Just judgment flows from that unity, not from consulting human courts."
+    },
+    {
+      "number": 31,
+      "text": "If I alone bear witness about myself, my testimony is not true.",
+      "arminianNotes": "Jesus concedes their legal standard: a lone self-witness is not enough. He will pile up witnesses so that unbelief is without excuse.",
+      "reformedNotes": "He does not mean his word would be false if isolated—that is impossible—but that, in their courtroom, self-testimony is inadmissible. He therefore points beyond himself."
+    },
+    {
+      "number": 32,
+      "text": "There is another who bears witness about me, and I know that the testimony that he bears about me is true.",
+      "arminianNotes": "The “another” is the Father (v. 37). Jesus knows that witness is true—an invitation to take the Father’s testimony as seriously as he does.",
+      "reformedNotes": "The Father’s witness is the decisive one. Jesus’ certainty is the Son’s knowledge of the Father, not a guess hoping they will ratify him."
+    },
+    {
+      "number": 33,
+      "text": "You sent to John, and he has borne witness to the truth.",
+      "arminianNotes": "They themselves commissioned the inquiry to John. His witness to the truth still stands; they cannot pretend they were never told.",
+      "reformedNotes": "John is their own witness, brought in by their embassy. Even a lamp they once honored testifies—and they are already walking away from the light he pointed to."
+    },
+    {
+      "number": 34,
+      "text": "Not that the testimony that I receive is from man, but I say these things so that you may be saved.",
+      "arminianNotes": "Here is the pulse of the paragraph. Wesley: so really and seriously did he will their salvation. The persecutors of v. 16 are the ones he wants saved. The will to save is sincere; that most of them died in their sins is their refusal, not his hidden opposite will.",
+      "reformedNotes": "He does not depend on human testimony, yet he recites John’s witness “so that you may be saved.” The words are a real outward call and a true kindness—without treating that call as effectual for all who hear it. Salvation is the aim of the testimony; life is still given to whom the Son will (v. 21).",
+      "keyContrast": "Arminians take “that you may be saved” as Christ’s sincere will for these very hearers; the Reformed take it as the genuine outward offer of the gospel, which does not by itself imply that the Son effectually gives life to all who are addressed."
+    },
+    {
+      "number": 35,
+      "text": "He was a burning and shining lamp, and you were willing to rejoice for a while in his light.",
+      "arminianNotes": "Wesley: inwardly burning with love and zeal, outwardly shining in holiness. Their joy in John was seasonal. A will that can rejoice “for a while” can also turn—responsibility sticks.",
+      "reformedNotes": "Temporary joy in a lamp is not the life the Son gives. They were willing for a season; that willingness withered. Passing religious excitement is not regeneration."
+    },
+    {
+      "number": 36,
+      "text": "But the testimony that I have is greater than that of John. For the works that the Father has given me to accomplish, the very works that I am doing, bear witness about me that the Father has sent me.",
+      "arminianNotes": "The Bethesda work, and greater works still, are the Father’s authentication. Unbelief is not starved of evidence; it refuses evidence already given.",
+      "reformedNotes": "The works are the Father’s gift to the Son to finish. They bear witness that the Sender stands behind the Sent. To reject the works is to reject the Father’s own signature."
+    },
+    {
+      "number": 37,
+      "text": "And the Father who sent me has himself borne witness about me. His voice you have never heard, his form you have never seen,",
+      "arminianNotes": "The Father has testified—in the Scriptures, in the Baptist, in the works—yet they remain strangers to him. Not seeing his form is John’s way of saying they do not know the God they claim.",
+      "reformedNotes": "Calvin: not limited to the baptismal voice. God has long testified in the promises; having the Son before their eyes, they show they have no relish for the Law. Estrangement from God’s voice is not a lack of data but a heart that will not receive the Son."
+    },
+    {
+      "number": 38,
+      "text": "and you do not have his word abiding in you, for you do not believe the one whom he has sent.",
+      "arminianNotes": "Wesley: all who believe have the Father’s word deeply ingrafted. They search Scripture (v. 39) but it does not abide—because they will not come to the One it names. The word could abide; their unbelief is why it does not.",
+      "reformedNotes": "Not having the word abiding is the inner fact beneath the refusal. Calvin: the word takes root when impressed on the heart with a fixed abode. They do not believe the Sent One because that word has no dwelling in them—an inability of the heart, not a mere gap in information.",
+      "keyContrast": "Arminians treat non-abiding as the result of unbelief they ought to have abandoned; the Reformed treat non-abiding as the root condition that explains why they cannot and will not believe."
+    },
+    {
+      "number": 39,
+      "text": "You search the Scriptures because you think that in them you have eternal life; and it is they that bear witness about me,",
+      "arminianNotes": "A command and a diagnosis. They are right that life is bound up with Scripture, wrong to stop at the page. The writings point to a Person; searching without coming (v. 40) is a tragic near-miss.",
+      "reformedNotes": "They search and miss Christ. Scripture’s end is the Son. Calvin: they thought the Scriptures gave them life while they quenched the light of life in them. Labor in the text without coming to Christ is not faith."
+    },
+    {
+      "number": 40,
+      "text": "yet you refuse to come to me that you may have life.",
+      "arminianNotes": "The hinge. “You refuse” is willful. Wesley: yet ye will not come, as the Scriptures direct you. Life is available in coming; they will not. The cause of perishing is not a decree that they must die, but a sincere, culpable refusal of the life he is willing to give (v. 34).",
+      "reformedNotes": "“You refuse” is real obstinacy—Calvin imputes blindness to wickedness. Yet this will-not is not the choice of a neutrally free agent. It sits on v. 38 (the word does not abide) and v. 42 (you do not have the love of God). Inability here is moral: they will not because the life-giving word has no home in them and God’s love is not in them.",
+      "keyContrast": "Arminians hear a sincere, sufficient invitation met by a real refusal that could have been otherwise under enabling grace; the Reformed hear a genuine “will not” whose root is inability—no abiding word, no love of God—cured only by the Son who gives life to whom he will."
+    },
+    {
+      "number": 41,
+      "text": "I do not receive glory from people.",
+      "arminianNotes": "He does not need their praise. The charge that follows is not wounded pride; it is diagnosis.",
+      "reformedNotes": "He is not angling for honor. Detachment from human glory sets up the exposure of their bondage to it (v. 44)."
+    },
+    {
+      "number": 42,
+      "text": "But I know that you do not have the love of God within you.",
+      "arminianNotes": "Wesley: he pierces them, and with tender compassion. Lacking God’s love is a spiritual fact they are called to repent of—not a frozen label. The love of God can be shed abroad; they do not have it because they will not come.",
+      "reformedNotes": "No love of God within is the other root beside the non-abiding word. They cannot come while that love is absent. The Son who knows hearts is not guessing; he names the inner emptiness that makes refusal certain apart from new birth."
+    },
+    {
+      "number": 43,
+      "text": "I have come in my Father's name, and you do not receive me. If another comes in his own name, you will receive him.",
+      "arminianNotes": "They reject the One who comes from the Father and are open to a self-sent rival. The will that refuses Christ is not unable to receive someone; it is unwilling to receive this One.",
+      "reformedNotes": "Coming in the Father’s name should have been the credential. Receiving a later pretender shows that the issue was never lack of messianic appetite; it was hostility to the Father’s actual Sent One."
+    },
+    {
+      "number": 44,
+      "text": "How can you believe, when you receive glory from one another and do not seek the glory that comes from the only God?",
+      "arminianNotes": "“How can you” is moral, not metaphysical. Wesley: while you seek the praise of men rather than the praise of God. The blockage is pride they are commanded to forsake. Inability here is self-made and therefore culpable—and, by grace, repentable.",
+      "reformedNotes": "Glory-from-one-another is a chain. They cannot believe while that hunger rules, and that hunger rules while the love of God is absent (v. 42). The “cannot” is real bondage, not a pose; only the God whose glory they do not seek can loose it.",
+      "keyContrast": "Both take the “cannot” as moral; Arminians locate it in a pride they may yet yield, the Reformed in a heart without God’s love, which will not believe until made new."
+    },
+    {
+      "number": 45,
+      "text": "Do not think that I will accuse you to the Father. There is one who accuses you: Moses, on whom you have set your hope.",
+      "arminianNotes": "Their hoped-in Moses is the accuser. The Law they wield against Jesus will witness against their refusal of the One Moses wrote of. Hope set on Moses without coming to Christ is hope misplaced.",
+      "reformedNotes": "They will not be able to plead Moses at the last. The same writings they search (v. 39) become the brief against them, because Moses’ office was to lead to Christ."
+    },
+    {
+      "number": 46,
+      "text": "For if you believed Moses, you would believe me; for he wrote of me.",
+      "arminianNotes": "Belief is of a piece. True faith in Moses would have opened into faith in Jesus. Their unbelief is not loyalty to Moses; it is infidelity to Moses. The invitation still stands: believe the writings, and you are led to the Son.",
+      "reformedNotes": "Unbelief in the Son unmasks unbelief in Moses. There is no saving Moses-faith that stops short of Christ. The hypothetical “if you believed” describes what true reception of Moses would have produced—not a condition they are neutrally poised to meet."
+    },
+    {
+      "number": 47,
+      "text": "But if you do not believe his writings, how will you believe my words?\"",
+      "arminianNotes": "The lesser-to-greater question leaves them responsible. If Moses’ page cannot win them, neither will Jesus’ speech—unless they repent of the same refusal. The chapter ends with a plea, not a padlock.",
+      "reformedNotes": "Unbelief is of a piece. Rejecting Moses’ witness, they will not believe the Son’s words. The “how will you” is diagnostic: the same heart that will not let the word abide (v. 38) will not receive the Speaker. Life remains in coming to him; they will not come unless he gives them life."
+    }
+  ]
+}

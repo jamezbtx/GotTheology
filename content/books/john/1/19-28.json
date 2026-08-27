@@ -1,0 +1,93 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 1,
+  "verseStart": 19,
+  "verseEnd": 28,
+  "translation": "ESV",
+  "title": "John 1:19–28",
+  "context": "Priests and Levites from Jerusalem interrogate the Baptist; he denies being the Christ, Elijah, or the Prophet, and identifies himself as Isaiah’s wilderness voice, pointing to One already standing among them.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Baptist’s confession before Jerusalem’s envoys—so each camp speaks in its own voice beside John 1:19–28.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He said — I am that forerunner of Christ of whom Isaiah speaks. I am the voice — As if he had said, Far from being Christ, or even Elijah, I am nothing but a voice: a sound that so soon as it has expressed the thought of which it is the sign, dies into air.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 1:23)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And this is the testimony. Hitherto the Evangelist has related the preaching of John about Christ; he now comes down to a more illustrious testimony, which was delivered to the ambassadors of the Priests. He says, therefore, that John openly confessed, I am not the Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 1:19–20)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 19,
+      "text": "And this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”",
+      "arminianNotes": "Jerusalem sends priests and Levites with a question: Who are you? The inquiry is official, not casual. Classical Arminians hear a genuine moment of decision. A true answer can be received or refused.\n\nJohn’s testimony is public because God wants the identity of the Christ known. Questions from the center of Israel’s worship are not a nuisance; they are an opening for witness that hearers may believe.",
+      "reformedNotes": "This is the testimony of John. Calvin: the Evangelist now records a more illustrious witness, given to the ambassadors of the priests so that it might reach Jerusalem. Reformed accent: God orders even this embassy.\n\n“Who are you?” is providence as well as politics. The Sender of the Baptist also governs the questions put to him. The church will live by this open confession, not by rumor."
+    },
+    {
+      "number": 20,
+      "text": "He confessed, and did not deny, but confessed, “I am not the Christ.”",
+      "arminianNotes": "He confessed, and did not deny, but confessed: I am not the Christ. The doubled wording underlines honesty. Arminian pastoral: a true witness will not steal the honor due to Jesus, even when a crowd would gladly give it.\n\nClear denial makes room for receiving the true Christ. John’s freedom to say no is part of the grace that points others toward a real yes. Identity is not a game.",
+      "reformedNotes": "He confessed openly, without ambiguity or hypocrisy: I am not the Christ. Calvin hears a form of confession as well as a fact. Reformed reading: God keeps his herald in his place.\n\nThe Baptist’s “I am not” protects the glory of the One who is. Ministers who will not say this confuse the church. The Christ will not be a projection of John’s reputation."
+    },
+    {
+      "number": 21,
+      "text": "And they asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the Prophet?” And he answered, “No.”",
+      "arminianNotes": "Elijah? I am not. The Prophet? No. John refuses titles that would keep eyes on him. Classical Arminians notice a man who will not let popular expectation rewrite his calling. He answers the question they actually ask.\n\nThe denials are not false modesty. They clear the ground so that hearers can receive the Coming One. A witness who collects messianic titles has stopped witnessing.",
+      "reformedNotes": "Art thou Elijah? Art thou a prophet? He said, I am not; he answered, No. Calvin: he speaks to their opinion of a reincarnated Elijah, while Christ will still call him Elijah in Malachi’s sense.\n\nReformed note: John detaches himself from the prophetic office as they meant it. He is not a second Moses with his own errand; he is the herald of Christ. God assigns the role; the man does not inflate it."
+    },
+    {
+      "number": 22,
+      "text": "So they said to him, “Who are you? We need to give an answer to those who sent us. What do you say about yourself?”",
+      "arminianNotes": "Who are you? We need an answer for those who sent us. The envoys are under pressure; John is under a calling. Arminian reading: he will define himself by Scripture, not by their political need.\n\n“What do you say about yourself?” is a chance to boast. He will not. The voice that answers will be Isaiah’s, so that listeners may still turn and make straight the Lord’s way.",
+      "reformedNotes": "They press for a report to their senders. Reformed reading: human chains of authority are real, yet they do not grant the right to name God’s servant. John will not be invented by Jerusalem’s need for a category.\n\nThe question “What sayest thou of thyself?” is answered from the Word, not from ambition. God had already said who he is. Confession here is obedience, not self-branding."
+    },
+    {
+      "number": 23,
+      "text": "He said, “I am the voice of one crying out in the wilderness, ‘Make straight the way of the Lord,’ as the prophet Isaiah said.”",
+      "arminianNotes": "I am the voice—Wesley: nothing but a voice, a sound that dies into air once the thought is spoken. Classical Arminians love this humility. The cry is for hearers to make straight the way: a real turning is demanded.\n\nIsaiah supplies the script. The wilderness voice is grace that calls, not force that drags. People may straighten the road or leave it crooked. The Lord is coming either way; the cry still addresses the will.",
+      "reformedNotes": "I am the voice of one crying in the wilderness. Calvin: he would have been rash to teach without a commission; Isaiah proves he does only what God commanded. John is a voice because he was enjoined to cry.\n\nReformed accent: the herald does not invent the way; he announces the Lord who comes. Making straight is the fruit God intends in those he prepares. The voice serves another’s arrival, then falls silent."
+    },
+    {
+      "number": 24,
+      "text": "(Now they had been sent from the Pharisees.)",
+      "arminianNotes": "They had been sent from the Pharisees—men of rank, not casual Levites. Arminian note: status does not guarantee sight. Official senders can still miss the Christ standing among them.\n\nThe parenthesis warns the reader. Religious seriousness is not the same as receiving the Light. Grace still addresses Pharisees; it does not bow to their control of the question.",
+      "reformedNotes": "Those sent were of the Pharisees. Calvin: men clothed with authority, not contemptible underlings. That is why they raise a question about baptism as a new rite.\n\nReformed pastoral: God can use even a suspicious embassy to draw out a clearer confession. Rank does not create spiritual understanding. The Pharisees’ sending becomes the stage for John’s “I am not.”"
+    },
+    {
+      "number": 25,
+      "text": "They asked him, “Then why are you baptizing, if you are neither the Christ, nor Elijah, nor the Prophet?”",
+      "arminianNotes": "Then why are you baptizing? They grant baptism to Messiah, Elijah, or the Prophet—and to no one else. Classical Arminians hear a challenge to John’s authority that he will answer by pointing away from himself.\n\nThe question assumes that a rite without a title is lawless. John will show that the rite is lawful because the Greater One is already present. Their categories are too small for what God is doing.",
+      "reformedNotes": "Why then baptizest thou? Calvin: they form a tight argument from three offices, and they are wrong in not knowing him as Malachi’s Elijah. Reformed reading: novelty is not the issue; commission is.\n\nBaptism is not John’s invention. The right to institute signs belongs to God. Their interrogation, meant to halt him, only drives the testimony toward the One they do not know."
+    },
+    {
+      "number": 26,
+      "text": "John answered them, “I baptize with water, but among you stands one you do not know,",
+      "arminianNotes": "I baptize with water—but among you stands One you do not know. The tragedy is nearness without recognition. Arminian reading: he truly stands among them; they truly do not know him. Ignorance here is culpable, not a missing decree they never could have met.\n\nWater is John’s portion; the Unknown is already in the crowd. The call is to know him. Grace has placed Christ within reach of these envoys. They may still seek, or they may go home with a report and no acquaintance.",
+      "reformedNotes": "I baptize with water; but one stands in the midst of you whom you know not. Calvin: John claims only the outward sign; power and efficacy are Christ’s. He charges them with stupidity for not knowing the One to whom their minds ought to be directed.\n\nReformed note: standing among them is not the same as being known. Effectual knowledge is gift. The minister keeps himself low so that Christ’s excellence is not obscured."
+    },
+    {
+      "number": 27,
+      "text": "even he who comes after me, the strap of whose sandal I am not worthy to untie.”",
+      "arminianNotes": "He comes after me, and I am not worthy to untie his sandal strap. Wesley’s “nothing but a voice” lives here as posture. Classical Arminians hear a servant’s estimate of Jesus that every hearer is invited to share.\n\nUnworthiness is not despair; it is the right size of the self before the Lord. Those who receive Christ in the prologue’s sense begin where John stands: beneath the sandal, ready to point.",
+      "reformedNotes": "He who comes after me is preferred before me; I am not worthy to loose his shoe-latchet. Calvin: behind in time, far before in rank, because the Father preferred him. Reformed worship starts in this unworthiness.\n\nThe Baptist places himself as low as possible lest honor given to him hide Christ. All ministry that forgets the sandal strap has begun to compete with the Son."
+    },
+    {
+      "number": 28,
+      "text": "These things took place in Bethany across the Jordan, where John was baptizing.",
+      "arminianNotes": "Bethany across the Jordan: a real place, a real river, a public baptism. Arminian pastoral: the testimony is not a myth in the air. People could go there, hear, and respond.\n\nGeography serves invitation. The voice cried in a wilderness you could find on a map. God meets people in history so that believing is an answer to what actually happened.",
+      "reformedNotes": "These things were done where John was baptizing. Calvin: the place authenticates the narrative and shows a numerous assembly. God wanted this confession heard in a crowd, not whispered to a few.\n\nReformed comfort: providence locates the witness. The Christ already standing among them will soon be named Lamb and Son. The map is in the story because the incarnation is in the world."
+    }
+  ]
+}

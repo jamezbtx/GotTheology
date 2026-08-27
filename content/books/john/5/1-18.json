@@ -1,0 +1,139 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 5,
+  "verseStart": 1,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "John 5:1–18",
+  "context": "Jesus heals a long-invalid man at Bethesda on the Sabbath, then answers the charge by claiming the Father’s ongoing work—and equality with God.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the healing at Bethesda, the Sabbath controversy, and Jesus’ claim to work as the Father works—so each camp speaks in its own voice beside John 5:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "My Father worketh until now, and I work—From the creation till now he hath been working without intermission. I do likewise. His own Father—The Greek word means his own Father in such a sense as no creature can speak. Making himself equal with God—It is evident all the hearers so understood him, and that our Lord never contradicted, but confirmed it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 5:17–18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The principal cause of their wrath was, that he called God his Father. And certainly Christ intended that it should be understood that God was his Father in a peculiar sense, so as to distinguish himself from the ordinary rank of other men. He made himself equal to God, when he claimed for himself continuance in working; and Christ is so far from denying this, that he confirms it more distinctly.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 5:17–18)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "After this there was a feast of the Jews, and Jesus went up to Jerusalem.",
+      "arminianNotes": "The feast draws Jesus into Jerusalem—into the path of the needy and of those who will oppose him. Grace here is public approach, not a hidden aside: the Son goes up to meet real people in real misery.",
+      "reformedNotes": "The feast is the appointed scene. Jesus does not stumble into a random mercy; the Father’s work is already underway, and the Son goes up in step with that purpose."
+    },
+    {
+      "number": 2,
+      "text": "Now there is in Jerusalem by the Sheep Gate a pool, in Aramaic called Bethesda, which has five roofed colonnades.",
+      "arminianNotes": "Bethesda—“house of mercy”—is a place of waiting. Mercy is geographically near, yet many remain unhelped. The pool prepares us to see that Jesus’ word, not a scramble for stirred water, is the sure help of God.",
+      "reformedNotes": "John locates the pool with care. The house of mercy is real geography, and the Son will soon show that the Father’s mercy is not bound to a colonnade, a first-come chance, or a ritual of the water."
+    },
+    {
+      "number": 3,
+      "text": "In these lay a multitude of invalids—blind, lame, and paralyzed.",
+      "arminianNotes": "A multitude lies there, not a single isolated case. Jesus will address one man this day, but the crowd itself shows how wide human need is, and how freely the Son may heal whom he approaches.",
+      "reformedNotes": "The multitude underscores helplessness: they cannot raise themselves. When Jesus later singles out one man, the contrast is not stinginess but a sign—life comes by the Son’s word, not by the pool’s competition."
+    },
+    {
+      "number": 5,
+      "text": "One man was there who had been an invalid for thirty-eight years.",
+      "arminianNotes": "Thirty-eight years of weakness do not put him beyond hope. Length of misery does not exhaust the Father’s willingness; Jesus still treats this man as one who may be made whole.",
+      "reformedNotes": "The duration marks the case as humanly hopeless. What no years of waiting at the pool could do, the Son will do in a sentence—life by a sovereign word, not by the man’s accumulated effort or luck."
+    },
+    {
+      "number": 6,
+      "text": "When Jesus saw him lying there and knew that he had already been there a long time, he said to him, \"Do you want to be healed?\"",
+      "arminianNotes": "Jesus sees, knows, and asks. “Do you want to be healed?” is not theater: it treats the man’s will as real. He cannot raise himself, yet the question assumes a genuine desire that grace may meet—not a puppet’s programmed nod.",
+      "reformedNotes": "Jesus initiates—he sees, he knows, he speaks. The question exposes need and desire, but the power is not in the man’s wanting. The same Lord who asks is the Lord who will command him up.",
+      "keyContrast": "Arminians hear a real inquiry addressed to a will that grace enables and that may answer; the Reformed hear the Son’s prior initiative, with the man’s desire real but not the source of the healing."
+    },
+    {
+      "number": 7,
+      "text": "The sick man answered him, \"Sir, I have no one to put me into the pool when the water is stirred up, and while I am going another steps down before me.\"",
+      "arminianNotes": "He answers with an obstacle, not a refusal. He wants healing; he lacks a helper. The pool-system leaves the weakest last—exactly the sort of person Jesus comes to serve.",
+      "reformedNotes": "His hope is still the pool. He explains why he has not been first; he does not yet know the Healer standing over him. The helplessness is honest, but it is not yet trust in the Son."
+    },
+    {
+      "number": 8,
+      "text": "Jesus said to him, \"Get up, take up your bed, and walk.\"",
+      "arminianNotes": "The command is a gift: the word that requires walking also supplies the strength. Jesus does not wait for the man to reach the water; he meets him where he lies and calls him to act in power given.",
+      "reformedNotes": "The creative word does what it says. “Get up” is not advice to a self-healer; it is the Son working as the Father works—speech that raises the powerless."
+    },
+    {
+      "number": 9,
+      "text": "And at once the man was healed, and he took up his bed and walked. Now that day was the Sabbath.",
+      "arminianNotes": "Immediate healing shows the kindness of the command. Carrying the bed is obedience to Jesus, not a stunt. That it is Sabbath will force the question: whose work may be done this day?",
+      "reformedNotes": "“At once” marks divine efficiency. The Sabbath note is no accident: the sign is timed so that the Son’s work and the Father’s ongoing Sabbath-work will be seen together."
+    },
+    {
+      "number": 10,
+      "text": "So the Jews said to the man who had been healed, \"It is the Sabbath, and it is not lawful for you to take up your bed.\"",
+      "arminianNotes": "They police the mattress and miss the mercy. A reading of the day that prefers the rule to the restored man is already out of step with the God who works to heal.",
+      "reformedNotes": "They judge the fruit and ignore the tree. Sabbath, rightly read, makes room for God’s works; they have turned the day into a charge-sheet against the mercy it should celebrate."
+    },
+    {
+      "number": 11,
+      "text": "But he answered them, \"The man who healed me, that man said to me, 'Take up your bed, and walk.'\"",
+      "arminianNotes": "He traces the command to the healer. Authority to restore the body carries, in his mind, authority to direct the walk. Obedience to Jesus outweighs their fence around the day.",
+      "reformedNotes": "The man has only one defense: the word of the one who made him whole. Healing and command are a single work of the Son; to split them is to misread the sign."
+    },
+    {
+      "number": 12,
+      "text": "They asked him, \"Who is the man who said to you, 'Take up your bed and walk'?\"",
+      "arminianNotes": "They ask after the command, not the cure—intent on the Sabbath charge. The question still matters: who has the right to override their reading of the day?",
+      "reformedNotes": "They hunt a name for prosecution. The issue is already shifting from a carried mat to the identity of the Speaker—the question John will press all the way to equality with God."
+    },
+    {
+      "number": 13,
+      "text": "Now the man who had been healed did not know who it was, for Jesus had withdrawn, as there was a crowd in the place.",
+      "arminianNotes": "He is healed before he can name Jesus. Grace is not a prize for prior theological clarity; the man is met, restored, and only later taught.",
+      "reformedNotes": "Jesus withdraws; the sign is not a public-relations event. The man’s ignorance of the name underlines that the power did not rise from his knowledge or from his having sought Jesus by name."
+    },
+    {
+      "number": 14,
+      "text": "Afterward Jesus found him in the temple and said to him, \"See, you are well! Sin no more, that nothing worse may happen to you.\"",
+      "arminianNotes": "Jesus finds him—grace pursues—and warns him. “Sin no more” is a real charge to a responsible man: worse than thirty-eight years can follow a willful return to sin. Healing is not a license; the will is addressed as able, by grace, to turn.",
+      "reformedNotes": "The same Lord who healed now searches him out in the temple. The warning is pastoral and severe: sin’s wages can be worse than paralysis. It does not hang the man’s future on unaided will; it calls him to walk in the life already given, under the Son who both heals and judges.",
+      "keyContrast": "Arminians stress a genuine warning to a will that may obey or relapse; the Reformed hear the same warning as the Healer’s claim on the man, not a future left to unaided choice."
+    },
+    {
+      "number": 15,
+      "text": "The man went away and told the Jews that it was Jesus who had healed him.",
+      "arminianNotes": "He names his benefactor. Whether from gratitude, fear, or simplicity, Jesus is identified—and the conflict moves from the mat to the man who healed him.",
+      "reformedNotes": "The report delivers Jesus to his opponents. The man’s testimony, however mixed its motive, serves the larger purpose: the Sabbath sign will now be answered by Jesus’ own words about the Father."
+    },
+    {
+      "number": 16,
+      "text": "And this was why the Jews were persecuting Jesus, because he was doing these things on the Sabbath.",
+      "arminianNotes": "Persecution for mercy done on the Sabbath exposes a heart that loves the fence more than the restored man. Jesus’ “these things” are healings—good works treated as crimes.",
+      "reformedNotes": "John states the first charge: Sabbath. It is their opinion that he was breaking the day. The next verses will show the deeper offense—not a mattress, but a claim about God."
+    },
+    {
+      "number": 17,
+      "text": "But Jesus answered them, \"My Father is working until now, and I am working.\"",
+      "arminianNotes": "The Father has never ceased to sustain and to save; the Son works in the same mercy. Jesus does not so much abolish the Sabbath as claim the right to do the Father’s works on it—works of life. The “I” is personal: the Son freely shares the Father’s ongoing goodness toward creatures.",
+      "reformedNotes": "Sabbath rest never meant the Father’s idleness. Providence continues; so does the Son’s work, because the Son works as the Father works. This is not a creature claiming a job: it is the Son asserting one divine operation—“My Father… and I.”",
+      "keyContrast": "Both camps confess the Son’s unique share in the Father’s work; Arminians underline the Son’s willing mercy toward the needy, while the Reformed underline that this “working” is the one divine operation, not a creature’s imitation."
+    },
+    {
+      "number": 18,
+      "text": "This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God.",
+      "arminianNotes": "John records their inference and does not correct it: “his own Father” in a sense no creature may claim. Wesley is right that the hearers understood equality, and Jesus will confirm it rather than walk it back. Equality with God is the ground of his saving work, not a threat to a genuine human response; the Father and the Son together address us.",
+      "reformedNotes": "The Evangelist explains their rage: peculiar sonship and equality. They misread the Sabbath, but they did not mishear the claim. Calvin notes that Christ intended to be understood as the Father’s Son in a sense that sets him apart from all men, and that he made himself equal to God by claiming continuance in working.",
+      "keyContrast": "The camps do not split on the Christology of this verse—both hear a true claim to equality with God. The pastoral accent differs: Arminians press that this equal Son sincerely deals with human wills; the Reformed press that the equal Son’s work is the Father’s own, not a cooperative venture with autonomous creatures."
+    }
+  ]
+}

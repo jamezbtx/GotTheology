@@ -1,0 +1,162 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "John 3:1–21",
+  "context": "Nicodemus, a Pharisee and ruler, comes by night. Jesus answers admiration with a requirement: unless one is born again—of water and the Spirit—he cannot see or enter the kingdom. Flesh begets flesh; the Spirit’s work is real yet unmanageable, like wind. The Son of Man must be lifted up so that whoever believes may have life. God loved the world and gave His only Son; unbelief is already condemnation because people loved darkness rather than the Light who came.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on new birth and the love that gave the Son—so each camp speaks in its own voice beside John 3:1–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "God so loved the world—that is, all men under heaven; even those that despise his love, and will for that cause finally perish. That he gave his only begotten Son… That whosoever believeth on him… should not perish, but have everlasting life. He hath it already initially, and shall have it fully in due time.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 3:16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He has employed the universal term whosoever, both to invite all indiscriminately to partake of life, and to cut off every excuse from unbelievers… He shows himself to be reconciled to the whole world, when he invites all men without exception to faith in Christ. Let us remember, on the other hand, that while life is promised universally to all who believe in Christ, still faith is not common to all. For Christ is held out to the view of all, but the elect alone are they whose eyes God opens, that they may seek him by faith.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 3:16)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.",
+      "arminianNotes": "A named Pharisee and ruler steps into the story—credentialed, serious, not a scoffing extra. John will let this man speak, stumble, and later reappear with honor.\n\nArminian pastoral note: religious rank does not equal new birth. Nicodemus has light enough to come; the conversation will press him beyond signs-based respect toward a birth he cannot perform.",
+      "reformedNotes": "John introduces a ruler of the Jews before any night-time caution. Office and learning will not substitute for the Spirit’s begetting.\n\nReformed framing: God is about to catechize a teacher. The kingdom’s doorway is not Sanhedrin membership; it is a birth from above that this ruler does not yet understand."
+    },
+    {
+      "number": 2,
+      "text": "This man came to Jesus by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him.”",
+      "arminianNotes": "Night may mean caution, or simply the hour; either way he comes and confesses: signs point to a teacher from God. Admiration is real—and still not enough.\n\nClassical Arminians hear a sincere seeker using the light he has. Grace often meets people in partial knowledge; Jesus will not leave Nicodemus at “God is with him” when the need is new birth.",
+      "reformedNotes": "“We know” from signs is true as far as it goes and still too small. Jesus is more than a God-attended rabbi.\n\nReformed reading: coming by night and starting with miracles shows both hunger and unbelief’s limit. Signs can attract a ruler; they cannot generate the sight of the kingdom."
+    },
+    {
+      "number": 3,
+      "text": "Jesus answered him, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.”",
+      "arminianNotes": "Jesus does not return the compliment. Unless one is born again (or from above), he cannot even see the kingdom. Birth is gift-language: you do not self-beget.\n\nClassical Arminians confess this inability without Pelagius. The new birth is God’s work by the Spirit; they typically add that prevenient grace restores the capacity to repent and believe, so the “unless” is urgent address, not a closed circle.",
+      "reformedNotes": "Truly, truly: seeing the kingdom requires a birth, not a seminar. Flesh cannot perceive what the Spirit must beget.\n\nReformed accent: “cannot” is real inability. Regeneration is a remarkable work of God that precedes spiritual sight; Nicodemus is told the gate before he is told how to improve himself.",
+      "keyContrast": "Both deny that unaided nature sees the kingdom. Arminians typically describe new birth as God’s work that, with enabling grace, meets a genuine call to repent and believe; Reformed readers typically describe it as the Spirit’s effectual begetting that creates the sight it requires."
+    },
+    {
+      "number": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb and be born?”",
+      "arminianNotes": "He hears “born” in the only register he has: wombs and age. The question is honest confusion, not a joke.\n\nArminian sympathy: people still reduce the Spirit’s work to technique. Jesus will not mock the question; He will relocate birth from obstetrics to water and Spirit.",
+      "reformedNotes": "Nicodemus’s how is flesh answering flesh. An old ruler cannot imagine a beginning he does not control.\n\nReformed note: unbelief often sounds like logistics. The teacher of Israel will need more than a better metaphor; he needs the birth he is trying to diagram."
+    },
+    {
+      "number": 5,
+      "text": "Jesus answered, “Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.",
+      "arminianNotes": "Seeing becomes entering; water and Spirit name the birth. Readers have heard Ezekiel’s sprinkled water, John’s baptism, and Christian baptism—always with the Spirit, never as a human lever.\n\nArminian entry-language: the kingdom has a door God opens. Water-and-Spirit birth is necessary, and the gospel still sincerely summons people to the Christ who gives the Spirit.",
+      "reformedNotes": "Double “cannot”: no entrance without water and Spirit. Jesus ties cleansing and life-giving to God’s own action.\n\nReformed confession: entrance is not by lineage or learning. The Spirit’s birth, signified and sealed in the church’s baptismal life, is how God admits people into the kingdom Nicodemus thought he already managed."
+    },
+    {
+      "number": 6,
+      "text": "That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.",
+      "arminianNotes": "Two births, two natures: flesh begets flesh; only the Spirit begets spirit. Nicodemus’s first birth, however honorable, cannot generate the second.\n\nClassical Arminians agree that natural descent cannot save. They still preach to flesh-born people because the Spirit uses the Word to beget, and hearers are called to receive that life rather than trust pedigree.",
+      "reformedNotes": "Like begets like. Flesh has no inner ladder into Spirit-life.\n\nReformed anthropology: this is why election and regeneration are not extras. The kingdom is populated by those the Spirit begets, not by improved flesh."
+    },
+    {
+      "number": 7,
+      "text": "Do not marvel that I said to you, ‘You must be born again.’",
+      "arminianNotes": "The “you” is plural: Israel’s teacher stands for a people who must be born from above. Marvel is the wrong first move; necessity is.\n\nArminian preaching tone: must is pastoral, not cruel. The same Lord who requires birth also provides the Spirit; the wonder is that we are invited, not that the bar is high.",
+      "reformedNotes": "Do not marvel—as if new birth were an odd elective. The plural you widens the requirement beyond one inquiring Pharisee.\n\nReformed weight: necessity sits in Jesus’ mouth. A whole religious establishment needs a birth it cannot legislate."
+    },
+    {
+      "number": 8,
+      "text": "The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit.”",
+      "arminianNotes": "Wind and Spirit share a word. You hear effects; you do not manage origin or path. Everyone born of the Spirit is a person the Spirit has actually moved.\n\nClassical Arminians hear freedom in “where it wishes”—the Spirit is not a human tool—yet they also insist the Spirit’s striving can be resisted, and that the gospel-hearing by which He begets is sincerely addressed to all.",
+      "reformedNotes": "The Spirit’s movement is free, like wind: heard, not herded. So it is with everyone born of Him—effects without our diagram of the how.\n\nReformed accent: sovereignty of the Spirit in regeneration. We do not appoint His course; we testify to His sound. Birth from above is His wishing, not Nicodemus’s technique.",
+      "keyContrast": "Both refuse to reduce new birth to a method we control. Arminians typically keep the Spirit’s freedom together with a grace that can be resisted in the hearer; Reformed readers typically take “where it wishes” as the Spirit’s effectual, unmanageable work in those He begets."
+    },
+    {
+      "number": 9,
+      "text": "Nicodemus said to him, “How can these things be?”",
+      "arminianNotes": "The teacher’s second how. Mystery has not yet become worship; it is still bafflement.\n\nArminian patience: Jesus keeps a conversation with a man who does not yet believe. How-questions are allowed; remaining in them without coming to the lifted-up Son is the danger.",
+      "reformedNotes": "How can these things be? is unbelief in grammatical form. The new birth will not be solved as a riddle.\n\nReformed note: incapacity to understand is itself evidence of flesh. The answer will be a person descending and lifted up, not a flowchart."
+    },
+    {
+      "number": 10,
+      "text": "Jesus answered him, “Are you the teacher of Israel and yet you do not understand these things?",
+      "arminianNotes": "The teacher of Israel should have heard Ezekiel 36 and the need of a new heart. Title without understanding is tragedy.\n\nArminian warning: office can immunize us against the very Scriptures we teach. Light already given in Israel’s prophets made this birth knowable; Nicodemus is accountable for what he had.",
+      "reformedNotes": "Jesus indicts a credential. Israel’s teacher should have recognized Spirit-birth from Israel’s Book.\n\nReformed edge: revelation already on the page does not create sight. The teacher’s ignorance fulfills the “cannot see” of v. 3 even in a man of the Scriptures."
+    },
+    {
+      "number": 11,
+      "text": "Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, but you do not receive our testimony.",
+      "arminianNotes": "Witness is first-hand; the problem is reception. Plural you: a people not receiving what Jesus and the witnesses know.\n\nClassical Arminians put the hinge on receiving. Testimony is true and sufficient to obligate; not receiving is culpable, not a missing secret chapter.",
+      "reformedNotes": "Known and seen, yet not received. The failure is not thin evidence but an unreceiving you.\n\nReformed hearing: testimony can be public and still rejected. Reception of Christ’s witness is itself a work God must grant if flesh will not take it."
+    },
+    {
+      "number": 12,
+      "text": "If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?",
+      "arminianNotes": "Earthly things—new birth in this world, wind you can hear—already meet unbelief. Heavenly things will not be easier for an unreceiving heart.\n\nArminian logic: faith is required at the first step. Grace enables belief; refusal at elementary witness makes further disclosure unused, not untrue.",
+      "reformedNotes": "Unbelief at the threshold blocks the staircase. Heavenly things are not a prize for better students of riddles.\n\nReformed progression: God is not stingy with heaven; flesh is closed to earth. Belief is the missing gift, not a slightly longer lecture."
+    },
+    {
+      "number": 13,
+      "text": "No one has ascended into heaven except he who descended from heaven, the Son of Man.",
+      "arminianNotes": "Heavenly things have a unique speaker: the Son of Man who came down. No rival mystic has made the trip and returned with news.\n\nArminian Christology: the invitation to believe is an invitation to this Descender. Access to heaven’s truth is a person, sincerely set before Nicodemus and the world.",
+      "reformedNotes": "Only the descended Son of Man has heavenly credentials. Nicodemus cannot climb into the knowledge Jesus brings down.\n\nReformed center: revelation is incarnation-shaped. God does not leave Israel to ascend; He sends the Son who alone speaks heaven because He came from it."
+    },
+    {
+      "number": 14,
+      "text": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+      "arminianNotes": "Numbers 21 becomes the cross: look and live. The Son of Man must be lifted up—necessity of atonement, public as a pole in the camp.\n\nArminian gospel: the lifted Son is meant to be looked at. As the bitten looked and lived, so sinners are called to behold the crucified; the provision is as wide as the plague was.",
+      "reformedNotes": "Must be lifted up: the cross is appointed, not accidental. The wilderness pattern is God’s own pedagogy for dying people.\n\nReformed sight: the remedy is a lifted Christ, decreed and sufficient. Looking that heals will be looking at this Son, the appointed means of life."
+    },
+    {
+      "number": 15,
+      "text": "that whoever believes in him may have eternal life.",
+      "arminianNotes": "Purpose clause: lifted up so that whoever believes may have life. The pronoun is as wide as faith is real.\n\nClassical Arminians rest here without embarrassment: whoever is not a trick word. Grace makes believing possible; life is in the Son for all who trust Him.",
+      "reformedNotes": "Whoever believes is the promised path to life, tied to the lifted Son. The offer is as large as faith; faith is not a human native plant.\n\nReformed pairing: indefinite whoever, definite life in Him. The verse promises life to believers and leaves open how believing is given—answered more fully as the chapter proceeds."
+    },
+    {
+      "number": 16,
+      "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "arminianNotes": "The giving is measured by love for the world—Wesley heard all under heaven, including those who will despise that love and perish. The Son is the gift; whoever believes does not perish but has life.\n\nThis is not a slogan that everyone is already saved, nor a dare to ignore unbelief. Classical Arminians preach a sincere universal love and a real condition: faith that receives the given Son. Perishing remains the end of remaining unbelief.",
+      "reformedNotes": "Calvin heard both an indiscriminate invitation in “whosoever” and “world,” and the hard second sentence that faith is not common to all—Christ is held out to all, and God opens the elect’s eyes to seek Him. Love, gift, believing, life, and perishing are all in the verse.\n\nThis is not a slogan that “world” simply means “the elect,” as if the invitation were a feint. Reformed readers still say the Father loved a ruined world, gave the Son, promises life to every believer, and actually creates the faith He requires.",
+      "keyContrast": "Do not flatten the verse. Shared ground: God loved, gave His only Son, and whoever believes has life instead of perishing. Arminians typically take “world” as all people under a love that sincerely desires their salvation, with resistible grace enabling faith. Reformed readers typically take the invitation as genuinely addressed to all hearers, while holding that saving faith is God’s gift to the elect—not a denial that “whoever believes” means whoever believes."
+    },
+    {
+      "number": 17,
+      "text": "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.",
+      "arminianNotes": "Mission statement: not condemnation as the errand, but that the world might be saved through Him. Sending has a saving aim as wide as the world named in v. 16.\n\nArminian weight: “might be saved” is purpose, not irony. The Son’s coming is good news for the world; condemnation is what unbelief does with a saving mission, not the Father’s first intent in sending.",
+      "reformedNotes": "The Son’s sending is saving in design: through Him the world is to be saved, not merely catalogued for wrath.\n\nReformed care: “world” here is the ruined human field into which the Son is sent. Salvation through Him is the appointed way; the next verse will say that unbelief already stands condemned—two truths, not a cancelation of this purpose."
+    },
+    {
+      "number": 18,
+      "text": "Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.",
+      "arminianNotes": "The split is believing or not. No condemnation for the believer; already condemned for the one who has not believed the Name.\n\nClassical Arminians take the already as the verdict on unbelief, not on a secret non-election. The name of the only Son has been set forth; refusing it is the condemning act, and the same whoever still may believe.",
+      "reformedNotes": "Not condemned / condemned already: the issue is the Name. Unbelief is not a wait-state; it is present judgment.\n\nReformed gravity: this honors human responsibility and divine verdict together. Those who believe are safe in the Son; those who will not believe remain under a condemnation their unbelief makes evident."
+    },
+    {
+      "number": 19,
+      "text": "And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil.",
+      "arminianNotes": "Judgment is explained as love of darkness. Light has come; people preferred dark because their works were evil—will, not missing data.\n\nArminian moral clarity: they loved darkness. Grace and light can be refused; the tragedy of 3:19 is chosen preference, which is why the call to come to the light remains a real call.",
+      "reformedNotes": "The verdict is already visible: Light arrived; love ran the other way because works were evil.\n\nReformed diagnosis: affection, not information, is the core. A heart that loves dark will not come; only a new birth (vv. 3–8) reverses that love. Judgment is God letting that preference stand in the presence of His Son."
+    },
+    {
+      "number": 20,
+      "text": "For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed.",
+      "arminianNotes": "Hate and hiding: wickedness avoids exposure. Not coming is self-protection against the Light who would tell the truth.\n\nArminian warning: this is why signs-faith stalls. The same people may still come if they stop shielding evil; the Light is here, and refusing exposure is a decision grace still confronts.",
+      "reformedNotes": "Hate of the light is active. Non-coming has a purpose clause: lest works be exposed.\n\nReformed realism: the unregenerate will is not neutral curiosity. It flees disclosure. Coming to the Light will require the Spirit’s birth, not a slightly softer lamp."
+    },
+    {
+      "number": 21,
+      "text": "But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.”",
+      "arminianNotes": "The contrast: doing what is true, coming to the light, so works are seen as carried out in God. Coming is not showing off; it is honesty that wants God visible in the work.\n\nArminian close: the chapter that began with night ends with coming to light. New birth shows in a life that does not fear exposure because the works are God’s enabling, received by faith rather than hidden vice.",
+      "reformedNotes": "True-doing people come to the light so that it may be seen their works were carried out in God—divine agency in the open.\n\nReformed doxology: even the coming and the true works are “in God.” The verse does not hand Nicodemus a self-made holiness; it describes those the Light has already claimed, whose deeds God worked and who therefore do not hide."
+    }
+  ]
+}

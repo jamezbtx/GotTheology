@@ -1,0 +1,70 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 1,
+  "verseStart": 29,
+  "verseEnd": 34,
+  "translation": "ESV",
+  "title": "John 1:29–34",
+  "context": "The next day John sees Jesus and announces the Lamb who takes away the sin of the world, testifies to the Spirit remaining on him, and bears witness that this is the Son of God.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Lamb who takes away the sin of the world—so each camp speaks in its own voice beside John 1:29–34.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Behold the Lamb — Innocent; to be offered up; prophesied of by Isaiah, typified by the paschal lamb, and by the daily sacrifice: The Lamb of God — Whom God gave, approves, accepts of; who taketh away — Atoneth for; the sin — That is, all the sins: of the world — Of all mankind. Sin and the world are of equal extent.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 1:29)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Behold the Lamb of God. The principal office of Christ is briefly but clearly stated; that he takes away the sins of the world by the sacrifice of his death, and reconciles men to God. There are other favors, indeed, which Christ bestows upon us, but this is the chief favor, and the rest depend on it.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 1:29)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 29,
+      "text": "The next day he saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world!",
+      "arminianNotes": "Behold the Lamb—innocent, to be offered, Isaiah’s Servant, Passover and daily sacrifice in one Person. Wesley: he atones for all the sins of all mankind; sin and the world are of equal extent. Classical Arminians hear a worldwide provision, sincerely offered.\n\n“Takes away” is for sinners who look. The Baptist does not shrink the world to a hidden list. The Lamb is God’s gift; receiving him (1:12) is how the taking-away is personally known. No one is told they were never in view.",
+      "reformedNotes": "Behold the Lamb of God. Calvin: the principal office is stated—he takes away the sins of the world by the sacrifice of his death and reconciles men to God. Other favors depend on this chief one.\n\nReformed reading: the world is the ruined human race in need of a real atonement, not a mere possibility. The Lamb actually bears and blots out sin. Those who come by faith find nothing to hinder reconciliation; the efficacy is in his death, not in our adding to it.",
+      "keyContrast": "Arminians, with Wesley, take “the world” as all mankind—atonement coextensive with the sin it names; the Reformed stress that the Lamb’s death actually takes sin away and reconciles, applied to those who are brought to him by faith, not a mere general possibility left idle."
+    },
+    {
+      "number": 30,
+      "text": "This is he of whom I said, ‘After me comes a man who ranks before me, because he was before me.’",
+      "arminianNotes": "This is he: the Lamb is the same One already announced. After me in time, before me in rank, because he was before me in being. Arminian reading ties the prologue’s eternal Word to this walking man.\n\nThe identification is meant to be believed. John does not offer a theory; he points at a person. Hearers may receive this ranking or cling to the herald they prefer.",
+      "reformedNotes": "This is he of whom I said. Calvin: three things—John precedes in time as messenger; Christ is preferred in glory as Redeemer; the preference is due to eternal majesty, not accident.\n\nReformed note: “he was before me” reaches back to verse 1. The man coming toward John is the Speech who was with God. Ranking is ontology before it is ministry order."
+    },
+    {
+      "number": 31,
+      "text": "I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel.”",
+      "arminianNotes": "I myself did not know him. John’s ministry is not cronyism; it is revelation for Israel. Classical Arminians hear purpose: baptizing so that the Lamb might be shown, and shown so that Israel might believe.\n\nWater is unto revealing, not unto rivaling. God uses ordinary obedience—baptizing day after day—to make Christ public. The revealing can still be refused, as verses 10–11 already warned.",
+      "reformedNotes": "I knew him not; I came baptizing that he might be manifested to Israel. Calvin: John speaks by inspiration and command, not friendship or favor. Lawful ministry rests on being sent.\n\nReformed accent: God appoints the sign and the sender. Revealing Christ to Israel is the Baptist’s assigned end. The manifestation is God’s project; John’s not-knowing keeps the glory from looking like a human arrangement."
+    },
+    {
+      "number": 32,
+      "text": "And John bore witness: “I saw the Spirit descend from heaven like a dove, and it remained on him.",
+      "arminianNotes": "He saw the Spirit descend like a dove and remain. The sign is public enough to become testimony. Arminian reading: God gives evidence so that people may behold the Lamb with more than rumor.\n\nRemaining matters. The Spirit does not brush Jesus and leave. Those who later receive the Spirit’s help to believe are receiving from this same Christ, not a different source.",
+      "reformedNotes": "I saw the Spirit descending like a dove, and it remained on him. Calvin: the dove is an infallible sign of the Spirit’s presence, given as a public representation of Christ’s mildness and of gifts for his people.\n\nReformed note: he received the Spirit not as one formerly empty, but as consecrated and as fountain for others. The remaining is fullness from which the church will be watered. Baptism with the Spirit is his office."
+    },
+    {
+      "number": 33,
+      "text": "I myself did not know him, but he who sent me to baptize with water said to me, ‘He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.’",
+      "arminianNotes": "The Sender of John’s water baptism also names the mark: the Spirit descending and remaining. Classical Arminians hear a God who wants Jesus identified, not guessed. The goal is that Israel—and we—might know who baptizes with the Holy Spirit.\n\nWater and Spirit are not rivals. John’s baptism points; Christ’s baptism gives. The Spirit’s work in those who believe is still the Lamb’s gift, to be received, not seized.",
+      "reformedNotes": "He who sent me said, Upon whom thou shalt see the Spirit descending and remaining, this is he who baptizes with the Holy Spirit. Calvin: only God’s calling makes a lawful minister; only Christ imparts what the sign means.\n\nReformed reading: baptizing with the Spirit is effectual. Christ does not merely offer a possibility of new life; he gives the Spirit’s power so that baptism is not vain. The dove remaining marks the One in whom all gifts dwell."
+    },
+    {
+      "number": 34,
+      "text": "And I have seen and have borne witness that this is the Son of God.”",
+      "arminianNotes": "I have seen and have borne witness: this is the Son of God. Sight becomes speech. Arminian pastoral: testimony is for others, that they might believe and receive the Son, as the prologue already said.\n\nThe title is not a private riddle. John stakes his office on it. Hearers are responsible to the witness. The Son stands in reach; unbelief will not be for lack of a clear word.",
+      "reformedNotes": "I saw and testified that he is the Son of God. Calvin: the declaration is not doubtful; God made the Baptist thoroughly acquainted with what he must witness. He who gives the Spirit must be the Christ.\n\nReformed comfort: the title “Son of God” here is not a thin honorific. It names the One who reconciles and who baptizes with the Spirit. Faith rests on this testimony because God authored it."
+    }
+  ]
+}

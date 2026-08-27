@@ -1,0 +1,103 @@
+{
+  "book": "John",
+  "bookSlug": "john",
+  "chapter": 5,
+  "verseStart": 19,
+  "verseEnd": 29,
+  "translation": "ESV",
+  "title": "John 5:19–29",
+  "context": "Jesus explains how the Son works with the Father: life given at his will, all judgment entrusted to him, present passing from death to life, and a coming resurrection of all.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Son’s unity with the Father, his authority to give life and to judge, and the hour when the dead hear his voice—so each camp speaks in its own voice beside John 5:19–29.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The Son can do nothing of himself—This is not his imperfection, but his glory, resulting from his eternal, intimate, indissoluble unity with the Father. The power of quickening whom he will follows from the power of judging. That all men may honour the Son, even as they honour the Father—Either willingly, and so escaping condemnation, by faith: or unwillingly, when feeling the wrath of the Judge. This demonstrates the EQUALITY of the Son with the Father. And cometh not into condemnation—Unless he make shipwreck of the faith.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 5:19–24)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We ought also to observe in what manner Christ bestows life upon us; for he found us all dead, and therefore it was necessary to begin with a resurrection. Again, he does not speak of this life as bestowed indiscriminately on all; for he says that he giveth life to whom he will; by which he means that he specially confers this grace on none but certain men, that is, on the elect.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 5:21)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 19,
+      "text": "So Jesus said to them, \"Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father does, that the Son does likewise.",
+      "arminianNotes": "“Nothing of his own accord” is not inferiority. Wesley: it is the Son’s glory—eternal, intimate, indissoluble unity with the Father. The Son does not freelance; he perfectly images the Father’s will. That unity is the ground of our trust: the One who heals and calls us does the Father’s own good.",
+      "reformedNotes": "The Son’s inability to act independently is not a defect in deity but the distinction of persons in one work. Whatever the Father does, the Son does likewise—one operation. The Sabbath healing was not a man’s project; it was the Father’s work in the Son."
+    },
+    {
+      "number": 20,
+      "text": "For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel.",
+      "arminianNotes": "Love is the inner life of this working: the Father shows, the Son sees and does. Greater works—raising the dead, judging—will be public enough to make even opponents marvel, though marveling is not yet faith.",
+      "reformedNotes": "The Father’s love is why he fully shows the Son his works. Greater works will compel attention; Calvin notes that the reprobate may still be blind in the light. The point is the splendor of the demonstration that he is the Son of God."
+    },
+    {
+      "number": 21,
+      "text": "For as the Father raises the dead and gives them life, so also the Son gives life to whom he will.",
+      "arminianNotes": "The Son has the Father’s own life-giving power. “Whom he will” names divine freedom, not a hidden list that makes the gospel insincere. Wesley ties this power to judging: the Judge quickens. The same Son who can raise any dead man still deals with hearers who may believe or refuse (vv. 24, 40).",
+      "reformedNotes": "Calvin reads the clause as particular: life is not bestowed indiscriminately; the Son specially confers this grace on the elect. “Whom he will” is the Son’s sovereign pleasure in giving life to the dead—resurrection-grace, not a general offer waiting on independent consent.",
+      "keyContrast": "Arminians take “whom he will” as the Son’s royal freedom to give life, without inferring an exclusive decree that withholds a sincere gift of life from the rest; the Reformed take it as particular election—life given to those he chooses, not to all alike."
+    },
+    {
+      "number": 22,
+      "text": "For the Father judges no one, but has given all judgment to the Son,",
+      "arminianNotes": "All judgment is in the Son’s hands so that the world meets God in the man Jesus. Judgment is not an impersonal fate; it is the verdict of the One who also gives life and calls for faith.",
+      "reformedNotes": "The Father has committed the kingdom and the assize to the Son. To stand before Christ’s judgment is to stand before God’s. The same hand that quickens those he will shall judge the world."
+    },
+    {
+      "number": 23,
+      "text": "that all may honor the Son, just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.",
+      "arminianNotes": "Equal honor is equal deity. Wesley: honor him willingly by faith and escape condemnation, or unwillingly under the Judge. Refusing the Son is not a lesser slight; it is dishonoring the Father who sent him. The “all” names the intended honor, not a secret subset.",
+      "reformedNotes": "The Father will not be honored apart from the Son. Equal honor means equal Godhead. Those who withhold that honor are not half-right about God; they have not the Father. The sending does not make the Son a mere deputy; it reveals the Father in him."
+    },
+    {
+      "number": 24,
+      "text": "Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life.",
+      "arminianNotes": "“Whoever” is as wide as the hearing. Present tense: the believer has life now. Wesley’s pastoral caution belongs here: he comes not into condemnation unless he make shipwreck of the faith. Life is received by believing; it is not locked to an eternal decree irrespective of perseverance.",
+      "reformedNotes": "Hearing and believing are how life is possessed, not how it is originated. “Has passed” is already accomplished: the believer is beyond condemnation because Christ has acquitted him. Calvin stresses the perfect tense: we have already passed from death to life, and that passage is sure in the One who gives life to whom he will.",
+      "keyContrast": "Arminians hear a genuine whoever, with life now by faith and a real warning against shipwreck; the Reformed hear effectual hearing as the fruit of the Son’s will to give life, and the perfect “has passed” as a secure change of state."
+    },
+    {
+      "number": 25,
+      "text": "Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live.",
+      "arminianNotes": "The hour “now here” is the voice that raises the spiritually dead in the gospel. “Those who hear will live”—hearing is the living response the voice makes possible. Wesley notes the literal raisings (Jairus’s daughter, the widow’s son, Lazarus) as samples of the same voice.",
+      "reformedNotes": "The dead hear because the voice of the Son makes the dead hear. This is resurrection-speech, present in the gospel: those given to hear, live. The coming hour of the tombs (vv. 28–29) is of a piece with this already-present quickening.",
+      "keyContrast": "Arminians take “those who hear” as those who respond to a voice that enables without coercing; the Reformed take the hearing itself as the Son’s life-giving act upon the dead."
+    },
+    {
+      "number": 26,
+      "text": "For as the Father has life in himself, so he has granted the Son also to have life in himself.",
+      "arminianNotes": "Wesley: given by eternal generation—to have life in himself, absolute and independent. The Son is not a borrowed candle. Because he has life in himself, he can give life to hearers without a limited store that would make the invitation a pretense.",
+      "reformedNotes": "Aseity communicated to the Son: the Father has granted the Son to have life in himself. This is eternal deity, not a later promotion. The life he gives in v. 21 is the overflow of the life he is."
+    },
+    {
+      "number": 27,
+      "text": "And he has given him authority to execute judgment, because he is the Son of Man.",
+      "arminianNotes": "Judgment is entrusted to the incarnate Son—the Son of Man—so that humankind is judged by the One who became man. Wesley: he is appointed to judge because he was made man. The courtroom is not alien to us.",
+      "reformedNotes": "Daniel’s Son of Man receives dominion. Authority to judge is given to the incarnate One, so that the Judge is also the man who died and rose. The title does not reduce him; it names the appointed King."
+    },
+    {
+      "number": 28,
+      "text": "Do not marvel at this, for an hour is coming when all who are in the tombs will hear his voice",
+      "arminianNotes": "Not some tombs—all. The same voice that now quickens believers will one day empty every grave. Universal summons is not universal salvation; it is universal accountability before the Son.",
+      "reformedNotes": "The general resurrection is as certain as the Son’s voice. All will hear—this hearing is as irresistible as raising the dead is irresistible. Marvel is silenced by the scope: not two or three, but all."
+    },
+    {
+      "number": 29,
+      "text": "and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.\"",
+      "arminianNotes": "Two outcomes, sorted by deeds. “Done good” does not mean earned life; it is the fruit of those who have heard and believed (v. 24). Judgment according to works is compatible with justification by faith; it is not a second gospel of merit. The warning still stands: shipwreck of faith would land a person among those who have done evil.",
+      "reformedNotes": "All come out; destinies differ. Those who have done good are those already passed from death to life, whose works evidence the life given. The resurrection of judgment falls on those not quickened by the Son’s will. Works disclose the state; they do not purchase it.",
+      "keyContrast": "Both deny salvation by merit; Arminians tie “done good” to persevering faith that may be abandoned, while the Reformed tie it to the life the Son has already given, now revealed when all hear his voice."
+    }
+  ]
+}
