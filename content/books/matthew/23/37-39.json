@@ -8,6 +8,26 @@
   "title": "Matthew 23:37–39",
   "context": "After the woes, Jesus laments Jerusalem: prophetic killers whom He longed to gather as a hen gathers her brood—yet they were not willing. The house is left desolate until the city blesses the Coming One.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus laments Jerusalem: prophetic killers whom He longed to gather as a hen gathers her brood—yet they were not—so each camp speaks in its own voice beside Matthew 23:37–39.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "These, as well as their phylacteries, the Pharisees affected to wear broader and larger than other men. The Jewish rabbis were also called father and master, by their several disciples, whom they required, To believe implicitly what they affirmed, without asking any further reason; To obey implicitly what they enjoined, without seeking further authority.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 23:37–39)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "For you build the sepulchers of the prophets. An unfounded opinion is entertained by some, that the scribes are here reproved for superstition, in foolishly honoring the deceased prophets by splendid sepulchers, as the Papists now transfer the honor of God to departed saints, and even are so perverse as to adore their images.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 23:37–39)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 37,

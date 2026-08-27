@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 14:1–12",
   "context": "After Nazareth’s unbelief closes Matthew 13, the narrative turns to Herod Antipas: rumors of Jesus’ fame reopen the story of John’s imprisonment and beheading. The flashback ends as John’s disciples bury him and tell Jesus—immediately before the feeding of the five thousand.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the narrative turns to Herod Antipas: rumors of Jesus’ fame reopen the story of John’s imprisonment and beheading—so each camp speaks in its own voice beside Matthew 14:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "At that time - When our Lord had spent about a year in his public ministry. Tetrarch - King of a fourth part of his father's dominions. He is risen from the dead - Herod was a Sadducee: and the Sadducees denied the resurrection of the dead.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 14:1–12)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This narrative is at present omitted by Luke, because he had explained it on a former occasion; and for my own part, as I am unwilling to annoy my readers by writing the same thing twice, I shall handle this passage with greater brevity The Evangelists relate that John was seized, because he had openly condemned Herod for carrying off Herodias, and for his incestuous marriage with her. Josephus assigns a different reason, namely, that Herod, dreading on his own account a change of affairs, regarded John with suspicion, (Ant.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 14:1–12)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

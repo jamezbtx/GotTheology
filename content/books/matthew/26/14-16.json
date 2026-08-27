@@ -6,8 +6,28 @@
   "verseEnd": 16,
   "translation": "ESV",
   "title": "Matthew 26:14–16",
-  "showVoices": true,
   "context": "Immediately after the anointing at Bethany, Judas Iscariot goes to the chief priests, bargains to deliver Jesus for silver, and from then on seeks an opportunity to betray Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on immediately after the anointing at Bethany, Judas Iscariot goes to the chief priests—so each camp speaks in its own voice beside Matthew 26:14–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "They bargained with him for thirty pieces of silver - (About three pounds fifteen shillings sterling; or sixteen dollars sixty- seven cents) the price of a slave, Exod. xxi, 32.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:14–16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Then one of the twelve, who was called Judas Iscariot. Christ's admonition was so far from being of any avail for softening the heart of Judas, or producing any change in it for the better, that he immediately went away, without any concern, to transact an infamous bargain with his enemies.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:14–16)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 14,

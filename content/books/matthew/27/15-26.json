@@ -6,8 +6,28 @@
   "verseEnd": 26,
   "translation": "ESV",
   "title": "Matthew 27:15–26",
-  "showVoices": true,
   "context": "After Jesus’ silence before Pilate (vv. 11–14), the feast custom of releasing a prisoner sets the stage. Pilate offers Barabbas or Jesus; the crowd, stirred by the priests, chooses Barabbas and demands crucifixion. Pilate washes his hands, the people accept bloodguilt, and Jesus is scourged and delivered to be crucified.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on after Jesus’ silence before Pilate—so each camp speaks in its own voice beside Matthew 27:15–26.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "At every feast - Every year, at the feast of the passover. Mark xv, 6; Luke xxiii, 17; John xviii, 39. He knew that for envy they had delivered him - As well as from malice and revenge; they envied him, because the people magnified him. They all say, Let him be crucified - The punishment which Barabbas had deserved: and this probably made them think of it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 27:15–26)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Now the governor was wont at the festival Here is described to us, on the one hand, the insatiable cruelty of the priests, and, on the other, the furious obstinacy of the people; for both must have been seized with astonishing madness, when they were not satisfied with conspiring to put to death an innocent man, if they did not also, through hatred of him, release a robber. Thus wicked men after having once begun to fall, are driven headlong by Satan, so that they shrink from no crime, however detestable, but, blinded and stupefied, add sin to sin.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 27:15–26)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 15,

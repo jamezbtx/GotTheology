@@ -6,8 +6,28 @@
   "verseEnd": 31,
   "translation": "ESV",
   "title": "Matthew 27:27–31",
-  "showVoices": true,
   "context": "After Barabbas is released and Jesus is scourged and delivered to be crucified (v. 26), the governor’s soldiers take Jesus into the headquarters, mock His kingship with robe, thorns, and reed, then lead Him away to the cross.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on after Barabbas is released and Jesus is scourged and delivered to be crucified—so each camp speaks in its own voice beside Matthew 27:27–31.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "This was a body of foot commanded by the governor, which was appointed to prevent disorders and tumults, especially on solemn occasions. They put on him a scarlet robe - Such as kings and generals wore; probably an old tattered one.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 27:27–31)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "But Pilate, perceiving that he gained nothing by it. As sailors, who have experienced a violent tempest, at last give way, and permit themselves to be carried out of the proper course; so Pilate, finding himself unable to restrain the commotion of the people, lays aside his authority as a judge, and yields to their furious outcry.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 27:27–31)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 27,

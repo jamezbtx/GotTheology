@@ -8,6 +8,26 @@
   "title": "Genesis 27:30–46",
   "context": "Esau returns, weeps, and hears Isaac confirm Jacob’s blessing while granting him a lesser word. Hatred and a murder plot follow; Rebekah sends Jacob to Laban and pleads Isaac with the distress of Esau’s Hittite wives.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Esau’s cry, hatred, and Jacob sent away—so each camp speaks in its own voice beside Genesis 27:30–46.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Isaac trembled exceedingly—Those that follow the choice of their own affections rather than the dictates of the Divine will, involve themselves in such perplexities as these. But he soon recovers himself, and ratifies the blessing he had given to Jacob, I have blessed him, and he shall be blessed—He might have recalled it, but now at last he is sensible he was in an error when he designed it for Esau.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 27:33)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Besides, it is no common fear which Moses describes, but that which utterly confounds the holy man: for, whereas he was perfectly conscious of his own vocation, and therefore was persuaded that the duty of naming the heir with whom he should deposit the covenant of eternal life was divinely enjoined upon him, he no sooner discovered his error than he was filled with fear, that in an affair so great and so serious God had suffered him to err; for unless he had thought that God was the director of this act, what should have hindered him from alleging his ignorance as an excuse, and from becoming enraged against Jacob, who had stolen in upon him by fraud and by unjustifiable arts?",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 27:33)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 30,

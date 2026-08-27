@@ -6,8 +6,28 @@
   "verseEnd": 15,
   "translation": "ESV",
   "title": "Matthew 28:11–15",
-  "showVoices": true,
   "context": "While the women go with Easter news, some of the guard report to the chief priests. The leaders bribe the soldiers to spread a theft story, promise protection from the governor, and a rival account takes root that Matthew says persists to his day.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on while the women go with Easter news, some of the guard report to the chief priests—so each camp speaks in its own voice beside Matthew 28:11–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Say, his disciples came by night, and stole him while we slept - Is it possible, that any man of sense should digest this poor, shallow inconsistency? If ye were awake, why did you let the disciples steal him?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 28:11–15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It is not only credible, but the fact is manifest, that the soldiers, to whom had been entrusted the charge of the sepulcher, were corrupted by a bribe, so that they were prepared to tell a lie at the bidding of the priests. They knew well that there was nothing which the priests dreaded more than that a report should gain credit that Christ rose on the third day after his death; and they knew that they had been sent there, that, by guarding the body, they might suppress that report.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 28:11–15)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 11,

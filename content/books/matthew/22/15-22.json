@@ -8,6 +8,26 @@
   "title": "Matthew 22:15–22",
   "context": "Pharisees and Herodians try to trap Jesus on the poll tax. His answer—“render to Caesar… and to God”—exposes bad faith, affirms civil duty without surrendering worship, and leaves opponents marveling as Passion Week tension rises.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Pharisees and Herodians try to trap Jesus on the poll tax—so each camp speaks in its own voice beside Matthew 22:15–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The Herodians were a set of men peculiarly attached to Herod, and consequently zealous for the interest of the Roman government, which was the main support of the dignity and royalty of his family. Thou regardest not the person of men - Thou favourest no man for his riches or greatness.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 22:15–22)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "That they might entrap him in his words. The Pharisees, perceiving that all their other attempts against Christ had been fruitless, at length concluded that the best and most expeditious method of destroying him was, to deliver him to the governor, as a seditious person and a disturber of the peace.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 22:15–22)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 15,

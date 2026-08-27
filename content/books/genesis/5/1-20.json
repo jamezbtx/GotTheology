@@ -8,6 +8,26 @@
   "title": "Genesis 5:1–20",
   "context": "After Cain’s line in chapter 4, Genesis 5 opens the “book of the generations of Adam”—image-bearing humanity named Man, then the Sethite succession marching toward Noah. The refrain “and he died” sounds the curse after Eden; the long years still display God’s patience preserving a people.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Adam’s generations and the image passed down through Seth—so each camp speaks in its own voice beside Genesis 5:1–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The first words of the chapter are the title of argument of the whole chapter; it is the book of the generations of Adam—It is the list or catalogue of the posterity of Adam, not of all, but only of the holy seed, and of whom as concerning the flesh Christ came; the names, ages, and deaths of those that were the successors of the first Adam in the custody of the promise, and the ancestors of the second Adam.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 5:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We have lately said that Moses traces the offspring of Adam only through the line of Seth, to propose for our consideration the succession of the Church. In saying that Seth begat a son after his own image, he refers in part to the first origin of our nature: at the same time its corruption and pollution is to be noticed, which having been contracted by Adam through the fall, has flowed down to all his posterity.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 5:3)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

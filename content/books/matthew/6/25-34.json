@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 6:25–34",
   "context": "Having unmasked mammon, Jesus addresses anxiety about food, drink, and clothing: the Father feeds birds and clothes lilies; disciples of little faith are worth more; seek first the kingdom and His righteousness, and leave tomorrow’s trouble to tomorrow.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus addresses anxiety about food, drink—so each camp speaks in its own voice beside Matthew 6:25–34.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "And if you serve God, you need be careful for nothing. Therefore take no thought - That is, be not anxiously careful. Beware of worldly cares; for these are as inconsistent with the true service of God as worldly desires. - And if God give the greater gift, will he deny the smaller?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 6:25–34)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He argues from the greater to the less. He had forbidden them to be excessively anxious about the way in which life might be supported; and he now assigns the reason. The Lord, who has given life itself, will not suffer us to want what is necessary for its support.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 6:25–34)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 25,

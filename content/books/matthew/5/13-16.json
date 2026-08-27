@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 5:13–16",
   "context": "After the Beatitudes name the blessed character of the kingdom, Jesus turns to identity: disciples are salt and light in the world. The Sermon moves from who they are under the King’s blessing to how that life preserves, flavors, and illuminates for the Father’s glory.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus turns to identity: disciples are salt and light in the world—so each camp speaks in its own voice beside Matthew 5:13–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye - Not the apostles, not ministers only; but all ye who are thus holy, are the salt of the earth - Are to season others. Ye are the light of the world - If ye are thus holy, you can no more be hid than the sun in the firmament: no more than a city on a mountain - Probably pointing to that on the brow of the opposite hill.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 5:13–16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "What belongs to doctrine is applied to the persons to whom the administration of it has been committed. When Christ calls the apostles the salt of the earth, he means, that it is their office to salt the earth: because men have nothing in them but what is tasteless, till they have been seasoned with the salt of heavenly doctrine.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 5:13–16)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 13,

@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 9:9–13",
   "context": "From the healed paralytic, Jesus passes to a tax booth and calls Matthew. Table fellowship with tax collectors and sinners draws Pharisaic objection; Jesus answers with the physician saying and Hosea’s word: He desires mercy, and He came to call sinners, not the self-assured “righteous.”",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus passes to a tax booth and calls Matthew—so each camp speaks in its own voice beside Matthew 9:9–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He saw a man named Matthew - Modestly so called by himself. The other evangelists call him by his more honourable name, Levi. Sitting - In the very height of his business, at the receipt of custom - The custom house, or place where the customs were received.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 9:9–13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Jesus saw a man sitting at the customhouse. The custom-house has usually been a place noted for plundering and for unjust exactions, and was at that time particularly infamous. In the choice of Matthew out of that place, not only to be admitted into the family of Christ, but even to be called to the office of Apostle, we have a striking instance of the grace of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 9:9–13)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 9,

@@ -8,6 +8,26 @@
   "title": "Genesis 43:1–14",
   "context": "The famine bites again. Judah refuses a second trip without Benjamin, pledges himself as surety, and Israel yields: gifts, double money, the boy, and a prayer to God Almighty for mercy before the man—plus a bereaved father’s surrender.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Judah as surety, and Israel praying God Almighty for mercy—so each camp speaks in its own voice beside Genesis 43:1–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Judah's conscience had lately smitten him for what he had done a great while ago against Joseph; and as an evidence of the truth of his repentance, he is ready to undertake, as far as a man could do it, for Benjamin's security. He will not only not wrong him but will do all he can to protect him. This is such restitution as the case will admit: when he knew not how he could retrieve Joseph, he would make some amends for the irreparable injury he had done him, by doubling his care concerning Benjamin.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 43:9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It may, however, here be asked, how Jacob could have supported his family, even for a few days, with so small a quantity of corn: for, suppose it to be granted that several asses were conducted by each of the brethren, what was this to sustain three hundred persons? For, since Abraham had a much larger number of servants, and mention has been made above of the servants of Isaac; it is incredible that Jacob was so entirely destitute, as to have no servants left.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 43:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

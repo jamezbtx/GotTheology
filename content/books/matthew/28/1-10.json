@@ -6,8 +6,28 @@
   "verseEnd": 10,
   "translation": "ESV",
   "title": "Matthew 28:1–10",
-  "showVoices": true,
   "context": "At dawn on the first day of the week the women come to the tomb. An angel of the Lord rolls back the stone, announces that Jesus has risen, and sends them to tell the disciples. As they go, the risen Jesus meets them; they worship Him, and He directs them—and His brothers—to Galilee.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on at dawn on the first day of the week the women come to the tomb—so each camp speaks in its own voice beside Matthew 28:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "An angel of the Lord had rolled away the stone and sat upon it - St. Luke and St. John speak of two angels that appeared: but it seems as if only one of them had appeared sitting on the stone without the sepulchre, and then going into it, was seen with another angel, sitting, one where the head, the other where the feet of the body had lain. Come, see the place where the Lord lay - Probably in speaking he rose up, and going before the women into the sepulchre, said, Come, see the place.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 28:1–10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By many signs the Lord showed the presence of his glory, that he might more fully prepare the hearts of the holy women to reverence the mystery. For since it was not a matter of little consequence to know that the Son of God had obtained a victory over death, (on which the principal point of our salvation is founded,) it was necessary to remove all doubts, that the divine majesty might be openly and manifestly presented to the eyes of the women.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 28:1–10)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

@@ -8,6 +8,26 @@
   "title": "Matthew 23:29–36",
   "context": "Final woe: decorating prophets’ tombs while sharing the fathers’ murderous line. Jesus sends prophets, wise men, and scribes they will kill; righteous blood from Abel to Zechariah comes on this generation.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on final woe: decorating prophets’ tombs while sharing the fathers’ murderous line—so each camp speaks in its own voice beside Matthew 23:29–36.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye build the tombs of the prophets - It appears that, through respect to their memory, they often repaired, and sometimes beautified, the tombs of the prophets. De la Valle, in his Journey to the Holy Land, says, that when he visited the cave of Machpelah, he saw some Jews honoring a sepulchre, for which they have a great veneration, with lighting at it wax candles and burning perfumes.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 23:29–36)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "For you build the sepulchers of the prophets. An unfounded opinion is entertained by some, that the scribes are here reproved for superstition, in foolishly honoring the deceased prophets by splendid sepulchers, as the Papists now transfer the honor of God to departed saints, and even are so perverse as to adore their images.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 23:29–36)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 29,

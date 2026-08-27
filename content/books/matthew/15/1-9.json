@@ -8,6 +8,26 @@
   "title": "Matthew 15:1–9",
   "context": "Pharisees and scribes arrive from Jerusalem and accuse Jesus’ disciples of breaking the tradition of the elders by eating with unwashed hands. Jesus turns the charge: their Corban practice voids God’s command to honor father and mother, and Isaiah’s word exposes lip-service worship that teaches human commandments as doctrine.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Pharisees and scribes arrive from Jerusalem and accuse Jesus’ disciples of breaking the tradition of the elders by—so each camp speaks in its own voice beside Matthew 15:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The elders - The chief doctors or, teachers among the Jews. They wash not their hands when they eat bread - Food in general is termed bread in Hebrew; so that to eat bread is the same as to make a meal. honour thy father and mother - Which implies all such relief as they stand in need of.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 15:1–9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As the fault that is here corrected is not only common but highly dangerous, the passage is particularly worthy of our attention. We see the extraordinary insolence that is displayed by men as to the form and manner of worshipping God; for they are perpetually contriving new modes of worship, and when any one wishes to be thought wiser than others, he displays his ingenuity on this subject.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 15:1–9)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

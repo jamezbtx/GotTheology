@@ -1,0 +1,88 @@
+{
+  "book": "Ephesians",
+  "bookSlug": "ephesians",
+  "chapter": 1,
+  "verseStart": 15,
+  "verseEnd": 23,
+  "translation": "ESV",
+  "title": "Ephesians 1:15–23",
+  "context": "Paul thanks God for their faith and love, praying that they would know hope, inheritance, and the immeasurable power that raised and enthroned Christ as head over all things to the church, His body.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Paul’s thanksgiving and prayer that they would know hope, inheritance, and the power that raised and enthroned Christ as head over all things to the church—so each camp speaks in its own voice beside Ephesians 1:15–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "And he hath given him to be head over all things to the church — An head both of guidance and government, and likewise of life and influence, to the whole and every member of it. All these stand in the nearest union with him, and have as continual and effectual a communication of activity, growth, and strength from him, as the natural body from its head.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Eph 1:22)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This is the highest honor of the Church, that, until He is united to us, the Son of God reckons himself in some measure imperfect. What consolation is it for us to learn that, not until we are along with him, does he possess all his parts, or wish to be regarded as complete!",
+        "cite": "John Calvin",
+        "source": "Commentary on Ephesians (on Eph 1:23)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 15,
+      "text": "For this reason, because I have heard of your faith in the Lord Jesus and your love toward all the saints,",
+      "arminianNotes": "“For this reason”—because of the blessings just named—Paul has heard of their faith in the Lord Jesus and love toward all the saints. Trust directed to Christ overflows toward the whole household.\n\nArminian emphasis: faith and love are living evidences of a real response to grace. Paul does not invent their story; he hears of people who have believed and who love. Such fruit can be nurtured—and must be guarded—under ongoing, resistible grace.",
+      "reformedNotes": "Paul has heard of their faith in the Lord Jesus and love toward all the saints. Thanksgiving (v. 16) will rest on what God has already wrought in them.\n\nReformed reading: faith and love are gifts made visible. “Heard of” means the gospel has produced recognizable fruit; the same God who blessed them in Christ (vv. 3–14) is the source of this faith and this love."
+    },
+    {
+      "number": 16,
+      "text": "I do not cease to give thanks for you, remembering you in my prayers,",
+      "arminianNotes": "Thanksgiving and intercession run together. Paul does not cease to give thanks, remembering them in his prayers. Gratitude is not a substitute for asking.\n\nClassical Arminians hear prayer as genuine partnership with God’s work. What grace has begun, prayer seeks to deepen. Continual thanks and remembrance treat the church as a people still on the way, not a finished product.",
+      "reformedNotes": "Unceasing thanks and prayer locate their story in God. Paul remembers them before the Father because the Father is the Giver.\n\nReformed instinct: thanksgiving is theological. If faith and love have appeared, God deserves the praise; prayer then asks the Giver to give still more (vv. 17–19). Intercession is how the church lives from grace already received."
+    },
+    {
+      "number": 17,
+      "text": "that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him,",
+      "arminianNotes": "Paul asks that the God of our Lord Jesus Christ, the Father of glory, would give the Spirit of wisdom and of revelation in the knowledge of Him. Knowledge of God is gift; it is also something to be sought.\n\nArminian pastoral note: the Spirit who seals (v. 13) also illumines. Wisdom and revelation are sincerely given so that the church may know God truly. Prayer assumes that this gift can be received—and that without it the heart remains dim.",
+      "reformedNotes": "The petition is Trinitarian in shape: the Father of glory, the God of the Lord Jesus, giving the Spirit of wisdom and revelation. Knowledge of God is not self-generated insight.\n\nReformed comfort: what Paul asks, God loves to give His people. Illumination is the Spirit’s work in those already in Christ; prayer is a means God uses to grant the knowledge He has purposed. The church knows Him because He first makes Himself known."
+    },
+    {
+      "number": 18,
+      "text": "having the eyes of your hearts enlightened, that you may know what is the hope to which he has called you, what are the riches of his glorious inheritance in the saints,",
+      "arminianNotes": "Enlightened eyes of the heart aim at knowing three things, beginning with the hope of His calling and the riches of His glorious inheritance in the saints. Calling and inheritance are to be known, not merely listed.\n\nClassical Arminians hear calling as God’s sincere summons and hope as the destiny of those who respond. The inheritance “in the saints” is the shared wealth of the holy people—known as the heart is illumined, received as faith continues.",
+      "reformedNotes": "The heart’s eyes must be enlightened by God to know the hope of His calling and the riches of His inheritance in the saints. These are objective goods; ignorance of them is what Paul prays against.\n\nReformed accent: calling here is effectual—the hope to which He has actually called them. Inheritance “in the saints” is God’s own treasure in His people, as sure as the counsel that named it (v. 11)."
+    },
+    {
+      "number": 19,
+      "text": "and what is the immeasurable greatness of his power toward us who believe, according to the working of his great might",
+      "arminianNotes": "Paul wants them to know “the immeasurable greatness of his power toward us who believe,” according to the working of His great might. The power is toward believers; faith is the sphere in which this might is known and received.\n\nClassical Arminians do not shrink the power. They typically stress that it is “toward us who believe”—the immeasurable might meets people in the act of trusting. Enabling grace makes that trust possible; the power is not a force that believes in our place.",
+      "reformedNotes": "The power toward “us who believe” is immeasurable, measured only by the working of God’s great might. Believing is the marker of those toward whom this power is directed.\n\nReformed reading: the same might that raised Christ (v. 20) is the might that creates and sustains faith. “Who believe” describes the objects of effectual power, not a condition we supply to switch the power on. Assurance follows: resurrection force is already toward the church.",
+      "keyContrast": "Arminian readings typically hear “toward us who believe” as locating the power with those who have responded in faith—immeasurable, yet known in a real trust grace enables. Reformed readings typically hear the clause as describing the people toward whom God’s effectual, resurrection power is already at work; believing is the fruit and sign of that might, not its cause."
+    },
+    {
+      "number": 20,
+      "text": "that he worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places,",
+      "arminianNotes": "That might was worked in Christ when the Father raised Him from the dead and seated Him at His right hand in the heavenly places. Easter and enthronement are the measure of the power offered to the church.\n\nArminian note: the power toward believers (v. 19) is the very power that raised and seated Jesus. It is not a lesser current. Those who believe are invited to live from this risen Head; the same grace that raises also calls for trust, not passivity.",
+      "reformedNotes": "The working of God’s might is defined by what He did in Christ: resurrection and session at the right hand. The church’s power-source is the already-exalted Son.\n\nReformed comfort: this is accomplished fact, not a possibility still waiting on us. The might toward believers is the might already displayed in Christ. Union with the risen and seated Lord means the church’s life is anchored in a finished exaltation."
+    },
+    {
+      "number": 21,
+      "text": "far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.",
+      "arminianNotes": "Christ is far above every rule, authority, power, and dominion, and every name named—in this age and the one to come. No rival, present or future, outranks Him.\n\nArminian pastoral weight: supremacy is comfort and call. The Head who outranks every power sincerely shepherds His people; they need not fear names or ages, and they must not transfer trust to lesser lords.",
+      "reformedNotes": "The stacking of powers and names leaves nothing outside Christ’s supremacy, now and in the age to come. Session (v. 20) is cosmic.\n\nReformed accent: the church’s Head already occupies the place of highest authority. History cannot produce a name that overtakes Him. Comfort follows: the powers that threaten are already under the One who fills the church (vv. 22–23)."
+    },
+    {
+      "number": 22,
+      "text": "And he put all things under his feet and gave him as head over all things to the church,",
+      "arminianNotes": "The Father put all things under Christ’s feet and gave Him as head over all things to the church. Wesley hears a Head of guidance, government, life, and influence—the whole body and every member drawing from Him as a natural body from its head.\n\nClassical Arminians gladly confess this living union. Headship is for the church’s good: continual communication of activity, growth, and strength. The relationship is real and close; members thrive by remaining in living connection with the Head who is sincerely given to them.",
+      "reformedNotes": "All things under His feet and Head over all things “to the church” mean the cosmic Christ is the church’s gift. Dominion is not abstract; it is assigned for His people’s sake.\n\nReformed reading: the church does not make Him Head; the Father gave Him as Head. Effectual union with this Head is the body’s life. What is under His feet cannot finally undo those who belong to His body by God’s gift."
+    },
+    {
+      "number": 23,
+      "text": "which is his body, the fullness of him who fills all in all.",
+      "arminianNotes": "The church is His body, the fullness of Him who fills all in all. Body language is intimate: the church is not an accessory to Christ but the people in whom His filling is displayed.\n\nArminian pastoral note: fullness language honors the church without flattening Christ. He fills all in all; the body receives what the Head supplies. Union is living—members filled as they remain joined to the One who fills.",
+      "reformedNotes": "Calvin’s astonishment is the point: the Son of God reckons Himself in some measure incomplete until united to us. The church is His body and His fullness—the highest honor of the people of God.\n\nReformed comfort: not until we are with Him does He wish to be regarded as complete. That is consolation, not flattery: our place in the body is by His gift, and His filling of all in all includes His filling of the church He will not finally lack."
+    }
+  ]
+}

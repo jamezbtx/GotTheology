@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 6:1–4",
   "context": "In the Sermon on the Mount, Jesus turns from kingdom righteousness to the danger of performing piety for human applause—beginning with almsgiving that seeks the Father’s eye, not the crowd’s praise.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on in the Sermon on the Mount—so each camp speaks in its own voice beside Matthew 6:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "In the foregoing chapter our Lord particularly described the nature of inward holiness. In this he describes that purity of intention without which none of our outward actions are holy. This chapter contains four parts, The right intention and manner of giving alms, ver. 1-4.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 6:1–4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Beware In this passage, Christ exhorts his people to devote themselves sincerely to good works; that is, to endeavor, with simplicity, to do what is right before God, and not to make a parade before men. A very necessary admonition; for in all virtues the entrance of ambition is to be dreaded, and there is no work so laudable, as not to be in many instances corrupted and polluted by it.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 6:1–4)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 5:31–32",
   "context": "In another Sermon antithesis, Jesus takes the familiar permission of a divorce certificate and presses marriage toward the heart of the covenant. The King who fulfills the Law will not let disciples treat a spouse as disposable paper—and He names the adultery that casual divorce and remarriage can create, while marking sexual immorality as the stated exception.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on in another Sermon antithesis—so each camp speaks in its own voice beside Matthew 5:31–32.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Let him give her a writing of divorce - Which the scribes and Pharisees allowed men to do on any trifling occasion. Causeth her to commit adultery - If she marry again.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 5:31–32)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As a more suitable occasion for discussing and explaining this doctrine at greater length will afterwards occur, (Matthew 19:9,) I shall now state briefly what Christ says in this passage. As the Jews falsely imagined that they discharged their whole duty toward God, when they kept the law in a national manner, so whatever the national law did not forbid, they foolishly supposed to be lawful.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 5:31–32)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 31,

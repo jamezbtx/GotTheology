@@ -6,8 +6,28 @@
   "verseEnd": 2,
   "translation": "ESV",
   "title": "Matthew 27:1–2",
-  "showVoices": true,
   "context": "After the night trial and Peter’s denial (ch. 26), morning comes. The chief priests and elders take formal counsel to put Jesus to death, then bind Him and deliver Him over to Pontius Pilate the governor.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on after the night trial and Peter’s denial—so each camp speaks in its own voice beside Matthew 27:1–2.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "In the morning - As the sanhedrim used to meet in one of the courts of the temple, which was never opened in the night, they were forced to stay till the morning before they could proceed regularly, in the resolution they had taken to put him to death. Having bound him - They had bound him when he was first apprehended.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 27:1–2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The high priest, with his council, after having examined him at an unseasonable hour of the night, finally resolve, at sunrise, to place him at the bar of the governor. By so doing, they observe the form of judicial proceedings, that they may not be suspected of undue haste, when they run to Pilate at an unusually early hour, as usually happens in cases of tumult.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 27:1–2)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

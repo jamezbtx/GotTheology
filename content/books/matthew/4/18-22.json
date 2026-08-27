@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 4:18–22",
   "context": "Walking by the Sea of Galilee, Jesus calls Simon Peter and Andrew from their nets, then James and John from their boat with Zebedee; all four leave immediately and follow Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on walking by the Sea of Galilee, Jesus calls Simon Peter and Andrew from their nets—so each camp speaks in its own voice beside Matthew 4:18–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Simon called Peter, and Andrew his brother - Why did not Jesus Christ call some of the eminent Scribes or Pharisees to publish his Gospel, and not poor unlearned fishermen, without credit or authority? Because it was the kingdom of heaven they were to preach, and their teaching must come from above: besides, the conversion of sinners, though it be effected instrumentally by the preaching of the Gospel, yet the grand agent in it is the Spirit of God.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 4:18–22)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As this history is placed by Luke after the two miracles, which we shall afterwards see, an opinion has commonly prevailed, that the miracle, which is here related by him, was performed some time after that they had been called by Christ. But the reason, which they allege, carries little weight: for no fixed and distinct order of dates was observed by the Evangelists in composing their narratives.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 4:18–22)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 18,

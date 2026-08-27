@@ -8,6 +8,26 @@
   "title": "Genesis 26:1–16",
   "context": "A second famine sends Isaac to Gerar, where the Lord appears, forbids Egypt, and reiterates Abraham’s oath of presence, land, and worldwide blessing. Isaac settles, repeats the “sister” lie over Rebekah, is exposed and protected by Abimelech, then prospers a hundredfold until Philistine envy sends him away.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on famine, the oath to Isaac, and the sister-ruse at Gerar—so each camp speaks in its own voice beside Genesis 26:1–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Sojourn in this land—There was a famine in Jacob's days, and God bid him go down into Egypt, Gen 46:3,4, a famine in Isaac's days, and God bid him not go down: a famine in Abraham's days, and God left him to his liberty, directing him neither way, which (considering that Egypt was always a place of trial to God's people) some ground upon the different characters of these three patriarchs. Abraham was a man of very intimate communion with God, and to him all places and conditions were alike;",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 26:2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I do not doubt but a reason is here given why Isaac rather went to the country of Gerar than to Egypt, which perhaps would have been more convenient for him; but Moses teaches that he was withheld by a heavenly oracle, so that a free choice was not left him. It may here be asked, why does the Lord prohibit Isaac from going to Egypt, whither he had suffered his father to go?",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 26:2)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

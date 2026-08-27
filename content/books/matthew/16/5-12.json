@@ -8,6 +8,26 @@
   "title": "Matthew 16:5–12",
   "context": "Crossing the lake, the disciples fret about forgotten bread while Jesus warns them of the leaven of the Pharisees and Sadducees. He recalls the feedings, exposes their little faith, and clarifies that the danger is false teaching, not empty baskets.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on crossing the lake—so each camp speaks in its own voice beside Matthew 16:5–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Beware of the leaven of the Pharisees - That is, of their false doctrine: this is elegantly so called; for it spreads in the soul, or the Church, as leaven does in meal. They reasoned among themselves - What must we do then for bread, since we have taken no bread with us?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 16:5–12)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Here Christ takes occasion from the circumstance that had just occurred to exhort his disciples to beware of every abuse that makes an inroad on sincere piety. The Pharisees had come a little before; the Sadducees joined them; and apart from them stood Herod, a very wicked man, and an opponent and corrupter of sound doctrine.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 16:5–12)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 5,

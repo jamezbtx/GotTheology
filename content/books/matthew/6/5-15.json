@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 6:5–15",
   "context": "Jesus next reforms prayer: reject hypocritical display and empty pagan wordiness; pray to the Father in secret; and learn the pattern of the Lord’s Prayer, with a sober word on forgiving others as we seek forgiveness.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on secret prayer, vain repetitions, and the Lord’s Prayer—so each camp speaks in its own voice beside Matthew 6:5–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The synagogues - These were properly the places where the people assembled for public prayer, and hearing the Scriptures read and expounded. They were in every city from the time of the Babylonish captivity, and had service in them thrice a day on three days in the week.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 6:5–15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It is uncertain whether this form was once only or twice delivered by Christ to his disciples. Some think that the latter is more probable; because Luke says that he was requested to do it, while Matthew represents him as teaching it of his own accord.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 6:5–15)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 5,

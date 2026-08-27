@@ -8,6 +8,26 @@
   "title": "Genesis 49:13–28",
   "context": "Jacob continues through Zebulun, Issachar, Dan (with a cry for the Lord’s salvation), Gad, Asher, Naphtali, a long blessing on attacked-yet-helped Joseph, and Benjamin the wolf. He then names the twelve tribes, assigns each a suitable blessing, and the speech turns toward burial at Machpelah.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the remaining tribes blessed, and Joseph attacked yet helped—so each camp speaks in its own voice beside Genesis 49:13–28.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I have waited for thy salvation, Lord—If he must break off here, and his breath will not serve him to finish what he intended, with these words he pours out his soul into the bosom of his God, and even breaths it out. The pious ejaculations of a warm and lively devotion, though sometimes they maybe incoherent, yet they are not impertinent; that may be uttered affectionately, which doth not come in methodically.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 49:18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It may be asked, in the first place, what occasion induced the holy man to break the connection of his discourse, and suddenly to burst forth in this expression; for whereas he had recently predicted the coming of the Messiah, the mention of salvation would have been more appropriate in that place. I think, indeed, that when he perceived, as from a lofty watchtower, the condition of his offspring continually exposed to various changes, and even to be tossed by storms which would almost overwhelm them, he was moved with solicitude and fear; for he had not so put off all paternal affection, as to be entirely without care for those who were of his own blood.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 49:18)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 13,

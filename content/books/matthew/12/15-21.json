@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 12:15–21",
   "context": "After the Pharisees conspire to destroy Him (12:14), Jesus withdraws; crowds follow and He heals them all, charging silence. Matthew reads the scene as Isaiah 42 fulfilled—the chosen Servant who will not break a bruised reed or quench a smoldering wick until He brings justice to victory, and in whose name the nations hope.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus withdraws; crowds follow and He heals them all, charging silence—so each camp speaks in its own voice beside Matthew 12:15–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He shall show judgment to the heathens - That is, he shall publish the merciful Gospel to them also: the Hebrew word signifies either mercy or justice. He shall not strive, nor clamour; neither shall any man hear his voice in the streets - That is, he shall not be contentious, noisy, or ostentatious: but gentle, quiet, and lowly.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 12:15–21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "How obstinate is the rage which drives the wicked to oppose God! Even after having been convinced, they pour out their venom more and more. It is truly monstrous and shocking, that the most distinguished teachers of the Law, who were entrusted with the government of the Church, are engaged, like robbers, in contriving murder.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 12:15–21)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 15,

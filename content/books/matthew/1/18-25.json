@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 1:18–25",
   "context": "After the genealogy, Matthew narrates Jesus’ birth: Mary’s virginal conception by the Holy Spirit, Joseph’s righteous struggle and obedience, the naming of Jesus as Savior, and the fulfillment of Isaiah’s Immanuel promise.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Matthew narrates Jesus’ birth: Mary’s virginal conception by the Holy Spirit—so each camp speaks in its own voice beside Matthew 1:18–25.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "A just man — a strict observer of the law: therefore not thinking it right to keep her. It is the same name with Joshua (who was a type of him) which properly signifies, The Lord, Salvation. They shall call his name Emmanuel — to be called, only means, according to the Hebrews manner of speaking, that the person spoken of shall really and effectually be what he is called, and actually fulfil that title.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 1:18–25)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Now the birth of Jesus Christ Matthew does not as yet relate the place or manner of Christ's birth, but the way in which his heavenly generation was made known to Joseph. First, he says that Mary was found to be with child by the Holy Spirit Not that this secret work of God was generally known: but the historian mixes up, with the knowledge of men, the power of the Spirit, which was still unknown.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 1:18–25)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 18,

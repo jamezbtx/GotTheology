@@ -8,6 +8,26 @@
   "title": "Matthew 24:1–14",
   "context": "Leaving the temple after the woes of chapter 23, Jesus predicts its total ruin. On the Mount of Olives the disciples ask about timing, His coming, and the end of the age. He answers first with pastoral warnings: deception, wars, famines, earthquakes, persecution, cold love—and the gospel’s worldwide witness. These are birth pains, not yet the end; endurance and proclamation mark His people until the end comes.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on leaving the temple after the woes of chapter 23, Jesus predicts its total ruin—so each camp speaks in its own voice beside Matthew 24:1–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "There shall not be left one stone upon another - This was most punctually fulfilled; for after the temple was burnt, Titus, the Roman general, ordered the very foundations of it to be dug up; after which the ground on which it stood was ploughed up by Turnus Rufus. As he sat on the Mount of Olives - Whence they had a full view of the temple.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 24:1–14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The disciples undoubtedly perceived that Christ was paying, as it were, his last adieu to the temple. It remained, therefor that he should erect a new temple far more magnificent, and that he should produce a more flourishing condition of the kingdom, as had been foretold by the Prophets; for he had nothing to do with that temple, in which every thing was opposed to him.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 24:1–14)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

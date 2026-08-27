@@ -8,6 +8,26 @@
   "title": "Matthew 13:53–58",
   "context": "After the parable discourse, Jesus returns to His hometown synagogue. Familiarity breeds offense: neighbors name His family, stumble over His wisdom and works, and unbelief limits the mighty works done there.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus returns to His hometown synagogue—so each camp speaks in its own voice beside Matthew 13:53–58.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He departed thence - He crossed the lake from Capernaum: and came once more into his own country - Nazareth: but with no better success than he had had there before. Whence hath HE - Many texts are not understood, for want of knowing the proper emphasis; and others are utterly misunderstood, by placing the emphasis wrong.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 13:53–58)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Matthew does not mean, that immediately after delivering these discourses, he came into his own country; for it is evident from Mark, that some interval of time elapsed. But the meaning is, that after having taught for some time in Judea, he returned again to the Galileans, but did not receive from them kind treatment.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 13:53–58)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 53,

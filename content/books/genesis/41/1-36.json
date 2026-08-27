@@ -8,6 +8,26 @@
   "title": "Genesis 41:1–36",
   "context": "Two years after the cupbearer’s release, Pharaoh dreams of seven plump cows swallowed by seven thin ones, then seven good ears swallowed by seven blighted ones. Egypt’s magicians fail. The cupbearer remembers Joseph in the pit. Shaved and summoned, Joseph credits God, interprets the doubled dream as seven years of plenty then seven of famine, and urges Pharaoh to appoint a wise man and store one-fifth of the harvest so the land will not perish.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Pharaoh’s dreams and Joseph’s word that God has shown what He will do—so each camp speaks in its own voice beside Genesis 41:1–36.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "(1.) He gives honour to God; Great gifts then appear most graceful and illustrious, when those that have them use them humbly, and take not the praise of them to themselves, but give it to God, (2.) He shews respect to Pharaoh, and hearty good-will to him, supposing that the interpretation would be an answer of peace. Those that consult God's oracles may expect an answer of peace.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 41:16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Joseph added this from the kindly feeling of his heart; for he did not yet comprehend what the nature of the oracle would be. Therefore he could not, in his character as a prophet, promise a successful and desirable issue; but, as it was his duty sincerely to deliver what he received from the Lord, however sad and severe it might prove; so, on the other hand, this liberty presented no obstacle to his wishing a joyful issue to the king.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 41:16)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 12:38–42",
   "context": "After tree-and-fruit warnings and the accounting of careless words (12:33–37), some scribes and Pharisees answer Jesus by asking for a sign. He refuses spectacle to unbelief, promises only the sign of Jonah—His own death and rising—and warns that Nineveh and the queen of the South will condemn this generation, for something greater than Jonah and Solomon is here.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on some scribes and Pharisees answer Jesus by asking for a sign—so each camp speaks in its own voice beside Matthew 12:38–42.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "An adulterous generation - Whose heart wanders from God, though they profess him to be their husband. Such adulterers are all those who love the world, and all who seek the friendship of it. Seeketh a sign - After all they have had already, which were abundantly sufficient to convince them, had not their hearts been estranged from God, and consequently averse to the truth.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 12:38–42)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "A wicked generation He does not merely charge that age with malice, but pronounces the Jews — or at least the scribes, and those who resembled them — to be a wicked nation; thus declaring that they labored under a hereditary disease of obstinacy. The word genea sometimes denotes an age, and sometimes a people or nation.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 12:38–42)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 38,

@@ -12,6 +12,7 @@
   <meta property="og:url" content="https://got-theology.com/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="GotTheology" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
@@ -355,6 +356,30 @@
       color: var(--ink-muted);
     }
 
+    .dual-card-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+    }
+    .dual-card:has(.dual-card-link:hover),
+    .dual-card:has(.dual-card-link:focus-visible) {
+      box-shadow: 0 16px 44px rgba(15, 28, 46, 0.14);
+    }
+    .dual-card-cta {
+      display: block;
+      padding: 0.7rem 1.25rem 0.95rem;
+      text-align: center;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--teal);
+      border-top: 1px solid var(--border);
+      background: var(--cream);
+    }
+    .dual-card-link:hover .dual-card-cta,
+    .dual-card-link:focus-visible .dual-card-cta {
+      color: var(--ink);
+    }
+
     .hero-visual {
       position: relative;
     }
@@ -507,8 +532,11 @@
     /* —— How it works —— */
     .steps {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1.25rem;
+    }
+    @media (max-width: 1100px) {
+      .steps { grid-template-columns: 1fr 1fr; }
     }
 
     .step {
@@ -581,6 +609,69 @@
     .fairness-note em {
       font-style: italic;
       color: var(--ink-soft);
+    }
+
+    .voices-callout {
+      margin-top: 2rem;
+      padding: 1.5rem 1.6rem 1.45rem;
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-sm);
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .voices-callout::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--teal), var(--gold) 50%, var(--teal));
+    }
+    .voices-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.28rem 0.78rem;
+      border-radius: 999px;
+      background: linear-gradient(90deg, rgba(61, 107, 107, 0.12), var(--gold-pale));
+      color: #6b5424;
+      border: 1px solid rgba(176, 141, 62, 0.35);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+    }
+    .voices-callout p {
+      color: var(--ink-muted);
+      font-size: 1.02rem;
+      max-width: 36rem;
+      margin-inline: auto;
+    }
+    .voices-callout a {
+      color: var(--teal);
+      font-weight: 600;
+      text-decoration: underline;
+      text-decoration-color: rgba(61, 107, 107, 0.35);
+      text-underline-offset: 0.15em;
+    }
+    .voices-callout a:hover {
+      color: var(--ink);
+      text-decoration-color: var(--gold);
+    }
+    .step a {
+      color: var(--teal);
+      font-weight: 600;
+      text-decoration: underline;
+      text-decoration-color: rgba(61, 107, 107, 0.35);
+      text-underline-offset: 0.15em;
+    }
+    .step a:hover {
+      color: var(--ink);
+      text-decoration-color: var(--gold);
     }
 
     /* —— Passage tease —— */
@@ -915,6 +1006,7 @@
             GotTheology walks through Scripture carefully, placing a fair Arminian reading
             and a fair Reformed reading next to each verse—so you can learn both traditions
             without straw men or tribal talking points.
+            Every passage includes Voices from both camps (historic Arminian and Reformed quotes).
           </p>
           <div class="hero-actions">
             <a href="/bible/" class="btn btn-primary">Browse Bible</a>
@@ -923,22 +1015,25 @@
           <p class="hero-note">No subscription · No paywall · Supported by ads</p>
         </div>
 
-        <div class="hero-visual" aria-hidden="true">
+        <div class="hero-visual">
           <article class="dual-card">
-            <div class="dual-card-header">
-              <p class="dual-card-ref">John 6:44</p>
-              <p class="dual-card-verse">“No one can come to me unless the Father who sent me draws him…”</p>
-            </div>
-            <div class="dual-cols">
-              <div class="dual-col">
-                <span class="dual-label label-arminian">Arminian</span>
-                <p>The Father’s drawing is real and necessary—yet resistible. Grace enables a genuine response; the invitation remains open to all who hear.</p>
+            <a class="dual-card-link" href="/bible/ephesians/1/3-6.html">
+              <div class="dual-card-header">
+                <p class="dual-card-ref">Ephesians 1:4</p>
+                <p class="dual-card-verse">“even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love”</p>
               </div>
-              <div class="dual-col">
-                <span class="dual-label label-reformed">Reformed</span>
-                <p>The drawing is effectual: the Father brings His elect to the Son. Apart from this sovereign grace, none would come of themselves.</p>
+              <div class="dual-cols">
+                <div class="dual-col">
+                  <span class="dual-label label-arminian">Arminian</span>
+                  <p>“Chose us in him” is often read corporately: God elects the people found in Christ, and those joined by grace-enabled faith share His chosen status. Faith is a real response, not coerced.</p>
+                </div>
+                <div class="dual-col">
+                  <span class="dual-label label-reformed">Reformed</span>
+                  <p>The choosing is personal, prior, and unconditional. Faith is the fruit of election, not its cause; holiness is the appointed end, in love.</p>
+                </div>
               </div>
-            </div>
+              <p class="dual-card-cta">Read Ephesians 1:3–6</p>
+            </a>
           </article>
         </div>
       </div>
@@ -949,13 +1044,14 @@
       <div class="container publishing-inner">
         <div class="publishing-copy">
           <p class="eyebrow">Now live</p>
-          <h2 id="publishing-heading">Genesis, Matthew &amp; Colossians</h2>
-          <p>Genesis (50 chapters), Matthew (28 chapters), and Colossians (4 chapters) are live—verse by verse, Arminian and Reformed side by side.</p>
+          <h2 id="publishing-heading">Genesis, Matthew, Colossians &amp; Ephesians</h2>
+          <p>Genesis (50 chapters), Matthew (28 chapters), Colossians (4 chapters), and Ephesians (6 chapters) are live—verse by verse, Arminian and Reformed side by side.</p>
         </div>
         <div class="publishing-actions">
           <a href="/bible/genesis/1/1-5.html" class="btn btn-primary">Read Genesis</a>
           <a href="/bible/matthew/1/18-25.html" class="btn btn-secondary">Read Matthew</a>
           <a href="/bible/colossians/1/15-23.html" class="btn btn-secondary">Read Colossians</a>
+          <a href="/bible/ephesians/1/3-6.html" class="btn btn-secondary">Read Ephesians</a>
         </div>
       </div>
     </section>
@@ -1001,18 +1097,23 @@
 
     <aside class="ad-slot" aria-label="Advertisement">
       <span class="ad-label">Advertisement</span>
-      <div class="ad-frame ad-frame--leader" data-ad-slot="landing-mid">
-        <span>Ad slot · <strong>728×90</strong> leaderboard (placeholder)</span>
+      <div class="ad-frame ad-frame--leader">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7106052656127997"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
       </div>
     </aside>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
     <!-- How it works -->
     <section id="how-it-works" aria-labelledby="how-heading">
       <div class="container">
         <div class="section-head">
           <p class="eyebrow">How it works</p>
-          <h2 id="how-heading">Three quiet steps.</h2>
-          <p class="lede">No feed, no debate thread—just passage, verse, and two careful readings.</p>
+          <h2 id="how-heading">Four quiet steps.</h2>
+          <p class="lede">No feed, no debate thread—just passage, verse, two careful readings, and historic quotes from both camps.</p>
         </div>
         <ol class="steps">
           <li class="step">
@@ -1023,12 +1124,17 @@
           <li class="step">
             <div class="step-num">02</div>
             <h3>Read the verse</h3>
-            <p>The biblical text stays front and center. Context and cross-references stay close at hand.</p>
+            <p>The biblical text stays front and center. A short context paragraph sits with the passage.</p>
           </li>
           <li class="step">
             <div class="step-num">03</div>
             <h3>Compare both notes</h3>
             <p>Arminian and Reformed commentary sit in equal columns—clear, concise, and fair to each tradition.</p>
+          </li>
+          <li class="step">
+            <div class="step-num">04</div>
+            <h3>Hear historic voices</h3>
+            <p>Every passage includes historic Arminian and Reformed quotes—Voices from both camps. <a href="/bible/matthew/1/18-25.html#voices">See Matthew 1:18–25</a>.</p>
           </li>
         </ol>
       </div>
@@ -1040,7 +1146,7 @@
         <div class="section-head">
           <p class="eyebrow">Perspectives</p>
           <h2 id="persp-heading">Two historic traditions, presented in good faith.</h2>
-          <p class="lede">We are not here to declare a winner. We are here to help you hear both voices beside the text.</p>
+          <p class="lede">We are not here to declare a winner. We are here to help you hear both traditions beside the text—in the notes, and in historic quotes.</p>
         </div>
         <div class="persp-grid">
           <article class="persp-card">
@@ -1074,61 +1180,28 @@
           Neither card is a full systematic. Both are starting points for <em>learning</em>,
           not ammunition for winning an argument.
         </p>
+        <aside class="voices-callout" aria-label="Historic quotes">
+          <p class="voices-pill">Historic quotes</p>
+          <p>
+            Every passage includes <strong>Voices from both camps</strong>—historic Arminian and
+            Reformed quotations beside the notes, so you hear each tradition in its own words.
+            <a href="/bible/matthew/1/18-25.html#voices">See them on Matthew 1:18–25</a>.
+          </p>
+        </aside>
       </div>
     </section>
-
-    <!-- Passage tease -->
-    <section id="sample" aria-labelledby="sample-heading">
-      <div class="container">
-        <div class="section-head">
-          <p class="eyebrow">From Matthew</p>
-          <h2 id="sample-heading">Matthew begins — Messiah named.</h2>
-          <p class="lede">From chapter 1: the angel names Jesus and announces His saving work—Arminian and Reformed notes side by side.</p>
-        </div>
-        <div class="sample-wrap">
-          <article class="sample-card">
-            <div class="sample-verse-block">
-              <p class="ref">Matthew 1:21</p>
-              <blockquote>
-                “She will bear a son, and you shall call his name Jesus, for he will save his people
-                from their sins.”
-              </blockquote>
-            </div>
-            <div class="sample-cols">
-              <div class="sample-col">
-                <span class="dual-label label-arminian">Arminian</span>
-                <p>
-                  Classical Arminians gladly confess that Jesus truly saves, and often hear “his people”
-                  in a way that keeps the gospel invitation wide—God’s saving love in Christ toward
-                  sinners who may receive Him by grace-enabled faith. The verse fuels mission and
-                  assurance for all who come.
-                </p>
-              </div>
-              <div class="sample-col">
-                <span class="dual-label label-reformed">Reformed</span>
-                <p>
-                  The angel defines both name and mission. Jesus saves “his people” from their sins—
-                  particular language Reformed theology reads as the people given to the Son, effectively
-                  redeemed by Him. Faith is the appointed means; the Savior’s work is certain.
-                </p>
-              </div>
-            </div>
-          </article>
-          <div class="sample-cta" style="display:flex;flex-wrap:wrap;gap:0.85rem;justify-content:center;">
-            <a href="/bible/matthew/1/18-25.html" class="btn btn-primary">Read Matthew 1:18–25</a>
-            <a href="/bible/colossians/1/15-23.html" class="btn btn-secondary">Read Colossians 1:15–23</a>
-          </div>
-        </div>
-      </div>
-    </section>
-
 
     <aside class="ad-slot" aria-label="Advertisement">
       <span class="ad-label">Advertisement</span>
-      <div class="ad-frame ad-frame--leader" data-ad-slot="landing-lower">
-        <span>Ad slot · <strong>728×90</strong> · supports Got-Theology.com</span>
+      <div class="ad-frame ad-frame--leader">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7106052656127997"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
       </div>
     </aside>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 
     <!-- Updates -->
@@ -1137,16 +1210,11 @@
         <div class="waitlist-box">
           <p class="eyebrow" style="color: var(--gold-soft);">Updates</p>
           <h2 id="updates-heading">Want a note when more passages land?</h2>
-          <p class="lede">Leave your email. No spam, no pressure to pick a camp.</p>
-          <form class="waitlist-form" name="updates" method="POST" action="/thanks.html" data-netlify="true" netlify netlify-honeypot="bot-field">
-            <input type="hidden" name="form-name" value="updates" />
-            <p class="visually-hidden" aria-hidden="true">
-              <label>Don’t fill this out <input name="bot-field" tabindex="-1" autocomplete="off" /></label>
-            </p>
-            <label for="email" class="visually-hidden">Email</label>
-            <input type="email" id="email" name="email" placeholder="you@example.com" autocomplete="email" required />
-            <button type="submit" class="btn btn-gold">Keep me updated</button>
-          </form>
+          <p class="lede">Email us. No spam, no pressure to pick a camp.</p>
+          <p class="waitlist-form" style="display:flex;gap:0.85rem;align-items:center;flex-wrap:wrap;">
+            <a class="btn btn-gold" href="mailto:info.got.theology@gmail.com?subject=Got-Theology.com%20updates">Email info.got.theology@gmail.com</a>
+          </p>
+          <p class="form-note">That mailbox is the site contact. We’ll add you when you write.</p>
         </div>
       </div>
     </section>
@@ -1165,6 +1233,8 @@
           <a href="#how-it-works">How it works</a>
           <a href="#perspectives">Perspectives</a>
           <a href="/bible/">Bible</a>
+          <a href="mailto:info.got.theology@gmail.com">Contact</a>
+          <a href="/privacy.html">Privacy</a>
           <a href="#updates">Updates</a>
         </nav>
       </div>

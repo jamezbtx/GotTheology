@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 8:1–4",
   "context": "Jesus comes down from the Sermon on the Mount into concrete mercy: a leper kneels, Jesus touches the unclean, and Mosaic law is honored as the man is sent to the priest. Kingdom authority shown in word now appears in healing compassion.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus comes down from the Sermon on the Mount into concrete mercy: a leper kneels, Jesus touches the unclean—so each camp speaks in its own voice beside Matthew 8:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "A leper came - Leprosies in those countries were seldom curable by natural means, any more than palsies or lunacy. Probably this leper, though he might not mix with the people, had heard our Lord at a distance. See thou tell no man - Perhaps our Lord only meant here, Not till thou hast showed thyself to the priest-who was appointed to inquire into the case of leprosy.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 8:1–4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And when he had come down from the mountain Matthew now returns to the course of the history. He had formerly said, that Christ went up into a mountain, (verse 1) then he threw, as it were, into one heap, many leading points of the doctrine of Christ; and now he adds that, about the time when he preached on the mountain, he healed a certain leper The same event is related by Mark and Luke, though they do not mention the time.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 8:1–4)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

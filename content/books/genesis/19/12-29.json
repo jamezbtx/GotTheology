@@ -8,6 +8,26 @@
   "title": "Genesis 19:12–29",
   "context": "The angels warn Lot to take his household out of Sodom. His sons-in-law treat the warning as a joke. Lot lingers; they seize his hand—the LORD being merciful—and set him outside. He is granted flight to little Zoar. Sulfur and fire fall; Lot’s wife looks back and becomes a pillar of salt. Abraham looks toward the plain, and the narrator names why Lot lived: God remembered Abraham.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on mercy dragging Lot out, and fire on the cities of the plain—so each camp speaks in its own voice beside Genesis 19:12–29.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It was not time to trifle, when the destruction was just at the door. But he seemed to them as one that mocked—They thought perhaps that the assault which the Sodomites had just now made upon his house had disturbed his head, and put him into such a fright that be knew not what he said. They that made a jest of every thing, made a jest of that, and so perished in the overthrow.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 19:14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "At length the angels declare for what purpose they came, and what they were about to do. For so great was the indignity of the last act of this people, that Lot must now see how impossible it was for God to bear with them any longer. And, in the first place, they declare, that they are come to destroy the city, because the cry of it was waxen great.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 19:12)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 12,

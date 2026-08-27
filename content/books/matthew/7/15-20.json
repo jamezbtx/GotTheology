@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 7:15–20",
   "context": "On the narrow way, Jesus warns of false prophets: charming exteriors, predatory hearts, and a simple test—fruit over fleece. Disciples must discern by what a life and teaching actually produce.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on on the narrow way, Jesus warns of false prophets: charming exteriors, predatory hearts—so each camp speaks in its own voice beside Matthew 7:15–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Beware of false prophets - Who in their preaching describe a broad way to heaven: it is their prophesying, their teaching the broad way, rather than their walking in it themselves, that is here chiefly spoken of. All those are false prophets, who teach any other way than that our Lord hath here marked out.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 7:15–20)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "But beware of false prophets These words were intended to teach, that the Church would be exposed to various impositions, and that consequently many would be in danger of falling from the faith, if they were not carefully on their guard. We know what a strong propensity men have to falsehood, so that they not only have a natural desire to be deceived, but each individual appears to be ingenious in deceiving himself.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 7:15–20)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 15,

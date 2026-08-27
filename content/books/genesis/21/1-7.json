@@ -8,6 +8,26 @@
   "title": "Genesis 21:1–7",
   "context": "After the Abimelech episode in chapter 20, the long-delayed word arrives: the LORD visits Sarah as He had said. Isaac is born, named, and circumcised; Sarah’s laughter turns from disbelief to praise at the time God had spoken.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Isaac born as the LORD had said, and Sarah’s laughter turned to joy—so each camp speaks in its own voice beside Genesis 21:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "God therefore, by promise, gave that strength. Abraham was old, and Sarah old, and both as good as dead, and then the word of God took place.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 21:2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Because all offspring, flows from the kindness of God, as it is in the psalm, The fruit of the womb is the gift of God;' ( Psalm 127:3 ;) therefore the Lord is said, not without reason, to visit those, to whom he gives children. For although the foetus seems to be produced naturally, each from its own kind; there is yet no fecundity in animals, except so far as the Lord puts forth his own power, to fulfill what he has said, Increase and multiply.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 21:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

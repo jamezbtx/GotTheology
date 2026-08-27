@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 8:14–17",
   "context": "In Peter’s house Jesus heals a fevered mother-in-law who rises to serve; that evening He casts out demons with a word and heals all who are sick. Matthew reads the mercy as Isaiah 53:4 fulfilled—the Servant who takes illnesses and bears diseases.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on in Peter’s house Jesus heals a fevered mother-in-law who rises to serve; that evening He casts out demons with a word—so each camp speaks in its own voice beside Matthew 8:14–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Peter's wife's mother - St. Peter was then a young man, as were all the apostles. Whereby was fulfilled what was spoken by the Prophet Isaiah - He spoke it in a more exalted sense. The evangelist here only alludes to those words, as being capable of this lower meaning also.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 8:14–17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "That it might be fulfilled which was spoken by Isaiah the prophet. This prediction has the appearance of being inappropriate, and even of being tortured into a meaning which it does not bear: for Isaiah does not there speak of miracles, but of the death of Christ, — and not of temporal benefits, but of spiritual and eternal grace.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 8:14–17)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 14,

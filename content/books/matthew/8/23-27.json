@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 8:23–27",
   "context": "Jesus embarks; a sudden storm terrifies the disciples while He sleeps. Their cry, His rebuke of wind and sea, and their wonder disclose both little faith and lordship over creation.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus embarks; a sudden storm terrifies the disciples while He sleeps—so each camp speaks in its own voice beside Matthew 8:23–27.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The ship was covered - So man's extremity is God's opportunity. Why are ye fearful - Then he rebuked the winds - First, he composed their spirits, and then the sea.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 8:23–27)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And when he had entered into a ship Mark says that other little ships crossed along with him: but that Christ entered into his own ship with his disciples Luke too quotes his words: Matthew is more concise. They agree, however, as to the leading fact, that Christ laid himself down to rest, and that, while he was asleep, a tempest suddenly arose.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 8:23–27)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 23,

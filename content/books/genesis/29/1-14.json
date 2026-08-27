@@ -8,6 +8,26 @@
   "title": "Genesis 29:1–14",
   "context": "After Bethel’s vow, Jacob journeys east and arrives at a well in Haran country. He meets Rachel, waters Laban’s flock, weeps, and is received into Laban’s house as bone and flesh—providence bringing the promised heir to the family from which Isaac’s wife had come.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jacob at the well, Rachel, and Laban’s “bone and flesh”—so each camp speaks in its own voice beside Genesis 29:1–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "She kept her father's sheep—She took the care of them, having servants under her that were employed about them when he understood that this was his kinswoman (probably he had heard of her name before) knowing what his errand was into that country, we may suppose it struck into his mind immediately, that this must be his wife, as one already smitten with an honest comely face (though it is likely, sun-burnt, and she in the homely dress of a shepherdess) he is wonderfully officious, and ready to serve her, ver.10, and addresses himself to her with tears of joy, and kisses of love, ver.11, she runs with all haste to tell her father, for she will by no means entertain her kinsman's address without her father's knowledge and approbation, ver.12.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 29:9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The great frankness of that age appears in this manner of meeting together; for, though the fraternal name is often abused by dishonest and wicked men, it is yet not to be doubted that friendly intercourse was then more faithfully cultivated than it is now. This was the reason why Jacob salutes unknown men as brethren, undoubtedly according to received custom.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 29:4)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

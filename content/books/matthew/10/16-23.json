@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 10:16–23",
   "context": "Jesus widens the mission charge into realism: sheep among wolves, courts and kings, family betrayal, hatred for His name, endurance unto salvation, and flight from town to town until the Son of Man comes. Courage here is Spirit-supplied witness, not naïveté.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus widens the mission charge into realism: sheep among wolves, courts and kings, family betrayal—so each camp speaks in its own voice beside Matthew 10:16–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "But think not that all your innocence and all your wisdom will screen you from persecution. They will scourge you in their synagogues - In these the Jews held their courts of judicature, about both civil and ecclesiastical affairs. Take no thought - Neither at this time, on any sudden call, need we be careful how or what to answer.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 10:16–23)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Behold, I send you out The exhortation which immediately follows plainly shows the design of this admonition; and therefore the order of the passage must be explained in this manner: \"You have need of wisdom and of harmlessness, because you will be like sheep in the midst of wolves \" The reason is drawn from the necessity of the case: for if they did not wisely exercise caution, they might be immediately devoured by the wolves; and, on the other hand, if they trembled at the rage of the wolves, or were incautious, they would presently waver, and would at length fail to perform their duty.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 10:16–23)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 16,

@@ -1,0 +1,59 @@
+{
+  "book": "Ephesians",
+  "bookSlug": "ephesians",
+  "chapter": 6,
+  "verseStart": 21,
+  "verseEnd": 24,
+  "translation": "ESV",
+  "title": "Ephesians 6:21–24",
+  "context": "Paul’s closing to the Ephesian church—Tychicus sent to tell how he is, then a benediction of peace, love with faith, and grace for those who love Christ with love incorruptible.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Paul’s closing to the Ephesian church—Tychicus the beloved messenger, then peace, love with faith, and grace for those who love Christ incorruptibly—so each camp speaks in its own voice beside Ephesians 6:21–24.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye also - As well as others. That he might comfort your hearts - By relating the supports I find from God, and the success of the gospel. Peace - This verse recapitulates the whole epistle. In sincerity - Or in incorruption; without corrupting his genuine gospel, without any mixture of corrupt affections. And that with continuance, till grace issue in glory.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Eph 6:21–24)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "To prevent this danger, Paul sends Tychicus, from whom the Ephesians would receive full information. From this prayer we learn that faith and love, as well as peace itself, are gifts of God bestowed upon us through Christ, — that they come equally from God the Father and the Lord Jesus Christ. The meaning is, “May God continue to bestow his favor on all who love Jesus Christ with a pure conscience!” This prayer conveys to us the instruction, that the only way of enjoying the light of the Divine countenance is to love sincerely God’s own Son, in whom his love toward us has been declared and confirmed.",
+        "cite": "John Calvin",
+        "source": "Commentary on Ephesians (on Eph 6:21–24)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 21,
+      "text": "So that you also may know how I am and what I am doing, Tychicus the beloved brother and faithful minister in the Lord will tell you everything.",
+      "arminianNotes": "Paul will not leave the church guessing. Tychicus—“the beloved brother and faithful minister in the Lord”—is sent so they may know how Paul is and what he is doing. Classical Arminians hear ordinary, responsible means: a willing servant whose fidelity the church can receive. “Tell you everything” is pastoral transparency. Grace uses a brother’s truthful speech; the Ephesians are treated as people who can hear and respond.",
+      "reformedNotes": "Rumor unsettles churches; Paul answers it with a named messenger. “Beloved” and “faithful in the Lord” are not self-made badges—they describe a man the Lord has made useful. Reformed reading: even from confinement the apostle provides for distant saints. Christ’s care of His people runs through appointed ministers, and Tychicus’s credibility is bound up with the Lord who holds him."
+    },
+    {
+      "number": 22,
+      "text": "I have sent him to you for this very purpose, that you may know how we are, and that he may encourage your hearts.",
+      "arminianNotes": "The sending has a double aim: news of “how we are,” and encouragement of hearts. Wesley hears Tychicus relating the supports Paul finds from God and the gospel’s success. Classical Arminians take the pastoral aim at face value—hearts can be strengthened by true report. Grace meets the church in a brother’s words; they are not left to private anxiety or speculation.",
+      "reformedNotes": "“For this very purpose” marks a deliberate mission, not a casual errand. God supplies not only doctrine but a messenger so anxious hearts are steadied. Reformed comfort: encouragement is a means of grace. The same Lord who bound Paul also sent Tychicus, that the church might know the truth and be consoled in it."
+    },
+    {
+      "number": 23,
+      "text": "Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.",
+      "arminianNotes": "Wesley notes that this verse recapitulates the whole epistle: peace to the brothers, and love with faith, from the Father and the Son. Classical Arminians gladly confess the source—these are not meritorious works the church manufactures. They are gifts sincerely given, to be received and lived. “Love with faith” names living union with Christ, not a bare profession. The brethren are to walk in what God actually bestows.",
+      "reformedNotes": "Calvin hears the prayer as doctrine: faith and love, as well as peace itself, are gifts of God bestowed through Christ—from the Father and the Son equally. Reformed reading: the closing does not hand the church a self-produced harmony. “Love with faith” is one blessing from above, not love as a human add-on to a faith we generated. What the letter required, God must give.",
+      "keyContrast": "Both camps confess that peace, love, and faith come from the Father and the Lord Jesus Christ. Arminians typically stress these as gifts to be received and kept in living faith; the Reformed stress that they are bestowed gifts—fruit of grace, not the church’s native stock."
+    },
+    {
+      "number": 24,
+      "text": "Grace be with all who love our Lord Jesus Christ with love incorruptible.",
+      "arminianNotes": "The blessing is spoken over “all who love” Christ with love incorruptible—not a nameless decree, but people whose love is real. Wesley: in incorruption, without corrupting Christ’s genuine gospel, without mixture of corrupt affections, and with continuance till grace issue in glory. Classical Arminians do not treat love as a wage that purchases grace; they treat it as living faith’s necessary mark. Grace attends those who so love; a dead or hypocritical profession is not what Paul blesses.",
+      "reformedNotes": "“All who love” names the people grace has already made. Incorruptible love is not the meritorious door into favor; it is the Spirit’s fruit in the elect. Calvin’s prayer is that God would continue to bestow His favor on those who love Christ with a pure conscience—grace’s continuance, not a human prerequisite that causes grace. Reformed pastoral note: look not for a love you must manufacture in order to qualify, but for the incorruptible love God works in His own, and rest in the grace that both begins and keeps it.",
+      "keyContrast": "Arminians typically read “all who love” as the living condition of those whom grace attends—sincere, persevering love as the mark of true faith. Reformed readers typically read that love as itself the fruit of grace in the elect: the blessing describes those God has already made lovers of Christ, not a human work that causes grace."
+    }
+  ]
+}

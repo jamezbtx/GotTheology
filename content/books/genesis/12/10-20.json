@@ -8,6 +8,26 @@
   "title": "Genesis 12:10–20",
   "context": "Famine drives Abram down to Egypt. Fear for his life leads him to pass Sarai off as his sister; she is taken into Pharaoh’s house, Abram is enriched, and the LORD strikes Pharaoh’s household. The pagan king rebukes the patriarch and sends them away—promise threatened, then preserved by God, not by Abram’s scheme.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Abram in Egypt, fear, and the LORD’s protection of Sarai—so each camp speaks in its own voice beside Genesis 12:10–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "And there was a famine in the land—Not only to punish the iniquity of the Canaanites, but to exercise the faith of Abram. Now he was tried whether he could trust the God that brought him to Canaan, to maintain him there, and rejoice in him as the God of his salvation, when the fig-tree did not blossom.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 12:10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "A much more severe temptation is now recorded, by which the faith of Abram is tried to the quick. For he is not only led around through various windings of the country, but is driven into exile, from the land which God had given to him and to his posterity. It is to be observed, that Chaldea was exceedingly fertile; having been, from this cause, accustomed to opulence, he came to Charran, where, it is conjectured, he lived commodiously enough, since it is clear he had an increase of servants and of wealth.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 12:10)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 10,

@@ -6,8 +6,28 @@
   "verseEnd": 68,
   "translation": "ESV",
   "title": "Matthew 26:57–68",
-  "showVoices": true,
   "context": "Jesus is led to Caiaphas; the scribes and elders gather. Peter follows at a distance into the courtyard. The council seeks false testimony, finally charges Jesus under the temple saying and His confession as the Christ, the Son of God. The high priest declares blasphemy; they condemn Him as deserving death and begin to mock and strike Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus is led to Caiaphas; the scribes and elders gather—so each camp speaks in its own voice beside Matthew 26:57–68.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "They led him away to Caiaphas - From the house of Annas, the father-in-law of Caiaphas, to whom they had carried him first. But Peter followed him afar off - Variously agitated by conflicting passions; love constrained him to follow his Master; fear made him follow afar off.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:57–68)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It is certain that Christ was silent when false witnesses pressed hard upon him, not only because they did not deserve a reply, but because he did not seek to be now acquitted, knowing that his hour was come. But Caiaphas triumphs over him on account of his silence, as if he was struck dumb by being vanquished; which is usually the case with men who are conscious of having done wrong.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:57–68)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 57,

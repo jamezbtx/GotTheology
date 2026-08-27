@@ -8,6 +8,26 @@
   "title": "Genesis 15:7–21",
   "context": "The same night continues: God identifies Himself as the One who brought Abram from Ur to give him the land. Abram asks how he will know; the LORD answers with a covenant rite. Animals are divided; Abram drives off birds; a deep sleep and dreadful darkness fall; then a smoking fire pot and flaming torch pass between the pieces while the promise of sojourn, affliction, exodus, and land is sworn.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the covenant rite, the smoking firepot, and the land grant—so each camp speaks in its own voice beside Genesis 15:7–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "When the sun was gone down the sign was given—The smoaking furnace signified the affliction of his seed in Egypt: they were there in the furnace of affliction, and labouring in the very fire. They were there in the smoke, their eyes darkened that they could not see to the end of their troubles. 2. The burning lamp speaks comfort in this affliction; and this God shewed Abram at the same time with the smoaking furnace.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 15:17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Again a new vision was added, to confirm his faith in the oracle. At first, Abram was horror-struck with the thick darkness; now, in the midst of a smoking furnace, he sees a burning lamp. Many suppose that a sacrifice was consumed with this fire; but I rather interpret it as a symbol of future deliverance, which would well agree with the fact itself.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 15:17)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 7,

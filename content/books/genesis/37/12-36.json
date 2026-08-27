@@ -8,6 +8,26 @@
   "title": "Genesis 37:12–36",
   "context": "Joseph is sent from Hebron to Shechem, then Dothan. The brothers conspire, strip the robe, throw him in a pit, sell him for twenty shekels, and fake a wild-animal death. Jacob mourns toward Sheol while Joseph is sold in Egypt to Potiphar.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the pit, the sale, and Jacob’s mourning—so each camp speaks in its own voice beside Genesis 37:12–36.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Reuben of all the brothers had most reason to be jealous of Joseph, for he was the first-born, and so entitled to those distinguishing favours which Jacob was conferring on Joseph, yet he proves his best friend. Reuben's temper seems to have been soft and effeminate, which had betrayed him to the sin of uncleanness, while the temper of the two next brothers, Simeon and Levi, was fierce, which betrayed them to the sin of murder, a sin which Reuben startled at the thought of.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 37:21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Some think that Joseph was twice sold in the same place. For it is certain, since Median was the son of Abraham and Keturah, that his sons were distinct from the sons of Ishmael: and Moses has not thoughtlessly put down these different names. But I thus interpret the passage: that Joseph was exposed for sale to any one who chose, and seeing the purchase of him was declined by the Midianites, he was sold to the Ishmaelites.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 37:28)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 12,

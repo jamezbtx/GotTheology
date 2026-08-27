@@ -8,6 +8,26 @@
   "title": "Matthew 21:23–27",
   "context": "Back in the temple, chief priests and elders challenge Jesus’ authority while He teaches. He answers with a question about John’s baptism; trapped between heaven’s claim and fear of the crowd, they plead ignorance—and He withholds further disclosure of His authority.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on back in the temple, chief priests and elders challenge Jesus’ authority while He teaches—so each camp speaks in its own voice beside Matthew 21:23–27.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "When he was come into the temple, the chief priests came - Who thought he violated their right: and the elders of the people - Probably, members of the sanhedrim, to whom that title most properly belonged: which is the more probable, as they were the persons under whose cognizance the late action of Christ, in purging the temple, would naturally fall. These, with the chief priests, seem purposely to have appeared in a considerable company, to give the more weight to what they said, and if need were, to bear a united testimony against him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 21:23–27)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By what authority doest thou these things. As the other schemes and open attempts to attack Christ had not succeeded, the priests and scribes now attempt, by indirect methods, if they may possibly cause him to desist from the practice of teaching.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 21:23–27)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 23,

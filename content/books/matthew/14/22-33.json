@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 14:22–33",
   "context": "After the five thousand eat and twelve baskets remain (14:13–21), Jesus immediately sends the disciples ahead by boat, dismisses the crowds, and prays alone on the mountain. In the night storm He walks on the sea, steadies their fear—“It is I”—receives Peter’s venture of faith, rescues him when fear sinks him, stills the wind, and hears the boat’s worship: “Truly you are the Son of God.”",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus immediately sends the disciples ahead by boat, dismisses the crowds, and prays alone on the mountain—so each camp speaks in its own voice beside Matthew 14:22–33.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He constrained his disciples - Who were unwilling to leave him. In the evening - Learned men say the Jews reckoned two evenings; the first beginning at three in the afternoon, the second, at sunset. The fourth watch - The Jews (as well as the Romans) usually divided the night into four watches, of three hours each. The first watch began at six, the second at nine, the third at twelve, the fourth at three in the morning.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 14:22–33)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And immediately Jesus constrained his disciples They must have been constrained; for they would never, of their own accord, have left him, and gone to the other side. Now in this they testify their great veneration for him, when, contrary to their own opinions, they yield to his command and obey it.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 14:22–33)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 22,

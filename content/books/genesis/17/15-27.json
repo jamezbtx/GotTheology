@@ -8,6 +8,26 @@
   "title": "Genesis 17:15–27",
   "context": "God renames Sarai as Sarah, promises a son from her, and names him Isaac. Abraham laughs and pleads for Ishmael; God blesses Ishmael with twelve princes yet fixes the everlasting covenant on Isaac. Abraham circumcises his whole house that very day—himself at ninety-nine, Ishmael at thirteen.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Sarah named, Isaac promised, and Ishmael blessed—so each camp speaks in its own voice beside Genesis 17:15–27.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Now it was that Abraham rejoiced to see Christ's day, now he saw it and was glad, John 8:56, for as he saw heaven in the promise of Canaan, so he saw Christ in the promise of Isaac, and said, Shall a child be born to him that is an hundred years old? - He doth not here speak of it, as at all doubtful, for we are sure he staggered not at the promise, Rom 4:20, but as wonderful, and that which could not be effected but by the almighty power of God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 17:17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "For Abraham not only adores God, but in giving him thanks, testifies that he receives and embraces what was promised concerning a son. Hence also we infer that he laughed, not because he either despised, or regarded as fabulous, or rejected, the promise of God; but, as is commonly wont to happen in things which are least expected, partly exulting with joy, and partly being carried beyond himself in admiration, he breaks forth into laughter.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 17:17)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 15,

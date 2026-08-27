@@ -8,6 +8,26 @@
   "title": "Genesis 1:1–5",
   "context": "The Bible opens not with Israel or the law but with God speaking a world into being. Genesis 1:1–5 is day one of the creation week: heavens and earth, the formless deep, the Spirit hovering, then light summoned, named, and judged good. Evening and morning mark the first day. The pericope establishes that everything begins with God’s word, not with rival gods or eternal matter.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on creation from nothing and the first light—so each camp speaks in its own voice beside Genesis 1:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The heaven and the earth—that is, the world, including the whole frame and furniture of the universe. God created, that is, made it out of nothing. There was not any pre-existent matter out of which the world was produced. In the beginning—that is, in the beginning of time. Time began with the production of those beings that are measured by time. Before the beginning of time there was none but that Infinite Being that inhabits eternity.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 1:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Therefore his meaning is, that the world was made out of nothing. Hence the folly of those is refuted who imagine that unformed matter existed from eternity. Let this, then, be maintained in the first place, that the world is not eternal but was created by God. And it is certain that the world had been begun by the same efficacy of the Word by which it was completed.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 1:1, 3)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

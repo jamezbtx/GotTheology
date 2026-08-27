@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 2:13–15",
   "context": "After the Magi leave, an angel warns Joseph in a dream to flee to Egypt with the child and Mary; Joseph obeys by night, and Matthew hears in their sojourn the fulfillment of “Out of Egypt I called my son.”",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on an angel warns Joseph in a dream to flee to Egypt with the child and Mary; Joseph obeys by night—so each camp speaks in its own voice beside Matthew 2:13–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "That it might be fulfilled - That is, whereby was fulfilled. The original word frequently signifies, not the design of an action, but barely the consequence or event of it. Which was spoken of the Lord by the prophet - on another occasion: Out of Egypt have I called my Son - which was now fulfilled as it were anew; Christ being in a far higher sense the Son of God than Israel, of whom the words were originally spoken.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 2:13–15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And when they had departed How many days elapsed from the departure of the Magi, till Joseph was ordered to flee into Egypt, is not known, nor is it of much importance to inquire: only it is probable that the Lord spared Mary, till she was so far recovered from childbirth as to be able to perform the journey. It was a wonderful purpose of God, that he chose to preserve his Son by flight.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 2:13–15)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 13,

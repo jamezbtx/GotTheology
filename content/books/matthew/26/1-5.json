@@ -6,8 +6,28 @@
   "verseEnd": 5,
   "translation": "ESV",
   "title": "Matthew 26:1–5",
-  "showVoices": true,
   "context": "After the Olivet Discourse (chs. 24–25), Matthew opens the Passion narrative. Jesus announces that Passover is two days away and that the Son of Man will be delivered up to crucifixion, while the chief priests and elders plot a stealthy arrest—yet delay it for fear of the people.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on after the Olivet Discourse—so each camp speaks in its own voice beside Matthew 26:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "When Jesus had finished all these discourses - When he had spoken all he had to speak. Till then he would not enter upon his passion: then he would delay it no longer. After two days is the Passover - The manner wherein this was celebrated gives much light to several circumstances that follow.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:1–5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Then were assembled the chief priests. Matthew does not mean that they assembled during the two days, but introduces this narrative to show, that Christ was not led by any opinion of man to fix the day of his death; for by what conjectures could he have been led to it, since his enemies themselves had resolved to delay for a time?",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:1–5)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

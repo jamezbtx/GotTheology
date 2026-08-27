@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 12:33–37",
   "context": "After the Beelzebul charge and the warning about blasphemy against the Spirit (12:22–32), Jesus presses the Pharisees with tree-and-fruit logic: speech flows from the heart’s treasure, and on judgment day careless words will justify or condemn.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus presses the Pharisees with tree-and-fruit logic: speech flows from the heart’s treasure—so each camp speaks in its own voice beside Matthew 12:33–37.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Either make the tree good and its fruit good: or make the tree corrupt and its fruit corrupt - That is, you must allow, they are both good, or both bad.- For if the fruit is good, so is the tree; if the fruit is evil, so is the tree also. For the tree is known by its fruit - As if he had said, Ye may therefore know me by my fruits.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 12:33–37)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Either make the tree good It might look like absurdity, that men should be allowed a choice of being either good or bad; but if we consider what sort of persons Christ is addressing, the difficulty will be speedily resolved. We know what opinion was generally entertained about the Pharisees; for their pretended sanctity had so blinded the minds of the common people, that no one ventured to pass sentence on their vices.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 12:33–37)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 33,

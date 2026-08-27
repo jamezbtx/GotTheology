@@ -8,6 +8,26 @@
   "title": "Matthew 23:13–15",
   "context": "After exposing honor-seeking religion, Jesus opens the seven woes. The first strike hypocrisy that blocks the kingdom and mission that multiplies ruin. (ESV omits v. 14, present in some manuscripts as a widows’-houses woe.)",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus opens the seven woes—so each camp speaks in its own voice beside Matthew 23:13–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Wo unto you, scribes - I think the fourteenth and thirteenth verses should be transposed. This transposition is authorized by some of the best MSS., versions, and fathers. The fourteenth is wanting in the BDL., and in many others of inferior note, as well as in several of the versions.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 23:13–15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Christ pronounces a curse on them, because they pervert their office to the general destruction of the whole people; for since the government of the Church was in their hands, they ought to have been, as it were, porters for the kingdom of heaven. What purpose is served by religion and holy doctrine but to open heaven to us?",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 23:13–15)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 13,

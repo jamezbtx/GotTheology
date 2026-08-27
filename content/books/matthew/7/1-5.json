@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 7:1–5",
   "context": "Still in the Sermon on the Mount, Jesus turns from anxiety and treasure to relationships in the kingdom community: a warning against hypocritical judgment, paired with the call to clear-eyed self-examination before helping a brother.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus turns from anxiety and treasure to relationships in the kingdom community: a warning against hypocritical—so each camp speaks in its own voice beside Matthew 7:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Judge not - any man without full, clear, certain knowledge, without absolute necessity, without tender love. With what measure ye mete, it shall be measured to you - Awful words! So we may, as it were, choose for ourselves, whether God shall be severe or merciful to us.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 7:1–5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Judge not These words of Christ do not contain an absolute prohibition from judging, but are intended to cure a disease, which appears to be natural to us all. We see how all flatter themselves, and every man passes a severe censure on others.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 7:1–5)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

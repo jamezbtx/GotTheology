@@ -6,8 +6,28 @@
   "verseEnd": 56,
   "translation": "ESV",
   "title": "Matthew 26:47–56",
-  "showVoices": true,
   "context": "Judas arrives with a crowd from the chief priests and elders, betrays Jesus with a kiss, and the arrest follows. A disciple strikes with the sword; Jesus rebukes violence, affirms He could call legions of angels, and submits so the Scriptures are fulfilled. The disciples flee.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on judas arrives with a crowd from the chief priests and elders, betrays Jesus with a kiss, and the arrest follows—so each camp speaks in its own voice beside Matthew 26:47–56.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The heroic behaviour of the blessed Jesus, in the whole period of his sufferings, will be observed by every attentive eye, and felt by every pious heart: although the sacred historians, according to their usual but wonderful simplicity, make no encomiums upon it. With what composure does he go forth to meet the traitor!",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:47–56)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And, lo, one of those who were with Jesus. Luke says, that all the disciples made an agreement together to fight for their Master. Hence it is again evident, that we are much more courageous and ready for fighting than for bearing the cross; and, therefore, we ought always to deliberate wisely what the Lord commands, and what he requires from every one of us, lest the fervor of our zeal exceed the bounds of reason and moderation.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:47–56)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 47,

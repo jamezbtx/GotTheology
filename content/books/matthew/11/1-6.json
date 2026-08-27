@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 11:1–6",
   "context": "After commissioning the Twelve (ch. 10), Jesus resumes His own ministry while John the Baptist—now in prison—sends disciples to ask whether Jesus is the Coming One. Jesus answers with Isaiah-shaped messianic works and a beatitude for those not offended by Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on after commissioning the Twelve—so each camp speaks in its own voice beside Matthew 11:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He sent two of his disciples - Not because he doubted himself; but to confirm their faith. Go and tell John the things that ye hear and see - Which are a stronger proof of my being the Messiah, than any bare assertion can be. The poor have the Gospel preached to them - The greatest mercy of all.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 11:1–6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And it happened that when Jesus had made an end In this passage Matthew means nothing more than that Christ did not desist from the exercise of his office, while the Apostles were laboring in another direction. As soon, therefore, as he sent them away, with the necessary instructions, to perambulate Judea, he performed the duties of a teacher in Galilee.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 11:1–6)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

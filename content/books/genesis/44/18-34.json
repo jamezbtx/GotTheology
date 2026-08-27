@@ -8,6 +8,26 @@
   "title": "Genesis 44:18–34",
   "context": "Judah draws near and pleads: the old father, the dead brother, the boy whose life is bound up with Jacob’s. He recites Joseph’s own demand, Jacob’s fear of Sheol, and his pledge to bear the blame. Then he offers himself as servant in Benjamin’s place—the sale’s leader now standing in as substitute so the beloved son can go home.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Judah’s plea to stay in the boy’s place—so each camp speaks in its own voice beside Genesis 44:18–34.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Either Judah was a better friend to Benjamin than the rest, and more solicitous to bring him off; or he thought himself under greater obligations to endeavour it than the rest, because he had passed his word to his father for his safe return. His address, as it is here recorded, is so very natural, and so expressive of his present passion, that we cannot but suppose Moses, who wrote it so long after, to have written it under the special direction of him that made man's mouth.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 44:18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Judah suppliantly asks that leave may be given him to speak, because his narrative was about to be prolix. And whereas nobles are offended, and take it angrily, if any address them with too great familiarity, Judas begins by declaring that he is not ignorant of the great honor which Joseph had received in Egypt, for the purpose of showing that he was becoming bold, not through impertinence, but through necessity.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 44:18)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 18,

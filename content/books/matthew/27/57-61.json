@@ -6,8 +6,28 @@
   "verseEnd": 61,
   "translation": "ESV",
   "title": "Matthew 27:57–61",
-  "showVoices": true,
   "context": "Evening falls. Joseph of Arimathea, a rich disciple, asks Pilate for Jesus’ body, wraps it in clean linen, and lays it in his own new rock tomb; Mary Magdalene and the other Mary sit opposite, watching.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on evening falls—so each camp speaks in its own voice beside Matthew 27:57–61.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "When the evening was come - That is, after three o'clock; the time from three to six they termed the evening.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 27:57–61)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Let it be understood that Joseph did not come in the dusk of the evening, but before sunset, that he might perform this office of kindness to his Master, without violating the Sabbath; for the Sabbath commenced in the evening, and therefore it was necessary that Christ should be laid in the grave before night came on. Now from the time that Christ died until the Sabbath began to be observed, there were three free days.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 27:57–61)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 57,

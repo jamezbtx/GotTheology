@@ -8,6 +8,26 @@
   "title": "Genesis 2:1–3",
   "context": "Genesis 2 opens by closing the creation week: heavens, earth, and their host are finished, and God rests, blesses, and makes holy the seventh day. Verses 1–3 are the Sabbath hinge between the six days of chapter 1 and the garden narrative that follows—rest after work, consecration after completion.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the seventh day, rest, and the holiness of the Sabbath—so each camp speaks in its own voice beside Genesis 2:1–3.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "That the creatures made both in heaven and earth, are the hosts or armies of them, which speaks them numerous, but marshalled, disciplined, and under command. God useth them as his hosts for the defence of his people, and the destruction of his enemies. 2. That the heavens and the earth are finished pieces, and so are all the creatures in them.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 2:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "For it is certain that inasmuch as God sustains the world by his power, governs it by his providence, cherishes and even propagates all creatures, he is constantly at work. Therefore that saying of Christ is true, that the Father and he himself had worked from the beginning hitherto, because, if God should but withdraw his hand a little, all things would immediately perish and dissolve into nothing, as is declared in Psalm 104:29 And indeed God is rightly acknowledged as the Creator of heaven and earth only whilst their perpetual preservation is ascribed to him.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 2:2)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

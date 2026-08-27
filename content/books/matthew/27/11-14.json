@@ -6,8 +6,28 @@
   "verseEnd": 14,
   "translation": "ESV",
   "title": "Matthew 27:11–14",
-  "showVoices": true,
   "context": "Bound and delivered to Pilate (vv. 1–2), Jesus now stands before the Roman governor. Pilate asks about kingship; the chief priests and elders heap accusations; Jesus answers little, and the governor is greatly amazed.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on bound and delivered to Pilate—so each camp speaks in its own voice beside Matthew 27:11–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "- Jesus before Caiaphas avows himself to be the Christ, before Pilate to be a king; clearly showing thereby, that his answering no more, was not owing to any fear.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 27:11–14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Now Jesus stood before the governor. Though it was a shocking exhibition, and highly incompatible with the majesty of the Son of God, to be dragged before the judgment-seat of a profane man, to be tried on the charge of a capital offense, as a malefactor in chains; yet we ought to remember that; our salvation consists in the doctrine of the cross, which is folly to the Greeks, and an offense to the Jews, (1 Corinthians 1:23.) For the Son of God chose to stand bound before an earthly judge, and there to receive sentence of death, in order that we, delivered from condemnation, may not fear to approach freely to the heavenly throne of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 27:11–14)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 11,

@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 9:27–31",
   "context": "Two blind men follow Jesus, crying for mercy as Son of David. Indoors He probes their faith, touches their eyes, and opens them—then warns silence they cannot keep as fame spreads.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on two blind men follow Jesus, crying for mercy as Son of David—so each camp speaks in its own voice beside Matthew 9:27–31.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Son of David - This was the same as if they had called him Messiah. Two things here are worthy of remark:\n1st. That it was a generally received opinion at this time in Judea, that the Messiah should be son of David. That Jesus Christ was generally and incontestably acknowledged as coming from this stock.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 9:27–31)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The other Evangelists say nothing about these two miracles; for, as we have already said, and as John expressly affirms, (21:25,) they did not intend to record every action of Christ, but only to prove, by a brief summary, that he is the Messiah. Now Matthew relates that sight was restored to two blind men, but not so speedily as Christ was wont, on many other occasions, to grant relief to the wretched.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 9:27–31)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 27,

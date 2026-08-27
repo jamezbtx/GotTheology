@@ -7,6 +7,26 @@
   "translation": "ESV",
   "title": "Genesis 33:1–20",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Esau’s embrace, and Jacob’s altar to El-Elohe-Israel—so each camp speaks in its own voice beside Genesis 33:1–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Eleven or twelve little ones followed Jacob, the eldest of them not fourteen years old: Who are these? saith Esau. Jacob had sent him an account of the increase of his estate, but made no mention of his children, perhaps because he would not expose them to his rage, if he should meet him as an enemy. Esau therefore had reason to ask who are those with thee?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 33:5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We have said how greatly Jacob feared for himself from his brother; but now when Esau himself approaches, his terror is not only renewed, but increased. For although he goes forth like a courageous and spirited combatant to this contest, he is still not exempt from a sense of danger; whence it follows, that he is not free, either from anxiety or fear. For his cruel brother had still the same cause of hatred against him as before.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 33:1)"
+      }
+    ]
+  },
   "context": "After Peniel, Jacob lifts his eyes and Esau comes with four hundred men. Jacob arranges his household, bows seven times, and finds not a sword but an embrace. Gifts are pressed and received; travel plans part them—Esau to Seir, Jacob to Succoth, then safely to Shechem in Canaan, where he buys land and raises an altar: El-Elohe-Israel.",
   "verses": [
     {

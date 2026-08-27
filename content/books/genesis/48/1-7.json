@@ -8,6 +8,26 @@
   "title": "Genesis 48:1–7",
   "context": "Joseph hears that Jacob is ill and brings Manasseh and Ephraim. Israel sits up, recites El Shaddai’s Luz promise, and adopts the two Egyptian-born sons as his own—equal to Reuben and Simeon—then remembers Rachel’s burial on the way to Ephrath.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on adopting Ephraim and Manasseh as Jacob’s own—so each camp speaks in its own voice beside Genesis 48:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "God had promised him two things, a numerous issue, and Canaan for an inheritance. See how he blessed them by faith in that which God had said to him Heb 11:21.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 48:3)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Jacob confers on his son the special privilege, that he, being one, should constitute two chiefs; that is, that his two sons should succeed to an equal right with their uncles, as if they had been heirs in the first degree. But what is this! that a decrepit old man assigns to his grandchildren, as a royal patrimony, a sixth part of the land in which he had entered as a stranger, and from which now again he is an exile!",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 48:5)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

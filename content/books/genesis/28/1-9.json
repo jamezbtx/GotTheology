@@ -8,6 +8,26 @@
   "title": "Genesis 28:1–9",
   "context": "After the stolen blessing of chapter 27, Isaac now knowingly sends Jacob to Paddan-aram: no Canaanite wife, and the Abrahamic blessing spoken on purpose. Esau watches, then tries a cosmetic fix by marrying Mahalath of Ishmael’s line.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Isaac sending Jacob with the Abrahamic blessing—so each camp speaks in its own voice beside Genesis 28:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Two great promises Abraham was blessed with, and Isaac here entails them both upon Jacob. The promise of heirs, God make thee fruitful and multiply thee. Through his loins that people should descend from Abraham which should be numerous as the stars of heaven.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 28:3)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Here follows the form of benediction, which slightly differs in words from the former, but nevertheless tends to the same end. First, he desires that Jacob should be blessed by God; that is, that he should be so increased and amplified in his own offspring, as to grow into a multitude of nations; or, in other words, that he should produce many people who might combine into one body under the same head; as if he had said, Let there arise from thee many tribes, who shall constitute one people.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 28:3)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

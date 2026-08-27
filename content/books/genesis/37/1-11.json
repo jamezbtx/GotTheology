@@ -8,6 +8,26 @@
   "title": "Genesis 37:1–11",
   "context": "Jacob dwells in Canaan. The Joseph story opens: a seventeen-year-old bringing a bad report, a father’s favoritism and a many-colored robe, brothers who cannot speak peace, and two dreams of sheaves and stars that deepen hatred while Israel keeps the saying in mind.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Joseph’s dreams and the brothers’ hatred—so each camp speaks in its own voice beside Genesis 37:1–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Though he was now very young, about seventeen years old, yet he was pious and devout, and this fitted him for God's gracious discoveries to him. Joseph had a great deal of trouble before him, and therefore God gave him betimes this prospect of his advancement, to support and comfort him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 37:5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By the word tvldvt toledoth we are not so much to understand a genealogy, as a record of events, which appears more clearly from the context. For Moses having thus commenced, does not enumerate sons and grandsons, but explains the cause of the envy of Joseph's brethren, who formed a wicked conspiracy against him, and sold him as a slave: as if he had said \"Having briefly summed up the genealogy of Esau, I now revert to the series of my history, as to what happened to the family of Jacob.\" Moreover, Moses being about to speak of the abominable wickedness of Jacob's sons, begins with the statement, that Joseph was dear beyond the rest to his father, because he had begotten him in his old age: and as a token of tender love, had clothed him with a coat woven of many colors.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 37:2)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

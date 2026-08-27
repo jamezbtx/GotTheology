@@ -8,6 +8,26 @@
   "title": "Genesis 1:14–19",
   "context": "Day four places lights in the expanse already made: for signs and seasons, days and years, and to give light on the earth. Verses 14–19 refuse to treat sun and moon as deities; they are creatures assigned to rule the day and night as servants. The week’s rhythm now has visible markers in the sky.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on sun, moon, and stars as servants, not deities—so each camp speaks in its own voice beside Genesis 1:14–19.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "This is the history of the fourth day's work, the creating the sun, moon and stars. Of this we have an account, In general, verse 14, 15. where we have, The command given concerning them. Let there be lights in the firmament of heaven—God had said, Ge 1:3 Let there be light, and there was light; but that was, as it were, a chaos of light, scattered and confused; now it was collected and made into several luminaries, and so rendered both more glorious and more serviceable.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 1:14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Let there be lights Moses passes onwards to the fourth day, on which the stars were made. God had before created the light, but he now institutes a new order in nature, that the sun should be the dispenser of diurnal light, and the moon and stars should shine by night. For Moses relates nothing else than that God ordained certain instruments to diffuse through the earth, by reciprocal changes, that light which had been previously created.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 1:14)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 14,

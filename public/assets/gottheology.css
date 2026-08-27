@@ -88,12 +88,58 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
 
     /* —— Voices / quotes —— */
     .voices {
-      padding: 3.5rem 0 1rem;
+      padding: 2.75rem 0 3rem;
+      margin-top: 0.5rem;
+      scroll-margin-top: 4.75rem;
+      background:
+        linear-gradient(180deg, rgba(243, 233, 208, 0.45) 0%, var(--cream-deep) 38%, rgba(61, 107, 107, 0.07) 100%);
+      border-block: 1px solid var(--border);
+      position: relative;
+    }
+    .voices::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--teal) 0%, var(--gold) 50%, var(--teal) 100%);
+      opacity: 0.9;
+    }
+    .voices-panel {
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: calc(var(--radius) + 2px);
+      box-shadow: var(--shadow-sm);
+      padding: 2.1rem 1.6rem 1.6rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .voices-panel::before {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 4px;
+      background: linear-gradient(180deg, var(--teal), var(--gold));
     }
     .voices-intro {
       text-align: center;
       max-width: 36rem;
-      margin: 0 auto 2.25rem;
+      margin: 0 auto 2rem;
+    }
+    .voices-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.28rem 0.78rem;
+      border-radius: 999px;
+      background: linear-gradient(90deg, rgba(61, 107, 107, 0.12), var(--gold-pale));
+      color: #6b5424;
+      border: 1px solid rgba(176, 141, 62, 0.35);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 0.9rem;
     }
     .voices-intro h2 {
       font-size: clamp(1.65rem, 2.8vw, 2.1rem);
@@ -110,12 +156,14 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
       align-items: start;
     }
     .voices-col {
-      background: var(--paper);
+      background: var(--cream);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      box-shadow: var(--shadow-sm);
+      box-shadow: none;
       padding: 1.35rem 1.35rem 1.1rem;
     }
+    .voices-col.arminian { border-top: 3px solid var(--teal); }
+    .voices-col.reformed { border-top: 3px solid var(--gold); }
     .voices-col h3 {
       font-family: var(--font-sans);
       font-size: 0.78rem;
@@ -159,8 +207,26 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
       font-size: 0.85rem;
       color: var(--ink-muted);
     }
+    .voices-jump {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.28rem 0.7rem;
+      border-radius: 999px;
+      background: rgba(61, 107, 107, 0.12);
+      color: var(--teal);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      transition: background 0.15s, color 0.15s;
+    }
+    .voices-jump:hover {
+      background: rgba(61, 107, 107, 0.2);
+      color: var(--ink);
+    }
     @media (max-width: 800px) {
       .voices-grid { grid-template-columns: 1fr; }
+      .voices-panel { padding: 1.6rem 1.15rem 1.25rem; }
     }
 
     /* —— Buttons —— */
@@ -693,6 +759,50 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
   padding-bottom: 0.65rem;
   border-bottom: 1px solid var(--border);
 }
+.chapter-jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0 0 1rem;
+}
+.chapter-jump a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  padding: 0.22rem 0.45rem;
+  border-radius: 6px;
+  background: var(--cream-deep);
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+  font-weight: 600;
+  border: 1px solid var(--border);
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.chapter-jump a:hover,
+.chapter-jump a:focus-visible {
+  background: var(--gold-pale);
+  border-color: rgba(176, 141, 62, 0.45);
+  color: var(--ink);
+}
+.book-block .chapter-group {
+  margin-top: 0.35rem;
+}
+.book-block .chapter-group + .chapter-group {
+  margin-top: 1rem;
+}
+.book-block .chapter-heading {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 0.4rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
+  scroll-margin-top: 5rem;
+}
 .passage-list {
   list-style: none;
   display: flex;
@@ -736,12 +846,12 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
 }
 .search-label {
   display: block;
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
+  font-size: 0.84rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--gold);
-  margin-bottom: 0.55rem;
+  margin-bottom: 0.6rem;
 }
 .search-field {
   position: relative;

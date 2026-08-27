@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 4:23–25",
   "context": "Jesus travels throughout Galilee teaching in synagogues, proclaiming the gospel of the kingdom, and healing every disease and affliction; fame spreads to Syria, the sick are brought, and great crowds follow from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus travels throughout Galilee teaching in synagogues, proclaiming the gospel of the kingdom—so each camp speaks in its own voice beside Matthew 4:23–25.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The Gospel of the kingdom - The Gospel, that is, the joyous message, is the proper name of our religion: as will be amply verified in all who earnestly and perseveringly embrace it. Through all Syria - The whole province, of which the Jewish country was only a small part.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 4:23–25)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As this history is placed by Luke after the two miracles, which we shall afterwards see, an opinion has commonly prevailed, that the miracle, which is here related by him, was performed some time after that they had been called by Christ. But the reason, which they allege, carries little weight: for no fixed and distinct order of dates was observed by the Evangelists in composing their narratives.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 4:23–25)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 23,

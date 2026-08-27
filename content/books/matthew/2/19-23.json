@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 2:19–23",
   "context": "After Herod’s death, an angel tells Joseph to return to Israel; fearing Archelaus, Joseph is warned again and settles in Nazareth, fulfilling the word that the Messiah would be called a Nazarene.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on an angel tells Joseph to return to Israel; fearing Archelaus, Joseph is warned again and settles in Nazareth—so each camp speaks in its own voice beside Matthew 2:19–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He was afraid to go thither - into Judea; and so turned aside into the region of Galilee - a part of the land of Israel not under the jurisdiction of Archelaus. He came and dwelt in Nazareth - (where he had dwelt before he went to Bethlehem) a place contemptible to a proverb.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 2:19–23)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "But when Herod was dead These words show the perseverance of Joseph's faith. He kept his feet firm in Egypt, till he was recalled to his native country by a command of God. We see, at the same time, that the Lord never disappoints his own people, but renders them seasonable aid.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 2:19–23)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 19,

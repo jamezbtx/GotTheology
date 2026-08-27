@@ -8,6 +8,26 @@
   "title": "Genesis 5:21–32",
   "context": "The genealogy breaks its death-refrain for Enoch, who walked with God and was taken. Methuselah’s long life, Lamech’s naming of Noah as hoped relief from the cursed ground, and Noah’s three sons then carry the line God will preserve through the flood.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Enoch who walked with God, and Noah named for comfort—so each camp speaks in its own voice beside Genesis 5:21–32.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "To walk with God, is to set God always before us, and to act as those that are always under his eye. It is to live a life of communion with God, both in ordinances and providences; it is to make God's word our rule, and his glory our end, in all our actions; it is to make it our constant care and endeavour in every thing to please God, and in nothing to offend him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 5:22)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He must be shamelessly contentious, who will not acknowledge that something extraordinary is here pointed out. All are, indeed, taken out of the world by death; but Moses plainly declares that Enoch was taken out of the world by an unusual mode, and was received by the Lord in a miraculous manner.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 5:24)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 21,

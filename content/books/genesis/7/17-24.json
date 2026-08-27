@@ -8,6 +8,26 @@
   "title": "Genesis 7:17–24",
   "context": "Judgment falls as the Lord had said: waters increase forty days, lift the ark high above the earth, and cover even the high mountains. All flesh that moved on dry land dies—everything with the breath of life. God blots out every living thing on the ground; only Noah and those with him in the ark are left, and the waters prevail 150 days.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the flood covering the mountains and the death of all flesh—so each camp speaks in its own voice beside Genesis 7:17–24.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "All flesh died, all in whose nostrils was the breath of life, of all that was on the dry land, every living substance—And why so? Man only had done wickedly, and justly is God's hand against him, but these sheep what have they done? We are sure God did them no wrong.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 7:21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses copiously insists upon this fact, in order to show that the whole world was immersed in the waters. Moreover, it is to be regarded as the special design of this narrations that we should not ascribe to fortune, the flood by which the world perished; how ever customary it may be for men to cast some veil over the works of God, which may obscure either his goodness or his judgments manifested in them.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 7:17)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 17,

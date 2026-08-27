@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Ephesians 1:3–6",
   "context": "Paul’s opening blessing to the Ephesian church—praise that unfolds election, adoption, and grace.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Paul’s opening blessing to the Ephesian church—praise that unfolds election, adoption, and grace—so each camp speaks in its own voice beside Ephesians 1:3–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us - God's blessing us is his bestowing all spiritual and heavenly blessings upon us. Our blessing God is the paying him our solemn and grateful acknowledgments, both on account of his own essential blessedness, and of the blessings which he bestows upon us.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Eph 1:3–6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The lofty terms in which he extolls the grace of God toward the Ephesians, are intended to rouse their hearts to gratitude, to set them all on flame, to fill them even to overflowing with this thought. They who perceive in themselves discoveries of the Divine goodness, so full and absolutely perfect, and who make them the subject of earnest meditation, will never embrace new doctrines, by which the very grace which they feel so powerfully in themselves is thrown into the shade.",
+        "cite": "John Calvin",
+        "source": "Commentary on Ephesians (on Eph 1:3–6)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 3,

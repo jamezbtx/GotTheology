@@ -8,6 +8,26 @@
   "title": "Matthew 25:1–13",
   "context": "Still answering the disciples’ watchfulness questions from chapter 24, Jesus pictures the kingdom as ten virgins awaiting a delayed bridegroom. Wisdom and folly turn on oil ready before the midnight cry; those prepared enter the feast, the door shuts, and the refrain returns: watch, for you know neither the day nor the hour.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus pictures the kingdom as ten virgins awaiting a delayed bridegroom—so each camp speaks in its own voice beside Matthew 25:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Then shall the kingdom of heaven - That is, the candidates for it, be like ten virgins - The bridemaids on the wedding night were wont to go to the house where the bride was, with burning lamps or torches in their hands, to wait for the bride groom's coming. When he drew near, they went to meet him with their lamps, and to conduct him to the bride.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 25:1–13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By this term is meant the condition of the future Church, which was to be collected by the authority and direction of Christ. He employs this remarkable title, that believers may not deceive themselves by an erroneous opinion that they have arrived at absolute perfection.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 25:1–13)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

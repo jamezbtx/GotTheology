@@ -6,8 +6,28 @@
   "verseEnd": 66,
   "translation": "ESV",
   "title": "Matthew 27:62–66",
-  "showVoices": true,
   "context": "After Preparation Day, chief priests and Pharisees ask Pilate to secure the tomb against a stolen-body story. Pilate grants a guard; they seal the stone—unwittingly strengthening the later witness of resurrection.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on chief priests and Pharisees ask Pilate to secure the tomb against a stolen-body story—so each camp speaks in its own voice beside Matthew 27:62–66.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "On the morrow, the day that followed the day of the preparation - The day of preparation was the day before the Sabbath, whereon they were to prepare for the celebration of it. The next day then was the Sabbath according to the Jews. But the evangelist seems to express it by this circumlocution, to show the Jewish Sabbath was then abolished.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 27:62–66)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In this narrative Matthew did not so much intend to show with what determined rage the scribes and priests pursued Christ, as to exhibit to us, as in a mirror, the amazing providence of God in proving the resurrection of his Son. Cunning men, practiced at least in fraud and treachery, plot among themselves, and contrive a method by which they may extinguish the memory of a dead man; for they see that they have gained nothing, if they do not destroy the certainty of the resurrection.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 27:62–66)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 62,

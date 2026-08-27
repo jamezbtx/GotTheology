@@ -8,6 +8,26 @@
   "title": "Genesis 14:1–12",
   "context": "After Lot settled toward Sodom, a coalition of eastern kings raids Canaan. Five cities of the plain revolt, lose in the Valley of Siddim, and Lot is carried off with Sodom’s goods—kinship and location catching him in a war he did not start.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the war of the kings and Lot carried off from Sodom—so each camp speaks in its own voice beside Genesis 14:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The invaders were four kings; two of them no less than kings of Shinar and Elam—That is, Chaldea and Persia; yet probably not the sovereign princes of those great kingdoms, but rather the heads of some colonies which came out thence, and settled themselves near Sodom, but retained the names of the countries from which they had their original. The invaded were the kings of five cities that lay near together in the plain of Jordan, Sodom and Gomorrah, Admah, Zeboiim, and Zoar. [2.] The occasion of this war was, the revolt of the five kings from under the government of Chedorlaomer.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 14:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The history related in this chapter is chiefly worthy of remembrance, for three reasons: first, because Lot, with a gentle reproof, exhorted the men of Sodom to repentance; they had, however, become altogether unteachable, and desperately perverse in their wickedness. But Lot was beaten with these scourges, because, having been allured and deceived by the richness of the soil, he had mixed himself with unholy and wicked men.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 14:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

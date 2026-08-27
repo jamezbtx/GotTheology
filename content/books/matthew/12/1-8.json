@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 12:1–8",
   "context": "Following Jesus’ invitation to the weary (11:28–30), Matthew narrates a Sabbath controversy: the disciples pluck grain, the Pharisees accuse, and Jesus answers from Scripture—David, the temple priests, Hosea’s “mercy,” and His own lordship of the Sabbath.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on following Jesus’ invitation to the weary (11:28–30)—so each camp speaks in its own voice beside Matthew 12:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "His disciples plucked the ears of corn, and ate - Just what sufficed for present necessity: dried corn was a common food among the Jews. Have ye not read what David did - And necessity was a sufficient plea for his transgressing the law in a higher instance.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 12:1–8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Jesus was walking on the Sabbath It was the design of the Evangelists, in this history, to show partly what a malicious disposition the Pharisees had, and partly how superstitiously they were attached to outward and slight matters, so as to make holiness to consist in them entirely. They blame the disciples of Christ for plucking the ears of corn on the Sabbath, during their journey, when they were pressed with hunger, as if, by so doing, they were violating the Sabbath.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 12:1–8)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

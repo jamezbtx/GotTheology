@@ -8,6 +8,26 @@
   "title": "Matthew 13:24–30",
   "context": "Jesus sets another kingdom parable before the crowds: good seed sown in a field, an enemy’s weeds mixed among the wheat, and a master’s patience until harvest. Premature uprooting is refused; final separation is reserved for the reapers.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus sets another kingdom parable before the crowds: good seed sown in a field—so each camp speaks in its own voice beside Matthew 13:24–30.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He proposed another parable - in which he farther explains the case of unfruitful hearers. The kingdom of heaven (as has been observed before) sometimes signifies eternal glory: sometimes the way to it, inward religion; sometimes, as here, the Gospel dispensation: the phrase is likewise used for a person or thing relating to any one of those: so in this place it means, Christ preaching the Gospel, who is like a man sowing good seed - The expression, is like, both here and in several other places, only means, that the thing spoken of may be illustrated by the following similitude.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 13:24–30)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In order to reap the advantage of this parable, it is necessary to ascertain the object which Christ had in view. Some think that, to guard a mixed multitude against satisfying themselves with an outward profession of the Gospel, he told them, that in his own field bad seed is often mixed with the good, but that a day is coming, when the tares shall be separated from the wheat.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 13:24–30)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 24,

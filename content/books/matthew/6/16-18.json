@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 6:16–18",
   "context": "Jesus completes the secret-piety triad—after alms and prayer—by reforming fasting: refuse gloomy display for human eyes; appear ordinary before people so that the Father who sees in secret is the true audience.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus completes the secret-piety triad—after alms and prayer—by reforming fasting: refuse gloomy display for human—so each camp speaks in its own voice beside Matthew 6:16–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "- Our Lord does not enjoin either fasting, alms- deeds, or prayer: all these being duties which were before fully established in the Church of God. Disfigure - By the dust and ashes which they put upon their heads, as was usual at the times of solemn humiliation.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 6:16–18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He again returns to the former doctrine: for, having begun to rebuke vain ostentation in alms and prayer, he laid down, before proceeding farther, the rule for praying in a right manner. The same injunction is now given to his disciples about fasting, which he had formerly given about prayers and alms, not to be too solicitous to obtain the applause of spectators, but to have God as the witness of their actions.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 6:16–18)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 16,

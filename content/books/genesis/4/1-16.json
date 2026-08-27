@@ -8,6 +8,26 @@
   "title": "Genesis 4:1–16",
   "context": "After Eden, life continues east of the garden: Eve bears Cain and Abel, the brothers bring offerings, the Lord regards Abel’s gift and not Cain’s, and Cain’s anger ripens into the first murder. God still speaks, warns, judges, and even marks the guilty with a severe mercy before Cain walks away from His presence.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Cain, Abel, and the blood that cries from the ground—so each camp speaks in its own voice beside Genesis 4:1–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "We are sure there was a good reason for this difference: that Governor of the world, though an absolute sovereign, doth not act arbitrarily in dispensing his smiles and frowns. There was a difference in the characters of the persons offering: Cain was a wicked man, but Abel was a righteous man, Mt 23:35. There was a difference in the offerings they brought.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 4:4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "God is said to have respect unto the man to whom he vouchsafes his favor. We must, however, notice the order here observed by Moses; for he does not simply state that the worship which Abel had paid was pleasing to God, but he begins with the person of the offerer; by which he signifies, that God will regard no works with favor except those the doer of which is already previously accepted and approved by him.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 4:4)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

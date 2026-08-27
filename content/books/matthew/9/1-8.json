@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 9:1–8",
   "context": "Back in His own city, Jesus meets a paralytic brought by friends. He first forgives sins, then heals the body—proving the Son of Man’s authority on earth against scribal charges of blasphemy. Mercy that reaches the deeper need also vindicates itself in visible power.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on back in His own city, Jesus meets a paralytic brought by friends—so each camp speaks in its own voice beside Matthew 9:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Seeing their faith - Both that of the paralytic, and of them that brought him. Son - A title of tenderness and condescension. This man blasphemeth - Attributing to himself a power (that of forgiving sins) which belongs to God only. Which is easier - Do not both of them argue a Divine power?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 9:1–8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This passage shows, that Capernaum was generally believed to be the birth-place of Christ, because his visits to it were frequent: for there is no room to doubt, that it is the same history which is related by the three Evangelists, though some circumstances may be more exactly related by one of them than by another. Luke says that scribes had come from various parts of Judea, who were spectators when Christ healed the paralytic; and at the same time states indirectly, that there were others who also received healing through the grace of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 9:1–8)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

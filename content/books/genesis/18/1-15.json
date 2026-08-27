@@ -8,6 +8,26 @@
   "title": "Genesis 18:1–15",
   "context": "The LORD appears to Abraham by the oaks of Mamre in the heat of the day; three men receive lavish hospitality while Sarah remains in the tent. The promise of a son within the year is restated; Sarah laughs at her worn-out body, and the LORD asks whether anything is too hard for Him—then names the laugh she denies.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on hospitality at Mamre and the promise that Sarah will have a son—so each camp speaks in its own voice beside Genesis 18:1–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "This appearance of God to Abraham seems to have had in it more of freedom and familiarity, and less of grandeur and majesty, than those we have hitherto read of, and therefore more resembles that great visit which in the fulness of time the Son of God was to make to the world. He sat in the tent-door in the heat of the day—Not so much to repose himself, as to seek an opportunity of doing good, by giving entertainment to strangers.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 18:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Before Moses prceeds to his principal subject, he describes to us, the hospitality of the holy man; and he calls the angels men, because, being clothed with human bodies, they appeared to be nothing else than men. For angels do not need those services of ours, which are the true evidences of charity. Moreover, hospitality holds the chief place among these services; because it is no common virtue to assist strangers, from whom there is no hope of reward.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 18:2)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

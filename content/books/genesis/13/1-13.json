@@ -8,6 +8,26 @@
   "title": "Genesis 13:1–13",
   "context": "After Egypt, Abram goes up into the Negeb with Sarai, Lot, and great wealth. Herds crowd the land, strife breaks out, and Abram yields first choice. Lot takes the Jordan valley toward Sodom; Abram remains in Canaan.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Abram yielding first choice, and Lot turning toward Sodom—so each camp speaks in its own voice beside Genesis 13:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He went on to Bethel—Thither he went, not only because he was willing to go among his old acquaintance; but because there he had formerly had his altar. and though the altar was gone, probably he himself having taking it down when he left the place, lest it should be polluted by the idolatrous Canaanites; yet he came to the place of the altar, either to revive the remembrance of the sweet communion he had had with God at that place, or, perhaps, to pay the vows he had there made to God when he undertook his journey into Egypt.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 13:3)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In the commencement of the chapter, Moses commemorates the goodness of God in protecting Abram; whence it came to pass, that he not only returned in safety, but took with him great wealth. This circumstance is also to be noticed, that when he was leaving Egypt, abounding in cattle and treasures, he was allowed to pursue his journey in peace; for it is surprising that the Egyptians would suffer what Abram had acquired among them, to be transferred elsewhere.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 13:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

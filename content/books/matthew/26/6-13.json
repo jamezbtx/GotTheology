@@ -6,8 +6,28 @@
   "verseEnd": 13,
   "translation": "ESV",
   "title": "Matthew 26:6–13",
-  "showVoices": true,
   "context": "While leaders plot in Jerusalem, Jesus is at Bethany in the house of Simon the leper. A woman anoints Him with costly ointment; the disciples call it waste; Jesus defends her act as beautiful preparation for His burial and promises that the gospel will remember her wherever it is proclaimed.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on while leaders plot in Jerusalem, Jesus is at Bethany in the house of Simon the leper—so each camp speaks in its own voice beside Matthew 26:6–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "His disciples seeing it, had indignation, saying - It seems several of them were angry, and spoke, though none so warmly as Judas Iscariot. Ye have the poor always with you - Such is the wise and gracious providence of God, that we may have always opportunities of relieving their wants, and so laying up for ourselves treasures in heaven.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:6–13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Then were assembled the chief priests. Matthew does not mean that they assembled during the two days, but introduces this narrative to show, that Christ was not led by any opinion of man to fix the day of his death; for by what conjectures could he have been led to it, since his enemies themselves had resolved to delay for a time?",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:6–13)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 6,

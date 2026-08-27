@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 5:21–26",
   "context": "In the Sermon’s first antithesis, Jesus takes the commandment against murder and presses it inward. The King who fulfills the Law exposes anger, contempt, and broken fellowship as matters of judgment—and calls disciples to reconcile before they worship and settle quickly before the court closes.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on in the Sermon’s first antithesis, Jesus takes the commandment against murder and presses it inward—so each camp speaks in its own voice beside Matthew 5:21–26.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye have heard - From the scribes reciting the law; Thou shalt do no murder - And they interpreted this, as all the other commandments, barely of the outward act. The judgement - The Jews had in every city a court of twenty-three men, who could sentence a criminal to be strangled.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 5:21–26)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Therefore, if thou shalt bring thy gift This clause confirms, and at the same time explains, the preceding doctrine. It amounts to this, that the precept of the law, which forbids murder, (Exodus 20:13,) is obeyed, when we maintain agreement and brotherly kindness, with our neighbor.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 5:21–26)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 21,

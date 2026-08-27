@@ -8,6 +8,26 @@
   "title": "Genesis 1:20–23",
   "context": "Day five fills the waters and skies with living swarms. Verses 20–23 introduce blessing for the first time—“Be fruitful and multiply”—spoken to sea creatures and birds according to their kinds. Life is not an accident of the elements; God creates it, names it good, and sends it forth with His benediction.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the first blessing on living swarms of sea and sky—so each camp speaks in its own voice beside Genesis 1:20–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Each day hitherto hath produced very excellent beings, but we do not read of the creation of any living creature till the fifth day. The work of creation not only proceeded gradually from one thing to another, but advanced gradually from that which was less excellent, to that which was more so. 'Twas on the fifth day that the fish and fowl were created, and both out of the waters.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 1:20)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "For we have before contended, that because the world was created, it was made out of nothing; but now Moses says that things formed from other matter were created. They who truly and properly assert that the fishes were created because the waters were in no way sufficient or suitable for their production, only resort to a subterfuge: for, in the meantime, the fact would remain that the material of which they were made existed before; which, in strict propriety, the word created does not admit.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 1:21)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 20,

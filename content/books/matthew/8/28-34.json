@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 8:28–34",
   "context": "On the other side, two demon-possessed men confront Jesus. The demons recognize the Son of God, beg, and enter a herd of pigs that perish—while the town asks Jesus to leave. Authority over hell meets human preference for pigs and peace over the Liberator.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on on the other side, two demon-possessed men confront Jesus—so each camp speaks in its own voice beside Matthew 8:28–34.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The country of the Gergesenes - Or of the Gadarenes - Gergesa and Gadara were towns near each other. Hence the country between them took its name, sometimes from the one, sometimes from the other. There met him two demoniacs - St. Mark and St. Luke mention only one, who was probably the fiercer of the two, and the person who spoke to our Lord first.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 8:28–34)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Willingly would they, by this word, drive him far from them. But when they see that they are held under restraint, and that it is in vain for them to decline his authority, they complain that they are tormented before the time, and likewise mingle entreaty.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 8:28–34)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 28,

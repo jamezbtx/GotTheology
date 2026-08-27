@@ -1,0 +1,46 @@
+{
+  "book": "Ephesians",
+  "bookSlug": "ephesians",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 2,
+  "translation": "ESV",
+  "title": "Ephesians 1:1–2",
+  "context": "Paul greets the saints in Ephesus as an apostle by God’s will, naming them faithful in Christ and blessing them with grace and peace from the Father and the Lord Jesus.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Paul’s greeting to the Ephesian saints—apostleship by God’s will, and grace and peace from the Father and the Lord Jesus—so each camp speaks in its own voice beside Ephesians 1:1–2.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "By the will of God — Not by any merit of my own. To the saints who are at Ephesus — And in all the adjacent places. For this epistle is not directed to the Ephesians only, but likewise to all the other churches of Asia.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Eph 1:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He adds, by the will of God; for no man ought to take this honor unto himself, but every man ought to wait for the calling of God, which alone makes lawful ministers. He thus meets the jeers of wicked men by holding out the authority of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on Ephesians (on Eph 1:1)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, an apostle of Christ Jesus by the will of God, To the saints who are in Ephesus, and are faithful in Christ Jesus:",
+      "arminianNotes": "Paul names himself apostle of Christ Jesus “by the will of God”—not by personal merit, as Wesley notes—and addresses “the saints who are in Ephesus, and are faithful in Christ Jesus.” Office and identity both rest on God’s gracious initiative.\n\nClassical Arminians gladly confess that vocation is God’s: no one takes the honor. That same will sincerely calls people into Christ, where “saints” and “faithful” describe those who have responded to enabling grace. Faithfulness is real life in the Son, not a status drawn irrespective of the gospel’s offer.",
+      "reformedNotes": "Paul’s apostleship is “by the will of God.” Calvin hears the point: no one may seize this honor; God’s calling alone makes lawful ministers. The addressees are saints and faithful “in Christ Jesus”—set apart in the Son before they are located in Ephesus.\n\nReformed comfort: the letter arrives under divine appointment. Messenger and people alike stand by God’s will; union with Christ, not self-made status, names them holy and faithful. The greeting already rests on the counsel that sends Christ and His apostle.",
+      "keyContrast": "Both refuse self-appointed ministry. Arminian readings typically hear “the will of God” as gracious vocation that initiates office and sincerely invites faith; Reformed readings hear the same will as God’s sovereign appointment—the calling that alone constitutes lawful ministers and a people in Christ."
+    },
+    {
+      "number": 2,
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+      "arminianNotes": "“Grace to you and peace” is no empty formula. The blessing comes from God our Father and the Lord Jesus Christ—shared source, shared gift. Grace is the Father’s favor in the Son; peace is the fruit of that favor received.\n\nArminian pastoral note: the greeting assumes a living relationship that grace has made possible and that faith continues to receive. Grace is sincerely given; peace is real for those in Christ. The church is addressed as people who may live from this blessing, not merely hear about it.",
+      "reformedNotes": "Grace and peace flow from the Father and the Lord Jesus Christ as covenant kindness, not as a wish that might or might not land. The church is blessed from above because it is already addressed in the Son.\n\nReformed reading: the apostolic benediction names gifts God actually bestows on those in Christ. Union with the Lord Jesus is the channel; the Father’s peace is as sure as the Christ who purchased it. What Paul speaks, God gives."
+    }
+  ]
+}

@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 2:16–18",
   "context": "When Herod realizes the Magi will not return, he erupts in rage and slaughters the boys of Bethlehem; Matthew frames the horror with Jeremiah’s lament of Rachel weeping for her children.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on he erupts in rage and slaughters the boys of Bethlehem; Matthew frames the horror with Jeremiah’s lament of Rachel—so each camp speaks in its own voice beside Matthew 2:16–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Then Herod, seeing that he was deluded by the wise men - So did his pride teach him to regard this action, as if it were intended to expose him to the derision of his subjects. Sending forth - a party of soldiers: In all the confines thereof - In all the neighbouring places, of which Rama was one.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 2:16–18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And when they had departed How many days elapsed from the departure of the Magi, till Joseph was ordered to flee into Egypt, is not known, nor is it of much importance to inquire: only it is probable that the Lord spared Mary, till she was so far recovered from childbirth as to be able to perform the journey. It was a wonderful purpose of God, that he chose to preserve his Son by flight.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 2:16–18)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 16,

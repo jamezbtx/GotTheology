@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 1:1–17",
   "context": "Matthew opens his Gospel with the genealogy of Jesus Christ—tracing the Messiah from Abraham and David through exile to Joseph and Mary—so that readers see promise fulfilled and a Savior who belongs to Israel’s story.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Matthew opens his Gospel with the genealogy of Jesus Christ—tracing the Messiah from Abraham and David through exile—so each camp speaks in its own voice beside Matthew 1:1–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The book of the generation of Jesus Christ — that is, strictly speaking, the account of his birth and genealogy. This title therefore properly relates to the verses that immediately follow: but as it sometimes signifies the history of a person, in that sense it may belong to the whole book.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 1:1–17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As all are not agreed about these two genealogies, which are given by Matthew and Luke, we must first see whether both trace the genealogy of Christ from Joseph, or whether Matthew only traces it from Joseph, and Luke from Mary. Those who are of this latter opinion have a plausible ground for their distinction in the diversity of the names: and certainly, at first sight, nothing seems more improbable than that Matthew and Luke, who differ so widely from each other, give one and the same genealogy.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 1:1–17)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

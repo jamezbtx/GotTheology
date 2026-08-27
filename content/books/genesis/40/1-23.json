@@ -7,6 +7,26 @@
   "translation": "ESV",
   "title": "Genesis 40:1–23",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on dreams in prison, and interpretations that belong to God—so each camp speaks in its own voice beside Genesis 40:1–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "We should not have had this story of Pharaoh's butler and baker recorded in scripture, if it had not been serviceable to Joseph's preferment. The world stands for the sake of the church, and is governed for its good. Observe, [1.] Two of the great officers of Pharaoh's court having offended the king are committed to prison.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 40:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We have already seen, that when Joseph was in bonds, God cared for him. For whence arose the relaxation afforded him, but from the divine favor? Therefore, God, before he opened the door for his servant's deliverance, entered into the very prison to sustain him with his strength.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 40:1)"
+      }
+    ]
+  },
   "context": "In prison Joseph is assigned to Pharaoh’s cupbearer and baker. Each dreams; Joseph says interpretations belong to God. The cupbearer will be restored in three days, the baker hanged. Joseph asks to be remembered. On Pharaoh’s birthday both words come true—and the cupbearer forgets him.",
   "verses": [
     {

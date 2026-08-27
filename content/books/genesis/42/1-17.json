@@ -7,6 +7,26 @@
   "translation": "ESV",
   "title": "Genesis 42:1–17",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the brothers bowing, and Joseph remembering his dreams—so each camp speaks in its own voice beside Genesis 42:1–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The laying up of God's oracles in our hearts will be of excellent use to us in all our conduct. Joseph had an eye to his dreams, which he knew to be divine, in his carriage towards his brethren, and aimed at the accomplishment of them, and the bringing his brethren to repentance; and both those points were gained. He shewed himself harsh with them: the very manner of his speaking, considering the post he was in, was enough to frighten them, for he spake roughly to them—He charged them with ill designs against the government, treated them as dangerous persons, ye are spies, protesting by the life of Pharaoh that they were so.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 42:9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses begins, in this chapter, to treat of the occasion which drew Jacob with his whole family into Egypt; and thus leaves it to us to consider by what hidden and unexpected methods God may perform whatever he has decreed. Though, therefore, the providence of God is in itself a labyrinth; yet when we connect the issue of things with their beginnings, that admirable method of operation shines clearly in our view, which is not generally acknowledged, only because it is far removed from our observation.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 42:1)"
+      }
+    ]
+  },
   "context": "Famine in Canaan sends ten of Joseph’s brothers to Egypt for grain. They bow before the governor they sold, who recognizes them, remembers his dreams, speaks roughly, and holds them as alleged spies until Benjamin is named.",
   "verses": [
     {

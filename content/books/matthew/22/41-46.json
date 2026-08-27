@@ -8,6 +8,26 @@
   "title": "Matthew 22:41–46",
   "context": "Jesus turns the examination on the Pharisees: whose son is the Christ? Psalm 110:1 shows David calling the Messiah “Lord,” so the Son of David is more than a mere descendant. No one dares ask Him another question.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus turns the examination on the Pharisees: whose son is the Christ?—so each camp speaks in its own voice beside Matthew 22:41–46.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "How doth David then by the Spirit - By inspiration, call him Lord? If he be merely the son (or descendant) of David? If he be, as you suppose, a mere man, the son of a man? The Lord said to my Lord - This his dominion, to which David himself was subject, shows both the heavenly majesty of the king, and the nature of his kingdom.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 22:41–46)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Mark and Luke express more clearly the reason why Christ put this question. It was because there prevailed among the scribes an erroneous opinion, that the promised Redeemer would be one of David's sons and successors, who would bring along with him nothing more elevated than human nature.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 22:41–46)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 41,

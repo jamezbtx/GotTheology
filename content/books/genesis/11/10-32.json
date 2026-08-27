@@ -8,6 +8,26 @@
   "title": "Genesis 11:10–32",
   "context": "After Babel, the camera quiets on Shem. Ordinary years carry the promise-line through Arpachshad, Shelah, Eber, Peleg, Reu, Serug, and Nahor to Terah. Abram, Nahor, and Haran are named; Haran dies in Ur; Sarai is barren. Terah takes Abram, Lot, and Sarai toward Canaan, settles in Haran, and dies there—the setup for chapter 12.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Shem’s line from Arpachshad to Terah and Abram—so each camp speaks in its own voice beside Genesis 11:10–32.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "How little do we know of those that are gone before us in this world, even those that lived in the same places where we live! Or indeed of those who are our contemporaries, but in distant places. That there was an observable gradual decrease in the years of their lives.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 11:10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Concerning the progeny of Shem, Moses had said something in the former chapter Genesis 10:1 : but now he combines with the names of the men, the term of their several lives, that we might not be ignorant of the age of the world. For unless this brief description had been preserved, men at this day would not have known how much time intervened between the deluge and the day in which God made his covenant with Abraham.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 11:10)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 10,

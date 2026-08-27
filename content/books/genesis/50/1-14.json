@@ -8,6 +8,26 @@
   "title": "Genesis 50:1–14",
   "context": "Joseph weeps over Jacob, has Israel embalmed, and Egypt mourns seventy days. With Pharaoh’s leave a great company goes up to Canaan, laments at Atad, and buries him in Machpelah—Abraham’s purchased cave—then Joseph and his brothers return to Egypt.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Egypt’s mourning, and Jacob buried in Canaan—so each camp speaks in its own voice beside Genesis 50:1–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Forty days were taken up in embalming the body, which the Egyptians had an art of doing so curiously, as to preserve the very features of the face unchanged. All this time, and thirty days more, seventy in all, they either confined themselves and sat solitary, or when they went out, appeared in the habit of close mourners, according to the decent custom of the country.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 50:3)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Although formerly more labor was expended on funerals, and that even without superstition, than has been deemed right subsequently to the proof given of the resurrection exhibited by Christ: yet we know that among the Egyptians there was greater expense and pomp than among the Jews. Even the ancient historians record this among the most memorable customs of that nation.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 50:2)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

@@ -6,8 +6,28 @@
   "verseEnd": 10,
   "translation": "ESV",
   "title": "Matthew 27:3–10",
-  "showVoices": true,
   "context": "As Jesus is condemned and handed to Pilate, Judas the betrayer is seized with remorse, returns the silver, and dies in despair; the priests buy the potter’s field, and Matthew records Scripture’s fulfillment.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on judas the betrayer is seized with remorse, returns the silver—so each camp speaks in its own voice beside Matthew 27:3–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Then Judas seeing that he was condemned - Which probably he thought Christ would have prevented by a miracle. - How easily could they digest innocent blood! It is not lawful (say they) to put it into the treasury - But very lawful to slay the innocent!",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 27:3–10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The high priest, with his council, after having examined him at an unseasonable hour of the night, finally resolve, at sunrise, to place him at the bar of the governor. By so doing, they observe the form of judicial proceedings, that they may not be suspected of undue haste, when they run to Pilate at an unusually early hour, as usually happens in cases of tumult.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 27:3–10)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 3,

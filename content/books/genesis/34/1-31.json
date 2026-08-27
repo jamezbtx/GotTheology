@@ -7,6 +7,26 @@
   "translation": "ESV",
   "title": "Genesis 34:1–31",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Dinah, Shechem, and the brothers’ deceitful revenge—so each camp speaks in its own voice beside Genesis 34:1–31.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Dinah was then about fifteen or sixteen years of age when she went out to see the daughters of the land—Probably on some public day. She went to see; yet that was not all, she went to be seen too: she went to see the daughters of the land, but it may be with some thoughts of the sons of the land too.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 34:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses begins to relate the tragic issue of this history. Shechem, indeed, had acted wickedly and impiously; but it was far more atrocious and wicked that the sons of Jacob should murder a whole people, to avenge themselves of the private fault of one man. It was by no means fitting to seek a cruel compensation for the levity and rashness of one youth, by the slaughter of so many men.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 34:7)"
+      }
+    ]
+  },
   "context": "After Jacob’s return to the land (ch. 33), Dinah goes out among the women of the land. Shechem the Hivite seizes and humiliates her, then seeks marriage; Jacob’s sons answer with deceitful circumcision, and Simeon and Levi slaughter the city’s males. The chapter names outrage without baptizing either the assault or the massacre.",
   "verses": [
     {

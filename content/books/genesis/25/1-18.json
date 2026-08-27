@@ -8,6 +8,26 @@
   "title": "Genesis 25:1–18",
   "context": "After Sarah’s death the narrator records Abraham’s later sons by Keturah, the gift of the estate to Isaac, Abraham’s death and burial by Isaac and Ishmael, God’s blessing on Isaac, and Ishmael’s twelve princes. The chapter closes Abraham’s story while distinguishing the covenant heir from other real offspring.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Keturah’s sons, Abraham’s death, and God’s blessing on Isaac—so each camp speaks in its own voice beside Genesis 25:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Five and thirty years Abraham lived after the marriage of Isaac, and all that is recorded concerning him during that time lies here in a very few verses: we hear no more of God's extraordinary appearances to him, or trials of him; for all the days even of the greatest saints are not eminent days, some slide on silently, and neither come nor go with observation: such were these last days of Abraham. We have here an account of his children by Keturah, another wife, which be married after the death of Sarah.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 25:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Then again Abraham took a wife It seems very absurd that Abraham, who is said to have been dead in his own body thirty-eight years before the decease of Sarah, should, after her death, marry another wife. such an act was, certainly, unworthy of his gravity. Besides, when Paul commends his faith, ( Romans 4:19 ,) he not only asserts that the womb of Sarah was dead, when Isaac was about to be born, but also that the body of the father himself was dead.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 25:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

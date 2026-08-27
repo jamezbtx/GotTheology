@@ -7,6 +7,26 @@
   "translation": "ESV",
   "title": "Genesis 42:18–38",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on money in the sacks, conscience, and Jacob refusing Benjamin—so each camp speaks in its own voice beside Genesis 42:18–38.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "We are very guilty concerning our brother—We do not read that they said this during their three days imprisonment; but now when the matter was come to some issue, and they saw themselves still embarrassed, they began to relent. Perhaps Joseph's mention of the fear of God, put them upon consideration, and extorted this reflexion.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 42:21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This is a remarkable passage, showing that the sons of Jacob, when reduced to the greatest straits, recall to memory a fratricide committed thirteen years previously. Before affliction pressed upon them, they were in a state of torpor. Moses relates that, even lately, they had spoken without agitation of Joseph's death, as if conscious to themselves of no evil.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 42:21)"
+      }
+    ]
+  },
   "context": "On the third day Joseph, confessing fear of God, keeps Simeon and sends the rest with grain—and their money. Conscience breaks open on the road and at home; Jacob refuses to send Benjamin, seeing only bereavement, not yet the God who is gathering his sons.",
   "verses": [
     {

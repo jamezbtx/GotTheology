@@ -8,6 +8,26 @@
   "title": "Matthew 15:29–39",
   "context": "From the coast Jesus returns beside the Sea of Galilee, sits on the mountain, and heals crowds of lame, blind, crippled, mute, and many others; they glorify the God of Israel. He then has compassion on a three-day crowd with nothing to eat, multiplies seven loaves and a few fish, satisfies about four thousand men besides women and children, gathers seven baskets of leftovers, and departs by boat to the region of Magadan.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on sits on the mountain, and heals crowds of lame, blind, crippled, mute, and many others; they glorify the God of Israel—so each camp speaks in its own voice beside Matthew 15:29–39.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The sea of Galilee - The Jews gave the name of seas to all large lakes. This was a hundred furlongs long, and forty broad. It lay on the borders of Galilee, and the city of Tiberias stood on its western shore. It was likewise styled the lake of Gennesareth: perhaps a corruption of Cinnereth, the name by which it was anciently called, Num. xxxiv, 11.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 15:29–39)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Though it is unquestionably the same journey of Christ, on his return from the neighborhood of Sidon, that is related by Matthew and by Mark, yet in some points they do not quite agree. It is of little moment that the one says he came to the borders of Magdala, and the other, that he came to the coasts of Dalmanutha; for the cities were adjacent, being situated on the lake of Gennesareth, and we need not wonder that the district which lay between them received both names.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 15:29–39)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 29,

@@ -8,6 +8,26 @@
   "title": "Genesis 6:9–22",
   "context": "A new toledoth names Noah: righteous, blameless in his generation, a man who walked with God. The earth is corrupt and violent; God tells Noah He will end all flesh and commands an ark—precise, pitched, three-decked—then pledges covenant, a household inside, and pairs of living things preserved. Noah does all that God commanded him.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Noah righteous in his generation, and the ark of preservation—so each camp speaks in its own voice beside Genesis 6:9–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I will destroy them with the earth, but make thee an ark—I will take care to preserve thee alive. This ark was like the hulk of a ship, fitted not to sail upon the waters, but to float waiting for their fall. God could have secured Noah, by the ministration of angels without putting him to any care or pains, but he chose to employ him in making that which was to be the means of his preservation, both for the trial of his faith and obedience, and to teach us that none shall be saved by Christ, but those only that work out their salvation; we cannot do it without God, and he will not without us: both the providence of God and the grace of God crown the endeavours of the obedient and diligent.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 6:14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Hebrew word tvldvt (toledoth) properly means generation. It has, however, sometimes a more extended sense, and applies to the whole history of life; this indeed seems to be its meaning in the present place. For when Moses had stated that one man was found whom God, -- when he had determined to destroy the whole world, -- would yet preserve, he briefly describes what kind of person he was.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 6:9)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 9,

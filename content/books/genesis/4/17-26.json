@@ -8,6 +8,26 @@
   "title": "Genesis 4:17–26",
   "context": "Cain’s line multiplies: a city named for Enoch, generations down to Lamech, polygamy, tents, music, metalwork, and a boast of multiplied vengeance. The chapter then turns back to Adam and Eve: Seth is appointed in Abel’s place, Enosh is born, and people begin to call upon the name of the Lord.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Cain’s city, Lamech’s boast, and calling on the name of the LORD—so each camp speaks in its own voice beside Genesis 4:17–26.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Jabal was a famous shepherd; he delighted much in keeping cattle, and was so happy in devising methods of doing it to the best advantage, and instructing others in them, that the shepherds of those times, nay, the shepherds of after-times, called him Father; or perhaps his children after him, being brought up to the same employment: the family was a family of shepherds. Jubal was a famous musician, and particularly an organist, and the first that gave rules for that noble art or science of music.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 4:19)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "From the context we may gather that Cain, before he slew his brother, had married a wife; otherwise Moses would now have related something respecting his marriage; because it would be a fact worthy to be recorded, that any one of his sisters could be found, who would not shrink with horror from committing herself into the hand of one whom she knew to be defiled with a brother's blood; and while a free choice was still given her, should rather choose spontaneously to follow an exile and a fugitive, than to remain in her father's family. Moreover, he relates it as a prodigy that Cain, having shaken off the terror he had mentioned, should have thought of having children: for it is remarkable, that he who imagined himself to have as many enemies as there were men in the world, did not rather hide himself in some remote solitude.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 4:17)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 17,

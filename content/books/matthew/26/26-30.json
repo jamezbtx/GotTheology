@@ -6,8 +6,28 @@
   "verseEnd": 30,
   "translation": "ESV",
   "title": "Matthew 26:26–30",
-  "showVoices": true,
   "context": "During the Passover meal Jesus institutes the Lord’s Supper: bread as His body, the cup of the covenant in His blood poured out for many for the forgiveness of sins. He points ahead to drinking new with them in His Father’s kingdom, then they sing a hymn and go out to the Mount of Olives. (Key text: default Voices now; passage-specific quotes later as assigned.)",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the cup of the covenant in His blood poured out for many for the forgiveness of sins—so each camp speaks in its own voice beside Matthew 26:26–30.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Jesus took the bread - the bread or cake, which the master of the family used to divide among them, after they had eaten the passover. The custom our Lord now transferred to a nobler use. This bread is, that is, signifies or represents my body, according to the style of the sacred writers.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:26–30)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And while they were eating, Jesus took bread. I do not understand these words to mean that with the paschal supper was mixed this new and more excellent supper, but rather that an end was then put to the former banquet. This is still more clearly expressed by Luke, when he says that, Christ gave the cup after that he had supped; for it would have been absurd that one and the same mystery should be broken off by an interval of time.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:26–30)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 26,

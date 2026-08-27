@@ -8,6 +8,26 @@
   "title": "Genesis 47:1–12",
   "context": "After the reunion in chapter 46, Joseph presents his family to Pharaoh. Five brothers request Goshen as sojourners; Pharaoh grants the best of the land. Jacob blesses the king, names his life a 130-year sojourn, and Joseph settles and feeds the household in Rameses.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jacob blessing Pharaoh, and the family settled in the best of the land—so each camp speaks in its own voice beside Genesis 47:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Observe Jacob calls his life a pilgrimage, looking upon himself as a stranger in this world, and a traveller towards another. He reckoned himself not only a pilgrim now he was in Egypt, a strange country in which he never was before, but his life even in the land of his nativity was a pilgrimage. He reckoned his life by days; for even so it is soon reckoned, and we are not sure of the continuance of it for a day to an end, but may be turned out of this tabernacle at less than an hours warning.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 47:9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This confession was humiliating to the sons of Jacob, and especially to Joseph himself, whose high, and almost regal dignity, was thus marked with a spot of disgrace: for among the Egyptians (as we have said) this kind of life was disgraceful and infamous. Why, then, did not Joseph adopt the course, which he might easily have done, of describing his brethren as persons engaged in agriculture, or any other honest and creditable method of living?",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 47:3)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

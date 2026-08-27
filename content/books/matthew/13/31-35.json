@@ -8,6 +8,26 @@
   "title": "Matthew 13:31–35",
   "context": "Jesus adds twin kingdom images—mustard seed and leaven—then Matthew explains His parable method as fulfillment of prophetic speech that utters what has been hidden.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the mustard seed, the leaven, and why Jesus speaks in parables—so each camp speaks in its own voice beside Matthew 13:31–35.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He proposed to them another parable - The former parables relate chiefly to unfruitful hearers; these that follow, to those who bear good fruit. The kingdom of heaven - Both the Gospel dispensation, and the inward kingdom. The least - That is, one of the least: a way of speaking extremely common among the Jews.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 13:31–35)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "All these things Jesus spoke in parables. Though Mark expressly says, that Christ spoke the word to them as they were able to bear it, yet I think it probable that he continued to employ parables, not so much for the purpose of instruction, as to keep the attention of his hearers awake till a more convenient time.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 13:31–35)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 31,

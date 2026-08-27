@@ -8,6 +8,26 @@
   "title": "Genesis 16:1–6",
   "context": "Ten years in Canaan after the promise, Sarai is still barren. She gives Hagar, her Egyptian servant, to Abram as a wife to obtain children by her. Conception brings contempt, blame, and harshness; Hagar flees.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Hagar given, conception, and contempt in Sarai’s house—so each camp speaks in its own voice beside Genesis 16:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "We have here the marriage of Abram to Hagar, who was his secondary wife. Herein, though he may be excused, he cannot be justified; for from the beginning it was not so: and when it was so, it seems to have proceeded from an irregular desire to build up their families, for the speedier peopling of the world. Christ has reduced this matter to the first institution, and makes the marriage union to be between one man and one woman only.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 16:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "She saw that she was barren, and had passed the age of bearing. Moses expressly relates, that the design of marrying a second wife did not originate with Abram himself, but with Sarai, to teach us that the holy man was not impelled by lust to these nuptials; but that when he was thinking of no such thing, he was induced to engage in them, by the exhortation of his wife.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 16:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

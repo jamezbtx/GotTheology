@@ -8,6 +8,26 @@
   "title": "Genesis 2:4–17",
   "context": "After the seventh day, Moses retells humanity’s making with the covenant name LORD God. Verses 4–17 move from dusty ground to a planted garden: the man formed and enlivened, placed in Eden to work and keep it, given every tree but one, and warned that eating of the tree of the knowledge of good and evil means death. Lavish provision surrounds a real command.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the LORD God forming man, the garden, and the first command—so each camp speaks in its own voice beside Genesis 2:4–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Man consisting of body and soul, a body made out of the earth, and a rational immortal soul, we have in these verses the provision that was made for the happiness of both. That part of man, which is allied to the world of sense, was made happy, for he was put in the paradise of God; that part which is allied to the world of spirits was well provided for, for he was taken into covenant with God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 2:8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He had said that he was formed after the image of God. This is incomparably the highest nobility; and, lest men should use it as an occasion of pride, their first origin is placed immediately before them; whence they may learn that this advantage was adventitious; for Moses relates that man had been, in the beginning, dust of the earth. Let foolish men now go and boast of the excellency of their nature!",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 2:7)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 4,

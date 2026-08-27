@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 5:38–42",
   "context": "Jesus next addresses retaliation. The “eye for an eye” principle limited vengeance in Israel’s courts; the King now calls disciples to absorb insult and excess demand without returning blow for blow—kingdom generosity that breaks the cycle of payback.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus next addresses retaliation—so each camp speaks in its own voice beside Matthew 5:38–42.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye have heard - Our Lord proceeds to enforce such meekness and love on those who are persecuted for righteousness' sake (which he pursues to the end of the chapter) as were utterly unknown to the scribes and Pharisees. It hath been said - In the law, as a direction to Judges, in ease of violent and barbarous assaults.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 5:38–42)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "God had enjoined, by his law, (Leviticus 24:20,) that judges and magistrates should punish those who had done injuries, by making them endure as much as they had inflicted. The consequence was, that every one seized on this as a pretext for taking private revenge.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 5:38–42)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 38,

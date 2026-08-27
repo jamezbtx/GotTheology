@@ -6,8 +6,28 @@
   "verseEnd": 35,
   "translation": "ESV",
   "title": "Matthew 26:31–35",
-  "showVoices": true,
   "context": "On the way Jesus cites Zechariah: the shepherd will be struck and the sheep scattered, yet promises to go before them to Galilee after He is raised. Peter vows loyalty even to death; Jesus foretells a threefold denial before the rooster crows; the others echo Peter’s boast.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on on the way Jesus cites Zechariah: the shepherd will be struck and the sheep scattered—so each camp speaks in its own voice beside Matthew 26:31–35.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "All ye will be offended at me - Something will happen to me, which will occasion your falling into sin by forsaking me. But notwithstanding this, after I am risen I will go before you (as a shepherd before his sheep) into Galilee. Though you forsake me, I will not for this forsake you.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:31–35)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "What Matthew and Mark extend to all the disciples alike is related by Luke as having been spoken to Peter only. But though the statement was equally addressed to all, yet it is probable that Christ spoke to them in the person of one man, who was to be admonished more than all the rest, and who needed extraordinary consolation, that, after having denied Christ, he might not be altogether overwhelmed with despair.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:31–35)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 31,

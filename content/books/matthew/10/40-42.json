@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 10:40–42",
   "context": "The discourse closes with hospitality theology: receiving messengers is receiving Christ and the Father; prophetic and righteous welcome carry matching reward; even a cup of cold water to a little disciple is remembered. Mission hardship is matched by kingdom honor for those who welcome the sent.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on The discourse closes with hospitality theology: receiving messengers is receiving Christ and the Father; prophetic—so each camp speaks in its own voice beside Matthew 10:40–42.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He that entertaineth a prophet - That is, a preacher of the Gospel: In the name of a prophet - That is, because he is such, shall share in his reward. One of these little ones - The very least Christian.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 10:40–42)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He who loveth father or mother As it is exceedingly harsh, and is contrary to natural feelings, to make enemies of those who ought to have been in closest alliance with us, so Christ now says that we cannot be his disciples on any other condition. He does not indeed enjoin us to lay aside human affections, or forbid us to discharge the duties of relationship, but only desires that all the mutual love which exists among men should be so regulated as to assign the highest rank to piety.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 10:40–42)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 40,

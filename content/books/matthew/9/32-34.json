@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 9:32–34",
   "context": "A mute, demon-oppressed man is brought; the demon is cast out and speech returns. Crowds marvel at unprecedented mercy in Israel, while Pharisees attribute the exorcism to the prince of demons—miracle meets blasphemous spin.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a mute, demon-oppressed man is brought; the demon is cast out and speech returns—so each camp speaks in its own voice beside Matthew 9:32–34.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "A dumb man possessed with a devil - Some demons rendered the persons they possessed paralytic, some blind, others dumb, etc. It was the interest of Satan to hide his influences under the appearance of natural disorders. A man who does not acknowledge his sin to God, who prays not for salvation, who returns no praises for the mercies he is continually receiving, may well be said to be possessed with a dumb demon.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 9:32–34)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The other Evangelists say nothing about these two miracles; for, as we have already said, and as John expressly affirms, (21:25,) they did not intend to record every action of Christ, but only to prove, by a brief summary, that he is the Messiah. Now Matthew relates that sight was restored to two blind men, but not so speedily as Christ was wont, on many other occasions, to grant relief to the wretched.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 9:32–34)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 32,

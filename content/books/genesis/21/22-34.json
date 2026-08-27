@@ -8,6 +8,26 @@
   "title": "Genesis 21:22–34",
   "context": "After Ishmael’s wilderness rescue, Abimelech and Phicol approach Abraham: God is with you. They swear a treaty, settle a seized well with seven ewe lambs, name the place Beersheba, and Abraham plants a tamarisk and calls on the LORD, the Everlasting God, remaining a sojourner in Philistine country.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the treaty at Beersheba and the well Abraham claimed—so each camp speaks in its own voice beside Genesis 21:22–34.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Men should not only retain their goodness wherever they go, but do all they can to propagate it, and make others good. The everlasting God—Though God had made himself known to Abraham as his God in particular; yet he forgets not to give glory to him as the Lord of all, the everlasting God, who was before all worlds, and will be when time and days shall be no more.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 21:33)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses relates, that this covenant was entered into between Abraham and Abimelech, for the purpose of showing, that after various agitations, some repose was, at length, granted to the holy man. He had been constrained, as a wanderer, and without a fixed abode, to move his tent from place to place, during sixty years. But although God would have him to be a sojourner even unto death, yet, under king Abimelech, he granted him a quiet habitation.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 21:22)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 22,

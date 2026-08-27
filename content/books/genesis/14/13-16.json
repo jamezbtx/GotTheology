@@ -8,6 +8,26 @@
   "title": "Genesis 14:13–16",
   "context": "News reaches Abram the Hebrew at Mamre. He musters 318 trained men born in his house, allies with Aner, Eshcol, and Mamre, pursues as far as Dan and Hobah, and brings Lot back with the people and the goods.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Abram the Hebrew pursuing and recovering Lot—so each camp speaks in its own voice beside Genesis 14:13–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He armed his trained servants, born in his house—To the number of three hundred and eighteen: a great family, but a small army; about as many as Gideon's that routed the Midianites, Jud 7:7. He drew out his trained servants, or his catechized servants; not only instructed in the art of war, but instructed in the principles of religion; for Abram commanded his household to keep the way of the Lord.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 14:14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "But here various questions arise; as, whether it was lawful for Abram, a private person, to arm his family against kings, and to undertake a public war. I do not, however, doubt, that as he went to the war endued with the power of the Spirit, so also he was guarded by a heavenly command, that he did not transgress the bounds of his vocation. A similar prelude of what was to follow, we read in the case of Moses, when he slew the Egyptian, before he openly presented himself as the avenger and deliverer of his nation.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 14:13)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 13,

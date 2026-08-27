@@ -8,6 +8,26 @@
   "title": "Genesis 20:1–18",
   "context": "After the destruction of the cities of the plain, Abraham sojourns in Gerar and again presents Sarah as his sister. Abimelech takes her; God warns the king in a dream, restrains him from sin, and restores Sarah through Abraham’s prophetic prayer—promise threatened, then preserved by the LORD.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Abraham, Abimelech, and God restraining a king from sin—so each camp speaks in its own voice beside Genesis 20:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "And Abraham sojourned in Gerar—We are not told upon what occasion he removed, whether terrified by the destruction of Sodom, or, as some of the Jewish writers say, because he was grieved at Lot's incest with his daughters, and the reproach which the Canaanites cast upon him for his kinsman's sake. The king of Gerar sent and took her—To his house, in order to the taking of her to his bed.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 20:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "What Moses related respecting the destruction of Sodom, was a digression. He now returns to the continuation of his history, and proceeds to show what happened to Abraham; how he conducted himself, and how the Lord protected him; till the promised seed, the future source of the Church, should be born unto him. He also says, that Abraham came into the South country; not that he traveled beyond the limits of the inheritance given to him, but left his former abode, and went towards the South.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 20:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

@@ -1,0 +1,78 @@
+{
+  "book": "Ephesians",
+  "bookSlug": "ephesians",
+  "chapter": 5,
+  "verseStart": 15,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "Ephesians 5:15–21",
+  "context": "Paul’s charge to walk carefully as wise, redeem the time because the days are evil, understand the Lord’s will, be filled with the Spirit rather than wine, and answer that filling with psalms, thanksgiving, and mutual submission.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Paul’s charge to walk wisely, redeem the time, and be filled with the Spirit—psalms, thanksgiving, and mutual submission—so each camp speaks in its own voice beside Ephesians 5:15–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Circumspectly—Exactly, with the utmost accuracy, getting to the highest pitch of every point of holiness. Not as fools—Who think not where they are going, or do not make the best of their way. Redeeming the time—Saving all you can for the best purposes; buying every possible moment out of the hands of sin and Satan; out of the hands of sloth, ease, pleasure, worldly business; the more diligently, because the present are evil days. What the will of the Lord is—In every time, place, and circumstance. Be ye filled with the Spirit—In all his graces, who gives a more noble pleasure than wine can do. Speaking to each other—By the Spirit. In the Psalms—Of David. And hymns—Of praise. And spiritual songs—On any divine subject. Singing with your hearts—As well as your voice. To the Lord—Jesus, who searcheth the heart. Giving thanks—At all times and places. And for all things—Prosperous or adverse, since all work together for good.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Eph 5:15–21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He enjoins them to regulate their life circumspectly as wise men, who have been educated by the Lord in the school of true wisdom. The days are evil: everything around us tends to corrupt and mislead; time cannot be dedicated to God without being in some way redeemed. Carnal excitement is contrasted with that holy joy of which the Spirit of God is the Author. Let your praises be not merely on the tongue, as hypocrites do, but from the heart. God has bound us so strongly to each other, that no man ought to endeavor to avoid subjection; and where love reigns, mutual services will be rendered. He directs us to the fear of Christ, who alone can subdue our fierceness, that we may not refuse the yoke.",
+        "cite": "John Calvin",
+        "source": "Commentary on Ephesians (on Eph 5:15–21)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 15,
+      "text": "Look carefully then how you walk, not as unwise but as wise,",
+      "arminianNotes": "Careful walking is a real command after the light-transfer of vv. 8–14. Wisdom is not accidental: grace enables, and they must actually watch their steps. Fools neither know where they are going nor make the best of the way.\n\nThe summons aims at the highest pitch of holiness—responsible, grace-assisted accuracy. Identity as children of light does not walk itself; assisting grace makes the careful step possible, and they remain accountable to take it.",
+      "reformedNotes": "Those on whom Christ, the Sun of righteousness, has risen cannot live as if still in the dark. They walk under the eye of God and of angels. Circumspection is the school the Lord has already put them in.\n\nWisdom is the fruit of having been taught, not a ladder into light. The indicative of vv. 8–14 still funds the imperative: they look carefully because they are light in the Lord."
+    },
+    {
+      "number": 16,
+      "text": "making the best use of the time, because the days are evil.",
+      "arminianNotes": "Redeem the time—buy every moment out of sloth, ease, pleasure, and worldly hurry—because the days are evil. Enabling grace makes vigilance possible; wasting the hour remains culpable.\n\nEvil days are not an excuse for drift but a reason to walk more carefully. The church can still squander what God has given; holiness here looks like actually recovering the hour for the best purposes.",
+      "reformedNotes": "The age is corrupt; the devil appears to have obtained a tyrannical sway. Time cannot be dedicated to God without being in some way redeemed—withdrawing from allurements, cares, and pleasures that would lead us astray.\n\nThe many hindrances should awaken vigilance, not license indolence. God preserves His people in evil days by this very watchfulness: redeeming time is how the wise live under His care."
+    },
+    {
+      "number": 17,
+      "text": "Therefore do not be foolish, but understand what the will of the Lord is.",
+      "arminianNotes": "Folly is refusing to grasp the Lord’s will in each time, place, and circumstance. Understanding is a duty: the Word is given, the Spirit assists, and believers must actually attend.\n\nWisdom here is moral discernment they can and must exercise. Grace illumines; they still have to prove in this hour what delights Him, not guess once for all or wait for a private oracle.",
+      "reformedNotes": "Paul defines wisdom as understanding what the will of the Lord is. Those who meditate in His law will triumph over Satan’s obstacles. We wander when we allow ourselves to be blinded and lose sight of that will.\n\nThe Spirit teaches the already-enlightened to keep God’s will in view. Folly is not a lack of information only; it is the heart’s drift from the Lord who has already made them wise in Christ.",
+      "keyContrast": "Arminians typically hear a genuine duty to understand and obey the Lord’s will under assisting grace; Reformed readers typically hear wisdom as God-taught: the Spirit keeps His people in the will they would otherwise lose sight of."
+    },
+    {
+      "number": 18,
+      "text": "And do not get drunk with wine, for that is debauchery, but be filled with the Spirit,",
+      "arminianNotes": "Wine-excess leads to debauchery of every kind. The opposite is not mere sobriety but being filled with the Spirit—in all His graces, a nobler pleasure than wine. The command is real: seek the filling; do not quench Him.\n\nGrace is given to be received. Drunkenness is a resistible slide they must refuse; Spirit-filling is a holiness they must actually pursue, not a mood that arrives without asking.",
+      "reformedNotes": "Intemperance throws off modesty; where wine reigns, profligacy follows. Carnal mirth is set against holy joy of which the Spirit is Author. “Be filled” names the Spirit’s own governance producing opposite fruits—song, thanks, humility.\n\nThe contrast is not two human techniques but two lords: wine’s tyranny versus the Spirit who dwells and rules those who are Christ’s. Filling is His work in the regenerate, not a second blessing they climb into.",
+      "keyContrast": "Arminians typically hear a genuine command to refuse drunkenness and seek Spirit-filling under assisting grace; Reformed readers typically hear the Spirit as Author of holy joy in those He indwells—filling as His governance, the fruit of which follows in song, thanks, and submission."
+    },
+    {
+      "number": 19,
+      "text": "addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart,",
+      "arminianNotes": "Spirit-filling sounds like congregational song: psalms, hymns, spiritual songs—to one another and to the Lord, heart as well as voice. Worship is mutual edification, not a private glow.\n\nEnabling grace makes melody sincere; they remain responsible not to sing as hypocrites while the heart is elsewhere. Addressing one another is a real ministry of the Word in song they must actually offer.",
+      "reformedNotes": "These are the pleasant fruits of the Spirit—joy in the Holy Ghost, not the roaring of drunk people. “Speaking among themselves” is corporate; “singing in your hearts” rules out tongue-only praise.\n\nThe Spirit produces worship that is chaste, shared, and aimed at the Lord. Song is evidence of filling, not a technique to obtain it. The church’s music is the overflow of a people already indwelt."
+    },
+    {
+      "number": 20,
+      "text": "giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,",
+      "arminianNotes": "Thanks at all times and for all things—prosperous or adverse—since all work together for good. Gratitude is a commanded holiness: grace enables, and they must not weary of it.\n\nThe name of Jesus is the way we give thanks, because through Him we receive every good. A complaining church is not merely uncheerful; it is refusing a duty the Spirit has made possible.",
+      "reformedNotes": "Thanksgiving should never lose its relish; a life without it argues ungodly sloth. Innumerable benefits yield fresh cause. All things come through the Son to the Father, so praise is Trinitarian and constant.\n\nThe Spirit-filled life is a life of thanks because God has already given Christ—and in Him, everything. Gratitude is not a mood we manufacture; it is the reasonable overflow of grace received."
+    },
+    {
+      "number": 21,
+      "text": "submitting to one another out of reverence for Christ.",
+      "arminianNotes": "Mutual submission is the last fruit named: yield to one another out of reverence for Christ. This is not self-erasure but holy humility—real, grace-enabled service they can refuse.\n\nReverence for Christ makes the yoke livable; pride remains a choice they must put down. The household codes that follow particularize this general call; the church is summoned to a humility it must actually practice.",
+      "reformedNotes": "God has bound us so strongly that no one ought to avoid subjection; even kings hold authority as service. Nothing is more irksome to pride, so Paul directs us to the fear of Christ, who alone can subdue fierceness and humble us to serve our neighbors.\n\nMutual submission is Spirit-wrought reverence—the soil of the particular callings that follow. The fear of Christ does what exhortation alone cannot: it breaks the refusal of the yoke.",
+      "keyContrast": "Arminians typically hear a genuine, enabled call to humble themselves toward one another; Reformed readers typically hear that only the fear of Christ can actually subdue our pride—submission as His work in us, not a virtue we finally supply."
+    }
+  ]
+}

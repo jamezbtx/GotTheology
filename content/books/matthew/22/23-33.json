@@ -8,6 +8,26 @@
   "title": "Matthew 22:23–33",
   "context": "Sadducees, who deny the resurrection, pose a levirate-marriage riddle to discredit life after death. Jesus corrects their view of the age to come, grounds hope in God’s power and the Scriptures, and silences them before the listening crowds.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on sadducees, who deny the resurrection, pose a levirate-marriage riddle to discredit life after death—so each camp speaks in its own voice beside Matthew 22:23–33.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Now there were with us seven brethren — this story seems to have been a kind of common-place objection, which no doubt they brought upon all occasions. Ye err, not knowing the Scriptures - Which plainly assert a resurrection. Nor the power of God - Which is well able to effect it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 22:23–33)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The same day came to him the Sadducees. We see here how Satan brings together all the ungodly, who in other respects differ widely from each other, to attack the truth of God. For, though deadly strife existed between these two sects, yet they conspire together against Christ; so that the Pharisees are not displeased to have their own doctrine attacked in the person of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 22:23–33)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 23,

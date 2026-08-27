@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 10:24–33",
   "context": "Jesus reframes fear: disciples share the Master’s mistreatment, yet must proclaim openly. Fear God rather than body-killers; trust the Father who numbers hairs and values sparrows; acknowledge Christ before people, for He will acknowledge or deny before the Father.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus reframes fear: disciples share the Master’s mistreatment, yet must proclaim openly—so each camp speaks in its own voice beside Matthew 10:24–33.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "How much more - This cannot refer to the quantity of reproach and persecution: (for in this the servant cannot be above his Lord:) but only to the certainty of it. Therefore fear them not - For ye have only the same usage with your Lord. There is nothing covered - So that however they may slander you now, your innocence will at length appear.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 10:24–33)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Fear them not therefore When the apostles saw the gospel so greatly despised, and recollected the small number of believers, they might be apt to throw away hope even for the future. Christ now meets this doubt, by declaring that the gospel would be widely spread, would at length rise superior to all the hindrances which might arise from men, and would become generally known.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 10:24–33)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 24,

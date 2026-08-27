@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 6:19–24",
   "context": "Jesus turns from secret piety to the heart’s treasure: refuse perishable earthly stockpiles; store up in heaven; keep a healthy eye; and confess that no one can serve both God and money.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus turns from secret piety to the heart’s treasure: refuse perishable earthly stockpiles; store up in heaven; keep—so each camp speaks in its own voice beside Matthew 6:19–24.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Lay not up for yourselves - Our Lord here makes a transition from religious to common actions, and warns us of another snare, the love of money, as inconsistent with purity of intention as the love of praise. Where rust and moth consume - Where all things are perishable and transient.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 6:19–24)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This deadly plague reigns everywhere throughout the world. Men are grown mad with an insatiable desire of gain. Christ charges them with folly, in collecting wealth with great care, and then giving up their happiness to moths and to rust, or exposing it as a prey to thieves.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 6:19–24)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 19,

@@ -6,8 +6,28 @@
   "verseEnd": 46,
   "translation": "ESV",
   "title": "Matthew 26:36–46",
-  "showVoices": true,
   "context": "At Gethsemane Jesus takes Peter, James, and John aside, grieves to the point of death, and thrice prays that the cup pass if possible—yet submits to the Father’s will. The disciples sleep despite His call to watch and pray; He returns the third time announcing the hour and the betrayer’s arrival. (Key text: default Voices now; passage-specific quotes later as assigned.)",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on at Gethsemane Jesus takes Peter, James, and John aside, grieves to the point of death—so each camp speaks in its own voice beside Matthew 26:36–46.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Then cometh Jesus to a place called Gethsemane - That is, the valley of fatness. The garden probably had its name from its soil and situation, laying in some little valley between two of those many hills, the range of which constitutes the Mount of Olives.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:36–46)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Mark and Matthew add a more minute description of the place. But Luke expresses what is still more to the purpose, that Christ came there according to his custom. Hence we infer, that he did not seek retirement for the purpose of concealing himself, but, as if he had made an assignation with his enemies, he presented himself to death.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:36–46)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 36,

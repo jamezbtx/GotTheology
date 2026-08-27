@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 7:21–23",
   "context": "Jesus presses past religious speech and even impressive ministry claims to the heart of kingdom entry: doing the Father’s will—and the dread verdict for workers of lawlessness He never knew.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on doing the Father’s will, not merely saying ‘Lord, Lord’—so each camp speaks in its own voice beside Matthew 7:21–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Not every one - That is, no one that saith, Lord, Lord - That makes a mere profession of me and my religion, shall enter - Whatever their false teachers may assure them to the contrary: He that doth the will of my Father - as I have now declared it. Observe: every thing short of this is only saying, Lord, Lord.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 7:21–23)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Not every one that saith to me, Lord, Lord. Christ extends his discourse farther: for he speaks not only of false prophets, who rush upon the flock to tear and devour, but of hirelings, who insinuate themselves, under fair appearances, as pastors, though they have no feeling of piety.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 7:21–23)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 21,

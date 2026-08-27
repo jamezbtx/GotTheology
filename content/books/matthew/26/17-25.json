@@ -6,8 +6,28 @@
   "verseEnd": 25,
   "translation": "ESV",
   "title": "Matthew 26:17–25",
-  "showVoices": true,
   "context": "On the first day of Unleavened Bread the disciples ask where to prepare the Passover. Jesus directs them to a certain man in the city; they prepare the meal. At table He announces that one of them will betray Him, identifies the traitor by the dipped morsel exchange with Judas, and Judas answers with a feigned question.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on on the first day of Unleavened Bread the disciples ask where to prepare the Passover—so each camp speaks in its own voice beside Matthew 26:17–25.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "On the first day of unleavened bread - Being Thursday, the fourteenth day of the first month, Exod. xii, 6, 15. Mark xiv, 12 Luke xxii, 7 The Master saith, My time is at hand - That is, the time of my suffering. He that dippeth his hand with me in the dish - Which it seems Judas was doing at that very time.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:17–25)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "To render the treachery of Judas more detestable, he points out the aggravated baseness of it by this circumstance, that he was meditating the act of betraying him while he sat with him at the holy table. For if a stranger had done this, it would have been more easily endured; but that one of his intimate friends should form such a design, and — what is more — that, after having entered into an infamous bargain, he should be present at the sacred banquet, was incredibly monstrous.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:17–25)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 17,

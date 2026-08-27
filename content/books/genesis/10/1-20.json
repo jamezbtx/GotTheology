@@ -8,6 +8,26 @@
   "title": "Genesis 10:1–20",
   "context": "After the flood, Genesis lists Noah’s sons and traces Japheth and Ham—coastlands, Nimrod’s kingdom, Canaan’s territory—as nations take shape under God’s care.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the table of nations from Japheth and Ham—so each camp speaks in its own voice beside Genesis 10:1–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Moses begins with Japhet's family, either because he was the eldest, or because that lay remotest from Israel, and had least concern with them, at that time when Moses wrote; and therefore he mentions that race very briefly; hastening to give account of the posterity of Ham, who were Israel's enemies, and of Shem, who were Israel's ancestors.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 10:2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "First, in these bare names we have still some fragment of the history of the world. This second commencement of mankind is especially worthy to be known; and detestable is the ingratitude of those, who, when they had heard, from their fathers and grandfathers of the wonderful restoration of the world in so short a time, yet voluntarily became forgetful of the grace and the salvation of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 10:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

@@ -8,6 +8,26 @@
   "title": "Matthew 17:22–23",
   "context": "Gathering in Galilee, Jesus again announces that the Son of Man will be delivered, killed, and raised on the third day. The disciples are greatly distressed—hearing the suffering more clearly than the promise of rising.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on gathering in Galilee, Jesus again announces that the Son of Man will be delivered, killed, and raised on the third day—so each camp speaks in its own voice beside Matthew 17:22–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "They abode in Galilee - Lower Galilee, where the city of Capernaum was. The Son of man shall be betrayed into the hands of men - Μελλει - παραδιδοσθαι εις χειρας - The Son of man is about to be delivered into the hands, etc. I am fully of the mind of two eminent critics, Grotius and Wakefield, that παραδιδοσθαι should be here translated delivered, or delivered up, not betrayed; and that the agency, in this case, should be referred to God, not to Judas.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 17:22–23)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And while they remained in Galilee, Jesus said to them, The Son of man will be delivered into the hands of men: 23. And they will kill him, and on the third day he will rise again. At that time the disciples came to Jesus, saying, Who is the greatest in the kingdom of heaven?",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 17:22–23)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 22,

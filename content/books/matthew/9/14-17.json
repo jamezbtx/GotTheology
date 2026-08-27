@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 9:14–17",
   "context": "John’s disciples ask why they and the Pharisees fast while Jesus’ disciples do not. Jesus answers with wedding joy, a coming removal of the bridegroom, and twin images of new cloth and new wine—kingdom life that cannot be patched onto unreformed forms.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on John’s disciples ask why they and the Pharisees fast while Jesus’ disciples do not—so each camp speaks in its own voice beside Matthew 9:14–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The children of the bride chamber - The companions of the bridegroom. Mourn - Mourning and fasting usually go together. As if he had said, While I am with them, it is a festival time, a season of rejoicing, not mourning. But after I am gone, all my disciples likewise shall be in fastings often.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 9:14–17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Luke represents the Pharisees as speaking: Mark appears to connect both. And, indeed, there is no room to doubt that the Pharisees maliciously endeavored, by this stratagem, to draw the disciples of John to their party, and to produce a quarrel between them and the disciples of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 9:14–17)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 14,

@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 8:18–22",
   "context": "Seeing crowds, Jesus orders a crossing—and two would-be followers meet the cost of discipleship: the Son of Man’s homelessness and the demand that following Him outrank even sacred family duty.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on seeing crowds—so each camp speaks in its own voice beside Matthew 8:18–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He commanded to go to the other side - That both himself and the people might have a little rest. The Son of man - The expression is borrowed from Dan. vii, 13, and is the appellation which Christ generally gives himself: which he seems to do out of humility, as having some relation to his mean appearance in this world.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 8:18–22)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Two men are here presented to us by Matthew, and three by Luke, all of whom were prepared to become disciples of Christ, but who, having been prevented by a diversity of vices from following the right course, receive a corresponding variety of replies. It might at first sight appear strange, that Christ sends back, and does not admit into his family, one who offers to follow him immediately and without delay: while he detains another along with him who, by asking leave for a time, showed himself to be slower and less willing.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 8:18–22)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 18,

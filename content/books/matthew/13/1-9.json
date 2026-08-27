@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 13:1–9",
   "context": "On the same day as the conflicts of chapter 12, Jesus leaves the house, sits beside the sea, and teaches great crowds from a boat. Matthew opens a concentrated block of kingdom teaching in parables—beginning with the Sower—where hearing the word becomes the hinge of discipleship.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on on the same day as the conflicts of chapter 12, Jesus leaves the house, sits beside the sea—so each camp speaks in its own voice beside Matthew 13:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He went into the vessel - Which constantly waited upon him, while he was on the sea coast. In parables - The word is here taken in its proper sense, for apt similes or comparisons. This way of speaking, extremely common in the eastern countries, drew and fixed the attention of many, and occasioned the truths delivered to sink the deeper into humble and serious hearers.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 13:1–9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And great multitudes were gathered together to him. It is not without good reason that the Evangelists begin with informing us that, a vast multitude had assembled, and that when Christ beheld them, he was led to compare his doctrine to seed That multitude had been collected from various places: all were held in suspense; all were alike eager to hear, but not equally desirous to receive instruction.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 13:1–9)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

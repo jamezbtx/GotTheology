@@ -8,6 +8,26 @@
   "title": "Genesis 8:1–19",
   "context": "After the flood, God remembers Noah and the creatures in the ark; the waters recede, the ark rests on Ararat, and Noah waits with raven and dove until God commands the family and the animals to go out and fill the earth again.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God remembering Noah and the waters receding—so each camp speaks in its own voice beside Genesis 8:1–19.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "But the whole race of mankind, except Noah and his family, was now extinguished, and gone into the land of forgetfulness, so that God's remembering Noah was the return of his mercy to mankind, of whom he would not make a full end. Noah himself, tho' one that had found grace in the eyes of the Lord, yet seemed to be forgotten in the ark; but at length God returned in mercy to him, and that is expressed by his remembering him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 8:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The remembrance of which Moses speaks, ought to be referred not only to the external aspect of things, (so to speak,) but also to the inward feeling of the holy man. Indeed it is certain, that Gods from the time in which he had once received Noah into his protection, was never unmindful of him; for, truly, it was by as great a miracle, that he did not perish through suffocation in the ark, as if he had lived without breath, submerged in the waters.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 8:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

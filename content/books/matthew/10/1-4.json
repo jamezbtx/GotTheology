@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 10:1–4",
   "context": "After mercy and conflict in Galilee, Jesus calls the Twelve, gives them authority over spirits and sickness, and names them as apostles. The mission discourse begins with a named circle—ordinary men under the King’s delegated power, including the one who will betray Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus calls the Twelve, gives them authority over spirits and sickness, and names them as apostles—so each camp speaks in its own voice beside Matthew 10:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "His twelve disciples - Hence it appears that he had already chosen out of his disciples, those whom he afterward termed apostles. The number seems to have relation to the twelve patriarchs, and the twelve tribes of Israel. The first, Simon - The first who was called to a constant attendance on Christ; although Andrew had seen him before Simon.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 10:1–4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And having called the twelve disciples The number, twelve, was intended to point out the future restoration of the Church. As the nation was descended from twelve patriarchs, so its scattered remains are now reminded by Christ of their origin, that they may entertain a fixed hope of being restored. Although the kingdom of God was not in so flourishing a state in Judea, as to preserve the nation entire, but, on the contrary, that people, which already had miserably fallen, deserved doubly to die on account of ingratitude in despising the grace which had been offered to them, yet this did not prevent a new nation from afterwards springing up.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 10:1–4)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

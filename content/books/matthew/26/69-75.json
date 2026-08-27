@@ -6,8 +6,28 @@
   "verseEnd": 75,
   "translation": "ESV",
   "title": "Matthew 26:69–75",
-  "showVoices": true,
   "context": "In the courtyard a servant girl, then another, then bystanders confront Peter about being with Jesus. He denies with oath and curse that he does not know the man. The rooster crows; Peter remembers Jesus’ word, goes out, and weeps bitterly.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on in the courtyard a servant girl, then another, then bystanders confront Peter about being with Jesus—so each camp speaks in its own voice beside Matthew 26:69–75.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He denied with an oath - To which possibly he was not unaccustomed, before our Lord called him. Surely thou art also one of them, for thy speech discovereth thee - Malchus might have brought a stronger proof than this. But such is the overruling providence of God, that the world, in the height of their zeal, commonly catch hold of the very weakest of all arguments against the children of God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 26:69–75)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Here we see that there is no necessity for a severe contest, or for many forces or implements of war, to overpower a man; for any man, who is not supported by the hand of God, will instantly fall by a slight gale or the rustling of a falling leaf. Peter undoubtedly was not less courageous than any of us, and he had already given no ordinary proof of his valor, though it was exercised in a rash and improper manner; and yet he does not wait until he is dragged before the tribunal of the high priest, or until his enemies attempt to put him to death by violence, but, terrified by a woman's voice, immediately denies his Master.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 26:69–75)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 69,

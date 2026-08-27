@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 10:34–39",
   "context": "Jesus corrects false expectations of easy peace: His coming divides households, demands supreme love, requires the cross, and inverts life’s calculus—finding life by losing it for His sake. Allegiance to the King outranks every natural bond.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus corrects false expectations of easy peace: His coming divides households, demands supreme love—so each camp speaks in its own voice beside Matthew 10:34–39.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "And the foes of a man - That loves and follows me. He that loveth father or mother more than me - He that is not ready to give up all these, when they stand in competition with his duty. He that taketh not his cross - That is, whatever pain or inconvenience cannot be avoided, but by doing some evil, or omitting some good.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 10:34–39)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He who loveth father or mother As it is exceedingly harsh, and is contrary to natural feelings, to make enemies of those who ought to have been in closest alliance with us, so Christ now says that we cannot be his disciples on any other condition. He does not indeed enjoin us to lay aside human affections, or forbid us to discharge the duties of relationship, but only desires that all the mutual love which exists among men should be so regulated as to assign the highest rank to piety.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 10:34–39)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 34,

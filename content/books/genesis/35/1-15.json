@@ -8,6 +8,26 @@
   "title": "Genesis 35:1–15",
   "context": "After Shechem’s violence, God sends Jacob back to Bethel: arise, dwell, make an altar to the God who appeared when he fled Esau. Jacob puts away foreign gods; a terror from God keeps the cities from pursuit. He builds an altar at El-bethel, buries Deborah at Allon-bacuth, and God appears again—renaming him Israel, promising fruitfulness, kings, and land—then raises a pillar, pours a drink offering, and names the place Bethel.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on back to Bethel, foreign gods put away, and the name Israel—so each camp speaks in its own voice beside Genesis 35:1–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Arise go to Bethel—Here God minds Jacob of his vow at Beth-el, and sends him thither to perform it, Jacob had said in the day of his distress, If I come again in peace, this stone shall be God's house, Ge 28:22. God had performed his part, had given Jacob more than bread to eat, and raiment to put on; but it should seem he had forgotten his vow, or, at least, deferred the performance of it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 35:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses relates that when Jacob had been reduced to the last extremity, God came to his help in the right time, and as at the critical juncture. We must, however, observe the order of his procedure; for God did not immediately appear to his servant, but suffered him first to be tormented by grief and excessive cares, that he might learn patience, deferring his consolation to the time of extreme necessity.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 35:1)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

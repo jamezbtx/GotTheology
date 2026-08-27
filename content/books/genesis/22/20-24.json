@@ -8,6 +8,26 @@
   "title": "Genesis 22:20–24",
   "context": "After the Akedah, news reaches Abraham: Milcah has borne children to his brother Nahor. The genealogy names eight sons, including Bethuel, who fathered Rebekah, then four more by the concubine Reumah—quietly stocking the family line from which Isaac’s wife will come.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Nahor’s sons, and Rebekah named in the family news—so each camp speaks in its own voice beside Genesis 22:20–24.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "This is recorded here, To show that tho' Abraham saw his own family highly dignified with peculiar privileges, yet he did not look with contempt upon his relations, but was glad to hear of the increase and prosperity of their families. To make way for the following story of the marriage of Isaac to Rebekah, a daughter of this family.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 22:20)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses repeats, that Abraham, after having passed through this severe and incredible temptation, had a quiet abode in Beersheba. This narration is inserted, together with what follows concerning the increase of Abraham's kindred, for the purpose of showing that the holy man, when he had been brought up again from the abyss of death, was made happy, in more ways than one.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 22:19)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 20,

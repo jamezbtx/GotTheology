@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 7:7–11",
   "context": "After warnings about hypocritical judgment and holy things cast before the hostile, Jesus opens the door of prayer: ask, seek, knock—and trusts the Father’s goodness by comparing earthly parents’ gifts to heaven’s far greater generosity.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus opens the door of prayer: ask, seek—so each camp speaks in its own voice beside Matthew 7:7–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "But ask - Pray for them, as well as for yourselves: in this there can be no such danger. Seek - Add your own diligent endeavours to your asking: and knock - Persevere importunately in that diligence. Luke xi, For every one that asketh receiveth - Provided he ask aright, and ask what is agreeable to God's will.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 7:7–11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Ask, and it shall be given you It is an exhortation to prayer: and as in this exercise of religion, which ought to be our first concern, we are so careless and sluggish, Christ presses the same thing upon us under three forms of expression. There is no superfluity of language, when he says, Ask, seek, knock: but lest the simple doctrine should be unimpressive, he perseveres in order to rouse us from our inactivity.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 7:7–11)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 7,

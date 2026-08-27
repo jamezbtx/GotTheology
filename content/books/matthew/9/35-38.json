@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 9:35–38",
   "context": "Jesus’ Galilean circuit—teaching, kingdom gospel, and healing—frames His compassion for harassed, shepherdless crowds. He turns disciples toward prayer: plentiful harvest, few laborers, ask the Lord of the harvest to send workers.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus’ Galilean circuit—teaching, kingdom gospel, and healing—frames His compassion for harassed, shepherdless crowds—so each camp speaks in its own voice beside Matthew 9:35–38.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Because they were faint - In soul rather than in body. As sheep having no shepherd - And yet they had many teachers; they had scribes in every city. But they had none who cared for their souls, and none that were able, if they had been willing, to have wrought any deliverance.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 9:35–38)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And Jesus went about This statement is made by way of anticipating an objection, and is intended to inform us that the whole ministry of Christ is not minutely described: for he was constantly employed in the discharge of his office; that is, in proclaiming the doctrine of salvation, and in confirming it by the addition of miracles. The gospel of the kingdom, we have already said, is a designation given to it from its effect, for in this way God gathered to himself a people sadly scattered, that he might reign in the midst of them; and, indeed, he erected his throne for the express purpose of bestowing on all his people perfect happiness.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 9:35–38)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 35,

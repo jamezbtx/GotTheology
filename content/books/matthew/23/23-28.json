@@ -8,6 +8,26 @@
   "title": "Matthew 23:23–28",
   "context": "Mid-woes: tithing herbs while neglecting justice, mercy, and faithfulness; cleaning cups and tombs while greed and lawlessness fill the inside. Jesus demands weightier obedience and inward purity, not cosmetic religion.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on mercy, and faithfulness; cleaning cups and tombs while greed and lawlessness fill the inside—so each camp speaks in its own voice beside Matthew 23:23–28.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye pay tithe of mint, etc. - They were remarkably scrupulous in the performance of all the rites and ceremonies of religion, but totally neglected the soul, spirit, and practice of godliness. Judgment - Acting according to justice and equity towards all mankind.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 23:23–28)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This is intended to anticipate their calumny; for they might have put an unfavorable interpretation on his discourse, and charged him with setting no value on what the Law of God had enjoined. He therefore acknowledges that whatever God has enjoined ought to be performed, and that no part of it ought to be omitted, but maintains that zeal for the whole Law is no reason why we ought not to insist chiefly on the principal points.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 23:23–28)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 23,

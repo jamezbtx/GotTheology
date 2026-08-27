@@ -8,6 +8,26 @@
   "title": "Matthew 16:21–23",
   "context": "Immediately after Peter’s confession, Jesus begins to show the necessity of His suffering, death, and resurrection. Peter rebukes Him; Jesus rebukes Peter as a satanic hindrance for setting his mind on human things rather than God’s.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on immediately after Peter’s confession, Jesus begins to show the necessity of His suffering, death, and resurrection—so each camp speaks in its own voice beside Matthew 16:21–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "From that time Jesus began to tell his disciples, that he must suffer many things - Perhaps this expression, began, always implied his entering on a set and solemn discourse. Hitherto he had mainly taught them only one point, That he was the Christ.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 16:21–23)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And Peter, taking him aside, began to rebuke him. It is a proof of the excessive zeal of Peter, that he reproves his Master; though it would appear that the respect he entertained for him was his reason for taking him aside, because he did not venture to reprove him in presence of others.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 16:21–23)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 21,

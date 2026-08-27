@@ -8,6 +8,26 @@
   "title": "Genesis 10:21–32",
   "context": "The table turns to Shem, father of Eber, then Peleg and Joktan, and closes: from these clans the nations spread abroad after the flood.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Shem, Eber, and the spreading of the clans after the flood—so each camp speaks in its own voice beside Genesis 10:21–32.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The description of Shem, Ge 10:21, we have not only his name, Shem, which signifies a name; but two titles to distinguish him by. He was the father of all the children of Eber. Eber was his great grandson, but why should he be called the father of all his children, rather than of all Arphaxad's or Salah's?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 10:21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Moses, being about to speak of the sons of Shem, makes a brief introduction, which he had not done in reference to the others. Nor was it without reason; for since this was the race chosen by God, he wished to sever it from other nations by some special mark. This also is the reason why he expressly styles him the father of the sons of Eber,' and the elder brother of Japheth.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 10:21)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 21,

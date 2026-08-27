@@ -8,6 +8,26 @@
   "title": "Matthew 24:15–28",
   "context": "Still on Olivet, Jesus turns from birth pains to a sharper crisis: Daniel’s abomination in the holy place, urgent flight from Judea, unmatched tribulation shortened for the elect, and a fresh wave of false christs with signs. He tells them beforehand so they will not chase wilderness rumors or inner-room sightings. His own coming will be as public as lightning from east to west.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus turns from birth pains to a sharper crisis: Daniel’s abomination in the holy place, urgent flight from Judea—so each camp speaks in its own voice beside Matthew 24:15–28.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "When ye see the abomination of desolation - Daniel's term is, The abomination that maketh desolate, Dan. xi, 31; that is, the standards of the desolating legions, on which they bear the abominable images of their idols: Standing in the holy place - Not only the temple and the mountain on which it stood, but the whole city of Jerusalem, and several furlongs of land round about it, were accounted holy; particularly the mount on which our Lord now sat, and on which the Roman afterward planted their ensigns. He that readeth let him understand - Whoever reads that prophecy of Daniel, let him deeply consider it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 24:15–28)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "When therefore you shall see the abomination of desolation, which is described by Daniel the prophet, standing in the holy place, (let him that readeth understand,) 16. Then let them who are in Judea flee to the mountains. Let not him who is on the housetop go down to carry anything out of his house; 18.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 24:15–28)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 15,

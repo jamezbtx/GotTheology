@@ -211,22 +211,24 @@ function renderVoicesSection(voices) {
   return `
       <section class="voices" id="voices" aria-labelledby="voices-heading">
         <div class="reader">
-          <div class="voices-intro">
-            <p class="eyebrow">${escapeHtml(voices.eyebrow || "From the tradition")}</p>
-            <h2 id="voices-heading">${escapeHtml(voices.heading || "Voices from both camps")}</h2>
-            <p>${escapeHtml(voices.intro || "")}</p>
-          </div>
-          <div class="voices-grid">
-            <div class="voices-col arminian">
-              <h3><span class="dual-label label-arminian" style="margin:0">Arminian</span> Notable voices</h3>
-              ${arm}
+          <div class="voices-panel">
+            <div class="voices-intro">
+              <p class="voices-pill">Historic quotes</p>
+              <h2 id="voices-heading">${escapeHtml(voices.heading || "Voices from both camps")}</h2>
+              <p>${escapeHtml(voices.intro || "")}</p>
             </div>
-            <div class="voices-col reformed">
-              <h3><span class="dual-label label-reformed" style="margin:0">Reformed</span> Notable voices</h3>
-              ${ref}
+            <div class="voices-grid">
+              <div class="voices-col arminian">
+                <h3><span class="dual-label label-arminian" style="margin:0">Arminian</span> Notable voices</h3>
+                ${arm}
+              </div>
+              <div class="voices-col reformed">
+                <h3><span class="dual-label label-reformed" style="margin:0">Reformed</span> Notable voices</h3>
+                ${ref}
+              </div>
             </div>
+            ${voices.note ? `<p class="voices-note">${escapeHtml(voices.note)}</p>` : ""}
           </div>
-          ${voices.note ? `<p class="voices-note">${escapeHtml(voices.note)}</p>` : ""}
         </div>
       </section>`;
 }
@@ -316,6 +318,7 @@ function renderPassagePage(data, opts) {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/assets/gottheology.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>
 </head>
 <body>
   <header class="site-header">
@@ -330,6 +333,7 @@ function renderPassagePage(data, opts) {
         <a href="/index.html">Home</a>
         <a href="/bible/index.html">Bible</a>
         <a href="/index.html#perspectives">Perspectives</a>
+        ${opts.voices ? '<a href="#voices">Voices</a>' : ""}
         <a href="/bible/index.html" class="btn btn-primary btn-nav nav-cta">Browse Bible</a>
       </nav>
     </div>
@@ -344,6 +348,8 @@ function renderPassagePage(data, opts) {
           <span>Verse${verseStart === verseEnd ? "" : "s"} ${escapeHtml(rangeLabel)}</span>
           <span aria-hidden="true">\u00b7</span>
           <span class="pill">${escapeHtml(translation)}</span>
+          ${opts.voices ? `<span aria-hidden="true">\u00b7</span>
+          <a class="voices-jump" href="#voices">Voices</a>` : ""}
         </div>
         ${context ? `<p class="passage-context">${escapeHtml(context)}</p>` : ""}
       </div>
@@ -354,10 +360,15 @@ ${verseCards}
 
       <aside class="ad-slot ad-slot-narrow" aria-label="Advertisement">
         <span class="ad-label">Advertisement</span>
-        <div class="ad-frame ad-frame--leader" data-ad-slot="verse-after-notes">
-          <span>Ad slot \u00b7 kept below the verse notes \u00b7 <strong>728\u00d790</strong></span>
+        <div class="ad-frame ad-frame--leader">
+          <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-client="ca-pub-7106052656127997"
+               data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
         </div>
       </aside>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
       <aside class="disclaimer" role="note">
         ${displayDisclaimer}
@@ -367,16 +378,21 @@ ${voicesHtml}
 
       <aside class="ad-slot ad-slot-narrow" aria-label="Advertisement">
         <span class="ad-label">Advertisement</span>
-        <div class="ad-frame ad-frame--rect" data-ad-slot="verse-before-cta">
-          <span>Ad slot \u00b7 <strong>300\u00d7250</strong></span>
+        <div class="ad-frame ad-frame--rect">
+          <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-client="ca-pub-7106052656127997"
+               data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
         </div>
       </aside>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
     <section class="bottom-cta" aria-labelledby="cta-heading">
       <div class="reader">
         <div class="cta-box">
           <p class="eyebrow" style="color: var(--gold-soft);">Keep reading</p>
-          <h2 id="cta-heading">Matthew, Colossians, and Genesis are live</h2>
+          <h2 id="cta-heading">Matthew, Colossians, Genesis, and Ephesians are live</h2>
           <p>Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
           <a href="/bible/index.html" class="btn btn-gold">Browse the Bible</a>
         </div>
@@ -395,6 +411,8 @@ ${voicesHtml}
           <a href="/index.html">Home</a>
           <a href="/bible/index.html">Bible</a>
           <a href="/index.html#perspectives">Perspectives</a>
+          <a href="mailto:info.got.theology@gmail.com">Contact</a>
+          <a href="/privacy.html">Privacy</a>
           <a href="/index.html#updates">Updates</a>
         </nav>
       </div>
@@ -446,35 +464,72 @@ function renderBibleIndex(passages) {
         if (a.chapter !== b.chapter) return a.chapter - b.chapter;
         return a.verseStart - b.verseStart;
       });
-      const lis = sorted
-        .map((item) => {
-          const range = enDashRange(item.verseStart, item.verseEnd);
-          const label = item.book + " " + item.chapter + ":" + range;
-          const meta = [item.translation, item.context ? truncate(item.context, 90) : null]
-            .filter(Boolean)
-            .join(" \u00b7 ");
-          const metaHtml = meta
-            ? '<span class="meta">' + escapeHtml(meta) + "</span>"
-            : "";
+
+      const byChapter = new Map();
+      for (const item of sorted) {
+        const ch = Number(item.chapter);
+        if (!byChapter.has(ch)) byChapter.set(ch, []);
+        byChapter.get(ch).push(item);
+      }
+      const chapters = [...byChapter.keys()];
+
+      function renderPassageLi(item) {
+        const range = enDashRange(item.verseStart, item.verseEnd);
+        const label = item.chapter + ":" + range;
+        const meta = [item.translation, item.context ? truncate(item.context, 90) : null]
+          .filter(Boolean)
+          .join(" \u00b7 ");
+        const metaHtml = meta
+          ? '<span class="meta">' + escapeHtml(meta) + "</span>"
+          : "";
+        return (
+          '<li><a href="' +
+          escapeHtml(item.url) +
+          '"><span class="ref">' +
+          escapeHtml(label) +
+          "</span>" +
+          metaHtml +
+          "</a></li>"
+        );
+      }
+
+      const jumpHtml =
+        chapters.length >= 10
+          ? '\n        <nav class="chapter-jump" aria-label="' +
+            escapeHtml(book.name) +
+            ' chapters">\n          ' +
+            chapters
+              .map((ch) => '<a href="#' + book.slug + "-ch-" + ch + '">' + ch + "</a>")
+              .join("\n          ") +
+            "\n        </nav>"
+          : "";
+
+      const groups = chapters
+        .map((ch) => {
+          const id = book.slug + "-ch-" + ch;
+          const lis = byChapter.get(ch).map(renderPassageLi).join("\n            ");
           return (
-            '<li><a href="' +
-            escapeHtml(item.url) +
-            '"><span class="ref">' +
-            escapeHtml(label) +
-            "</span>" +
-            metaHtml +
-            "</a></li>"
+            '<div class="chapter-group" id="' +
+            id +
+            '">\n          <h3 class="chapter-heading">Chapter ' +
+            ch +
+            '</h3>\n          <ul class="passage-list">\n            ' +
+            lis +
+            "\n          </ul>\n        </div>"
           );
         })
-        .join("\n          ");
+        .join("\n        ");
+
       return (
         '\n      <section class="book-block book-block--live" data-book="' +
         escapeHtml(book.slug) +
         '">\n        <h2>' +
         escapeHtml(book.name) +
-        '</h2>\n        <ul class="passage-list">\n          ' +
-        lis +
-        "\n        </ul>\n      </section>"
+        "</h2>" +
+        jumpHtml +
+        "\n        " +
+        groups +
+        "\n      </section>"
       );
     }
     return (
@@ -529,6 +584,7 @@ function renderBibleIndex(passages) {
     '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />',
     '  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />',
     '  <link rel="stylesheet" href="/assets/gottheology.css" />',
+    '  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>',
     "</head>",
     "<body>",
     '  <header class="site-header">',
@@ -552,13 +608,13 @@ function renderBibleIndex(passages) {
     '      <div class="page-intro">',
     '        <p class="eyebrow">Free to read</p>',
     "        <h1>Bible passages</h1>",
-    "        <p>Arminian and Reformed notes side by side\u2014supported by ads, never paywalled.</p>",
+    "        <p>Search any live verse. Arminian and Reformed notes sit side by side, plus historic quotes from both camps\u2014supported by ads, never paywalled.</p>",
     "      </div>",
     '      <div class="search-panel" data-search-panel>',
-    '        <label class="search-label" for="siteSearch">Search passages</label>',
+    '        <label class="search-label" for="siteSearch">Search any live verse</label>',
     '        <div class="search-field">',
     '          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>',
-    '          <input type="search" id="siteSearch" name="q" data-search-input placeholder="Search by book, verse, or wording\u2026" autocomplete="off" enterkeyhint="search" />',
+    '          <input type="search" id="siteSearch" name="q" data-search-input placeholder="Book, chapter:verse, or wording\u2026" autocomplete="off" enterkeyhint="search" />',
     "        </div>",
     '        <div class="search-results" data-search-results hidden></div>',
     "      </div>",
@@ -577,6 +633,8 @@ function renderBibleIndex(passages) {
     '        <nav class="footer-links" aria-label="Footer">',
     '          <a href="/index.html">Home</a>',
     '          <a href="/bible/index.html">Bible</a>',
+    '          <a href="mailto:info.got.theology@gmail.com">Contact</a>',
+    '          <a href="/privacy.html">Privacy</a>',
     "        </nav>",
     "      </div>",
     '      <div class="footer-bottom">',

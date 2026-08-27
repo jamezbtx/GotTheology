@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 11:25–27",
   "context": "After pronouncing woes on unrepentant cities (vv. 20–24), Jesus turns from indictment to thanksgiving. He praises the Father—Lord of heaven and earth—for a revelatory will that hides kingdom truth from the self-wise and discloses it to “little children,” then speaks of the Son’s exclusive knowledge of the Father and of those to whom the Son chooses to reveal Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on after pronouncing woes on unrepentant cities—so each camp speaks in its own voice beside Matthew 11:25–27.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Jesus answering - This word does not always imply, that something had been spoken, to which an answer is now made. It often means no more than the speaking in reference to some action or circumstance preceding. The following words Christ speaks in reference to the case of the cities above mentioned: I thank thee - That is, I acknowledge and joyfully adore the justice and mercy of thy dispensations: Because thou hast hid - That is, because thou hast suffered these things to be hid from men, who are in other respects wise and prudent, while thou hast discovered them to those of the weakest understanding, to them who are only wise to Godward.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 11:25–27)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Though the Hebrew verb, answer, (nh,) is frequently employed even in the commencement of a discourse, yet in this passage I consider it to be emphatic; for it was from the present occurrence that Christ took occasion to speak. This is more fully confirmed by the words of Luke, that in the same hour Jesus rejoiced in spirit Whence came that rejoicing?",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 11:25–27)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 25,

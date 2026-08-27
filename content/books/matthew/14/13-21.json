@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 14:13–21",
   "context": "After John’s disciples bury him and tell Jesus (14:1–12), Jesus withdraws by boat to a desolate place—yet the crowds follow on foot. Evening brings the disciples’ scarcity report, five loaves and two fish placed in His hands, a blessing, broken bread, satisfied multitudes, and twelve baskets left over.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus withdraws by boat to a desolate place—yet the crowds follow on foot—so each camp speaks in its own voice beside Matthew 14:13–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Jesus withdrew into a desert place - To avoid Herod: Because of the multitude pressing upon him, Mark vi, xxxii, and To talk with his disciples, newly returned from their progress, Luke ix, x, apart - From all but his disciples.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 14:13–21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "John, who relates the same narrative, does not mention the reason why Jesus crossed over to the opposite bank, (6: 5.) Mark and Luke differ somewhat from Matthew; for they describe the occasion of the journey to have been to give some repose to his disciples, after that they had returned from their embassy. But there is no contradiction here; for it is possible that he intended to withdraw his disciples into a desert place, in order that he might be more at leisure to train them for higher labors, and that, about the same time, an additional reason arose out of the death of John.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 14:13–21)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 13,

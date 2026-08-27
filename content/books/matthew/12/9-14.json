@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 12:9–14",
   "context": "Continuing the Sabbath controversy (12:1–8), Jesus enters the synagogue, faces a trap question over a man with a withered hand, answers with mercy’s logic, heals, and draws the Pharisees into a plot to destroy Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on continuing the Sabbath controversy (12:1–8), Jesus enters the synagogue—so each camp speaks in its own voice beside Matthew 12:9–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "A man which had his hand withered - Probably through a partial paralysis. The man's hand was withered; but God's mercy had still preserved to him the use of his feet: He uses them to bring him to the public worship of God, and Jesus meets and heals him there.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the New Testament (on Matt 12:9–14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This narrative and that which immediately precedes it have the same object; which is to show, that the scribes watched with a malicious eye for the purpose of turning into slander every thing that Christ did, and consequently that we need not wonder if men, whose minds were so depraved, were his implacable enemies. We see also, that it is usual with hypocrites to pursue what is nothing more than a shadow of the righteousness of the Law, and as the common saying is, to stickle more about the form than about the substance.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 12:9–14)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 9,

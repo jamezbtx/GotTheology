@@ -8,6 +8,26 @@
   "title": "Matthew 16:1–4",
   "context": "After feeding multitudes and healing, Jesus is confronted by Pharisees and Sadducees who demand a sign from heaven. He exposes their spiritual blindness, refuses a spectacle, and points them to the sign of Jonah—then leaves them.",
   "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus is confronted by Pharisees and Sadducees who demand a sign from heaven—so each camp speaks in its own voice beside Matthew 16:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "A sign from heaven - Such they imagined Satan could not counterfeit. The signs of the times - The signs which evidently show, that this is the time of the Messiah. A wicked and adulterous generation - Ye would seek no further sign, did not your wickedness, your love of the world, which is spiritual adultery, blind your understanding.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 16:1–4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Mark says that they began to dispute, from which we may conjecture that, when they had been vanquished in argument, this was their last resource; as obstinate men, whenever they are reduced to extremities, to avoid being compelled to yield to the truth, are accustomed to introduce something which is foreign to the subject. Though the nature of the dispute is not expressed, yet I think it probable that they debated about the calling of Christ, why he ventured to make any innovation, and why he made such lofty pretensions, as if by his coming he had fully restored the kingdom of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 16:1–4)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 1,

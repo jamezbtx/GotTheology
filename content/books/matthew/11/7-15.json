@@ -7,6 +7,27 @@
   "translation": "ESV",
   "title": "Matthew 11:7–15",
   "context": "After John’s disciples leave with Jesus’ answer (vv. 2–6), Jesus turns to the crowds and interprets John’s ministry: the Baptist is no reed or soft courtier but more than a prophet—Malachi’s messenger, Elijah who is to come—yet the least in the kingdom of heaven is greater than he.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on after John’s disciples leave with Jesus’ answer—so each camp speaks in its own voice beside Matthew 11:7–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "As they departed, he said concerning John - Of whom probably he would not have said so much when they were present. - No; nothing could ever shake John in the testimony he gave to the truth. A man clothed in soft, delicate raiment - An effeminate courtier, accustomed to fawning and flattery?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 11:7–15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "And while they were departing Christ praises John before the people, in order that they may state from recollection what they have heard from him, and may give credit to his testimony. For his name was widely celebrated, and men spoke of him in lofty terms: but his doctrine was held in less estimation, and there were even few that waited on his ministrations.",
+        "cite": "John Calvin",
+        "source": "Commentary on a Harmony of the Evangelists (on Matt 11:7–15)"
+      }
+    ]
+  },
   "verses": [
     {
       "number": 7,
