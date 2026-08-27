@@ -1,0 +1,73 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 1,
+  "verseStart": 12,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "1 Timothy 1:12–17",
+  "context": "Paul thanks Christ Jesus who strengthened him and appointed him to service, though he had been a blasphemer, persecutor, and insolent opponent. Mercy met his ignorant unbelief; grace overflowed with faith and love; and the trustworthy saying is that Christ came to save sinners—Paul the foremost, a pattern of perfect patience for those who would believe—crowned with doxology to the King of the ages.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on mercy to the foremost sinner and Christ Jesus coming to save—so each camp speaks in its own voice beside 1 Timothy 1:12–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I obtained mercy—He does not say, because I was unconditionally elected; but because I did it in ignorance. Not that his ignorance took away his sin; but it left him capable of mercy. Christ Jesus came into the world to save sinners—All sinners, without exception. For this cause God showed me mercy, that all his longsuffering might be shown, and that none might hereafter despair.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 1:12–17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I deny that he was admitted to the rank of an apostle because God had foreseen his faith; for Christ could not foresee in him anything good but what the Father had bestowed on him. Still it continues to be true, “Ye have not chosen me, but I have chosen you.” When he who had been a fierce and savage beast was changed into a Pastor, Christ gave a remarkable display of his grace, from which all might be led to entertain a firm belief that no sinner had the gate of salvation shut against him.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 1:12–17)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 12,
+      "text": "I thank him who has given me strength, Christ Jesus our Lord, because he judged me faithful, appointing me to his service,",
+      "arminianNotes": "Paul thanks the Christ who strengthened him, judged him faithful, and appointed him. Ministry is gift: Christ enables, then uses.\n\nClassical Arminians hear enabling grace that made Paul equal to the work—strength to be faithful, not a reward for prior worth. Thanksgiving is the right first word when a former enemy is put in service.",
+      "reformedNotes": "Thanksgiving goes to Christ, who made him powerful and put him in the ministry. Calvin denies that foreseen faith earned the office: Christ could foresee no good in Paul except what the Father bestowed—“You did not choose me, but I chose you.”\n\nReformed reading: appointment is Christ’s testimony, and strength is ongoing grace so the office does not collapse. The apostle’s dignity shines because it is mercy, not résumé.",
+      "keyContrast": "Both thank Christ for Paul’s ministry and deny that Paul was self-appointed. Arminians typically hear “judged me faithful” as Christ enabling and then employing a man who, by grace, could be faithful; Reformed readers typically hear Christ’s choice as the cause—the appointment declares faithfulness rather than rewarding foreseen faith."
+    },
+    {
+      "number": 13,
+      "text": "though formerly I was a blasphemer, persecutor, and insolent opponent. But I received mercy because I had acted ignorantly in unbelief,",
+      "arminianNotes": "He had been a blasphemer, persecutor, and insolent opponent—yet he received mercy because he acted ignorantly in unbelief. Wesley is blunt: Paul does not say “because I was unconditionally elected,” but that ignorance left him capable of mercy.\n\nArminian pastoral hope: Christ’s longsuffering meets even violent unbelief. Ignorance did not erase guilt; it meant he had not sinned against full light, and mercy could still be received rather than finally refused.",
+      "reformedNotes": "Paul magnifies grace by refusing to varnish the past: blasphemer, persecutor, insolent. Mercy met him in that unbelief; the fruits were persecution, the root was unbelief.\n\nReformed confession: God was not obligated by Paul’s ignorance. Sovereign mercy stopped a rebel who thought he was serving God and made him an apostle. The same mercy is not sentimental about willful, enlightened rejection of known truth.",
+      "keyContrast": "Both ascribe Paul’s conversion to mercy, not merit, and take his former blasphemy seriously. Wesleyan reading stresses that Paul traces the mercy to ignorance that left him capable of mercy—prevenient longsuffering that can be received. Reformed reading stresses that mercy is God’s sovereign initiative toward a hostile unbeliever; ignorance explains the kind of unbelief, not a condition that obligated God."
+    },
+    {
+      "number": 14,
+      "text": "and the grace of our Lord overflowed for me with the faith and love that are in Christ Jesus.",
+      "arminianNotes": "Grace overflowed—exceeding abundant—with faith opposite his unbelief and love opposite his violence. Overflowing grace does not cancel faith and love; it brings them.\n\nClassical Arminians praise grace as the source of all good, yet still speak of faith as the grace-enabled receiving of that overflow. Paul is a new man because he believed and now loves in Christ Jesus.",
+      "reformedNotes": "Grace abounded beyond measure, with faith and love in Christ Jesus as its marks. Calvin prefers to see faith and love as proofs of the grace mentioned, so the boast is not empty.\n\nReformed accent: God so changed him that he became a different man. Faith and love in Christ are the evidence of effectual grace, not independent conditions that unlocked it."
+    },
+    {
+      "number": 15,
+      "text": "The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.",
+      "arminianNotes": "The saying is trustworthy and deserves full acceptance: Christ Jesus came into the world to save sinners—all sinners, without exception, says Wesley—and Paul ranks himself foremost. The door is sincerely open.\n\nArminian proclamation: the more a hearer feels the weight of sin, the more boldly he may come. “Foremost” is not theater; it is the gospel’s welcome to the worst, received by those who believe.",
+      "reformedNotes": "Paul sounds a trumpet: a faithful saying, worthy of all acceptation. “Sinners” is the emphatic word, because we keep looking at our worthiness and sinking.\n\nReformed gospel: Christ came to save sinners, and in saving Paul He showed that the gate is not shut against the heinous. Particular, effectual mercy does not mute the invitation; it guarantees that the foremost can actually be saved, not merely offered a chance.",
+      "keyContrast": "Both confess that Christ Jesus came to save sinners and that the saying deserves full acceptance. Classical Arminians hear a sincere, universal saving purpose—all sinners without exception—received by those who believe. Reformed readers hear a trustworthy gospel that actually saves the sinners Christ came to redeem, while still calling every hearer to come; Paul’s being foremost displays electing mercy, not a mere possibility left unused."
+    },
+    {
+      "number": 16,
+      "text": "But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.",
+      "arminianNotes": "Mercy had this purpose: that in the foremost, Christ might display perfect patience as an example to those who would believe in Him for eternal life. Wesley: so that none might hereafter despair.\n\nArminian reading: Paul is the pattern of those who believe. The same patience is held out in the gospel; eternal life is for those who trust Him. The example is a sincere encouragement, not a private trophy for a closed list.",
+      "reformedNotes": "God held out Paul as a conspicuous pattern so that no one need doubt of pardon who comes to Christ by faith. When a savage opponent became a pastor, grace was put on a high platform.\n\nReformed reading: Paul is a trophy of effectual calling. Perfect patience is displayed in an actual conversion, so that those who were to believe would take heart—mercy that works, not mercy that only waits.",
+      "keyContrast": "Both see Paul as a pattern of mercy so that others would believe in Christ for eternal life. Arminians typically read the example as encouragement that the same patience is sincerely held out to all who will believe, so none need despair. Reformed readers typically read Paul as a public trophy of effectual calling: God displayed perfect patience in converting the foremost so that those appointed to believe would take heart."
+    },
+    {
+      "number": 17,
+      "text": "To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.",
+      "arminianNotes": "The mercy bursts into praise: to the King of the ages, immortal, invisible, the only God, honor and glory forever. Wesley: how unspeakably sweet is the thought of eternity to believers.\n\nArminian worship: the God who showed longsuffering to Paul is worthy of endless honor. Doxology is the fitting end of a salvation sincerely offered and thankfully received.",
+      "reformedNotes": "Paul’s vehemence breaks into exclamation; he cannot find words enough. The King is eternal—not liable to change—invisible, only wise.\n\nReformed instinct: we should never think of converting grace without being carried to admiration. The attributes fit the occasion: the God who chose and changed Paul is the God whose ways outrun us, and all glory is His."
+    }
+  ]
+}

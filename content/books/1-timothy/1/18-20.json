@@ -1,0 +1,52 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 1,
+  "verseStart": 18,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "1 Timothy 1:18–20",
+  "context": "Paul entrusts this charge to Timothy in line with earlier prophecies, that he may wage the good warfare, holding faith and a good conscience. Some have shipwrecked that faith; Hymenaeus and Alexander are named, handed over to Satan that they may learn not to blaspheme.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the charge entrusted to Timothy, shipwreck of faith, and Hymenaeus and Alexander—so each camp speaks in its own voice beside 1 Timothy 1:18–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Holding fast faith—which is as a most precious liquor—and a good conscience—which is as a clean glass. Some having thrust away a good conscience have made shipwreck of their faith. Indeed, none can make shipwreck of faith who never had it. These, therefore, were once true believers: yet they fell not only foully, but finally; for ships once wrecked cannot be afterwards saved.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 1:18–20)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "There is only one way of keeping the treasure of sound doctrine safe: secure it by the locks and bars of a good conscience. A bad conscience is the mother of all heresies. The metaphor of shipwreck is highly appropriate; if we wish to arrive safely at the harbor, our course must be guided by a good conscience, otherwise there is danger lest faith be sunk by a bad conscience, as by a whirlpool in a stormy sea.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 1:18–20)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "This charge I entrust to you, Timothy, my child, in accordance with the prophecies previously made about you, that by them you may wage the good warfare,",
+      "arminianNotes": "This charge is entrusted to Timothy, in line with prophecies about him, that by them he may wage the good warfare. Ministry is a real fight.\n\nArminian pastoral call: divine encouragement does not cancel effort. Timothy must war well—holding what was committed to him—so that the church receives the charge intact. Prophecies stir him to obey, not to coast.",
+      "reformedNotes": "After the digression on his own conversion, Paul returns to the charge. Prophecies had already marked Timothy; he is to fight as one God has approved.\n\nReformed comfort: nothing cheers a minister like knowing God appointed the work. The warfare is good—that is, under God as leader it is the right contest and will not be finally futile for those He sends."
+    },
+    {
+      "number": 19,
+      "text": "holding faith and a good conscience. By rejecting this, some have made shipwreck of their faith,",
+      "arminianNotes": "Hold faith and a good conscience. Some, thrusting the conscience away, have shipwrecked the faith. Wesley: none can shipwreck faith who never had it; these were once true believers, and they fell not only foully but finally.\n\nClassical Arminians take the warning at face value: faith must be held; a seared conscience is how living trust dies. Timothy’s perseverance is a serious, grace-enabled duty—resistible if conscience is thrust away.",
+      "reformedNotes": "Faith here is sound doctrine held with a good conscience; a bad conscience is the mother of heresies. Calvin: lock the treasure with conscience or it sinks like a ship in a whirlpool.\n\nReformed reading of shipwreck: many who professed the gospel did not sincerely embrace it, and God exposes hypocrisy in monstrous error. True saints are kept; the warning is one of the means by which God keeps them. The danger is not imaginary.",
+      "keyContrast": "Both treat the warning as real: rejecting a good conscience endangers faith. Classical Arminians, with Wesley, typically hold that these shipwrecked people had true faith and fell finally—hence the charge to hold faith and conscience. Reformed readers typically hold that a bad conscience exposes insincere profession and that those who finally wreck were not kept in true saving faith; the warning is a means God uses so that the elect persevere."
+    },
+    {
+      "number": 20,
+      "text": "among whom are Hymenaeus and Alexander, whom I have handed over to Satan that they may learn not to blaspheme.",
+      "arminianNotes": "Hymenaeus and Alexander are named among the wrecked. Paul has handed them over to Satan that they may learn not to blaspheme—severe discipline with a learning aim.\n\nArminian pastoral note: the goal is that they be restrained and, if they will, repent. Their fall shows how far swerving can go; it also shows that the church must not pretend all professions are safe. Love of the flock includes this hard medicine.",
+      "reformedNotes": "Paul identifies men Timothy knows. Delivery to Satan is best read as excommunication: outside the church is Satan’s dominion, until reconciliation returns a person to Christ.\n\nReformed pastoral aim: the brand of infamy protects the flock from contamination and may yet subdue the offender. Discipline is not spite; it is kingdom order under Christ’s rule, hoping they learn not to blaspheme."
+    }
+  ]
+}

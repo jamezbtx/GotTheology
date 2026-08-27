@@ -1,0 +1,82 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 2,
+  "verseStart": 8,
+  "verseEnd": 15,
+  "translation": "ESV",
+  "title": "1 Timothy 2:8–15",
+  "context": "From prayer for all people Paul turns to how the gathered church should look: men praying in every place without anger or quarreling; women adorned with modesty, self-control, and good works rather than display. A woman is to learn quietly; Paul does not permit her to teach or exercise authority over a man, grounding the charge in Adam formed first and Eve deceived, then adding the hard pastoral word that she will be saved through childbearing if they continue in faith, love, and holiness with self-control.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on men praying without anger, women’s adornment and quiet learning, and the restriction of public teaching authority—so each camp speaks in its own voice beside 1 Timothy 2:8–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "To usurp authority over the man — By public teaching. First — So that woman was originally the inferior. And Adam was not deceived — The serpent deceived Eve: Eve did not deceive Adam, but persuaded him. The preceding verse showed why a woman should not usurp authority over the man. this shows why she ought not to teach. She is more easily deceived, and more easily deceives. Yet she — That is, women in general, who were all involved with Eve in the sentence pronounced, Gen 3:16. Shall be saved in childbearing — Carried safe through the pain and danger which that sentence entails upon them for the transgression; yea, and finally saved, if they continue in loving faith and holy wisdom.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 2:12–15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "But I suffer not a woman to teach. Not that he takes from them the charge of instructing their family, but only excludes them from the office of teaching, which God has committed to men only. He adds — what is closely allied to the office of teaching — and not to assume authority over the man; for the very reason, why they are forbidden to teach, is, that it is not permitted by their condition. They are subject, and to teach implies the rank of power or authority. Accordingly, he bids them be quiet, that is, keep within their own rank. If they continue in faith: the Apostle does not argue here about the cause of salvation… they only shew in what way God conducts us to salvation, to which he has appointed us through his grace.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 2:12–15)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 8,
+      "text": "I desire then that in every place the men should pray, lifting holy hands without anger or quarreling;",
+      "arminianNotes": "“I desire” (Wesley: a word of apostolic authority) ties this verse back to verse 1. The men of the assembly are to pray in every place—public and private—lifting holy hands, “pure from all known sin,” without wrath against any creature and without the unbelief that chokes petition.\n\nClassical Arminians hear a real, grace-enabled duty. Anger and quarreling are not small social flaws; they are three-fold hinderances, with unholiness and unbelief, of God’s hearing. The first reform of public worship is not a theory of orders but men who actually pray with clean hands and a love-governed heart.",
+      "reformedNotes": "Paul now applies the public-prayer charge to the men gathered “in every place.” Holy hands name integrity of life, not a gesture for its own sake. Anger and quarreling contradict the intercession just commanded for all people, including rulers.\n\nReformed pastoral: leadership in the assembly begins with prayer, not with volume. The God who appoints order in the church also requires the character of those who lead it. Hands raised in worship while fists stay clenched at a brother make a lie of the gospel just preached as ransom and mediation."
+    },
+    {
+      "number": 9,
+      "text": "likewise also that women should adorn themselves in respectable apparel, with modesty and self-control, not with braided hair and gold or pearls or costly attire,",
+      "arminianNotes": "“Likewise” keeps women inside the same concern for public worship. Adornment is not forbidden as such; respectable apparel with modesty and self-control is. Wesley treats the named vanities as an express command to women professing godliness, and he will not soften a wilful violation by fashion’s special pleading.\n\nClassical Arminian reading stays moral before it stays cultural: self-control is “the virtue which governs our whole life according to true wisdom.” Some later readers in Wesley’s family debate how far the specific catalog is local dress-code and how far the principle is transcultural. Historic Wesley himself is strict. The pastoral aim is holiness, not a sneer at beauty.",
+      "reformedNotes": "Calvin moves from men’s prayer to women’s conduct in the holy assembly. Dress is a public language. Modesty and self-control honor the God who is being addressed; ostentation competes with that address.\n\nReformed instinct: the heart will out in apparel. Costly display can catechize a congregation in status rather than in godliness. Later Reformed readers sometimes distinguish first-century luxury signals from the abiding call to modest self-control; Calvin’s own concern is reverence in worship and a life ordered by sobriety, not a culture-war inventory of fabrics."
+    },
+    {
+      "number": 10,
+      "text": "but with what is proper for women who profess godliness—with good works.",
+      "arminianNotes": "The alternative to display is not drabness of soul but good works proper to women who profess godliness. Profession without practice is the real immodesty. Clothes can lie; works of mercy tell the truth.\n\nArminian pastoral: grace enables a life that matches the lips. “Profess godliness” is a serious claim. The same gospel that sincerely offers Christ to all people (vv. 1–7) now calls women who have received Him to adorn the doctrine with actual good. Responsibility is real; enabling grace is real; neither cancels the other.",
+      "reformedNotes": "Godliness professed is godliness to be worn as good works. Paul does not shame women out of public presence; he relocates their adornment from the jeweler to the life of charity and holiness.\n\nReformed comfort: good works are fruit of a profession God Himself has wrought, not a second way of being saved. In the assembly and in the household, visible mercy is the fitting clothing of those named as God’s. The contrast is ostentation versus fruit, not persons versus worth."
+    },
+    {
+      "number": 11,
+      "text": "Let a woman learn quietly with all submissiveness.",
+      "arminianNotes": "The first word is gift, not gag: “Let a woman learn.” She is not barred from the truth; she is summoned into it. “Quietly with all submissiveness” describes the manner of that learning in the gathered church, not a ban on thought or on every kind of speech.\n\nHistoric Wesley reads the quietness together with the next verse’s ban on public teaching. Classical Arminians should not invent a Wesley who did not exist: he takes the assembly restriction as real. Some later readers in both families ask whether the quietness is a local remedy or a transcultural pattern. The pastoral center remains: women are disciples who must actually learn Christ, and the church must teach them well.",
+      "reformedNotes": "Calvin: after dress, Paul adds “with what modesty women ought to conduct themselves in the holy assembly.” Quietness here means they are not to take upon themselves to speak in public—soon explained by the ban on teaching.\n\nReformed reading keeps two truths together. Learning is commanded: the woman is a hearer of the Word, not a spectator without a soul. The manner of learning in the assembly is submissive quietness under the order God has given. Later debate about local versus transcultural application exists in the Reformed family too; Calvin himself treats it as ordinary assembly order, not a one-church emergency only."
+    },
+    {
+      "number": 12,
+      "text": "I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet.",
+      "arminianNotes": "Paul’s “I do not permit” is apostolic, not a shrug. Wesley’s gloss is blunt: to usurp authority over the man is “by public teaching.” Historic Wesley is not an egalitarian on this verse. He hears a restriction of the public teaching office, not a denial that women may know, love, or serve Christ with full spiritual dignity.\n\nClassical Arminian use should stay honest and pastoral. Some later Wesleyan and Arminian readers argue the prohibition is local (false teaching in Ephesus) rather than transcultural; that is a later debate, not Wesley’s own note. The living church must still refuse contempt for women, refuse to muzzle their good works and household instruction, and refuse to pretend the apostle did not speak about teaching and authority in the assembly.",
+      "reformedNotes": "Calvin is equally plain: Paul “excludes them from the office of teaching, which God has committed to men only,” while not taking from women “the charge of instructing their family.” Teaching and assuming authority are allied because teaching in the assembly implies rank. Extraordinary cases (Deborah, prophetesses) do not, for Calvin, overturn the ordinary rule.\n\nReformed pastoral care: this is about office in the holy assembly, not about a woman’s worth, intelligence, or salvation. Some later Reformed readers still debate the exact edges of “teach” and “exercise authority.” Calvin’s own line is the ordinary teaching office and governing authority. The tone of the text is order, not spite; the church sins if it uses the verse to crush sisters Christ died to save."
+    },
+    {
+      "number": 13,
+      "text": "For Adam was formed first, then Eve;",
+      "arminianNotes": "The reason is not Ephesian gossip first but Genesis: Adam was formed first, then Eve. Wesley: “So that woman was originally the inferior”—his word for created order, not for lesser image-bearing. Paul reaches behind local fashion to the making of man and woman.\n\nClassical Arminians can admit the creation argument without adding scorn. Being second in formation is not being second in the love of God (vv. 4–6 still stand). Some later readers in both families ask whether “formed first” is a transcultural ground or a Jewish-style illustration for a local problem. Historic Wesley takes it as original order. Handle the text; do not baptize either contempt or erasure.",
+      "reformedNotes": "Calvin assigns two reasons for the order, and this is the first: God enacted it at the beginning. Even had mankind stood in original uprightness, “the true order of nature, which proceeded from the command of God, bears that women shall be subject.” He reads Genesis 2 as God adding an aid, not creating two equal chiefs of the assembly.\n\nReformed reading therefore treats the argument as creational, not merely cultural. That is precisely why later intramural debates about transcultural versus local application run hot: if Paul grounds the charge in creation, it travels; if he only illustrates a local disturbance, it may not. Calvin takes the former. The pastoral brake remains Christ’s own honor of women and the one ransom of verses 5–6."
+    },
+    {
+      "number": 14,
+      "text": "and Adam was not deceived, but the woman was deceived and became a transgressor.",
+      "arminianNotes": "Paul’s second reason is the fall narrative. Wesley: the serpent deceived Eve; Eve did not deceive Adam but persuaded him (Genesis 3:17). Verse 13, he says, showed why she should not usurp authority; this verse shows why she ought not to teach—“She is more easily deceived, and more easily deceives.” That is historic Wesley; it should not be sanded off, and it should not be turned into a sneer from the pulpit.\n\nArminian pastoral: Adam’s guilt is not denied (he listened and fell). Both man and woman are transgressors who need the one Mediator. Some later readers in both families debate whether Paul is describing a creational/fall pattern or a local pattern of deception in Ephesus. Historic Wesley takes the Genesis story as the ground. Teach it as holy warning, not as ammunition.",
+      "reformedNotes": "Calvin will not say Adam was untouched by deceit; the source of the transgression proceeded from Eve, and the sentence of Genesis 3:16 is in view. Subjection, he argues, was already fitting by creation and became a harder yoke after sin. He also refuses the theory that Adam fell only to please his wife with no error of his own: God reproached Adam as one who credited the lie.\n\nReformed pastoral: the verse explains an order; it does not license contempt. Men who use “deceived” to mock sisters have already left Calvin’s aim and Paul’s gospel. The same chapter that recites Eve’s deception has just named a ransom for all kinds of people and a Mediator for humankind. Order in the assembly sits under that mercy."
+    },
+    {
+      "number": 15,
+      "text": "Yet she will be saved through childbearing—if they continue in faith and love and holiness, with self-control.",
+      "arminianNotes": "“Yet” is consolation after a hard word. Wesley: “she” is women in general, involved with Eve in the sentence of Genesis 3:16. They shall be “carried safe through the pain and danger which that sentence entails,” and “finally saved, if they continue in loving faith and holy wisdom.” Childbearing is not a rival savior to Christ; the “if they continue” is a real condition of persevering faith, love, holiness, and self-control.\n\nClassical Arminians hear grace that can be received and must be continued in. Women are not a lost sex after Eve. Salvation remains through the one Mediator (vv. 5–6); the path of ordinary faithfulness—including, for many, the costly calling of childbearing and nurture—is where that salvation is lived. Childless women are not thereby unsaved; the point is continuing in the faith, not a fertility test.",
+      "reformedNotes": "Calvin hears the Spirit refuse to leave women in despair after naming the fall. They “continue to enjoy the hope of salvation, though they suffer a temporal punishment.” He will not let Papists torture the verse into righteousness of works: Paul “does not argue here about the cause of salvation”; the words show “in what way God conducts us to salvation, to which he has appointed us through his grace.” Childbearing includes the manifold distresses of bearing and rearing; God values obedience in one’s calling.\n\nReformed reading: the “if they continue” describes the way the appointed arrive—faith, love, holiness, self-control—not a meritorious bargain. Perseverance is God’s conducting, not a woman’s self-rescue. The verse honors ordinary female faithfulness without making the womb a second cross. Christ remains the ransom; childbearing is a calling under grace, not a competing gospel.",
+      "keyContrast": "Both refuse to make childbearing a second mediator and both take “if they continue” as serious. Arminians typically hear a real condition of persevering faith, love, and holiness; Reformed readers typically hear the appointed way God conducts to a salvation already of grace, with continuing as the path of those He saves—not the meritorious cause of it."
+    }
+  ]
+}

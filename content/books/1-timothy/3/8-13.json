@@ -1,0 +1,69 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 3,
+  "verseStart": 8,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "1 Timothy 3:8–13",
+  "context": "Deacons likewise must be dignified, truthful in speech, free of wine and dishonest gain, holding the mystery of the faith with a clear conscience. They are tested first, then they serve. Their wives (or the women) must be dignified and faithful; deacons too are one-woman men who manage households well. Those who serve well gain a good standing and great confidence in the faith that is in Christ Jesus.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on deacons, a tested faith, and confidence in Christ Jesus—so each camp speaks in its own voice beside 1 Timothy 3:8–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Likewise the deacons must be grave, not double-tongued, not given to much wine, not greedy of filthy lucre. Holding the mystery of the faith in a pure conscience. And let these also first be proved. They that have used the office of a deacon well, purchase to themselves a good degree, and great boldness in the faith.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 3:8–13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Deacons must be grave, not double-tongued, not given to much wine, not greedy of filthy lucre. They must hold the mystery of the faith in a pure conscience. Let them be proved first. Those who have served well obtain for themselves a good standing and much confidence in the faith which is in Christ Jesus.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 3:8–13)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 8,
+      "text": "Deacons likewise must be dignified, not double-tongued, not addicted to much wine, not greedy for dishonest gain.",
+      "arminianNotes": "Likewise ties deacons to the same moral air as overseers, scaled to their serving work. Double-tongued and greedy for dishonest gain are especially lethal where tables and money are involved.\n\nArminian pastoral: dignity is not stiffness; it is a life that can be trusted with the church’s practical mercy. Grace that saves still insists a servant’s mouth and purse match the gospel.",
+      "reformedNotes": "Likewise: the deacon is not a lower-character track. Wine and dishonest gain are named because the office touches both cup and coin.\n\nReformed order: God cares how serving is staffed. The church’s mercy-work is still holy work, fenced by the same Lord."
+    },
+    {
+      "number": 9,
+      "text": "They must hold the mystery of the faith with a clear conscience.",
+      "arminianNotes": "The mystery of the faith is not a riddle for elites but the gospel once hidden, now held. Clear conscience means the hold is not theatrical.\n\nArminian unity here: both camps confess the faith as gift to be held, not invented. A deacon can handle plates and still must handle the mystery without a dirty conscience.",
+      "reformedNotes": "Hold the mystery with a clear conscience: doctrine and inward honesty yoked.\n\nReformed weight: serving tables never excused thin faith. The mystery is Christ’s, held in a conscience the gospel has cleaned."
+    },
+    {
+      "number": 10,
+      "text": "And let them also be tested first; then let them serve as deacons if they prove themselves blameless.",
+      "arminianNotes": "Tested first, then serve. Blameless here is the proved life, not sinless perfection.\n\nArminian process: time and the congregation’s eyes are means of grace for the church. Desire is not yet installation; proving is love for the flock.",
+      "reformedNotes": "Proved first: the church is not to rush a title onto an untested man.\n\nReformed patience: God is not in a hurry to staff. Blameless as proved is how the household of God is protected."
+    },
+    {
+      "number": 11,
+      "text": "Their wives likewise must be dignified, not slanderers, but sober-minded, faithful in all things.",
+      "arminianNotes": "Wives likewise—or, as many have noted, women likewise, possibly deaconesses or women in the serving work. Either way, dignity, no slander, sober minds, faithfulness in all things. Historic readers have heard both the deacon’s wife and serving women; the text will not bless a slanderous partner in ministry.\n\nArminian caution: do not turn a translation fork into a war. The moral grain is clear: the people closest to this serving office must not be smear-artists. Faithfulness in all things is the same gospel seriousness as vv. 8–10.",
+      "reformedNotes": "Wives likewise / women likewise: Calvin and the Reformed stream have often read wives of deacons, while noting the likewise. Slander is named because the office is public.\n\nReformed household: ministry is never only the man’s résumé. A slanderous tongue next to the deaconate is already a wound in the household of God."
+    },
+    {
+      "number": 12,
+      "text": "Let deacons each be the husband of one wife, managing their children and their own households well.",
+      "arminianNotes": "The one-wife / one-woman clause returns, with household management. What was required of overseers is not skipped for deacons.\n\nArminian consistency: marital faithfulness and a governed house belong to serving as much as to teaching. The noble task of v. 1 has a serving twin with the same domestic test.",
+      "reformedNotes": "Husband of one wife, children and households well managed: the same analog as 3:4–5, applied to deacons.\n\nReformed pattern: God does not run two moral codes, one for pulpit and one for pantry. The household remains the proving ground."
+    },
+    {
+      "number": 13,
+      "text": "For those who serve well as deacons gain a good standing for themselves and also great confidence in the faith that is in Christ Jesus.",
+      "arminianNotes": "Serve well, and two gains: good standing, and great confidence in the faith that is in Christ Jesus. The confidence is located in Christ, not in the title.\n\nArminian encouragement: faithful serving strengthens assurance as a lived fruit. Standing before people and boldness before God grow together when the work is well done in Him.",
+      "reformedNotes": "Good standing and much confidence in the faith in Christ Jesus: Calvin heard both a reputable degree among the people and boldness of faith.\n\nReformed comfort: the faith remains in Christ Jesus. Serving well does not replace union with Him; it walks in it with a firmer step."
+    }
+  ]
+}

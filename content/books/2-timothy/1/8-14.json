@@ -1,0 +1,77 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 1,
+  "verseStart": 8,
+  "verseEnd": 14,
+  "translation": "ESV",
+  "title": "2 Timothy 1:8–14",
+  "context": "Paul charges Timothy not to be ashamed of the Lord’s testimony or of the apostle in chains, but to share gospel-suffering by God’s power. That power belongs to the God who saved and called them by his own purpose and grace, given in Christ Jesus before the ages began and now manifested in the Savior who abolished death; Paul is not ashamed, and Timothy must follow the pattern of sound words and guard the good deposit by the Spirit.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on saving purpose and grace given in Christ before the ages, a deposit guarded until that day, and the pattern of sound words—so each camp speaks in its own voice beside 2 Timothy 1:8–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Who hath saved us—By faith. The love of the Father, the grace of our Saviour, and the whole economy of salvation, are here admirably described. Having called us with an holy calling—Which is all from God, and claims us all for God. According to his own purpose and grace—That is, his own gracious purpose. Which was given us—Fixed for our advantage, before the world began. That which I have committed to him—My soul. Until that day—Of his final appearing. The pattern of sound words—The model of pure, wholesome doctrine. The good thing—This wholesome doctrine.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 1:8–14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Who hath saved us, not according to our works, but according to his purpose and grace. We had not works by which we could anticipate God; but the whole depends on his gracious purpose and election. This giving of grace is nothing else than predestination, by which we were adopted to be the sons of God. If God chose us before the creation of the world, he could not have regard to works, of which we had none. I know whom I have believed: our salvation is in the hand of God, in the same manner as there are in the hand of a depository those things which we deliver to him to keep. Keep the excellent thing committed to thee—By the Holy Spirit.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 1:8–14)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 8,
+      "text": "Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God,",
+      "arminianNotes": "Therefore—because God gave power, love, and self-control—do not be ashamed of the testimony about our Lord, nor of Paul His prisoner. Share in suffering for the gospel by the power of God.\n\nArminian charge: the power is given to be used in costly witness. Shame is a live temptation; grace that can be resisted must be drawn on so Timothy actually stands with the gospel and the chained apostle.",
+      "reformedNotes": "The “therefore” leans on the Spirit of power already given. The God who endues with power is the same God by whose power Timothy is to suffer.\n\nReformed comfort: suffering for the gospel is not self-wrought heroism. God supplies the power that keeps a minister unashamed of Christ and of Christ’s imprisoned servant."
+    },
+    {
+      "number": 9,
+      "text": "who saved us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began,",
+      "arminianNotes": "He saved us and called us to a holy calling, not because of works but because of His own purpose and grace, given in Christ Jesus before the ages began. Wesley: saved us—by faith; purpose and grace means His own gracious purpose, fixed for our advantage before the world began. The whole economy of salvation is here: the Father’s love, the Savior’s grace.\n\nArminian soteriology: the plan is all from God and claims us all for God. Grace given in Christ before the ages is the Father’s gracious plan of salvation in the Son—not a bare decree that bypasses faith. Works did not earn it; faith receives what was prepared in Christ. Holy calling is a real claim on the called, not a reward for prior merit.",
+      "reformedNotes": "Saved and called, not according to works, but according to His purpose and grace. Calvin: we had not works by which we could anticipate God; the whole depends on His gracious purpose and election. This giving of grace is nothing else than predestination, by which we were adopted as sons.\n\nReformed soteriology: if God chose us before the creation of the world, He could not have regard to works, of which we had none. Purpose and grace given before the ages is unconditional election in Christ—not a plan merely waiting on foreseen faith. Calling is holy because the God who elects also makes a people holy.",
+      "keyContrast": "The live fork is how “purpose and grace, which he gave us in Christ Jesus before the ages began” is heard. Arminian readers, with Wesley, take “saved us—by faith” and purpose as the Father’s gracious plan of salvation in the Son, fixed for our advantage before the world began and received by faith, not earned by works. Reformed readers, with Calvin, take the giving of grace as predestination itself: unconditional election before works, the whole depending on God’s gracious purpose, not on anything He foresaw in us."
+    },
+    {
+      "number": 10,
+      "text": "and which now has been manifested through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel,",
+      "arminianNotes": "What was given before the ages is now manifested in the appearing of our Savior. He abolished death and brought life and immortality to light through the gospel.\n\nArminian hope: the gospel is the public shining of a grace prepared in Christ. Life and immortality are sincerely held out where that gospel is preached; the appearing is good news to be believed, not a private notice for a closed list.",
+      "reformedNotes": "The eternal purpose is not a hidden curiosity; it is manifested in Christ’s appearing. Death is abolished; life and immortality come to light through the gospel.\n\nReformed accent: what God purposed before the ages He has now enacted in the Savior. The gospel does not create the purpose; it unveils the Christ in whom electing grace was already given."
+    },
+    {
+      "number": 11,
+      "text": "for which I was appointed a preacher and apostle and teacher,",
+      "arminianNotes": "Paul was appointed preacher, apostle, and teacher of this gospel. The office is gift; the message is the manifested grace of vv. 9–10.\n\nArminian pastoral note: appointment does not cancel labor. He is set to announce a gospel hearers must still believe.",
+      "reformedNotes": "Appointment is Christ’s; Paul did not take the pulpit to himself. Preacher, apostle, and teacher name the one gospel in three tasks.\n\nReformed comfort: the God who purposed grace before the ages also appointed the mouth that tells it. The office stands on God’s will, as the opening of the letter already said."
+    },
+    {
+      "number": 12,
+      "text": "which is why I suffer as I do. But I am not ashamed, for I know whom I have believed, and I am convinced that he is able to guard until that day what has been entrusted to me.",
+      "arminianNotes": "Suffering follows appointment; shame does not. Paul knows whom he has believed. Wesley: that which I have committed to him—my soul—until that day of His final appearing.\n\nArminian confidence: the person of Christ is the object of faith. Timothy’s teacher has placed his soul in the Savior’s keeping; the same Christ is able, and the believer’s act of committing is real trust, not a work that saves.",
+      "reformedNotes": "I know whom I have believed. Calvin: our salvation is in the hand of God, as things delivered to a depository to keep. He is able to guard until that day what has been entrusted.\n\nReformed confidence: the accent falls on the Keeper. What is entrusted is safe because God is able, not because Paul’s grip is strong. Unashamed suffering rests on God’s fidelity to His own deposit.",
+      "keyContrast": "Both refuse shame and rest on Christ until that day. Wesley reads “what has been entrusted” as Paul’s soul committed to Christ; Calvin reads it as salvation deposited with God, who keeps it as a faithful depository. Arminian trust stresses the believer’s committing of the self to a Savior able to keep; Reformed trust stresses God’s ability to guard the salvation He holds."
+    },
+    {
+      "number": 13,
+      "text": "Follow the pattern of the sound words that you have heard from me, in the faith and love that are in Christ Jesus.",
+      "arminianNotes": "Follow the pattern of sound words heard from Paul, in the faith and love that are in Christ Jesus. Wesley: the model of pure, wholesome doctrine.\n\nArminian charge: wholesome doctrine is to be held in living faith and love, not as a cold form. The pattern can be left; Timothy must follow it in the faith and love Christ gives and the believer exercises.",
+      "reformedNotes": "Sound words have a pattern. Timothy is not free to recast the gospel. Faith and love in Christ Jesus are the atmosphere of the holding, not a license to revise.\n\nReformed pastoral note: God keeps the church by a model already given. The Spirit who dwells (v. 14) does not whisper a different deposit."
+    },
+    {
+      "number": 14,
+      "text": "By the Holy Spirit who dwells within us, guard the good deposit entrusted to you.",
+      "arminianNotes": "Guard the good deposit by the Holy Spirit who dwells within us. Wesley: the good thing—this wholesome doctrine.\n\nArminian stewardship: the Spirit dwells, and Timothy must still guard. Indwelling is not a substitute for watchfulness. The deposit can be neglected; cooperating with the Spirit is how it is kept.",
+      "reformedNotes": "Keep the excellent thing committed to thee—by the Holy Spirit. Calvin locates the keeping in the Spirit’s power, not in native competence.\n\nReformed accent: the same God who is able to guard Paul’s deposit (v. 12) now commands Timothy to guard by the Spirit who dwells in us. Duty and divine keeping are not rivals."
+    }
+  ]
+}

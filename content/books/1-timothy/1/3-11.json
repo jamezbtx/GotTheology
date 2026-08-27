@@ -1,0 +1,88 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 1,
+  "verseStart": 3,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "1 Timothy 1:3–11",
+  "context": "Paul reminds Timothy why he remained at Ephesus: to charge certain persons not to teach a different doctrine or lose themselves in myths and endless genealogies. The aim of the charge is love from a pure heart, a good conscience, and a sincere faith; the law is good when used lawfully, and sound doctrine accords with the gospel of the blessed God’s glory.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the charge at Ephesus, love from a pure heart, and the lawful use of the law—so each camp speaks in its own voice beside 1 Timothy 1:3–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Charge some to teach no other doctrine—Than I have taught. Let them put nothing in the place of it, add nothing to it. The end of the commandment—of the whole Christian institution—is love. The foundation is faith; the end, love. But this can only subsist in an heart purified by faith, and is always attended with a good conscience. We grant the whole Mosaic law is good, answers excellent purposes, if a man use it in a proper manner.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 1:3–11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The sum of the law is this, that we may worship God with true faith and a pure conscience, and that we may love one another. Thus we must begin with faith, and not with love. Paul acknowledges that the law is good, but contends that we are required to make a lawful use of it. He maintains that the law of God was given in order to restrain the licentiousness of wicked men; because they who are good of their own accord do not need the authoritative injunction of the law.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 1:3–11)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 3,
+      "text": "As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not to teach any different doctrine,",
+      "arminianNotes": "Timothy is to remain and charge certain persons not to teach a different doctrine. The deposit is the apostolic gospel, not a private hobby of the teacher.\n\nClassical Arminians hear both authority and responsibility: the church must refuse additions and replacements, and teachers can actually swerve. Grace enables Timothy to stay at his post; it does not make the charge optional.",
+      "reformedNotes": "Paul arms Timothy with a charge, not a suggestion. Remaining at Ephesus is apostolic strategy for a church in danger of novelty.\n\nReformed reading: God guards the gospel through appointed means—a clear command, a faithful deputy, and the refusal of rival teaching. The church is not a marketplace of doctrines; it lives by the one gospel entrusted to the apostle."
+    },
+    {
+      "number": 4,
+      "text": "nor to devote themselves to myths and endless genealogies, which promote speculations rather than the stewardship from God that is by faith.",
+      "arminianNotes": "Myths and endless genealogies feed speculation rather than the stewardship from God that is by faith. Curiosity can crowd out trusting Christ.\n\nArminian emphasis: God’s household is ordered through faith—a living, sincere trust, not pedigree puzzles. Teachers and hearers must not devote themselves to what displaces the gospel they are called to believe.",
+      "reformedNotes": "Paul tests teaching by its fruit: speculations versus God’s stewardship, which is by faith. Useless questions do not edify, however ancient they sound.\n\nReformed accent: the economy of God is received by faith, and faith itself belongs to the gospel God gives. Rival curricula are not harmless extras; they unseat the stewardship God has appointed."
+    },
+    {
+      "number": 5,
+      "text": "The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith.",
+      "arminianNotes": "The aim is love from a pure heart, a good conscience, and a sincere faith. Wesley: the foundation is faith; the end is love—and love only lives in a heart purified by faith.\n\nClassical Arminians insist that sincere faith is the living condition of this love. The charge is not for controversy but for a purified people who actually love God and neighbor.",
+      "reformedNotes": "Love is named first, yet it springs from faith. Calvin: we must begin with faith, not with love; God purifies the heart by faith, and a good conscience rests on Christ.\n\nReformed pastoral note: unfeigned faith, clean conscience, and love are the law’s true sum—and they are the fruit of the gospel, not a ladder of self-made virtue.",
+      "keyContrast": "Both name love from a pure heart, good conscience, and sincere faith as the charge’s aim. Arminians typically treat sincere faith as the grace-enabled condition from which love issues and must be kept; Reformed readers typically treat faith, conscience, and love as gifts the gospel produces, beginning with faith God works."
+    },
+    {
+      "number": 6,
+      "text": "Certain persons, by swerving from these, have wandered away into vain discussion,",
+      "arminianNotes": "Certain persons swerved from love, conscience, and sincere faith into vain discussion. The path can be left.\n\nArminian warning: an itch for impressive knowledge distances a person from faith and the sense of divine things. Empty disputes are not a side hobby; they are what remains when the heart leaves the aim of the charge.",
+      "reformedNotes": "They missed the mark and turned to idle talk. Paul judges doctrine by edification: what does not build up in faith is vanity, however admired.\n\nReformed instinct: when the fear of God cools, the tongue still works—only now it multiplies questions that cannot save. Vain discussion is a symptom of having left the gospel’s end."
+    },
+    {
+      "number": 7,
+      "text": "desiring to be teachers of the law, without understanding either what they are saying or the things about which they make confident assertions.",
+      "arminianNotes": "They want the status of law-teachers without understanding their words or subject. Confidence is not competence.\n\nPastoral Arminian note: the law is holy, but mishandled law becomes a platform for pride. Teachers remain accountable for what they assert; grace does not baptize ignorance that harms the flock.",
+      "reformedNotes": "Paul rebukes not open enemies of the law but those who claim its chair. Rashness loves to pronounce on what it does not know.\n\nReformed pastoral caution: ambition plus the law’s vocabulary is an old snare. Sound teaching requires both true matter and a humble form—not confident assertions about shadows."
+    },
+    {
+      "number": 8,
+      "text": "Now we know that the law is good, if one uses it lawfully,",
+      "arminianNotes": "The law is good if used lawfully. Wesley grants the Mosaic law excellent purposes when properly used: the ceremonial points to Christ; the moral convicts unbelievers and guides believers in holiness.\n\nClassical Arminians refuse both antinomianism and law as a ladder of merit. Used well, the law serves the gospel that establishes it rather than competing with it.",
+      "reformedNotes": "Paul will not let opponents paint him as burying the law. The law is good—and it must be used as law, in agreement with the gospel he preaches.\n\nReformed balance: lawful use means the law does its God-appointed work, not the work of justifying sinners. The gospel of glory does not erase the law; it puts the law in its place."
+    },
+    {
+      "number": 9,
+      "text": "understanding this, that the law is not laid down for the just but for the lawless and disobedient, for the ungodly and sinners, for the unholy and profane, for those who strike their fathers and mothers, for murderers,",
+      "arminianNotes": "The law is not laid down as a weapon against the just—those justified by faith and walking in love—but it does address the lawless and disobedient. It names real rebellion: ungodliness, violence, contempt of parents, murder.\n\nPastoral reading: the law still tells the truth about sin so that sinners might be convicted and driven to the Savior, not so teachers can win arguments.",
+      "reformedNotes": "Paul views the law in reference to people: it restrains the licentious. Those who aim at good from the heart are not the law’s targets in this polemic; the lawless are.\n\nReformed pastoral note: zeal for the law that never strikes at actual wickedness is a hollow shield. God gave the law to name and curb sin, and the gospel agrees with that verdict."
+    },
+    {
+      "number": 10,
+      "text": "the sexually immoral, men who practice homosexuality, enslavers, liars, perjurers, and whatever else is contrary to sound doctrine,",
+      "arminianNotes": "The catalog continues into sexual immorality, same-sex practice, enslaving others, lying, and perjury—plus whatever else contradicts sound doctrine. These are not trophies for a culture war; they are ways of harming neighbor and defiling the conscience.\n\nArminian pastoral word: the gospel calls such sinners, as it called Paul, to repentance and faith. Sound doctrine is healthy teaching that does not relabel these as harmless.",
+      "reformedNotes": "Paul groups sins against body, liberty, and truth, then gathers “whatever else is contrary to sound doctrine.” Healthy teaching and this catalog are not rivals.\n\nReformed pastoral word: the gospel of glory does not make light of what God names as sin. It saves sinners from these things and trains a people to refuse them—without turning the vice list into a substitute gospel."
+    },
+    {
+      "number": 11,
+      "text": "in accordance with the gospel of the glory of the blessed God with which I have been entrusted.",
+      "arminianNotes": "All of this accords with the gospel of the glory of the blessed God, entrusted to Paul. The gospel does not void the law; it establishes the law’s true end in Christ.\n\nArminian emphasis: the entrusted gospel is for proclamation—the glory of God announced so that hearers may believe. Timothy’s charge is to keep that gospel from being swapped for speculation.",
+      "reformedNotes": "Paul calls it the gospel of glory because in it God displays His glory. He says it was entrusted to him so that no rival “gospel” of fables can claim equal standing.\n\nReformed comfort: there is one glorious gospel of the blessed God. The apostle’s trust is a stewardship of that gospel, not a license to invent."
+    }
+  ]
+}

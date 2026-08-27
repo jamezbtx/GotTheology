@@ -1,0 +1,63 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 4,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "ESV",
+  "title": "1 Timothy 4:1–5",
+  "context": "The Spirit expressly says that in later times some will depart from the faith, giving themselves to deceitful spirits and teachings of demons, through insincere liars with seared consciences. They forbid marriage and require abstinence from foods God created to be received with thanksgiving by those who believe and know the truth. Everything created by God is good, and nothing is to be rejected if received with thanksgiving, for it is made holy by the word of God and prayer.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on later times, forbidden marriage, and foods received with thanksgiving—so each camp speaks in its own voice beside 1 Timothy 4:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "In the latter times—In the times of the gospel dispensation. Some will depart from the faith—The true Christian faith. Giving heed to seducing spirits—Who inspire them. And doctrines of devils—Which they teach. Forbidding to marry—As if marriage were a thing unclean. And commanding to abstain from meats—Which God hath created to be received with thanksgiving by them that believe.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 4:1–3)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Spirit expressly says that in the latter times some shall depart from the faith. This is not a vague suspicion but a clear prophecy. They will forbid marriage and command to abstain from meats which God has created to be received with thanksgiving. Nothing is to be rejected if it is received with thanksgiving, because it is sanctified by the word of God and prayer.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 4:1–5)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons,",
+      "arminianNotes": "The Spirit expressly says: this is not Paul’s hunch. Later times are already inside the gospel age, as Wesley heard. Some will depart from the faith—a real leaving, not a label for every disagreement.\n\nArminian seriousness: departure is possible because faith is a living hold that can be abandoned. Deceitful spirits and demonic teachings explain how: the church is not only arguing with bad ideas, but resisting a lying spiritual campaign. Grace that can be received can also be refused; this verse is one of the pastoral alarms.",
+      "reformedNotes": "The Spirit speaks expressly: Calvin treated this as clear prophecy, not a rumor. Later times name the last days in which the church already lives.\n\nReformed reading of departure: some fall away as the reprobate make their unbelief public, or as a visible church is winnowed. Deceitful spirits and teachings of demons are real; God is not surprised. The warning still functions as a means: the elect are kept, in part, by taking this alarm to heart."
+    },
+    {
+      "number": 2,
+      "text": "through the insincerity of liars whose consciences are seared,",
+      "arminianNotes": "The path of departure runs through insincere liars. Seared consciences are not merely mistaken; they are cauterized—feeling little when they ought to burn.\n\nArminian pastoral: hypocrisy is a means of ruin for teacher and hearer. A gospel that invites all still names the horror of a conscience burned shut. Pray for a tender conscience; do not envy a seared one.",
+      "reformedNotes": "Liars, insincere, consciences seared: Calvin heard teachers whose inward witness has been branded numb.\n\nReformed gravity: God can judicially give people over to the lie they chose. The seared conscience is both their deed and, in hardened cases, a judgment. The church must not hire such mouths."
+    },
+    {
+      "number": 3,
+      "text": "who forbid marriage and require abstinence from foods that God created to be received with thanksgiving by those who believe and know the truth.",
+      "arminianNotes": "The demonic teaching has a this-world shape: forbid marriage, require abstinence from foods. Wesley named the error as treating marriage unclean and meats forbidden. God created those foods to be received with thanksgiving by believers who know the truth.\n\nArminian emphasis: creation is good gift, not a ladder of extra holiness. Ascetic bans that despise marriage or ordinary meals contradict the God who made both. Thanksgiving is the believer’s liturgy over the table and the wedding.",
+      "reformedNotes": "Forbidding marriage and commanding abstinence from meats: Calvin saw a pretended holiness that insults the Creator.\n\nReformed creation-doctrine: God made marriage and food. Those who believe and know the truth receive both with thanks. Extra fences around the table are not extra grace; they can be another gospel. The Gnostic or later-times ban is unbelief wearing severity."
+    },
+    {
+      "number": 4,
+      "text": "For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving,",
+      "arminianNotes": "Everything created by God is good. The Genesis verdict still stands in Timothy’s church. Nothing is to be rejected if received with thanksgiving—the if matters: the creature is good, the receiving is worship.\n\nBoth camps can preach this without a soteriology fight. Arminian holiness is not a new diet law. Grateful use is sanctified use, not a loophole for greed.",
+      "reformedNotes": "All God’s creatures are good: Calvin refused a dualism that makes matter dirty. Thanksgiving is how the church eats as church.\n\nReformed gratitude: rejection of lawful food is not piety. The creature remains the Creator’s. Thanksgiving keeps the gift from becoming an idol and keeps the ban from becoming a second law."
+    },
+    {
+      "number": 5,
+      "text": "for it is made holy by the word of God and prayer.",
+      "arminianNotes": "Made holy—set apart for holy use—by the word of God and prayer. Scripture’s blessing on creation plus the church’s prayer over the meal is how ordinary food is received as holy, not how a magician changes its substance.\n\nArminian table: pray, hear the Word that calls creation good, then eat. Holiness here is consecration of use, not a climb out of the body.",
+      "reformedNotes": "Sanctified by the word of God and prayer: Calvin located the hallowing in God’s own speech and in prayer that answers it.\n\nReformed table: the Word already declared creation good; prayer receives that Word. Holiness is God’s claim on the meal, not the eater’s achievement."
+    }
+  ]
+}

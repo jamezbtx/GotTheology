@@ -1,0 +1,70 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 2,
+  "verseStart": 14,
+  "verseEnd": 19,
+  "translation": "ESV",
+  "title": "2 Timothy 2:14–19",
+  "context": "Timothy must remind the church not to quarrel about words, but to present himself to God as an approved worker, rightly handling the word of truth. Irreverent babble spreads like gangrene—Hymenaeus and Philetus have already upset some—yet God’s firm foundation stands with its double seal.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on rightly handling the word of truth, gangrene-like error, and the sealed foundation of God—so each camp speaks in its own voice beside 2 Timothy 2:14–19.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth—Duly explaining and applying the whole scripture, so as to give each hearer his due portion. The foundation of God—His truth and faithfulness. Standeth fast—Can never be overthrown; being as it were sealed with a seal, which has an inscription on each side: on the one, The Lord knoweth those that are his; on the other, Let every one who nameth the name of the Lord depart from iniquity. Indeed, they only are his who depart from iniquity.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 2:15–19)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The foundation of God standeth sure, having this seal, The Lord knoweth them that are his. The levity or treachery of men cannot hinder God from preserving his Church to the last. He reminds us of the election of God, which he metaphorically calls a foundation. The elect do not depend on changing events, but rest on a solid and immovable foundation, because their salvation is in the hand of God. Amidst so great weakness of our flesh, the elect are nevertheless beyond the reach of danger, because they do not stand by their own strength, but are founded on God. Let every one that calleth on the name of Christ depart from iniquity.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 2:19)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 14,
+      "text": "Remind them of these things, and charge them before God not to quarrel about words, which does no good, but only ruins the hearers.",
+      "arminianNotes": "Remind them of these things—the gospel just recited—and charge them before God not to quarrel about words. Word-fights do no good; they ruin hearers. The trustworthy saying is to be pressed, not replaced by clever disputes.\n\nArminian pastoral: a ruined hearer is a real spiritual casualty, not a stage effect. Charge before God because people can still be overturned. Ministry that loves ingenuity more than edification harms those who might yet believe.",
+      "reformedNotes": "Calvin: these things are of such importance that a good minister ought never to be weary of exhibiting them. Solemn charging before the Lord is meant to strike terror. Disputing about words is condemned as useless and as subverting the hearers; Satan uses quarrels to disturb the weak and overthrow their faith.\n\nReformed pastoral: edification is the only aim. Speculative theology that tends to ostentation is a danger to the church. God preserves his people, and he uses this severe charge as a means to fence them from ruinous talk."
+    },
+    {
+      "number": 15,
+      "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+      "arminianNotes": "Wesley: Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth—duly explaining and applying the whole scripture, so as to give each hearer his due portion.\n\nArminian handling: approval is before God, not a crowd. Rightly handling is giving each hearer what the whole Scripture assigns—warning, promise, command. A worker can be ashamed if he twists the word; the charge assumes a real stewardship of truth.",
+      "reformedNotes": "Calvin: study to shew thyself approved by God, not by a crowded assembly. Be workmen in building the Church, not lazy disputants. Dividing aright is a judicious allotment of the word suited to the profit of the hearers; that is the rule by which all interpretation is tried.\n\nReformed handling: eyes fixed on God check foolish eagerness for display. The pastor cuts the bread for the family, not mutilating or staying on the surface. God approves the worker; the worker still labors not to blush before him."
+    },
+    {
+      "number": 16,
+      "text": "But avoid irreverent babble, for it will lead people into more and more ungodliness,",
+      "arminianNotes": "Avoid irreverent babble: it does not stay verbal. It will lead people into more and more ungodliness. Empty talk is a path, not a pastime.\n\nArminian seriousness: people can be led—hearers really move toward ungodliness by what they drink in. The minister’s avoidance is love for souls who might still turn, not mere taste.",
+      "reformedNotes": "Calvin: shun profane and unmeaning noises; they are a labyrinth or whirlpool into which men plunge themselves more and more, growing to greater ungodliness.\n\nReformed seriousness: babble is a contagion God tells his servant to refuse. The slide into ungodliness is real in the visible church. Avoidance is obedience, a means of guarding the flock."
+    },
+    {
+      "number": 17,
+      "text": "and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,",
+      "arminianNotes": "Their talk spreads like gangrene: named men, Hymenaeus and Philetus, are not abstractions. Public error needs public marking when the infection is spreading.\n\nArminian naming: to spare one teacher at the cost of many hearers is false kindness. Gangrene language treats false doctrine as a disease that can still be cut back if met early.",
+      "reformedNotes": "Calvin: gangrene, if not speedily met, spreads to adjoining parts and consumes until it kills. False doctrines, once given entrance, spread till they have completed the destruction of the Church. Paul points out the plagues so all may be on guard; where many are in danger, dissimulation is cruel.\n\nReformed naming: God preserves a remnant, and he uses timely exposure. Hymenaeus and Philetus are written down for every age. Early resistance is pastoral mercy, not a lack of patience."
+    },
+    {
+      "number": 18,
+      "text": "who have swerved from the truth, saying that the resurrection has already happened. They are upsetting the faith of some.",
+      "arminianNotes": "They have swerved from the truth: the resurrection, they say, has already happened—an allegorical dodge that empties hope. They are upsetting the faith of some. Some means people whose confidence in the gospel can actually be overturned.\n\nArminian alarm: swerving is a departure from truth once held. Upsetting the faith of some is why v. 14 forbade word-fights and why the resurrection of v. 8 must be remembered as future bodily hope, not a spiritualized past.",
+      "reformedNotes": "Calvin: they departed from the truth by giving out that the resurrection was already past, an allegorical trick Satan uses to overthrow the article of the resurrection of the flesh. From the beginning the faith of some was subverted; such an example should excite diligence.\n\nReformed alarm: some in the visible church are overturned; that scandal is met in v. 19 by God’s foundation. The error is not a small timing dispute; it guts the gospel Paul just recited. God keeps his elect, and he keeps them by this warning against a plague that already takes some."
+    },
+    {
+      "number": 19,
+      "text": "But God’s firm foundation stands, bearing this seal: “The Lord knows those who are his,” and, “Let everyone who names the name of the Lord depart from iniquity.”",
+      "arminianNotes": "God’s firm foundation stands, sealed on both sides. Wesley: the foundation of God—his truth and faithfulness—standeth fast, never overthrown; on the one side, The Lord knoweth those that are his; on the other, Let every one who nameth the name of the Lord depart from iniquity. Indeed, they only are his who depart from iniquity.\n\nArminian seal: Wesley stresses the second inscription as evidence they are his. Naming the Lord without departing from iniquity is empty glory. The Lord knows his own, and his own are known in the departing. Hymenaeus does not overthrow God’s faithfulness; he shows that a name without holiness is not the same as being his.",
+      "reformedNotes": "Calvin: the foundation of God standeth sure. The levity of men cannot hinder God from preserving his Church. He reminds us of election, called a foundation: the elect rest on an immovable foundation because their salvation is in God’s hand; they do not stand by their own strength. The Lord knoweth who are his; they who went out from us were not of us. Let every one that calleth on Christ depart from iniquity.\n\nReformed seal: Calvin stresses the first inscription as election’s comfort—God’s secret knowledge of his own—then the call to holiness on the same seal. Apostasy of the prominent does not unseal the elect. The second sentence still binds: profession without departing from iniquity is not to be sported with.",
+      "keyContrast": "Both read a double seal that cannot be torn apart. Wesley stresses the second—“depart from iniquity”—as the evidence they are his: indeed, they only are his who depart. Calvin typically stresses the first—“the Lord knows those who are his”—as the comfort of election, then the matching call to holiness when hypocrites are exposed."
+    }
+  ]
+}

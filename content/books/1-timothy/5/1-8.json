@@ -1,0 +1,83 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 5,
+  "translation": "ESV",
+  "showVoices": true,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "title": "1 Timothy 5:1–8",
+  "context": "Paul trains Timothy to treat the congregation as a household: older men as fathers, younger as brothers, women as mothers and sisters in all purity. He then honors true widows, insists that families provide first, and warns that neglect of one's own house is a denial of the faith.",
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on honoring true widows and the household's first duty—so each camp speaks in its own voice beside 1 Timothy 5:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Rebuke not—considering your own youth, with such a severity as would otherwise be proper. Honour—that is, maintain out of the public stock. Widows indeed—who have no near relations to provide for them, and who are wholly devoted to God. Desolate—having neither children nor grandchildren to relieve her. If any provide not food and raiment for his own, he hath virtually denied the faith, which does not destroy, but perfect, natural duties.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 5:1–8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He now recommends to Timothy gentleness and moderation in correcting faults. Correction is a medicine, which has always some bitterness. Honor widows that are really widows: by the word honor he does not mean any expression of respect, but that special care of them which bishops took in the ancient Church. They who do not care about any of their relatives, and especially about their own house, have denied the faith. And justly; for there is no piety towards God when a person can thus lay aside the feelings of humanity.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 5:1–8)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Do not rebuke an older man but encourage him as you would a father, younger men as brothers,",
+      "arminianNotes": "Correction in God's household is real, but the tone is filial. Timothy's youth is no license to scold an older man as if office erased reverence. Encourage him as a father: truth without contempt.\n\nArminian pastoral: grace that saves also trains the manner of ministry. A young pastor can neglect that grace and become harsh; the same grace, used, produces courage wrapped in honor. The church is not first a courtroom; it is a family under Christ.",
+      "reformedNotes": "Calvin: correction is a medicine with bitterness; Timothy's youth made untempered severity harder to bear. The milder word is exhort. Age is due some reverence, yet old men are not to sin with impunity.\n\nReformed order: God shepherds His house through means. Gentleness is not indifference. The Spirit-wrought pastor honors fathers in the faith while still applying the medicine the Great Physician prescribed."
+    },
+    {
+      "number": 2,
+      "text": "older women as mothers, younger women as sisters, in all purity.",
+      "arminianNotes": "Older women as mothers, younger as sisters, in all purity. The household metaphor continues: real affection without a familiarity that stains. Purity here protects the flock and the watching world.\n\nArminian emphasis: holiness in mixed company is a grace that must be practiced, not presumed. Timothy can keep himself pure, and he can also fail; the charge treats purity as living obedience, not a finished badge.",
+      "reformedNotes": "Calvin hears \"with all chastity\" as a fence against suspicion, not a hint that Timothy was immoral. A chaste gravity through all conversation lets a young minister speak freely without giving the wicked a handle for laughter.\n\nReformed accent: God orders the church's speech and nearness. Purity is fruit of a heart the Spirit keeps. The pastor's life is public; the Lord uses visible chastity to guard both the man and the flock's good name."
+    },
+    {
+      "number": 3,
+      "text": "Honor widows who are truly widows.",
+      "arminianNotes": "Honor widows who are truly widows. Honor is not a nod of pity; Wesley: maintain them from the public stock. The church's purse is a means of grace toward those who have no family left to lean on.\n\nArminian pastoral: this is neither harsh screening nor sentimental charity. True widowhood is a real need God sees. Congregations can neglect this honor; enabling grace calls them to open the hand and not grow cold.",
+      "reformedNotes": "Calvin: honor here is the ancient church's special care, support from common funds. \"Really widows\" alludes to the Greek for the deprived. The church is to distinguish those who are truly destitute.\n\nReformed charity is Spirit-wrought and ordered. God loves the widow; He also loves a church that does not scatter the treasury without discernment. Provision is covenant kindness, not a vague mood of pity."
+    },
+    {
+      "number": 4,
+      "text": "But if a widow has children or grandchildren, let them first learn to show godliness to their own household and to make some return to their parents, for this is pleasing in the sight of God.",
+      "arminianNotes": "If a widow has children or grandchildren, they first learn godliness at home by making some return to their parents. Family duty is not a lesser piety; it is pleasing in God's sight.\n\nClassical Arminians hear this as grace perfecting natural duty, not canceling it. Children can refuse this call. The gospel trains them to repay care; neglected grace leaves parents hungry while the church is asked to carry what the household should have borne.",
+      "reformedNotes": "Calvin: before the church is burdened, let children and grandchildren do their duty. Nature itself teaches a return of filial love; Paul adds that God has sanctioned it. Piety toward parents is the second degree of piety, leading toward the worship of God.\n\nReformed reading: the Spirit does not erase the household; He writes God's law on the heart so that provision becomes worship. Church order protects true widows by first requiring families to act."
+    },
+    {
+      "number": 5,
+      "text": "She who is truly a widow, left all alone, has set her hope on God and continues in supplications and prayers night and day,",
+      "arminianNotes": "The true widow, left all alone, has set her hope on God and continues in prayers night and day. Hope is personal and practiced: she actually looks to God because human props are gone.\n\nArminian pastoral: this is honor, not a test designed to shame. Continual prayer is a grace that can be cherished or neglected. The church comes alongside those whose hope is in God, while still calling every widow to that living trust rather than to idleness.",
+      "reformedNotes": "Calvin: really widows are solitary and have no children. He does not mean every childless woman hopes in God, but that such widows, finding no worldly refuge, are free to look to God alone and to continue in prayer. The church then stretches out her hand.\n\nReformed comfort: hope in God is the Spirit's work in the desolate. Night-and-day prayer is not a technique to earn enrollment; it marks those the Lord has taught to rest on Him when every other stay is gone."
+    },
+    {
+      "number": 6,
+      "text": "but she who is self-indulgent is dead even while she lives.",
+      "arminianNotes": "She who is self-indulgent is dead even while she lives. Wesley: living in pleasure—delicately, even in elegant regular sensuality, not only in open vice. A body can move while the soul is asleep toward God.\n\nArminian warning: grace received can be neglected until a professing widow is spiritually dead in the midst of her days. This is pastoral, not scornful: luxury can choke the life God gave. The call is to wake, repent, and use the grace still offered.",
+      "reformedNotes": "Calvin: the luxurious woman who uses widowhood for idle ease is dead while she lives—useless, yielding no good. He refuses to reduce the phrase to a mere label of unbelief, yet he will not call indolent ease \"life.\"\n\nReformed accent: true spiritual life is Spirit-wrought fruit. Where self-indulgence reigns, we do not treat it as a living faith on pause. God makes alive; a church ordered by the Word will not baptize a living death as if it were piety.",
+      "keyContrast": "Both refuse to sentimentalize a self-indulgent widow. Arminians typically hear a real spiritual death that can overtake a professing believer who neglects grace. Reformed readers typically hear that Spirit-given life produces useful charity; persistent luxury is not living faith waiting on willpower, but evidence that true life is missing or that God must yet make her alive."
+    },
+    {
+      "number": 7,
+      "text": "Command these things as well, so that they may be without reproach.",
+      "arminianNotes": "Command these things so that they may be without reproach. Timothy must teach widows and households, not merely administer a list. Reproach is a real danger to the gospel's name.\n\nArminian pastoral: command is a means of grace. People can hear and still refuse; the pastor still speaks so that those who yield may live blamelessly. Instruction aims at a holy life, not at clever speculation.",
+      "reformedNotes": "Calvin: Timothy must teach the women carefully, not only block the ambitious. The pastor guards by instruction and warning so that the unworthy are not put forward and the church remains blameless.\n\nReformed church order: the Word creates the blameless community God requires. Command is not scolding for its own sake; it is how the Lord keeps His house from scandal and trains charity that matches the gospel."
+    },
+    {
+      "number": 8,
+      "text": "But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.",
+      "arminianNotes": "Anyone who will not provide for relatives, especially the household, has denied the faith and is worse than an unbeliever. Wesley: he has virtually denied the faith, which does not destroy but perfects natural duties.\n\nArminian seriousness: a baptized person can deny the faith by what he fails to do. This is not a slogan about wealth; it is household piety. Grace neglected here is grace refused; the warning is meant to be believed and obeyed.",
+      "reformedNotes": "Calvin: no piety toward God remains when humanity is laid aside. Faith that makes us sons of God cannot render us worse than beasts. Such a one has denied the faith and is worse than an infidel, because nature itself teaches this duty and gospel light makes the refusal more guilty.\n\nReformed reading: Spirit-wrought faith produces household care. \"Denied the faith\" names open contempt of God, not a small lapse. Those God has truly made His own are not left in such brutality; the verse unmasks a profession that never became love of one's own.",
+      "keyContrast": "Shared: failing to provide for one's household is a denial of Christian faith, worse than ordinary unbelief. Arminians typically treat the warning as a real possibility for a professing believer who neglects grace. Reformed readers typically treat such inhumanity as evidence that living faith is absent, since the Spirit does not leave the regenerate worse than an infidel in this duty."
+    }
+  ]
+}

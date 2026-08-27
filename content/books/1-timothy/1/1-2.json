@@ -1,0 +1,45 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 2,
+  "translation": "ESV",
+  "title": "1 Timothy 1:1–2",
+  "context": "Paul greets Timothy as his true child in the faith, naming himself an apostle by command of God our Savior and of Christ Jesus our hope. The blessing adds mercy to grace and peace—a tender word for a young minister standing in a hard charge.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Paul’s apostleship by command of God our Savior and of Christ Jesus our hope—so each camp speaks in its own voice beside 1 Timothy 1:1–2.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Paul an apostle—Familiarity is to be set aside where the things of God are concerned. According to the commandment of God—The authoritative appointment of God the Father. Our Saviour—so styled as being the grand orderer of the whole scheme of our salvation. And Christ our hope—the author, object, and ground of all our hope. To Timotheus he adds mercy, the most tender grace towards those who stand in need of it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 1:1–2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He confirms his apostleship by the appointment or command of God; for no man can make himself to be an apostle, but he whom God hath appointed is a true apostle. Justly is the glory of our salvation ascribed to the Father. For how comes it that we are saved? It is because the Father loved us in such a manner that he determined to redeem and save us through the Son. He calls Christ our hope; for then do we begin to have good hope, when we look to Christ, since in him alone dwells all that on which our salvation rests.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 1:1–2)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, an apostle of Christ Jesus by command of God our Savior and of Christ Jesus our hope,",
+      "arminianNotes": "Paul writes as an apostle by command—not a self-made office. “God our Savior” names the Father as the one who orders the whole scheme of salvation; “Christ Jesus our hope” names the Son as author, object, and ground of hope.\n\nClassical Arminians gladly confess that God initiates both the apostolic mission and the saving work it announces. That same command sends a sincere gospel: hearers are summoned to take Christ as hope, not to wait and see whether they already sit inside a closed circle.",
+      "reformedNotes": "The letter opens under divine command. Apostleship is God’s appointment; no one makes himself an apostle. Calling God “our Savior” ascribes the glory of salvation to the Father who determined to redeem us through the Son, and calling Christ “our hope” locates everything on which salvation rests in Him.\n\nReformed comfort: the messenger and the message arrive because God willed to speak. The church’s hope is as sure as the Christ God has given."
+    },
+    {
+      "number": 2,
+      "text": "To Timothy, my true child in the faith: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+      "arminianNotes": "Timothy is a “true child in the faith”—begotten through the gospel he received, not a mere assistant. Grace, mercy, and peace come from the Father and from Christ Jesus our Lord; Paul adds mercy, the tender help a minister needs.\n\nArminian pastoral reading: faith names a living relationship that can be nurtured. The greeting is real gift and real calling—Timothy must stand in the faith by which he is a true child.",
+      "reformedNotes": "“True child in the faith” is high praise and public authorization. God alone regenerates; Paul is the minister through whom Timothy was begotten, a subordinate fatherhood that steals nothing from God. Grace, mercy, and peace flow from the Father and the Lord Jesus as covenant kindness.\n\nReformed instinct: Timothy’s standing and supply are from God. Mercy in the greeting already hints that ministry is carried by divine compassion, not native adequacy."
+    }
+  ]
+}

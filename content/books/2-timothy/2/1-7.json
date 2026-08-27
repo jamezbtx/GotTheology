@@ -1,0 +1,75 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 2,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "2 Timothy 2:1–7",
+  "context": "Paul charges Timothy, his child, to be strengthened by the grace that is in Christ Jesus and to entrust what he has heard to faithful men who can teach others. Soldier, athlete, and farmer pictures press undivided endurance, and the Lord himself will give understanding.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on grace that strengthens, the charge to faithful teachers, and the soldier, athlete, and farmer—so each camp speaks in its own voice beside 2 Timothy 2:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The things—The wholesome doctrine. Commit—Before thou leavest Ephesus. To faithful men, who will be able, after thou art gone, to teach others. No man that warreth entangleth himself—Any more than is unavoidable. In the affairs of this life—With worldly business or cares. That he may please his captain. Unless he labour first, he will reap no fruit.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 2:2–6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Be strong in the grace that is in Christ Jesus. What God demands from us by his word he likewise bestows by his Spirit, so that we are strengthened in the grace which he has given to us. And yet the exhortations are not superfluous, because the Spirit of God, teaching us inwardly, causes that they shall not sound in our ears fruitlessly. Commit to faithful men this treasure. They who offer their obedience to Christ must be prepared for enduring afflictions; without patient endurance of evils there will never be perseverance. The husbandman must labor before he receive the fruits. Not less are we taught in vain, if the Lord do not open our understandings, than the commandments would be given in vain, if he did not impart strength to perform them.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 2:1–7)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "You then, my child, be strengthened by the grace that is in Christ Jesus,",
+      "arminianNotes": "Timothy is addressed as child, not as a self-made hero. Be strengthened by the grace that is in Christ Jesus: the wholesome doctrine Wesley names sits inside a gift already in Christ, not a private stamina project.\n\nArminian hearing: grace in Christ is real power offered to the minister who must still take it up. Strengthened is both gift and charge. The child can slack; the same grace that saves also enables the next obedience if it is not resisted.",
+      "reformedNotes": "Be strong in the grace that is in Christ Jesus: Calvin heard Paul shaking off sloth. What God demands by his word he bestows by his Spirit, so that we are strengthened in the grace he has given.\n\nReformed hearing: the exhortation is not proof of autonomous free-will. Calvin: the Spirit teaching inwardly keeps the charge from sounding fruitlessly. Grace is in Christ Jesus—from him, and not lacking to those who belong to him."
+    },
+    {
+      "number": 2,
+      "text": "and what you have heard from me in the presence of many witnesses entrust to faithful men, who will be able to teach others also.",
+      "arminianNotes": "Wesley: the things are the wholesome doctrine. Commit—before thou leavest Ephesus—to faithful men who will be able, after thou art gone, to teach others. The gospel is handed on in the open, before many witnesses.\n\nArminian succession: the gospel is entrusted, not locked in an apostle. Faithful men can teach others; the chain can break if Timothy does not commit it. Ability to teach is a real stewardship, not an irresistible decree that the church will automatically stay sound.",
+      "reformedNotes": "Calvin: commit this treasure to faithful men qualified to teach, so that after Paul’s death a sure attestation remains and the doctrine is more widely published. Extraordinary faithfulness is demanded, for few sincerely labor to preserve what is entrusted.\n\nReformed succession: God preserves the gospel, and he uses this ordinary means—faithful, able teachers. Ambition, fear, and covetousness wreck stewards. The chain is God’s kindness through chosen instruments, not a human invention of the office."
+    },
+    {
+      "number": 3,
+      "text": "Share in suffering as a good soldier of Christ Jesus.",
+      "arminianNotes": "Share in suffering: the good soldier of Christ Jesus does not volunteer for cruelty but accepts the cost of loyalty. Wesley’s war-picture already implies this—no entanglement that ruins the campaign.\n\nArminian pastoral: suffering is not a badge you earn election with; it is the path of those who follow a crucified Lord. You can refuse the share; the charge assumes a real choice to stand or shrink.",
+      "reformedNotes": "Calvin: they who offer obedience to Christ must be prepared for enduring afflictions; without patient endurance of evils there will never be perseverance. A good soldier’s warfare consists not in inflicting evils but in patience.\n\nReformed pastoral: perseverance is God’s gift, and this command is one of the means. The soldier image does not make the Christian the author of his own staying power; it names the life to which the called are appointed."
+    },
+    {
+      "number": 4,
+      "text": "No soldier gets entangled in civilian pursuits, since his aim is to please the one who enlisted him.",
+      "arminianNotes": "Wesley: No man that warreth entangleth himself—any more than is unavoidable—in the affairs of this life, with worldly business or cares, that he may please his captain.\n\nArminian aim: pleasing the one who enlisted you is a living loyalty. Civilian pursuits are not evil in themselves; entanglement is. Grace does not cancel ordinary life, but it refuses a divided heart that cannot serve the Captain.",
+      "reformedNotes": "Calvin: as a soldier leaves house and affairs to please his general, so those who would be wholly devoted to Christ must be free from the entanglements of this world. In the worship of God we ought to give such attention that nothing else occupies our thoughts and feelings.\n\nReformed aim: the heavenly General has no less authority than a mortal commander. Pastors especially must see what draws them from Christ. The enlistment is God’s; the pleasing is the soldier’s fitting response, worked by the Spirit."
+    },
+    {
+      "number": 5,
+      "text": "An athlete is not crowned unless he competes according to the rules.",
+      "arminianNotes": "An athlete is not crowned unless he competes according to the rules. Wesley’s labour-first note (v. 6) sits beside this: the prize is for those who actually run the Lord’s way, not for a show of effort.\n\nArminian ministry: rules here are the gospel’s own terms—faith, holiness, endurance—not extra fences. Timothy can run sloppily and shame the work. The crown language motivates a real contest in grace, not a casual title.",
+      "reformedNotes": "Calvin: none is crowned except he strive lawfully; he who withdraws from the arena to rest is condemned for indolence instead of being crowned. Christ wishes us to strive during our whole life; to strive lawfully is to pursue the contest as the law requires, none leaving off before the time appointed.\n\nReformed ministry: lawful striving is perseverance to the appointed time. God gives the crown, and he commands the race. The metaphor trains pastors not to quit midway, using the same grace already given in v. 1."
+    },
+    {
+      "number": 6,
+      "text": "It is the hard-working farmer who ought to have the first share of the crops.",
+      "arminianNotes": "Wesley: Unless he labour first, he will reap no fruit. The hard-working farmer, not the idle one, ought to have the first share of the crops.\n\nArminian labor: first share is not wages that purchase heaven; it is the fitting order of ministry—toil, then fruit. God gives the increase, and the farmer must still work. Refuse the labor and you have no honest claim on the crop.",
+      "reformedNotes": "Calvin: husbandmen do not gather the fruit till they have first toiled hard in cultivation. If they spare no toil and wait for harvest, how much more unreasonable to refuse the labors Christ enjoins while he holds out so great a reward.\n\nReformed labor: the reward is held out by Christ, not invented by the worker. God uses hard work as his ordinary means. The first share comforts a weary minister without making him the source of the harvest."
+    },
+    {
+      "number": 7,
+      "text": "Think over what I say, for the Lord will give you understanding in everything.",
+      "arminianNotes": "Think over what I say: Timothy must ponder the three pictures. The Lord will give understanding in everything—Wesley’s whole block assumes a mind that considers, and a Lord who illumines.\n\nArminian both-and: meditation is required; understanding is given. The Lord does not bypass Timothy’s thinking, and Timothy cannot by thinking replace the Lord’s gift. Grace assists the pondering; it is not an excuse to skip it.",
+      "reformedNotes": "Calvin: the prayer is added by way of correction. Not less are we taught in vain, if the Lord do not open our understandings, than the commandments would be given in vain, if he did not impart strength to perform them. Paul prays that God may train his disciple.\n\nReformed both-and: even Paul’s teaching is useless without inward illumination. The command to consider and the prayer for understanding stand together. God opens the mind; that is why the exhortation is not empty."
+    }
+  ]
+}

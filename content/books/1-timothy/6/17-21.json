@@ -1,0 +1,65 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 6,
+  "verseStart": 17,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "1 Timothy 6:17–21",
+  "context": "The rich in this present age must not be haughty or set their hope on uncertain riches, but on God who richly provides everything to enjoy. They are to be rich in good works, generous, storing a foundation for the future, and so take hold of what is truly life. Timothy must guard the entrusted deposit, avoid irreverent babble falsely called knowledge, and remember that some have already swerved from the faith. Grace be with you.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the rich, hope in God, the entrusted deposit, and a warning against irreverent babble—so each camp speaks in its own voice beside 1 Timothy 6:17–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Charge the rich in this world - Rich in such beggarly riches as this world affords. Not to be highminded - Not to think better of themselves for their money, or anything it can purchase. Neither to trust in uncertain riches - Which they may lose in an hour. But in the living God - All the rest is dead clay. Who giveth us all things richly to enjoy - As his gift, in him and for him. Treasuring up for themselves a good foundation - Of an abundant reward, by the free mercy of God. That they may lay hold on eternal life - This cannot be done by alms-deeds; yet they come up for a memorial before God. Keep that which is committed to thy trust. Avoid profane empty babblings - How weary of controversy was this acute disputant! And knowledge falsely so called - Most of the ancient heretics were great pretenders to knowledge.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 6:17–21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Paul first speaks contemptuously of riches; for the phrase, in this world, is intended to lower them in our esteem. How foolish is it to place our hope in them! He who understands that it is God alone who supplies us with everything for the necessary purposes of life will find no difficulty in withdrawing his hope from riches. The inference that we obtain eternal life by the merit of good works is excessively frivolous. After having reconciled us to himself by free grace, he accepts our services, such as they are, and bestows on them a reward which is not due. Guard that which is committed to thee: all the gifts which God bestows on us are committed to us on this condition, that we shall one day give an account of them.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 6:17–21)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 17,
+      "text": "As for the rich in this present age, charge them not to be haughty, nor to set their hopes on the uncertainty of riches, but on God, who richly provides us with everything to enjoy.",
+      "arminianNotes": "Wealth in this present age is real, and so is its snare: pride and hope parked on what can vanish in an hour. Charge them: do not be haughty; hope in God, who richly provides everything to enjoy. Wesley: all the rest is dead clay; He holds gifts out in His hand, freely and abundantly, to be enjoyed as His, in Him and for Him.\n\nArminian pastoral: provision is sincere kindness, meant to be enjoyed without being trusted. Grace can humble the rich; they remain responsible not to let money become a false savior. Enjoyment is permitted; arrogance is not.",
+      "reformedNotes": "Calvin: in this world lowers riches in our esteem; they fade. Pride springs from a deceitful hope of being supremely happy in wealth. God alone supplies what life needs; to hope in riches is to transfer His prerogative to smoke. He gives abundantly for enjoyment, kind even beyond necessity.\n\nReformed reading: this is fatherly providence and common kindness, not a promise that every recipient is willed unto salvation. The rich are still commanded to relocate hope. God richly provides; He alone is living trust."
+    },
+    {
+      "number": 18,
+      "text": "They are to do good, to be rich in good works, to be generous and ready to share,",
+      "arminianNotes": "The alternative wealth is good works: do good, be rich in them, generous, ready to share. Wesley: make this their daily employ; ready to distribute to particular persons, willing to join public works of charity.\n\nArminian holiness: enabling grace makes generosity possible, and the rich must actually open the hand. Goods are a trust for neighbor-love, not a proof of superior faith. The command is as practical as a purse.",
+      "reformedNotes": "Calvin: the richer anyone is, the more abundant are the means of doing good. Because we are always too slow in giving to the poor, Paul uses many words to commend the virtue.\n\nReformed use of wealth: this is the lawful use of riches under grace, not a purchase of standing. God who provides richly also appoints open-handedness as fruit. Readiness to share is evidence of a hope already moved off the coin."
+    },
+    {
+      "number": 19,
+      "text": "thus storing up treasure for themselves as a good foundation for the future, so that they may take hold of that which is truly life.",
+      "arminianNotes": "Generosity stores a foundation for the future so that they may take hold of what is truly life. Wesley: an abundant reward by the free mercy of God; this cannot be done by alms-deeds, yet they come up for a memorial, and the lack of this may be why God withholds grace and salvation.\n\nArminian accent: taking hold remains a real, grace-enabled act. Good works do not buy life, but refusing mercy to the poor is no small danger to those who hope to lay hold of it. Assurance walks with open hands.",
+      "reformedNotes": "Calvin: an incitement from the promise of reward: by bestowing they procure a better treasure than earth can hold, a foundation not exposed to worms, thieves, or fire. The inference that we obtain eternal life by the merit of works is excessively frivolous. After reconciling us by free grace, God accepts our services as they are and bestows a reward which is not due: an appendage to the righteousness of faith, not a rival to it.\n\nReformed assurance: truly life is grasped as gift. The elect are kept unto that life; good works are fruits God kindly rewards, never the purchase price.",
+      "keyContrast": "Both refuse a prosperity gospel and deny that alms purchase salvation, while still tying generosity to taking hold of true life. Arminians typically stress a grace-enabled taking hold that can be neglected, so that stinginess is spiritually dangerous. Reformed readers typically stress free-grace acceptance of imperfect works and effectual keeping unto the life the generous take hold of."
+    },
+    {
+      "number": 20,
+      "text": "O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called \"knowledge,\"",
+      "arminianNotes": "O Timothy: the letter turns personal. Guard the deposit entrusted to you: the gospel charge already given. Avoid irreverent babble and the contradictions of what is falsely called knowledge. Wesley: how weary of controversy was this acute disputant; most ancient heretics were great pretenders to knowledge.\n\nArminian stewardship: the deposit is a trust that can be corrupted if neglected. Grace that committed the gospel to Timothy also enables a holy guard. False knowledge flatters; sound words still accord with godliness.",
+      "reformedNotes": "Calvin: the thing committed is the grace given Timothy for his office, like a talent: we shall give account if its advantage is lost by negligence. Ingratitude often causes gifts to be taken away. Avoiding profane empty noise belongs with guarding, because where an ambitious desire to please prevails, edification dies.\n\nReformed gravity: that which is falsely called knowledge overwhelms the simple gospel with swollen subtleties. No science is truly so called but that which instructs in the fear of God. Guard the deposit; laugh off hypocritical wisdom that amazes without building."
+    },
+    {
+      "number": 21,
+      "text": "for by professing it some have swerved from the faith. Grace be with you.",
+      "arminianNotes": "By professing the false knowledge some have already swerved from the faith. The danger is not theoretical; names could be named. The letter ends, Grace be with you: plural mercy on the church that must keep the deposit.\n\nArminian warning: a swerve from the faith is treated as a real departure from the way. Grace that now rests on you is to be received and not traded for pretentious knowledge. Stay with the entrusted gospel.",
+      "reformedNotes": "Calvin: from the result he shows the danger. God punishes the haughtiness of those who corrupt doctrine for reputation by letting them fall from soundness into absurd errors. Faith here is the summary of religion and sound doctrine. If we abhor revolt from the faith, we must adhere to the pure word and detest useless subtleties.\n\nReformed close: those who finally swerve expose a profession God did not effectually keep as saving faith, yet the warning is how the church is kept. Grace be with you is gift, not wage: God finishes what He committed.",
+      "keyContrast": "Both warn that professing counterfeit knowledge has already made some swerve from the faith. Arminians typically treat the swerve as a genuine departure possible for those who once stood in the way. Reformed readers typically treat a final swerve as evidence that the faith named was not the Spirit's effectual work, while still using the warning to keep the church in the deposit."
+    }
+  ]
+}

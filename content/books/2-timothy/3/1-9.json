@@ -1,0 +1,88 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "2 Timothy 3:1–9",
+  "context": "Paul warns Timothy that last-days difficulty will rise inside the church: people will love self and pleasure more than God, keeping a form of godliness while denying its power. Some will capture the unstable, always learning yet never arriving at the truth—opposing it as Jannes and Jambres opposed Moses—yet their folly will not stay hidden.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on last-days difficulty inside the church and a form of godliness that denies its power—so each camp speaks in its own voice beside 2 Timothy 3:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "In the last days—The time of the gospel dispensation, commencing at the time of our Lord’s death, is peculiarly styled the last days. For men—Even in the church. Lovers of themselves—Only, not their neighbours, the first root of evil. Having a form—An appearance of godliness, but not regarding, nay, even denying and blaspheming, the inward power and reality of it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 3:1–5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Under the last days, he includes the universal condition of the Christian Church. He means that there will not be, even under the gospel, such a state of perfection, that all vices shall be banished. They whom he briefly describes are not external enemies, who openly assail the name of Christ, but domestics, who wish to be reckoned among the members of the Church.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 3:1–2)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "But understand this, that in the last days there will come times of difficulty.",
+      "arminianNotes": "Understand this: last-days trouble is not a rumor Timothy can postpone. Wesley heard the last days as the gospel dispensation itself, beginning at the Lord’s death—so the church already lives inside the warning.\n\nArminian pastoral: difficulty is expected under grace, not after it. The age of the Spirit is also the age of testing. Take the alarm to heart; do not wait for a later calendar before you watch.",
+      "reformedNotes": "Calvin: under the last days Paul includes the universal condition of the Christian church. There will not be, even under the gospel, such perfection that all vices are banished.\n\nReformed realism: the last days are the church’s present climate, not a distant corridor. God is not surprised by the hardness; He told His servant beforehand so that Timothy would not treat corruption as proof the gospel had failed."
+    },
+    {
+      "number": 2,
+      "text": "For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy,",
+      "arminianNotes": "The catalog begins where Wesley put the first root of evil: lovers of themselves only, not their neighbors. Love of money, pride, arrogance, abuse, and household rebellion grow from that self-turn.\n\nClassical Arminians hear a moral diagnosis of people even in the church. Grace sincerely calls them out of this list; remaining in it is a resisted grace, not an unchangeable decree made visible.",
+      "reformedNotes": "Calvin: those described are not open outside enemies of Christ’s name, but domestics who wish to be reckoned members of the church. Self-love and money-love wear a Christian address.\n\nReformed reading: the vice list exposes what the heart is apart from effectual grace. The church must not be shocked that professors can still be proud, abusive, and unholy; the Word names them so the flock is not fooled by membership."
+    },
+    {
+      "number": 3,
+      "text": "heartless, unappeasable, slanderous, without self-control, brutal, not loving good,",
+      "arminianNotes": "The list presses inward: heartless, unappeasable, slanderous, without self-control, brutal, not loving good. Form-religion can coexist with a wrecked temperament.\n\nArminian pastoral: these are not mere personality quirks. The Spirit offers a new heart and self-control; refusing that help leaves a person able to talk godliness while remaining cruel. Pray for tenderness; do not baptize brutality as zeal.",
+      "reformedNotes": "Heartless and unappeasable people inside the visible church are part of Paul’s last-days picture. Slander, missing self-control, and hatred of the good are fruits that betray the root.\n\nReformed gravity: the Spirit’s fruit is love, peace, and self-control. Where these are chronically absent under a Christian name, the problem is not a light need of coaching only; it is a nature not yet made new."
+    },
+    {
+      "number": 4,
+      "text": "treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God,",
+      "arminianNotes": "Treacherous, reckless, swollen with conceit: the climax is a rival love—pleasure rather than God. The issue is not that delight is evil; it is that pleasure has dethroned the Lord.\n\nArminian call: love of God is a real, grace-enabled choice that can be crowded out. Prevenient grace awakens; the hearer must not prefer the present sweetness to the Giver. The warning is for the church, not only for pagans.",
+      "reformedNotes": "Lovers of pleasure rather than lovers of God names an exchanged worship. Conceit and treachery are not add-ons; they ride the same self-exalting heart.\n\nReformed confession: regeneration reorders loves. Where pleasure still outranks God as a settled rule of life, the gospel has not yet done its effectual work, whatever the profession."
+    },
+    {
+      "number": 5,
+      "text": "having the appearance of godliness, but denying its power. Avoid such people.",
+      "arminianNotes": "Wesley: a form—an appearance of godliness—while denying, even blaspheming, the inward power and reality of it. The danger is not irreligion in the street; it is religion without yielded life. Avoid such people: do not apprentice yourself to a hollow pattern.\n\nArminian soteriology: the power of godliness is the Spirit’s real work, which can be resisted. A person may keep the form—words, meetings, reputation—while refusing the inward newness grace offers. The form is not enough; the power must be received and not denied.",
+      "reformedNotes": "Appearance of godliness without power is Calvin’s domestic enemy: counted in the church, empty of the thing the church exists to display. Avoid them: the flock is not required to treat a costume as conversion.\n\nReformed soteriology: the power of godliness is the effectual new birth. Those truly made alive do not finally live on appearance only; the Spirit actually changes them. A settled denial of that power marks an unregenerate professor, not a regenerate soul who merely lags.",
+      "keyContrast": "The live fork is form versus power. Arminian readers hear a resistible grace: people can wear godliness and still refuse the Spirit’s inward power. Reformed readers hear effectual new birth: the truly regenerate are given the power, not merely the appearance; a settled form without power exposes an unrenewed heart."
+    },
+    {
+      "number": 6,
+      "text": "For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,",
+      "arminianNotes": "Among the form-godly are predators: they creep into households and capture the burdened and passion-led. False teaching hunts the already wounded.\n\nArminian pastoral: sin-burden and disordered desire make a person vulnerable, not disposable. Grace can still rescue the captured; the church must not leave the weak to itinerant captors. Avoiding such people (v. 5) is protection of the household, not snobbery.",
+      "reformedNotes": "Creeping and capturing is how error works when it cannot win in open light. The targets are already burdened with sins and pulled by passions—so the impostor offers a religious covering for an unruled heart.\n\nReformed watch: God shepherds His people by naming the method. Households need the public Word, not private captors. Weakness here is not a sneer at women as such; it is a warning that unrestored guilt and passion are doors false teachers love to use."
+    },
+    {
+      "number": 7,
+      "text": "always learning and never able to arrive at a knowledge of the truth.",
+      "arminianNotes": "Always learning, never arriving: curiosity without conversion. Truth is not an endless seminar; it is something one can actually come to know in Christ.\n\nArminian emphasis: arriving is possible because God sincerely gives light in the gospel. Remaining a perpetual student of novelty can be a way of resisting the truth already offered. Pray, then obey what you know; more intake without yielding is not growth.",
+      "reformedNotes": "Never able to arrive at a knowledge of the truth is more than a slow mind. Ability here is moral and spiritual: the lesson does not land because the heart will not have it.\n\nReformed accent: saving knowledge of the truth is God’s gift. Learning that never arrives is a mark of those not given eyes. The church still teaches plainly; God must open the understanding, or the cycle of lessons continues without the knowledge that saves."
+    },
+    {
+      "number": 8,
+      "text": "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith.",
+      "arminianNotes": "Jannes and Jambres—the traditional names of Pharaoh’s magicians—opposed Moses with counterfeit signs. So these men oppose the truth: corrupted in mind, disqualified regarding the faith.\n\nArminian hearing: opposition to the truth can grow inside a religious career. Disqualified regarding the faith is a real verdict on people who once stood near it. The mind can be corrupted; the warning is to stay with Moses’ God, not with the magicians’ show.",
+      "reformedNotes": "As the magicians withstood Moses, so impostors withstand the truth with a copy of religion. Corrupted minds and disqualification regarding the faith are Paul’s labels, not later insults.\n\nReformed reading: those finally opposing the truth show they were not approved. God exposed Pharaoh’s magicians; He will expose these. The church is not required to treat every opponent of the gospel as a temporarily confused brother."
+    },
+    {
+      "number": 9,
+      "text": "But they will not get very far, for their folly will be plain to all, as was that of those two men.",
+      "arminianNotes": "They will not get very far: folly becomes plain, as it did with Jannes and Jambres. Error has a runway, not a forever.\n\nArminian comfort: God lets counterfeit religion be unmasked in due time. That does not make the damage imaginary while it lasts; it does mean Timothy need not panic as if the magicians will outlast Moses. Stay with the truth; wait for the exposure.",
+      "reformedNotes": "Their progress is limited because God will make their folly public, as He did with the two who withstood Moses. The church’s safety is not naivete; it is the Lord’s timetable of unmasking.\n\nReformed comfort: impostors do not finally govern the story. God vindicates His truth. The same sovereignty that permits last-days difficulty also appoints that folly will not stay plausible to all forever."
+    }
+  ]
+}

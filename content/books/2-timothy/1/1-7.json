@@ -1,0 +1,76 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "2 Timothy 1:1–7",
+  "context": "Paul greets Timothy as his beloved child, an apostle by the will of God according to the promise of the life that is in Christ Jesus. He thanks God as he prays night and day, longs to see Timothy, recalls the sincere faith of Lois and Eunice now dwelling in him, and urges him to fan into flame the gift given through the laying on of hands—for God gave a spirit not of fear but of power, love, and self-control.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on stirring up the gift of God and a spirit not of fear but of power, love, and self-control—so each camp speaks in its own voice beside 2 Timothy 1:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Stir up the gift of God—Literally, blowing up the coals into a flame. The gift of God—All the spiritual gifts, which the grace of God has given thee. God hath not given us the spirit of fear—Or cowardice. But of power—Banishing fear. And love and sobriety—These animate us in our duties to God, our brethren, and ourselves. Power and sobriety are two good extremes. Love is between, the tie and temperament of both.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 1:1–7)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "To stir up the gift of God. This exhortation is highly necessary; for it usually happens that the excellence of gifts produces carelessness, which is also accompanied by sloth; and Satan continually labors to extinguish all that is of God in us. We ought to strive to bring to perfection everything that is good in us, and to kindle what is languid. God hath not given to us a spirit of cowardice: they ought not to lie down through slothfulness, but, sustained by great confidence and cheerfulness, should exhibit that power of the Spirit. It is God who endues us with the spirit of power.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 1:1–7)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,",
+      "arminianNotes": "Paul writes as an apostle of Christ Jesus by the will of God, according to the promise of the life that is in Christ Jesus. Apostleship is God’s appointment, not a self-made office; the promised life is located in the Son.\n\nClassical Arminians gladly confess that God initiates both the mission and the life it announces. That same will sends a sincere gospel: hearers are summoned to receive the life that is in Christ, not to wait and see whether they already sit inside a closed circle.",
+      "reformedNotes": "The letter opens under God’s will. No one makes himself an apostle; the promise of life is in Christ Jesus, not in the writer’s résumé.\n\nReformed comfort: the messenger and the message arrive because God willed to speak. Life is as sure as the Christ in whom the promise is kept."
+    },
+    {
+      "number": 2,
+      "text": "To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.",
+      "arminianNotes": "Timothy is a beloved child—begotten through the gospel he received, not a mere assistant. Grace, mercy, and peace come from the Father and from Christ Jesus our Lord; the blessing is tender supply for a hard charge.\n\nArminian pastoral reading: the greeting is real gift and real calling. Timothy must stand in the faith by which he is a beloved child.",
+      "reformedNotes": "“Beloved child” is high praise and public affection. Grace, mercy, and peace flow from the Father and the Lord Jesus as covenant kindness.\n\nReformed instinct: Timothy’s standing and supply are from God. Mercy in the greeting already hints that ministry is carried by divine compassion, not native adequacy."
+    },
+    {
+      "number": 3,
+      "text": "I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day.",
+      "arminianNotes": "Paul thanks the God he serves, as his ancestors did, with a clear conscience. Night-and-day prayer for Timothy is love, not a formality.\n\nArminian pastoral note: a clear conscience is to be kept, not presumed. Inherited service still needs the mercy named in the greeting, and intercession is a real means of grace for a son in the faith.",
+      "reformedNotes": "Thanksgiving and intercession sit together. Paul serves the same God his ancestors served, with a conscience that does not accuse him of a false gospel.\n\nReformed pastoral note: God is thanked as the one who keeps both the servant and the child in view. Constant prayer is a means He uses, not a substitute for His will."
+    },
+    {
+      "number": 4,
+      "text": "As I remember your tears, I long to see you, that I may be filled with joy.",
+      "arminianNotes": "Tears remembered, a longing to see, joy hoped for. The apostle is not a machine of doctrine; affection belongs to the charge.\n\nPastoral Arminian reading: joy at reunion is a real good God may grant. Love of a son in the faith is not a distraction from the gospel; it is one of the ways that gospel has already taken hold.",
+      "reformedNotes": "Paul names tears and longing without embarrassment. Ministry is personal; the gospel does not cancel affection.\n\nReformed comfort: the God who gives a spirit of power also gives this holy desire. Joy at seeing Timothy is not vanity; it is the fruit of a bond God made."
+    },
+    {
+      "number": 5,
+      "text": "I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well.",
+      "arminianNotes": "Sincere faith dwelt first in Lois and Eunice and now, Paul is sure, dwells in Timothy. Faith is living and personal; a household can nurture it without turning it into a mere heirloom.\n\nArminian reading: grandmother and mother believed, and Timothy must believe. Sincere faith is not automatic descent. The home is a means of grace; the faith itself is Timothy’s to hold.",
+      "reformedNotes": "Unfeigned faith in three generations is God’s kindness, not a pedigree that saves. Paul is persuaded that the same faith now lives in Timothy.\n\nReformed accent: God often works along family lines, yet faith is His gift in the child as truly as in the mother. Household piety is a privilege; regeneration is not inherited by blood."
+    },
+    {
+      "number": 6,
+      "text": "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands,",
+      "arminianNotes": "For this reason—because sincere faith dwells in you—fan into flame the gift of God given through Paul’s hands. Wesley: literally, blowing up the coals into a flame; the gift is all the spiritual gifts which the grace of God has given.\n\nArminian stewardship: gifts can be neglected. Grace is resistible in this sense: the coals are real, and Timothy must blow. Laying on of hands marked a real giving; cooperating with that grace is the charge, not self-salvation.",
+      "reformedNotes": "Stir up the gift: Calvin heard an exhortation highly necessary, because excellence of gifts often produces carelessness and sloth, and Satan labors to extinguish all that is of God in us.\n\nReformed charge: kindle what is languid. The gift is God’s; the hands attest it. Neglect is still a ministerial sin, and the warning is a means God uses to keep His servant at the work.",
+      "keyContrast": "Both treat the gift as God’s and the fanning as Timothy’s duty. Arminians typically hear cooperating with resistible grace: coals already given must be blown, or the flame dies. Reformed readers typically hear God-given power that actually enables the stirring; Satan would extinguish what is of God, and the command is a means by which God kindles what He has placed."
+    },
+    {
+      "number": 7,
+      "text": "for God gave us a spirit not of fear but of power and love and self-control.",
+      "arminianNotes": "God gave a spirit not of fear—Wesley: or cowardice—but of power, banishing fear, and of love and sobriety (self-control). Power and sobriety are two good extremes; love is the tie and temperament of both.\n\nArminian energy: these gifts animate duties to God, brethren, and ourselves. Power is not a force that removes the need to obey; it is grace to be used rather than a spirit of timidity that hides.",
+      "reformedNotes": "God has not given a spirit of cowardice. Calvin: they ought not to lie down through slothfulness, but, sustained by great confidence and cheerfulness, should exhibit the power of the Spirit. It is God who endues us with the spirit of power.\n\nReformed accent: the Spirit God gave actually enables courage, love, and a sound mind. Timothy is not told to manufacture power; he is told to live from the Spirit God has already given."
+    }
+  ]
+}

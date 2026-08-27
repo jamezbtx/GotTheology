@@ -314,6 +314,12 @@ function renderPassagePage(data, opts) {
   <meta property="og:url" content="${escapeHtml(canonicalPath)}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="GotTheology" />
+  <meta property="og:image" content="${SITE_ORIGIN}/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Got-Theology.com — Arminian and Reformed, side by side" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="${SITE_ORIGIN}/og-image.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
@@ -392,7 +398,7 @@ ${voicesHtml}
       <div class="reader">
         <div class="cta-box">
           <p class="eyebrow" style="color: var(--gold-soft);">Keep reading</p>
-          <h2 id="cta-heading">Genesis, Matthew, John, Ephesians, and Colossians are live</h2>
+          <h2 id="cta-heading">Genesis, Matthew, John, Ephesians, Colossians, 1 Timothy, and 2 Timothy are live</h2>
           <p>Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
           <a href="/bible/index.html" class="btn btn-gold">Browse the Bible</a>
         </div>
@@ -532,6 +538,12 @@ function renderBrowseDocument(opts) {
     '  <meta property="og:url" content="' + escapeHtml(canonical) + '" />',
     '  <meta property="og:type" content="website" />',
     '  <meta property="og:site_name" content="GotTheology" />',
+    '  <meta property="og:image" content="' + SITE_ORIGIN + '/og-image.png" />',
+    '  <meta property="og:image:width" content="1200" />',
+    '  <meta property="og:image:height" content="630" />',
+    '  <meta property="og:image:alt" content="Got-Theology.com — Arminian and Reformed, side by side" />',
+    '  <meta name="twitter:card" content="summary_large_image" />',
+    '  <meta name="twitter:image" content="' + SITE_ORIGIN + '/og-image.png" />',
     '  <link rel="preconnect" href="https://fonts.googleapis.com" />',
     '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />',
     '  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />',

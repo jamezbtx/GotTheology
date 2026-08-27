@@ -1,0 +1,76 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 4,
+  "verseStart": 16,
+  "verseEnd": 22,
+  "translation": "ESV",
+  "title": "2 Timothy 4:16–22",
+  "context": "At Paul’s first defense no one stood by him; all deserted, and he asks that it not be charged against them. The Lord stood by him and strengthened him so the message was fully proclaimed to the Gentiles, and he was rescued from the lion’s mouth. He trusts the Lord to rescue him from every evil deed and bring him safely into the heavenly kingdom. Greetings follow—Prisca, Aquila, Onesiphorus’s household—and a last plea to come before winter, with grace.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on desertion at the first defense, the Lord standing by Paul, and rescue into the heavenly kingdom—so each camp speaks in its own voice beside 2 Timothy 4:16–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "All—My friends and companions. Forsook me—And do we expect to find such as will not forsake us? My first defence—Before the savage emperor Nero. The Lord will deliver me from every evil work—Which is far more than delivering me from death. Yea, and, over and above, preserve me unto his heavenly kingdom.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 4:16, 18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Though the church at Rome had failed to perform its duty, he affirms that the gospel had suffered no loss by it, because, leaning on heavenly power, he was himself fully able to bear the whole burden. The Lord will deliver me from every evil work: not that he will escape death, but that he will not be vanquished by Satan, or turn aside from the right course. By ascribing to God this work of preserving us to his kingdom, he openly affirms that we are guided by his hand during the whole course of our life.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 4:17–18)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 16,
+      "text": "At my first defense no one came to stand by me, but all deserted me. May it not be charged against them!",
+      "arminianNotes": "At the first defense—Wesley: before the savage emperor Nero—no one stood by him; all deserted. Wesley: my friends and companions forsook me; and do we expect to find such as will not forsake us? Yet: may it not be charged against them.\n\nArminian pastoral: desertion hurts, and pardon is offered. Paul will not bind their cowardice to them as a final verdict. Grace toward the weak is not blindness about Demas (v. 10); it is a gospel reflex: some failed in a crisis and are still to be spared the charge, if they will return under mercy.",
+      "reformedNotes": "All deserted at the first defense. Calvin will note that even if the Roman church failed its duty, the gospel suffered no loss. Paul’s prayer—may it not be charged against them—echoes a cruciform mercy.\n\nReformed pastoral: God can keep the apostle when the church does not show up. Forgiveness is requested for those whose courage failed, which is different from blessing Alexander’s opposition (vv. 14–15). The Lord remains the one who stands when people do not."
+    },
+    {
+      "number": 17,
+      "text": "But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear it. So I was rescued from the lion's mouth.",
+      "arminianNotes": "The Lord stood by me and strengthened me: human absence, divine presence. The purpose was not Paul’s comfort alone, but that the message be fully proclaimed and all the Gentiles hear. Rescue from the lion’s mouth was unto mission.\n\nArminian reading: strengthening is real help in the moment, given so the gospel goes out. All the Gentiles names the wide aim of the proclamation. The Lord stands by the servant who clings to the work; the rescue is unto more preaching, not unto a private safety.",
+      "reformedNotes": "Calvin: though the church at Rome failed, the gospel suffered no loss, because, leaning on heavenly power, Paul was able to bear the whole burden. The Lord stood by him and strengthened him; the message was fully proclaimed; the Gentiles heard; he was rescued from the lion’s mouth.\n\nReformed accent: the standing and strengthening are God’s effectual aid. The mission to the Gentiles does not hang on whether every companion was brave. Heavenly power carried the burden; rescue served the Word’s full proclamation."
+    },
+    {
+      "number": 18,
+      "text": "The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be the glory forever and ever. Amen.",
+      "arminianNotes": "Wesley: the Lord will deliver me from every evil work—far more than delivering from death—and, over and above, preserve me unto his heavenly kingdom. Rescue from evil deed is moral and spiritual, not a promise to skip dying.\n\nArminian soteriology: God will keep those who cling. Preservation unto the kingdom is the Lord’s doing, trusted by a man still called to fight and keep the faith (vv. 5–7). The glory goes to God; the servant’s part is not to turn aside. Comfort is real, and it is for those who continue under that rescuing hand.",
+      "reformedNotes": "Calvin: not that he will escape death, but that he will not be vanquished by Satan or turn aside from the right course. By ascribing to God this work of preserving us to his kingdom, he openly affirms that we are guided by his hand during the whole course of our life.\n\nReformed soteriology: perseverance is God guiding the whole course. Rescue from every evil deed is the Lord’s unfailing hold, not a maybe conditioned on a final independent grasp. The heavenly kingdom is the end of a path God steers. Glory forever belongs to the Preserver.",
+      "keyContrast": "The fork is how preservation unto the kingdom works. Arminian readers hear a promise for those who cling: God will rescue from evil and keep the trusting. Reformed readers, with Calvin, hear that we are guided by God’s hand during the whole course of life—perseverance as divine steering, not a rescue that finally depends on an unheld human hold."
+    },
+    {
+      "number": 19,
+      "text": "Greet Prisca and Aquila, and the household of Onesiphorus.",
+      "arminianNotes": "Greet Prisca and Aquila—long partners in the gospel—and the household of Onesiphorus, who had not been ashamed of Paul’s chain (1:16–18). The letter ends in names, not only in doctrine.\n\nArminian pastoral: households and marriages can be means of grace. Greeting is fellowship across distance. Remember the ones who stood by when it cost them; that memory is part of keeping the faith.",
+      "reformedNotes": "Prisca, Aquila, and Onesiphorus’s household are commended by greeting. God had already used these names in Paul’s story; he will not finish without them.\n\nReformed comfort: the same Lord who stood by Paul (v. 17) had stood by him through these friends earlier. Covenant kindness runs through households. A greeting is a small liturgy of belonging in Christ."
+    },
+    {
+      "number": 20,
+      "text": "Erastus remained at Corinth, and I left Trophimus, who was ill, at Miletus.",
+      "arminianNotes": "Erastus remained at Corinth; Trophimus was left ill at Miletus. Apostolic ministry includes logistics and unhealed sickness. Paul does not pretend every coworker was delivered from the body.\n\nBoth camps can preach this without a fight. Love tells the truth about illness. The God who rescues from the lion’s mouth (v. 17) sometimes leaves a beloved worker sick; faith is not a demand that every Miletus become a miracle report.",
+      "reformedNotes": "Erastus stayed; Trophimus was ill and left at Miletus. Providence stations people, and providence permits fever.\n\nReformed realism: the God who will bring Paul safely into the heavenly kingdom (v. 18) did not owe Trophimus immediate healing as a proof of the gospel. Means, geography, and weakness remain. The kingdom is still sure."
+    },
+    {
+      "number": 21,
+      "text": "Do your best to come before winter. Eubulus sends greetings to you, as do Pudens and Linus and Claudia and all the brothers.",
+      "arminianNotes": "Come before winter: travel will close; the cloak of v. 13 has a calendar. Eubulus, Pudens, Linus, Claudia, and all the brothers send greetings—so not quite “Luke alone” in every sense; some still greet from Rome.\n\nArminian urgency: delay can be disobedience when a window is real. Love moves before the season shuts. Greetings from named brothers and a sister show that desertion at the defense (v. 16) was not the whole Roman story.",
+      "reformedNotes": "Before winter: a hard date on the earlier “come soon.” Named saints in Rome greet Timothy. God had a remnant of friends even after the courtroom emptying.\n\nReformed pastoral: providence includes seasons and ships. The brothers’ greetings are evidence that the church, though it failed at the first defense, is not without a faithful few. Come while coming is still possible."
+    },
+    {
+      "number": 22,
+      "text": "The Lord be with your spirit. Grace be with you.",
+      "arminianNotes": "The Lord be with your spirit—singular, for Timothy—and grace be with you, which in Greek can open to the wider “you” of the church that will hear the letter. Presence and grace close the book.\n\nArminian blessing: the Lord with your spirit is the help Timothy still needs to fulfill the ministry (v. 5). Grace is sincerely given; it must be lived with. The fight is not finished for the younger man; the closing word is not “you are done,” but “grace with you.”",
+      "reformedNotes": "The Lord be with your spirit; grace be with you. The one who stood by Paul (v. 17) is invoked for Timothy’s inner life and for the company who will read.\n\nReformed blessing: presence and grace are God’s to give. The letter that charged a preacher, named a deserter, and promised a crown ends where it must: in the Lord who keeps spirit and church. What He begins, He attends with grace to the end."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 3,
+  "verseStart": 14,
+  "verseEnd": 16,
+  "translation": "ESV",
+  "title": "1 Timothy 3:14–16",
+  "context": "Paul hopes to come soon, yet writes so Timothy will know how one ought to behave in God’s household—the church of the living God, a pillar and buttress of the truth. The confessed mystery of godliness is Christ: manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God’s household and the mystery of godliness—so each camp speaks in its own voice beside 1 Timothy 3:14–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The church of the living God—opposed to the temple of Diana. The mystery of godliness—The whole mystery of true religion, the mystery of the gospel, the mystery of Christ. God was manifested in the flesh—In the human nature. Justified by the Spirit—Declared to be the Son of God with power. Seen of angels—Who worshipped him. Preached among the Gentiles. Believed on in the world. Received up into glory.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 3:15–16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The church is the pillar and foundation of the truth, not because the truth derives its authority from the church, but because the church is the guardian and witness of the truth. Without controversy, great is the mystery of godliness: God was manifested in the flesh. Here is the sum of the gospel, which both learned and unlearned ought to acknowledge.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 3:15–16)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 14,
+      "text": "I hope to come to you soon, but I am writing these things to you so that,",
+      "arminianNotes": "Hope of coming soon, and still he writes. Presence is preferred; a letter is love when delayed.\n\nArminian pastoral: instruction for the household does not wait on the apostle’s travel plans. Written apostolic teaching is already a gift to a church that must behave before he arrives.",
+      "reformedNotes": "I hope to come / I am writing so that: delay is anticipated, truth is not postponed.\n\nReformed care: God uses a letter to order His house. The so that of v. 15 is why ink is also ministry."
+    },
+    {
+      "number": 15,
+      "text": "if I delay, you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth.",
+      "arminianNotes": "If I delay: Timothy must know how one ought to behave. Household of God, church of the living God, pillar and buttress of the truth—three names for one people. Wesley contrasted the living God with Diana’s temple.\n\nBoth camps stand together here: the church does not author the truth; she holds it up. Behavior in the house matches the God who lives there. This is shared ecclesiology more than a soteriology fight.",
+      "reformedNotes": "Calvin: pillar and foundation not because truth derives authority from the church, but because the church is guardian and witness. Household of the living God.\n\nReformed and Arminian readers can say this in one voice: conduct in God’s house is not casual, and the truth has a people who buttress it without becoming its source."
+    },
+    {
+      "number": 16,
+      "text": "Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.",
+      "arminianNotes": "Great indeed, we confess: a shared hymn. He—Christ—manifested in flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory. Wesley called this the whole mystery of true religion, the mystery of Christ.\n\nDo not force a camp fight the verse is not staging. Classical Arminians and Reformed Christians confess this together: incarnation, vindication, cosmic witness, global proclamation, faith in the world, and exaltation. Godliness has a mystery, and the mystery is a Person, not a party platform.",
+      "reformedNotes": "Calvin: here is the sum of the gospel, which learned and unlearned ought to acknowledge. God manifested in the flesh.\n\nReformed confession stands on the same six lines. Election and resistible grace are not the point of this verse; the risen Christ is. The nations, the world, and glory are the hymn’s geography—shared ground under both pulpits."
+    }
+  ]
+}

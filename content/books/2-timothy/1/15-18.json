@@ -1,0 +1,57 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 1,
+  "verseStart": 15,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "2 Timothy 1:15–18",
+  "context": "Paul names a hard fact: all who are in Asia turned away from him, Phygelus and Hermogenes among them. Against that desertion he asks mercy for the household of Onesiphorus, who often refreshed him, was not ashamed of his chains, searched him out in Rome, and had served well at Ephesus—that he may find mercy from the Lord on that day.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Asia’s turning away and the mercy sought for Onesiphorus—so each camp speaks in its own voice beside 2 Timothy 1:15–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "All who are in Asia—Who had attended me at Rome for a while. Are turned away from me—What, from Paul the aged, the faithful soldier, and now prisoner of Christ! This was a glorious trial. The family of Onesiphorus—As well as himself. Hath often refreshed me—Both at Ephesus and Rome.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 1:15–18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "May the Lord grant mercy. From this prayer we infer that the good offices done to the saints are not thrown away, even though they cannot recompense them. And was not ashamed of my chain. This is a proof not only of his liberality, but likewise of his zeal; seeing that he cheerfully exposed himself to danger and to the reproach of men, in order to assist Paul. May the Lord grant to him that he may find mercy with the Lord on that day. He who hath been merciful to his neighbors will receive such mercy from God to himself.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 1:15–18)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 15,
+      "text": "You are aware that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.",
+      "arminianNotes": "All in Asia turned away—Wesley: those who had attended Paul at Rome for a while. What, from Paul the aged, the faithful soldier, now prisoner of Christ! This was a glorious trial.\n\nArminian warning: turning away is a real act of people who had stood near the apostle. Names are given because desertion is not a theory. Grace received in Asia did not make apostolic loyalty automatic.",
+      "reformedNotes": "Paul tells Timothy what he already knows. Fair-weather companions left the chained apostle; Phygelus and Hermogenes are not anonymous.\n\nReformed pastoral note: God can use desertion as a trial that displays the gospel’s worth. The turning of many does not overturn the purpose and grace of vv. 9–10; it shows how much the Spirit of power is needed."
+    },
+    {
+      "number": 16,
+      "text": "May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains,",
+      "arminianNotes": "Mercy is asked for the household of Onesiphorus as well as himself. He often refreshed Paul—Wesley: both at Ephesus and Rome—and was not ashamed of the chains.\n\nArminian pastoral reading: refreshing the prisoner is love that refuses shame. Mercy for a household is sought in prayer, not presumed as a family entitlement. Kindness to Christ’s servant is a path along which God is pleased to show mercy.",
+      "reformedNotes": "May the Lord grant mercy. Calvin: good offices done to the saints are not thrown away, even though they cannot recompense them. Not ashamed of the chain is liberality and zeal: he exposed himself to danger and reproach to assist Paul.\n\nReformed comfort: God remembers mercy shown to His imprisoned servant. The prayer is itself a teaching: the Lord is the one who grants mercy; Onesiphorus’s courage is not a wage that binds God, yet it is not forgotten."
+    },
+    {
+      "number": 17,
+      "text": "but when he arrived in Rome he searched for me earnestly and found me—",
+      "arminianNotes": "He arrived in Rome, searched earnestly, and found him. This is unashamed love with feet.\n\nArminian pastoral note: earnest search is the opposite of Asia’s turning away. Grace that produces such seeking is to be imitated; it is not a private badge of a closed list.",
+      "reformedNotes": "Earnest searching in Rome is the proof of the zeal Calvin named. Finding Paul was costly; the sentence runs on into the prayer of v. 18.\n\nReformed pastoral note: God often uses a determined friend as the means of refreshment. The same Lord who guards the deposit (v. 12) sent a man who would look until he found the prisoner."
+    },
+    {
+      "number": 18,
+      "text": "may the Lord grant him to find mercy from the Lord on that day!—and you well know all the service he rendered at Ephesus.",
+      "arminianNotes": "May the Lord grant him to find mercy from the Lord on that day. The same “that day” as v. 12. Service at Ephesus is already known to Timothy.\n\nArminian hope: mercy on that day is still asked, not treated as an already-locked verdict Timothy need not pray about. Onesiphorus’s service is real; the mercy is the Lord’s to grant. Prayer for that day is fitting for a faith that must be kept until the appearing.",
+      "reformedNotes": "Calvin: he who has been merciful to his neighbors will receive such mercy from God to himself. The prayer infers that God is not unrighteous to forget labor of love.\n\nReformed comfort: “that day” is the same horizon as v. 12, when God guards what is entrusted. Asking mercy for Onesiphorus is how the church speaks when it knows the Judge is also the Savior—the Lord who grants what He has pledged to those who belong to Christ."
+    }
+  ]
+}

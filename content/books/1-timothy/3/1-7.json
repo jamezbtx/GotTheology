@@ -1,0 +1,76 @@
+{
+  "book": "1 Timothy",
+  "bookSlug": "1-timothy",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "1 Timothy 3:1–7",
+  "context": "Paul turns from household prayer to household office: the saying is trustworthy that aspiring to overseer is desiring a noble task. The overseer must be above reproach—a one-woman man, sober, hospitable, able to teach, not violent or greedy—managing his own house well, not a recent convert, and well thought of by outsiders, lest he fall into the devil’s snare.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the noble task of overseer and a life above reproach—so each camp speaks in its own voice beside 1 Timothy 3:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "If a man desireth the office of a bishop—he desireth a good work. The husband of one wife—How needless was that question, whether a man having two wives at once could be a bishop? St. Paul did not so much as suppose such a case. He that hath been married more than once (though he were a widower) was not to be admitted. Apt to teach—He must have a capacity for it, and a willingness.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 3:1–2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The husband of one wife. He does not exclude the unmarried, nor those who, after the death of a first wife, have married a second; but he condemns polygamists. He who cannot rule his own house is unworthy to have the government of the Church committed to him. A novice must not be chosen, lest he be puffed up.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 Timothy (on 1 Tim 3:2, 5–6)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The saying is trustworthy: If anyone aspires to the office of overseer, he desires a noble task.",
+      "arminianNotes": "A trustworthy saying: aspiration to overseer is not treated as a power-grab by default but as desire for a noble task. Office is work, not a prize.\n\nArminian pastoral: the church may honor a holy desire to serve. Grace that calls into faith also calls some into oversight; the desire is tested by the list that follows, not by ambition alone.",
+      "reformedNotes": "Trustworthy saying: the office is a good work. Overseer (episkopos) is task before title.\n\nReformed weight: desire is named, then immediately fenced by character. God gifts the church with overseers; the noble task is still His work in a man who must match the pattern."
+    },
+    {
+      "number": 2,
+      "text": "Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach,",
+      "arminianNotes": "Therefore: because the task is noble, the man must be above reproach. Husband of one wife (a man of one woman) has been read historically as excluding polygamy, as requiring marital faithfulness, and, in Wesley’s notes, as barring the twice-married even after widowhood. Able to teach is capacity and willingness together.\n\nClassical Arminians (with the broader catholic stream) have treated this as a character list for male overseers in the ordinary case, not a culture-war slogan. The point is an undivided, teachable, hospitable life. Readings differ on widows who remarry; they agree the text will not bless a wandering, many-womaned leader.",
+      "reformedNotes": "Calvin: he does not exclude the unmarried, nor a second marriage after death; he condemns polygamists. Above reproach heads the list; able to teach is not optional color.\n\nReformed historic reading likewise hears a one-woman faithfulness and a public life that can bear the church’s weight. The office is not a platform for the gifted but ungoverned. Hospitality and sobriety are as required as doctrine.",
+      "keyContrast": "Shared: the overseer must be a one-woman man in loyal marriage, not a polygamist or a wanderer, and must be able to teach. Wesley read the phrase more strictly (against even successive marriages). Calvin allowed the unmarried and the widower who marries again, while still condemning polygamy. Neither side should be pressed into a modern blog fight the verse is not staging."
+    },
+    {
+      "number": 3,
+      "text": "not a drunkard, not violent but gentle, not quarrelsome, not a lover of money.",
+      "arminianNotes": "Four refusals: drink that masters, hands that strike, a taste for fights, love of money. Gentleness is the positive twin of not violent.\n\nArminian church life: these are visible, trainable refusals. Grace that saves also trains a man not to rule the flock as a brawler or a hireling.",
+      "reformedNotes": "Not drunkard, not violent, not quarrelsome, not greedy: the negatives protect the sheep.\n\nReformed seriousness: a man can be orthodox and still disqualified here. The devil’s snare (v. 7) often looks like a short temper or a full purse."
+    },
+    {
+      "number": 4,
+      "text": "He must manage his own household well, with all dignity keeping his children submissive,",
+      "arminianNotes": "Household is the proving ground. Dignity, not tyranny: children submissive under a well-managed house.\n\nArminian practical holiness: leadership is first tested where no one is watching for a title. A man who will not father with dignity is not yet ready to father the church.",
+      "reformedNotes": "Manage his own household well: the domestic is not private in the sense of irrelevant.\n\nReformed order: the house is a little church in preview. Dignity keeps this from becoming either chaos or cruelty."
+    },
+    {
+      "number": 5,
+      "text": "for if someone does not know how to manage his own household, how will he care for God’s church?",
+      "arminianNotes": "The how is a real question, not rhetoric only. Care for God’s church is analogical to household care.\n\nArminian logic: skills of patience, provision, and peace at home are the same muscles. God is not asking the church to ignore a man’s house.",
+      "reformedNotes": "Calvin: he who cannot rule his own house is unworthy of the church’s government.\n\nReformed care: God’s church is not a career move past a failed living room. The how expects an answer in the candidate’s actual family life."
+    },
+    {
+      "number": 6,
+      "text": "He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil.",
+      "arminianNotes": "Not a novice: new birth is not yet a résumé for oversight. Conceit is the named danger, and it rhymes with the devil’s own fall.\n\nArminian caution: zeal in a new believer is precious and not yet office. Time, tested humility, and the list above must catch up to conversion.",
+      "reformedNotes": "Calvin: a novice must not be chosen, lest he be puffed up.\n\nReformed patience: God can regenerate in a moment and still forbid a green overseer. The devil’s condemnation is pride’s old story; the church must not fast-track it."
+    },
+    {
+      "number": 7,
+      "text": "Moreover, he must be well thought of by outsiders, so that he may not fall into disgrace, into a snare of the devil.",
+      "arminianNotes": "Outsiders have a vote of reputation, not of doctrine. Disgrace is a snare: the office can be lost in the street as well as in the session.\n\nArminian public holiness: the gospel’s good name among neighbors matters. A man whose life is a scandal outside cannot shepherd inside without dragging Christ’s name.",
+      "reformedNotes": "Well thought of by outsiders: a further fence against disgrace and the devil’s snare.\n\nReformed witness: the church’s overseer is a public man. The snare is real; God cares how the household of faith looks to those still outside it."
+    }
+  ]
+}

@@ -9,3 +9,7 @@
 /ephesians/*       /bible/ephesians/:splat   301
 /colossians        /bible/colossians/        301
 /colossians/*      /bible/colossians/:splat  301
+/1-timothy        /bible/1-timothy/           301
+/1-timothy/*      /bible/1-timothy/:splat     301
+/2-timothy        /bible/2-timothy/           301
+/2-timothy/*      /bible/2-timothy/:splat     301

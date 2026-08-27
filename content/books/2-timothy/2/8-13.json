@@ -1,0 +1,72 @@
+{
+  "book": "2 Timothy",
+  "bookSlug": "2-timothy",
+  "chapter": 2,
+  "verseStart": 8,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "2 Timothy 2:8–13",
+  "context": "Remember Jesus Christ, risen from the dead, the offspring of David: Paul is bound, but the word of God is not. He endures everything for the sake of the elect, that they may obtain salvation, and seals the charge with a trustworthy saying about dying, enduring, denying, and the Lord’s faithfulness.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the risen Christ, suffering for the elect, and the trustworthy saying of dying, denying, and remaining faithful—so each camp speaks in its own voice beside 2 Timothy 2:8–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I endure all things—See the spirit of a real Christian? Salvation is deliverance from all evil; glory, the enjoyment of all good. Dead with him—Dead to sin, and ready to die for him. If we deny him—To escape suffering for him. If we believe not—That is, though some believe not, God will make good all his promises to them that do believe. He cannot deny himself—His word cannot fail.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 2:10–13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I endure all things for the sake of the elect, that they may also obtain the salvation which is in Christ Jesus with eternal glory. He is prepared not only to die, but even to be reckoned in the number of wicked men, that he may promote the salvation of the Church; yet the salvation of believers is found in Christ alone. If we die with him, we shall also live with him: all the elect were predestinated that they might be conformed to his image. If we deny him, he will also deny us: they who leave off the confession of his name have no part or lot with Christ. If we are unbelieving, he remaineth faithful; he cannot deny himself. Our base desertion takes nothing from him; when they perish, he remaineth unchanged. Our faith is founded on the eternal and unchangeable truth of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 2:10–13)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 8,
+      "text": "Remember Jesus Christ, risen from the dead, the offspring of David, as preached in my gospel,",
+      "arminianNotes": "Remember Jesus Christ: risen, and David’s offspring. The gospel Paul preaches is this Jesus—real man of David’s line, really raised. Wesley’s later “dead with him” already leans on this living Lord.\n\nArminian memory: the resurrection is not a metaphor to outgrow. Remember is a means of endurance: look at the risen Christ, not at your nerves. Both camps stand here without a fight over the facts of the gospel Paul names.",
+      "reformedNotes": "Calvin: let no one corrupt my gospel; I have taught that Christ, born a man of the seed of David, rose from the dead. He who acknowledges that Christ has risen affirms that the same will take place with us; the Head must not be separated from his members.\n\nReformed memory: resurrection of Christ is the pledge of ours and the fulfillment of redemption. Offspring of David shuts out a phantom Christ. Paul’s gospel is this history, not a spiritualized substitute—the very article Hymenaeus will later gut (v. 18)."
+    },
+    {
+      "number": 9,
+      "text": "for which I am suffering, bound with chains as a criminal. But the word of God is not bound!",
+      "arminianNotes": "Paul is bound as a criminal; the word of God is not bound. The gospel’s freedom does not wait on the apostle’s comfort. Wesley: see the spirit of a real Christian in the endurance that follows.\n\nArminian courage: chains can stop a man; they cannot stop the word unless hearers refuse it. The unbound word still addresses people who may receive or resist. Suffering is not failure of the mission.",
+      "reformedNotes": "Calvin: as to outward appearance he was imprisoned like a criminal, but his imprisonment did not hinder the gospel from having free course. If we are oppressed, the gospel is nevertheless extended; so far are enemies from extinguishing its light that it burns the more brightly.\n\nReformed courage: God glorifies himself by an unbound word through bound servants. The consolation is not that pain is small, but that the truth breaks fetters. Reverence for doctrine should not shrink when ministers are outraged."
+    },
+    {
+      "number": 10,
+      "text": "Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory.",
+      "arminianNotes": "Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory. Wesley: see the spirit of a real Christian? Salvation is deliverance from all evil; glory, the enjoyment of all good.\n\nArminian “elect”: the people God foreknows will believe, the people he intends to save through the gospel. Paul suffers so that those people actually obtain what God has purposed in the preached Christ—not because a closed list makes preaching optional, but because the elect are gathered by means. Obtain keeps salvation on the far side of hearing and believing.",
+      "reformedNotes": "Calvin: Paul endures for the sake of the elect, caring more for the Church’s edification than for himself; he is prepared even to be reckoned among the wicked that he may promote the Church’s salvation, yet that salvation is found in Christ alone.\n\nReformed “elect”: particular people chosen unconditionally, for whom Paul suffers so that they obtain the salvation already purposed for them. Endurance is a means God is pleased to use; it does not create the election. Eternal glory is the end of the salvation given in Christ.",
+      "keyContrast": "The live fork is who “the elect” are and why Paul suffers for them. Arminians typically hear those God foreknows will believe—the people he intends to save through the gospel—so that they obtain salvation. Reformed readers typically hear particular persons chosen unconditionally, for whom Paul endures so that they obtain the salvation secured for them in Christ."
+    },
+    {
+      "number": 11,
+      "text": "The saying is trustworthy, for:\nIf we have died with him, we will also live with him;",
+      "arminianNotes": "The saying is trustworthy. Wesley: Dead with him—dead to sin, and ready to die for him. Died with him is union that shows in dying to sin and in willingness to die for Christ; live with him is the matching promise.\n\nArminian union: dying and living are a real participation, not a slogan. The trustworthy saying invites all who are in Christ to this pattern. Life with him is promised to those who have died with him—a living bond that must be continued, not a past label only.",
+      "reformedNotes": "Calvin: we shall not be partakers of the life and glory of Christ unless we have previously died and been humbled with him; all the elect were predestinated that they might be conformed to his image. It is a faithful saying, for nothing is more opposite to the flesh than that we must die in order to live.\n\nReformed union: death with Christ is the elect’s conformity to the Son, both in inward mortification and in outward affliction. The promise of life is as sure as the saying is faithful. God has predestined this shape; the verse comforts sufferers rather than bargaining for life."
+    },
+    {
+      "number": 12,
+      "text": "if we endure, we will also reign with him;\nif we deny him, he also will deny us;",
+      "arminianNotes": "If we endure, we will also reign; if we deny him, he also will deny us. Wesley: If we deny him—to escape suffering for him. Both clauses are as real as each other: endurance has a throne in view; denial has Christ’s denial in view.\n\nArminian seriousness: the warning is not theater. A true believer may deny the Lord to escape the cross, and Christ will deny that person. Reigning is promised to those who endure, not to those who once began and then disown him. The threat is a genuine possibility of apostasy, not a scarecrow over an unlosable state.",
+      "reformedNotes": "Calvin: a threatening is added to shake off sloth; they who, through dread of persecution, leave off the confession of his name have no part or lot with Christ. The words of Christ are clear: whoever shall deny me, him will I also deny. This is no childish terror; the Judge will prove it true.\n\nReformed seriousness: both camps take the warning as real. Denial does not mean the elect finally fall; it proves the denier was not persevering, not Christ’s in the saving sense. Yet the warning is a means God uses to keep his own in endurance toward the reign. Excuse of mere weakness is no shelter; unbelief is in the denial.",
+      "keyContrast": "Both take “if we deny him, he also will deny us” as a real warning, not a bluff. Arminians typically hear possible apostasy of true believers who disown Christ to escape suffering. Reformed readers typically hear that denial shows one was not persevering or elect—while God still uses the warning to keep his people."
+    },
+    {
+      "number": 13,
+      "text": "if we are faithless, he remains faithful—\nfor he cannot deny himself.",
+      "arminianNotes": "If we are faithless, he remains faithful—for he cannot deny himself. Wesley: If we believe not—that is, though some believe not, God will make good all his promises to them that do believe. He cannot deny himself—his word cannot fail.\n\nArminian reading: God’s faithfulness is his fidelity to the gospel promise, not a safety net under unbelief. He remains faithful to those who believe; his word cannot fail. Faithlessness of some does not cancel the promise to others, and it does not turn infidelity into a secret form of being kept.",
+      "reformedNotes": "Calvin: if we are unbelieving, he remaineth faithful; our base desertion takes nothing from the Son of God, for when they perish he remaineth unchanged. He cannot deny himself: Christ is not like us, to swerve from his truth. Our faith is founded on the eternal and unchangeable truth of Christ, that it may not waver through the apostasy of men.\n\nReformed reading: God’s fidelity to his elect and his covenant cannot fail even when we falter. He cannot deny his own character. Desertion does not diminish Christ; those who finally deny him are disowned, while the foundation of faith is Christ’s unchangeable truth, not our steadiness.",
+      "keyContrast": "The fork is how “if we are faithless, he remains faithful” relates to the denial of v. 12. Wesley hears God making good his promises to those who do believe, his word unable to fail. Reformed readers hear God’s fidelity to his elect and covenant—and to his own character—which cannot fail even when we falter, without turning final unbelief into salvation."
+    }
+  ]
+}
