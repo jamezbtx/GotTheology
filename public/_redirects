@@ -13,3 +13,5 @@
 /1-timothy/*      /bible/1-timothy/:splat     301
 /2-timothy        /bible/2-timothy/           301
 /2-timothy/*      /bible/2-timothy/:splat     301
+/titus              /bible/titus/              301
+/titus/*            /bible/titus/:splat        301

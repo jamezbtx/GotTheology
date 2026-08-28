@@ -1,0 +1,58 @@
+{
+  "book": "Titus",
+  "bookSlug": "titus",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 4,
+  "translation": "ESV",
+  "title": "Titus 1:1–4",
+  "context": "Paul greets Titus as his true child in a common faith, naming himself a servant of God and an apostle of Jesus Christ for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness. Eternal life was promised by the God who never lies before the ages began, and at the proper time manifested in his word through the preaching entrusted to Paul by the command of God our Savior.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on apostleship for the faith of God’s elect, the hope of eternal life, and a true child in a common faith—so each camp speaks in its own voice beside Titus 1:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "According to the faith—The propagating of which is the proper business of an apostle. Of the elect of God—Of all real Christians. In hope of eternal life—The grand motive and encouragement of every apostle and every servant of God. Which God promised before the world began—To Christ, our Head. And he hath in his own times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour. My own son—Begot in the same image of God. The common faith—Common to me and all my spiritual children.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Titus 1:1–4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "According to the faith of the elect of God. There is a mutual agreement between my apostleship and the faith of the elect of God; and, therefore, it will not be rejected by any man who is not a reprobate and opposed to the true faith. By the elect he means not only those who were at that time alive, but all that had been from the beginning of the world. Though all indiscriminately boast of the name of God, there are many of that multitude who are reprobates. Salvation was given or decreed for the elect of God before times began to flow. Who cannot lie. Whenever the subject treated of is our salvation, we ought to recollect that it is founded on the word of Him who can neither deceive nor lie.",
+        "cite": "John Calvin",
+        "source": "Commentary on Titus (on Titus 1:1–4)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, a servant of God and an apostle of Jesus Christ, for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness,",
+      "arminianNotes": "Paul is servant and apostle for the sake of the faith of God’s elect and their knowledge of the truth that accords with godliness. Wesley: the propagating of that faith is the proper business of an apostle; the elect of God are all real Christians.\n\nArminian “elect”: those who believe, the people in Christ. Apostleship serves a living faith and a knowledge of the truth that produces godliness—not a closed list that makes preaching optional. The faith is to be spread; the elect are those who actually believe.",
+      "reformedNotes": "Calvin: there is a mutual agreement between Paul’s apostleship and the faith of the elect of God; it will not be rejected by any man who is not a reprobate and opposed to the true faith. By the elect he means not only those then alive, but all from the beginning of the world. Though many boast the name of God, many of that multitude are reprobates.\n\nReformed “elect”: God’s chosen, distinguished from the reprobate. Apostleship agrees with the faith of those God has chosen; knowledge of the truth that accords with godliness is the elect’s fruit, not a self-made credential.",
+      "keyContrast": "The live fork is who “the elect” are and why Paul is apostle for their faith. Arminians typically hear those who believe—the people in Christ, all real Christians—so that they obtain the knowledge of the truth. Reformed readers typically hear particular persons chosen unconditionally, distinguished from the reprobate, for whom the apostleship agrees with their faith."
+    },
+    {
+      "number": 2,
+      "text": "in hope of eternal life, which God, who never lies, promised before the ages began",
+      "arminianNotes": "In hope of eternal life: Wesley called this the grand motive and encouragement of every apostle and every servant of God. God, who never lies, promised it before the ages began—to Christ, our Head.\n\nArminian hope: the promise is as old as God’s purpose in Christ, and it lands as hope for those who believe. Eternal life is not a guess; it is promised by a God who cannot lie, and it is held in hope as the church walks in the faith of v. 1.",
+      "reformedNotes": "Calvin: salvation was given or decreed for the elect of God before times began to flow. Who cannot lie: whenever the subject is our salvation, we ought to recollect that it is founded on the word of Him who can neither deceive nor lie.\n\nReformed hope: eternal life is as old as God’s decree for the elect, and as sure as God’s truthfulness. The promise before the ages is not a bare possibility; it is a word that cannot fail those for whom it was decreed."
+    },
+    {
+      "number": 3,
+      "text": "and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of God our Savior;",
+      "arminianNotes": "At the proper time God manifested his word through preaching entrusted to Paul by the command of God our Savior. Wesley: he hath in his own times manifested his word through preaching, committed unto me according to the commandment of God our Saviour.\n\nArminian mission: the hidden promise becomes public in preached word. God our Savior commands a gospel that is actually to be heard; the proper time has arrived. Entrustment does not shrink the audience; it sends a servant.",
+      "reformedNotes": "The promise before the ages is now manifested in his word through preaching. Command of God our Savior names both the source and the timing.\n\nReformed manifestation: what was decreed is not left secret. God appoints the time, the word, and the preacher. The elect come to knowledge of the truth by this means; the command is as sovereign as the promise."
+    },
+    {
+      "number": 4,
+      "text": "To Titus, my true child in a common faith: Grace and peace from God the Father and Christ Jesus our Savior.",
+      "arminianNotes": "Titus is a true child in a common faith. Wesley: my own son—begot in the same image of God; the common faith is common to me and all my spiritual children. Grace and peace come from God the Father and Christ Jesus our Savior.\n\nArminian pastoral: common faith is shared, living, and begetting. Titus is not a mere assistant; he is a son in the gospel he received, and the greeting is real gift for a real charge in Crete.",
+      "reformedNotes": "True child in a common faith is high praise and public authorization. Grace and peace flow from the Father and Christ Jesus our Savior.\n\nReformed instinct: God begets; Paul is the minister through whom Titus was brought into the common faith. The same Savior named in v. 3 now blesses the son who will appoint elders. Standing and supply are from God."
+    }
+  ]
+}
