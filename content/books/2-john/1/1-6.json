@@ -1,0 +1,70 @@
+{
+  "book": "2 John",
+  "bookSlug": "2-john",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "2 John 1:1–6",
+  "context": "The elder writes to the elect lady and her children: love in the truth that abides forever; grace, mercy, and peace from the Father and the Father’s Son; joy that some of her children walk in the truth; then the old commandment, that we love one another—and this is love, that we walk according to his commandments.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the elect lady, truth that abides, and love that walks the old commandment—so each camp speaks in its own voice beside 2 John 1:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named. Calvin left no commentary on 2 John; the Reformed voice here is his comment on the same love-and-commandment teaching in 1 John, which this letter repeats.",
+    "arminian": [
+      {
+        "quote": "The elder—an appellation suited to a familiar letter, but upon a weighty subject. To the elect—that is, Christian. Kuria is undoubtedly a proper name. Whom—both her and her children—I love in the truth, with unfeigned and holy love. Walking in the truth—in faith and love. And this is the proof of true love, universal obedience built on the love of God. This love is the great commandment which ye have heard from the beginning of our preaching.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 John 1–6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This is the love of God, that we keep his commandments. The love of God is not idle or inactive. When we love God as our Father and Lord, reverence must be connected with love. The first thing is that our hearts should be devoted to God in willing reverence, and then that our life should be formed according to the rule of the law. John writes no new commandment, but an old commandment which ye had from the beginning: he taught nothing respecting love but what had been heard by the faithful from the beginning.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 5:3; 2:7)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The elder to the elect lady and her children, whom I love in truth, and not only I, but also all who know the truth,",
+      "arminianNotes": "The elder writes to the elect lady and her children. Wesley: elect—that is, Christian. Kuria is a proper name, not an imperial “lady”; the title would not have suited apostolic simplicity. He loves her and her children in the truth, with unfeigned and holy love; not he only, but all who have known the truth.\n\nDo not turn a greeting into a predestination treatise. Wesley’s “elect” here is an honorific for a Christian woman (and her household), not a treatise on unconditional choice. Shared: she is addressed as belonging to the people of God in the truth. The letter’s weight is truth and love, not a fight over the word elect in a salutation.",
+      "reformedNotes": "The elder to the elect lady and her children. Calvin did not comment this verse; later Reformed readers have taken the phrase either as an honored Christian woman or as a local church under a household name. In either case it is a title of honor for those in the truth, not a cue to unload Romans 9 onto a greeting.\n\nShared with Wesley: elect names the addressee as Christ’s, loved in truth by the elder and by all who know the truth. If the notes part at all, it is only the later habit of hearing “elect” as God’s choosing; this verse itself does not argue conditional versus unconditional choosing. Leave the greeting a greeting."
+    },
+    {
+      "number": 2,
+      "text": "because of the truth that abides in us and will be with us forever:",
+      "arminianNotes": "Because of the truth that abides in us and will be with us forever. Wesley: for the truth’s sake, which abides in us as a living principle of faith and holiness.\n\nThe ground of the love in v. 1 is not temperament but the truth that lives in the household and does not expire. Forever is the gospel’s duration, not a slogan. Those who know the truth love because that truth remains.",
+      "reformedNotes": "The truth abides in us and will be with us forever. Calvin on the Johannine letters: the word heard from the beginning is to remain, and remaining in it is remaining in the Son and the Father.\n\nReformed accent: abiding truth is Christ’s own, not a passing mood of the household. Forever matches the promise, not our grip. Love in the truth (v. 1) has this as its cause: the truth God has planted, which outlasts the letter."
+    },
+    {
+      "number": 3,
+      "text": "Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ the Father’s Son, in truth and love.",
+      "arminianNotes": "Grace, mercy, and peace will be with us, from the Father and from Jesus Christ the Father’s Son, in truth and love. Wesley: grace takes away guilt; mercy, misery; peace implies abiding in grace and mercy—the testimony of God’s Spirit that we are His children, a foretaste of heaven. Truth and love: faith and love.\n\nThe blessing is Trinitarian in shape and already “with us,” not a maybe. Father’s Son guards the same Christ 1 John confessed. Truth and love are the atmosphere of the gift, matching the walk that follows.",
+      "reformedNotes": "Grace, mercy, and peace from the Father and from Jesus Christ the Father’s Son. The Son is named from the Father so that the greeting is already a small creed: the man Jesus is the Father’s Son, in truth and love.\n\nReformed hearing: these gifts come from God, not from the lady’s quality. “Will be with us” is promise, the same God who keeps truth forever (v. 2). In truth and love locates the gifts where 1 John already located life: not speculation, but the Son known and loved."
+    },
+    {
+      "number": 4,
+      "text": "I rejoiced greatly to find some of your children walking in the truth, just as we were commanded by the Father.",
+      "arminianNotes": "He rejoiced greatly to find some of her children walking in the truth, as commanded by the Father. Wesley: probably found in their aunt’s house (v. 13); walking in the truth—in faith and love.\n\nMatch 1 John: knowing is proved by walking, not by a slogan. Some of the children walk: joy is real, and so is the implication that walking can be missing. The commandment is the Father’s. Truth is a path you are on, or you are not.",
+      "reformedNotes": "Joy at children walking in the truth, as the Father commanded. Calvin: the knowledge of God derived from the gospel is not ineffectual; obedience proceeds from it. He that saith he abides in Him ought to walk as He walked.\n\nReformed accent: walking is fruit of the truth that abides (v. 2), not a ladder into it. “Some” of the children: the elder’s joy is evidence, not flattery. The Father’s commandment is the same old word 1 John called old and new. Shared with Wesley: truth is walked."
+    },
+    {
+      "number": 5,
+      "text": "And now I ask you, dear lady—not as though I were writing you a new commandment, but the one we have had from the beginning—that we love one another.",
+      "arminianNotes": "He asks the dear lady—not a new commandment, but the one from the beginning—that we love one another. Wesley: from the beginning of our Lord’s ministry; indeed, in some sense from the beginning of the world. That we may love one another more abundantly.\n\nMatch 1 John 2:7–8: old as first hearing, new as always in force. Love is the request, not a novelty for a new crisis. The lady is asked as a household already in the truth, to keep the first word.",
+      "reformedNotes": "No new commandment, but the old one from the beginning: that we love one another. Calvin: he taught nothing respecting love but what had been heard by the faithful from the beginning and had by long usage become old. Novelty is disliked; this yoke is not unwonted.\n\nReformed match to 1 John 2:7: the gospel’s first elements, from Christ Himself. Love one another is not a late extra. The elder is not inventing a rule for this house; he is recalling the word they already had."
+    },
+    {
+      "number": 6,
+      "text": "And this is love, that we walk according to his commandments; this is the commandment, just as you have heard from the beginning, so that you should walk in it.",
+      "arminianNotes": "This is love: that we walk according to His commandments. Wesley: this is the proof of true love, universal obedience built on the love of God. This love is the great commandment heard from the beginning of their preaching, that they should walk in it.\n\nMatch 1 John 5:3 and 2:3–6: love is not a slogan. It is walked commandment, the same word from the beginning. Classical Arminians hear a path that can be walked in—or neglected. The proof is obedience on the ground of God’s love, not a feeling that never takes a step.",
+      "reformedNotes": "This is the love of God, that we keep His commandments. Calvin: the love of God is not idle or inactive. Hearts devoted in willing reverence, then a life formed to the law. He confines to God’s children that the commandments are not grievous: it comes through the power of the Spirit that obeying God is not wearisome.\n\nReformed match to 1 John 5:3: love is keeping, and keeping is possible because the Spirit and paternal pardon sustain the children of God. Walking in the old commandment is fruit of abiding truth, not a self-made ladder. Shared with Wesley: this is love—that we walk. The slight fork is whether the walk is proof a believer must not neglect, or the Spirit-wrought life of those born of God.",
+      "keyContrast": "Arminian readings, with Wesley, take “this is love, that we walk according to his commandments” as the proof of true love: universal obedience built on the love of God, a path that can be walked in or neglected. Reformed readings, with Calvin on the same Johannine sentence, take love as not idle: hearts and life formed to the commandment by the Spirit in God’s children, fruit of the gospel rather than a ladder into it."
+    }
+  ]
+}

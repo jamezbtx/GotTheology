@@ -1,0 +1,76 @@
+{
+  "book": "Daniel",
+  "bookSlug": "daniel",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Daniel 1:1–7",
+  "context": "In Jehoiakim’s third year Nebuchadnezzar besieges Jerusalem. The Lord gives the king of Judah into his hand, with vessels of the house of God carried to Shinar. Chosen youths of Israel are taken for the palace, trained in Chaldean learning, assigned the king’s food, and renamed. Among them are Daniel, Hananiah, Mishael, and Azariah of Judah.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a siege the Lord gave, vessels carried to Shinar, and names the palace laid on Judah’s youths—so each camp speaks in its own voice beside Daniel 1:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "With part of the vessels—in this expedition Nebuchadnezzar carried away some captives, among whom were Daniel and his friends. His god—Baal, or Bell, and Nebo. Of the princes—here was fulfilled what the prophet Isaiah had foretold. Gave names—that is, other names, relating to the idol-gods. Belteshazzar—so Daniel had the name of Belteshazzar, from the great Babylonian idol Baal or Bell. This was by the king’s command, and herein he put forth an act of his sovereignty.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Dan 1:2–7)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Daniel clearly asserts that King Nebuchadnezzar did not possess Jerusalem, and was not the conqueror of the nation by his own valor, or counsel, or fortune, or good luck, but because God wished to humble his people. Therefore Daniel here sets before us the providence and judgments of God, that we may not think Jerusalem to have been taken in violation of God’s promise to Abraham. God, therefore, exposed him as a prey that he might punish him for the revolt of his impious people.",
+        "cite": "John Calvin",
+        "source": "Commentary on Daniel (on Dan 1:1–2)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.",
+      "arminianNotes": "Third year of Jehoiakim: Babylon comes and besieges. Wesley will mark the captives of this expedition, among whom Daniel and his friends. The siege is a historical act of an empire, not a sermon against “empire” as a modern slogan.\n\nArminian reading: real armies, real walls, real years. Human agency is not canceled by the next verse’s “the Lord gave.” The Most High will be confessed as ruler; the siege is still a king’s doing under that rule.",
+      "reformedNotes": "Calvin labors the chronology (father and son Nebuchadnezzars, Jehoiakim’s years) because the event is real history under providence, not a myth. The coming is by command and direction, yet still a coming.\n\nReformed reading: second causes stand. The siege is not a bare stage-play. Shared with Wesley: Jerusalem was actually besieged. The fork waits on v. 2’s “gave.”"
+    },
+    {
+      "number": 2,
+      "text": "And the Lord gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God. And he brought them to the land of Shinar, to the house of his god, and placed the vessels in the treasury of his god.",
+      "arminianNotes": "And the Lord gave Jehoiakim into his hand, with some of the vessels. Wesley: in this expedition captives were carried, Daniel among them; the god is Baal or Bel and Nebo. The vessels go to Shinar, to a house that is not the Lord’s.\n\nArminian sovereignty: the Most High rules—this giving is real. It does not empty Nebuchadnezzar of agency or Judah of blame. God governs a world in which a king can besiege and a people can fall, without making the human yes and no puppet-strings. The promise to Abraham is not canceled; it is judged through. Match the hub: a King who governs, provides, and judges, leaving creaturely choice as a real second cause.",
+      "reformedNotes": "Calvin: not by his own valor, counsel, fortune, or good luck, but because God wished to humble his people. Providence and judgments, so we may not think the taking violated the promise. Under the name of God a silent antithesis: He did not deliver Jehoiakim without just reason. Vessels of the temple in a pagan treasury would shock; Daniel recalls us to the judgment of God.\n\nReformed sovereignty: effectual rule, not a bare permission after the fact. No random power in the creatures. The giving is the King’s actual hand, including the means—the siege, the exile, the house of Shinar. Second causes remain; they are established, not erased. Match the hub: nothing happens but what He has knowingly and willingly decreed, yet He is not the author of Judah’s revolt.",
+      "keyContrast": "Both confess the Most High rules: “the Lord gave.” Arminians typically hear real human agency under that rule—the siege and the sin are Judah’s and Babylon’s, governed without irresistible determination of every choice. Reformed readers typically hear effectual providence, not a bare permission: Nebuchadnezzar did not take the city by luck, because God wished to humble His people (Calvin)."
+    },
+    {
+      "number": 3,
+      "text": "Then the king commanded Ashpenaz, his chief eunuch, to bring some of the people of Israel, both of the royal family and of the nobility,",
+      "arminianNotes": "The king commands Ashpenaz to bring some of Israel, of the royal family and nobility. Wesley: eunuchs as chief servants; of the princes, Isaiah 39:7 fulfilled.\n\nArminian court: a conqueror’s policy, not a culture-war on palaces. Isaiah’s word coming true is providence meeting a king’s command. Hostages of rank are still persons who will resolve in v. 8.",
+      "reformedNotes": "Calvin: not from the ordinary multitude but principal nobility, that he might show himself a conqueror and retain hostages. He hoped they would degenerate and become useful, and that the Jews would be more peaceable.\n\nReformed court: the king consults his advantage. God is still the giver of v. 2; this command is inside that giving. Shared: nobles taken, prophecy standing."
+    },
+    {
+      "number": 4,
+      "text": "youths without blemish, of good appearance and skillful in all wisdom, endowed with knowledge, understanding learning, and competent to stand in the king's palace, and to teach them the literature and language of the Chaldeans.",
+      "arminianNotes": "Youths without blemish, skilled, to learn the literature and language of the Chaldeans. Wesley: the Chaldeans skilled above others in natural philosophy; the tongue differed in dialect; they learned it to be more acceptable to king and court.\n\nArminian learning: language is a bond, and a snare if it erases Judah. Competence is not sin. The test will be whether the literature owns them.",
+      "reformedNotes": "Calvin: rank plus cleverness. Learning and liberal arts were not despised. Chaldean learning mixed true star-knowledge with imposture; Daniel might learn liberal science as Moses the sciences of Egypt, yet abstain from diabolic arts. The king wished them to forget Jewish birth by degrees.\n\nReformed learning: God can adorn His servants with skill without approving magic. Shared: they are to be taught; the heart is not yet renamed."
+    },
+    {
+      "number": 5,
+      "text": "The king assigned them a daily portion of the food that the king ate, and of the wine that he drank. They were to be educated for three years, and at the end of that time they were to stand before the king.",
+      "arminianNotes": "A daily portion of the king’s food and wine; three years, then stand before the king. Wesley: such as he had at his own table.\n\nArminian table: assigned food is policy, not yet defilement until the resolve of v. 8 names it. Three years is a long catechism in another court. Agency will show in what they will not eat.",
+      "reformedNotes": "Calvin: that they might be intoxicated with delicacies and forget their nation. Not liberality: he cleverly reconciles the boys to be reckoned Chaldeans rather than Jews.\n\nReformed table: a snare of the court inside providence. Shared: the king’s meat is assigned; standing before him is the aim. No diet-war as a modern cause."
+    },
+    {
+      "number": 6,
+      "text": "Among these were Daniel, Hananiah, Mishael, and Azariah of the tribe of Judah.",
+      "arminianNotes": "Among these: Daniel, Hananiah, Mishael, Azariah of Judah. Wesley: probably all of the royal lineage of Judah.\n\nArminian names: four youths, not a party. Judah is still their tribe under Babylon’s roof. The story will be theirs without making the rest of the captives a foil for politics.",
+      "reformedNotes": "Calvin: he comes to what belongs to his purpose—how God prepared him for the prophetic office. He does not say he was of the royal house, only of Judah; perhaps modestly. He leaves out the rest because he had nothing to record of them here.\n\nReformed names: God is already distinguishing servants He will use. Shared: four from Judah, among many."
+    },
+    {
+      "number": 7,
+      "text": "And the chief of the eunuchs gave them names: Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego.",
+      "arminianNotes": "The chief eunuch gives names: Belteshazzar, Shadrach, Meshach, Abednego. Wesley: other names relating to the idol-gods; Daniel from Baal or Bel. This was by the king’s command, and herein he put forth an act of his sovereignty.\n\nArminian renaming: a king’s sovereignty is real and limited. He can relabel; he cannot finally unmake worshipers of the Lord. The act is an empire’s, not a cue for a culture fight about identity. Daniel will keep the God of Israel under a Babylonian name.",
+      "reformedNotes": "Calvin: names changed that by all means the king might blot out remembrance of their race. Hard trial: a badge of slavery as often as they heard their names. They could not hinder the change; they had enough to retain the remembrance of their race, which Satan wished to blot out. Divinely governed, they stood pure and spotless.\n\nReformed renaming: the palace’s sovereignty is inside a higher one. Shared: the names are given; the fear of God is not. The youths remain Daniel, Hananiah, Mishael, Azariah before the Lord."
+    }
+  ]
+}

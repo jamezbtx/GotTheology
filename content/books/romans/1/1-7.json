@@ -1,0 +1,77 @@
+{
+  "book": "Romans",
+  "bookSlug": "romans",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Romans 1:1–7",
+  "context": "Paul opens as servant and apostle, set apart for the gospel God promised beforehand through the prophets concerning his Son—descended from David according to the flesh, declared Son of God in power by the resurrection. Through Christ he has received grace and apostleship to bring about the obedience of faith among all the nations, and he greets those in Rome who are loved by God and called to be saints.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on apostleship, the obedience of faith among the nations, and those loved by God and called to be saints—so each camp speaks in its own voice beside Romans 1:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Paul, a servant of Jesus Christ—called to be an apostle, and made an apostle by that calling. While God calls, he makes what he calls. Separated by God to be a peculiar instrument of God in spreading the gospel. By whom we have received grace and apostleship—the favour to be an apostle, and qualifications for it. For obedience to the faith in all nations—that is, that all nations may embrace the faith of Christ. Beloved of God—and from his free love, not from any merit of yours, called by his word and his Spirit to believe in him, and now through faith holy as he is holy. Grace—the peculiar favour of God. And peace—all manner of blessings, temporal, spiritual, and eternal.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Romans 1:1, 5, 7)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By saying that he was servant of Christ, he declared what he had in common with other teachers; by claiming the title of an Apostle, he put himself before others; but as no authority is due to him who willfully intrudes himself, he reminds us that he was appointed by God. For the obedience of faith: we have received a command to preach the gospel among all nations, and this gospel they obey by faith. The name of obedience is given to faith because the Lord calls us by his gospel; we respond to his call by faith. Paul ascribes the praise of our salvation not to ourselves, but derives it altogether from the fountain of God’s free and paternal love: he makes this the first thing—God loves us; and what is the cause of his love, except his own goodness alone? On this depends our calling, by which in his own time he seals his adoption to those whom he had before freely chosen.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Romans 1:1, 5, 7)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God,",
+      "arminianNotes": "Wesley: Paul, a servant of Jesus Christ—called to be an apostle, and made an apostle by that calling. While God calls, he makes what he calls. Separated by God, not only from other men and other teachers, to be a peculiar instrument in spreading the gospel.\n\nClassical Arminians hear vocation as God’s real making, not Paul’s self-appointment. The office is gift; do not invent a Pelagian Paul who climbed into apostleship. “Called” here is commission to preach the gospel of God, so that the nations may hear and believe. Set apart is unto a public message, not a private honor.",
+      "reformedNotes": "Calvin: by saying servant of Christ, Paul named what he shared with other teachers; by claiming Apostle he put himself before others; yet no authority is due to one who willfully intrudes, so he reminds us he was appointed by God.\n\nReformed reading: the gospel is God’s, and the messenger is God’s appointment. Set apart is not a human career. The same God who sends the apostle is the God who will love and call a people (v. 7). Apostleship is given; it is not seized."
+    },
+    {
+      "number": 2,
+      "text": "which he promised beforehand through his prophets in the holy Scriptures,",
+      "arminianNotes": "The gospel is not Paul’s novelty. God promised it beforehand through his prophets in the holy Scriptures. Wesley’s Paul is servant of a message already written.\n\nClassical Arminians hear continuity: Moses and the prophets already announced the Christ who would be preached to the nations. The Scriptures are public; the promise is for hearers who will believe. This is holy writing God meant to be read and trusted, not a secret book for a hidden list.",
+      "reformedNotes": "Calvin’s Paul stands under the prophets. The gospel he is set apart for is the one God already promised. Scripture is the church’s given word, not an apostle’s experiment.\n\nReformed accent: promised beforehand means the same God who later calls and justifies has been speaking all along. The holy Scriptures bind the messenger. What God promised, He will perform for those He has loved."
+    },
+    {
+      "number": 3,
+      "text": "concerning his Son, who was descended from David according to the flesh",
+      "arminianNotes": "The gospel concerns God’s Son, descended from David according to the flesh. The Messiah is truly human, of David’s line, as the promises required.\n\nClassical Arminians glory in the incarnation as sincerely for the world the Son came to save. David’s son is the Christ the nations may embrace (v. 5). Flesh here is not a lesser nature; it is the real humanity in which He is kin to those He calls to believe.",
+      "reformedNotes": "The gospel concerns the Son—David’s descendant according to the flesh. Calvin’s Christ is true man of the promised line, so that the promises to David are not spiritualized away.\n\nReformed confession: according to the flesh names His true humanity and royal descent. The same Son will be declared in power (v. 4). The gospel is about this person, not a method. Those the Father loves are called into belonging to this Christ."
+    },
+    {
+      "number": 4,
+      "text": "and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,",
+      "arminianNotes": "He was declared Son of God in power according to the Spirit of holiness by the resurrection. Wesley’s gospel is this Jesus—David’s son and risen Lord.\n\nClassical Arminians hear the resurrection as public declaration: the same Jesus who may be believed among all nations is Lord. Power here is the Spirit’s, not our climb. Lordship is preached so that faith may obey (v. 5); it is not a private coronation.",
+      "reformedNotes": "Declared Son of God in power by the resurrection, according to the Spirit of holiness. Calvin’s Christ is openly marked as the Son—not made Son at Easter, but declared in power.\n\nReformed accent: Jesus Christ our Lord is the risen one God has appointed. The Spirit of holiness attests Him. Those who will be called saints (v. 7) are called into this Lord’s belonging; the declaration is God’s act, and faith answers it."
+    },
+    {
+      "number": 5,
+      "text": "through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,",
+      "arminianNotes": "Through Christ they received grace and apostleship. Wesley: the favour to be an apostle, and qualifications for it. For obedience to the faith in all nations—that is, that all nations may embrace the faith of Christ. The aim is the nations actually believing.\n\nClassical Arminians hear a sincere wideness: apostleship exists so that all nations may embrace the faith. “Obedience of faith” is living trust that obeys the gospel’s call—not a wage, and not a hidden circle. Grace enables the embrace; it does not shrink “all the nations” into those already chosen. For the sake of his name: the honor of Christ among peoples who may yet believe.",
+      "reformedNotes": "Calvin: we have received a command to preach the gospel among all nations, and this gospel they obey by faith. The name of obedience is given to faith because the Lord calls us by his gospel; we respond to his call by faith.\n\nReformed reading: the nations are the field of preaching; faith is the obedience that answers God’s call. The gospel is commanded to be preached widely; those who believe are those who respond because the Lord has called. Apostleship is grace received, not a human project. Faith is obedience to the call, not an independent lever that makes the call take.",
+      "keyContrast": "Both confess grace-given apostleship aimed at the obedience of faith among all nations, and both refuse a gospel of works. Arminians typically hear that all nations may embrace the faith of Christ—a sincere aim as wide as the preaching. Reformed readers typically hear the same wide command to preach, with faith as the obedience by which we respond to God’s call—not a condition that originates the belonging."
+    },
+    {
+      "number": 6,
+      "text": "including you who are called to belong to Jesus Christ,",
+      "arminianNotes": "Including you who are called to belong to Jesus Christ. The Roman believers sit inside the “all nations” of v. 5. Wesley’s “called” is by the word and the Spirit to believe (v. 7).\n\nClassical Arminians hear “called” as the gospel’s real summons: they were invited to belong, and by grace they believed. Belonging is through faith, not a prior secret membership merely announced. The “you” of Rome is proof that the nations are actually being gathered as they embrace the faith.",
+      "reformedNotes": "“Called to belong” is not a bare invitation left hanging. Calvin’s calling seals adoption. These Romans are addressed as those Christ has claimed.\n\nReformed accent: called here is the effectual naming of a people who belong to Jesus Christ. The same God who appointed the apostle (v. 1) has called hearers into the Son’s possession. Do not flatten this into a mere external advertisement; belonging is God’s work in those He addresses as His."
+    },
+    {
+      "number": 7,
+      "text": "To all those in Rome who are loved by God and called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+      "arminianNotes": "To all in Rome loved by God and called to be saints. Wesley: beloved of God—and from his free love, not from any merit of yours, called by his word and his Spirit to believe in him, and now through faith holy as he is holy. Grace is the peculiar favour of God; peace, all manner of blessings.\n\nClassical Arminians refuse Pelagian merit here as firmly as any Calvinist: love is free, not from their worth. “Called” is by word and Spirit to believe; holiness is through faith. Loved and called are as wide as those who hear and believe in Rome—not a smaller circle inside the greeting. Saints are those made holy through believing. Do not flatten called into elect irrespective of faith; do not invent a greeting earned by prior goodness.",
+      "reformedNotes": "Calvin: Paul ascribes the praise of our salvation not to ourselves but to the fountain of God’s free and paternal love. He makes this the first thing—God loves us; and what is the cause of his love, except his own goodness alone? On this depends our calling, by which in his own time he seals his adoption to those whom he had before freely chosen.\n\nReformed confession: loved is first; the cause is God’s goodness alone. Calling is not the origin of the love; it seals adoption for those previously freely chosen. Do not flatten “called” into a mere invitation that creates the elect. Saints are those God loved and then called. Grace and peace flow from the Father and the Lord Jesus to this people.",
+      "keyContrast": "Both ascribe love and holiness to God’s free goodness, not to human merit, and both refuse a Pelagian greeting. Arminians typically hear free love that calls by word and Spirit to believe, holiness through faith—the called are those who so believe. Reformed readers typically hear love whose cause is God’s goodness alone, calling as the seal of adoption upon those previously freely chosen."
+    }
+  ]
+}

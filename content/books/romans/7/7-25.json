@@ -1,0 +1,152 @@
+{
+  "book": "Romans",
+  "bookSlug": "romans",
+  "chapter": 7,
+  "verseStart": 7,
+  "verseEnd": 25,
+  "translation": "ESV",
+  "title": "Romans 7:7–25",
+  "context": "Paul asks if the law is sin, traces how the commandment exposed and aggravated sin, then the “I” who is of the flesh, sold under sin, delights in the law yet cannot do it—a wretched man longing for deliverance through Jesus Christ our Lord.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the law, sin, and the divided “I”—so each camp speaks in its own voice beside Romans 7:7–25.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "This is a kind of a digression, to the beginning of the next chapter, wherein the apostle, in order to show in the most lively manner the weakness and inefficacy of the law, changes the person and speaks as of himself, concerning the misery of one under the law. This St. Paul frequently does, when he is not speaking of his own person, but only assuming another character. The character here assumed is that of a man, first ignorant of the law, then under it and sincerely, but ineffectually, striving to serve God. To have spoken this of himself, or any true believer, would have been foreign to the whole scope of his discourse; nay, utterly contrary thereto, as well as to what is expressly asserted, Rom 8:2. St. Paul interweaves the whole process of a man reasoning, groaning, striving, and escaping from the legal to the evangelical state. Sold under sin—totally enslaved. Wretched man that I am—the struggle is now come to the height; and the man, finding there is no help in himself, begins almost unawares to pray, Who shall deliver me? We may observe, the deliverance is not wrought yet. I thank God through Jesus Christ our Lord—that is, God will deliver me through Christ. I myself—or rather that I, the person whom I am personating, till this deliverance is wrought. The man is now utterly weary of his bondage, and upon the brink of liberty.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 7:7–25)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He then sets before us an example in a regenerate man, in whom the remnants of the flesh are wholly contrary to the law of the Lord, while the spirit would gladly obey it. He now comes to a more particular case, that of a man already regenerated. This conflict does not exist in man before he is renewed by the Spirit of God: for man, left to his own nature, is wholly borne along by his lusts without any resistance. The godly, in whom the regeneration of God is begun, are so divided, that with the chief desire of the heart they aspire to God, seek celestial righteousness, hate sin, and yet they are drawn down to the earth by the relics of their flesh. Paul does not here set before us simply the natural man, but in his own person describes what is the weakness of the faithful, and how great it is. Augustine retracted what he had falsely taught, and proved that what is said cannot be applied to any but to the regenerate. The faithful never reach the goal of righteousness as long as they dwell in the flesh, but they are running their course, until they put off the body.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Rom 7:14–25)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 7,
+      "text": "What then shall we say? That the law is sin? By no means! Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, “You shall not covet.”",
+      "arminianNotes": "Paul asks whether the law is sin. Wesley: this begins a digression to the next chapter, in which the apostle assumes the character of a man first ignorant of the law, then under it and sincerely, but ineffectually, striving to serve God. The law is not sin; it made lust known—evil desire that did not appear until stirred by the prohibition.\n\nClassical Arminians agree that the law is not the culprit. Knowledge of sin comes by the commandment. The “I” is already Wesley’s assumed speaker of 7:7–25: not the gospel-believer walking in the Spirit (8:2), but the man the law is exposing.",
+      "reformedNotes": "Calvin: “Is the law sin?” means, Does it so produce sin that its guilt ought to be imputed to the law? Sin dwells in us, not in the law; we come to know it by the knowledge of God’s righteousness revealed in the law. Coveting lay hidden under hypocrisy until the tenth commandment named it.\n\nReformed pastoral: the law’s work is holy diagnosis. Men retain a distinction in external works; coveting is more hidden. Paul is not blaming Moses; he is confessing how the commandment found him out. Both camps refuse to make the law the sinner."
+    },
+    {
+      "number": 8,
+      "text": "But sin, seizing an opportunity through the commandment, produced in me all kinds of covetousness. For apart from the law, sin lies dead.",
+      "arminianNotes": "Sin, seizing opportunity through the commandment, produced all kinds of covetousness. Wesley: inbred corruption, forbidding but not subduing, was only fretted and wrought all manner of evil desire. Apart from knowledge of the law, sin was dead—neither so apparent nor so active.\n\nArminian note: the commandment aggravates what it cannot kill. That is the law’s weakness, not its wickedness. The man under the law discovers a worse self than he knew. Deliverance will not come from a sharper precept.",
+      "reformedNotes": "Calvin: from sin and the corruption of the flesh proceeds every evil; the law is only the occasion. Apart from the law, the knowledge of sin is buried. The commandment discovered lust that, being hid, seemed to have no existence; the flesh is also more sharply stimulated.\n\nReformed accent: the law is not the fountain of covetousness. Sin uses a holy tool. Calvin’s “occasion” keeps the commandment innocent while explaining why more law, by itself, never heals the flesh."
+    },
+    {
+      "number": 9,
+      "text": "I was once alive apart from the law, but when the commandment came, sin came alive and I died.",
+      "arminianNotes": "“I was once alive apart from the law, but when the commandment came, sin came alive and I died.” Wesley: once alive without the close application of the law—I had much life, wisdom, virtue, strength: so I thought. When the commandment came in its spiritual meaning to the heart, inbred sin took fire, and I saw myself dead in sin and liable to death eternal.\n\nWesley’s “so I thought” is the Arminian hinge: the aliveness was self-estimate under a law not yet spiritually applied. The death is conviction, not the gospel-believer’s remaining conflict. The commandment has done its killing work so that the man may seek another husband (vv. 4–6).",
+      "reformedNotes": "Calvin: “I was alive” has peculiar import—inflated with a conceit of his own righteousness, he claimed life while yet dead. He had the letter from childhood, but a veil; the law was as absent though before his eyes. When the commandment came—began to be really understood—it raised sin as from the dead and slew him.\n\nReformed reading: this is the hypocrite’s inebriating confidence slain, including Paul’s. The law’s coming is spiritual understanding. Death here is the end of self-righteous life—preparation Calvin will soon read as the faithful man’s knowledge of remaining corruption."
+    },
+    {
+      "number": 10,
+      "text": "The very commandment that promised life proved to be death to me.",
+      "arminianNotes": "The very commandment that promised life proved to be death. Wesley: it was originally intended by God as a grand means of preserving and increasing spiritual life, and leading to life everlasting. The failure is not in the commandment’s design.\n\nClassical Arminians refuse to call the law a death-trap God set. Life was its intent; death is what sin made of it in the man still under it. The gospel will not discard the commandment’s goodness (v. 12); it will supply the Spirit the law never was.",
+      "reformedNotes": "Calvin: the commandment shows a way of life in the righteousness of God, given that by keeping it we might obtain eternal life, except our corruption stood in the way. As none of us obey, it can bring nothing but death. Distinguish the character of the law from our wickedness.\n\nReformed pastoral: it is incidental that the law inflicts a deadly wound, as when an incurable disease is exasperated by a healing remedy. Calvin allows it is an inseparable incident—hence “ministration of death”—yet the law is not in its own nature hurtful."
+    },
+    {
+      "number": 11,
+      "text": "For sin, seizing an opportunity through the commandment, deceived me and through it killed me.",
+      "arminianNotes": "Sin, seizing opportunity through the commandment, deceived me and through it killed me. Wesley: while I expected life by the law, sin came upon me unawares and slew all my hopes.\n\nArminian pastoral: the deception is expecting life by the law. That is the legal man’s hope dying. Wesley will not let the Spirit-walk of chapter 8 be described as this same killing. The man needs a deliverer, not a better attempt at the same husband.",
+      "reformedNotes": "Calvin: we begin to perceive our erroneous course when the Lord loudly reproves us; Paul says rightly that we are led out of the way when sin is made evident by the law. The law of itself does not bring death; this happens through something else, adventitious—“occasion” again.\n\nReformed accent: sin promised life by the commandment and then killed. The commandment remains holy; the traitor is sin. Calvin keeps the “I” as the man God is actually convicting, soon to be read as the regenerate speaker of vv. 14–25."
+    },
+    {
+      "number": 12,
+      "text": "So the law is holy, and the commandment is holy and righteous and good.",
+      "arminianNotes": "So the law is holy, and the commandment holy and righteous and good. Wesley: every branch of the law springs from and partakes of the holy nature of God; it is every way just and right in itself; it is designed wholly for the good of man.\n\nArminian conclusion of 7:7–12: the law is not sin (v. 7). Its holiness will make the “sold under sin” of v. 14 more terrible, not less. A holy law cannot be the Christian’s husband for life (vv. 1–6); it can be delighted in, but it cannot deliver the carnal man.",
+      "reformedNotes": "Calvin: the law itself and whatever is commanded in it is holy—to be regarded with the highest reverence; just—and cannot be charged with anything wrong; good—pure and free from everything that can do harm. He defends the law against every charge of blame.\n\nReformed pastoral: no one may ascribe to the law what is contrary to goodness, justice, and holiness. Verse 12 is common ground. The fork is not whether the law is good; it is who the “I” is once that good law meets remaining flesh."
+    },
+    {
+      "number": 13,
+      "text": "Did that which is good, then, bring death to me? By no means! It was sin, producing death in me through what is good, in order that sin might be shown to be sin, and through the commandment might become sinful beyond measure.",
+      "arminianNotes": "Did that which is good bring death? By no means. Sin produced death through what is good, that sin might be shown to be sin, and through the commandment become sinful beyond measure. Wesley: inbred sin, driving furiously in spite of the commandment, became exceeding sinful; the guilt greatly aggravated.\n\nWesley has answered the second objection (“Is the law death?”) as he answered the first (“Is the law sin?”). The law’s holy work is exposure and aggravation. What follows (vv. 14–25) is, for him, still that legal man groaning toward evangelical liberty, not the settled cry of those already in the Spirit.",
+      "reformedNotes": "Calvin: death proceeds not from the law, though death through its means is brought on us by sin. It was necessary for the atrocity of sin to be discovered by the law; the more outrageous its enormity appears when it converts life into death.\n\nReformed hinge into v. 14: the law has been cleared. Calvin will now compare the spiritual law with the regenerate man in whom remnants of the flesh still oppose it. The “beyond measure” of sin is not only pre-conversion; it explains why even the godly still groan."
+    },
+    {
+      "number": 14,
+      "text": "For we know that the law is spiritual, but I am of the flesh, sold under sin.",
+      "arminianNotes": "“The law is spiritual, but I am of the flesh, sold under sin.” Wesley: Paul, having compared believers’ past in the flesh (7:5) with their present in the Spirit (7:6), now interweaves the process of a man escaping from the legal to the evangelical state. Sold under sin—totally enslaved; slaves bought with money were absolutely at their master’s disposal.\n\nWesley will not apply “sold under sin” to the true believer: that would be foreign to the whole scope, and contrary to 8:2—the Spirit’s law of life has set you free from the law of sin and death. The spiritual law meets a carnal man still under it. Chapter 8 names the man no longer sold.",
+      "reformedNotes": "Calvin sets before us an example in a regenerate man, in whom remnants of the flesh are wholly contrary to the law, while the spirit would gladly obey. “Sold under sin” shows what flesh is in itself: we are so given up to sin that we can do willingly nothing but sin—yet compulsion excepted; the service is voluntary.\n\nReformed reading: carnal here is the remaining flesh of the faithful, not the whole man without the Spirit. The law is spiritual—holy, requiring celestial righteousness. The saint still finds a slavery in the flesh that 8:1 does not deny but comforts: no condemnation for this same divided person.",
+      "keyContrast": "Arminian/Wesley readings typically take “I am of the flesh, sold under sin” as the assumed character of the man still under the law, totally enslaved—not the believer already serving in newness of the Spirit (7:6; 8:2). Reformed/Calvin readings typically take the speaker as a regenerate man: remnants of the flesh wholly contrary to a spiritual law, sold in remaining corruption yet with a spirit that would gladly obey."
+    },
+    {
+      "number": 15,
+      "text": "For I do not understand my own actions. For I do not do what I want, but I do the very thing I hate.",
+      "arminianNotes": "“I do not understand my own actions. I do not do what I want, but I do the very thing I hate.” For Wesley this is the legal man’s sincere but ineffectual striving—wanting and hating without the Spirit’s law of life. The want is real; the power is not yet evangelical.\n\nClassical Arminians refuse to call this the normal walk of those in Christ. A man may hate what he does and still be under the law. The gospel will not leave him here. To baptize this frustration as the believer’s settled identity would contradict “walk not according to the flesh but according to the Spirit” (8:4).",
+      "reformedNotes": "Calvin now comes to a more particular case, that of a man already regenerated. This conflict does not exist before renewal: the ungodly are borne along by lusts without genuine resistance; they approve sin with the whole heart. The godly hate sin in the heart and yet are drawn down by relics of the flesh.\n\nCalvin: “I know not” means he acknowledges not as his own the works done through weakness of the flesh, for he hated them. He did not perfectly fulfil the law, but somewhat failed in his effort. This is the faithful man’s weakness, not the natural man’s undivided rush into sin.",
+      "keyContrast": "Arminian/Wesley readings typically hear a law-bound “I” who sincerely wants and hates yet cannot perform—ineffectual striving under the law, not the Spirit-walker of chapter 8. Reformed/Calvin readings typically hear the regenerate: the conflict begins only when a man is called and renewed; hatred of sin is already the Spirit’s work, and the failure is imperfect fulfillment, not absence of grace."
+    },
+    {
+      "number": 16,
+      "text": "Now if I do what I do not want, I agree with the law, that it is good.",
+      "arminianNotes": "If I do what I do not want, I agree with the law that it is good. Wesley: “good” implies all three of v. 12—holy, just, and good. Consent is the legal man’s reason and conscience declaring for God (v. 25), still short of Spirit-liberty.\n\nArminian pastoral: agreeing with the law is not yet being married to Christ (v. 4). Many under the law approve what they cannot do. Chapter 8 will give more than consent: the Spirit’s fulfillment in those who walk according to the Spirit.",
+      "reformedNotes": "Calvin: when the heart acquiesces in the law and is delighted with its righteousness, it acknowledges the law’s goodness. This consent is not the ungodly’s “I see better things and approve of them; I follow the worse.” The godly man consents with the real and most cheerful desire of his heart.\n\nReformed accent: delighting consent is evidence of regeneration. Philosophers and hypocrites may praise virtue under constraint; the faithful wish nothing more than to mount up to heaven. Verse 16, for Calvin, already names a new heart, not mere moral approval."
+    },
+    {
+      "number": 17,
+      "text": "So now it is no longer I who do it, but sin that dwells within me.",
+      "arminianNotes": "“It is no longer I who do it, but sin that dwells within me.” Wesley: it is no more I that can properly be said to do it, but rather sin that dwelleth in me—that makes, as it were, another person, and tyrannizes over me.\n\nWesley’s “another person” is tyranny, not the believer’s split self as a settled Christian anthropology. The legal man experiences sin as a master. The evangelical state (7:6; 8:2) is release from that master, not a nicer description of the same tyranny.",
+      "reformedNotes": "Calvin: this is not the pleading of one excusing himself. It shows how far he dissented from his own flesh in spiritual feeling. The passage shows Paul speaks of none but the godly already born again: he denies he is wholly possessed by sin; sin dwells in some part of the soul while he aspires after God’s righteousness.\n\nReformed pastoral: indwelling sin is resident, not sovereign, in the regenerate. “No longer I” is the new man’s protest, not an alibi. Calvin will not let the unregenerate claim this verse; as long as man remains like himself he is justly deemed wholly corrupt."
+    },
+    {
+      "number": 18,
+      "text": "For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out.",
+      "arminianNotes": "Nothing good dwells in me, that is, in my flesh. Desire without ability. Wesley: the flesh here signifies the whole man as he is by nature. That is the Arminian load-bearing clause: “flesh” is the natural man, not a compartment inside the regenerate.\n\nIf the whole man as he is by nature has the desire but not the ability, this is still the man under the law, carnal, sold. Ability arrives with the Spirit of life (8:2–4), not as a partial improvement of the same flesh. Wesley will not call this inability the believer’s normal endowment.",
+      "reformedNotes": "Calvin: no good by nature dwelt in him—“so far as it regards myself.” He arraigns himself as wholly depraved, then modifies: lest he slight the grace of God which also dwelt in him, but was no part of his flesh. He speaks of the faithful, divided into relics of the flesh and grace.\n\nCalvin: “to will is present” is the readiness of faith, the Spirit preparing the godly; they found not the accomplishment equal to the wish. Flesh here is everything in man except the sanctification of the Spirit—not Wesley’s “whole man by nature” as the speaker’s entire identity.",
+      "keyContrast": "Arminian/Wesley readings typically take “flesh” as the whole man by nature, so desire without ability describes the law-bound self, not the Spirit-empowered believer. Reformed/Calvin readings typically take the modification “in my flesh” as proof Paul speaks of the faithful: grace dwells in them, but no good in remaining flesh; the will is present by the Spirit, performance still hindered."
+    },
+    {
+      "number": 19,
+      "text": "For I do not do the good I want, but the evil I do not want is what I keep on doing.",
+      "arminianNotes": "I do not do the good I want; the evil I do not want is what I keep on doing. For Wesley this repeats the ineffectual striving of the legal character. “Keep on doing” is bondage, the brink of which will cry for deliverance (v. 24).\n\nClassical Arminians warn against making ongoing practice of unwanted evil the badge of a healthy Christian. The man needs to pass from the legal to the evangelical state. Chapter 8 does not baptize this loop; it announces those who are in Christ Jesus.",
+      "reformedNotes": "Calvin: the faithful, however rightly influenced, are so conscious of infirmity that they deem no work blameless. Paul delineates the whole course of their life: their best works are always stained with some blots of sin, so that no reward can be hoped unless God pardons them.\n\nReformed pastoral: this is not occasional lapse only; it is the texture of the saint’s course until glory. Calvin is not licensing sin; he is shutting the door on Purist perfection in this life and driving the godly to pardon."
+    },
+    {
+      "number": 20,
+      "text": "Now if I do what I do not want, it is no longer I who do it, but sin that dwells within me.",
+      "arminianNotes": "If I do what I do not want, it is no longer I, but sin that dwells within me. The repetition (v. 17) underlines tyranny. Wesley’s personated “I” still cannot claim the deed as the new-creation self, because that deliverance is “not wrought yet” (v. 24).\n\nArminian pastoral: dwelling sin explains the bondage; it does not define the Christian’s proper “I.” The evangelical man will still mortify the flesh (8:13), but he is not sold under it. Do not flatten v. 20 into a permanent Christian excuse.",
+      "reformedNotes": "Calvin has already said the same line proves the speaker is born again: sin dwells, but does not wholly possess. The repeated “no longer I” is the inner man’s verdict on remaining corruption.\n\nReformed accent: the twice-said formula (vv. 17, 20) is the regenerate anthropology Calvin needs for v. 25: one man, two laws, until the body is put off. Indwelling is the saint’s grief, and the proof he is not simply the natural man."
+    },
+    {
+      "number": 21,
+      "text": "So I find it to be a law that when I want to do right, evil lies close at hand.",
+      "arminianNotes": "“I find it to be a law that when I want to do right, evil lies close at hand.” Wesley: an inward constraining power, flowing from the dictate of corrupt nature. Wanting right with evil present is the legal man’s discovery, not the Spirit’s law of life.\n\nArminian note: a “law” of evil-at-hand is what 8:2 breaks. The man who only finds this law has not yet been set free. Wesley’s process is still “escaping from the legal to the evangelical state.”",
+      "reformedNotes": "Calvin finds in the faithful a tyrannical law: while they strive after good, a vicious propensity is implanted in their marrow. He names God’s law, the law of the mind, the law of sin, and the law of the members.\n\nReformed pastoral: this is the Christian struggle (the lucta Christiana Calvin cites with Augustine at v. 22). Evil close at hand does not mean grace is absent; it means regeneration has begun and is not finished."
+    },
+    {
+      "number": 22,
+      "text": "For I delight in the law of God, in my inner being,",
+      "arminianNotes": "“I delight in the law of God, in my inner being.” Wesley: this is more than “I consent to” (v. 16). The day of liberty draws near. The inward man is called the mind (vv. 23, 25).\n\nWesley’s “day of liberty draws near” is decisive: delight is the legal man approaching evangelical freedom, not the already-free believer describing normal conflict. Inner delight is real; it is not yet the Spirit’s law of life.",
+      "reformedNotes": "Calvin: here you see the division in pious souls—the Christian struggle. The inner man is not simply the soul, but that spiritual part regenerated by God. This passage is very absurdly applied to men not yet regenerated; such, as Paul teaches, are destitute of mind, their soul degenerated from reason.\n\nReformed accent: delight in the law in the inner being is Calvin’s strongest evidence that 7:14–25 is the regenerate. Unrenewed men do not delight; they may consent under constraint. The inner man is the new man."
+    },
+    {
+      "number": 23,
+      "text": "but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members.",
+      "arminianNotes": "Another law in the members wages war and makes me captive to the law of sin. Wesley: another inward constraining power of evil inclinations and bodily appetites, captivating me in spite of all my resistance.\n\nCaptivity, for Wesley, is still slavery—sold under sin (v. 14). The man resists and loses. 8:2 will say he has been set free from the law of sin and death. Do not call captivity the Christian’s proper location.",
+      "reformedNotes": "Calvin: Paul was bound a captive by his flesh because still tempted by evil lusts; he deemed this a coercion with respect to the spiritual desire wholly opposed to them. Members are the remaining part, the flesh; the law of the mind is a principle rightly formed.\n\nReformed pastoral: captivity here is the relics’ war, not the whole man’s consent. Calvin still hears a mind already illuminated. Chapter 8’s freedom is forensic and Spiritual; it does not mean the war in the members has ceased before glory."
+    },
+    {
+      "number": 24,
+      "text": "Wretched man that I am! Who will deliver me from this body of death?",
+      "arminianNotes": "“Wretched man that I am! Who will deliver me from this body of death?” Wesley: the struggle is now come to the height; the man, finding no help in himself, begins almost unawares to pray. The word deliver implies force; without this there can be no deliverance. This body of death: this mass of sin, leading to death eternal, cleaving as close as body to soul. We may observe, the deliverance is not wrought yet.\n\nWesley’s last line is the Arminian key: the wretched cry is the law-bound man who needs deliverance into Spirit-life, not the normal settled state of those in Christ. 8:1–4 will name the delivered.",
+      "reformedNotes": "Calvin: a vehement exclamation teaching us not only to struggle with the flesh but with continual groaning to bewail our unhappy condition. He asks not as an unbeliever who knows no deliverer; it is the voice of one panting, almost fainting, because he does not find immediate help. In him there remained only relics, by whose captive bonds he was held. The most perfect, as long as they dwell in the flesh, are exposed to misery.\n\nReformed comfort: the wretched man is the saint, eyes opened to remaining corruption. 8:1 is the comfort of this same believer—no condemnation—not the announcement that the war has ended. Calvin bids the godly, as long as they sojourn on earth, to groan and to hope.",
+      "keyContrast": "Arminian/Wesley readings typically take the wretched cry as the legal man’s height of struggle, deliverance not yet wrought, death eternal still in view—the brink of liberty, not the believer’s ordinary confession. Reformed/Calvin readings typically take it as the regenerate’s groan: panting for rescue from remaining relics, the most perfect still miserable in the flesh until death; 8:1 comforts this same “I.”"
+    },
+    {
+      "number": 25,
+      "text": "Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.",
+      "arminianNotes": "“Thanks be to God through Jesus Christ our Lord!” Wesley: God will deliver me through Christ; the hymn answers the voice of sorrow. Then the sum: “I myself”—or rather that I, the person whom I am personating, till this deliverance is wrought. Reason and conscience declare for God; corrupt passions still rebel. The man is now utterly weary of his bondage, and upon the brink of liberty.\n\nWesley’s “personating” and “brink of liberty” refuse to let v. 25b be the Christian’s settled dual service. The thanksgiving is faith seeing the Deliverer; the “so then” still describes the undelivered legal man. 8:1–4 is the crossing.",
+      "reformedNotes": "Calvin: thanksgiving is subjoined lest the complaint seem murmuring. The saints, examining defects, must not forget what they have received. “So I myself”: a short epilogue—the faithful never reach the goal of righteousness as long as they dwell in the flesh; they run until they put off the body. Mind here is not the philosophers’ rational soul but that illuminated by the Spirit. A suitable passage to disprove the Purists.\n\nReformed reading: v. 25b is the same regenerate “I” serving God’s law with the mind and, with remaining flesh, the law of sin—until glorification. 8:1 does not retract this; it announces no condemnation for that divided believer. Calvin uses “I myself” so that none may suspect he spoke in another’s person.",
+      "keyContrast": "Arminian/Wesley readings typically take the thanks as the legal man seeing deliverance through Christ, while “I myself” remains the personated undelivered self on the brink of liberty—not the normal dual service of those already under grace. Reformed/Calvin readings typically take thanks and “I myself” as one regenerate man: mind serving God, flesh still serving sin, the course unfinished until the body is put off; 8:1 is this believer’s comfort, not a different cast of characters."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "book": "Romans",
+  "bookSlug": "romans",
+  "chapter": 8,
+  "verseStart": 18,
+  "verseEnd": 30,
+  "translation": "ESV",
+  "title": "Romans 8:18–30",
+  "context": "Paul weighs the sufferings of this present time against the glory to be revealed, hears the whole creation groaning toward the revealing of the sons of God, names the Spirit’s help in our weakness, and traces the golden chain: those God foreknew He also predestined, called, justified, and glorified.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on present sufferings, creation’s groan, the Spirit’s help, and the golden chain—those God foreknew, predestined, called, justified, and glorified—so each camp speaks in its own voice beside Romans 8:18–30.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Whom he foreknew, he also predestinated conformable to the image of his Son—Here the apostle declares who those are whom he foreknew and predestinated to glory; namely, those who are conformable to the image of his Son. Them he called—By his gospel and his Spirit. And whom he called—When obedient to the heavenly calling, he also justified. And whom he justified—Provided they continued in his goodness, Rom 11:22, he in the end glorified. St. Paul does not affirm that precisely the same number of men are called, justified, and glorified. He does not deny that a believer may fall away and be cut off between his special calling and his glorification.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 8:29–30)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The foreknowledge of God, which Paul mentions, is not a bare prescience, as some unwise persons imagine, but the adoption by which he has always distinguished his children from the reprobate. Those whom God has adopted he has also destined to be conformed to the image of his Son. Paul shows by this climax how certain is the salvation of the faithful: whom he has predestinated he has also called, justified, glorified. He speaks of glorification as already accomplished because of the certainty of hope.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Rom 8:29–30)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.",
+      "arminianNotes": "Paul’s “I consider” is pastoral arithmetic: the sufferings of this present time are real, yet not worth comparing with the glory that is to be revealed to us. The “us” are those in Christ—the groaning people who wait for adoption (v. 23).\n\nClassical Arminians hear a hope held out to believers who continue. Glory is the promised end of those who love God and remain in His goodness, not a private ledger closed irrespective of faith. Suffering is not abandonment; it is the present tense of a people still waiting.",
+      "reformedNotes": "The comparison is certain, not tentative. Present sufferings cannot outweigh the glory to be revealed, because that glory belongs to the purpose God is already working (vv. 28–30).\n\nReformed comfort: “to us” names the people God has set His love upon. The scale is not our stamina against pain; it is God’s appointed glory against a present that cannot finally undo it. What will be revealed already outweighs what now hurts."
+    },
+    {
+      "number": 19,
+      "text": "For the creation waits with eager longing for the revealing of the sons of God.",
+      "arminianNotes": "Creation itself waits with eager longing for the revealing of the sons of God. The cosmos is not indifferent; it leans toward the public unveiling of God’s children.\n\nArminian reading: the “sons of God” are those joined to the Son by faith—the people revealed when their adoption is complete (v. 23). Creation’s longing is for the appearing of the believing family, not for a hidden list no gospel could name.",
+      "reformedNotes": "Creation’s eager longing is for the revealing of the sons of God—those already adopted in hope, not yet publicly manifested. The world waits on a revealing God has appointed.\n\nReformed accent: “sons of God” here is the people the Father has given to the Son. Their revealing is as sure as the purpose that named them. Creation’s wait is eschatological certainty under God’s subjection (v. 20)."
+    },
+    {
+      "number": 20,
+      "text": "For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope",
+      "arminianNotes": "Creation was subjected to futility—not by its own will, but by Him who subjected it, in hope. The curse is God’s judicial act; the hope is His as well.\n\nClassical Arminians refuse to read futility as chance or as creation’s own choice. God subjected a good world after human sin, and He did so “in hope”—a real future of liberation, not closed despair. The same God who judged also opened a way.",
+      "reformedNotes": "Futility is neither accident nor creation’s preference. God subjected the world, and He did it in hope. Sovereignty here is not cold; it is hopeful lordship over a groaning cosmos.\n\nReformed reading: the “him who subjected it” is God, and the hope is as much His purpose as the subjection. History is not slipping; it is held. What He subjected in hope He will not abandon to corruption."
+    },
+    {
+      "number": 21,
+      "text": "that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God.",
+      "arminianNotes": "The aim of that hope: creation itself will be set free from bondage to corruption and share the freedom of the glory of the children of God. Cosmic liberation is tied to the children’s glory.\n\nArminian pastoral note: the children are those in Christ by faith, whose glory creation will share. The gospel’s reach is as wide as a groaning world, and as personal as the believing people whose freedom is coming. Do not shrink the cosmos; do not skip the children.",
+      "reformedNotes": "Creation will be set free and obtain the freedom of the glory of the children of God. The children’s glory is the measure of the world’s future.\n\nReformed comfort: that freedom is not in doubt. The children whose glory creation will share are the sons God will reveal (v. 19)—the people His purpose has named. Bondage to corruption has an appointed end."
+    },
+    {
+      "number": 22,
+      "text": "For we know that the whole creation has been groaning together in the pains of childbirth until now.",
+      "arminianNotes": "“We know”: the whole creation has been groaning together in the pains of childbirth until now. The image is labor, not a funeral. Groaning is painful, and it is productive toward birth.\n\nClassical Arminians hear a world in labor toward the revealing already named. The groaning is shared—“together”—and present—“until now.” Hope does not cancel the cry; it interprets it as birth pangs rather than meaninglessness.",
+      "reformedNotes": "The whole creation groans in childbirth until now. Paul interprets the world’s ache as labor toward a birth God will complete.\n\nReformed accent: childbirth implies an appointed child. The groaning is not open-ended tragedy; it is the cosmos in labor under the God who subjected it in hope. “Until now” means the wait is real; it does not mean the outcome is uncertain."
+    },
+    {
+      "number": 23,
+      "text": "And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.",
+      "arminianNotes": "Not only creation: we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies. Believers already have the Spirit’s firstfruits; they still wait for bodily redemption.\n\nArminian note: adoption here is the public, bodily completion of sonship. The groaning people are those who have the Spirit by faith. Firstfruits pledge more; they do not make the wait automatic. Eager waiting is the posture of those who remain in Christ until the body’s redemption.",
+      "reformedNotes": "The church groans with creation. Firstfruits of the Spirit are already given; full adoption—the redemption of our bodies—is not yet. Already children, not yet revealed in glory.\n\nReformed comfort: the Spirit as firstfruits is God’s own down payment. Waiting for adoption does not mean sonship is in doubt; it means the body is not yet redeemed. The people who have the firstfruits will have the harvest. Groaning is the sound of certain hope, not of maybe."
+    },
+    {
+      "number": 24,
+      "text": "For in this hope we were saved. Now hope that is seen is not hope. For who hopes for what he sees?",
+      "arminianNotes": "In this hope we were saved. Salvation has a future tense: we were saved into a hope not yet seen. Visible possession would cancel hope; we do not yet see the glory.\n\nClassical Arminians stress that hope is living and forward. Being saved in hope means the Christian life is not finished at first faith. What is not seen must still be waited for; hope that slumps into presumption has stopped being hope.",
+      "reformedNotes": "We were saved in this hope—already saved, not yet seeing. Hope that is seen is not hope; the unseen glory is the object.\n\nReformed reading: “we were saved” is a completed kindness whose fruit is hope. The unseen is not uncertainty about God’s purpose; it is the not-yet of glory. The church hopes because the chain (vv. 29–30) has not yet reached its public end, not because God might change His mind."
+    },
+    {
+      "number": 25,
+      "text": "But if we hope for what we do not see, we wait for it with patience.",
+      "arminianNotes": "If we hope for what we do not see, we wait for it with patience. Patience is the ethic of unseen hope—endurance in present sufferings (v. 18), not idle delay.\n\nArminian pastoral: waiting is a real human act under grace. Those who hope must actually wait; patience can be refused. The verse calls believers to persevere in the hope by which they were saved, not to treat glory as an already cashed ticket.",
+      "reformedNotes": "Unseen hope produces patience. The wait is as sure as the object hoped for.\n\nReformed accent: patience here is the fruit of a hope God has given, not a gamble on an uncertain end. We wait because the glory is appointed. Suffering becomes the school of patience for those whose salvation is already held in hope."
+    },
+    {
+      "number": 26,
+      "text": "Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.",
+      "arminianNotes": "Likewise—matching creation’s groan and ours—the Spirit helps us in our weakness. We do not know what to pray for as we ought; the Spirit Himself intercedes with groanings too deep for words.\n\nClassical Arminians hear real help for weak pray-ers. The Spirit’s intercession does not cancel our praying; it supplies what our ignorance cannot. Weakness is honest: even Spirit-indwelt believers may not know how to ask. Help is given to those who have the Spirit by faith; the groan is grace in our weakness, not a substitute for a living walk with God.",
+      "reformedNotes": "The Spirit helps us in our weakness and Himself intercedes with inarticulate groanings. Our ignorance in prayer is not the last word; His intercession is.\n\nReformed comfort: this is God’s own Spirit praying in the saints. The help is effectual, not a mere offer left to our skill. Groanings too deep for words are still heard, because they are the Spirit’s. Weakness here is the place of divine aid, not the crack where salvation might slip."
+    },
+    {
+      "number": 27,
+      "text": "And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.",
+      "arminianNotes": "He who searches hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God. Father and Spirit are not at odds in prayer.\n\nArminian reading: “the saints” are those in Christ who love God (v. 28). The Spirit’s prayers match the Father’s will—holy, wise, and good. That will sincerely seeks the good of the believing people; heart-searching God hears what the Spirit asks for those who remain in His goodness.",
+      "reformedNotes": "The heart-searcher knows the Spirit’s mind, because the Spirit intercedes for the saints according to God’s will. Trinitarian harmony: no crossed purposes in the groan.\n\nReformed accent: “according to the will of God” means the intercession cannot miss. The saints are those God has called according to His purpose (v. 28). What the Spirit asks, the Father already wills. Prayer in weakness is caught up into a will that will not fail the people He loves."
+    },
+    {
+      "number": 28,
+      "text": "And we know that for those who love God all things work together for good, for those who are called according to his purpose.",
+      "arminianNotes": "“We know that for those who love God all things work together for good, for those who are called according to his purpose.” The two descriptions name the same people: those who love God, and so are the called.\n\nClassical Arminians read the calling as the gospel call answered in love—the purpose God has for the people found in Christ. “All things” includes sufferings (v. 18), for those who continue to love Him. The purpose is not an unconditional selection irrespective of faith; it is God’s wise intent for those who, enabled by grace, love Him. A called people who cease to love (Rom 11:22) step outside this promise.",
+      "reformedNotes": "All things work together for good for those who love God—that is, for those who are called according to His purpose. Love of God is the mark of the called; the purpose is God’s, not ours.\n\nReformed reading: the calling is effectual, according to eternal purpose. “All things”—including groaning and weakness—serve the good God has appointed for the people He called. The purpose explains the calling; the calling produces the love. Nothing in the present time can finally work against those so called.",
+      "keyContrast": "Arminian readings typically take “those who love God” as the living condition of the promise and “called according to his purpose” as God’s intent for those in Christ by faith—corporate and conditional, a good that holds for those who continue. Reformed readings typically take the calling as effectual according to God’s unconditional purpose, with love of God as the fruit of that call; all things serve the elect He has actually summoned."
+    },
+    {
+      "number": 29,
+      "text": "For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.",
+      "arminianNotes": "“Those whom he foreknew he also predestined to be conformed to the image of his Son.” Wesley: the apostle declares who those are whom He foreknew and predestinated to glory—namely, those who are conformable to the image of His Son. Foreknowledge here is God’s knowing who would believe; conformation is the mark of those so known, not a destiny assigned irrespective of faith.\n\nClassical Arminians read this with Ephesians 1:4–5: God chooses and predestines the people found in Christ—conditionally, those He foreknew would freely trust Him, or corporately, the family defined by union with the Son. “Firstborn among many brothers” aims at a Christ-shaped family entered by grace-enabled faith. Predestination names the appointed likeness of believers, not an unconditional pick of some and passing over of others.",
+      "reformedNotes": "Those whom He foreknew He also predestined to be conformed to the image of His Son. Calvin: this foreknowledge is not bare prescience, as some imagine, but the adoption by which God has always distinguished His children from the reprobate. Those He adopted He destined to be conformed to the Son.\n\nReformed reading matches Ephesians 1:4–5: the choosing is personal, prior, and unconditional. Foreknowledge is covenant love, not foresight of faith. Faith is the fruit of this appointment, not its cause. The goal—the Son firstborn among many brothers—is certain because God set His love on a people in Christ before they believed.",
+      "keyContrast": "Arminian readings typically take “foreknew” as God’s foresight of who would believe (or as the corporate people in the Son), so predestination to the Son’s image is the destiny of those so known—conditional or corporate, faith as the living entry. Reformed readings typically take “foreknew” as adopting, covenant love, not bare prescience (Calvin): those He so knew He unconditionally predestined; faith is the effect, not the ground."
+    },
+    {
+      "number": 30,
+      "text": "And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.",
+      "arminianNotes": "The chain: those He predestined He also called; those He called He also justified; those He justified He also glorified. Wesley: He called by His gospel and His Spirit; whom He called—when obedient to the heavenly calling—He also justified; whom He justified—provided they continued in His goodness, Rom 11:22—He in the end glorified.\n\nWesley’s pastoral warning is the Arminian hinge: St. Paul does not affirm that precisely the same number are called, justified, and glorified. He does not deny that a believer may fall away and be cut off between special calling and glorification. The links describe the path of those who remain; they are not a count of identical heads from end to end. Glorification is the end of those who continue.",
+      "reformedNotes": "The same people run the chain: predestined, called, justified, glorified. Calvin: Paul shows by this climax how certain is the salvation of the faithful—whom He has predestinated He has also called, justified, glorified. He speaks of glorification as already accomplished because of the certainty of hope.\n\nReformed reading: the aorists are not a leaky sequence from which some drop. Effectual calling follows predestination; justification follows that calling; glorification is so sure it can be named as done. No one God has thus predestined is finally missing at the end. The golden chain is pastoral steel: present sufferings cannot snap a purpose God has already spoken in the past tense of glory.",
+      "keyContrast": "Arminian readings, with Wesley, deny that Paul affirms the same number are called, justified, and glorified: calling is obeyed, justification stands if they continue (Rom 11:22), and a believer may fall away before glorification. Reformed readings, with Calvin, hear an unbreakable climax: the predestined are the called, the justified, the glorified—glorification spoken as done because hope is certain; the chain cannot lose a link."
+    }
+  ]
+}

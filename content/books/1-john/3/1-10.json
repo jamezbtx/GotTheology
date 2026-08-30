@@ -1,0 +1,95 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "1 John 3:1–10",
+  "context": "See what kind of love the Father has given: we are called children of God, and so we are. What we will be has not appeared; we shall be like Him when He appears. Everyone who hopes in Him purifies himself. No one who abides in Him keeps on sinning; no one born of God makes a practice of sinning, because God’s seed abides. By this the children of God and of the devil are evident.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on adopted children, a hope that purifies, and the one born of God who does not make a practice of sin—so each camp speaks in its own voice beside 1 John 3:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Whosoever abideth in communion with him, by loving faith, sinneth not—while he so abideth. Whosoever sinneth certainly seeth him not. Whosoever is born of God—by living faith, whereby God is continually breathing spiritual life into his soul, and his soul is continually breathing out love and prayer to God—doth not commit sin. For the divine seed of loving faith abideth in him; and, so long as it doth, he cannot sin, because he is born of God—is inwardly and universally changed.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 John 3:6, 9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "To sin here does not mean to offend in some instances; he calls that sin when men with their whole heart run into evil. The faithful, who are as yet tempted by the lusts of the flesh, are not to be deemed guilty of iniquity, though they are not pure or free from sin; but as sin does not reign in them, John says that they do not sin. Whosoever is born of God doth not commit sin; for his seed remaineth in him. He does not make the children of God wholly free from all sin; but he denies that any can really glory in this distinction, except those who from the heart strive to form their life in obedience to God. The design of regeneration is to destroy sin, and the Spirit of God restrains the lusting of sin. He cannot sin: the power of the Spirit is so effectual that it necessarily retains us in continual obedience to righteousness.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 3:4–9)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.",
+      "arminianNotes": "See what kind of love: we should be called—that is, should be—the children of God. Wesley: the world knows not what to make of us; we are a mystery to them.\n\nArminian wonder: the love bestowed is real adoption, not a name only. So we are. The world’s ignorance of us tracks its ignorance of Him. Shared ground: this love is gift.",
+      "reformedNotes": "Calvin: not common honor when the Father adopted us. Love has been bestowed: from mere bounty. Adoption of all the godly is gratuitous and does not depend on any regard to works. Why are we sons? Because God began to love us freely when we deserved hatred.\n\nReformed wonder: the only cause of salvation is adoption, flowing from mere love. The world does not know us because it knew Him not. Shared: see what kind of love."
+    },
+    {
+      "number": 2,
+      "text": "Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.",
+      "arminianNotes": "We are God’s children now; what we will be has not appeared. Wesley: even to ourselves it is ineffable; when the Son appears we shall be like Him, the glory of God penetrating our inmost substance; we shall see Him as He is, without a veil, and that sight will transform us.\n\nArminian hope: now children, not yet the appearing. Likeness is promised as transformation by sight, not as a present claim to finished glory.",
+      "reformedNotes": "Calvin: our present condition is short of the glow of God’s children—dust, death, a hell within. Do not estimate what God has bestowed according to the present view. When He shall appear: our life is hid with Christ. We shall be like Him—not equal, head and members differ—but conformed to His glorious body. Seeing Him as He is is friend-seeing, not the terror of the wicked.\n\nReformed hope: faith looks to Christ’s coming. Certainty of faith, not opinion. Shared: now children; then like Him."
+    },
+    {
+      "number": 3,
+      "text": "And everyone who thus hopes in him purifies himself as he is pure.",
+      "arminianNotes": "Everyone who thus hopes purifies himself as He is pure. Wesley: this hope in Him—in God.\n\nArminian purifying: hope is not idle. The appearing trains present holiness. Grace that will finish likeness is already at work in those who hope, and they must walk in it.",
+      "reformedNotes": "Calvin: the desire for holiness should not grow cold because happiness has not appeared. That hope is sufficient; it excites us to follow purity, leading straight to Christ, a perfect pattern of purity.\n\nReformed purifying: what is hoped for is yet hid, and still it works. Shared: this hope purifies."
+    },
+    {
+      "number": 4,
+      "text": "Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness.",
+      "arminianNotes": "Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness. Wesley: thereby transgresses the holy, just, and good law, and sets God’s authority at nought; this is implied in the very nature of sin.\n\nArminian law: sin is not a light word. Practice of sin is contempt of the law, not a single stumble. The ESV’s “practice” helps both camps hear John’s habitual sense.",
+      "reformedNotes": "Calvin: some extenuated vices—“there is a great difference between sin and iniquity.” He dissipates this: sin is transgression of the divine law. He does not make all sins equal. To sin here does not mean to offend in some instances; he calls that sin when men with their whole heart run into evil.\n\nReformed law: the faithful are not deemed guilty of iniquity in this sense, though not free from sin; sin does not reign in them. Shared: practiced sin is lawlessness."
+    },
+    {
+      "number": 5,
+      "text": "You know that he appeared in order to take away sins, and in him there is no sin.",
+      "arminianNotes": "He appeared to take away sins, and in Him there is no sin. Wesley: He came for this very purpose—to destroy them all, root and branch, and leave none remaining. In Him is no sin, so He could not suffer on His own account, but to make us as Himself.\n\nArminian purpose: taking away is real destruction of sins, not a legal fiction only. The sinless Christ is both the means and the pattern. Remaining in sin would void the appearing.",
+      "reformedNotes": "Calvin: it is Christ’s office to take away sins; by faith we partake of His virtue. In John 1:29 He takes away as atonement; here He really, actually takes away, because through Him the old man is crucified and the Spirit mortifies the flesh. They who cease not to sin render void the benefits. In Him is no sin: wherever Christ diffuses efficacious grace, no more room for sin.\n\nReformed purpose: this belongs to sanctification of the Spirit, not remission only in this verse. Shared: He appeared to take away sins."
+    },
+    {
+      "number": 6,
+      "text": "No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him.",
+      "arminianNotes": "No one who abides in Him keeps on sinning; no one who keeps on sinning has seen or known Him. Wesley: abiding in communion by loving faith, sinneth not—while he so abideth. Whoever sinneth, the loving eye is not then fixed upon God; he does not then experimentally know Him, whatever he did in time past.\n\nArminian abide: the new birth enables and must be walked in. Remaining in sin shows a breakable walk: while he abides he does not sin; when he sins he is not then seeing Him. The communion can be left. This is the holiness fork.",
+      "reformedNotes": "Calvin: whoever abides sinneth not; whoever sinneth hath not seen Him. Faith in Christ is vainly pretended without newness of life. Christ is never dormant where He reigns. As far as the kingdom of Christ prevails, sin is abolished. They are designated according to the prevailing principle: they consent not to sin, though they labor under infirmity; they do the evil they would not.\n\nReformed abide: the regenerate do not make a practice of sin. Seeing and knowing are faith. The walk is evidence of a new nature God gave, not a proof that union is on and off with every stumble.",
+      "keyContrast": "The holiness and regeneration fork. Arminian readers hear abiding as a communion that must be walked in: while he abides he does not sin; practiced sin shows the walk is broken (Wesley: while he so abideth). Reformed readers hear the regenerate as those in whom sin does not reign: 3:6 and 3:9 are evidence of a new nature God gave, not a claim of sinless instant perfection."
+    },
+    {
+      "number": 7,
+      "text": "Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous.",
+      "arminianNotes": "Let no one deceive you: whoever practices righteousness is righteous, as He is righteous. Wesley: let none persuade you that any man is righteous but he that uniformly practises righteousness; he alone is righteous, after the example of his Lord.\n\nArminian practice: righteousness is not buried in the heart while hands and tongue run to iniquity. Uniform practice is the evidence. Deceivers offer a righteousness that will not walk.",
+      "reformedNotes": "Calvin: newness of life is testified by good works; likeness to Christ appears by fruits. Many would persuade themselves they have righteousness buried in the heart while iniquity occupies feet, hands, tongue, and eyes.\n\nReformed practice: if you live in the Spirit, walk in the Spirit. Shared: do not be deceived; practiced righteousness is the mark."
+    },
+    {
+      "number": 8,
+      "text": "Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil.",
+      "arminianNotes": "Whoever makes a practice of sinning is of the devil; the devil has been sinning from the beginning. The Son of God appeared to destroy the devil’s works. Wesley: a child of the devil; the devil was the first sinner and has continued. The Son was manifested to destroy the works of the devil—all sin. And will He not perform this in all that trust in Him?\n\nArminian destruction: Christ’s appearing aims at all sin destroyed in those who trust. Remaining in practice of sin is remaining of the devil’s works, which the Son came to undo.",
+      "reformedNotes": "Calvin: to commit refers to outward works. No life of God where men act perversely; they are slaves of the devil. He sets forth how unlike they are to Christ. Not two adverse principles as Manicheans imagined; the devil is not wicked by nature, nor equal to God. The devil sinneth from the beginning: from the creation he has scattered his poison. Christ came to take away sins: those in whom sin reigns cannot be reckoned members of Christ.\n\nReformed destruction: wherever Christ puts forth power, He puts the devil to flight. Shared: the appearing is against the devil’s works."
+    },
+    {
+      "number": 9,
+      "text": "No one born of God makes a practice of sinning, for God's seed abides in him; and he cannot keep on sinning, because he has been born of God.",
+      "arminianNotes": "No one born of God makes a practice of sinning, for God’s seed abides; he cannot keep on sinning, because he has been born of God. Wesley: born by living faith, God continually breathing spiritual life, the soul breathing love and prayer; the divine seed of loving faith abides; so long as it doth, he cannot sin; inwardly and universally changed.\n\nArminian seed: so long as the seed abides. The new birth is living and must be breathed in and out. A breakable walk: if the seed is not abiding, practice of sin is possible. 3:9 is not a lock that cannot be left; it is the nature of a present, living birth.",
+      "reformedNotes": "Calvin: not wholly free from all sin; those who from the heart strive to obey. Pelagians and Catharians wrongly imagined angelic purity; Anabaptists renewed the dotage. Regeneration is not at once complete, so it does not exempt from bondage of sin except in proportion to its extent. Children of God daily sin as far as remnants of old nature remain. Yet the design of regeneration is to destroy sin. Seed of God: the Spirit so forms hearts that flesh does not prevail. He cannot sin: the will is so formed it cannot be otherwise than right; the Spirit continues grace to the last. Not Papist “neutral movement” we may resist. David: a live coal hid under ashes; the seed retains virtue perpetually.\n\nReformed seed: 3:9 is evidence of a new nature God gave. The elect’s seed is incorruptible. Fanatics who take “cannot sin” as license are twice frantic. John speaks of the continued course of life, beginning with regeneration, not a pre-temporal eternal seed independent of new birth.",
+      "keyContrast": "Same fork as 3:6. Arminian: “so long as” the seed of living faith abides, he cannot sin; the birth enables and must be walked in (Wesley). Reformed: God’s seed remains; the Spirit so governs that the regenerate do not make a practice of sin, and that seed is not finally lost (Calvin)."
+    },
+    {
+      "number": 10,
+      "text": "By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother.",
+      "arminianNotes": "By this the children of God and of the devil are evident: whoever does not practice righteousness is not of God, nor the one who does not love his brother. Wesley: here is the transition from the general proposition to one particular.\n\nArminian evidence: the two families show in practice and in brother-love. Not of God is a present verdict on an unrighteous, unloving walk—not a compliment paid to a hidden election.",
+      "reformedNotes": "Calvin: those in vain claim a place among the children of God who do not prove themselves by a pious life. Fruit and adoption always appear in the life. To do righteousness is to fear God from the heart and walk in His commandments as far as human weakness permits. Offenses are not imputed; righteousness is that imperfect obedience they render. All whom God calls He regenerates. Love of the brother is added as explanation: the whole of righteousness is often included in brotherly love as evidence of love to God.\n\nReformed evidence: newness of life is perpetual evidence of adoption. Shared: the children are manifest in practice and love. The fork stays in 3:6 and 3:9, not in the visibility of the fruit."
+    }
+  ]
+}

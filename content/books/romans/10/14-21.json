@@ -1,0 +1,84 @@
+{
+  "book": "Romans",
+  "bookSlug": "romans",
+  "chapter": 10,
+  "verseStart": 14,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "Romans 10:14–21",
+  "context": "Paul traces how they will call, believe, and hear without a preacher, names faith as coming from hearing, cites Isaiah’s beautiful feet, insists Israel has heard, and still hears God holding out his hands all day long to a disobedient and contrary people.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on preaching, hearing, and Israel’s unbelief—the chain from sent preacher to calling on the Lord, faith from the word of Christ, and hands held out all day to a contrary people—so each camp speaks in its own voice beside Romans 10:14–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The great truth is so confirmed in Romans 10:14, 15 as not only to imply that whosoever calleth upon him shall be saved, but also that the will of God is, that all should savingly call upon him. How shall they preach, unless they be sent—thus by a chain of reasoning, from God’s will that the Gentiles also should call upon him, St. Paul infers that the apostles were sent by God to preach to the Gentiles also. Faith, indeed, ordinarily cometh by hearing; even by hearing the word of God. Their unbelief was not owing to the want of hearing: for they have heard. They might have known, even from Moses and Isaiah, that many of the Gentiles would be received, and many of the Jews rejected. An unbelieving and gainsaying people—just opposite to those who believed with their hearts, and made confession with their mouths.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 10:14–21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The gospel does not fall like rain from the clouds, but is brought by the hands of men wherever it is sent from above. Faith then is by hearing: wherever faith is, God has there already given an evidence of his election. Many are called, who are yet not chosen; the inward calling, which alone is efficacious and peculiar to the elect, is distinguished from the outward voice of men. To Israel he stretched forth his hands, whom he continually by his word invited to himself; for by seeking our salvation through the ministers of his word, he stretches forth his hands no otherwise than as a father who stretches forth his arms, ready to receive his son kindly into his bosom. Paul expressly reminds us that the elect people were charged with their own wickedness.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Rom 10:14–21)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 14,
+      "text": "How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching?",
+      "arminianNotes": "The chain runs backward from “whoever will call” (v. 13): they cannot call on one they have not believed; they cannot believe in one of whom they have never heard; they cannot hear without someone preaching. Wesley: this confirms not only that whosoever calleth upon him shall be saved, but that the will of God is that all should savingly call upon him.\n\nClassical Arminians hear sincere means, not a theater for a closed list. Calling, believing, hearing, and preaching are how God actually offers Christ. The questions assume a real path that can be walked or refused. No preacher, no hearing; no hearing, no faith; no faith, no calling—the means are as sincere as the “whoever.”",
+      "reformedNotes": "The same chain is God’s appointed order: calling rests on faith, faith on hearing, hearing on a preacher. Calvin: no other word is named here but that which is preached, the ordinary mode the Lord has appointed for conveying his word.\n\nReformed accent: the chain is providence, not an open market in which God merely waits. Where there is preaching, He is visiting; where there is faith, the seed of the word has preceded. The questions name the ordinary instrument by which He calls; they do not make salvation a human logistics problem as if He had no people to gather.",
+      "keyContrast": "Arminian readings typically take the chain—call, believe, hear, preacher—as the sincere means of a “whoever” salvation: God wills that all should savingly call, and preaching really opens that path. Reformed readings typically take the same chain as God’s appointed ordinary means: preaching is how He visits a people, and faith where it appears already evidences His calling."
+    },
+    {
+      "number": 15,
+      "text": "And how are they to preach unless they are sent? As it is written, “How beautiful are the feet of those who preach the good news!”",
+      "arminianNotes": "Wesley: how shall they preach, unless they be sent—thus by a chain of reasoning, from God’s will that the Gentiles also should call upon him, St. Paul infers that the apostles were sent by God to preach to the Gentiles also. The feet: their very footsteps, their coming. Isaiah 52:7.\n\nBeautiful feet are the arrival of good news for those God wills to call—Jew and Gentile. Sending is missional: God actually dispatches preachers so that “whoever” may hear. The citation is Scripture’s own praise of the means by which a sincere gospel reaches the nations.",
+      "reformedNotes": "Calvin: it is a proof and a pledge of divine love when any nation is favored with the preaching of the gospel; no one is a preacher of it but he whom God has raised up in his special providence. The gospel does not fall like rain from the clouds, but is brought by the hands of men wherever it is sent from above.\n\nBeautiful feet mark a visit from God. Sending is the Lord’s own dispatch, not mere human staffing. Where the good news is preached, He has already moved toward that people. Isaiah’s eulogy commends the ministry by which eternal life is brought."
+    },
+    {
+      "number": 16,
+      "text": "But they have not all obeyed the gospel. For Isaiah says, “Lord, who has believed what he has heard from us?”",
+      "arminianNotes": "Not all have obeyed. Isaiah 53:1 already asked who believed the report. Israel heard and did not believe. The failure is disobedience to good news already preached, not a missing preacher or a muffled word.\n\nClassical Arminians refuse to read “not all” as “the unelect could not.” The report was given; the unbelief is theirs. Wesley will say (v. 18) their unbelief was not owing to want of hearing. Obedience of faith can be refused. Isaiah’s cry is lament over unbelief, not a hint that the offer was never meant.",
+      "reformedNotes": "Calvin: Paul inserts this so no one would infer that faith everywhere follows the word. Israel had never been without the word and might have boasted; it was necessary to intimate that many are called who are yet not chosen.\n\nThe Prophet’s “who has believed?” distinguishes the inward calling—efficacious and peculiar to the elect—from the outward voice of men. There is no benefit from the word except when God shines by the light of his Spirit. Unbelief is real; it also sits under that distinction."
+    },
+    {
+      "number": 17,
+      "text": "So faith comes from hearing, and hearing through the word of Christ.",
+      "arminianNotes": "Wesley: faith, indeed, ordinarily cometh by hearing; even by hearing the word of God. The “ordinarily” is pastoral honesty: this is how God saves—the preached word of Christ reaching the ear and the heart.\n\nFaith is born of a heard gospel, not of a secret decree that skips the sermon. The word of Christ is the sincere instrument: hearers may believe or refuse (v. 16). Classical Arminians will not let “faith comes from hearing” become “faith is injected irrespective of the heard Christ.” The word is near; it must be heard and believed.",
+      "reformedNotes": "Calvin: by this conclusion Paul shows that wherever faith is, God has already given an evidence of his election; by pouring his blessing on the ministration of the gospel to illuminate minds by faith, He testified that the Gentiles were admitted to the inheritance.\n\nThe voice of man cannot of itself penetrate the soul; yet when it pleases the Lord to work, preaching becomes the instrument of his power. Faith is grounded on nothing else but the truth of God, restricted to His word. Hearing is the appointed means; the illumination is God’s.",
+      "keyContrast": "Arminian readings typically take “faith comes from hearing” as the ordinary, sincere way God saves: the word of Christ must be heard and may be believed or refused. Reformed readings typically take the same hearing as God’s appointed instrument, yet (Calvin) wherever faith is, election has already left its evidence; the Spirit must shine or the word profits nothing."
+    },
+    {
+      "number": 18,
+      "text": "But I ask, have they not heard? Indeed they have, for “Their voice has gone out to all the earth, and their words to the ends of the world.”",
+      "arminianNotes": "Wesley: their unbelief was not owing to the want of hearing. For they have heard. Yes verily—so many nations have already heard the preachers of the gospel that Paul may in some sense say of them as David did of the lights of heaven.\n\nIsrael cannot plead silence. The voice has gone out. If they did not believe, it was not because God failed to send a word. The excuse of “we never heard” is closed. Hearing happened; the offer reached them.",
+      "reformedNotes": "Have they not heard? Indeed they have. Psalm 19’s worldwide voice is turned to the gospel’s reach. The school into which God collects scholars is not locked inside Israel; the report has gone out.\n\nCalvin will not let Israel claim they were left without a word. The hearing is real. What follows is not that God lacked a purpose, but that hearing without the Spirit’s inward work does not produce faith. Chapter 11 will name a remnant. For now Paul establishes the fact: they heard."
+    },
+    {
+      "number": 19,
+      "text": "But I ask, did Israel not understand? First Moses says, “I will make you jealous of those who are not a nation; with a foolish nation I will make you angry.”",
+      "arminianNotes": "Wesley: hath not Israel known? They might have known, even from Moses and Isaiah, that many of the Gentiles would be received and many of the Jews rejected. As they followed gods that were not gods, so He accepted in their stead a nation that was not a nation—not in covenant with God. A foolish nation: such are all which know not God.\n\nMoses had already told them. Understanding was available. Gentiles received, Jews rejected—not because the word was cryptic, but because Israel would not have it. Jealousy is the predicted fruit of a real transfer they were warned about.",
+      "reformedNotes": "Did Israel not understand? Moses first: God would provoke them to jealousy by a no-nation. Calvin: nothing inconsistent in God preferring the Gentiles to the Jews; the song upbraids Jewish perfidiousness and declares that He would take the Gentiles into covenant.\n\nThe jealousy is God’s doing, written in Deuteronomy. Israel’s failure to understand is not lack of light; they had a far different light of truth than the nations. The citation prepares Gentile inclusion, Israel’s charge, and the remnant logic of chapter 11."
+    },
+    {
+      "number": 20,
+      "text": "Then Isaiah is so bold as to say, “I have been found by those who did not seek me; I have shown myself to those who did not ask for me.”",
+      "arminianNotes": "Wesley: Isaiah is very bold—and speaks plainly what Moses but intimated. Gentiles who were not seeking found Him; He showed Himself to those who did not ask. The boldness is the plainness: God is found by outsiders.\n\nThis is grace to the undeserving, not a denial that Israel was sought. Verse 21 will say He held out His hands to Israel all day. Gentiles found Him without seeking; that does not cancel the real offer to the people who were sought and said no.",
+      "reformedNotes": "Calvin: the Prophet did not speak in figurative language or with hesitation, but in plain words declared the calling of the Gentiles. None anticipates the Lord; we are all delivered by free mercy from the abyss of death when there is no knowledge of Him, no desire of serving Him.\n\nFound by those who did not seek: this is the calling of the Gentiles and a picture of all the faithful. God shows Himself. The next verse will charge Israel with the wickedness that made His favor a mockery—yet the showing is His."
+    },
+    {
+      "number": 21,
+      "text": "But of Israel he says, “All day long I have held out my hands to a disobedient and contrary people.”",
+      "arminianNotes": "Wesley: an unbelieving and gainsaying people—just opposite to those who believed with their hearts and made confession with their mouths. All day long He has held out His hands. That is a real, resisted offer: stretched arms, not a feint.\n\nDo not skip the hands. God sincerely invited a people who would not come. Disobedient and contrary names their refusal, not a decree that made the invitation a show. The same Lord who sent preachers (vv. 14–15) kept His arms open all day. Israel heard (v. 18) and did not believe. The fault is unbelief against a genuine holding-out.",
+      "reformedNotes": "Calvin: to Israel He stretched forth His hands, whom He continually by His word invited to Himself and ceased not to allure by every sort of kindness. Very emphatical: by seeking our salvation through the ministers of His word, He stretches forth His hands no otherwise than as a father who stretches forth his arms, ready to receive his son kindly into his bosom. He says daily, lest it seem strange if He was wearied in showing kindness, inasmuch as He succeeded not by His assiduity. The elect people were charged with their own wickedness.\n\nDo not skip the held-out hands; do not make them a failed decree. The invitation is genuine paternal solicitude. Unbelief is Israel’s own, and it still sits under God’s purpose—leading into the remnant of chapter 11. The arms are real; the contrary people are really to blame; the story is not that God tried and His will collapsed.",
+      "keyContrast": "Arminian readings typically take “all day long I have held out my hands” as a real, resisted offer: God sincerely invited, Israel heard and would not believe, and the contrary people are the opposite of those who believe and confess. Reformed readings typically take the same held-out hands as genuine (Calvin: a father stretching his arms) yet not a collapsed purpose: Israel is charged with its own wickedness, and unbelief sits under the God who still has a remnant in chapter 11."
+    }
+  ]
+}

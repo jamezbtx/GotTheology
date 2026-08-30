@@ -1,0 +1,83 @@
+{
+  "book": "Daniel",
+  "bookSlug": "daniel",
+  "chapter": 6,
+  "verseStart": 11,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "Daniel 6:11–18",
+  "context": "Men come by agreement and find Daniel making petition and plea before his God. They cite the injunction; the king answers that the law of the Medes and Persians stands and cannot be revoked. They accuse Daniel the exile of paying no attention to the king or the signed injunction. The king is much distressed, sets his mind to deliver Daniel, and labors till sundown to rescue him; they insist the law cannot be changed. Daniel is cast into the den of lions. The king says, May your God, whom you serve continually, deliver you. A stone is laid on the mouth of the den and sealed with the king’s signet and his lords’. The king goes to his palace, fasts, takes no diversions, and sleep flees from him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on men who find Daniel at prayer, an irrevocable law, a distressed king, and the sealed den—so each camp speaks in its own voice beside Daniel 6:11–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "As he did aforetime—He did not abate his prayers for the king’s command, nor did he break the law purposely, because he did no more than he was wont to do in serving his God. Displeased with himself—For having made that foolish decree. To deliver him—To find out some way of delivering him. Able to deliver—What he doubted of, we are sure of, that the servants of the living God, have a master who is able to deliver them and bear them out in his service.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Daniel 6:10, 14, 20)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "If Daniel had prayed with the slightest secrecy, he would not have been a victim to their snares; but he did not refuse the prospect of death. He could not escape without indirectly revolting from God. The nobles approach as conquerors, cunningly; they dwell upon the royal decree so as to bind the king. By saying Daniel, one of the Jewish captives, they intended to magnify his crime and poison the king’s mind. He was disturbed when he perceived their malice; he labored till the setting of the sun to free Daniel, yet that perverse shame prevailed. Thy God whom thou worshipest will deliver thee—he resigns him to God because it is not in his power to deliver him; clemency is manifest, yet not a grain of piety when he had wished to adorn himself in the spoils of deity. God’s counsel provided that the nobles should seal the stone, to render the miracle more illustrious. Although he was in the greatest grief, yet he did not correct his fault; he bewails in his palace and abstains from food and delicacies.",
+        "cite": "John Calvin",
+        "source": "Commentary on Daniel (on Daniel 6:11–18)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 11,
+      "text": "Then these men came by agreement and found Daniel making petition and plea before his God.",
+      "arminianNotes": "They come by agreement and find Daniel making petition and plea before his God. Wesley’s nearest (v. 10): he did not abate his prayers for the king’s command, nor did he break the law purposely, because he did no more than he was wont to do in serving his God.\n\nArminian pastoral: the watchers abuse the law. He is at the usual hours—not a riot, not a plot. Prayer is not insurrection. He honors the king; he will not treat him as God. Shared: God may yet deliver; the petitioner is not a rebel.",
+      "reformedNotes": "Calvin: if Daniel had prayed with the slightest secrecy, he would not have been a victim to their snares; he did not refuse the prospect of death. He knew the object of the edict and expected the nobles. He could not escape without indirectly revolting from God.\n\nReformed pastoral: God will keep his servant when the trap springs. The Most High is not ousted by spies at the window. Daniel is not a revolutionary and not a quietist. Shared: law as a weapon; prayer is not insurrection."
+    },
+    {
+      "number": 12,
+      "text": "Then they came near and said before the king, concerning the injunction, “O king! Did you not sign an injunction, that anyone who makes petition to any god or man within thirty days except to you, O king, shall be cast into the den of lions?” The king answered and said, “The thing stands fast, according to the law of the Medes and Persians, which cannot be revoked.”",
+      "arminianNotes": "They cite the injunction; the king answers that the thing stands fast, according to the law of the Medes and Persians, which cannot be revoked. Wesley’s nearest (v. 10): Daniel did not break the law purposely—he did no more than he was wont in serving his God.\n\nArminian pastoral: accusers abuse an irrevocable word. The king still might have refused this use of his word even while reciting it. Standing law is real (Rom 13; Titus 3); it is not a blank check for tyranny, and Daniel’s prayer is not a blank check for rebellion.",
+      "reformedNotes": "Calvin: they approach as conquerors, but cunningly; they do not yet name Daniel, whom they knew to be a favorite. They dwell upon the royal decree to bind the king. Kings desire praise for consistency, but confuse it with obstinacy, which utterly perverts justice.\n\nReformed pastoral: even a pagan king cannot revoke what God has allowed to stand—and cannot make himself God by an unchangeable line. Shared: the law is their weapon. The Most High still rules the hall."
+    },
+    {
+      "number": 13,
+      "text": "Then they answered and said before the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, O king, or the injunction you have signed, but makes his petition three times a day.”",
+      "arminianNotes": "They name him: Daniel, one of the exiles from Judah, pays no attention to you, O king, or the injunction you have signed, but makes his petition three times a day. Wesley’s nearest (v. 10): he did no more than he was wont to do in serving his God.\n\nArminian pastoral: the smear is exile plus prayer. He has not rioted; he has not plotted. Honor the king; do not treat him as God. The charge is worship, not insurrection. Shared: they abuse the law to make a faithful official look like a rebel.",
+      "reformedNotes": "Calvin: by saying Daniel, one of the Jewish captives, they intended to magnify his crime and render him odious. They desired to poison the king’s mind: a late slave, a stranger, and yet he rebels against thee.\n\nReformed pastoral: God is not fooled by “exile.” The Most High placed this servant in the court. Shared: law as a weapon; the accusation is not civic crime. Daniel is not a revolutionary. God may yet deliver him."
+    },
+    {
+      "number": 14,
+      "text": "Then the king, when he heard these words, was much distressed and set his mind to deliver Daniel. And he labored till the sun went down to rescue him.",
+      "arminianNotes": "The king is much distressed, sets his mind to deliver Daniel, and labors till the sun goes down to rescue him. Wesley: Displeased with himself—for having made that foolish decree. To deliver him—to find out some way of delivering him.\n\nArminian pastoral: labor till sundown matters. He is distressed, not a tyrant-hero and not a devil. The king still might have refused this use of his word. Grief is real agency. Shared: the king’s grief; God may deliver.",
+      "reformedNotes": "Calvin: the king was disturbed when he perceived the malice of his nobles. He labored till the setting of the sun to free Daniel, yet that perverse shame prevailed; when we do not lean upon God’s help we are always compelled to vacillate. He was vanquished and obeyed the lusts of the wicked.\n\nReformed pastoral: even a pagan king cannot revoke what God has allowed to stand. God will keep his servant when the magistrate cannot. Shared: he is distressed, not a devil. The Most High is not trapped by Media’s formula.",
+      "keyContrast": "Both honor the king’s distress and refuse to make him a tyrant-hero or a devil. Arminians typically hear Wesley: displeased with himself for a foolish decree, and laboring to find some way of delivering him—the hours till sundown are real, and he still might have refused this use of his word. Reformed readers typically hear Calvin: he labored till sunset, yet perverse shame prevailed; without leaning on God’s help he vacillates, and even a pagan king cannot revoke what God has allowed to stand."
+    },
+    {
+      "number": 15,
+      "text": "Then these men came by agreement to the king and said to the king, “Know, O king, that it is a law of the Medes and Persians that no injunction or ordinance that the king establishes can be changed.”",
+      "arminianNotes": "They come by agreement again: it is a law of the Medes and Persians that no injunction or ordinance the king establishes can be changed. Wesley’s nearest (v. 14): he was still trying to find some way of delivering him.\n\nArminian pastoral: they slam the remaining door. He still might have refused this use of his word; they will not let him. Christians honor standing law (Rom 13; Titus 3:1). They do not baptize an unchangeable snare, and they do not riot when the snare closes.",
+      "reformedNotes": "Calvin: when they saw the king hesitate and doubt, they became fierce and contentious. They treat him in a threatening manner. They frighten him from any change of counsel: thou wilt not be king unless thou avenge this insult.\n\nReformed pastoral: God has allowed the word to stand; they cannot oust the Most High by citing it. Shared: law as a weapon. The servant will go to the den; God will keep him there. Daniel is not a revolutionary, and the nobles are not the Lord’s council."
+    },
+    {
+      "number": 16,
+      "text": "Then the king commanded, and Daniel was brought and cast into the den of lions. The king declared to Daniel, “May your God, whom you serve continually, deliver you!”",
+      "arminianNotes": "Daniel is brought and cast into the den of lions. The king declares: May your God, whom you serve continually, deliver you! Wesley’s nearest (v. 20): What he doubted of, we are sure of, that the servants of the living God have a master who is able to deliver them and bear them out in his service.\n\nArminian pastoral: the wish is real; the labor till sundown has failed. He is not a devil for the sentence, and not a hero for the blessing. Prayer landed him here; prayer is not insurrection. Shared: God may deliver. Daniel does not riot on the way down.",
+      "reformedNotes": "Calvin: frightened by the nobles, he condemns Daniel. Thy God whom thou worshipest will deliver thee—read as a wish; there is no doubt Darius really wished it. He resigns him to God because it is not in his power to deliver him. Clemency is manifest; yet he had not a grain of piety when he had wished to adorn himself in the spoils of deity.\n\nReformed pastoral: God will keep his servant in the den. The king is a magistrate, not God. Shared: God may deliver. The Most High is not bound by the cast.",
+      "keyContrast": "Both hear a real wish that God would deliver, and neither makes Daniel a rioter. Arminians typically hear Wesley’s nearer word (v. 20): what the king doubted, we are sure of—the living God is able to deliver his servants and bear them out. Reformed readers typically hear Calvin: the king wishes it and cannot do it; clemency without piety; God, not Darius, will keep his servant in the den."
+    },
+    {
+      "number": 17,
+      "text": "And a stone was brought and laid on the mouth of the den, and the king sealed it with his own signet and with the signet of his lords, that nothing might be changed concerning Daniel.",
+      "arminianNotes": "A stone is laid on the mouth of the den; the king seals it with his own signet and with the signet of his lords, that nothing might be changed concerning Daniel. Wesley’s nearest (v. 14): the king had wanted some way of delivering him; the seals now close that way.\n\nArminian pastoral: irrevocable paper, now irrevocable stone. He is trapped by his own word, distressed, not a tyrant-hero. Shared: law as a weapon; God may yet deliver. Daniel has not rioted; the seal is not a verdict on prayer.",
+      "reformedNotes": "Calvin: God’s counsel provided that the nobles should seal the stone with their own rings, to render the miracle more illustrious. They exacted a guarantee against his liberation; the king did not dare attempt anything in Daniel’s favor.\n\nReformed pastoral: God will keep his servant in the den the seals were meant to finish. Shared: nothing might be changed—by men. The Most High is not sealed out. Even a pagan king cannot revoke what God has allowed to stand, and cannot prevent what God will undo."
+    },
+    {
+      "number": 18,
+      "text": "Then the king went to his palace and spent the night fasting; no diversions were brought to him, and sleep fled from him.",
+      "arminianNotes": "The king goes to his palace, spends the night fasting; no diversions are brought, and sleep flees from him. Wesley’s nearest (v. 14): displeased with himself for the foolish decree, he had labored to find a way; the fast is that grief with the door shut.\n\nArminian pastoral: he is distressed, not a devil. Labor till sundown was real; the sleepless palace shows it. He still might have refused this use of his word; he did not. Shared: the king’s grief; God may deliver the man who did not riot.",
+      "reformedNotes": "Calvin: although he was in the greatest grief, yet he did not correct his fault. He bewails in his palace and abstains from food and delicacies; he shews displeasure at the evil at which he connived. Sorrow must lead on to repentance, not stop at wailing.\n\nReformed pastoral: God will keep his servant in the den while the king cannot sleep. Shared: grief is real. The Most High is not waiting on Darius’s rest. Daniel is not a revolutionary; the magistrate is not God."
+    }
+  ]
+}

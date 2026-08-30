@@ -37,3 +37,18 @@ Filename stem becomes the URL stem: `3-6.json` maps to `/bible/ephesians/1/3-6.h
 - `/bible/index.html`
 - `public/verse.html` alias for Ephesians 1:3-6
 - `/assets/gottheology.css`
+
+
+## Doctrines and attributes
+
+Hub JSON lives beside the books tree:
+
+    content/doctrines/<slug>.json   ->  /doctrines/<slug>.html
+    content/attributes/<slug>.json  ->  /attributes/<slug>.html
+    /doctrines/   and  /attributes/ hubs
+
+Required: kind, slug, title, summary. Typical fields match the first-wave files: context, showVoices, voices, arminianNotes, reformedNotes, keyContrast, scripture[].
+
+Each scripture item: book, bookSlug, chapter, verseStart, verseEnd, title, href (/bible/<bookSlug>/<ch>/<start>-<end>.html), why. The builder drops hrefs that are not live.
+
+Passage chips (max 3) are derived from those scripture lists during the project build. Greetings, Genesis 1 creation-day pages, and Titus 2:9-10 are never chipped.

@@ -1,0 +1,107 @@
+{
+  "book": "Daniel",
+  "bookSlug": "daniel",
+  "chapter": 5,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Daniel 5:1–12",
+  "context": "King Belshazzar throws a great feast for a thousand lords, drinks from the golden vessels taken from the house of God in Jerusalem, and praises gods of gold and stone. Fingers of a human hand write on the palace plaster; the king’s color fails and his wise men cannot read; the queen comes in and names Daniel, in whom an excellent spirit was found.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Belshazzar’s feast, the handwriting on the wall, and the queen who names Daniel—so each camp speaks in its own voice beside Daniel 5:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Belshazzar—The grandson of Nebuchadnezzar. Made a great feast—After the manner of the eastern kings who shewed their magnificence this way. But this is prodigious that he should carouse when the city was besieged, and ready to be taken by Darius the Mede. To bring the vessels—Triumphing thereby over God and his people. And praised the gods of gold—At the same time insulting the great God of heaven and earth. Came forth fingers—The likeness of a man’s hand. His knees smote—So soon can the terrors of God make the loftiest cedars, the tyrants of the earth. The queen came—The women in those courts had an apartment by themselves, and this being the queen-mother, and aged, did not mingle herself with the king’s wives and concubines, yet she broke the rule in coming in now, upon this solemn occasion.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Daniel 5:1–12)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Here we must consider the Providence of God, in arranging the times of events, so that the impious, when the time of their destruction is come, cast themselves headlong of their own accord. Wonderful indeed was the stupidity which prepared a splendid banquet filled with delicacies, while the city was besieged. Meanwhile the Lord did not sit at rest in heaven; for he blinds the mind of the impious king, so that he should willingly incur punishments. God, when he wishes to execute his judgments, impels the reprobate by a secret instinct to rush forward of their own accord, and to hasten their own destruction. There appeared the hand of a man; God wrote the inscription by his own power, and inspired the king with this terror. The queen enters and mentions Daniel. God wished King Belshazzar to be reproved by a woman, who shews him the grossness of his error in wandering about in uncertainty, when the way was plain before him. God had put his torch in the Prophet’s hand for the very purpose of lighting the king, unless he willfully desired to wander in darkness, as all the wicked do.",
+        "cite": "John Calvin",
+        "source": "Commentary on Daniel (on Daniel 5:1–12)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "King Belshazzar made a great feast for a thousand of his lords and drank wine in front of the thousand.",
+      "arminianNotes": "King Belshazzar makes a great feast for a thousand lords and drinks wine in front of them. Wesley: the grandson of Nebuchadnezzar, after the manner of the eastern kings who shewed their magnificence this way—but this is prodigious, that he should carouse when the city was besieged and ready to be taken.\n\nArminian pastoral: pride can feast while judgment stands at the gate. The king is not a puppet at table; he chooses wine and display. The Most High will answer this night, but the banquet is still the king’s own insult, not a forced toast.",
+      "reformedNotes": "Calvin: wonderful was the stupidity which prepared a splendid banquet while the city was besieged. The Lord did not sit at rest in heaven; he blinds the mind of the impious king, so that he should willingly incur punishments. The impious, when the time of their destruction is come, cast themselves headlong of their own accord.\n\nReformed pastoral: the feast is not luck. God arranges the hour of Babylon’s fall and gives the proud king up to the very revel that ripens judgment. Sovereignty here is not a culture-war speech; it is the Most High ruling while a tyrant drinks.",
+      "keyContrast": "Both condemn the feast as pride under siege. Arminians typically hear Wesley’s “prodigious” carousing—the king’s own chosen insult while the city totters. Reformed readers typically hear Calvin’s further word: God blinds the impious king, and the reprobate rush headlong when their destruction is due."
+    },
+    {
+      "number": 2,
+      "text": "Belshazzar, when he tasted the wine, commanded that the vessels of gold and of silver that Nebuchadnezzar his father had taken out of the temple in Jerusalem be brought, that the king and his lords, his wives, and his concubines might drink from them.",
+      "arminianNotes": "Wine in, command out: bring the gold and silver vessels Nebuchadnezzar took from the temple, that king, lords, wives, and concubines may drink. Wesley: triumphing thereby over God and his people.\n\nArminian note: intoxication does not erase guilt; it loosens a will already set against the Holy One. Sacrilege is a chosen triumph, not an accident of the cup. Grace still calls the proud to humble themselves; this king uses the vessels to mock.",
+      "reformedNotes": "Calvin: Belshazzar courts his own punishment. When God wishes to execute his judgments, he impels the reprobate by a secret instinct to rush forward of their own accord and hasten their own destruction. When the savor of the wine seized the king’s senses, he ordered the vessels brought—to insult the true God.\n\nReformed note: wine is the occasion; the deeper cause is a heart God gives up. The temple vessels are not props in a party joke; they are the stage on which pride ripens vengeance. The Most High is not mocked.",
+      "keyContrast": "Shared: drinking from the temple vessels is triumph over God. Wesley names the king’s insult. Calvin adds that God impels the reprobate by a secret instinct to hasten destruction—giving the proud up, not merely watching them slip."
+    },
+    {
+      "number": 3,
+      "text": "Then they brought in the golden vessels that had been taken out of the temple, the house of God in Jerusalem, and the king and his lords, his wives, and his concubines drank from them.",
+      "arminianNotes": "The golden vessels from the house of God in Jerusalem are brought; the court drinks. Servants obey a drunken nod without delay.\n\nArminian pastoral: holy things can be fetched in minutes when a tyrant wants them. The house of God is not a museum for Babylon’s toast. Those who handle what is holy without fear still remain responsible; haste in sacrilege is still sin.",
+      "reformedNotes": "Calvin notes that “golden” likely marks the most precious vessels, and that “the temple of God’s house” strengthens the impiety: not from Jerusalem only, but from the house of God. Slaves of tyrants obey them in the worst actions; no delay intervened.\n\nReformed pastoral: the treasury opens at a brutish command. God had left those vessels in Babylon for a time; he had not left his honor. What is brought out of his house will soon write his verdict on the wall."
+    },
+    {
+      "number": 4,
+      "text": "They drank wine and praised the gods of gold and silver, bronze, iron, wood, and stone.",
+      "arminianNotes": "They drink and praise gods of metal, wood, and stone. Wesley: at the same time insulting the great God of heaven and earth.\n\nArminian pastoral: idolatry here is not a private hobby; it is a public toast against the living God. Wine fuels petulance already in the heart. The God who made heaven and earth is insulted while dead things are sung.",
+      "reformedNotes": "Calvin: when the vessels were brought, they praised their gods of gold and silver—in defiance of the true God. This was the head and front of Belshazzar’s offending: he purposely rose up against God and triumphed over the Creator. Calvin judged him drawn by God’s instinct to such madness that vengeance might be ripened.\n\nReformed pastoral: false gods that cannot see or hear are praised; the God of Israel is mocked with his own cups. Judgment is not random; pride has come to full term."
+    },
+    {
+      "number": 5,
+      "text": "Immediately the fingers of a human hand appeared and wrote on the plaster of the wall of the king’s palace, opposite the lampstand. And the king saw the hand as it wrote.",
+      "arminianNotes": "Immediately—fingers of a human hand write on the plaster opposite the lampstand. The king sees the hand. Wesley: the likeness of a man’s hand.\n\nArminian pastoral: God can interrupt a feast without a preacher in the room. The sign is public, opposite the lamp, so the king cannot miss it. Terror can become a door if the heart will humble itself; the writing has not yet been read.",
+      "reformedNotes": "Calvin: God gave the king a sign as an omen of calamity. The wall was previously bare, then the hand suddenly appeared—no artifice, a sign from heaven. God wrote the inscription by his own power; the king was an eye-witness, because God wished to terrify him and summon this impious king to his tribunal.\n\nReformed pastoral: the hand is the Lord’s. The lampstand makes the writing conspicuous in a night banquet. Judgment does not stay in heaven while the palace sings to stone."
+    },
+    {
+      "number": 6,
+      "text": "Then the king’s color changed, and his thoughts alarmed him; his limbs gave way, and his knees knocked together.",
+      "arminianNotes": "Color gone, thoughts alarmed, limbs giving way, knees knocking. Wesley: so soon can the terrors of God make the loftiest cedars, the tyrants of the earth.\n\nArminian pastoral: one moment a thousand lords and wine; the next, a king who cannot stand. God’s terror is real and can still be a call to repent. Fear is not yet faith; it is a mercy if it drives a man toward the God he insulted.",
+      "reformedNotes": "Calvin: the king’s mind was struck with fear; God inspired him with this terror. The daily siege ought to have made him anxious; instead he banqueted as in profound peace, corrupted by a kind of spiritual drunkenness. No ordinary means were effectual in recalling him to soundness of mind.\n\nReformed pastoral: God awakens the proud from lethargy when milder words have been despised. Knees knock because the Judge is near—not because fate hiccuped. The fear is a summons this king will not finish well."
+    },
+    {
+      "number": 7,
+      "text": "The king called loudly to bring in the enchanters, the Chaldeans, and the astrologers. The king declared to the wise men of Babylon, “Whoever reads this writing, and shows me its interpretation, shall be clothed with purple and have a chain of gold around his neck and shall be the third ruler in the kingdom.”",
+      "arminianNotes": "He cries for enchanters, Chaldeans, astrologers: read this, and I will give purple, gold, and third place in the kingdom.\n\nArminian pastoral: panic still shops in the old market. He will pay for a reading rather than humble himself before the God whose vessels he used. Rewards cannot buy what only the living God gives; the offer is loud, the heart still proud.",
+      "reformedNotes": "Calvin: he cried out loudly, so astonished as to forget his dignity. Daniel ought to have been first, yet the king sends for magi and passes the Prophet by. The promise of third rank shows he was not sincerely touched by the fear of God: the wicked dread judgments, yet the pride of their hearts is not corrected.\n\nReformed pastoral: terror without repentance still hires the old wise men. God had already shown Daniel’s worth in the grandfather’s day; Belshazzar will not use the light he had."
+    },
+    {
+      "number": 8,
+      "text": "Then all the king’s wise men came in, but they could not read the writing or make known to the king the interpretation.",
+      "arminianNotes": "All the wise men come; none can read the writing or make known the interpretation.\n\nArminian pastoral: Babylon’s wisdom stops at plaster. God can hide a line from the experts and still mean to be heard. Failure here is mercy’s severe kindness: it clears the floor for a servant of the Most High.",
+      "reformedNotes": "Calvin: the king pays the punishment of his ingratitude in passing over God’s Prophet. There was no one who could read the writing or reveal its interpretation. God can address one man and blind a room of magi; the writing was a riddle until an interpreter was divinely ordained.\n\nReformed pastoral: the sealed line is itself judgment. Light refused becomes light withheld. The court is without counsel because it would not have Daniel."
+    },
+    {
+      "number": 9,
+      "text": "Then King Belshazzar was greatly alarmed, and his color changed, and his lords were perplexed.",
+      "arminianNotes": "Greatly alarmed, color changed again, lords perplexed. The feast has no interpreter and no peace.\n\nArminian pastoral: fear deepens when the hired help fails. Perplexity in the hall is not yet repentance on the throne. The Most High can still be sought; this night he will be, by another door.",
+      "reformedNotes": "Calvin: the king was frightened, his countenance changed, and the princes disturbed. Publicity increased the sense of God’s judgment, so the report would not be buried in the drunken revel. He saw no prospect of aid from magi and astrologers.\n\nReformed pastoral: God will not let this verdict be a private scare. Lords share the perplexity; the court learns that Babylon cannot read heaven. Alarm here is the Judge’s summons, not a mood."
+    },
+    {
+      "number": 10,
+      "text": "The queen, because of the words of the king and his lords, came into the banqueting hall, and the queen declared, “O king, live forever! Let not your thoughts alarm you or your color change.",
+      "arminianNotes": "The queen, hearing the words, comes into the hall: O king, live forever; let not your thoughts alarm you or your color change. Wesley: the queen-mother, aged, who did not mingle with the wives and concubines, yet broke the rule in coming in now, upon this solemn occasion.\n\nArminian pastoral: a woman walks in where etiquette said stay out, because the hour is solemn. Calm words are not denial of danger; they open a path to the man who can actually help. God often uses an unexpected voice to recall forgotten mercy.",
+      "reformedNotes": "Calvin: Daniel is brought because the queen mentions him. She calms the king, yet shows the grossness of his error in wandering when the way was plain. God wished Belshazzar to be reproved by a woman. God had put his torch in the Prophet’s hand to light the king, unless he willfully desired to wander in darkness, as all the wicked do.\n\nReformed pastoral: the queen-mother remembers what the king forgot. Providence uses her entrance. The way was already there; pride had walked past it."
+    },
+    {
+      "number": 11,
+      "text": "There is a man in your kingdom in whom is the spirit of the holy gods. In the days of your father, light and understanding and wisdom like the wisdom of the gods were found in him, and King Nebuchadnezzar, your father—your father the king—made him chief of the magicians, enchanters, Chaldeans, and astrologers,",
+      "arminianNotes": "There is a man in whom is the spirit of the holy gods; in the days of the father, light, understanding, and wisdom were found in him. Nebuchadnezzar made him chief of the magicians.\n\nArminian pastoral: Daniel is not a novelty; he is a neglected gift. Light already shown in the previous reign is still available. The queen tells the truth the court should have known: God had placed a servant with real wisdom in this kingdom.",
+      "reformedNotes": "Calvin: the profane speak of “holy gods,” unable to discern the one God from angels; yet they ascribe excellence to heaven. King Nebuchadnezzar had set Daniel over the magi. Belshazzar’s ignorance of such a Prophet is gross indifference; God had signalized Daniel as if he were an angel from heaven.\n\nReformed pastoral: forgotten light is still light. The spirit in Daniel is the Lord’s gift, whatever pagan wording the queen uses. The grandfather honored what the grandson ignored."
+    },
+    {
+      "number": 12,
+      "text": "because an excellent spirit, knowledge, and understanding to interpret dreams, explain riddles, and solve problems were found in this Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation.”",
+      "arminianNotes": "An excellent spirit, knowledge, and understanding to interpret dreams, explain riddles, and solve problems were found in this Daniel, whom the king named Belteshazzar. Let him be called; he will show the interpretation.\n\nArminian pastoral: the queen stakes the night on a man already proven. Calling Daniel is obedience to light already given, not a last superstition. God can still speak through a captive if the king will hear; the interpretation will be true whether the court likes it or not.",
+      "reformedNotes": "Calvin: an excellent spirit was found in him, as he interpreted dreams, revealed secrets, and solved difficulties—three gifts that proved him to have surpassed the other magi. A name was imposed by the former king, so Belshazzar might defer to his grandfather’s judgment.\n\nReformed pastoral: the gifts are from God, tested in public already. Let Daniel be called: the Most High has not left Babylon without a witness. The interpretation will come as judgment, not as a court trick."
+    }
+  ]
+}

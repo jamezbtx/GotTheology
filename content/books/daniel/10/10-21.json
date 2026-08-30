@@ -1,0 +1,106 @@
+{
+  "book": "Daniel",
+  "bookSlug": "daniel",
+  "chapter": 10,
+  "verseStart": 10,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "Daniel 10:10–21",
+  "context": "A hand lifts trembling Daniel: man greatly loved, fear not—your words have been heard. The prince of Persia withstood the messenger twenty-one days; Michael came. Strengthened again, Daniel is told of a fight against Persia, of Greece, and of the book of truth beside which only Michael, your prince, contends.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on “fear not, Daniel,” a delayed answer, the prince of Persia, and Michael the church’s prince—so each camp speaks in its own voice beside Daniel 10:10–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He—Not Christ, but Gabriel. Withstood me—God suffered the wicked counsels of Cambyses to take place awhile; but Daniel by his prayers, and the angel by his power, overcame him at last: and this very thing laid a foundation of the ruin of the Persian monarchies. Michael—Michael here is commonly supposed to mean Christ. I remained—To counter-work their designs against the people of God. To fight—To oppose his mischievous designs. Michael—Christ alone is the protector of his church, when all the princes of the earth desert or oppose it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Dan 10:12–13, 20–21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "God had heard him, indeed, from the very first day. We ought carefully to notice this, because delay often disturbs us when God does not immediately extend his help, and for a long time hides from us the fruit of our prayers. Our prayers may be already heard while God's favor and mercy is concealed from us. The experience of Daniel is daily fulfilled in every member of the Church. Some think the word Michael represents Christ, and I do not object to this opinion. Clearly enough, if all angels keep watch over the faithful and elect, still Christ holds the first rank among them, because he is their head, and uses their ministry and assistance to defend all his people.",
+        "cite": "John Calvin",
+        "source": "Commentary on Daniel (on Dan 10:12–13)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 10,
+      "text": "And behold, a hand touched me and set me trembling on my hands and knees.",
+      "arminianNotes": "A hand touches him and sets him trembling on hands and knees. He is not left in the dust forever. Touch is how the messenger begins to raise a man who cannot raise himself. Wesley’s encouragement section starts here: the same glory that felled him now handles him.\n\nArminian pastoral: God uses means—a hand, a posture half-raised. Daniel must still be touched and still tremble. Grace does not skip the body. The prophet is being enabled to hear; he is not declared strong while he lies as if dead.",
+      "reformedNotes": "Calvin later says there is no virtue in the mere touch, yet God keenly uses symbols. The hand is the Lord’s chosen sign that this terror has an end in speech, not in destruction. Trembling on hands and knees is already mercy: he can be set up because God so wills.\n\nReformed note: the touch accredits the mission. Satan can mimic light; God marks this raising as His. Daniel’s half-stance is the beginning of a restoration God performs by degrees."
+    },
+    {
+      "number": 11,
+      "text": "And he said to me, “O Daniel, man greatly loved, understand the words that I speak to you, and stand upright, for now I have been sent to you.” And when he had spoken this word to me, I stood up trembling.",
+      "arminianNotes": "“Man greatly loved”—then: understand, stand upright, I have been sent. Love is spoken before the command. Wesley will say this speaker is not the linen-Christ of verses 4–9 but Gabriel. The beloved man is still told to do something: understand, stand. He stands up trembling. Love has not canceled frailty.\n\nClassical Arminians: belovedness is real, and so is the summons. Daniel actually stands. The love of God does not make the prophet a passive object; it calls a man who can, by help, rise. Trembling obedience is still obedience.",
+      "reformedNotes": "Calvin: a man of desires, dear and precious to God—not a mood Daniel produced by fasting well. The messenger is sent; Daniel does not fetch him. God restores by degrees: from hands and knees to standing, still trembling. He does not render His servants perfect all at once.\n\nReformed pastoral: you are not loved because you finally got off the ground. The love is announced to a man who can barely stand. God names the prophet beloved while his knees still shake."
+    },
+    {
+      "number": 12,
+      "text": "Then he said to me, “Fear not, Daniel, for from the first day that you set your heart to understand and humbled yourself before your God, your words have been heard, and I have come because of your words.",
+      "arminianNotes": "“Fear not, Daniel”—because from the first day he set his heart to understand and humbled himself, his words were heard, and the messenger has come because of those words. Wesley: this “he” is not Christ but Gabriel. The first day matters: seeking and humility are not theater. God heard a man who actually turned.\n\nArminian hope: prayer is a real cause in the story. “I have come because of your words” is allowed to mean what it says. Grace enabled the set heart and the humbling; Daniel still did them. Fear is answered by a God who hears, not by a God who never needed to be asked.",
+      "reformedNotes": "Calvin: God does not wish us entirely free from fear—too much confidence breeds sloth—but He calms dread so the prophet can listen. Heard from the first day: the three weeks were not divine deafness. Prayers according to God’s will, joined to penitence and to faith that says “thy God,” are received. The angel comes at his words as God inclines toward those who fear Him.\n\nReformed accent: the first day tells you God was not waiting to be persuaded. Favor can be hidden while it is already real. Daniel’s setting of heart is itself God’s work in a man He loves; the hearing is prior to the felt answer. Delay will be explained as care, not reluctance.",
+      "keyContrast": "Both hear that from the first day Daniel set his heart and humbled himself, his words were heard. Arminians typically stress those acts as grace-enabled yet truly required—prayer God honors and answers. Reformed readers typically stress that God had already heard and was already at work while the fruit of prayer remained hidden."
+    },
+    {
+      "number": 13,
+      "text": "The prince of the kingdom of Persia withstood me twenty-one days, but Michael, one of the chief princes, came to help me, for I was left there with the kings of Persia,",
+      "arminianNotes": "The prince of Persia withstood the messenger twenty-one days; Michael, one of the chief princes, came to help. Wesley: God suffered Cambyses’s wicked counsels awhile, but Daniel by his prayers and the angel by his power overcame him; Michael is commonly supposed to mean Christ. The three weeks on the ground had a counterpart in unseen contention.\n\nArminian pastoral: prayer and angelic help are not rivals. God permits opposition for a time; He does not make Daniel’s seeking pointless. Keep the names historical—Cambyses, Persia—not a canvas for modern states or a chart of territorial spirits. The lesson is that God can be resisted in the field and still not be deaf.",
+      "reformedNotes": "Calvin reads the prince as Cambyses raging against the temple, the angel fighting against him rather than for him. God had heard from day one; the delay was occupation in the people’s welfare. Michael—some think Christ, and Calvin does not object—comes as a chief prince. Angels contend for the church; God plants them against Satan’s endeavors and the fury of the impious.\n\nReformed pastoral: you may consume away in grief while help is already posted. God is not bound to one angel or a thousand. Do not turn this verse into a newspaper of empires. Receive it as hidden care for a threatened people."
+    },
+    {
+      "number": 14,
+      "text": "and came to make you understand what is to happen to your people in the latter days. For the vision is for days yet to come.”",
+      "arminianNotes": "He came to make Daniel understand what will happen to his people in the latter days; the vision is for days yet to come. Understanding is the errand. “Your people” keeps the word pastoral: this is not a hobby of times and charts. Wesley’s whole chapter is introductory to that discovery.\n\nArminian note: God wants His servant to understand, and the servant is capable, under help, of understanding. Future days are real; they are not an excuse to stop humbling ourselves now. Fair reading refuses to baptize today’s headlines as “the latter days” of this verse.",
+      "reformedNotes": "Calvin: the angel’s mission is to disclose what shall occur to this people at the close of the days; he willingly refers that horizon to the church’s renovation at Christ’s advent. The vision remaining “for days” is a lamp, not a panic. Latter days here are God’s care stretched toward redemption, not a prompt to treat newspapers as inspired.\n\nReformed comfort: God tells what He wants told, when He wants it heard. Days yet to come are in His hand. The pious are to wait under a true word, not to force the timetable. Shared with Wesley: this chapter introduces what follows; it is not a license to map the conflict onto our politics."
+    },
+    {
+      "number": 15,
+      "text": "When he had spoken to me according to these words, I turned my face toward the ground and was mute.",
+      "arminianNotes": "After these words he turns his face to the ground and is mute. Wesley: he prostrated himself and became dumb through astonishment. Comforting sentences have not yet made him chatty. Awe returns as soon as the conflict and the latter days are named.\n\nClassical Arminians: the will to speak can fail in a holy man. Muteness is not stubbornness here; it is overflow of fear and wonder. God will touch his lips. Until then silence is fitting. We too may go quiet when the word is too large.",
+      "reformedNotes": "Calvin: the phrase does not mean Daniel repented of his office as if prayer had been disregarded. Fear seized him until feet and tongue refused their work. Prostrate and dumb, he shows the angel’s words were not ordinary speech. The signs still stamp authority on the message.\n\nReformed note: God is not hurried by our need to reply. Silence can be the Spirit’s classroom. Mute dust is still a beloved man. The next touch will open the mouth God intends to use."
+    },
+    {
+      "number": 16,
+      "text": "And behold, one in the likeness of the children of man touched my lips. Then I opened my mouth and spoke. I said to him who stood before me, “O my lord, by reason of the vision pains have come upon me, and I retain no strength.",
+      "arminianNotes": "One in the likeness of the children of man touches his lips; then he opens his mouth. Wesley: this likewise seems to have been Gabriel. Speech returns by a touch, as in Isaiah’s coal. Daniel’s first sentences are confession: pains, no strength. He can talk, and what he says is weakness.\n\nArminian pastoral: the likeness of a man is kindness to a shattered prophet. God stoops to a form Daniel can bear, yet even then dread remains. Grace restores speech so the servant can admit he cannot go on without more help. Honest weakness is not unbelief.",
+      "reformedNotes": "Calvin: some restrict this figure to Christ, but he fears that is forced; the same angel as before, human in form not in nature; Christ fits Michael better. No virtue in the mere touch, yet God uses the symbol. Terror’s weight is proved by how hard it is to rouse him. The credentials distinguish this word from Satan’s disguises.\n\nReformed accent: God restores a prophet by degrees and by signs. The mouth opens because the Lord appointed it. We need not force every human-like figure in the chapter to be the Son; Calvin’s sobriety still leaves Michael room to bear that title."
+    },
+    {
+      "number": 17,
+      "text": "How can my lord’s servant talk with my lord? For now no strength remains in me, and no breath is left in me.”",
+      "arminianNotes": "How can my lord’s servant talk with my lord? No strength, no breath. Wesley noted that though the messenger spoke as a man, Daniel could not bear the presence without dread. Nearness does not breed casualness. The question is real: a servant has no natural fitness for this conversation.\n\nClassical Arminians: the plea is a prayer. Daniel does not claim a right to the vision he sought. Help must be given again if talk is to continue. God is not honored by pretending we have breath we do not have.",
+      "reformedNotes": "Calvin hears a man only partially erect, still spellbound. “Lord” is respect, not a second God beside the Father. Dust and ashes cannot stand when God shows glory; mountains melt at His voice. Daniel names the truth: breath is a gift, and it has gone.\n\nReformed pastoral: God lets His prophet say “I cannot” so that the next touch will be clearly His. Fitness for hearing is conferred, not assumed. The church learns here to speak from emptiness rather than from swagger."
+    },
+    {
+      "number": 18,
+      "text": "Again one having the appearance of a man touched me and strengthened me.",
+      "arminianNotes": "Again one with a man’s appearance touches him and strengthens him. Once was not enough. Wesley’s Gabriel keeps dealing with a man who keeps failing. Strength is given, not merely advised. The repetition is mercy for a servant who would otherwise remain mute.\n\nArminian note: cooperating grace looks like this—touch, strength, then the ability to answer. Daniel does not strengthen himself by recalling his three-week fast. He is made able. The God who requires him to hear also supplies the hearing.",
+      "reformedNotes": "Calvin: he failed to recover entire strength at the first touch; he was roused by degrees. Two conditions joined: terror and renewal—so Daniel could receive calmly and deliver faithfully. God is author of the prophecy to be uttered.\n\nReformed accent: restoration on a schedule we would not choose is still restoration. The second touch is not a sign that the first failed; it is how God keeps a mortal in a conversation with heaven. Strength is His to give twice."
+    },
+    {
+      "number": 19,
+      "text": "And he said, “O man greatly loved, fear not, peace be with you; be strong and of good courage.” And as he spoke to me, I was strengthened and said, “Let my lord speak, for you have strengthened me.”",
+      "arminianNotes": "Loved, fear not, peace, be strong and of good courage—and as he spoke, Daniel was strengthened. Then: “Let my lord speak, for you have strengthened me.” The commands arrive with the strength they name. Wesley’s encouragement is here in full: a beloved man is made able to hear the rest.\n\nClassical Arminians: “Let my lord speak” is a free, enabled yes. Peace is bestowed, courage is summoned, and the prophet truly answers. He does not hear the conflict of verses 20–21 as a spectator of someone else’s nerve. Grace makes a willing hearer.",
+      "reformedNotes": "The same mouth that said “greatly loved” now says “peace.” Calvin’s fear-not is the calming of a mind that must attend, not the erasure of creaturely trembling. As he spoke, Daniel was strengthened: the word works what it commands. Only then does the prophet invite more speech.\n\nReformed comfort: courage is not Daniel mining an inner resource. The beloved are told to be strong because God is already their peace. “You have strengthened me” gives the credit away—rightly."
+    },
+    {
+      "number": 20,
+      "text": "Then he said, “Do you know why I have come to you? But now I will return to fight against the prince of Persia; and when I go out, behold, the prince of Greece will come.",
+      "arminianNotes": "Do you know why I have come? Then: I will return to fight the prince of Persia; when I go out, the prince of Greece will come. Wesley: to fight is to oppose his mischievous designs. The errand of understanding sits inside an unfinished war of help. Persia and Greece are the empires of Daniel’s horizon—not a canvas for our politics.\n\nArminian pastoral: God answers prayer and still has fighting left to do. Fair reading keeps the names historical and the comfort present: the church’s Helper opposes what would destroy the people. No gloss for today’s factions.",
+      "reformedNotes": "Calvin: the angel will contend against the Persian prince; God has various methods to hinder kings’ cruelty—Cambyses restrained, later the Greek arrival also under permission. He is not describing God walking off the field. Always providing for the safety of His people, He uses more than one instrument.\n\nReformed note: this is theology of providence, not a newspaper of the Near East. The point is God’s freedom to restrain harm by angel or by the next empire. Do not recruit the verse for modern states. Shared: cruelty is not unsupervised."
+    },
+    {
+      "number": 21,
+      "text": "But I will tell you what is inscribed in the book of truth: there is none who contends by my side against these except Michael, your prince.",
+      "arminianNotes": "He will tell what is inscribed in the book of truth; none contends beside him against these except Michael, your prince. Wesley: “Christ alone is the protector of his church, when all the princes of the earth desert or oppose it.” The book is truth; the ally is Michael. Earthly princes may fail. The protector does not.\n\nClassical Arminians: trust is to be placed where Wesley places it—Christ the church’s prince—not in the next friendly court. Daniel is invited to receive inscribed truth, not to invent it. The people of God are not unprotected even when they look politically alone. Hold that pastorally, without turning Michael into a mascot of a party.",
+      "reformedNotes": "Calvin: the “Scripture of truth” is God’s eternal, inviolable decree—He needs no paper; the phrase is for our sake. Nothing brought but what God had determined. Michael “your prince”: some think Christ; Calvin does not object, for the title prince of the Church seems peculiar to Christ, not to any angel. God may seem to leave His people, then send help; He is not bound to one pattern.\n\nReformed pastoral: the book is already written. Michael contends. The church’s safety does not hang on how many princes hold with us. Receive the coming chapters as what was engraved, not as our speculation. Shared with Wesley: Christ the prince is enough when the field looks empty."
+    }
+  ]
+}

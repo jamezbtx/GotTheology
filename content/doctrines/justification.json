@@ -1,0 +1,143 @@
+{
+  "kind": "doctrine",
+  "slug": "justification",
+  "title": "Justification",
+  "summary": "God counts the believer righteous for Christ’s sake—both camps preach pardon and acceptance by grace through faith; they part over how faith relates to election, and whether the justified can fall from that standing.",
+  "context": "Justification is God’s verdict that a sinner is in the right with him. Genesis 15, “Abraham believed the Lord, and he counted it to him as righteousness,” and the later apostolic gospel of grace not works sit at the center. Arminius and the magisterial Reformers were closer here than popular debate suggests: both spoke of imputation and faith. The live forks are whether justifying faith is itself the effect of unconditional election, and whether the verdict can be lost.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the verdict of God—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The plain scriptural notion of justification is pardon, the forgiveness of sins. It is that act of God the Father, whereby, for the sake of the propitiation made by the blood of his Son, he “showeth forth his righteousness” by the remission of the sins that are past.",
+        "cite": "John Wesley",
+        "source": "Sermon 5, “Justification by Faith”"
+      },
+      {
+        "quote": "Justification is a just and gracious act of God as a Judge, by which, from the throne of his grace and mercy, he absolves from his sins man, a sinner, but who is a believer, on account of Christ, and of his obedience and righteousness.",
+        "cite": "Jacobus Arminius",
+        "source": "Private Disputations on Justification"
+      },
+      {
+        "quote": "If any doctrines within the whole compass of Christianity may be properly termed fundamental, they are doubtless these two,—the doctrine of justification, and that of the new birth: the former relating to that great work which God does for us, in forgiving our sins; the latter, to the great work which God does in us, in renewing our fallen nature.",
+        "cite": "John Wesley",
+        "source": "Sermon 45, “The New Birth”"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We explain justification simply as the acceptance with which God receives us into his favor as righteous men. And we say that it consists in the remission of sins and the imputation of Christ’s righteousness.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.11.2"
+      },
+      {
+        "quote": "When we say that the righteousness of Christ is imputed to us for justification and that we are just before God through imputed righteousness and not through any righteousness inherent in us, we mean nothing else than that the obedience of Christ rendered in our name to God the Father is so given to us by God that it is reckoned to be truly ours… the sole and only righteousness on account of and by the merit of which we are absolved from the guilt of our sins and obtain a right to life.",
+        "cite": "Francis Turretin",
+        "source": "Institutes of Elenctic Theology 16.3"
+      },
+      {
+        "quote": "The righteousness of Christ alone imputed to us is the foundation and meritorious cause upon which our absolutary sentence rests, so that for no other reason does God bestow the pardon of sin and the right to life than on account of the most perfect righteousness of Christ imputed to us and apprehended by faith.",
+        "cite": "Francis Turretin",
+        "source": "Institutes of Elenctic Theology, on justification"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley called justification pardon: God, for the sake of the Son’s blood, remits sins and accepts the believer. Arminius, trained in the Reformed schools, could speak of God the Judge absolving a believing sinner “on account of Christ, and of his obedience and righteousness.” The Arminian fork is not a return to merit; it is the claim that this faith is a genuine, enabled response, and that the justified must continue in faith.\n\n“Not by works” in Ephesians 2 and Titus 3 is heard in full. Works do not purchase the verdict. They follow new birth. Where Arminians press is conditionality: God justifies those who believe, and the promise is held out to all who will. Faith is not a work that earns; it is the empty hand—yet a hand that may close or open.\n\nBecause grace is resistible, some Arminians (Wesley more clearly than Arminius) teach that a believer may cease to believe and so lose the enjoyment of justification. That is a live internal debate on the Arminian side; it should not be flattened into “they think we earn heaven.”",
+  "reformedNotes": "Calvin’s definition is forensic: God accepts us as righteous by remitting sin and imputing Christ’s righteousness. Turretin refuses to let inherent holiness—real though it is as sanctification—enter the justifying sentence as cause or part. The obedience rendered in our name is “reckoned to be truly ours.”\n\nFaith justifies as instrument, not as a virtue that God rewards. It is itself given in effectual calling, so the verdict does not hang on the fragility of our resolve. Union with Christ is the context: we are righteous in another, then made holy in ourselves.\n\nPastoral Reformed notes stress that this is not a legal fiction. God judges according to truth because the Surety has obeyed and suffered. They also warn against antinomianism: the same grace that justifies also sanctifies. The fork with Arminians is less “faith versus works” than whether the faith that receives the verdict is the fruit of unconditional election and whether the verdict can finally fail.",
+  "keyContrast": "Both camps preach justification by grace through faith on the ground of Christ. Arminians typically treat believing as a resistible, grace-enabled condition that must continue; the Reformed typically treat faith as the instrumental effect of God’s prior, effectual mercy, and the verdict as final for those in Christ.",
+  "scripture": [
+    {
+      "book": "Titus",
+      "bookSlug": "titus",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8,
+      "title": "Titus 3:1–8",
+      "href": "/bible/titus/3/1-8.html",
+      "why": "He saved us, not because of works done by us in righteousness, but according to his own mercy."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 6,
+      "title": "Genesis 15:1–6",
+      "href": "/bible/genesis/15/1-6.html",
+      "why": "Abraham believed the Lord, and he counted it to him as righteousness."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 10,
+      "title": "Ephesians 2:1–10",
+      "href": "/bible/ephesians/2/1-10.html",
+      "why": "By grace you have been saved through faith… not a result of works, lest anyone should boast."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 3,
+      "verseStart": 21,
+      "verseEnd": 31,
+      "title": "Romans 3:21–31",
+      "href": "/bible/romans/3/21-31.html",
+      "why": "The righteousness of God through faith in Jesus Christ for all who believe."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 1,
+      "verseStart": 16,
+      "verseEnd": 17,
+      "title": "Romans 1:16–17",
+      "href": "/bible/romans/1/16-17.html",
+      "why": "The righteousness of God is revealed from faith for faith."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 9,
+      "verseStart": 30,
+      "verseEnd": 33,
+      "title": "Romans 9:30–33",
+      "href": "/bible/romans/9/30-33.html",
+      "why": "Righteousness by faith, not by works of the law."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 12,
+      "title": "Romans 4:1–12",
+      "href": "/bible/romans/4/1-12.html",
+      "why": "Abraham believed God, and it was counted to him as righteousness."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 25,
+      "title": "Romans 4:13–25",
+      "href": "/bible/romans/4/13-25.html",
+      "why": "Counted as righteousness—not for him only but for us who believe."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 11,
+      "title": "Romans 5:1–11",
+      "href": "/bible/romans/5/1-11.html",
+      "why": "Therefore, since we have been justified by faith, we have peace with God."
+    }
+  ]
+}

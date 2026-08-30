@@ -1,0 +1,58 @@
+{
+  "book": "Daniel",
+  "bookSlug": "daniel",
+  "chapter": 2,
+  "verseStart": 46,
+  "verseEnd": 49,
+  "translation": "ESV",
+  "title": "Daniel 2:46–49",
+  "context": "Nebuchadnezzar falls on his face and pays homage to Daniel, ordering offering and incense. He confesses Daniel’s God as God of gods, Lord of kings, and revealer of mysteries. He honors Daniel with gifts, rule of the province, and charge of the wise men. At Daniel’s request, Shadrach, Meshach, and Abednego are set over the province’s affairs; Daniel remains at court.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a king’s prostration, a confession of the God of gods, and three friends set over a province—so each camp speaks in its own voice beside Daniel 2:46–49.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "That they should offer—this was strange, that so great a monarch should thus worship his vassal, which he did in consternation and admiration. But doubtless Daniel put a stop to it: though he could not hinder the king in his prostration, and in his word of command. And the king being instructed of Daniel, gives God all the glory in the next words. God of gods—the supreme God of all the world, above Baal and all other gods. Lord of kings—the highest king of all the earth. And he set—he substituted them as lieutenants for the king’s service under Daniel, but Daniel sat in the king’s gate to be ready for the king’s chief business.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Dan 2:46–49)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The king was astonished, and fell prostrate through stupor upon the earth before a captive. God wished his servant Daniel to be brought forward and to be observed by all men, and made His name more illustrious. There is a God in heaven who reveals secrets. The Lord is said to appoint kings, and to raise them from the rest of mankind as He pleases. Government must remain entirely with the one God.",
+        "cite": "John Calvin",
+        "source": "Commentary on Daniel (on Dan 2:26, 21, 28, 46)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 46,
+      "text": "Then King Nebuchadnezzar fell upon his face and paid homage to Daniel, and commanded that an offering and incense be offered up to him.",
+      "arminianNotes": "The king falls on his face, pays homage to Daniel, and commands offering and incense for him. Wesley: strange that so great a monarch should worship his vassal, in consternation and admiration. Doubtless Daniel put a stop to it, though he could not hinder the prostration and the command. The next verse gives God the glory.\n\nArminian homage: a real king, really overwhelmed. Consternation is creaturely under the Most High who revealed the dream. Daniel does not harvest worship; Wesley’s “put a stop” keeps the glory moving to God. No culture-war on courts or incense. Homage that stays on the servant would be sin; the text itself turns in v. 47.",
+      "reformedNotes": "Calvin: fell prostrate through stupor before a captive. God drew this from the proud king to render His grace in Daniel more illustrious. The less hope there was in the king, the more dignity in the revelation. The impulse is God’s sting completing its work; the homage is still a man’s, and excessive if it rests on Daniel.\n\nReformed homage: even this fall is inside the secret chains of 2:1. Shared with Wesley: the act is strange, and the glory must not stay on the vassal. Chapter 3 will show how unfinished this hour is."
+    },
+    {
+      "number": 47,
+      "text": "The king answered and said to Daniel, “Truly, your God is God of gods and Lord of kings, and a revealer of mysteries, for you have been able to reveal this mystery.”",
+      "arminianNotes": "Truly, your God is God of gods and Lord of kings, and a revealer of mysteries. Wesley: the supreme God of all the world, above Baal and all other gods; Lord of kings—the highest king of all the earth. The king being instructed of Daniel gives God all the glory.\n\nArminian confession: a real sentence from a real mouth. Lord of kings matches 2:21 and 2:37. The Most High rules; Nebuchadnezzar still speaks. Instruction met a will that actually said this. The confession can be true in its matter and still fail later (ch. 3) without proving it was never a human act. Match the hub: a King who governs and reveals, leaving creaturely praise as a real second cause.",
+      "reformedNotes": "Calvin: God of gods, Lord of kings—the government remains with the one God who appoints and removes. Revealer of mysteries: there is a God in heaven who reveals secrets, as Daniel had already taught him. This acknowledgment is remarkable and still not the end of the story; the same king will raise an image in the next chapter. God made His name illustrious in Babylon without yet making this monarch a new man.\n\nReformed confession: effectual for this hour’s words, not a bare permission after the miracle. The title Lord of kings is true whether or not the speaker’s heart is new. Match the hub: nothing happens but what He has knowingly and willingly decreed, yet He is not the author of the idolatry that will follow.",
+      "keyContrast": "Both confess the Most High rules: God of gods and Lord of kings (2:47), as He changes times and kings (2:21) and has given the kingdom (2:37). Arminians typically hear a real confession under that rule—the king’s mouth is governed without irresistible determination of every later choice (ch. 3 still comes). Reformed readers typically hear effectual providence in the words themselves, not a bare permission: God made His name illustrious before a captive (Calvin)."
+    },
+    {
+      "number": 48,
+      "text": "Then the king gave Daniel high honors and many great gifts, and made him ruler over the whole province of Babylon and chief prefect over all the wise men of Babylon.",
+      "arminianNotes": "High honors, many gifts; ruler of the whole province; chief prefect over all the wise men. Wesley’s Daniel sat in the king’s gate for the king’s chief business (v. 49). Promotion is history, not a prosperity arc and not a culture fight about “elites.”\n\nArminian honors: a king’s real gifts under the God who sets up. Daniel did not bargain the dream for office (2:6’s Magi-pay is refused in spirit by 2:30). Office is means for the next chapters’ faithfulness, not a wage.",
+      "reformedNotes": "Calvin: God raised His servant and made him conspicuous in the palace, as 1:19–20 already began. The same Lord who appoints kings now places a captive over a province and over the guild that could not tell the dream. Gifts do not purchase revelation; they follow it.\n\nReformed honors: appointment, not luck. Shared: ruler of the province, chief of the wise. The Magi’s table is now under a man who said the mystery was not his wisdom."
+    },
+    {
+      "number": 49,
+      "text": "Daniel made a request of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon. But Daniel remained at the king's court.",
+      "arminianNotes": "Daniel requested; the king appointed Shadrach, Meshach, and Abednego over the province’s affairs; Daniel remained at court. Wesley: he substituted them as lieutenants under Daniel; Daniel sat in the king’s gate, ready for the king’s chief business.\n\nArminian request: real asking for friends, as 1:8 and 2:16 were real asking. The Most High who held Arioch’s hands (2:14) now meets another petition. No Pelagian leftover—they already live by gift—and no fatalism that makes the three’s posts a blur. Chapter 3 will need them in the province; agency under rule is how they get there.",
+      "reformedNotes": "Calvin: they had prayed in concord without ambition (2:17–18); now Daniel does not forget them. God had taken him into His confidence; the prefects’ minds are still in that same hand. Remaining at the gate is providence preparing the furnace story, not a courtier’s climb.\n\nReformed request: the asking is means inside decree. Shared with Wesley: three over affairs, Daniel at the gate. Chapter 2 ends where 2:21 pointed—the Lord of kings has set and raised, and four Judeans stand in Babylon by gift."
+    }
+  ]
+}

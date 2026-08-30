@@ -1,0 +1,69 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 4,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "1 John 4:1–6",
+  "context": "Do not believe every spirit; test the spirits, for many false prophets have gone out. Every spirit that confesses that Jesus Christ has come in the flesh is from God; the one that does not is the spirit of antichrist already in the world. The children of God have overcome them, because He who is in them is greater. The world listens to its own; whoever knows God listens to the apostolic testimony.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on testing spirits, the confession of Christ come in the flesh, and a Greater One in the church—so each camp speaks in its own voice beside 1 John 4:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Believe not every spirit—whereby any teacher is actuated. But try the spirits—by the rule which follows. We are to try all spirits by the written word: To the law and to the testimony! Every spirit which confesseth, both with heart and voice, Jesus Christ, who is come in the flesh, is of God. This his coming presupposes, contains, and draws after it, the whole doctrine of Christ. Ye have overcome these seducers, because greater is the Spirit of Christ that is in you than the spirit of antichrist that is in the world. We—apostles—are of God, immediately taught and sent by him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 John 4:1–6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Believe not every spirit. The Apostle declares they ought to have been examined and tried, and he addresses not only the whole Church but every one of the faithful. Doctrines ought to be tested by God’s word; but except the Spirit of wisdom be present, to have God’s word in our hands will avail little. Every spirit that confesseth that Jesus Christ is come in the flesh is of God. As long as we abide in Christ, there is safety. Ye have overcome them, because greater is he that is in you than he that is in the world. We become strong not by our own power but by that of God. We can no more be conquered than God himself, who has armed us with his own power.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 4:1–4)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world.",
+      "arminianNotes": "Do not believe every spirit; test the spirits, for many false prophets have gone out. Wesley: the spirit whereby any teacher is actuated; try by the written word—to the law and to the testimony.\n\nArminian test: the church is not credulous. The word is the rule, and hearers must use it. False prophets are already out; the test is present tense.",
+      "reformedNotes": "Calvin: many abused the name of Christ. Three parts: an evil dangerous to the faithful; the remedy, distinguishing spirits; a particular error, denying the Son appeared in the flesh. If Satan had already seduced many, similar instances ought not to terrify us now. The word spirit is metonymy for one who boasts the Spirit’s gift as a prophet. All are not to be heard indiscriminately. Try: addressed to the whole church and to every one of the faithful.\n\nReformed test: the word is the touchstone; the Spirit of discernment is still needed, or the word in the hand avails little. Ask for that Spirit. Shared: do not believe every spirit."
+    },
+    {
+      "number": 2,
+      "text": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God,",
+      "arminianNotes": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God. Wesley: every spirit or teacher; confesses with heart and voice. His coming presupposes, contains, and draws after it the whole doctrine of Christ.\n\nArminian confession: not a bare syllable. Come in the flesh is the whole Christ—eternal, incarnate, for us. Heart and voice together.",
+      "reformedNotes": "Calvin: a special mark. Christ is the object at which faith aims and the stone at which heretics stumble. Abide in Him: safety. Come: He was before with the Father; eternal divinity. In the flesh: real man, our brother, free from sin. Came: office and merits. Papists confess God and man yet rob Him of merit by freewill, works, satisfactions, advocacy of saints.\n\nReformed confession: the eyes fixed on Christ, the end of the law and prophets. Shared: come in the flesh is from God."
+    },
+    {
+      "number": 3,
+      "text": "and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already.",
+      "arminianNotes": "Every spirit that does not confess Jesus is not from God; this is the spirit of the antichrist, heard of as coming and now already in the world. Wesley: you have heard from our Lord and us that it cometh.\n\nArminian already: antichrist is not only future. Refusal to confess Jesus as come in the flesh is the present spirit. The test remains the Person.",
+      "reformedNotes": "Calvin: added to render more detestable the impostures that lead away from Christ. All who depreciated Christ were members of that kingdom. The spirit of antichrist would come, and was already in the world in a different sense: already in secret iniquity; would come as open tyranny and subverted truth.\n\nReformed already: members now, head in its season. Shared: not from God, and already here."
+    },
+    {
+      "number": 4,
+      "text": "Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world.",
+      "arminianNotes": "Little children, you are from God and have overcome them, for He who is in you is greater than he who is in the world. Wesley: you have overcome these seducers because greater is the Spirit of Christ in you than the spirit of antichrist in the world.\n\nArminian greater: the Spirit in the believer is greater, and overcoming is spoken as already true of those who hold the confession. The fight is real; the Greater One is the reason, not our nerve.",
+      "reformedNotes": "Calvin: he had spoken of one antichrist; now many—the false prophets before the head. Object: animate the faithful. They had conquered because they would have a successful issue, already beyond danger as to the end. Greater is He in you: we become strong not by our own power. We can no more be conquered than God Himself. If we fought in our own strength, it would be all over; God repels enemies while we are reposing.\n\nReformed greater: certain victory follows because we fight by Christ’s power. Shared: He in you is greater."
+    },
+    {
+      "number": 5,
+      "text": "They are from the world; therefore they speak from the world, and the world listens to them.",
+      "arminianNotes": "They are from the world; they speak from the world, and the world listens. Wesley: those false prophets are of the number that know not God; they speak from the same principle; the world hears with approbation.\n\nArminian world: matching 2:15’s world as rival. Popularity with that world is not a mark of the Spirit of God. The world listening is diagnostic, not success.",
+      "reformedNotes": "Calvin: no small consolation that those who assail God in us have only the world to aid them. The world: that portion of which Satan is prince. False doctrines easily spread because of men’s propensity to vanity. It is nothing new that the world should hearken to what is false.\n\nReformed world: they speak according to the views of the ungodly. Shared: origin, speech, and audience match."
+    },
+    {
+      "number": 6,
+      "text": "We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error.",
+      "arminianNotes": "We are from God. Whoever knows God listens to us; whoever is not from God does not. By this we know the Spirit of truth and the spirit of error. Wesley: we—apostles—immediately taught and sent. Hereby we know from what is said in 4:2–6.\n\nArminian listen: the apostolic we is the test beside the confession of 4:2. Knowing God shows in heeding that testimony. Error has a spirit; truth has one. The hearer’s response is not treated as a trifle.",
+      "reformedNotes": "Calvin: this applies to all the godly, yet refers properly to faithful ministers. He glories that he and his fellow-ministers served God in sincerity. False prophets boast the same; faithful ministers declare nothing but what they manifest. Be content with the fewness of the faithful. They who are not of God do not hear the pure doctrine. The hearing is inward, by faith. Trial of doctrine: whether from God or from the world. When false spirits pretend God’s name, inquire from the Scriptures.\n\nReformed listen: vast multitude rejecting is no diminution of the gospel’s authority. Obedience of faith proves we are of God. Shared: by this we know truth and error."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 4,
+  "translation": "ESV",
+  "title": "1 John 1:1–4",
+  "context": "The apostle testifies to what was from the beginning: the Word of life, heard, seen, looked upon, and touched. That eternal life was with the Father and has been made manifest, so that hearers may have fellowship with the apostolic company—and that fellowship is with the Father and His Son Jesus Christ. He writes that joy may be complete.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Word of life made manifest and a fellowship with the Father and the Son—so each camp speaks in its own voice beside 1 John 1:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "That which was—He which was the Word himself. From the beginning—here it properly means from eternity, being equivalent with, in the beginning, John 1:1. Of the Word of life—the living Word of God, who, with the Father and the Spirit, is the fountain of life to all creatures, particularly of spiritual and eternal life. That ye also may have fellowship with us—may enjoy the same fellowship which we enjoy. And truly our fellowship is with the Father and with the Son.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 John 1:1–3)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "That which was from the beginning refers doubtless to the divinity of Christ, for God manifested in the flesh was not from the beginning; but he who always was life and the eternal Word of God appeared in the fullness of time as man. What follows as to the looking on and the handling of the hands refers to his human nature. We announce to you the word of life, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ. That your joy may be full.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 1:1–4)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life—",
+      "arminianNotes": "That which was: Wesley hears the Word Himself, from the beginning as from eternity, matching John 1:1. The apostles have not only heard but seen and attentively beheld. The Word of life is the living Word, fountain of spiritual and eternal life with the Father and the Spirit.\n\nArminian confession here is shared ground: the eternal Word became handleable. This is incarnation, not a soteriology fight. The senses serve the gospel’s certainty so that life can be proclaimed to those who have not seen.",
+      "reformedNotes": "Calvin: from the beginning refers to Christ’s divinity; looking and handling refer to His human nature. The two natures constitute one person. The heaped asseverations strengthen faith, because salvation depends on the gospel’s certainty.\n\nReformed confession is the same Christ: always God’s invisible Word, later visible. Shared ground with Wesley on the Word made flesh. The fork, if it comes, is later; here both camps worship the manifested Life."
+    },
+    {
+      "number": 2,
+      "text": "the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us—",
+      "arminianNotes": "The life was manifested in the flesh to the senses. Wesley: they testify by declaring, preaching, and writing, to those who have not seen. The eternal life always was, and afterward appeared.\n\nArminian proclamation: eternal life is shown, not invented. The appearing is public enough to be seen; the writing now carries that same life to others. Joy will rest on this, not on a private spark only the apostles keep.",
+      "reformedNotes": "Calvin: the life-giving Word was manifested; Christ, who is life and the fountain of life, has been manifested, and life is openly offered in Him. He was always with the Father, even from eternity; the appearing is not novelty.\n\nReformed proclamation: when Christ is preached, the kingdom of heaven is opened. Life was always with the Father and is now in our hands, not merely promised in types. Both camps announce the same manifested Life."
+    },
+    {
+      "number": 3,
+      "text": "that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son Jesus Christ.",
+      "arminianNotes": "Seen and heard is declared so that you too may have fellowship with us—and that fellowship is with the Father and the Son. Wesley: may enjoy the same fellowship we enjoy; He in us and we in Him.\n\nArminian fellowship: the apostolic circle is not a closed caste. The same communion is held out. Union with the Father and the Son is the end of the testimony, offered to hearers who must still receive it.",
+      "reformedNotes": "Calvin repeats seen and heard a third time so nothing is wanting as to certainty. He writes to invite them to participation of an inestimable good. We are united thereby to God and to His Son. The ungodly also have union, but without God.\n\nReformed fellowship: our only true happiness is to be received into God’s favor, really united to Him in Christ. The apostles were adopted as brethren; John does the same with other colleagues. Shared end: one body, united to God."
+    },
+    {
+      "number": 4,
+      "text": "And we are writing these things so that our joy may be complete.",
+      "arminianNotes": "These things are written so that joy may be complete. Wesley: a joy of hope, of faith, and of love; here the joy of faith is directly intended, implying the others. So our Lord also, John 15:11.\n\nArminian joy: complete joy is the fruit of the proclaimed fellowship, not a mood. Faith’s joy can be full because the Life has been manifested and is now written. Writing is pastoral love.",
+      "reformedNotes": "Calvin: full joy expresses the complete happiness obtained through the gospel, and reminds the faithful where to fix their affections. Whoever really perceives fellowship with God will be satisfied with it alone.\n\nReformed joy: he has made proficiency in the gospel who esteems himself happy in communion with God and prefers it to the world. Shared pastoral aim: write so that joy is complete in Christ, not in lesser treasure."
+    }
+  ]
+}

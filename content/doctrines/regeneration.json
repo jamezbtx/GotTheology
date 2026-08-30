@@ -1,0 +1,143 @@
+{
+  "kind": "doctrine",
+  "slug": "regeneration",
+  "title": "Regeneration",
+  "summary": "The Spirit makes the dead alive in Christ—both camps preach a real new birth, not mere turning over a new leaf; they part over whether that birth can be resisted, and whether it precedes faith or is given with it.",
+  "context": "Regeneration is new birth: God raising a person from spiritual death. Jesus tells Nicodemus he must be born from above; Paul says we were dead in trespasses and God made us alive; Titus names the washing of regeneration and renewal of the Holy Spirit. The shared confession is that fallen people need a work God does in us, not only a message we approve. The fork is the mode: irresistible new creation, or a birth bound up with a grace that can be refused.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the new birth—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is that great change which God works in the soul when he brings it into life; when he raises it from the death of sin to the life of righteousness. It is the change wrought in the whole soul by the almighty Spirit of God when it is “created anew in Christ Jesus.”",
+        "cite": "John Wesley",
+        "source": "Sermon 45, “The New Birth”"
+      },
+      {
+        "quote": "The former relating to that great work which God does for us, in forgiving our sins; the latter, to the great work which God does in us, in renewing our fallen nature. In order of time, neither of these is before the other: in the moment we are justified… we are also born of the Spirit.",
+        "cite": "John Wesley",
+        "source": "Sermon 45, “The New Birth”"
+      },
+      {
+        "quote": "That this grace of God is the beginning, continuance, and accomplishment of all good… But as respects the mode of the operation of this grace, it is not irresistible, inasmuch as it is written concerning many, that they have resisted the Holy Spirit.",
+        "cite": "The Remonstrance",
+        "source": "Article IV (1610)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This is the regeneration, the new creation, the raising from the dead, and the making alive, so highly spoken of in the Scriptures, which God works in us without our aid. But this is in no wise effected merely by the external preaching of the gospel, by moral suasion… but it is evidently a supernatural work, most powerful, and at the same time most delightful, astonishing, mysterious, and ineffable.",
+        "cite": "Canons of Dort",
+        "source": "Third and Fourth Heads, Article 12"
+      },
+      {
+        "quote": "In one word, then, by repentance I understand regeneration, the only aim of which is to form in us anew the image of God, which was sullied, and all but effaced by the transgression of Adam.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.3.9"
+      },
+      {
+        "quote": "This renewal, indeed, is not accomplished in a moment, a day, or a year, but by uninterrupted, sometimes even by slow progress God abolishes the remains of carnal corruption in his elect, cleanses them from pollution, and consecrates them as his temples.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.3.9"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley’s New Birth is as supernatural as anything in Dort: almighty Spirit, created anew, raised from the death of sin. Arminians are not preaching self-improvement. They locate the birth with justification in time—God’s work for us and in us together—and they refuse a mode of grace that cannot be resisted.\n\nPreventing (prevenient) grace is the Arminian account of how a dead sinner can believe. God takes the initiative; the Spirit convicts, enlightens, and enables. Nicodemus is told he must be born from above, and the gospel is still a command and an invitation. The will, restored enough to respond, may yield or refuse.\n\nJohn 3 and Ephesians 2 are therefore not denied as texts of divine action. They are denied as texts of irresistible action. “You he made alive” is God’s mercy; “whoever believes” remains a real address. Pastoral Arminian preaching presses urgency: do not resist the Spirit who is already at work.",
+  "reformedNotes": "Dort calls regeneration a raising from the dead that God works “without our aid”—not because the person is a stone afterward, but because the spiritually dead do not cooperate in their first coming to life. Moral suasion (argument, example, appeal) is not enough. The Spirit supernaturally gives a new heart, and that heart believes.\n\nOn this reading, new birth precedes faith in the order of nature (if not always in our awareness). “No one can come unless the Father draws” is effectual drawing. The same God who commands also creates the response. Dead in trespasses is more than wounded; it is inability that grace overcomes, not merely assists.\n\nPastoral Reformed preaching uses this for humility (you did not raise yourself) and hope (God can raise the most unlikely). It should not be heard as making evangelism pointless: the Spirit uses the Word. The fork is whether the decisive moment is a new heart that cannot finally refuse, or an enabled will that still can.",
+  "keyContrast": "Both preach a Spirit-wrought new creation. Arminians typically bind new birth to resistible, enabling grace and to faith as a real response; the Reformed typically treat regeneration as an effectual, supernatural raising that produces faith rather than waiting on it.",
+  "scripture": [
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 21,
+      "title": "John 3:1–21",
+      "href": "/bible/john/3/1-21.html",
+      "why": "You must be born again—born of water and the Spirit."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 10,
+      "title": "Ephesians 2:1–10",
+      "href": "/bible/ephesians/2/1-10.html",
+      "why": "You were dead; God made us alive together with Christ."
+    },
+    {
+      "book": "Titus",
+      "bookSlug": "titus",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8,
+      "title": "Titus 3:1–8",
+      "href": "/bible/titus/3/1-8.html",
+      "why": "The washing of regeneration and renewal of the Holy Spirit."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 18,
+      "title": "John 1:1–18",
+      "href": "/bible/john/1/1-18.html",
+      "why": "To all who received him… who were born, not of blood nor of the will of the flesh, but of God."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 6,
+      "verseStart": 41,
+      "verseEnd": 59,
+      "title": "John 6:41–59",
+      "href": "/bible/john/6/41-59.html",
+      "why": "No one can come to me unless the Father who sent me draws him."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 14,
+      "title": "Romans 6:1–14",
+      "href": "/bible/romans/6/1-14.html",
+      "why": "We were buried with him… walk in newness of life."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 11,
+      "title": "Romans 8:1–11",
+      "href": "/bible/romans/8/1-11.html",
+      "why": "The Spirit who raised Jesus will also give life to your mortal bodies."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 10,
+      "title": "1 John 3:1–10",
+      "href": "/bible/1-john/3/1-10.html",
+      "why": "No one born of God makes a practice of sinning."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 12,
+      "title": "1 John 5:1–12",
+      "href": "/bible/1-john/5/1-12.html",
+      "why": "Everyone who believes that Jesus is the Christ has been born of God."
+    }
+  ]
+}

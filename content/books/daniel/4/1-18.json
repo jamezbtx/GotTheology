@@ -1,0 +1,142 @@
+{
+  "book": "Daniel",
+  "bookSlug": "daniel",
+  "chapter": 4,
+  "verseStart": 1,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "Daniel 4:1–18",
+  "context": "Nebuchadnezzar’s edict frames the chapter: signs of the Most High, whose kingdom is everlasting. At ease in his palace he dreams of a great tree that feeds all flesh. A watcher from heaven orders it cut down, the stump left, a beast’s mind given for seven times—so that the living may know the Most High rules the kingdom of men and gives it to whom He will. Magicians fail; Daniel is asked to interpret.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a tree chopped by a watcher and the Most High who rules the kingdom of men—so each camp speaks in its own voice beside Daniel 4:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "How great are his signs—nothing less than a real change of heart could cause such a confession as this! A watcher—a holy angel, the instrument of God, to execute God’s judgments which the angels watch constantly to perform. Of the holy ones—the decree was God’s, and the demand was of the holy angels. The most high ruleth—Nebuchadnezzar and his flatterers conceded he was a god in earth unaccountable to any. But the great God will make all men know he rules all in earth too, and sets up at his pleasure whom he will, and plucks them down again.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Dan 4:3, 13, 17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Mortals must know God to be a ruler in the kingdoms of men. He shall not only exercise his power in heaven, but also govern the human race, and assign to every one his own grade and position. He will give it to whom he will. Every one has his own condition divinely assigned to him; a man’s ambition, or skill, or prudence, or wealth, or the help of others, do not profit men in aspiring to any altitude, unless God raises them by his stretched out hand. He raises up the humble man above himself. God wished to shew, by this figure, with what intention he desires the world to be governed; and why he sets over it kings.",
+        "cite": "John Calvin",
+        "source": "Commentary on Daniel (on Dan 4:10, 17)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "King Nebuchadnezzar to all peoples, nations, and languages, that dwell in all the earth: Peace be multiplied to you!",
+      "arminianNotes": "A king’s letter to peoples, nations, and languages: peace. Wesley treats the edict as the king’s own proclamation after the wonders. The frame is after the humiliation (vv. 28–37); the dream inside it is told from ease (v. 4). No culture-war on empire’s reach.\n\nArminian peace: a real monarch still speaking. The Most High who rules (v. 17) does not cancel the letter. Second causes write edicts.",
+      "reformedNotes": "Calvin: Daniel speaks in the king’s person; the edict belongs with this chapter. The king had confessed Israel’s God and not departed from his superstitions; conceptions of the true God were momentary. God intended him more blinded, then humbled by the rod.\n\nReformed peace: even the greeting sits after a long patience. Shared: to all the earth under his sway. The signs of v. 2 are why he writes."
+    },
+    {
+      "number": 2,
+      "text": "It has seemed good to me to show the signs and wonders that the Most High God has done for me.",
+      "arminianNotes": "It seemed good to show the signs and wonders the Most High God has done for me. Wesley: nothing less than a real change of heart could cause such a confession—he was old, had seen much, and never till now admired events as the signs of the high God.\n\nArminian show: he judges it good. A human “seemed good” under the God of signs. Whether the heart is new is tested in what follows; the showing is still his act.",
+      "reformedNotes": "Calvin: he feels he paid the penalty of ingratitude. Often chastised before he profited by the rod. Whether this confession is true and genuine repentance is left in doubt; Daniel recites the edict to shew fruit. He still may mingle inferior deities with the Most High.\n\nReformed show: God extracted a witness among the nations. Shared: Most High God, signs for me. Greatness is v. 3."
+    },
+    {
+      "number": 3,
+      "text": "How great are his signs, how mighty his wonders! His kingdom is an everlasting kingdom, and his dominion endures from generation to generation.",
+      "arminianNotes": "How great His signs, how mighty His wonders; His kingdom everlasting, dominion from generation to generation. Wesley: a confession that could not come without a real change of heart. Matches 2:44’s unending kingdom—Christ’s, and here the Most High’s, not a millennial chart.\n\nArminian kingdom: everlasting is shared. The king who set up an image now names a dominion that outlasts palaces. Creaturely praise under that rule.",
+      "reformedNotes": "Calvin: the preface might seem proof of important conversion; we shall see how far he was from being entirely purged. He remits much pride by confessing God’s kingdom perpetual, after once decreeing a statue because he chose.\n\nReformed kingdom: true of God whether or not the speaker’s heart is new. Shared with Wesley: everlasting dominion. The narrative of ease follows."
+    },
+    {
+      "number": 4,
+      "text": "I, Nebuchadnezzar, was at ease in my house and prospering in my palace.",
+      "arminianNotes": "At ease in my house, prospering in my palace. Wesley: when my wars were over, I sat down quiet, enjoying the spoils of my enemies. Rest is named as rest, not a slogan against wealth.\n\nArminian ease: real quiet, real prosperity. The Most High still rules a man at rest. Pride will grow in the quiet; the agency is still his.",
+      "reformedNotes": "Calvin: rest and happiness; prosperity renders men secure. Fullness is the parent of ferocity. He was divinely seized because prosperous fortune had rendered him stupid and drunken. David said in his prosperity he should not be removed; how much more a profane king.\n\nReformed ease: God times the dream to the security. Shared: at ease, prospering. Fear comes next."
+    },
+    {
+      "number": 5,
+      "text": "I saw a dream that made me afraid. As I lay in bed the fancies and the visions of my head alarmed me.",
+      "arminianNotes": "A dream that made me afraid; fancies and visions of my head alarmed me. Like 2:1, God affrights the greatest in their security (Wesley on 2:3).\n\nArminian afraid: real dread. The tree is not yet told. Creaturely fear under a sending God.",
+      "reformedNotes": "Calvin: he distinguishes this from common dreams. God inscribed a mark so he could not rest till he heard the interpretation. Unlike the first dream, remembrance is not blotted; Daniel will only interpret.\n\nReformed afraid: the sting is God’s. Shared: alarmed in bed. The guild is summoned."
+    },
+    {
+      "number": 6,
+      "text": "So I made a decree that all the wise men of Babylon should be brought before me, that they might make known to me the interpretation of the dream.",
+      "arminianNotes": "A decree: all the wise men of Babylon, to make known the interpretation. He tells the dream this time (v. 7). Court habit, not a war on learning.\n\nArminian decree: a king’s real order. He still uses means. Daniel is not first, as in chapter 2.",
+      "reformedNotes": "Calvin: he did not always consult Magi on every dream; this one he could not rest from. He still avoids God until extremity, as before.\n\nReformed decree: the same emptying of the guild. Shared: brought before me. They will fail with the facts in hand."
+    },
+    {
+      "number": 7,
+      "text": "Then the magicians, the enchanters, the Chaldeans, and the astrologers came in, and I told them the dream, but they could not make known to me its interpretation.",
+      "arminianNotes": "Magicians, enchanters, Chaldeans, astrologers: I told them the dream; they could not interpret. Wesley’s magicians already confessed in 2:11 that revelation must come from God.\n\nArminian could not: true limit, again. Human science meets a watcher from heaven and stops.",
+      "reformedNotes": "Calvin: this whole science a fallacy, or at least Daniel’s exposition not by human skill. If any knowledge of divination existed it belonged to the Magi; hence Daniel is divinely instructed.\n\nReformed could not: God locks what art cannot pick. Shared: told, and no interpretation. Daniel is last, not first."
+    },
+    {
+      "number": 8,
+      "text": "At last Daniel came in before me—he who was named Belteshazzar after the name of my god, and in whom is the spirit of the holy gods—and I told him the dream, saying,",
+      "arminianNotes": "At last Daniel—Belteshazzar after the name of my god, in whom is the spirit of the holy gods. The king still talks as a pagan while needing the exile. The name wounds; the Spirit is rightly located and wrongly pluralized.\n\nArminian at last: he comes late. Real delay, real telling. The Most High who gave Daniel skill (1:17) is still the Giver under a wrong name.",
+      "reformedNotes": "Calvin: he addresses Daniel kindly when deserted by his teachers. No one comes to the true God unless impelled by necessity. He had Daniel in the palace and passed him over. Servile when reduced to extremity; overbearing when not in need. The change of name was the tyrant’s cunning.\n\nReformed at last: ingratitude exposed. Shared: Daniel, and the dream told. Chief of magicians is v. 9’s wound."
+    },
+    {
+      "number": 9,
+      "text": "“O Belteshazzar, chief of the magicians, because I know that the spirit of the holy gods is in you and that no mystery is too difficult for you, tell me the visions of my dream that I saw and their interpretation.",
+      "arminianNotes": "Chief of the magicians; the spirit of the holy gods in you; no mystery too difficult; tell the visions and their interpretation. He knows enough to ask Daniel, not enough to leave the guild’s title.\n\nArminian tell: a real ask. Mystery too difficult is true of man. Interpretation is still gift, as 2:30.",
+      "reformedNotes": "Calvin: prince of the Magi wounded the Prophet. Many gods: he had made no real progress; entangled in former errors. No secret overcomes thee—why then not call him first? The king’s ingratitude is proved.\n\nReformed tell: even the praise is mixed. Shared: you are able. The tree begins."
+    },
+    {
+      "number": 10,
+      "text": "The visions of my head as I lay in bed were these: I saw, and behold, a tree in the midst of the earth, and its height was great.",
+      "arminianNotes": "A tree in the midst of the earth, height great. Wesley will read the king under this figure when Daniel interprets (v. 22). The tree is dominion as shelter, not a culture-war on “greatness.”\n\nArminian tree: a real vision of a real empire. Height is creaturely under the Most High who will chop.",
+      "reformedNotes": "Calvin: under the figure, Nebuchadnezzar himself. Governments exist to be like trees on whose fruits all feed and under whose shadow they rest. Tyranny is better than anarchy. Even tyrants, whether they wish it or not, are compelled to be like trees; God’s grace shines forth in governments.\n\nReformed tree: ordinance of God, not the virtue of this king. Shared: midst of the earth, great height. Growth is v. 11."
+    },
+    {
+      "number": 11,
+      "text": "The tree grew and became strong, and its top reached to heaven, and it was visible to the end of the whole earth.",
+      "arminianNotes": "Grew strong; top reached to heaven; visible to the end of the whole earth. Wesley: he was high and mighty in the majesty God had given (on v. 22). Reach is given reach.\n\nArminian grew: real expansion. Agency of wars and building under a God who still owns the sky the top claims.",
+      "reformedNotes": "Calvin: restricted to the Babylonian monarchy; other empires existed but were slight. Loftiness not surprising though it reached to heaven. Do not philosophize the center of the earth.\n\nReformed grew: appointed magnitude. Shared: visible far. Beauty and food follow."
+    },
+    {
+      "number": 12,
+      "text": "Its leaves were beautiful and its fruit abundant, and in it was food for all. The beasts of the field found shade under it, and the birds of the heavens lived in its branches, and all flesh was fed from it.",
+      "arminianNotes": "Beautiful leaves, abundant fruit, food for all; beasts shaded, birds in branches, all flesh fed. Shelter and provision—political order as gift, not a slogan.\n\nArminian food: real usefulness under a flawed king. The Most High can feed through a tree He will cut. Second causes shade and feed.",
+      "reformedNotes": "Calvin: birds and beasts for mankind; society ordained for men. Boughs beautiful in vulgar opinion; eyes dazzled by princes. Yet God does not suffer all His grace in them to be extinguished; they are compelled to bring forth some fruit. Better some dominion than all equal in prey.\n\nReformed food: grace in the ordinance, not in the man’s justice. Shared: all flesh fed. The watcher arrives."
+    },
+    {
+      "number": 13,
+      "text": "“I saw in the visions of my head as I lay in bed, and behold, a watcher, a holy one, came down from heaven.",
+      "arminianNotes": "A watcher, a holy one, came down from heaven. Wesley: a holy angel, the instrument of God, to execute God’s judgments which the angels watch constantly to perform.\n\nArminian watcher: a real envoy. Heaven still speaks into a palace at ease. The chop is command, not chance.",
+      "reformedNotes": "Calvin: no doubt an angel. Called watchers because perpetually watchful in God’s commands; not subject to slumber; at hand to fulfill His bidding. Holy ones: not infected by human infirmities. Nebuchadnezzar could not understand this by himself; he was taught of God that the destruction arose not from man but from the Almighty.\n\nReformed watcher: God’s attendant, not a rival author of the decree. Shared: from heaven. The loud proclamation is next."
+    },
+    {
+      "number": 14,
+      "text": "He proclaimed aloud and said thus: ‘Chop down the tree and lop off its branches, strip off its leaves and scatter its fruit. Let the beasts flee from under it and the birds from its branches.",
+      "arminianNotes": "Chop down the tree; lop, strip, scatter; let beasts and birds flee. The sentence is public in the dream before it is public in the field.\n\nArminian chop: a real order against a real height. The king still is the tree; the axe is heaven’s. No culture-war on felling “empire.”",
+      "reformedNotes": "Calvin: the cutting down now follows. God meant Nebuchadnezzar for a time like a beast. The dignity of the tree cannot be lessened by lacking a human heart it never had; the allegory bends to the man.\n\nReformed chop: judgment announced, not a human revolt. Shared: down, and the creatures flee. The stump is mercy."
+    },
+    {
+      "number": 15,
+      "text": "But leave the stump of its roots in the earth, bound with a band of iron and bronze, amid the tender grass of the field. Let him be wet with the dew of heaven. Let his portion be with the beasts in the grass of the earth.",
+      "arminianNotes": "Leave the stump of its roots, bound with iron and bronze, amid grass; wet with dew; portion with the beasts. Mercy in the cut: not uprooted. Interpretation waits (v. 26).\n\nArminian stump: a real remainder. God can pluck down without erasing the man. Dew and grass are still gifts in humiliation.",
+      "reformedNotes": "Calvin: God does not tear him up by the roots, but allows the root to remain, for the tree to spring up again. Mark of clemency; in all temporal punishments He allows men to taste His pity, so the reprobate remain without excuse. Tempers punishment to what he could bear.\n\nReformed stump: spared root, appointed band. Shared: not destroyed. The mind-change is v. 16."
+    },
+    {
+      "number": 16,
+      "text": "Let his mind be changed from a man's, and let a beast's mind be given to him; and let seven periods of time pass over him.",
+      "arminianNotes": "Mind changed from a man’s; a beast’s mind given; seven periods pass. Wesley later: seven years; how hard for lofty princes to learn this lesson (v. 25). The time is God’s; the man is still a man under a beast’s mind.\n\nArminian given: a real giving of a low mind. Agency of pride led here; the gift of a beast’s mind is judgment, not theater. Seven times are enough to teach, not a chart.",
+      "reformedNotes": "Calvin: seven times—probable seven years, or a long undefined span; the number seven for perfection and length. Hard and horrible, yet the root remains. He shall feed, and be watered with heaven’s rain: benefits mingled with wrath.\n\nReformed given: effectual abasing. Shared: beast’s mind, seven times. The purpose is v. 17."
+    },
+    {
+      "number": 17,
+      "text": "The sentence is by the decree of the watchers, the decision by the word of the holy ones, to the end that the living may know that the Most High rules the kingdom of men and gives it to whom he will and sets over it the lowliest of men.’",
+      "arminianNotes": "The sentence by decree of the watchers, decision by the word of the holy ones, that the living may know the Most High rules the kingdom of men and gives it to whom He will and sets over it the lowliest of men. Wesley: the decree was God’s, the demand of the holy angels; they consent to a just judgment. The most high ruleth—Nebuchadnezzar and his flatterers conceded he was a god on earth unaccountable to any. But the great God will make all men know He rules all in earth too, and sets up at His pleasure whom He will, and plucks them down again.\n\nArminian rules: the Most High rules—this giving is real. It does not empty the king of the pride that grew the tree, or of the later doxology that will be his mouth’s. Watchers subscribe; they do not replace the King. Match the hub: a King who governs, provides, and judges, leaving creaturely rule as a real second cause. Lowliest set over it is gift, not a political program.",
+      "reformedNotes": "Calvin: the edict was promulgated at the united consent of the celestial host; angels subscribe to God’s judgment and demand that He humble the proud. Mortals must know God to be a ruler in the kingdoms of men—not shut up in heaven. He governs the human race and assigns every one his grade. He will give it to whom He will. Ambition, skill, prudence, wealth, or help do not profit unless God raises by His stretched out hand. He raises the humble above himself. Scarcely one in a hundred feels in his mind the dominion of God over the earth.\n\nReformed rules: effectual appointment, not a bare permission after a king rose. The living know because He actually gives and sets. Match the hub: nothing happens but what He has knowingly and willingly decreed, yet He is not the author of the king’s pride as pride.",
+      "keyContrast": "Both confess the Most High rules the kingdom of men and gives it to whom He will (4:17), as He changes times and kings (2:21). Arminians typically hear real human agency under that rule—the tree grew by wars and ease, the king remains accountable. Reformed readers typically hear effectual rule, not a bare permission: God assigns every grade and raises by His stretched out hand (Calvin)."
+    },
+    {
+      "number": 18,
+      "text": "This dream I, King Nebuchadnezzar, saw. And you, O Belteshazzar, tell me the interpretation, because all the wise men of my kingdom are not able to make known to me the interpretation, but you are able, for the spirit of the holy gods is in you.”",
+      "arminianNotes": "This dream I saw; tell the interpretation; the wise men cannot; you are able, for the spirit of the holy gods is in you. The ask is honest need with a pagan name. Daniel’s interpretation is the next range.\n\nArminian tell: a real king still asking. Ability is located in Daniel and sourced above. The Most High who rules (v. 17) will speak through a captive, not through the guild.",
+      "reformedNotes": "Calvin: he repeats the request. He understood the figure, not the intention. All the wise men vain; he ascribes the power to Daniel as peculiar to God, yet still says holy deities. Ordinary received language of a heathen just initiated.\n\nReformed tell: the Prophet is means. Shared: you are able. What Daniel will say, and the counsel to break off sins, belongs to 4:19–27."
+    }
+  ]
+}

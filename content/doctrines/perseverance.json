@@ -1,0 +1,163 @@
+{
+  "kind": "doctrine",
+  "slug": "perseverance",
+  "title": "Perseverance",
+  "summary": "Those in Christ are called to abide, and God is faithful—both camps take the warnings and the promises as real; they part over whether a true believer can finally fall away.",
+  "context": "Perseverance names the question: will those who have believed be kept to the end? Jesus speaks of branches in the vine that are cut off, of sheep who will never perish, of disciples who walk away. Paul endures “for the sake of the elect,” quotes a trustworthy saying about dying and living with Christ, and names Demas who loved this present world. Arminian and Reformed readers both refuse cheap grace. They disagree whether the warnings describe the ruin of the truly regenerate, or the means by which God keeps his own.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on staying in Christ—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "On this authority, I believe a saint may fall away; that one who is holy or righteous in the judgment of God himself may nevertheless so fall from God as to perish everlastingly.",
+        "cite": "John Wesley",
+        "source": "Serious Thoughts upon the Perseverance of the Saints (1751)"
+      },
+      {
+        "quote": "Those who are grafted into the good olive tree, the spiritual, invisible Church; those who are branches of the true vine, of whom Christ says, “I am the vine, ye are the branches;” … those who are sanctified by the blood of the covenant, may nevertheless so fall from God as to perish everlastingly.",
+        "cite": "John Wesley",
+        "source": "Serious Thoughts upon the Perseverance of the Saints (1751)"
+      },
+      {
+        "quote": "That those who are incorporated into Christ by a true faith, and have thereby become partakers of his life-giving Spirit, have thereby full power to strive against Satan, sin, the world, and their own flesh… But whether they are capable, through negligence, of forsaking again the first beginnings of their life in Christ… must be more particularly determined out of the Holy Scripture, before we ourselves can teach it with the full persuasion of our minds.",
+        "cite": "The Remonstrance",
+        "source": "Article V (1610)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By reason of these remains of indwelling sin, and the temptations of the world and of Satan, those converted could not persevere in a state of grace if left to their own strength. But God is faithful, who having conferred grace, mercifully confirms and powerfully preserves them therein, even to the end.",
+        "cite": "Canons of Dort",
+        "source": "Fifth Head, Article 3"
+      },
+      {
+        "quote": "Thus it is not in consequence of their own merits or strength, but of God’s free mercy, that they do not totally fall from faith and grace, nor continue and perish therein; which, with respect to themselves, is not only possible, but would undoubtedly happen; but with respect to God, it is utterly impossible, since his counsel cannot be changed, nor his promise fail, neither can the call according to his purpose be revoked.",
+        "cite": "Canons of Dort",
+        "source": "Fifth Head, Article 8"
+      },
+      {
+        "quote": "They whom God hath accepted in His Beloved, effectually called, and sanctified by His Spirit, can neither totally nor finally fall away from the state of grace, but shall certainly persevere therein to the end, and be eternally saved.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 17.1"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley reads the vine, Hebrews, and “shipwreck of faith” as speaking of real believers. If Scripture warns the righteous that turning away means death, the warning is not a charade. Abiding is a living relation, not a stamp applied once. The Remonstrance itself was cautious: Article V left the question to further study. Later Arminians, and Wesley with them, concluded that falling is possible.\n\nThis is not a claim that God is unfaithful. It is a claim that grace remains resistible after conversion. The Spirit keeps those who continue to believe; he does not make apostasy metaphysically impossible. John 10’s “never perish” is heard as the safety of those who hear and follow, not as a guarantee irrespective of later unbelief.\n\nPastoral Arminian preaching uses the warnings as warnings. Comfort is real for those who abide. Demas is a sobering name, not a proof that he was “never of us.” The fork is whether the New Testament’s severe texts describe the regenerate or only the almost-regenerate.",
+  "reformedNotes": "Dort’s Fifth Head is more careful than slogans. Left to themselves, the converted would fall. God is faithful: he confirms and preserves. With respect to us, ruin is possible; with respect to God’s counsel, promise, and call, it is not. Westminster says the same in shorter form: those accepted, called, and sanctified shall certainly persevere.\n\nWarnings, on this reading, are one of the means of preservation. The sheep hear; they follow; they are kept. Those who go out “were not of us.” John 10 and John 6 (“I will raise him up”) are taken as Christ’s own pledge, not as a description of a class that might empty out. Temporary faith is real as experience and false as root.\n\nPastoral Reformed preaching can still be severe against presumption. Perseverance is of the saints, not of the careless. Assurance is looking to Christ’s hold, not to our grip. The fork is whether a person born of God can finally be unborn.",
+  "keyContrast": "Arminians typically teach that a truly regenerate believer may finally fall by ceasing to believe; the Reformed typically teach that those whom God has accepted and called will be preserved—warnings included as means—so that apostasy proves a faith that was not saving.",
+  "scripture": [
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 17,
+      "title": "John 15:1–17",
+      "href": "/bible/john/15/1-17.html",
+      "why": "Abide in the vine: branches that do not abide are thrown away."
+    },
+    {
+      "book": "2 Timothy",
+      "bookSlug": "2-timothy",
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 13,
+      "title": "2 Timothy 2:8–13",
+      "href": "/bible/2-timothy/2/8-13.html",
+      "why": "If we died with him, we will also live; if we deny him, he will also deny us; he remains faithful."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 10,
+      "verseStart": 22,
+      "verseEnd": 42,
+      "title": "John 10:22–42",
+      "href": "/bible/john/10/22-42.html",
+      "why": "I give them eternal life, and they will never perish; no one will snatch them out of my hand."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 6,
+      "verseStart": 22,
+      "verseEnd": 40,
+      "title": "John 6:22–40",
+      "href": "/bible/john/6/22-40.html",
+      "why": "Whoever comes I will never cast out; I will raise him up on the last day."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 6,
+      "verseStart": 60,
+      "verseEnd": 71,
+      "title": "John 6:60–71",
+      "href": "/bible/john/6/60-71.html",
+      "why": "Many disciples turn back; Jesus asks the Twelve whether they will go, and speaks of those given by the Father."
+    },
+    {
+      "book": "2 Timothy",
+      "bookSlug": "2-timothy",
+      "chapter": 4,
+      "verseStart": 9,
+      "verseEnd": 15,
+      "title": "2 Timothy 4:9–15",
+      "href": "/bible/2-timothy/4/9-15.html",
+      "why": "Demas, in love with this present world, has deserted Paul."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 8,
+      "verseStart": 18,
+      "verseEnd": 30,
+      "title": "Romans 8:18–30",
+      "href": "/bible/romans/8/18-30.html",
+      "why": "Those he justified he also glorified—the golden chain."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 5,
+      "verseStart": 13,
+      "verseEnd": 21,
+      "title": "1 John 5:13–21",
+      "href": "/bible/1-john/5/13-21.html",
+      "why": "That you may know that you have eternal life."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 2,
+      "verseStart": 18,
+      "verseEnd": 27,
+      "title": "1 John 2:18–27",
+      "href": "/bible/1-john/2/18-27.html",
+      "why": "They went out from us, but they were not of us."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 8,
+      "verseStart": 31,
+      "verseEnd": 39,
+      "title": "Romans 8:31–39",
+      "href": "/bible/romans/8/31-39.html",
+      "why": "Nothing shall separate us from the love of God in Christ Jesus."
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 3,
+      "verseStart": 13,
+      "verseEnd": 23,
+      "title": "Daniel 3:13–23",
+      "href": "/bible/daniel/3/13-23.html",
+      "why": "Even if he does not, we will not worship (3:16–18)."
+    }
+  ]
+}

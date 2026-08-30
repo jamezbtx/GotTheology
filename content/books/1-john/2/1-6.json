@@ -1,0 +1,70 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 2,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "1 John 2:1–6",
+  "context": "John writes so that they may not sin—and if anyone does sin, they have an advocate with the Father, Jesus Christ the righteous, the propitiation for our sins and also for the sins of the whole world. Knowing him is proved by keeping his commandments; the one who claims to abide in him must walk as he walked.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on an Advocate who is righteous, a propitiation as wide as the world, and a knowing proved by walking—so each camp speaks in its own voice beside 1 John 2:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I write these things to you, that ye may not sin. Thus he guards them beforehand against abusing the doctrine of reconciliation. But if any one sin, let him not lie in sin, despairing of help. We have an advocate—not a mean person, but Jesus Christ the righteous; not a mere petitioner who relies purely upon liberality, but one that has merited, fully merited, whatever he asks. And he is the propitiation—the atoning sacrifice by which the wrath of God is appeased. For our sins—who believe. And not for ours only, but also for the sins of the whole world—just as wide as sin extends, the propitiation extends also.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 John 2:1–2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He added this for the sake of amplifying, in order that the faithful might be assured that the expiation made by Christ extends to all who by faith embrace the gospel. How have the sins of the whole world been expiated? They who seek to avoid this absurdity have said that Christ suffered sufficiently for the whole world, but efficiently only for the elect. Though I allow that what has been said is true, yet I deny that it is suitable to this passage; for the design of John was no other than to make this benefit common to the whole Church. Then under the word all or whole, he does not include the reprobate, but designates those who should believe as well as those who were then scattered through various parts of the world.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 2:1–2)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous.",
+      "arminianNotes": "These things are written so that you may not sin. Wesley hears a guard against abusing reconciliation: God’s words are leveled against sin. And if anyone does sin, let him not lie in sin despairing. The Advocate is not a mean person, not a guilty one needing pardon for himself, not a mere petitioner on charity. He is Jesus Christ the righteous, who has fully merited what He asks.\n\nClassical Arminians keep both clauses: the gospel aims at holiness, and when a believer sins there is a real Advocate. Access is not a license. The righteous Christ stands for those who come; His merit is sufficient for any sinner who will use it.",
+      "reformedNotes": "Calvin: the sum of the gospel is that we depart from sin, and yet, though always exposed to judgment, we are certain that Christ so intercedes by the sacrifice of His death that the Father is propitious. The two parts must not be lacerated: no license to sin, and no silence about gratuitous remission.\n\nReformed pastoral: the conditional if is almost causal—it cannot be but that we sin. The Advocate is the continual application of His death. Intercession is not Christ on His knees beside other patrons; He alone is priest and advocate for His people."
+    },
+    {
+      "number": 2,
+      "text": "He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.",
+      "arminianNotes": "He is the propitiation—the atoning sacrifice by which wrath is appeased. For our sins, Wesley says, who believe. And not for ours only, but also for the sins of the whole world: just as wide as sin extends, the propitiation extends also.\n\nThis is the atonement fork, matching 1 Timothy 2:1–7 and Titus 2:11–15. Classical Arminians take whole world as every person. The “not for ours only” is not a widening from Jewish believers to elect Gentiles; it is a widening from those who already believe to the world that still sins. Provision is as broad as the disease. Those who perish do not perish because no propitiation was made for them.",
+      "reformedNotes": "Calvin will not let whole world include the reprobate, still less Satan. The school formula (sufficient for the world, efficient for the elect) he allows as true, yet denies it is John’s point here. John’s design is to make the benefit common to the whole Church: under all or whole he designates those who should believe, scattered through various parts of the world—not every individual.\n\nReformed reading, matching 1 Timothy 2 and Titus 2: world is all kinds, the elect among the nations, the Church in its worldwide reach. The propitiation actually expiates those who by faith embrace the gospel. Do not flatten “whole world”; do not, on this reading, turn it into a ransom that fails for most of those it named.",
+      "keyContrast": "This is the atonement fork, matching 1 Timothy 2:1–7 and Titus 2:11–15. Arminian readers take “the whole world” as every person: as wide as sin, so wide the propitiation (Wesley). Reformed readers take “whole world” as the Church worldwide—those who believe, of every place and nation—not every individual, and not the reprobate (Calvin)."
+    },
+    {
+      "number": 3,
+      "text": "And by this we know that we have come to know him, if we keep his commandments.",
+      "arminianNotes": "Knowing Him is not a bare claim. We know that we have come to know Him if we keep His commandments—particularly, Wesley says, those of faith and love.\n\nArminian assurance: knowledge is saving and proved in a kept word. Commandments are not a ladder into knowing; they are the fruit by which the tree is known. Grace that can be received can also be walked in—or neglected.",
+      "reformedNotes": "Calvin: the knowledge of God derived from the gospel is not ineffectual; obedience proceeds from it. There is no one who in everything keeps the commandments; John does not mean a sinless satisfying of the law, but those who strive, according to human infirmity, to form their life to God’s will.\n\nReformed assurance: works are evidence, not foundation. Faith recumbs on the grace of Christ alone; piety distinguishes true faith from a fictitious, dead knowledge."
+    },
+    {
+      "number": 4,
+      "text": "Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him,",
+      "arminianNotes": "The saying without the keeping is a lie. Truth is not in the mouth that will not obey.\n\nArminian sting: profession without a kept life is not a weak stage of grace; it is falsehood. Knowing Christ and ignoring His commands cannot coexist as a settled state.",
+      "reformedNotes": "Calvin: he proves they are liars who boast faith without piety, even by the contrary effect—the knowledge of God is efficacious. The sentence would be superfluous if no false profession were made.\n\nReformed weight: God is not known by a naked imagination. He reveals Himself inwardly by the Spirit; a commandment-less “I know him” is empty."
+    },
+    {
+      "number": 5,
+      "text": "but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him:",
+      "arminianNotes": "Whoever keeps His word: Wesley hears the commandments, and the love of God reconciled to us through Christ, perfectly known. By keeping we know we are in Him. To know Him, to be in Him, to abide in Him are nearly synonymous, with a gradation: knowledge, communion, constancy.\n\nArminian knowing: love perfected is love brought to its proper fruit in a kept word, not sinless arrival. The test is public enough to humble a merely verbal faith.",
+      "reformedNotes": "Calvin defines the true keeping of the law as to love God. To love God in sincerity of heart is to keep His commandments. If no one has loved God thus perfectly, it is sufficient that each aspires according to the measure of grace given.\n\nReformed knowing: we are in Him is the fruit of the gospel—fellowship with the Father and the Son. No communion without love; no real progress in faith except one who cleaves from the heart to God."
+    },
+    {
+      "number": 6,
+      "text": "whoever says he abides in him ought to walk in the same way in which he walked.",
+      "arminianNotes": "Abiding implies a durable state: constant knowledge of and communion with Him. Otherwise, Wesley says, they are vain words. Walk as He walked in the world.\n\nArminian ought: union language without Christ’s walk is theater. The Advocate of v. 1 is also the pattern of v. 6. Grace that saves is grace that conforms.",
+      "reformedNotes": "Calvin: he does not simply exhort us to imitate Christ, but from the union we have with Him he proves that we ought to be like Him. A likeness in life and deeds will prove that we abide in Christ.\n\nReformed walk: the “ought” is not a bare moralism. It is the moral shape of union. Those in Christ have put off the old man; the walk matches the Head."
+    }
+  ]
+}

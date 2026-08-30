@@ -1,0 +1,47 @@
+{
+  "book": "Romans",
+  "bookSlug": "romans",
+  "chapter": 1,
+  "verseStart": 16,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Romans 1:16–17",
+  "context": "After greeting Rome and naming his longing to preach there, Paul states the thesis of the letter: he is not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, Jew first and also Greek. In it the righteousness of God is revealed from faith for faith, as Habakkuk 2:4 had already said: the righteous shall live by faith.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the gospel as the power of God for salvation and the righteousness of God revealed from faith for faith—so each camp speaks in its own voice beside Romans 1:16–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Paul is not ashamed, knowing it is the power of God unto salvation to every one that believeth—the great and gloriously powerful means of saving all who accept salvation in God’s own way. The righteousness of God: St. Paul, when treating of justification, means hereby the righteousness of faith; therefore called the righteousness of God, because God found out and prepared, reveals and gives, approves and crowns it. In this verse the expression means the whole benefit of God through Christ for the salvation of a sinner. From faith to faith—by a gradual series of still clearer and clearer promises. The just shall live by faith: he shall obtain the favour of God, and continue therein by believing.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Romans 1:16–17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As he works not effectually in all, but only where the Spirit, the inward Teacher, illuminates the heart, he subjoins, To every one who believeth. The gospel is indeed offered to all for their salvation, but the power of it appears not everywhere. I take the righteousness of God to mean that which is approved before his tribunal. Righteousness is offered by the gospel, and is received by faith. And he adds, to faith: for as our faith makes progress, so the righteousness of God increases in us at the same time. We have now the principal point or the main hinge of the first part of this Epistle—that we are justified by faith through the mercy of God alone. The righteousness which is grounded on faith depends entirely on the mercy of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Romans 1:16–17)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 16,
+      "text": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.",
+      "arminianNotes": "Paul is not ashamed of the gospel at Rome, the head of the world. Wesley: to the world it is folly and weakness, yet it is the power of God unto salvation to every one that believeth—the great and gloriously powerful means of saving all who accept salvation in God’s own way. Jew first, then Greek: the offer is ordered, not narrowed.\n\nClassical Arminians hear a sincere, universal power: the gospel actually saves everyone who believes. “Everyone who believes” is not a code for a hidden list; it is the living condition of the power. Grace enables believing; it does not make the word a private instrument that never meant the neighbor who refuses. The Jew’s priority is historical honor, not a smaller mercy.",
+      "reformedNotes": "Calvin: Paul anticipates the world’s taunts and eulogizes the gospel so Rome will not find the cross contemptible. God puts forth his power to save in vocal preaching, not a secret revelation only. Yet he works not effectually in all, but only where the Spirit, the inward Teacher, illuminates the heart. The gospel is offered to all for their salvation; the power of it appears not everywhere.\n\nReformed reading: “everyone who believes” names those in whom the Spirit makes the word effectual. The offer is wide—Jew first, then Greek, no rank or nation fenced off. The salvation is God’s power, not the hearer’s contribution. Those who refuse find in the same gospel a proof of ruin; Christ offered as Savior will be Judge.",
+      "keyContrast": "Both glory in a gospel that is God’s power for salvation to Jew and Greek who believe, and neither is ashamed of the cross. Arminians typically hear a sincere power unto all who will believe, faith the living condition of receiving it. Reformed readers typically hear the same wide offer, with effectual power only where the Spirit illuminates the heart—faith the fruit of that inward teaching, not an independent lever."
+    },
+    {
+      "number": 17,
+      "text": "For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”",
+      "arminianNotes": "In the gospel the righteousness of God is revealed from faith for faith. Wesley: when treating of justification, Paul means the righteousness of faith—called God’s because He found out and prepared, reveals and gives, approves and crowns it; here, the whole benefit of God through Christ for a sinner’s salvation. From faith to faith: a gradual series of still clearer and clearer promises. Habakkuk’s sentence: he shall obtain the favour of God, and continue therein by believing.\n\nClassical Arminians hear righteousness revealed to faith as living trust, not a wage and not a bare ticket. “From faith for faith” is the life of trust beginning and going on. The righteous live by faith: they obtain God’s favor by believing and continue in it by believing. Faith is enabled by grace; it remains the gospel’s condition, not a meritorious work. Do not flatten this into a righteousness that never meets a real act of trust.",
+      "reformedNotes": "Calvin: if we seek salvation—life with God—righteousness must first be sought, by which being reconciled we obtain that life which consists only in his favor. This righteousness, approved before God’s tribunal, is revealed in the gospel; hence the gospel is the power of God unto salvation. It is offered by the gospel and received by faith. From faith to faith: as faith advances, the righteousness of God increases in us and its possession is confirmed. Main hinge of the letter: we are justified by faith through the mercy of God alone.\n\nReformed confession: the righteousness revealed is God’s—imputed, approved at his bar—not our improvement counted as if it were. Faith is the instrument that receives it, itself depending entirely on mercy. Habakkuk proves that life before God is by faith, not by the law’s works. “From faith for faith” is the believer’s daily progress in receiving what God has already provided, not a ladder of clearer self-righteousness.",
+      "keyContrast": "Both confess that the gospel reveals the righteousness of God and that the righteous live by faith, not by works of the law. Arminians typically hear righteousness revealed to faith as living trust—from faith to faith as clearer promises and continuing belief, faith the graciously enabled condition. Reformed readers typically hear the righteousness of God imputed, approved before his tribunal, received by faith as the Spirit-given instrument, depending entirely on mercy."
+    }
+  ]
+}

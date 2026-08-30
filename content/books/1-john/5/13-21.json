@@ -1,0 +1,89 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 5,
+  "verseStart": 13,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "1 John 5:13–21",
+  "context": "John writes to those who believe in the name of the Son of God, that they may know they have eternal life. Confidence in prayer according to His will; a brother sinning not unto death may be asked for; there is sin that leads to death. The one born of God does not keep on sinning; we are from God, the world lies in the evil one. The Son has come and given understanding: He is the true God and eternal life. Keep yourselves from idols.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on knowing you have eternal life, a sin unto death, and the true God in His Son—so each camp speaks in its own voice beside 1 John 5:13–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "These things have I written that ye may know—with a fuller and stronger assurance—that ye have eternal life. If any one see his brother sin a sin which is not unto death—that is, any sin but total apostasy from both the power and form of godliness—let him ask, and God will give him life. There is a sin unto death: I do not say that he shall pray for that. A sin unto death may likewise mean one which God has determined to punish with death. All deviation from perfect holiness is sin; but all sin is not unpardonable. He that is born of God sinneth not—so long as that loving faith abides in him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 John 5:13–18)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "These things have I written unto you that believe, that ye may know that ye have eternal life, and that ye may believe. The use of doctrine is not only to initiate the ignorant but to confirm those more and more who have been already taught, that they might believe more firmly and thus enjoy a fuller confidence as to eternal life. There is a sin unto death: it is not a partial fall, but apostasy, by which men wholly alienate themselves from God. God never thus deprives his own people of the grace of the Spirit; they ever retain some spark of true religion. They must then be reprobate and given up to destruction who thus fall away so as to have no fear of God. We know that whosoever is born of God sinneth not: those sin not who do not wholly fall away from the grace of God. He that is begotten of God keepeth himself: what properly belongs to God he transfers to us; the faithful have not from themselves the power of preservation.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 5:13–18)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 13,
+      "text": "I write these things to you who believe in the name of the Son of God, that you may know that you have eternal life.",
+      "arminianNotes": "I write to you who believe in the name of the Son of God, that you may know that you have eternal life. Wesley: in the introduction he said I write; now, I have written. That ye may know with a fuller and stronger assurance that ye have eternal life.\n\nArminian know: know as you believe. The writing is for believers, that assurance may be fuller. Knowledge of having life is tied to believing in the name, not to a hidden decree inspected apart from the Son. Abide in what you believe, and know.",
+      "reformedNotes": "Calvin: there ought to be daily progress in faith. He wrote to those who had already believed, so that they might believe more firmly and with greater certainty, and thus enjoy a fuller confidence as to eternal life. Doctrine initiates and confirms. Many remnants of unbelief remain; what we believe is not yet really believed except there be fuller confirmation. The way: the office and power of Christ explained. Eternal life is to be sought nowhere else but in Christ. To the faith we have in His name is annexed the hope of salvation: we become children and heirs of God.\n\nReformed know: know because God has given eternal life in the Son. Confirmation is more of Christ, not a turn inward to our constancy as the ground. Shared: written that you may know you have eternal life.",
+      "keyContrast": "The assurance fork. Arminian readers take “know” as the fuller assurance of those who believe and abide (Wesley). Reformed readers take it as confidence that God has given eternal life in the Son, confirmed by seeing more of Christ (Calvin)—not a knowledge that rests on our walk as its foundation."
+    },
+    {
+      "number": 14,
+      "text": "And this is the confidence that we have toward him, that if we ask anything according to his will he hears us.",
+      "arminianNotes": "This is the confidence we have toward Him: if we ask anything according to His will, He hears us. Wesley: we who believe; He favourably regards whatever prayer we offer in faith according to His revealed will.\n\nArminian ask: confidence is for believers at prayer, bounded by revealed will. Hearing is fatherly regard, not a blank check.",
+      "reformedNotes": "Calvin: faith commended by its fruit—the godly dare call on God. Calling on God is the chief trial of faith; God is not rightly called upon except we be persuaded our prayers will not be in vain. According to His will: not an unbridled liberty. God has prescribed a law; the Spirit restrains wandering feelings; the word directs.\n\nReformed ask: certainty of faith does not generate indifference. Shared: according to His will, He hears."
+    },
+    {
+      "number": 15,
+      "text": "And if we know that he hears us in whatever we ask, we know that we have the requests that we have asked of him.",
+      "arminianNotes": "If we know He hears, we know we have the requests we have asked. Wesley: faith anticipates the blessings, even before the event; when the event comes, we know it comes in answer.\n\nArminian have: the having is by faith’s anticipation, not presumption about unrevealed wants. Prayer and knowledge live together.",
+      "reformedNotes": "Calvin: not superfluous. What was general is now special: the godly ask nothing they do not obtain—right, humble petitions consistent with obedience. They do not give loose reins to desires. Tranquil minds wait until the Lord performs. Ease should not abate earnestness.\n\nReformed have: deposit sighs in God’s bosom. Shared: we know we have what we asked according to His will."
+    },
+    {
+      "number": 16,
+      "text": "If anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life—to those who commit sins that do not lead to death. There is sin that leads to death; I do not say that one should pray for that.",
+      "arminianNotes": "If anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life. There is sin that leads to death; I do not say that one should pray for that. Wesley: any man; any sin but total apostasy from both the power and form of godliness. Ask, and God will give life—pardon and spiritual life. A sin unto death may likewise mean one God has determined to punish with death. Let him not pray for that.\n\nHonest Wesley: two senses offered—total apostasy, or a sin God has determined to punish with death—not a speculative third category of mystery sins. Pray for the brother; do not be more merciful than the text about the death-sin.",
+      "reformedNotes": "Calvin: the benefits of faith extend so that prayers avail for brethren. He who will pray for the perishing will restore life—or God will grant life to your prayers. Sin not unto death: God does not so punish their falls as to repudiate them; we ought to deem them brethren. He does not distinguish venial and mortal as later done under the Papacy. Whatever is contrary to God’s law is in its nature mortal; but God does not give over to death those He has restored, though it depends not on them that they are not alienated. Sin unto death: not a partial fall but apostasy, wholly alienating from God. God never thus deprives His own of the Spirit; they retain some spark. They must be reprobate who fall away so as to have no fear of God. Blasphemy against the Spirit brings such defection. Do not rashly conclude any has brought eternal death; love should hope well. If impiety appears hopeless, as though the Lord pointed it out, do not contend with His judgment.\n\nHonest Calvin: apostasy, not a catalog of unpardonable particular acts, and not Papal venial/mortal. The exception is rare; mercy is the default of prayer.",
+      "keyContrast": "Honest Wesley/Calvin on the sin leading to death—not a speculative third category. Wesley: total apostasy from power and form of godliness, or a sin God has determined to punish with death. Calvin: apostasy that wholly alienates from God, the sort that never finally takes the elect; do not rashly refuse prayer, yet do not out-mercy God’s judgment when the defection is plain."
+    },
+    {
+      "number": 17,
+      "text": "All wrongdoing is sin, but there is sin that does not lead to death.",
+      "arminianNotes": "All wrongdoing is sin, but there is sin that does not lead to death. Wesley: all deviation from perfect holiness is sin; but all sin is not unpardonable.\n\nArminian all: do not shrink sin; do not make every sin the death-sin of v. 16. Pardon remains the ordinary path of 1:9.",
+      "reformedNotes": "Calvin: either adversatively—though all unrighteousness is sin, yet every sin is not unto death—or as inference from the definition. He prefers not to take “all unrighteousness” as complete unrighteousness only.\n\nReformed all: every transgression is sin; not every sin is the apostasy of v. 16. Shared: all wrongdoing is sin; not all is unto death."
+    },
+    {
+      "number": 18,
+      "text": "We know that everyone who has been born of God does not keep on sinning, but he who was born of God protects him, and the evil one does not touch him.",
+      "arminianNotes": "We know that everyone born of God does not keep on sinning; he who was born of God protects him, and the evil one does not touch him. Wesley: no encouragement to sin. He that is born of God—that sees and loves God—sinneth not so long as that loving faith abides; he keepeth himself, watching unto prayer; the wicked one toucheth him not so as to hurt him.\n\nArminian born: so long as loving faith abides, matching 3:9. Keeping himself is watching unto prayer. The evil one does not touch to hurt while that watch holds. The walk remains a walked thing.",
+      "reformedNotes": "Calvin: if you suppose God’s children wholly free from all sin, the Apostle is inconsistent, taking away mutual prayer. Those sin not who do not wholly fall away. A proof: everyone born of God keeps himself in the fear of God, not so led away as to lose all sense of religion. Not touched: a deadly wound; they ward off strokes by the shield of faith so they do not penetrate the heart. Spiritual life is never extinguished. What belongs to God he transfers to us; we are not keepers of our own salvation. Christ asks the Father to keep us. They keep themselves as far as they are kept by God.\n\nReformed born: not sinless instant perfection; not final deadly touch. God keeps. Shared: born of God, not a practice of sin, evil one does not touch to death."
+    },
+    {
+      "number": 19,
+      "text": "We know that we are from God, and the whole world lies in the power of the evil one.",
+      "arminianNotes": "We know we are from God, and the whole world lies in the power of the evil one. Wesley: children of God by the witness and fruit of the Spirit. The whole world—all who have not His Spirit—not only touched but lying in the wicked one, void of life and sense. The horrible state of the world in a short expression.\n\nArminian we/world: two knowns. Being of God is known; the world’s lie in the evil one is known. Not a flattering anthropology.",
+      "reformedNotes": "Calvin: what was declared in common he applies to those he writes to, to stimulate them to beware of sin. Only true faith applies the grace of God; he acknowledges none as faithful but those who have the dignity of being God’s children. Not probable conjecture: we know. World includes the whole human race, lying under Satan’s dominion. Hence shun the world; do not fear its enmity.\n\nReformed we/world: calling is from God; under this protection oppose machinations. Shared: we are of God; the world lies in the evil one."
+    },
+    {
+      "number": 20,
+      "text": "And we know that the Son of God has come and has given us understanding, so that we may know him who is true; and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life.",
+      "arminianNotes": "The Son of God has come and given us understanding, so that we may know Him who is true; we are in Him who is true, in His Son Jesus Christ. He is the true God and eternal life. Wesley: by all these infallible proofs. A spiritual understanding, that we may know Him, the true one. We are in the true one as branches in the vine, even in Jesus Christ. This Jesus is the only living and true God, together with the Father and the Spirit, and the original fountain of eternal life. Beginning and end of the epistle agree.\n\nArminian true: the Son has come; understanding is given; we are in Him. Eternal life is this One. Keep the end of the letter where the beginning was: the manifested Life.",
+      "reformedNotes": "Calvin: God has been so made known that there is no reason for doubting. Except our faith is founded on God, we shall never stand. True God: really God, distinguished from idols. Christ has given understanding: in the gospel, by His Spirit, and because in Christ we have God manifested in the flesh. This gift is peculiar to the elect. Christ kindles the torch of the gospel for all indiscriminately; all have not the eyes opened; Satan spreads a veil over many. The light kindled in His people, once kindled, is never extinguished, though in some it may for a time be smothered. We are in Him that is true, in His Son: in God through Christ. This is the true God: a remarkable testimony to the divinity of Christ, not a frigid repetition about the Father. When we have Christ, we enjoy the true and eternal God; the origin of life is the Father, the fountain from which we draw is Christ.\n\nReformed true: the given understanding is the elect’s illumination. Shared: the Son has come; He is the true God and eternal life."
+    },
+    {
+      "number": 21,
+      "text": "Little children, keep yourselves from idols.",
+      "arminianNotes": "Little children, keep yourselves from idols. Wesley: from all worship of false gods, of images or of any creature, and from every inward idol; from loving, desiring, fearing anything more than God. Seek all help and all happiness in the true God alone.\n\nArminian keep: the last word is a watch. Idols are outward and inward. The true God of v. 20 is the only safety.\n",
+      "reformedNotes": "Calvin: an appendix. The vivifying light of the gospel ought to scatter darkness and mists. He not only condemns idolatry but commands us to beware of all images and idols: worship cannot continue uncorrupted when men love images. Superstition is so innate that the least occasion infects. Images are sparks—torches enough to set the world on fire. Altars and all instruments of superstition included. Keep carefully in the spiritual worship of God.\n\nReformed keep: banish what turns aside to gross and carnal superstitions. Shared last word: children, keep yourselves from idols."
+    }
+  ]
+}

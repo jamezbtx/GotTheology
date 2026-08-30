@@ -1,0 +1,82 @@
+{
+  "book": "Romans",
+  "bookSlug": "romans",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Romans 3:1–8",
+  "context": "After showing that a Jew is one inwardly and circumcision a matter of the heart, Paul faces the protest: then what advantage has the Jew? Much in every way—the oracles of God were entrusted to them. Some unfaithfulness does not nullify God’s faithfulness; God remains true though every one were a liar. The inference that we may do evil that good may come is slander, and its condemnation is just.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Jewish advantage, the oracles of God, God’s faithfulness standing though some are unfaithful, and the slander of doing evil that good may come—so each camp speaks in its own voice beside Romans 3:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Chiefly in that they were intrusted with the oracles of God—The scriptures, in which are so great and precious promises. Shall their unbelief disannul the faithfulness of God—Will he not still make good his promises to them that do believe? I speak as a man—As human weakness would be apt to speak. God forbid. If it were unjust in God to punish that unrighteousness which is subservient to his own glory, how should God judge the world? Whose condemnation is just—The condemnation of all who either speak or act in this manner. So the apostle absolutely denies the lawfulness of doing evil, any evil, that good may come.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Romans 3:2–8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "If then regard be had to them as men, he shows that they were on a level with others; but if the favors of God be taken to the account, he admits that they possessed what made them more eminent than other men, because that unto them were committed the oracles of God. Let God be true: the faithfulness of God is so far from being nullified by the perfidy and apostasy of men that it thereby becomes more evident. God is true, not only because he is prepared to stand faithfully to his promises, but because he also really fulfills whatever he declares. That evil cannot of itself produce anything but evil; and that God’s glory is through our sin illustrated, is not the work of man, but the work of God. God has prescribed to us the way by which he would have himself to be glorified by us, even by true piety, which consists in obedience to his word.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Romans 3:2, 4, 8)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Then what advantage has the Jew? Or what is the value of circumcision?",
+      "arminianNotes": "Then what advantage has the Jew? Or what is the value of circumcision? Wesley: what then, may some say, is the advantage of the Jew, or of the circumcision—those that are circumcised—above the Gentiles. Chapter 2 has just said that a Jew is one inwardly; the protest is fair, not a trick.\n\nBoth camps must say this together first: the question is real. Circumcision was not a toy, and Israel’s history is not erased. Classical Arminians do not shrug off the honor God gave this people. Advantage, if there is any, will be God’s gift, not a wage the sign itself earned. Paul will name the gift next, then use it to convict rather than to found a boast.",
+      "reformedNotes": "Calvin: though Paul proved that bare circumcision brought nothing, he could not deny some difference between Jew and Gentile, sealed by the Lord in that symbol. It was inconsistent to make a distinction of which God was the author void. He therefore asks what made the Jew superior, and what profit there is of circumcision.\n\nReformed reading: the advantage, if it exists, is God’s doing. Circumcision as a naked sign justifies no one—that was chapter 2. The sacrament is not empty because God appointed it; its worth will be located in the word, not in the flesh. Both camps refuse to let the inward Jew of 2:28–29 cancel the Old Testament."
+    },
+    {
+      "number": 2,
+      "text": "Much in every way. To begin with, the Jews were entrusted with the oracles of God.",
+      "arminianNotes": "Much in every way. To begin with, the Jews were entrusted with the oracles of God. Wesley: chiefly in that they were entrusted with the oracles of God—the scriptures, in which are so great and precious promises. Other prerogatives will follow (Rom 9:4–5); Paul singles out this one, by which, after removing the objection, he will convict them so much the more.\n\nClassical Arminians hear a real trust: God actually deposited his word with this people. The promises are great and precious, and they stand for those who believe. Entrustment is honor, not a claim that every hearer is already righteous. The same oracles that privilege Israel will presently shut every mouth (vv. 19–20).",
+      "reformedNotes": "Calvin: if regard be had to them as men, they were on a level with others; but if the favors of God be taken to the account, they possessed what made them more eminent than other men. The advantage of circumcision is not the naked sign; its value is derived from the word. By oracles he means the covenant revealed first to Abraham and his posterity, then sealed and unfolded by the law and the Prophets.\n\nReformed accent: eminence is mercy, not worth. They were first depositories, then dispensers. Apart from the word, no excellency remained. Both camps locate the advantage in God’s gift of Scripture, not in Jewish performance—and both will use that gift to prove guilt, not to found a boast."
+    },
+    {
+      "number": 3,
+      "text": "What if some were unfaithful? Does their faithlessness nullify the faithfulness of God?",
+      "arminianNotes": "What if some were unfaithful? Does their faithlessness nullify the faithfulness of God? Wesley: shall their unbelief disannul the faithfulness of God—will he not still make good his promises to them that do believe?\n\nBoth camps must say this together first: human unbelief does not cancel God. Classical Arminians hear the promises standing for those who believe. \"Some\" is the sad fact that not all Israel believed; it is not a hint that the word never meant the rest. God still makes good what he pledged to them that do believe. Faithlessness is real; the faithfulness is God’s.",
+      "reformedNotes": "Calvin: he mentions only some, mitigating what might have been said of a great part of the nation. Shall their unbelief make the faith of God without effect? Not so as to men: though the greater part had trodden the covenant under foot, it retained its efficacy, not indeed as to all, but with regard to a few of that nation who by continuing to believe had not fallen away from its privileges.\n\nReformed reading: God’s faithfulness does not float as a bare axiom; it takes effect in those he keeps. Unbelief cannot nullify the truth of God. The covenant bears fruit in a remaining few, not because they out-performed the rest, but because God fulfills what he declares. Some ever remained who had not fallen away.",
+      "keyContrast": "Both confess that human faithlessness does not nullify God’s faithfulness: he still makes good his word. Arminians typically hear the promises standing for them that do believe—the living condition of receiving what God pledged. Reformed readers typically hear the same unbreakable faithfulness, manifested not as to all, but in a remaining few of that nation whom God keeps in the promise."
+    },
+    {
+      "number": 4,
+      "text": "By no means! Let God be true though every one were a liar, as it is written, “That you may be justified in your words, and prevail when you are judged.”",
+      "arminianNotes": "By no means. Let God be true though every one were a liar. David’s sentence stands: God is justified in his words and prevails when he is judged. Wesley on the adjoining verse: will he not still make good his promises to them that do believe? That is the pastoral force of \"let God be true.\"\n\nClassical Arminians refuse to let human lying unmake God. His promises stand; his judgments are just. \"Every one a liar\" levels Jew and Gentile as speakers. God remains true—and he makes good his word to them that believe. Both camps take this as the first axiom: God’s verity does not depend on man’s.",
+      "reformedNotes": "Calvin: the faithfulness of God is so far from being nullified by the perfidy and apostasy of men that it thereby becomes more evident. God is true, not only because he is prepared to stand faithfully to his promises, but because he also really fulfills whatever he declares. Man is false, not only because he often violates his pledged faith, but because he naturally seeks falsehood and shuns the truth.\n\nReformed confession: God’s verity does not depend on man’s. He finds a way for his truth by correcting in his elect the inbred unbelief of our nature. The discourse here is of corruption, not of the grace that remedies it. Let God be true: Calvin calls this the primary axiom of all Christian philosophy."
+    },
+    {
+      "number": 5,
+      "text": "But if our unrighteousness serves to show the righteousness of God, what shall we say? That God is unrighteous to inflict wrath on us? (I speak in a human way.)",
+      "arminianNotes": "If our unrighteousness serves to show God’s righteousness, is God unrighteous to inflict wrath? Paul flags the objection: I speak in a human way. Wesley: if our unrighteousness be subservient to God’s glory, is it not unjust in him to punish us for it? I speak as a man—as human weakness would be apt to speak.\n\nBoth camps will not let a clever inference cancel wrath. That sin is overruled for God’s praise does not make the sinner a public benefactor. Wrath remains just. Classical Arminians hear Paul putting on human weakness in order to kill it. The next verses shut the door on doing evil that good may come.",
+      "reformedNotes": "Calvin: he assumes the person of the ungodly and touches human reason, whose work is ever to bark against the wisdom of God. He says not \"according to the ungodly\" but \"according to man.\" Wrath here means judgment: is God unjust who punishes those sins which set forth his righteousness?\n\nReformed accent: the mysteries of God are paradoxes to the flesh. If we would understand, we must be freed from our own reason and submit to his word. God’s displaying righteousness through our unrighteousness never makes him unjust to inflict it. The slander of v. 8 is already in view."
+    },
+    {
+      "number": 6,
+      "text": "By no means! For then how could God judge the world?",
+      "arminianNotes": "By no means. For then how could God judge the world? Wesley: God forbid. If it were unjust in God to punish that unrighteousness which is subservient to his own glory, how should God judge the world—since all the unrighteousness in the world will then commend the righteousness of God.\n\nBoth camps hold the judgment of the world as non-negotiable. A God who could not justly punish sin that he overrules could not judge anyone. Classical Arminians need this verse as much as any Calvinist: the gospel that will justify freely in 3:21–26 does not unhitch the Judge.",
+      "reformedNotes": "Calvin: he begins with abhorrence, lest the Christian religion should even appear to include absurdities so great. God shall judge the world; he cannot then be unjust. It is God’s work to rectify the world by his own righteousness. He who is by nature judge cannot deny himself.\n\nReformed reading: the argument is from God’s office, not a clever syllogism from human lips. Abraham’s plea stands: the Judge of all the earth does what is just. Final restoration of order will appear at the last judgment; already his government is just. Wrath inflicted is not a denial of his glory but the act of the Judge."
+    },
+    {
+      "number": 7,
+      "text": "But if through my lie God’s truth abounds to his glory, why am I still being condemned as a sinner?",
+      "arminianNotes": "If through my lie God’s truth abounds to his glory, why am I still being condemned as a sinner? Wesley: if my lie—practice contrary to truth—conduces to the glory of God by making his truth shine with superior advantage, why am I still judged as a sinner? Ought I not to do what would otherwise be evil, that so much good may come? The apostle does not deign a direct answer; he cuts the objector short with a severe reproof.\n\nClassical Arminians refuse the bargain. Glory to God through a lie is God’s overruling, not our assignment. Condemnation of the liar stands. Verse 8 will name the slander and call its condemnation just. Both camps say together: we may not do evil that good may come.",
+      "reformedNotes": "Calvin: this objection is adduced in the person of the ungodly. If by our unfaithfulness the truth of God becomes more conspicuous, and hence more glory redounds to him, it is by no means just that he who serves to display God’s glory should be punished as a sinner.\n\nReformed accent: the inference is blasphemous, not subtle. Our lie is not a ministry. God may turn it contrary to what we intend, to the promotion of his own glory; that turning is his work, not ours. The sinner remains a sinner. Paul will not baptize the slander by answering it on its own terms."
+    },
+    {
+      "number": 8,
+      "text": "And why not do evil that good may come?—as some people slanderously charge us with saying. Their condemnation is just.",
+      "arminianNotes": "And why not do evil that good may come?—as some slanderously charge us with saying. Their condemnation is just. Wesley: the condemnation of all who either speak or act in this manner. So the apostle absolutely denies the lawfulness of doing evil, any evil, that good may come.\n\nBoth camps must say this together before 3:21–31: the gospel that will justify freely never taught evil as a means. Classical Arminians refuse the antinomian shortcut as heartily as any Calvinist. Grace is not a license to sin so that mercy may abound. Those who slander the gospel this way, and those who practice the slander, are justly condemned.",
+      "reformedNotes": "Calvin: the pretense is, If God is by our iniquity glorified, then let us sin to advance his glory. The answer: evil cannot of itself produce anything but evil; that God’s glory is through our sin illustrated is not the work of man, but of God, who as a wonderful worker knows how to overcome our wickedness. God has prescribed the way he would be glorified by us: true piety, which consists in obedience to his word.\n\nReformed pastoral: he who leaps this boundary strives not to honor God but to dishonor him. That it turns out otherwise is Providence, not our wickedness. Paul calls the condemnation just—and both camps refuse to let 3:21–31 be read as that slander come true. Mercy will justify; it will not hire sin."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "book": "Daniel",
+  "bookSlug": "daniel",
+  "chapter": 8,
+  "verseStart": 15,
+  "verseEnd": 27,
+  "translation": "ESV",
+  "title": "Daniel 8:15–27",
+  "context": "Daniel seeks to understand the vision; one having the appearance of a man stands before him. A man's voice between the banks of the Ulai: Gabriel, make this man understand. Gabriel comes near; Daniel is frightened and falls on his face. Understand, O son of man, the vision is for the time of the end. Deep sleep, face to the ground; touched and made to stand. Latter end of the indignation; appointed time of the end. Ram with two horns: kings of Media and Persia. Goat: king of Greece. Great horn: the first king. Broken horn, four in its place: four kingdoms from his nation, not with his power. Latter end, when transgressors have reached their limit: a king of bold face, who understands riddles. Power great—but not by his own power; fearful destruction; destroy mighty men and the people who are the saints. Cunning, deceit prospers; in his mind he becomes great; without warning destroys many. Rises against the Prince of princes; broken—but by no human hand. The vision of evenings and mornings is true; seal it, many days from now. Daniel overcome, sick some days; rose and went about the king's business; appalled, did not understand it.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Gabriel making Daniel understand, the ram of Media and Persia, the goat of Greece, a bold-faced king named Antiochus, and evenings and mornings sealed for many days–so each camp speaks in its own voice beside Daniel 8:15–27, agreed that God appoints the end of the indignation and the tyrant is broken by no human hand.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The meaning—a more clear discovery of those things. The appearance of a man—probably Gabriel. A man's voice—of him before mentioned, namely, Christ. He came near—that he might speak more familiarly to him, yet Daniel could not bear the glory of it. How much less can we bear the glory of God, and how graciously hath the Lord dealt with us, to teach us by men, and not by angels? O son of man—he calls him son of man, to make him mind his frailty, and not to be lifted up with this great condescension of heaven. At the time—in God's appointed time, in the latter day, but not now in thy life-time. Toward the ground—being terrified with the splendor and grandeur both of the messenger and message. Set me upright—by one touch only. The indignation—God will raise up Antiochus to execute his wrath against the Jews for their sins, yet there shall be an end of that indignation. In the latter time—when they were come to the height, and beginning to decline. When the transgressors—when the Jews were grown to an excess of wickedness, then God suffered Antiochus to persecute them. Dark sentences—full of subtilty: such all histories declare Antiochus to be. Not by his own power—not by any heroick deeds, but by making use of the Jewish factions, through the divine commission to punish a backsliding nation; and by means of Eumenes and Attalus, by whose help he got up to this height. Shall destroy—he shall by force, craft, and cruelty, destroy many of God's people. By peace—under colour of kindness. Against the prince of princes—he fought against God, affronting God's laws, profaning God's worship, and temple, and setting up the image and worship of Jupiter there. Without hand—by a disease whereof he died. Shut thou up—lay it up in thy heart. For many days—three hundred years after this; long after Daniel's days. Was sick—being overwhelmed by a sense of the calamity that should befall the people of God. Did the king's business—having recovered strength, he minded his place, duty and trust, and concealed the whole, that they might not see it by his countenance.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Daniel 8:15–27)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "There stood before me like the aspect of a man: Christ, who had not yet put on our flesh. I heard a human voice in the midst of the river: Christ commands Gabriel, teach him. He was frightened and fell upon his face. Understand, O son of man: there shall be an end of the vision at a fixed time. He touched me and set me upright. I will make thee know what shall happen at the last end of the indignation: that severer punishment; at the time appointed the end shall be. The ram which thou sawest having two horns: the kings of Media and Persia. The he-goat is the king of Greece; the great horn between his eyes is the first king, Alexander. Four kingdoms shall stand up out of the nation, but not in his power. At the end of their kingdom, when the wicked are consummated, a king hard of face, skilled in enigmas: Antiochus. His power shall be strengthened, yet not by his own might; he shall destroy the strong and the people of the saints. Against the Prince of princes he shall stand: God himself; yet he shall be destroyed without hand—the sufficiency of the divine power without any human aid. The vision of the evening and morning is truth: days, not years or months; about six years and a half. Close the vision, because it is for many days. Daniel was astonished and afflicted by disease; then he returned to the king's business.",
+        "cite": "John Calvin",
+        "source": "Commentary on Daniel (on Daniel 8:15–27)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 15,
+      "text": "When I, Daniel, had seen the vision, I sought to understand it. And behold, there stood before me one having the appearance of a man.",
+      "arminianNotes": "Daniel seeks to understand; one having the appearance of a man stands before him. Wesley: the meaning—a more clear discovery of those things. The appearance of a man—probably Gabriel.\n\nArminian pastoral: he asks; he is not left to invent a chart. Shared: understanding is given, not guessed. Do not recast the standing one as a modern interpreter. Not a newspaper.",
+      "reformedNotes": "Calvin: when I sought to understand, there stood like the aspect of a man—Christ, who had not yet put on our flesh, a taste of his coming as Mediator.\n\nReformed pastoral: God meets the seeker. Shared: Daniel seeks; one stands. The next verse will name Gabriel. Not a prophecy-chart war.",
+      "keyContrast": "Both see Daniel seek understanding and one stand with a man's appearance. Arminians typically hear Wesley: probably Gabriel. Reformed readers typically hear Calvin: Christ, not yet incarnate, under the aspect of a man. Neither camp is being asked to invent a modern figure."
+    },
+    {
+      "number": 16,
+      "text": "And I heard a man's voice between the banks of the Ulai, and it called, “Gabriel, make this man understand the vision.”",
+      "arminianNotes": "A man's voice between the banks of the Ulai: Gabriel, make this man understand. Wesley: a man's voice—of him before mentioned, namely, Christ.\n\nArminian pastoral: Christ commands; Gabriel interprets. Shared with Calvin: Gabriel is sent to make Daniel understand. Media, Persia, and Greece will be named. Not a license to decode headlines.",
+      "reformedNotes": "Calvin: a human voice in the midst of the river; Christ commands Gabriel. From this, Christ's divinity: he issues orders to angels. Gabriel: the strength of God.\n\nReformed pastoral: the voice is not Daniel's guess. Shared: Gabriel must make him understand. Not a millennial camp-fight."
+    },
+    {
+      "number": 17,
+      "text": "So he came near where I stood. And when he came, I was frightened and fell on my face. But he said to me, “Understand, O son of man, that the vision is for the time of the end.”",
+      "arminianNotes": "He comes near; Daniel is frightened and falls on his face. Understand, O son of man; the vision is for the time of the end. Wesley: he came near—that he might speak more familiarly to him, yet Daniel could not bear the glory of it. How much less can we bear the glory of God, and how graciously hath the Lord dealt with us, to teach us by men, and not by angels? O son of man—to make him mind his frailty. At the time—in God's appointed time, in the latter day, but not now in thy life-time.\n\nArminian pastoral: the end is appointed, not in Daniel's lifetime, and not a last-days rapture scheme Wesley does not use. Shared: frightened; understand; timed. Stay with the indignation v. 19 will name.",
+      "reformedNotes": "Calvin: frightened and fell; fear prepares for obedience. Understand, O son of man: there shall be an end of the vision at a fixed time; God does not throw words into the air.\n\nReformed pastoral: time of the end is the appointed completion, the end of that indignation, not a rapture timetable they do not use. Shared: son of man; the vision has its time. Not a dispensational versus amillennial fight."
+    },
+    {
+      "number": 18,
+      "text": "And when he had spoken to me, I fell into a deep sleep with my face to the ground. But he touched me and made me stand up.",
+      "arminianNotes": "Deep sleep, face to the ground; touched and made to stand. Wesley: toward the ground—being terrified with the splendor and grandeur both of the messenger and message. Set me upright—by one touch only. The power of spirits is incomparably greater than that of the strongest of men.\n\nArminian pastoral: one touch; he stands to hear. Shared: God raises what he has laid down. Humility, not a pose of decoding power.",
+      "reformedNotes": "Calvin: I fell into a swoon with my face upon the ground; he touched me and set me upright. Fear prepares for obedience; God prostrates and then raises, that the mind be composed to listen.\n\nReformed pastoral: raised to hear, not to chart. Shared: deep sleep, touched, stood. Not a prophecy-chart war."
+    },
+    {
+      "number": 19,
+      "text": "He said, “Behold, I will make known to you what shall be at the latter end of the indignation, for it refers to the appointed time of the end.”",
+      "arminianNotes": "Latter end of the indignation; appointed time of the end. Wesley: the indignation—God will raise up Antiochus to execute his wrath against the Jews for their sins, yet there shall be an end of that indignation.\n\nArminian pastoral: an end of that indignation—Antiochus, not a last-days rapture scheme. Shared: God appoints the end. The ram and the goat will be named next. Not a newspaper.",
+      "reformedNotes": "Calvin: what shall happen at the last end of the indignation: that severer punishment after the people abused forbearance; at the time appointed the end shall be. God has a settled time; bridle haste.\n\nReformed pastoral: the appointed time of the end is the close of that wrath under Antiochus, not a headline. Shared: there shall be an end. God limits the indignation."
+    },
+    {
+      "number": 20,
+      "text": "As for the ram that you saw with the two horns, these are the kings of Media and Persia.",
+      "arminianNotes": "The ram with two horns: the kings of Media and Persia. Wesley writes no note here; his nearest (v. 3): two horns—the kingdom of Media and Persia. And the higher—the kingdom of Persia which rose last, in Cyrus, became more eminent than that of the Medes.\n\nArminian pastoral: named empires, not a modern map. Shared with Calvin: Medes and Persians. Do not recast the ram as a 21st-century power.",
+      "reformedNotes": "Calvin: the ram which thou sawest having two horns are the kings of Media and Persia. Two empires united; God names them so the vision is not a riddle for later flags.\n\nReformed pastoral: Media and Persia, as already shown. Shared: the ram is named. Not a prophecy-chart war."
+    },
+    {
+      "number": 21,
+      "text": "And the goat is the king of Greece. And the great horn between his eyes is the first king.",
+      "arminianNotes": "The goat is the king of Greece; the great horn between his eyes is the first king. Wesley writes no note here; his nearest (v. 5): an he-goat—the Grecian empire. A horn—this was Alexander the great.\n\nArminian pastoral: Greece, Alexander. Shared with Calvin. Do not invent a later goat. Not a millennial camp-fight.",
+      "reformedNotes": "Calvin: the he-goat is the king of Greece; the great horn is the first king, Alexander. Who then would have thought a king of Greece would seize that monarchy? God said it before it was.\n\nReformed pastoral: first king, named empire. Shared: goat = Greece; great horn = Alexander. Not a newspaper."
+    },
+    {
+      "number": 22,
+      "text": "As for the horn that was broken, in place of which four others arose, four kingdoms shall arise from his nation, but not with his power.",
+      "arminianNotes": "The broken horn; four in its place: four kingdoms from his nation, not with his power. Wesley writes no note here; his nearest (v. 8): was broken—when Alexander was greatest, then was he broken, and that to pieces. The four winds: Antipater got Greece; Asia was possessed by Antigonus; Ptolemy got Egypt; Seleucus had Babylon and Syria.\n\nArminian pastoral: four, not with Alexander's power. Shared: four successors from his nation. Stay with the named split. Not a later-goat chart.",
+      "reformedNotes": "Calvin: four kingdoms shall stand up out of the nation, but not in his power. Cassander, Seleucus, Antigonus, Ptolemy; not one equal to the first king.\n\nReformed pastoral: from his nation, weaker. Shared: four, not with his power. Not a prophecy-chart of later horns."
+    },
+    {
+      "number": 23,
+      "text": "And at the latter end of their kingdom, when the transgressors have reached their limit, a king of bold face, one who understands riddles, shall arise.",
+      "arminianNotes": "Latter end of their kingdom, when the transgressors have reached their limit: a king of bold face, who understands riddles. Wesley: in the latter time—when they were come to the height, and beginning to decline. When the transgressors—when the Jews were grown to an excess of wickedness, then God suffered Antiochus to persecute them. Dark sentences—full of subtilty: such all histories declare Antiochus to be.\n\nArminian pastoral: Wesley names Antiochus, not a modern bold face. Shared: latter end, transgressors full, a cunning king. Not a newspaper, and not a 21st-century candidate.",
+      "reformedNotes": "Calvin: at the end of their kingdom, when the wicked are consummated—the impious who provoked God's wrath. A king hard of face, skilled in enigmas: Antiochus, destitute of nobleness, remarkable for low cunning and impudence.\n\nReformed pastoral: a named tyrant when sin is full. Shared with Wesley: Antiochus, bold and cunning. Do not recast this as a modern headline."
+    },
+    {
+      "number": 24,
+      "text": "His power shall be great—but not by his own power; and he shall cause fearful destruction and shall succeed in what he does, and destroy mighty men and the people who are the saints.",
+      "arminianNotes": "Power great—but not by his own power; fearful destruction; he succeeds; he destroys mighty men and the people who are the saints. Wesley: not by his own power—not by any heroick deeds, but by making use of the Jewish factions, through the divine commission to punish a backsliding nation; and by means of Eumenes and Attalus, by whose help he got up to this height. Shall destroy—he shall by force, craft, and cruelty, destroy many of God's people.\n\nArminian pastoral: power is permitted, not original. The saints are destroyed, not abandoned. Shared: not by his own power; the holy people suffer for a time. God still appoints the end of the indignation.",
+      "reformedNotes": "Calvin: his power shall be strengthened, yet not by his own might—not open magnanimity, but clandestine arts; or not comparable to Alexander's. He shall make wonderful havoc and destroy the strong and the people of the saints.\n\nReformed pastoral: mighty is still bounded. Shared: not his own power; saints hurt. Not a millennial camp-fight.",
+      "keyContrast": "Both hear a power that is great yet not his own, and the saints destroyed. Arminians typically hear Wesley: not heroic deeds, but Jewish factions, a divine commission, and the help of Eumenes and Attalus. Reformed readers typically hear Calvin: not Alexander's might, nor open valor, but clandestine arts and craft. Neither camp is being asked to invent a modern king."
+    },
+    {
+      "number": 25,
+      "text": "By his cunning he shall make deceit prosper under his hand, and in his own mind he shall become great. Without warning he shall destroy many. And he shall even rise up against the Prince of princes, and he shall be broken—but by no human hand.",
+      "arminianNotes": "Cunning, deceit prospers; in his mind he becomes great; without warning he destroys many. He rises against the Prince of princes; broken—but by no human hand. Wesley: by peace—under colour of kindness. Against the prince of princes—he fought against God, affronting God's laws, profaning God's worship, and temple, and setting up the image and worship of Jupiter there. Without hand—by a disease whereof he died.\n\nArminian pastoral: he fights God; God breaks him. Shared: the Prince of princes is God; broken by no human hand. Not a culture-war on empire.",
+      "reformedNotes": "Calvin: he shall magnify himself in his heart; in peace destroy many. Against the Prince of princes: some take the high priest; that is too confined; God is meant. Yet he shall be destroyed without hand—the sufficiency of the divine power without any human aid. Do not pass by Antiochus to invent Antichrist as the first sense.\n\nReformed pastoral: God breaks the tyrant. Shared: rise against God; no human hand. Not a prophecy-chart war, and not a newspaper.",
+      "keyContrast": "Both hear him rise against the Prince of princes and be broken by no human hand. Arminians typically hear Wesley: he fought against God, profaning worship and temple; without hand—by a disease whereof he died. Reformed readers typically hear Calvin: the Prince is God, not merely the high priest; destroyed without hand means divine power without human aid. Shared: God breaks the tyrant. Neither camp is being asked to skip Antiochus for a modern headline."
+    },
+    {
+      "number": 26,
+      "text": "“The vision of the evenings and the mornings that has been told is true, but seal up the vision, for it refers to many days from now.”",
+      "arminianNotes": "The vision of evenings and mornings is true; seal it; many days from now. Wesley: shut thou up—lay it up in thy heart. For many days—three hundred years after this; long after Daniel's days.\n\nArminian pastoral: evenings and mornings already counted as days in 8:1–14; do not reopen a day-year scheme. Seal it; it is not for Daniel's lifetime. Shared: true; many days. Not a 2,300-year chart.",
+      "reformedNotes": "Calvin: the vision of the evening and morning is truth: days, not years or months; about six years and a half until the temple is cleansed. Close the vision, because it is for many days—not immediately apparent; guard the treasure even if many reject it.\n\nReformed pastoral: days, then restoration. Shared: true; seal; many days. God already limited the 2,300 as days. Not a prophecy-chart war."
+    },
+    {
+      "number": 27,
+      "text": "And I, Daniel, was overcome and lay sick for some days. Then I rose and went about the king's business, but I was appalled by the vision and did not understand it.",
+      "arminianNotes": "Overcome, sick some days; he rose and went about the king's business; appalled, he did not understand. Wesley: was sick—being overwhelmed by a sense of the calamity that should befall the people of God. Did the king's business—having recovered strength, he minded his place, duty and trust, and concealed the whole, that they might not see it by his countenance.\n\nArminian pastoral: sickness is compassion, not a license to decode headlines. He does the king's business; he does not understand it all. Shared: sick, then duty; humility. Gabriel has interpreted the named empires; the rest is sealed.",
+      "reformedNotes": "Calvin: astonished and afflicted by disease, that he might embrace the vision with reverence. He returned to the king's business—his ordinary occupation under that king, still in Chaldea. No one understood the prediction: attend; it is not a vanished specter.\n\nReformed pastoral: appalled and still obedient. Shared: sick, king's business, did not understand. Humility, not a chart. God still breaks the tyrant by no human hand."
+    }
+  ]
+}

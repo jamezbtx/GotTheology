@@ -1,0 +1,105 @@
+{
+  "book": "Romans",
+  "bookSlug": "romans",
+  "chapter": 14,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Romans 14:1–12",
+  "context": "Paul turns from love’s debts to the Roman table: welcome the one who is weak in faith, without quarreling over opinions about food and days. The strong must not despise; the weak must not judge. Each servant stands or falls before his own Master, who is able to make him stand. Whether we live or die we are the Lord’s, and each will give an account of himself to God.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on welcoming the weak in faith, food, days, and each servant standing before his own Master—so each camp speaks in its own voice beside Romans 14:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Him that is weak—Through needless scruples. Receive—With all love and courtesy into Christian fellowship. But not to doubtful disputations—About questionable points. Despise him that eateth not—As over-scrupulous or superstitious. Judge him that eateth—As profane, or taking undue liberties. For God hath received him—Into the number of his children, notwithstanding this. Let every man be fully persuaded—That a thing is lawful, before he does it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 14:1–5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "They who have made the most progress in Christian doctrine should accommodate themselves to the more ignorant, and employ their own strength to sustain their weakness; for among the people of God there are some weaker than others, and who, except they are treated with great tenderness and kindness, will be discouraged, and become at length alienated from religion. For God, by making us stronger than others, does not bestow strength that we may oppress the weak. When you see a man illuminated with the knowledge of God, you have evidence enough that he is received by the Lord; if you either despise or condemn him, you reject him whom God has embraced.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Rom 14:1, 3)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "As for the one who is weak in faith, welcome him, but not to quarrel over opinions.",
+      "arminianNotes": "Wesley heard the weak as those hampered by needless scruples, and “receive” as welcome with all love and courtesy into Christian fellowship—not into doubtful disputations about questionable points. Weakness here is over-cautious faith, not unbelief.\n\nArminian pastoral: the church’s first move is welcome. Faith that still stumbles over food is still faith. Turning the table into a debate hall refuses the very people God is gathering.",
+      "reformedNotes": "Calvin: those who have made the most progress should accommodate the more ignorant and employ their strength to sustain weakness. God does not bestow strength that we may oppress the weak; the ampler the grace, the more bound we are to help neighbors.\n\nReformed reading: strength is a gift for bearing, not a license to win. Fruitless questions weary a mind not yet established. Teach to the capacity of the weak, or you may shake the faith you meant to correct."
+    },
+    {
+      "number": 2,
+      "text": "One person believes he may eat anything, while the weak person eats only vegetables.",
+      "arminianNotes": "Wesley took “all things” as all sorts of food, though forbidden by the law. The divide is real: one conscience is free at the table; the weak eats herbs. Neither menu is the gospel.\n\nArminian caution: do not treat vegetable scruple as second-class Christianity, nor liberty as a higher caste. The difference is adiaphora—indifferent things—where love, not victory, must rule.",
+      "reformedNotes": "Calvin called those who eat “believers” endued with a conscience fully satisfied, to whom the use of all things is allowed without difference. The weak ate herbs and abstained from what they thought unlawful—not “sick,” but weak in faith.\n\nReformed note: two diets in one church are not two gospels. Liberty belongs to a confirmed conscience. The strong may not require the tender to walk by the same rule before they can bear it."
+    },
+    {
+      "number": 3,
+      "text": "Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him.",
+      "arminianNotes": "Wesley: despise the abstainer as over-scrupulous or superstitious; judge the eater as profane or taking undue liberties. “God hath received him”—into the number of his children, notwithstanding this.\n\nArminian weight: God’s welcome is the argument against both contempt and censure. If the Father has received this brother, the church may not un-receive him over food.",
+      "reformedNotes": "Calvin met both faults: the strong despised the scrupulous as superstitious; the weak condemned whatever they did not follow. “When you see a man illuminated with the knowledge of God, you have evidence enough that he is received by the Lord; if you either despise or condemn him, you reject him whom God has embraced.”\n\nReformed pastoral: God’s reception, not your party’s menu, is the bar. Contempt and rash judgment both usurp the Host."
+    },
+    {
+      "number": 4,
+      "text": "Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand.",
+      "arminianNotes": "The eater and the abstainer are another man’s servants. They stand or fall before their own Master, not before your rule. “He will be upheld, for the Lord is able to make him stand”—hope for the weak without taking the bench.\n\nArminian reading: leave the brother’s standing to Christ. Ability to make him stand is the Lord’s, not yours. Welcome does not become custody of his conscience.",
+      "reformedNotes": "Calvin: you assume too much if you condemn anything in God’s servant because it does not please you. To his own Lord he stands or falls. “He shall indeed stand”: not only abstain from condemning, but hope well of him in whom you perceive anything of God.\n\nCalvin will not let this verse be stretched into a bare statement of final perseverance; he teaches judgments to lean toward mercy, because the Lord who began a work is able to confirm it. Reformed instinct: hope, not a second tribunal."
+    },
+    {
+      "number": 5,
+      "text": "One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind.",
+      "arminianNotes": "Wesley: “one day above another” as new moons and other Jewish festivals. “Let every man be fully persuaded”—that a thing is lawful, before he does it. Conviction precedes action.\n\nArminian conscience: coerced uniformity is hypocrisy. Days are not the gospel. Each must act from a mind persuaded before God, not from the stronger brother’s glare.",
+      "reformedNotes": "Calvin: food-scruples and days both arose from Judaism. The best rule is that everyone be fully assured in his own mind—do nothing except what you feel assured is pleasing to God. The first principle of right conduct: never move a finger while the mind is doubtful and vacillating.\n\nReformed: rash liberty becomes obstinacy. The weak who abstain from what they think unlawful evidence piety; they are not to be driven into acts their conscience cannot yet own."
+    },
+    {
+      "number": 6,
+      "text": "The one who observes the day, observes it in honor of the Lord. The one who eats, eats in honor of the Lord, since he gives thanks to God, while the one who abstains, abstains in honor of the Lord and gives thanks to God.",
+      "arminianNotes": "Wesley: he regards the day out of a principle of conscience toward God; the one who does not regard it also acts from conscience. He that eateth not flesh still “giveth God thanks”—for his herbs.\n\nArminian test: thanksgiving marks both tables as worship. The question is not meat versus herbs, but whether the act is unto the Lord. Two grateful consciences can sit in one church.",
+      "reformedNotes": "Calvin distinguished the superstitious notion about days (already called infirmity) from the observance itself: daring not to violate the day with a doubtful conscience was approved, because he dared not do anything with a doubtful conscience. Eating and abstaining are to the Lord when we give thanks; without thanksgiving both are impure.\n\nReformed: only the name of God, when invoked, sanctifies us and all we have. The weak man’s modest fear is received by indulgence, not as merit."
+    },
+    {
+      "number": 7,
+      "text": "For none of us lives to himself, and none of us dies to himself.",
+      "arminianNotes": "Wesley: none of us—Christians, in the things we do—liveth to himself: is at his own disposal, doeth his own will. Food and days are not private property.\n\nArminian: belonging to Christ relativizes both liberty and scruple. If you do not live to yourself, you may not spend your freedom as if the weak brother were furniture.",
+      "reformedNotes": "Calvin: particular acts should be referred to the Lord’s will because life itself ought to be wholly spent to his glory. Then only is a Christian’s life rightly formed. It is impiety to undertake anything you are not persuaded will please him.\n\nReformed: the whole life is the Lord’s; therefore so is the menu. Self-disposal is already a false gospel before the first bite."
+    },
+    {
+      "number": 8,
+      "text": "For if we live, we live to the Lord, and if we die, we die to the Lord. So then, whether we live or whether we die, we are the Lord’s.",
+      "arminianNotes": "Live or die, we are the Lord’s. The weak vegetarian and the strong meat-eater belong to the same Lord. That belonging is the ground of welcome, not of control.\n\nArminian pastoral: do not treat a brother as if he were yours to manage. If he is the Lord’s in life and death, your quarrel over days is too small for the claim Christ already holds.",
+      "reformedNotes": "Calvin: this is not the same as being made alive unto God by the Spirit (Rom 6:11), but conforming to his will and designing all things to his glory. Death as well as life is to be referred to his will, because we are his: he has full authority over our life and our death.\n\nReformed: God claims life and death so that each bears his station as a yoke. Rash attempts without his command, and impatience under sorrow, both deny whose we are."
+    },
+    {
+      "number": 9,
+      "text": "For to this end Christ died and lived again, that he might be Lord both of the dead and of the living.",
+      "arminianNotes": "Christ died and lived again that he might be Lord of both. His death is for people, not a theory; his resurrection claims the living and the dead. The Lord of the table is the crucified Lord.\n\nArminian: the One who died is the One who will judge—so stop using diet as a throne. His lordship is the reason we welcome rather than devour one another.",
+      "reformedNotes": "Calvin: Christ claims this power because he obtained it by so great a price. By undergoing death for our salvation he acquired authority over us which death cannot destroy; by rising he has received our whole life as his peculiar property. His present life is subject to no change; his dominion is eternal.\n\nReformed: the cross purchases lordship. Food fights look small under that price. Live and die to advance the glory of his name."
+    },
+    {
+      "number": 10,
+      "text": "Why do you pass judgment on your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God;",
+      "arminianNotes": "Wesley: hitherto the apostle addressed the weak; now he speaks to the stronger—“why dost thou despise thy brother?” Both verbs, judge and despise, are brother-sins. Both will stand before the judgment seat.\n\nArminian: equal brothers, one bar. The weak must stop judging the eater; the strong must stop despising the abstainer. A believing regard to that day silences rash censures.",
+      "reformedNotes": "Calvin: by the term brother he checks this lust for judging; an equality ought to be preserved. Assuming the judge’s seat robs Christ of the power he alone received from the Father. It is absurd for a Christian to take liberty to judge the conscience of his brother.\n\nReformed: one tribunal—Christ’s. You are a fellow-criminal in the court, not the magistrate. Leave the brother’s standing to the Judge who already owns him."
+    },
+    {
+      "number": 11,
+      "text": "for it is written, “As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.”",
+      "arminianNotes": "Wesley: “As I live”—an oath proper to him who only possesseth life infinite and independent. It is Christ who is here termed both Lord and God, as it is he to whom we live and die. Every tongue shall own him as rightful Lord—which shall then only be accomplished in its full extent.\n\nWesley’s prayer: the Lord grant we may find mercy in that day; and may it also be imparted to those who have differed from us—yea, to those who have censured us for things done from a desire to please him. Arminian generosity at the bar.",
+      "reformedNotes": "Calvin: Paul quotes Isaiah not so much to prove the judgment seat, which Christians did not doubt, as to show that judgment ought to be looked for with the greatest humility. All flesh is to be humbled; the bent knee is the picture.\n\nReformed confession: this is a remarkable passage for the eternal divinity of Christ. It is God who speaks, who will not give his glory to another (Isa 42:8). If what he claims is accomplished in Christ, he manifests himself in Christ. Small judgments die before that majesty."
+    },
+    {
+      "number": 12,
+      "text": "So then each of us will give an account of himself to God.",
+      "arminianNotes": "Each of us—not each of us for his brother. The account is of himself. Stop prosecuting your brother’s menu; prepare your own books.\n\nArminian close: mercy at that day is Wesley’s prayer for censors and the censured alike. Full persuasion in your own mind (v. 5) is how you will want to have lived when you speak for yourself alone.",
+      "reformedNotes": "Calvin: this conclusion invites humility and lowliness of mind; hence we are not to judge one another. It is not lawful to usurp the office of judging, who must ourselves submit to be judged and to give an account.\n\nReformed: your docket is your own life. The Judge already has the brother’s file. Fear of that account is meant to kill both contempt and censure at the Roman table."
+    }
+  ]
+}

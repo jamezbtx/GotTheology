@@ -1067,3 +1067,108 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
 .chapter-hub .passage-list {
   margin-top: 0.25rem;
 }
+
+/* —— Doctrine / attribute chips on passage pages —— */
+.topic-chips {
+  margin: 0.25rem 0 1.75rem;
+  padding: 1.1rem 1.25rem 1.2rem;
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+.topic-chips-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 0.7rem;
+}
+.topic-chips-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.topic-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.8rem 0.4rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--cream);
+  color: var(--ink);
+  font-size: 0.92rem;
+  font-weight: 600;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.topic-chip:hover,
+.topic-chip:focus-visible {
+  background: var(--gold-pale);
+  border-color: rgba(176, 141, 62, 0.5);
+  color: var(--ink);
+}
+.topic-chip-kind {
+  display: inline-flex;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.topic-chip--doctrine .topic-chip-kind {
+  background: rgba(61, 107, 107, 0.14);
+  color: var(--teal);
+}
+.topic-chip--attribute .topic-chip-kind {
+  background: var(--gold-pale);
+  color: #8a6c28;
+}
+
+/* —— Doctrine / attribute pages —— */
+.topic-page .topic-summary {
+  max-width: 38rem;
+  margin: 0.35rem auto 0.85rem;
+  font-size: 1.12rem;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+.topic-scripture {
+  margin-bottom: 0.25rem;
+}
+.topic-scripture h2 {
+  font-size: 1.45rem;
+  margin-bottom: 0.75rem;
+}
+.topic-notes .dual-col {
+  padding-top: 1.5rem;
+}
+.topic-hub-alt {
+  margin: 0 0 1.35rem;
+  font-size: 0.95rem;
+  color: var(--ink-muted);
+}
+.topic-hub-alt a {
+  color: var(--gold);
+  font-weight: 600;
+}
+.topic-hub-alt a:hover,
+.topic-hub-alt a:focus-visible {
+  text-decoration: underline;
+}
+.topic-hub-list .meta {
+  flex: 1 1 16rem;
+}
+.topic-page .browse-crumbs {
+  text-align: center;
+}
+.topic-page .cta-box .btn + .btn {
+  margin-top: 0.65rem;
+}
+@media (min-width: 640px) {
+  .topic-page .cta-box .btn + .btn {
+    margin-top: 0;
+  }
+}

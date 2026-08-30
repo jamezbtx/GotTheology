@@ -1,0 +1,163 @@
+{
+  "kind": "doctrine",
+  "slug": "election",
+  "title": "Election",
+  "summary": "Before the foundation of the world, God chose a people in Christ to be holy and blameless—both camps read that choosing as grace, and they part over whether it is conditional on foreseen faith.",
+  "context": "Election is the church’s word for God’s choosing. Scripture praises the Father who “chose us in him before the foundation of the world” and names “God’s elect.” Arminian and Reformed readers agree the praise belongs to God, not to human merit. They disagree about the ground of the choice: God’s foreknowledge of a grace-enabled response, or God’s unconditional good pleasure that itself creates faith.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God’s choosing—so each camp speaks in its own voice, not a caricature.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "To these succeeds the fourth decree, by which God decreed to save and damn certain particular persons. This decree has its foundation in the foreknowledge of God, by which he knew from all eternity those individuals who would, through his preventing grace, believe, and, through his subsequent grace would persevere… and by which foreknowledge he likewise knew those who would not believe and persevere.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      },
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      },
+      {
+        "quote": "God, by an eternal, unchangeable purpose in Jesus Christ his Son, before the foundation of the world, hath determined, out of the fallen, sinful race of men, to save in Christ, for Christ’s sake, and through Christ, those who, through the grace of the Holy Ghost, shall believe on this his Son Jesus, and shall persevere in this faith and obedience of faith, through this grace, even to the end.",
+        "cite": "The Remonstrance",
+        "source": "Article I (1610)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We call predestination God’s eternal decree, by which he determined with himself what he willed to become of each man. For all are not created in equal condition; rather, eternal life is foreordained for some, eternal damnation for others.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 3.21.5"
+      },
+      {
+        "quote": "Election is the unchangeable purpose of God, whereby, before the foundation of the world, he hath out of mere grace, according to the sovereign good pleasure of his own will, chosen, from the whole human race… a certain number of persons to redemption in Christ, whom he from eternity appointed the Mediator and Head of the elect.",
+        "cite": "Canons of Dort",
+        "source": "First Head, Article 7"
+      },
+      {
+        "quote": "I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him; and I am sure He chose me before I was born, or else He never would have chosen me afterwards; and He must have elected me for reasons unknown to me, for I never could find any reason in myself why He should have looked upon me with special love.",
+        "cite": "Charles H. Spurgeon",
+        "source": "Autobiography, vol. 1 (early years)"
+      }
+    ]
+  },
+  "arminianNotes": "Classical Arminians do not deny election. They deny that it is an unconditional selection of some individuals irrespective of faith. Arminius ordered God’s decrees so that Christ is appointed Savior first, then the condition of faith, then sufficient means, and only then the naming of particular persons—on the basis of foreseen, grace-enabled believing and persevering.\n\n“In Christ” is often read corporately: the Son is the Elect One, and those joined to him by a real (enabled, not coerced) faith share his chosen status. Wesley’s “free in all and free for all” insists that the offer is sincere. Preventing grace restores the ability to respond; it does not irresistibly determine who will.\n\nPastoral weight falls on assurance that God is not playing favorites by secret exclusion, and on the warning that unbelief is a genuine refusal, not a script already written without us. Election, on this reading, magnifies mercy that seeks and enables, not a decree that bypasses the will.",
+  "reformedNotes": "Reformed confession treats election as personal, eternal, and unconditional. Before creation the Father set his love on a people in the Son—not because he foresaw their faith, but so that they would believe. Faith is the fruit of election, not its cause. The Canons of Dort locate the choice “out of mere grace” in a fallen race where none were worthier than the rest.\n\n“In Christ” names the sphere and Mediator of the choice: the elect are given to the Son, called, justified, sanctified, and finally glorified. Calvin’s language of a double decree is stark; later Reformed writers often speak with more pastoral reserve about reprobation, yet they still refuse to make foreseen faith the ground of God’s choice.\n\nPastoral weight falls on humility and comfort. If the deciding love is God’s, then assurance does not rest on the quality of our choosing, and praise—“to the praise of his glorious grace”—is the fitting end. The same writers insist this is not license: holiness is the appointed purpose of the choosing.",
+  "keyContrast": "Arminian readings typically make foreseen, grace-enabled faith (or entry into the elect body in Christ) the difference between the chosen and the rest; Reformed readings make God’s unconditional choice the difference, with faith as the effectual result.",
+  "scripture": [
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 6,
+      "title": "Ephesians 1:3–6",
+      "href": "/bible/ephesians/1/3-6.html",
+      "why": "Chose us in him before the foundation of the world—both camps’ primary election text."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 1,
+      "verseStart": 7,
+      "verseEnd": 14,
+      "title": "Ephesians 1:7–14",
+      "href": "/bible/ephesians/1/7-14.html",
+      "why": "Predestined according to his purpose, sealed with the Spirit as a guarantee."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 6,
+      "verseStart": 22,
+      "verseEnd": 40,
+      "title": "John 6:22–40",
+      "href": "/bible/john/6/22-40.html",
+      "why": "All that the Father gives the Son will come; whoever comes he will never cast out."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 17,
+      "verseStart": 6,
+      "verseEnd": 19,
+      "title": "John 17:6–19",
+      "href": "/bible/john/17/6-19.html",
+      "why": "Those the Father gave the Son out of the world—kept in the Name."
+    },
+    {
+      "book": "2 Timothy",
+      "bookSlug": "2-timothy",
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 13,
+      "title": "2 Timothy 2:8–13",
+      "href": "/bible/2-timothy/2/8-13.html",
+      "why": "I endure everything for the sake of the elect, that they also may obtain salvation."
+    },
+    {
+      "book": "Titus",
+      "bookSlug": "titus",
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4,
+      "title": "Titus 1:1–4",
+      "href": "/bible/titus/1/1-4.html",
+      "why": "Paul a servant “for the sake of the faith of God’s elect.”"
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 14,
+      "title": "Matthew 22:1–14",
+      "href": "/bible/matthew/22/1-14.html",
+      "why": "The wedding feast: many called, few chosen."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 25,
+      "verseStart": 19,
+      "verseEnd": 34,
+      "title": "Genesis 25:19–34",
+      "href": "/bible/genesis/25/19-34.html",
+      "why": "The twins in Rebekah’s womb—the older shall serve the younger."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 8,
+      "verseStart": 18,
+      "verseEnd": 30,
+      "title": "Romans 8:18–30",
+      "href": "/bible/romans/8/18-30.html",
+      "why": "Those he predestined he also called, justified, glorified."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 9,
+      "verseStart": 14,
+      "verseEnd": 29,
+      "title": "Romans 9:14–29",
+      "href": "/bible/romans/9/14-29.html",
+      "why": "I will have mercy on whom I have mercy—vessels of mercy and wrath."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 13,
+      "title": "Romans 9:1–13",
+      "href": "/bible/romans/9/1-13.html",
+      "why": "Jacob I loved, Esau I hated—God’s purpose of election."
+    }
+  ]
+}

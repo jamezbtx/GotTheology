@@ -1,0 +1,117 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 3,
+  "verseStart": 11,
+  "verseEnd": 24,
+  "translation": "ESV",
+  "title": "1 John 3:11–24",
+  "context": "The message from the beginning is that we should love one another—not as Cain. Love of the brothers is how we know we have passed from death to life. He laid down His life for us; we ought to lay down ours, and open our goods to the brother in need. Love in deed and truth reassures the heart. The commandment is to believe in the name of His Son and love one another. We know He abides by the Spirit He has given.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on brother-love against Cain, a life laid down, and a commandment to believe and love—so each camp speaks in its own voice beside 1 John 3:11–24.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death—is not born of God. Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren. And this is his commandment—all his commandments in one word—that we should believe and love. He that keepeth his commandments abideth in him, and God in him; and hereby we know that he abideth in us, by the Spirit which he hath given us—which witnesses with our spirits that we are his children.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 John 3:14–16, 23–24)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "We know that we have passed from death unto life, because we love the brethren. He does not mean that man is his own deliverer, as though by loving he could rescue himself from death. He does not here treat of the cause of salvation, but as love is the special fruit of the Spirit, it is also a sure symbol of regeneration. The Apostle draws an argument from the sign, and not from the cause. Hereby perceive we the love of God, because he laid down his life for us. This is his commandment, that we should believe on the name of his Son Jesus Christ, and love one another. He does not separate faith from love; but he requires both together from us.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 3:14–16, 23)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 11,
+      "text": "For this is the message that you have heard from the beginning, that we should love one another.",
+      "arminianNotes": "This is the message from the beginning: love one another. The particular named in v. 10 is the original message, not a new extra.\n\nArminian beginning: the same old commandment as 2:7–8. Love is the church’s first word, still in force.",
+      "reformedNotes": "Calvin: the faithful had been so taught from the beginning; the statement ought not to have appeared new. This righteousness alone is approved: if we love one another.\n\nReformed beginning: holiness does not consist in fictitious works. The devil reigns where hatred prevails. Shared: the message is love."
+    },
+    {
+      "number": 12,
+      "text": "We should not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother's righteous.",
+      "arminianNotes": "Not like Cain, of the evil one, who murdered his brother because his own deeds were evil and his brother’s righteous. Wesley: he showed he was a child of the devil by killing; not for any fault, but for his goodness.\n\nArminian Cain: hatred of the righteous is the world’s family likeness. Evil deeds cannot bear a brother’s righteousness.",
+      "reformedNotes": "Calvin: in the reprobate hatred reigns. Cain as instance. When impiety rules, hatred occupies the first place. Abel’s righteous works: endure when the world hates us gratuitously.\n\nReformed Cain: of that wicked one. Shared: murder grew from evil deeds facing a righteous brother."
+    },
+    {
+      "number": 13,
+      "text": "Do not be surprised, brothers, that the world hates you.",
+      "arminianNotes": "Do not be surprised that the world hates you. Wesley: for the same cause.\n\nArminian unsurprise: the world’s hatred is of a piece with Cain. Do not treat it as a puzzle that disproves adoption (3:1).",
+      "reformedNotes": "Calvin concludes consolation: marvel not if the world hate you.\n\nReformed unsurprise: Isaac and Jacob already taught this. Salvation remains safe though oppressed."
+    },
+    {
+      "number": 14,
+      "text": "We know that we have passed out of death into life, because we love the brothers. Whoever does not love abides in death.",
+      "arminianNotes": "We know we have passed from death to life because we love the brothers; whoever does not love abides in death. Wesley: we ourselves could not love unless passed from spiritual death, born of God. He that loves not is not born of God, and cannot love.\n\nArminian knowledge: love is evidence of new birth, and the one who does not love abides in death as a present state. The sign is real; remaining unloving is remaining dead.",
+      "reformedNotes": "Calvin: a remarkable eulogy of love as evidence of transition from death to life. Not that man is his own deliverer. Cause of salvation is not treated; love is fruit of the Spirit, sure symbol of regeneration. Argument from the sign, not the cause. Faith is founded on Christ; works may assist, still it rests on grace alone.\n\nReformed knowledge: no one sincerely loves except regenerated. The Spirit who is life dwells in those who love. Shared: we know by love. The cause remains God’s."
+    },
+    {
+      "number": 15,
+      "text": "Everyone who hates his brother is a murderer, and you know that no murderer has eternal life abiding in him.",
+      "arminianNotes": "Everyone who hates his brother is a murderer; no murderer has eternal life abiding. Wesley: no medium between loving and hating; every degree of hatred is a degree of Cain’s temper. No murderer has eternal life; every loving believer has: love is the beginning of eternal life, the same in substance with glory.\n\nArminian murder: hatred is already the deed before God. Eternal life abiding is incompatible with that temper as a settled way.",
+      "reformedNotes": "Calvin: all who hate are murderers. Not hyperbole: we wish him to perish whom we hate. Desire to harm, and even wishing evil from someone else, is condemned. External face engrosses us; inward feeling comes to account before God.\n\nReformed murder: refer judgments to God’s tribunal. Shared: hatred is murder; murder and abiding eternal life do not coexist."
+    },
+    {
+      "number": 16,
+      "text": "By this we know love, that he laid down his life for us, and we ought to lay down our lives for the brothers.",
+      "arminianNotes": "By this we know love: He laid down His life for us; we ought to lay down ours for the brothers. Wesley: the word God is not in the original; silence is emphatical. He laid down His life not merely for sinners, but for us in particular. From this truth believed, from this blessing enjoyed, love of the brethren takes its rise.\n\nArminian pattern: the particular “for us” is tasted salvation, not a shrinking of 2:2’s world. The ought is real: lives for brothers. Love is evidence faith is no delusion.",
+      "reformedNotes": "Calvin: true love’s power. Christ, by not sparing His own life, testified how much He loved us. Our love is approved when we transfer love of ourselves to brethren. We are far from equal to Christ; he recommends imitation, following at a distance. Another difference: our death does not pacify wrath. He had in view not the effect of Christ’s death as atonement here, but that our life be formed to His example.\n\nReformed pattern: without this feeling we have no connection with Christ. Shared: He laid down His life; we ought."
+    },
+    {
+      "number": 17,
+      "text": "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?",
+      "arminianNotes": "If anyone has the world’s goods, sees his brother in need, and closes his heart, how does God’s love abide? Wesley: worldly substance, far less than life; the sight of want knocks; whether asked or not, closing the bowels means the love of God does not dwell, however he talks.\n\nArminian goods: the lesser test (goods, not life) still unmasks a closed heart. Abiding love spends.",
+      "reformedNotes": "Calvin: common duties of love, reasoning from greater to less. He who will not alleviate by goods, life being safe, would not expose his life. Four propositions: show love when occasion comes; assist as far as means; see the necessity; no kindness pleases without sympathy. Bowels opened: feel the brother’s evil as our own.\n\nReformed goods: love of God generates love of the brethren. God tries our love to Him when He bids us love men from a regard to Himself."
+    },
+    {
+      "number": 18,
+      "text": "Little children, let us not love in word or talk but in deed and in truth.",
+      "arminianNotes": "Let us not love in word or talk but in deed and in truth. Wesley: not in word only; in action; not empty professions.\n\nArminian deed: tongue-love is conceded as a name and then emptied. Truth is the deed.",
+      "reformedNotes": "Calvin: a concession of the name to dissimulation; in the second clause he reproves their vanity. Let us not profess by the tongue that we love, but prove it by the deed; this is the only true way.\n\nReformed deed: affectionate speech is not forbidden; contentment with it is."
+    },
+    {
+      "number": 19,
+      "text": "By this we shall know that we are of the truth and reassure our heart before him;",
+      "arminianNotes": "By this we shall know we are of the truth and reassure our heart before Him. Wesley: farther proof by real, operative love that we have true faith, are true children. Assure: enjoy assurance of His favour and a good conscience. Heart in John is conscience.\n\nArminian reassure: operative love is a further proof, not the first ground. Conscience can be assured before God when love is real.",
+      "reformedNotes": "Calvin: if we in truth love neighbors, we have evidence we are born of God. We have not from love the knowledge as though we sought from it the certainty of salvation. We know we are children as He seals free adoption by His Spirit and we receive the pledge in Christ. Love is accessory, a prop to faith, not the foundation.\n\nReformed reassure: faith does not exist without a good conscience; we are really assured of union when the Spirit manifests Himself in our love. Do not look to works as the cause of assurance."
+    },
+    {
+      "number": 20,
+      "text": "for whenever our heart condemns us, God is greater than our heart, and he knows everything.",
+      "arminianNotes": "Whenever our heart condemns us, God is greater than our heart and knows everything. Wesley: if we have not this testimony, if in anything our conscience condemns, much more does God, an infinitely holier and more impartial Judge. No hope of hiding it.\n\nArminian greater: a condemning conscience is not the last word of despair, nor a small thing. God knows all—so come to the faithful Justifier of 1:9, not to a hiding place.",
+      "reformedNotes": "Calvin: they in vain possess the name who have not the testimony of a good conscience. If condemned by his own heart, much less can he escape God’s judgment. God is greater with reference to judgment: sees more keenly, searches more minutely. Faith is subverted by an evil conscience. He speaks of consciences God draws forth to the light, not of reprobate stupor or proud hypocrisy.\n\nReformed greater: no calm peace except what the Spirit gives to purified hearts. The condemning heart is a summons to Christ, not a claim that works save."
+    },
+    {
+      "number": 21,
+      "text": "Beloved, if our heart does not condemn us, we have confidence before God;",
+      "arminianNotes": "If our heart does not condemn us, we have confidence before God. Wesley: if conscience, enlightened by word and Spirit, comparing all with the word, pronounces they agree, we have confidence—and a full persuasion that whatever we ask we shall receive.\n\nArminian confidence: a clear conscience, not a perfect score. Confidence toward God includes prayer in the next verse.",
+      "reformedNotes": "Calvin: not hypocrites or despisers. Then only we come in calm confidence when we bring the testimony of a heart conscious of what is right. Paul: access by faith in Christ’s grace. John mentions an inseparable addition, not the cause. The godly are reproved that they may be absolved: they flee to the sacrifice of Christ. They are not condemned in this sense: they truly fear God, and their endeavors, though short, please God.\n\nReformed confidence: foundation on grace; a peaceful heart is the fruit, not the purchase."
+    },
+    {
+      "number": 22,
+      "text": "and whatever we ask we receive from him, because we keep his commandments and do what pleases him.",
+      "arminianNotes": "Whatever we ask we receive, because we keep His commandments and do what pleases Him. Receiving is tied to a kept life, not as wages but as the way of children who ask.\n\nArminian ask: prayer and obedience live together. Keep is the walk of those who believe and love (v. 23).",
+      "reformedNotes": "Calvin: confidence and prayer connected. None can really pray but those who with a pure heart fear Him. Ungodly prayers are abomination. He does not mean a good conscience obtains favor as cause. Woe if we look on works. The faithful come relying on Christ the Mediator. Causal particle names an inseparable addition, not the cause of hearing.\n\nReformed ask: true religion cannot be separated from faith. Hypocrites are shut from this privilege."
+    },
+    {
+      "number": 23,
+      "text": "And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he has commanded us.",
+      "arminianNotes": "This is His commandment: believe in the name of His Son Jesus Christ and love one another. Wesley: all His commandments in one word. The greatest and most important command that ever issued from the throne of glory. If this be neglected, no other can be kept; if observed, all others are easy.\n\nArminian one commandment: believe and love together. Neither is optional. Name means the Christ of the gospel, received.",
+      "reformedNotes": "Calvin: such discord between us and God that we are kept from access except united by love; yet he does not here commend love alone but joins it as companion of faith. Sophists distort as though liberty to pray were partly by faith and partly by works. He shows God favors none with intercourse but His children, regenerated. He does not separate faith from love; one word, commandment, singular. Believe on the name: the only right faith embraces Christ as set forth in the gospel. No faith without teaching.\n\nReformed one commandment: beginning and end of a life rightly formed. Brotherly love is evidence of love to God. Shared: believe and love."
+    },
+    {
+      "number": 24,
+      "text": "Whoever keeps his commandments abides in God, and God in him. And by this we know that he abides in us, by the Spirit whom he has given us.",
+      "arminianNotes": "Whoever keeps His commandments abides in God, and God in him. We know He abides by the Spirit He has given. Wesley: that thus believes and loves. The Spirit witnesses with our spirits that we are children, and brings forth peace, love, holiness. Transition to treating of the Holy Spirit.\n\nArminian Spirit: the given Spirit is how we know abiding. Witness and fruit together. Keeping is believing-and-loving, not a third ladder.",
+      "reformedNotes": "Calvin: union with God is evident when we entertain mutual love—not that union begins thereby, but it cannot be fruitless. God does not abide except His Spirit dwells; wherever the Spirit is, He manifests power. Whatever good works proceed from the grace of the Spirit, and the Spirit is not obtained by our righteousness but freely given. John regards the effects the Spirit produces while dwelling in us.\n\nReformed Spirit: we are God’s children when His Spirit rules our life. Shared: we know by the Spirit given."
+    }
+  ]
+}

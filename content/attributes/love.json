@@ -1,0 +1,153 @@
+{
+  "kind": "attribute",
+  "slug": "love",
+  "title": "Love",
+  "summary": "God is love, and he has loved in the sending of the Son—both camps refuse a loveless God; they part over whether that love, in the design of salvation, is for every person or particularly for the elect.",
+  "context": "Love is not a soft extra in God. Jesus names the Father’s love for the world, for the disciples, and for those who will believe through their word. The two great commandments hang all the Law and the Prophets. Paul blesses the God who chose us in love and kneels to pray that believers may know love that surpasses knowledge. The shared confession: God loves. The live fork is the scope of saving love—world as all persons, or world as the elect in the world—and whether love can be refused.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the love of God—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "How freely does God love the world! While we were yet sinners, “Christ died for the ungodly.” … The grace or love of God, whence cometh our salvation, is FREE IN ALL, and FREE FOR ALL.",
+        "cite": "John Wesley",
+        "source": "Sermon 128, “Free Grace” (1739)"
+      },
+      {
+        "quote": "I ascribe to grace the commencement, the continuance and the consummation of all good… The controversy… relates solely to the mode of operation, whether it be irresistible or not… I believe, according to the scriptures, that many persons resist the Holy Spirit and reject the grace that is offered.",
+        "cite": "Jacobus Arminius",
+        "source": "Declaration of Sentiments (1608)"
+      },
+      {
+        "quote": "God so loved the world—That is, all men under heaven; even those that despise his love, and will for that cause finally perish. Otherwise not to believe would be no sin to them. For what should they believe? Ought they to believe that Christ was given for them? Then he was given for them. He gave his only Son—Truly and seriously.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 3:16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Christ opens up the first cause, and, as it were, the source of our salvation… And he has employed the universal term whosoever, both to invite all indiscriminately to partake of life, and to cut off every excuse from unbelievers. Such is also the import of the term World… he shows himself to be reconciled to the whole world, when he invites all men without exception to the faith of Christ, which is nothing else than an entrance into life.",
+        "cite": "John Calvin",
+        "source": "Commentary on John 3:16"
+      },
+      {
+        "quote": "But in this the love of God was manifested, that he sent his only begotten Son into the world, that whosoever believeth on him should not perish, but have everlasting life. 1 John 4:9; John 3:16.",
+        "cite": "Canons of Dort",
+        "source": "First Head, Article 2"
+      },
+      {
+        "quote": "Incomprehensible and immutable is the love of God. For it was not after we were reconciled to him by the blood of his Son that he began to love us, but he loved us before the foundation of the world, that with his only begotten Son we too might be sons of God before we were any thing at all.",
+        "cite": "Augustine, quoted by John Calvin",
+        "source": "Institutes of the Christian Religion 2.16.4 (citing Augustine, Tractate on John 110)"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley will not let “world” shrink to the elect. The love from which salvation comes is free in all and free for all. Arminius locates the controversy in the mode of grace, not in whether God is gracious: many resist the Spirit and reject what is offered. Love that cannot be refused, they argue, is not the love the New Testament holds out to hearers.\n\nJohn 3, John 15’s “abide in my love,” and the command to love enemies are of a piece: the Father’s love is the pattern and the power. Election “in love” (Ephesians 1) is heard as the affectionate choosing of those in Christ, not as a decision to pass over the rest without genuine desire for their life.\n\nPastoral Arminian notes refuse both a sentimental God who never judges and a decree that makes gospel invitations insincere. The fork is whether God’s love, in the design of the cross and the call, terminates on every person.",
+  "reformedNotes": "Calvin’s comment on John 3:16 is more invitational than some expect: “whosoever,” “all indiscriminately,” “all men without exception.” Reformed catholicity includes a free offer. Dort begins its election head by quoting the same love—God sent the Son that whoever believes should not perish.\n\nThe further Reformed claim is that this love has a particular, effectual depth in election and atonement. “In love he predestined us” is not a mood; it is the eternal goodwill that actually brings a people home. Distinctions among love of benevolence, the gospel offer, and electing love are how many Reformed writers keep John 3 and John 17 in one Bible.\n\nPastoral Reformed notes insist that particular love is not cold. It is the love that will not let the sheep perish. The fork is whether “world” and “all” name every individual as the intended objects of saving love, or a larger set of distinctions that still underwrite a real invitation.",
+  "keyContrast": "Arminians typically read God’s saving love as sincere toward every person and resistible in its grace; the Reformed typically confess a real invitation to all and a particular, effectual love that actually saves the elect—without meaning that God is unloving toward the world he has made.",
+  "scripture": [
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 21,
+      "title": "John 3:1–21",
+      "href": "/bible/john/3/1-21.html",
+      "why": "God so loved the world that he gave his Son."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 15,
+      "verseStart": 1,
+      "verseEnd": 17,
+      "title": "John 15:1–17",
+      "href": "/bible/john/15/1-17.html",
+      "why": "Abide in my love; love one another as I have loved you."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 17,
+      "verseStart": 20,
+      "verseEnd": 26,
+      "title": "John 17:20–26",
+      "href": "/bible/john/17/20-26.html",
+      "why": "That the love with which you have loved me may be in them."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 5,
+      "verseStart": 43,
+      "verseEnd": 48,
+      "title": "Matthew 5:43–48",
+      "href": "/bible/matthew/5/43-48.html",
+      "why": "Love your enemies—your Father makes sun rise on evil and good."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 1,
+      "verseStart": 3,
+      "verseEnd": 6,
+      "title": "Ephesians 1:3–6",
+      "href": "/bible/ephesians/1/3-6.html",
+      "why": "In love he predestined us for adoption."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 22,
+      "verseStart": 34,
+      "verseEnd": 40,
+      "title": "Matthew 22:34–40",
+      "href": "/bible/matthew/22/34-40.html",
+      "why": "The great commandment: love God and neighbor."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 3,
+      "verseStart": 14,
+      "verseEnd": 21,
+      "title": "Ephesians 3:14–21",
+      "href": "/bible/ephesians/3/14-21.html",
+      "why": "To know the love of Christ that surpasses knowledge."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 4,
+      "verseStart": 7,
+      "verseEnd": 21,
+      "title": "1 John 4:7–21",
+      "href": "/bible/1-john/4/7-21.html",
+      "why": "God is love: he sent his Son as propitiation; we love because he first loved us."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 3,
+      "verseStart": 11,
+      "verseEnd": 24,
+      "title": "1 John 3:11–24",
+      "href": "/bible/1-john/3/11-24.html",
+      "why": "The message from the beginning: love one another."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 8,
+      "verseStart": 31,
+      "verseEnd": 39,
+      "title": "Romans 8:31–39",
+      "href": "/bible/romans/8/31-39.html",
+      "why": "The love of God in Christ Jesus our Lord—who shall separate us?"
+    }
+  ]
+}

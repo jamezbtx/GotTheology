@@ -1,0 +1,123 @@
+{
+  "kind": "attribute",
+  "slug": "holiness",
+  "title": "Holiness",
+  "summary": "God is the Holy One—utterly pure, set apart, and worthy of fear and love—and both camps call his people to be holy as he is holy.",
+  "context": "Holiness names God’s moral purity and his being set apart. Seraphim cry “holy” ; the Father is perfect; the man of God is told to pursue righteousness and to keep the commandment unstained. Arminian and Reformed teachers do not disagree that God is holy. They disagree about how that holiness meets a sinful world: whether holy love makes a provision for all, and whether holy justice requires a particular satisfaction for a chosen people. The verses still come first.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Holy One—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Therefore ye shall be perfect; as your Father who is in heaven is perfect—So the original runs, referring to all that holiness which is described in the foregoing verses, which our Lord in the beginning of the chapter recommends as happiness, and in the close of it as perfection. And how wise and gracious is this, to sum up, and, as it were, seal all his commandments with a promise!",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 5:48)"
+      },
+      {
+        "quote": "Christian perfection… is the loving God with all our heart, mind, soul, and strength. This implies that no wrong temper, none contrary to love, remains in the soul; and that all the thoughts, words, and actions are governed by pure love.",
+        "cite": "John Wesley",
+        "source": "Sermon 40, “Christian Perfection”"
+      },
+      {
+        "quote": "By perfection I mean the humble, gentle, patient love of God, and our neighbour, ruling our tempers, words, and actions.",
+        "cite": "John Wesley",
+        "source": "A Plain Account of Christian Perfection"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Holiness, on the one hand, implies entire freedom from moral evil; and, upon the other, absolute moral perfection. Freedom from impurity is the primary idea of the word. To sanctify is to cleanse; to be holy, is to be clean. Infinite purity, even more than infinite knowledge or infinite power, is the object of reverence.",
+        "cite": "Charles Hodge",
+        "source": "Systematic Theology, vol. 1"
+      },
+      {
+        "quote": "Man is never sufficiently touched and affected by the awareness of his lowly state until he has compared himself with God’s majesty.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 1.1.3"
+      },
+      {
+        "quote": "God is a Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness, and truth.",
+        "cite": "Westminster Shorter Catechism",
+        "source": "Question 4"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley heard God’s holiness not as cold distance but as perfect love. “Be perfect as your Father” is a call to love enemies as the Father sends rain on just and unjust. The Holy One is kind to the unthankful. Holiness in the creature is love ruling the temper—not a ladder of merit, and not indifference to sin.\n\nBecause God is holy, sin is deadly; because he is holy love, the gospel is for the world. Arminian preaching refuses to let holiness mean that God cannot sincerely seek the lost who will not, in the event, believe. The Father’s purity does not shrink the invitation.\n\nJohn 17’s “sanctify them in the truth” is Jesus praying that given people share the Father’s set-apart life. 1 Timothy’s “blessed and only Sovereign” and “unapproachable light” keep the awe. The Arminian pastoral note is worship plus imitation: holy as he is holy, by grace that can be received.",
+  "reformedNotes": "Hodge’s definition is moral and doxological: freedom from evil, absolute perfection, the object of reverence. Calvin begins the Institutes with the shock of comparison—we do not know ourselves until we know God’s majesty. The Shorter Catechism lists holiness among the perfections of the one God, not as a mood but as who he is.\n\nHoly justice, on this reading, is why atonement is more than example and why election is not a whim. God is “of purer eyes than to behold evil.” The consuming fire and the gospel are not rivals. Particular redemption is often defended as the holy way God remains just and the justifier of the ungodly.\n\nReformed holiness in the creature is sanctification that follows justification: set apart because we have been bought, not in order to be bought. Pastoral Reformed notes press both fear of the Lord and comfort—the Holy One has made a way. The fork with Arminians is not whether God is holy, but how that holiness orders the design of salvation.",
+  "keyContrast": "Both confess the Holy One and the call to be holy. Arminians typically unfold holiness as perfect love that sincerely seeks all; the Reformed typically unfold holiness as infinite purity that includes a justice satisfied in a particular, effectual redemption—without denying the call to holiness of life.",
+  "scripture": [
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 17,
+      "verseStart": 6,
+      "verseEnd": 19,
+      "title": "John 17:6–19",
+      "href": "/bible/john/17/6-19.html",
+      "why": "Sanctify them in the truth; I sanctify myself for their sake."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 5,
+      "verseStart": 43,
+      "verseEnd": 48,
+      "title": "Matthew 5:43–48",
+      "href": "/bible/matthew/5/43-48.html",
+      "why": "Be perfect, as your heavenly Father is perfect—love of enemies."
+    },
+    {
+      "book": "1 Timothy",
+      "bookSlug": "1-timothy",
+      "chapter": 6,
+      "verseStart": 11,
+      "verseEnd": 16,
+      "title": "1 Timothy 6:11–16",
+      "href": "/bible/1-timothy/6/11-16.html",
+      "why": "The blessed and only Sovereign, who dwells in unapproachable light."
+    },
+    {
+      "book": "1 Timothy",
+      "bookSlug": "1-timothy",
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 17,
+      "title": "1 Timothy 1:12–17",
+      "href": "/bible/1-timothy/1/12-17.html",
+      "why": "To the King of the ages, immortal, invisible, the only God, be honor and glory."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 1,
+      "verseStart": 24,
+      "verseEnd": 31,
+      "title": "Genesis 1:24–31",
+      "href": "/bible/genesis/1/24-31.html",
+      "why": "God saw everything that he had made, and behold, it was very good—the Holy One’s good world."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 10,
+      "title": "1 John 1:5–10",
+      "href": "/bible/1-john/1/5-10.html",
+      "why": "God is light, and in him is no darkness at all."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 12,
+      "verseStart": 1,
+      "verseEnd": 8,
+      "title": "Romans 12:1–8",
+      "href": "/bible/romans/12/1-8.html",
+      "why": "Present your bodies as a living sacrifice, holy and acceptable to God."
+    }
+  ]
+}

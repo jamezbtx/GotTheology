@@ -1,0 +1,94 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 2,
+  "verseStart": 18,
+  "verseEnd": 27,
+  "translation": "ESV",
+  "title": "1 John 2:18–27",
+  "context": "It is the last hour: antichrist was heard of, and many antichrists have come. They went out from us but were not of us; had they been, they would have continued. The anointing from the Holy One teaches. The liar denies that Jesus is the Christ, denying Father and Son. What was heard from the beginning must abide—and with it, the promise of eternal life. Abide in Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the last hour, those who went out, and an anointing that teaches the truth about the Son—so each camp speaks in its own voice beside 1 John 2:18–27.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is the last time—the last dispensation of grace, that which is to continue to the end of time, is begun. They were not of us—when they went; their hearts were before departed from God, otherwise they would have continued with us. Ye have an anointing—an inward teaching from the Holy Ghost, whereby ye know all things necessary for your preservation from these seducers. Who is that liar but he who denies that Jesus is the Christ? If that truth concerning the Father and the Son which ye have heard from the beginning abide fixed and rooted in you, ye also shall abide in that happy communion.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 John 2:18–24)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us. He plainly declares that those who fell away had never been members of the Church. The seal of God, under which he keeps his own, remains sure. There are three sorts who profess the Gospel: those who feign piety, those whose hypocrisy dazzles even themselves, and those who have the living root of faith. The two first have no stability; of the last John speaks, when he says that it is impossible that they should be separated from the Church, for the seal which God’s Spirit engraves on their hearts cannot be obliterated. He does not speak of the constancy of men, but of God, whose election must be ratified.",
+        "cite": "John Calvin",
+        "source": "Commentary on 1 John (on 1 John 2:19)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "Children, it is the last hour, and as you have heard that antichrist is coming, so now many antichrists have come. Therefore we know that it is the last hour.",
+      "arminianNotes": "Children, it is the last hour; antichrist was heard of, and many antichrists have come. Wesley: the last dispensation of grace, to continue to the end of time. Under antichrist he includes all false teachers and enemies to the truth, whatever doctrines or men are contrary to Christ. Antichristianism has been spreading from his time.\n\nArminian last hour: the age of the gospel is already the last; vigilance is the mood, not date-setting. Many antichrists already: the danger is present teachers, not only a future figure.",
+      "reformedNotes": "Calvin: many sects had risen. He fortifies the faithful and turns the offense to a contrary purpose: the last time has come, therefore greater vigilance. Antichrist was a thing well known; they had been warned from the beginning. There were already many antichrists as forerunners; properly Antichrist was not yet, but the mystery of iniquity was working.\n\nReformed last hour: so many ages since John do not prove the prophecy false; nothing more remained but that Christ should appear. No time is fixed. Watch, because the signs are already in the churches."
+    },
+    {
+      "number": 19,
+      "text": "They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us.",
+      "arminianNotes": "They went out from us, but they were not of us; if they had been, they would have continued. Wesley: when they went, their hearts were before departed from God; otherwise they would have continued. They went out that this might be made manifest.\n\nArminian reading: departure reveals a heart already gone. Continuance is the mark of belonging. The verse is a real fork on whether that belonging can be lost: Wesley still treats going out as proof they were not of us when they went—hearts already departed—without turning the rest of the letter’s warnings into theater.",
+      "reformedNotes": "Calvin: they had occupied a place in the Church and were counted among the godly, yet were never of them—as chaff mixed with wheat is not wheat. Those who fell away had never been members. Three sorts profess: feigned piety, self-dazzled hypocrisy, and those with the living root of faith. The last cannot be separated; the Spirit’s seal cannot be obliterated. He speaks of God’s election, not man’s constancy.\n\nReformed reading: going out manifests they were not all of us. Perseverance is certain where calling is effectual. They who fall away had only a light, transient taste of Christ.",
+      "keyContrast": "A real fork on perseverance. Arminian readers can take “not of us” as hearts already departed, while still treating apostasy as a live danger the letter warns against. Reformed readers take it as proof they were never of the elect: the seal cannot be lost; falling away shows there was never the living root."
+    },
+    {
+      "number": 20,
+      "text": "But you have been anointed by the Holy One, and you all have knowledge.",
+      "arminianNotes": "You have been anointed by the Holy One, and you all have knowledge. Wesley: a chrism, perhaps against the name antichrist; inward teaching from the Holy Ghost, knowing all things necessary for preservation from seducers and for eternal salvation.\n\nArminian anointing: the Spirit’s teaching is real in ordinary believers, not only in a few. Knowledge here is saving enough to refuse the lie, not omniscience.",
+      "reformedNotes": "Calvin: modestly he excuses the warning, lest they think themselves treated as rude. Unction from the Holy One alludes to priestly oil from the sanctuary. Men are not made wise by their own acumen but by the Spirit’s illumination, and not otherwise than through Christ.\n\nReformed anointing: you know all things is confined to this subject. The Spirit as guide; Christ the true sanctuary and only high priest."
+    },
+    {
+      "number": 21,
+      "text": "I write to you, not because you do not know the truth, but because you know it, and because no lie is of the truth.",
+      "arminianNotes": "I write not because you do not know the truth, but because you know it, and no lie is of the truth. Wesley: to confirm you in the knowledge you have already; all the doctrines of these antichrists are irreconcilable to it.\n\nArminian writing: reminder, not first lesson. Known truth still needs confirming. Lies are not “of” the truth—they cannot be baptized into it.",
+      "reformedNotes": "Calvin: he concedes a judgment by which they could distinguish truth from falsehood. Not a school proposition, but practical: they were fortified against impostures. Whatever deception Satan might contrive, they could distinguish light and darkness, having the Spirit as guide.\n\nReformed writing: known truth is still written. The Spirit’s discernment is the church’s shield, not a reason to dismiss teaching."
+    },
+    {
+      "number": 22,
+      "text": "Who is the liar but he who denies that Jesus is the Christ? This is the antichrist, he who denies the Father and the Son.",
+      "arminianNotes": "The liar denies that Jesus is the Christ; this is the antichrist, denying Father and Son. Wesley: that He is the Son of God, that He came in the flesh, is one undivided truth; deny any part and you deny the whole. He who denies the Son denies the Father also.\n\nArminian Christology: the lie is about Jesus, not a side issue. Antichrist is anyone whose denial of the Son is a denial of the Father. Shared with Calvin against a reduced Christ.",
+      "reformedNotes": "Calvin: not that they alone were liars who denied the appearing in flesh, but they surpassed all others. Denial extends wider: it is not enough to confess Jesus is the Christ except He is acknowledged as the Father offers Him in the gospel. Arius, Marcion, Sabellius, Pelagius, and later the Papists, in different ways, denied the Son.\n\nReformed Christology: Christ is denied whenever what peculiarly belongs to Him is taken away. The chief impostors fight against Christ, in whom the full truth is exhibited."
+    },
+    {
+      "number": 23,
+      "text": "No one who denies the Son has the Father. Whoever confesses the Son has the Father also.",
+      "arminianNotes": "No one who denies the Son has the Father; whoever confesses the Son has the Father also. Wesley: whosoever denies the eternal Son has not communion with the Father; he that truly and believingly acknowledges the Son has communion with the Father also.\n\nArminian communion: the Father is not available around the Son. Confessing is believing, not a formula only.",
+      "reformedNotes": "Calvin: a remarkable sentence, among the first axioms of religion. After confessing one true God, this second article: He is no other but He who is made known in Christ. The Father, who is invisible, has revealed Himself only in His Son. Turks, Jews, and such as are like them have a mere idol and not the true God.\n\nReformed communion: no right confession of God except the Father be acknowledged in the Son. Shared axiom with Wesley: deny the Son, lose the Father."
+    },
+    {
+      "number": 24,
+      "text": "Let what you heard from the beginning abide in you. If what you heard from the beginning abides in you, then you too will abide in the Son and in the Father.",
+      "arminianNotes": "Let what you heard from the beginning abide; if it abides, you abide in the Son and in the Father. Wesley: if that truth concerning Father and Son, heard from the beginning, abide fixed and rooted, you shall abide in that happy communion.\n\nArminian abide: remaining is commanded because remaining can fail. The beginning-gospel is the thing to keep, not a later improvement on Christ.",
+      "reformedNotes": "Calvin: perseverance in the faith, retaining what they had learnt. From the beginning does not mean antiquity alone proves a doctrine; they had been rightly instructed in the pure gospel. Discrimination first, then inflexible perseverance. If that remains, they remain in God.\n\nReformed abide: the highest commendation of sound doctrine is that it unites us to God. He who has not the Father through the Son is empty, whatever knowledge he possesses."
+    },
+    {
+      "number": 25,
+      "text": "And this is the promise that he made to us—eternal life.",
+      "arminianNotes": "This is the promise He made to us—eternal life. Wesley: He—the Son—hath promised us, if we abide in Him.\n\nArminian promise: eternal life is attached to abiding in the heard gospel. The promise is Christ’s, not the church’s invention.",
+      "reformedNotes": "Calvin: real happiness when God dwells in us. The sum: we cannot live otherwise than by nourishing to the end the seed of life sown in our hearts. Not only the beginning of a blessed life is in the knowledge of Christ, but also its perfection.\n\nReformed promise: stay with Christ; wandering beyond the simple doctrine of the gospel has been the ruin of men."
+    },
+    {
+      "number": 26,
+      "text": "I write these things to you about those who are trying to deceive you.",
+      "arminianNotes": "I write these things about those who are trying to deceive you. Wesley: from v. 21; according to his custom he begins and ends with the same form.\n\nArminian occasion: the letter is not abstract. Seducers are why the anointing and the old commandment are pressed. Deceit is a live ministry problem.",
+      "reformedNotes": "Calvin: he wrote concerning seducers. It is the duty of a good pastor not only to gather a flock but to drive away wolves. No one can faithfully teach except he is diligent in banishing errors.\n\nReformed occasion: proclaiming the pure gospel includes refusing impostures. The unction received is from Christ."
+    },
+    {
+      "number": 27,
+      "text": "But the anointing that you received from him abides in you, and you have no need that anyone should teach you. But as his anointing teaches you about everything, and is true, and is no lie—just as it has taught you, abide in him.",
+      "arminianNotes": "The anointing abides; you have no need that anyone should teach you; as it taught you, abide in Him. Wesley: you need not that any should teach you, save as that anointing teacheth—always the same, always consistent. This does not exclude our need of being taught by those who partake of the same anointing. Of all things necessary to know. Ye shall abide in Him—comfort and exhortation.\n\nArminian teaching: the Spirit’s anointing is sufficient against the lie, and still uses teachers who share it. Abide is both gift-language and command.",
+      "reformedNotes": "Calvin: he did not intend to represent teaching as useless. Fanatics absurdly exclude the outward ministry. The faithful, taught by the Spirit, already understood what he delivered; still no one knew so much that there was no room for progress. The Spirit is a seal; He endues with judgment lest we be deceived. Abide in Christ, as the Spirit has taught you.\n\nReformed teaching: children of God are illuminated for this end—that they may know Christ. Turn not aside from Him. The fruit of perseverance is confidence at His appearing."
+    }
+  ]
+}
