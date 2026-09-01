@@ -1,0 +1,123 @@
+{
+  "kind": "attribute",
+  "slug": "justice",
+  "title": "Justice",
+  "summary": "God is righteous—wrath against sin is real, and he will by no means clear the guilty—and both camps confess it; they part over how that justice orders mercy, not over whether judgment is a mood.",
+  "context": "Justice is God’s rectitude. Wrath is revealed from heaven against ungodliness; God shows no partiality; he is just and the justifier of the one who has faith in Jesus; Abraham asks whether the Judge of all the earth will do what is right; Belshazzar is weighed and found wanting; the Son of Man separates sheep and goats. This hub is not the atonement hub, though it may point there. Arminian and Reformed teachers both refuse a soft God who never judges. The live fork is how justice and mercy meet—terms fixed for all who believe, or a particular satisfaction for a chosen people. The verses still come first.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the righteousness of God—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Is there injustice with God—Is it unjust in God to give Jacob the blessing rather than Esau? or to accept believers, and them only. God forbid—In no wise. This is well consistent with justice; for he has a right to fix the terms on which he will show mercy… I will have mercy on whom I will have mercy—According to the terms I myself have fixed.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 9:14–15)"
+      },
+      {
+        "quote": "Righteousness or Justice in God, is an eternal and constant will to render to every one his own: To God himself that which is his, and to the creature what belongs to it. We consider this righteousness in its Words and in its Acts. In all its Words are found veracity and constancy… With regard to its Acts, it is two-fold, Disposing and Remunerative.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§LXXV)"
+      },
+      {
+        "quote": "He will finally reward every man according to his works: He that believeth shall be saved, and he that believeth not shall be damned. Therefore, though He hath mercy on whom he willeth, and whom he willeth he hardeneth… yet his is not the will of an arbitrary, capricious, or tyrannical being. He wills nothing but what is infinitely wise and good.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 9:21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As all men have sinned in Adam, lie under the curse, and are deserving of eternal death, God would have done no injustice by leaving them all to perish and delivering them over to condemnation on account of sin.",
+        "cite": "Canons of Dort",
+        "source": "First Head, Article 1"
+      },
+      {
+        "quote": "There is but one only, living, and true God… most just, and terrible in his judgments, hating all sin, and who will by no means clear the guilty.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 2.1"
+      },
+      {
+        "quote": "By this oracle the Lord declared that he is a debtor to none of mankind, and that whatever he gives is a gratuitous benefit… no cause higher than his own will can be thought of, why he does good and shows favor to some men but not to all.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Rom 9:15)"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley will not call God unjust for accepting believers and them only. Justice, on this reading, includes the right to fix the terms of mercy—and those terms have been published: believe. Arminius’s definition is older still: an eternal will to render to each his own. Remunerative justice is not a whim. Romans 2’s “no partiality” and “according to his works” are the moral governor’s public rule.\n\nWrath in Romans 1 is real. It is not a metaphor for human disappointment. Genesis 18’s Abraham is allowed to press the Judge of all the earth, which is not unbelief but faith that justice and mercy are not enemies in God. Matthew 25’s separation is not canceled by the gospel; it is what the gospel saves from. This page does not settle how the cross satisfies justice—that is the atonement hub—but it will not let wrath evaporate on the way there.\n\nPastoral Arminian notes refuse both a sentimental God and a tyrant. Hardening is leaving the obstinate to their hardness, not creating their sin in order to damn them. The fork is whether holy justice requires a particular redemption, or whether the same justice is honored when God justifies every sinner who meets the terms he himself has set.",
+  "reformedNotes": "Dort begins where justice begins: all have sinned; God would have done no injustice if he had left the whole race under the curse. Mercy, when it comes, is not owed. Westminster will not let “just” be a soft word: terrible in his judgments, hating all sin, by no means clearing the guilty. Calvin’s Romans 9 presses the same nerve: God is debtor to none.\n\nOn this reading, Romans 3’s “just and the justifier” is the hinge toward atonement without collapsing this hub into that one. Justice is why the cross is more than example. Particular redemption is often defended as the holy way God remains just and the justifier of the ungodly. Daniel 5 and Matthew 25 are not pretexts; they are the Judge at work in history and at the end.\n\nPastoral Reformed notes use justice for both fear and gospel. If God were unjust, the promises would be no comfort. If he never judged, the cross would be theater. The fork with Arminians is not whether wrath is real. It is whether justice, in the design of salvation, is satisfied for all who hear, or particularly for those the Father has given the Son.",
+  "keyContrast": "Both confess that God is righteous and that wrath against sin is real. Arminians typically unfold justice as the published terms of mercy to all who believe; the Reformed typically unfold justice as a rectitude God would owe to none, often satisfied in a particular redemption—without either camp denying the coming judgment.",
+  "scripture": [
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 1,
+      "verseStart": 18,
+      "verseEnd": 32,
+      "title": "Romans 1:18–32",
+      "href": "/bible/romans/1/18-32.html",
+      "why": "The wrath of God is revealed from heaven against all ungodliness."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 11,
+      "title": "Romans 2:1–11",
+      "href": "/bible/romans/2/1-11.html",
+      "why": "He will render to each according to his works; God shows no partiality."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 3,
+      "verseStart": 21,
+      "verseEnd": 31,
+      "title": "Romans 3:21–31",
+      "href": "/bible/romans/3/21-31.html",
+      "why": "So that he might be just and the justifier of the one who has faith in Jesus."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 9,
+      "verseStart": 14,
+      "verseEnd": 29,
+      "title": "Romans 9:14–29",
+      "href": "/bible/romans/9/14-29.html",
+      "why": "Is there injustice on God’s part? He has mercy on whom he wills."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 18,
+      "verseStart": 16,
+      "verseEnd": 33,
+      "title": "Genesis 18:16–33",
+      "href": "/bible/genesis/18/16-33.html",
+      "why": "Shall not the Judge of all the earth do what is just?"
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 5,
+      "verseStart": 24,
+      "verseEnd": 31,
+      "title": "Daniel 5:24–31",
+      "href": "/bible/daniel/5/24-31.html",
+      "why": "You have been weighed in the balances and found wanting."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 25,
+      "verseStart": 31,
+      "verseEnd": 46,
+      "title": "Matthew 25:31–46",
+      "href": "/bible/matthew/25/31-46.html",
+      "why": "The Son of Man on his throne: eternal punishment and eternal life."
+    }
+  ]
+}

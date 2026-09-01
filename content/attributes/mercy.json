@@ -1,0 +1,123 @@
+{
+  "kind": "attribute",
+  "slug": "mercy",
+  "title": "Mercy",
+  "summary": "Mercy is God’s pity toward the miserable—not a second name for the love hub—and both camps confess it; they part over Romans 9’s “I will have mercy,” whether it names whom he wills or a sincere general mercy with particular application.",
+  "context": "Mercy is pity toward the miserable. Paul says God is rich in mercy; he saved us according to his mercy; Christ Jesus came into the world to save sinners, and Paul obtained mercy; Daniel pleads, we do not present our pleas because of our righteousness but because of your great mercy. The Beatitudes open with the merciful. This page is not the love hub. Love is God’s affection and self-giving; mercy is that love meeting misery and guilt. Both camps refuse a God without pity. Romans 9 is the real fork: mercy on whom he wills, or mercy offered on published terms to all who will receive it. The verses still come first.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the mercy of God—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Mercy removes misery: love confers salvation.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Eph 2:4)"
+      },
+      {
+        "quote": "I will have mercy on whom I will have mercy—According to the terms I myself have fixed. And I will have compassion on whom I will have compassion—Namely, on those only who submit to my terms, who accept of it in the way that I have appointed.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 9:15)"
+      },
+      {
+        "quote": "The Third advance is towards a creature that has sinned, and that has by such transgression rendered itself liable to misery. This advance is called Mercy, that is, an affection for affording succour to a person in misery, sin itself presenting no obstacle to its exercise.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§LXVIII)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By this oracle the Lord declared that he is a debtor to none of mankind, and that whatever he gives is a gratuitous benefit, and then that his kindness is free, so that he can confer it on whom he pleases… The relative pronoun also expressly intimates, that mercy is not to all indiscriminately.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Rom 9:15)"
+      },
+      {
+        "quote": "There is but one only, living, and true God… most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 2.1"
+      },
+      {
+        "quote": "But in this the love of God was manifested, that he sent his only begotten Son into the world, that whosoever believeth on him should not perish, but have everlasting life.",
+        "cite": "Canons of Dort",
+        "source": "First Head, Article 2"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley’s six words keep this hub from swallowing the love hub: mercy removes misery; love confers salvation. Arminius’s definition is the same shape—succour to a person in misery, sin itself presenting no obstacle. Titus 3 and Ephesians 2 are not competing gospels. We were foolish, disobedient, dead; he saved us according to his mercy. The Beatitudes call the creature to the same pity.\n\nRomans 9 is the honest fork. Wesley will not pretend the text is easy, and he will not let it become an arbitrary list. God has a right to fix the terms; the terms he has fixed are faith. “I will have mercy” is heard as mercy on those who accept it in the way appointed—not as a secret shortlist that makes the invitation insincere. Romans 11 then shows mercy wide enough to graft Gentiles and, in the end, to show mercy to Israel again.\n\nPastoral Arminian notes refuse both cheap pity that never names sin and a mercy so particular that the miserable hearer cannot be sure it is for him. Daniel 9’s prayer is the right posture: not because of our righteousness, but because of your great mercy. The fork is whom mercy, in the design of salvation, is for—every miserable sinner who will receive it, or those God has already determined to pity effectually.",
+  "reformedNotes": "Calvin’s Romans 9 is the Reformed nerve: God is debtor to none; mercy is not to all indiscriminately. That is not cruelty. It is the confession that pity, if it is pity, is free. Westminster still lists God as merciful and forgiving before it lists him as just. Dort’s second article on the election head is the sending of the Son that whoever believes should not perish—Reformed catholicity includes a real gospel.\n\nOn this reading, “I will have mercy on whom I have mercy” is not a slogan against evangelism. It is why evangelism is not God paying a debt. Ephesians 2’s “rich in mercy” and Titus 3’s “according to his mercy” are particular in application: he made us alive. Romans 11’s hardening and mercy are one wise plan, not two gods. The miserable are many; effectual pity is God’s to give.\n\nPastoral Reformed notes use mercy for astonishment, not for despair of the lost as if we knew the list. Pray Daniel 9’s prayer. Preach Titus 3. The fork with Arminians is not whether God pities. It is whether Romans 9 names an unconditional choice of persons, or published terms that leave the outcome in a grace-enabled will.",
+  "keyContrast": "Both confess mercy as pity toward the miserable, distinct from the love hub. Arminians typically read Romans 9 as God’s right to fix terms of mercy for all who believe; the Reformed typically read it as free pity that is not given to all indiscriminately, while still sending the Son that whoever believes should not perish.",
+  "scripture": [
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 9,
+      "verseStart": 14,
+      "verseEnd": 29,
+      "title": "Romans 9:14–29",
+      "href": "/bible/romans/9/14-29.html",
+      "why": "I will have mercy on whom I have mercy—the live fork of this hub."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 11,
+      "verseStart": 25,
+      "verseEnd": 36,
+      "title": "Romans 11:25–36",
+      "href": "/bible/romans/11/25-36.html",
+      "why": "God has consigned all to disobedience, that he may have mercy on all."
+    },
+    {
+      "book": "Titus",
+      "bookSlug": "titus",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8,
+      "title": "Titus 3:1–8",
+      "href": "/bible/titus/3/1-8.html",
+      "why": "He saved us, not because of works, but according to his own mercy."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 10,
+      "title": "Ephesians 2:1–10",
+      "href": "/bible/ephesians/2/1-10.html",
+      "why": "God, being rich in mercy, made us alive together with Christ."
+    },
+    {
+      "book": "1 Timothy",
+      "bookSlug": "1-timothy",
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 17,
+      "title": "1 Timothy 1:12–17",
+      "href": "/bible/1-timothy/1/12-17.html",
+      "why": "I received mercy; Christ Jesus came into the world to save sinners."
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 19,
+      "title": "Daniel 9:1–19",
+      "href": "/bible/daniel/9/1-19.html",
+      "why": "We do not present our pleas because of our righteousness, but because of your great mercy."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 12,
+      "title": "Matthew 5:1–12",
+      "href": "/bible/matthew/5/1-12.html",
+      "why": "Blessed are the merciful, for they shall receive mercy."
+    }
+  ]
+}

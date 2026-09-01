@@ -1,0 +1,123 @@
+{
+  "kind": "attribute",
+  "slug": "omnipotence",
+  "title": "Omnipotence",
+  "summary": "God can do all that is consistent with his nature—both camps confess the Almighty, and neither treats power as a magic that lies, un-Gods himself, or authors sin.",
+  "context": "Omnipotence is not a blank check. Scripture’s first word is that God created; the Lord asks Abraham whether anything is too hard; Jesus says that with God all things are possible; Nebuchadnezzar learns that none can stay the Most High’s hand. Arminian and Reformed teachers both refuse a weak God and a magical God who can contradict himself. The live question is not whether God is able, but how that ability relates to creaturely will and the origin of sin. The verses still come first.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Almighty—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "With men this is impossible—It is observable, he does not retract what he had said: no, nor soften it in the least degree, but rather strengthens it, by representing the salvation of a rich man as the utmost effort of Omnipotence.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Matt 19:26)"
+      },
+      {
+        "quote": "God cannot make another God; is incapable of being changed; he cannot sin; cannot lie; cannot cause a thing at the same time to be and not to be. When we make such assertions as these, we do not inflict an injury on the power of God; but we must beware that things unworthy of Him be not attributed to his Essence, his Understanding, and his Will.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§LXXXII)"
+      },
+      {
+        "quote": "The Power of God is infinite; because it can do not only all things possible… but likewise because nothing can resist it. For all created things depend upon the Divine Power… whence Omnipotence is deservedly attributed to Him.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§LXXXIII)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "For he is accounted omnipotent, not because he is able to act, yet sits down in idleness, or continues by a general instinct the order of nature originally appointed by him; but because he governs heaven and earth by his providence, and regulates all things in such a manner that nothing happens but according to his counsel.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 1.16.3"
+      },
+      {
+        "quote": "There is but one only, living, and true God, who is infinite in being and perfection, a most pure spirit… immutable, immense, eternal, incomprehensible, almighty… working all things according to the counsel of his own immutable and most righteous will, for his own glory.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 2.1"
+      },
+      {
+        "quote": "We can do very little. God can do whatever He wills. We, beyond very narrow limits, must use means to accomplish our ends. With God means are unnecessary. He wills, and it is done.",
+        "cite": "Charles Hodge",
+        "source": "Systematic Theology, vol. 1"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley hears “with God all things are possible” as the gospel’s last word over human impossibility—not a theory that God can do the absurd. Arminius is just as careful: omnipotence is infinite, and nothing resists it; yet God cannot lie, sin, or un-God himself. Power is measured by the holy will, not by a schoolboy puzzle about rocks too heavy to lift.\n\nGenesis 1 and Genesis 18 are of a piece with Matthew 19: the God who speaks light and who gives Sarah a son is the God who can save. Daniel’s furnace and Nebuchadnezzar’s humbling are not rival attributes; they are the same hand. Arminians refuse to let that hand become the author of sin. God can rule a world in which preventing grace makes faith possible and refusal still blameworthy.\n\nPastoral Arminian notes keep two refusals: a God too small to create or convert, and a power so bare that it makes evangelistic pleas play-acting. The Almighty is not less almighty because he has chosen not to coerce every yes.",
+  "reformedNotes": "Calvin will not let omnipotence sit idle. God is called almighty because he actually governs, not because he could act and does not. Westminster places “almighty” among the perfections of the one God and ties it at once to wise, righteous counsel. Hodge’s sentence is almost childlike: he wills, and it is done.\n\nOn this reading, creating, raising the dead, and keeping the church are one power. Ephesians 1’s “immeasurable greatness of his power toward us who believe” is the same might that seated Christ above every name. Reformed writers typically refuse a gap between what God can do and what he has purposed to do in providence—while still saying, with Westminster, that God is not the author of sin.\n\nPastoral Reformed notes use omnipotence for sleep: the furnace, the grave, and the hard heart are not finally stronger than God. They also warn against curiosity that asks God to do what would un-God him. The fork with Arminians is not whether God is able, but whether that ability includes an effectual determination of who will believe.",
+  "keyContrast": "Both confess that God can do all that is consistent with his nature. Arminians typically refuse to let that power author sin or make saving grace irresistible; the Reformed typically unfold omnipotence as actual, particular government—including who is effectually drawn—without meaning that God does evil.",
+  "scripture": [
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 5,
+      "title": "Genesis 1:1–5",
+      "href": "/bible/genesis/1/1-5.html",
+      "why": "In the beginning, God created—the first display of almighty speech."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 18,
+      "verseStart": 1,
+      "verseEnd": 15,
+      "title": "Genesis 18:1–15",
+      "href": "/bible/genesis/18/1-15.html",
+      "why": "Is anything too hard for the Lord? Sarah will have a son."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 19,
+      "verseStart": 23,
+      "verseEnd": 30,
+      "title": "Matthew 19:23–30",
+      "href": "/bible/matthew/19/23-30.html",
+      "why": "With man this is impossible, but with God all things are possible."
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 3,
+      "verseStart": 24,
+      "verseEnd": 30,
+      "title": "Daniel 3:24–30",
+      "href": "/bible/daniel/3/24-30.html",
+      "why": "The Most High delivers from the furnace; no other god can save like this."
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 4,
+      "verseStart": 28,
+      "verseEnd": 37,
+      "title": "Daniel 4:28–37",
+      "href": "/bible/daniel/4/28-37.html",
+      "why": "He does according to his will among the host of heaven; none can stay his hand."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 1,
+      "verseStart": 15,
+      "verseEnd": 23,
+      "title": "Ephesians 1:15–23",
+      "href": "/bible/ephesians/1/15-23.html",
+      "why": "The immeasurable greatness of his power toward us who believe."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 25,
+      "title": "Romans 4:13–25",
+      "href": "/bible/romans/4/13-25.html",
+      "why": "Abraham believed God who gives life to the dead and calls into existence the things that do not exist."
+    }
+  ]
+}

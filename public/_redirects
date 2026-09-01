@@ -25,6 +25,8 @@
 /3-john/*          /bible/3-john/:splat      301
 /daniel            /bible/daniel/            301
 /daniel/*          /bible/daniel/:splat      301
+/isaiah            /bible/isaiah/            301
+/isaiah/*          /bible/isaiah/:splat      301
 
 # Doctrine / attribute aliases
 /doctrine           /doctrines/           301

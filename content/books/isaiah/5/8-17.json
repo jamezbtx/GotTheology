@@ -1,0 +1,94 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 5,
+  "verseStart": 8,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Isaiah 5:8–17",
+  "context": "After the vineyard’s wild grapes, woes fall on those who join house to house until they dwell alone, and on those who rise early for drink and feast without regarding the Lord’s work. Many houses will stand empty; ten acres yield a bath. Therefore the people go into exile for lack of knowledge; Sheol opens wide. Man is humbled; the Lord of hosts is exalted in justice. Then lambs graze, and nomads eat among the ruins of the rich.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on houses joined to houses, a feast that will not look, and exile for lack of knowledge—so each camp speaks in its own voice beside Isaiah 5:8–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Alone—that they alone may be the lords and owners, and all others only their tenants and servants. In mine ears—I heard God speak what I am about to utter. The harp—they give up themselves wholly to luxury. The work—what God hath lately done, and is yet doing, and about to do; his grievous judgments, which required another course of life. No knowledge—no serious consideration of God’s works, and of their own duty and danger. Honourable men—who thought themselves quite out of the reach of famine. Exalted—by the execution of this just judgment. Sanctified—shall appear to be an holy God, by his righteous judgments. The lambs—the poor and harmless people left in the land when the rich are carried into captivity. Strangers—the poor Israelites left to be vine-dressers, who were strangers to that land as not the proper owners of it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 5:8–17)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Woe to them that join house to house. He looks at the disposition of mind, which cannot be satisfied. It cannot be condemned as a thing in itself wrong if a man add field to field; but they wish to have everything possessed by themselves alone. Therefore my people are gone into captivity because they have no knowledge: they perished because they despised instruction. The source of all our calamities is that we do not allow ourselves to be taught by the word of God. Jehovah of hosts shall be exalted in judgment: so long as men go on in their sins, his justice is in some degree smothered; it shines when he punishes. The lambs shall feed: though it may seem as if God were about to destroy the whole nation, he will show himself a faithful shepherd to his lambs.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 5:8–17)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 8,
+      "text": "Woe to those who join house to house, who add field to field, until there is no more room, and you are made to dwell alone in the midst of the land.",
+      "arminianNotes": "Woe to those who join house to house, add field to field, until no more room, and you dwell alone in the midst of the land. Wesley: that they alone may be lords, and all others tenants and servants.\n\nArminian woe: historic Judah’s land-hunger, not a culture-war on real estate. Adding a field is not the sin; squeezing the neighbor until you sit alone is. The vineyard of 5:7 now eats the next plot.",
+      "reformedNotes": "Calvin: not wrong in itself to add field to field; he looks at the mind that never has enough. They would wish other men removed from the earth. A man left alone cannot plough. God linked men so they need one another.\n\nReformed woe: covetousness, not square footage. Shared: house to house, field to field, dwell alone."
+    },
+    {
+      "number": 9,
+      "text": "The Lord of hosts has sworn in my hearing: “Surely many houses shall be desolate, large and beautiful houses, without inhabitant.",
+      "arminianNotes": "The Lord of hosts has sworn in my hearing: many houses shall be desolate, large and beautiful, without inhabitant. Wesley: I heard God speak what I am about to utter.\n\nArminian sworn: a real oath over real palaces. The joined houses of v. 8 stand empty. Historic Judah, not a newspaper on housing.",
+      "reformedNotes": "Calvin: something must be supplied—the Lord sits as judge. Covetous men do not think He observes. If not: a form of oath. Just punishment: He chastises those who would not be content with a moderate portion. Palaces become receptacles of owls.\n\nReformed sworn: none of this escapes His ears. Shared: Lord of hosts, many houses, desolate, without inhabitant."
+    },
+    {
+      "number": 10,
+      "text": "For ten acres of vineyard shall yield but one bath, and a homer of seed shall yield but an ephah.”",
+      "arminianNotes": "Ten acres of vineyard shall yield but one bath, and a homer of seed but an ephah. Wesley: the bath about eight gallons—an acre not one gallon; an ephah the tenth of a homer; they lose nine parts of their seed.\n\nArminian yield: the fertile hill of 5:1 now starves. Historic measures, historic curse on the ground they grabbed.",
+      "reformedNotes": "Calvin: the same blight on fields as on houses. Ten acres, one bath—soil so barren it yields scarcely a tenth. Men blame the niggardliness of the soil; the curse is on covetousness that swallowed the goodness of God.\n\nReformed yield: He withholds the increase they stored for themselves. Shared: ten acres, one bath, homer, ephah."
+    },
+    {
+      "number": 11,
+      "text": "Woe to those who rise early in the morning, that they may run after strong drink, who tarry late into the evening as wine inflames them!",
+      "arminianNotes": "Woe to those who rise early to run after strong drink, who tarry late as wine inflames them. A second woe beside the land-woe.\n\nArminian rise: real dawn-to-dark drinking in Judah. Not a culture-war on wine as such; the run and the tarrying that never looks up.",
+      "reformedNotes": "Calvin: from morning to twilight they continue carousals. Abundance and luxury join. To rise early is to be earnest—here, earnest for drink, contrary to rising for work (Ps 104:23).\n\nReformed rise: another abuse of gifts. Shared: early, strong drink, late, wine inflames."
+    },
+    {
+      "number": 12,
+      "text": "They have lyre and harp, tambourine and flute and wine at their feasts, but they do not regard the deeds of the Lord, or see the work of his hands.",
+      "arminianNotes": "Lyre and harp, tambourine and flute and wine at their feasts, but they do not regard the deeds of the Lord or see the work of His hands. Wesley: they give themselves wholly to luxury; the work is His judgments, inflicted and threatened, which required another course of life.\n\nArminian feasts: music is not the charge; refusing to regard is. Historic instruments at historic tables. They could have looked.",
+      "reformedNotes": "Calvin: he does not blame music, a science not to be despised; he describes a nation swimming in luxury. They do not consider why the Lord supplies them, or that they were born to obey God, not to wallow. Worse than beasts if they will not direct their minds to the Author of life.\n\nReformed feasts: the work of His hands includes the coming exile. Shared: lyre, harp, feasts, not regard, work of His hands."
+    },
+    {
+      "number": 13,
+      "text": "Therefore my people go into exile for lack of knowledge; their honored men go hungry, and their multitude is parched with thirst.",
+      "arminianNotes": "Therefore my people go into exile for lack of knowledge; their honored men go hungry, and their multitude is parched with thirst. Wesley: no serious consideration of God’s works, of their own duty and danger; honourable men who thought themselves out of reach of famine.\n\nArminian therefore: exile follows not looking. Lack of knowledge is a real not-considering they might have done. Honored men still starve. Historic captivity of this people, not a slogan. Match the hub: a King who judges, leaving this refusal to consider as a real second cause.",
+      "reformedNotes": "Calvin: not that teachers failed, but voluntary ignorance. They perished because they despised instruction. My people: a nation separated to have God near, shutting its eyes in so much light. Captivity is already in part inflicted. Ignorance is sometimes near, sometimes remote: they refuse to learn, and yet it does not excuse them. The source of calamities is that we do not allow ourselves to be taught by the word of God.\n\nReformed therefore: they would not be taught; the exile is His sentence. Shared: my people, exile, lack of knowledge, hungry, thirst.",
+      "keyContrast": "Both confess exile comes for lack of knowledge, and that honored Judah still starves (5:13). Arminians typically hear a real failure to consider God’s works, duty, and danger (Wesley). Reformed readers typically hear voluntary ignorance: they despised instruction; the outward light of the law left them without excuse (Calvin). Not a culture-war, and not a fake warning."
+    },
+    {
+      "number": 14,
+      "text": "Therefore Sheol has enlarged its appetite and opened its mouth beyond measure, and the nobility of Jerusalem and her multitude will go down, her revelers and he who exults in her.",
+      "arminianNotes": "Therefore Sheol has enlarged its appetite and opened its mouth beyond measure; the nobility of Jerusalem and her multitude go down, her revelers and he who exults in her. Wesley: he that spends all his days in mirth and jollity.\n\nArminian Sheol: death opens wider than the feast. Historic Jerusalem’s nobles go down. The mouth of the grave answers the open mouth of wine.",
+      "reformedNotes": "Calvin: hell as an insatiable beast. He speaks as if the event were already before their eyes. Nobles and low rank together—none escape. Therefore: these things do not happen by chance.\n\nReformed Sheol: the appetite is His judgment, not fortune. Shared: enlarged, mouth, nobility, multitude, revelers."
+    },
+    {
+      "number": 15,
+      "text": "Man is humbled, and each one is brought low, and the eyes of the haughty are brought low.",
+      "arminianNotes": "Man is humbled, each one brought low, the eyes of the haughty brought low. The refrain of 2:11 after a new catalogue.\n\nArminian humbled: high and low, still their eyes until they fall. Historic pride in this land.",
+      "reformedNotes": "Calvin: adam and ish—mean and mighty. Design of chastisement: His justice shines when He punishes. Hypocrites become more insolent when not struck; He will be exalted in their destruction.\n\nReformed humbled: the same day against pride. Shared: man, brought low, haughty eyes."
+    },
+    {
+      "number": 16,
+      "text": "But the Lord of hosts is exalted in justice, and the Holy God shows himself holy in righteousness.",
+      "arminianNotes": "The Lord of hosts is exalted in justice, and the Holy God shows himself holy in righteousness. Wesley: exalted by this just judgment; sanctified—appears to be a holy God by righteous judgments.\n\nArminian exalted: shared confession. His holiness is seen in the sentence, not in a millennial chart. Justice here is the vineyard’s missing fruit now executed.",
+      "reformedNotes": "Calvin: the formal cause of His excellence. He will be raised when He shows Himself judge. Unlikely that the wicked continue in prosperity while His glory is set aside. He is holy by nature and must be sanctified; destruction hangs over the wicked that rebellion may be subdued.\n\nReformed exalted: He cannot deny Himself. Shared: Lord of hosts, justice, Holy God, righteousness."
+    },
+    {
+      "number": 17,
+      "text": "Then shall the lambs graze as in their pasture, and nomads shall eat among the ruins of the rich.",
+      "arminianNotes": "Then shall the lambs graze as in their pasture, and nomads eat among the ruins of the rich. Wesley: when God has finished that judgment; lambs—the poor and harmless left when the rich are carried captive; waste places of the fat ones; strangers—poor Israelites left as vine-dressers (2 Kings 25:12), strangers to that land as not its owners.\n\nArminian lambs: historic leftover poor on seized ground. Not a culture-war on wealth. The vineyard’s soil feeds someone after the grabbers go.",
+      "reformedNotes": "Calvin: consolation for the godly who tremble at the threatenings. He will be a faithful shepherd to His lambs. The haughty who oppressed the poor boasted they were the Church; they are goats. Waste places of the fat ones shall strangers eat: the children of God, banished as foreigners, will regain what tyrants seized.\n\nReformed lambs: the flock remains when the fat are gone. Shared: lambs graze, ruins of the rich."
+    }
+  ]
+}

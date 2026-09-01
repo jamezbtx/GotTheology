@@ -1,0 +1,94 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 21,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Isaiah 21:1–10",
+  "context": "The oracle concerning the wilderness of the sea. As whirlwinds in the Negeb sweep on, it comes from the wilderness, from a terrible land. A stern vision: the traitor betrays, the destroyer destroys. Go up, O Elam; lay siege, O Media; all the sighing she has caused I bring to an end. The prophet’s loins filled with anguish; they prepare the table, eat and drink; arise, oil the shield. A watchman set; riders, horsemen in pairs; Fallen, fallen is Babylon, and all the carved images of her gods he has shattered. O my threshed and winnowed one, what I have heard from the LORD of hosts I announce to you. The unit stays with historic Babylon in the desert beyond Judah, Elam and Media’s siege—as Wesley and Calvin actually read—not a newspaper of later states, not a millennial camp fight.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the wilderness of the sea, whirlwinds from a terrible land, Elam and Media, a night of feasting turned to trembling, a watchman, and Babylon fallen with her images—so each camp speaks in its own voice beside Isaiah 21:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The plain—Of Babylon, which lay in a very plain country. And the title of the sea might well be given to the waters of Babylon, because of the great plenty and multitude of them. South—In those parts which lay southward from Judea, where there were many and great deserts. Pass through—As meeting with no opposition. It—The burden or judgment. Desert—From Media and Persia; a great desert lay between them and Chaldea. A terrible land—From the Medes, a warlike and formidable people. A vision—A vision or prophecy, containing dreadful calamities which were to fall upon Babylon. The spoiler—The Medes and Persians used treachery as well as force against Babylon. Elam—Persia, so called, because Elam was an eminent province of Persia, bordering upon the Medes. Besiege—Namely, Babylon. The sighing—The sighing and groaning of God’s people, and other nations under the oppressions of that cruel empire. My loins—With respect to the following similitude of child-bearing. The night—In which I used to have sweet repose. He seems to have had this vision in a night. But withal this signified that horror and destruction which should befall the Babylonians in a night of feasting and jollity. Prepare—Furnish it with meats and drinks. The prophet foretells what the Babylonians would be doing when their enemies were at their doors. Princes—Of Babylon: arise from the table and run to your arms. A lion—The watchmen cried out, I see also a lion marching before the horsemen and chariots: which they suppose to represent Cyrus or Darius. He—God, by the hands of Cyrus. Threshing—Threshing is put for the corn threshed; and the corn threshed for people sorely afflicted. This is probably spoken of Babylon. You—Unto you my people; for all the prophecies, even concerning other nations, were published to them, and for their use and comfort.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 21:1–10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The burden of the desert of the sea. The Prophet, after having taught that their hope ought to be placed not on the Egyptians but on the mercy of God alone, adds a consolation: for the Chaldeans, to whom they will be captives, a reward is prepared. By the desert he means Chaldea, not that it was deserted, but because the Jews had a desert on that side of them. As whirlwinds in the south pass through: the destruction will come suddenly, from Media and Persia, a terrible land. A grievous vision: the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam; besiege, O Media: all the sighing thereof have I made to cease. Therefore are my loins filled with pain, as the pangs of a woman that travaileth. The night of my pleasure hath he turned into fear: horror and destruction should befall the Babylonians in a night of feasting. Prepare the table, watch in the watch-tower, eat, drink: arise, ye princes, and anoint the shield. Go, set a watchman. He saw a chariot with a couple of horsemen. Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground. O my threshing, and the corn of my floor: what I have heard of the Lord of hosts, the God of Israel, have I declared unto you. The announcement is for the comfort of the godly who were to be threshed under that empire.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 21:1–10)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The oracle concerning the wilderness of the sea. As whirlwinds in the Negeb sweep on, it comes from the wilderness, from a terrible land.",
+      "arminianNotes": "Wesley: The plain—of Babylon, which lay in a very plain country. And the title of the sea might well be given to the waters of Babylon, because of the great plenty and multitude of them. South—in those parts which lay southward from Judea, where there were many and great deserts. Pass through—as meeting with no opposition. Desert—from Media and Persia; a great desert lay between them and Chaldea. A terrible land—from the Medes, a warlike and formidable people. Shared: it comes from the wilderness upon Babylon.\n\nArminian pastoral: the whirlwind is historic Media and Persia against historic Babylon, not a twenty-first-century storm. Do not turn the desert of the sea into a newspaper.",
+      "reformedNotes": "Calvin: the burden of the desert of the sea. After teaching that hope ought to be placed not on Egypt but on God’s mercy, he adds consolation: for the Chaldeans, to whom they will be captives, a reward is prepared. By the desert he means Chaldea, not that it was deserted, but because the Jews had a desert on that side of them. As whirlwinds in the south pass through: the destruction will come suddenly from a terrible land.\n\nReformed pastoral: Chaldea is judged for Judah’s sake. Shared: wilderness, whirlwind, terrible land. Historic Babylon, not a modern state."
+    },
+    {
+      "number": 2,
+      "text": "A stern vision is told to me; the traitor betrays, and the destroyer destroys. Go up, O Elam; lay siege, O Media; all the sighing she has caused I bring to an end.",
+      "arminianNotes": "Wesley: A vision—a vision or prophecy, containing dreadful calamities which were to fall upon Babylon. The spoiler—the Medes and Persians used treachery as well as force against Babylon. Elam—Persia, so called, because Elam was an eminent province of Persia, bordering upon the Medes. Besiege—namely, Babylon. The sighing—the sighing and groaning of God’s people, and other nations under the oppressions of that cruel empire.\n\nArminian pastoral: Elam and Media are named, not a later coalition. The sighing ended is Judah’s under historic Babylon. Do not invent a millennial camp fight from the siege.",
+      "reformedNotes": "Calvin: a grievous vision is declared unto me. The treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam; besiege, O Media: all the sighing thereof have I made to cease. The Medes and Persians are summoned against Babylon so that the groaning of the captives may end. God takes account of the injuries his people endure.\n\nReformed note: the stern vision is still Babylon’s fall. Shared: Elam up, Media at siege, sighing ended. Historic Chaldea, not a newspaper."
+    },
+    {
+      "number": 3,
+      "text": "Therefore my loins are filled with anguish; pangs have seized me, like the pangs of a woman in labor; I am bowed down so that I cannot hear; I am dismayed so that I cannot see.",
+      "arminianNotes": "Wesley: My loins—which he mentions with respect to the following similitude of child-bearing. Pangs—sharp and grievous pains. Shared: the prophet feels the vision’s pain.\n\nArminian pastoral: pity can be honest without open theism. Historic horror at Babylon’s fall, not a claim that God does not know what he has decreed. Do not invent a limited God from “I cannot hear.”",
+      "reformedNotes": "Calvin: therefore are my loins filled with pain, as the pangs of a woman that travaileth. I was bowed down at the hearing of it; I was dismayed at the seeing of it. The prophet takes the anguish of the vision, as the prophets shudder at the judgments of God even against the wicked. This is office and compassion, not a gap in the decree.\n\nReformed pastoral: the pangs are the seer’s, not process-theism. Shared: loins filled with anguish. Historic vision of Babylon, not a newspaper."
+    },
+    {
+      "number": 4,
+      "text": "My heart staggers; horror has appalled me; the twilight I longed for has been turned for me into trembling.",
+      "arminianNotes": "Wesley: The night—in which I used to have sweet repose. He seems to have had this vision in a night. But withal this signified that horror and destruction which should befall the Babylonians in a night of feasting and jollity. He—God, who shewed him that vision. Shared: longed-for twilight turned to trembling.\n\nArminian pastoral: Babylon’s feast-night is already named. Do not hunt another twilight to make this verse a headline.",
+      "reformedNotes": "Calvin: my heart panted; fearfulness affrighted me; the night of my pleasure hath he turned into fear unto me. Horror and destruction should befall the Babylonians in a night of feasting. The prophet’s staggered heart sets that night before Judah’s eyes.\n\nReformed note: the trembling twilight is still Babylon’s banquet. Shared: horror instead of rest. Historic night, not a millennial decoder."
+    },
+    {
+      "number": 5,
+      "text": "They prepare the table, they spread the rugs, they eat, they drink. Arise, O princes; oil the shield!",
+      "arminianNotes": "Wesley: Prepare—furnish it with meats and drinks. The prophet foretells what the Babylonians would be doing when their enemies were at their doors. Watch—to give us notice of any approaching danger, that in the meantime we may more securely indulge ourselves. Princes—of Babylon: arise from the table and run to your arms. Shield—prepare yourselves and your arms for the approaching battle. They used to anoint their shields with oil, to preserve and polish them, and to make them slippery.\n\nArminian pastoral: the table is historic Babylon’s, not a culture-war feast. Oil the shield is too late when the Medes are already named.",
+      "reformedNotes": "Calvin: prepare the table, watch in the watch-tower, eat, drink: arise, ye princes, and anoint the shield. He describes the security and luxury of the Babylonians, who gave themselves up to feasting when ruin was at the door. The call to arise is too late; the banquet is the night of v. 4.\n\nReformed pastoral: feasting does not bind the Lord’s hand. Shared: table spread, then oil the shield. Historic princes of Babylon, not a newspaper."
+    },
+    {
+      "number": 6,
+      "text": "For thus the LORD said to me: “Go, set a watchman; let him announce what he sees.",
+      "arminianNotes": "Wesley: Go set—this was now done only in a vision, but it signified what should be done really afterwards. Shared: a watchman set to announce.\n\nArminian pastoral: the LORD’s command is a real vision for historic Judah. Do not treat the watchman as a modern news desk.",
+      "reformedNotes": "Calvin: for thus hath the Lord said unto me, Go, set a watchman, let him declare what he seeth. The prophet is commanded to station a sentinel, that the fall of Babylon may be announced as a thing already seen. The watch is the Lord’s, not man’s guess.\n\nReformed note: the set watchman is still that vision’s. Shared: announce what he sees. Historic oracle, not a later decoder."
+    },
+    {
+      "number": 7,
+      "text": "When he sees riders, horsemen in pairs, riders on donkeys, riders on camels, let him listen diligently, very diligently.”",
+      "arminianNotes": "Wesley: A chariot—hereby he signifies the variety and abundance of warlike provisions which the Medes and Persians should have for their expedition, and particularly of chariots, whereof some were for the carriage of necessary things, and others for the battle. Shared: riders in pairs, donkeys and camels.\n\nArminian pastoral: the mixed train is Elam and Media’s host, not a twenty-first-century column. Listen diligently: the vision is enough without a newspaper.",
+      "reformedNotes": "Calvin: and he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels. He was to hearken diligently. The variety of the train marks the combined force coming against Babylon from the terrible land of v. 1.\n\nReformed pastoral: diligence on the tower is still that siege’s. Shared: horsemen in pairs. Historic Medo-Persian approach, not a millennial map."
+    },
+    {
+      "number": 8,
+      "text": "Then he who saw cried out: “Upon a watchtower I stand, O Lord, continually by day, and at my post I am stationed whole nights.",
+      "arminianNotes": "Wesley: A lion—the watchmen cried out, I see also a lion marching before the horsemen and chariots: which they suppose to represent Cyrus or Darius marching in the head of their armies. My Lord—the watchman speaks to the prophet, who had set him in this station. Whole nights—according to thy command I have stood, and do yet stand continually, both day and night, upon my watch-tower.\n\nArminian pastoral: the post is held all night because the word said so. Historic tower over Babylon’s plain, not a modern lookout. Wesley’s lion is Cyrus or Darius, still that age’s captains.",
+      "reformedNotes": "Calvin: then he who saw cried out: upon a watchtower I stand, O Lord, continually by day, and at my post I am stationed whole nights. The sentinel reports his constancy; he has not left the tower the Lord assigned. The cry prepares the announcement of v. 9.\n\nReformed note: day and night on the tower is still Babylon’s watch. Shared: stationed whole nights. Historic vision, not a newspaper."
+    },
+    {
+      "number": 9,
+      "text": "And behold, here come riders, horsemen in pairs!” And he answered, “Fallen, fallen is Babylon; and all the carved images of her gods he has shattered to the ground.”",
+      "arminianNotes": "Wesley: Men—not fitted with goods, but provided with men to fight. He—the prophet, who here gives an explication of the vision. He—God, by the hands of Cyrus. Shared: Babylon fallen; images shattered.\n\nArminian pastoral: the double fallen is historic Babylon’s, not a later city’s. Idols hit the ground by the LORD’s hand through Cyrus. Do not restage the shout as a headline.",
+      "reformedNotes": "Calvin: Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground. The watchman’s news is the thing itself: the city that threshed the nations falls, and her gods cannot stand. He—the Lord—does it by the riders of v. 7.\n\nReformed pastoral: images shattered is still Chaldea’s shame. Shared: fallen, fallen is Babylon. Historic city on the plain, not a millennial camp fight."
+    },
+    {
+      "number": 10,
+      "text": "O my threshed and winnowed one, what I have heard from the LORD of hosts, the God of Israel, I announce to you.",
+      "arminianNotes": "Wesley: Threshing—threshing is put for the corn threshed; and the corn threshed for people sorely afflicted. This is probably spoken of Babylon. The corn—which I will cause to be threshed upon the floor. You—unto you my people; for all the prophecies, even concerning other nations, were published to them, and for their use and comfort.\n\nArminian close: the announcement is for Judah’s comfort while Babylon still stands. Historic threshing-floor, not a twenty-first-century people. The God of Israel has spoken; do not turn the winnowed one into a newspaper.",
+      "reformedNotes": "Calvin: O my threshing, and the corn of my floor: what I have heard of the Lord of hosts, the God of Israel, have I declared unto you. The announcement is for the comfort of the godly who were to be threshed under that empire. Some take the threshed as Babylon; in either reading the word is for Israel’s use. The Lord of hosts has heard, and Isaiah must tell it.\n\nReformed close: the floor is still that age’s. Shared: I announce what I have heard. Historic Judah under historic Babylon—already enough without a later decoder.",
+      "keyContrast": "Both hear the vision announced to the threshed, from the LORD of hosts, not a newspaper. Arminians typically hear Wesley’s floor as probably Babylon, the corn people sorely afflicted, yet published to God’s people for their comfort. Reformed readers typically hear Calvin’s further word: the speech comforts the godly who would be threshed under that empire; what Isaiah heard he must declare, whether the floor is named as Babylon or as the Church under her."
+    }
+  ]
+}

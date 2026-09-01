@@ -1,0 +1,124 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 15,
+  "translation": "ESV",
+  "title": "Isaiah 3:1–15",
+  "context": "The Lord God of hosts takes from Jerusalem and Judah stay of bread and water, warrior, judge, prophet, and elder. Boys are princes; neighbor oppresses neighbor. A cloak is enough to be asked to rule a heap of ruins; the asked man will not be a healer. Jerusalem has stumbled because speech and deeds defy His glory. Faces proclaim sin like Sodom. Tell the righteous it shall be well; woe to the wicked. Guides mislead. The Lord stands to judge elders who have eaten the vineyard and grind the poor.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a city stripped of stay, a face like Sodom, and a word to the righteous—so each camp speaks in its own voice beside Isaiah 3:1–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The judge—the civil magistrates. The ancient—whose wisdom was increased by long experience. Oppressed—by thy command or permission of such childish rulers. The shew—their pride and impiety manifestly shews itself in their very looks. They declare—they act it publicly, casting off all fear of God. Rewarded—procured a fit recompense for their wickedness, even utter ruin. Say ye—O ye priests and Levites, that God will be their safeguard and portion. Women—weak and effeminate rulers. Ancients—the princes; eaten—destroyed instead of preserving; spoil—the goods violently taken from the poor.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 3:2–14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Lord Jehovah of hosts will take away from Jerusalem every help by which you think you are upheld. Say, it shall be well with the righteous: hold it to be a settled point. He does not bid them tell the righteous man, but bids every man be fully convinced that happy will be the condition of the righteous, though he may only appear to be unhappy. He shall eat the fruit of his doings: he shall not be defrauded of the reward of his good conduct. Woe unto the wicked: think not that blind chance rules, or that God punishes without regard to justice. They have rewarded evil unto themselves. Acknowledge that it has been done by yourselves; give glory to a righteous judge.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 3:1, 9–11)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "For behold, the Lord God of hosts is taking away from Jerusalem and from Judah support and supply, all support of bread, and all support of water,",
+      "arminianNotes": "Behold, the Lord God of hosts is taking away from Jerusalem and Judah support and supply, all support of bread and water. Historic famine and drought on this city, not a newspaper.\n\nArminian taking: the Lord actually removes what Judah leaned on. Bread and water were real stays. Agency remains in the speech and deeds of v. 8 that drew this taking.",
+      "reformedNotes": "Calvin: behold presses the nearness of the hand. Wealth will not prevent wrath. Stay and staff: every kind of support, then bread and water first. God takes the strength of bread either by removing food or by withdrawing the hidden power that nourishes; without His blessing the full belly still hungers.\n\nReformed taking: the secret blessing is His to give or withhold. Shared: Jerusalem, Judah, bread, water."
+    },
+    {
+      "number": 2,
+      "text": "the mighty man and the soldier, the judge and the prophet, the diviner and the elder,",
+      "arminianNotes": "The mighty man and the soldier, the judge and the prophet, the diviner and the elder. Wesley: judge—civil magistrates; ancient—wisdom increased by long experience.\n\nArminian offices: real ranks in Judah’s gates. When they go, the city feels it. Not a culture-war on institutions.",
+      "reformedNotes": "Calvin: magistrates and teachers are the two eyes of the body. He mixes warrior, judge, prophet. Sometimes God takes them by death, sometimes by making them soft. A well-ordered commonwealth is a gift; fanatics who banish the sword oppose public safety.\n\nReformed offices: He takes what He gave. Shared: mighty, soldier, judge, prophet, elder."
+    },
+    {
+      "number": 3,
+      "text": "the captain of fifty and the man of rank, the counselor and the skillful magician and the expert in charms.",
+      "arminianNotes": "Captain of fifty, man of rank, counselor, skillful magician, expert in charms. Judah’s full staff, including dark arts it should not have kept.\n\nArminian list: historic offices and forbidden crafts together. Losing both is judgment on a land that filled itself from the east (2:6).",
+      "reformedNotes": "Calvin: captains of fifty as the custom then. Artificers uphold a nation. Eloquent or skilled in muttering: some hear forbidden charms among the punishments—God takes even unlawful aids (cf. Hos 3:4).\n\nReformed list: every ornament of a safe people is His to strip. Shared: captain, counselor, charms."
+    },
+    {
+      "number": 4,
+      "text": "And I will make boys their princes, and infants shall rule over them.",
+      "arminianNotes": "I will make boys their princes, and infants shall rule over them. Wesley’s childish rulers begin here.\n\nArminian boys: real unfit heads in Judah, not a modern gender or age slogan. The Lord makes them princes; the people still live under them.",
+      "reformedNotes": "Calvin: children by age or by mind—delicate, without courage. No man is fit to govern unless God appoint and endow him. Vengeance in two ways: He stuns the able, or He gradually removes them and commits the reins to those who cannot rule a house.\n\nReformed boys: He appoints kings in wrath (Hos 13:11). Shared: boys, infants, rule."
+    },
+    {
+      "number": 5,
+      "text": "And the people will oppress one another, every one his fellow and every one his neighbor; the youth will be insolent to the elder, and the despised to the honorable.",
+      "arminianNotes": "People oppress one another; youth insolent to the elder, the despised to the honorable. Wesley: oppressed by command or permission of such childish rulers.\n\nArminian oppress: real neighbor against neighbor in historic streets. Insolence is still theirs under infant princes.",
+      "reformedNotes": "Calvin: utmost confusion when order is destroyed. Wantonness unrestrained. They who sap civil government are open enemies of mankind. A child insulting an old man is the most preposterous of spectacles, and unavoidable when government has fallen.\n\nReformed oppress: anarchy is a judgment, not a liberation. Shared: oppress, youth, elder, despised, honorable."
+    },
+    {
+      "number": 6,
+      "text": "For a man will take hold of his brother in the house of his father, saying: “You have a cloak; you shall be our leader, and this heap of ruins shall be under your rule”;",
+      "arminianNotes": "A man takes hold of his brother: You have a cloak; you shall be our leader, and this heap of ruins under your rule. Wesley: we are undone, neither food nor raiment; thou hast something left; under thine hand—to heal it.\n\nArminian cloak: a real rag of dignity in a ruined house. They still seize a brother. Historic Jerusalem’s heap, not a slogan.",
+      "reformedNotes": "Calvin: no man will undertake to govern, though requested. Ambition usually contends for power; when dignity is refused, calamity has reached its depth. Take hold: they seize, not merely flatter. Ruin under thy hand: at least if you have compassion, aid our wretchedness.\n\nReformed cloak: the throne is a burden no one wants. Shared: brother, cloak, leader, ruins."
+    },
+    {
+      "number": 7,
+      "text": "in that day he will speak out, saying: “I will not be a healer; in my house there is neither bread nor cloak; you shall not make me leader of the people.”",
+      "arminianNotes": "In that day he will say, I will not be a healer; in my house neither bread nor cloak; you shall not make me leader. Wesley: healer—a repairer of the ruins of the state.\n\nArminian healer: a real refusal. The man with a cloak still cannot bind the wound. Agency in the no.",
+      "reformedNotes": "Calvin: swear marks a firm refusal. Healer: metaphor from surgeons—I will not bind the wounds. House without bread or clothing: the state is past remedy.\n\nReformed healer: the office is declined because the ruin is beyond him. Shared: not a healer, no bread, no cloak."
+    },
+    {
+      "number": 8,
+      "text": "For Jerusalem has stumbled, and Judah has fallen, because their speech and their deeds are against the Lord, defying his glorious presence.",
+      "arminianNotes": "Jerusalem has stumbled, Judah fallen, because their speech and their deeds are against the Lord, defying His glorious presence. The taking of v. 1 has this because.\n\nArminian because: real tongue, real doings. They defied a glory actually present. Historic city, not a newspaper. Match the hub: a King who judges, leaving this speech as a real second cause.",
+      "reformedNotes": "Calvin: lest God seem cruel, the reason is their words and actions against Him, to provoke the eyes of His glory. Open insult in His presence. Glory: extraordinary madness to have no reverence when majesty is displayed. The cause of calamities is in their own hands.\n\nReformed because: the fall is His righteous sentence on that defiance. Shared: Jerusalem, Judah, speech, deeds, glory."
+    },
+    {
+      "number": 9,
+      "text": "For the look on their faces bears witness against them; they proclaim their sin like Sodom; they do not hide it. Woe to them! For they have brought evil on themselves.",
+      "arminianNotes": "The look on their faces bears witness; they proclaim their sin like Sodom; they do not hide it. Woe! They have brought evil on themselves. Wesley: pride and impiety show in their looks; they act it publicly; procured a fit recompense, even utter ruin.\n\nArminian brought: Sodom is moral resemblance (1:10), not a millennial chart. They fetched this evil. Faces still their own.",
+      "reformedNotes": "Calvin: countenance answers against them—it will not be necessary to bring distant witnesses. They declare their sin as Sodom, boasting without shame. Woe unto their soul: they have rewarded evil unto themselves. God cannot be accused; give glory to a righteous judge and lay the blame on yourselves.\n\nReformed brought: the fetching is theirs; the woe is His verdict. Shared: faces, Sodom, woe, evil on themselves."
+    },
+    {
+      "number": 10,
+      "text": "Tell the righteous that it shall be well with them, for they shall eat the fruit of their deeds.",
+      "arminianNotes": "Tell the righteous that it shall be well with them, for they shall eat the fruit of their deeds. Wesley: say ye, O priests and Levites, that God will be their safeguard and portion.\n\nArminian tell: a real word to real righteous in this crashing city. Fruit of deeds is not a works-gospel that buys 1:18’s snow; it is well with them because God is their portion, and what they have done is not nothing. Match the hub: creaturely fruit under a King who actually safeguards.",
+      "reformedNotes": "Calvin: say—hold it a settled point. Public calamity tempts the godly to think they perish with the wicked. Providence never confounds; even in apparent confusion He distinguishes. He does not merely bid them tell the righteous, but every man be convinced it shall be well, though he appear unhappy. Fruit of his doings: he shall not be defrauded of the reward of good conduct.\n\nReformed tell: the distinction is God’s, not chance. The fruit is a reward He will not deny, not a claim that justifies. Shared: righteous, well, fruit of deeds.",
+      "keyContrast": "Both confess it shall be well with the righteous in a falling Judah, and ill with the wicked (3:10–11). Arminians typically hear a real telling: God is their safeguard and portion, and they eat the fruit of their deeds (Wesley). Reformed readers typically hear a settled conviction that providence never confounds good and bad, and that the righteous will not be defrauded of the reward of good conduct (Calvin)—not a millennial camp, and not a works-gospel."
+    },
+    {
+      "number": 11,
+      "text": "Woe to the wicked! It shall be ill with him, for what his hands have dealt out shall be done to him.",
+      "arminianNotes": "Woe to the wicked! It shall be ill with him, for what his hands have dealt out shall be done to him. The pair of v. 10. Hands still deal.\n\nArminian woe: real ill matching real hands. Not a fake warning. Historic Judah’s wicked, not a party label.",
+      "reformedNotes": "Calvin: contrast to comfort the godly and terrify the wicked. Do not think chance rules, or that God punishes without justice, or that good and bad have the same reward. Hold that the wicked man’s condition will be most wretched; he brings on himself the evil that falls on his head.\n\nReformed woe: the dealing is repaid by a just judge. Shared: wicked, ill, hands."
+    },
+    {
+      "number": 12,
+      "text": "My people—infants are their oppressors, and women rule over them. O my people, your guides mislead you and they have swallowed up the course of your paths.",
+      "arminianNotes": "My people—infants are their oppressors, and women rule over them. Guides mislead and swallow the course of your paths. Wesley: women—weak and effeminate rulers; rulers civil and ecclesiastical.\n\nArminian infants: the boy-princes of v. 4 in another key. Not a culture-war on women; historic unfit heads, weak where they should have been fathers. Guides still mislead; the people can still refuse the path.",
+      "reformedNotes": "Calvin: madness that they obstinately shake off God’s yoke and yield abject submission to men of no estimation. God has struck them with cowardice. They who govern cause thee to err: the rulers are the plague; no worse destruction than bad princes. He does not here mean flattering prophets so much as heads who corrupt by example.\n\nReformed infants: wrath appointed these heads. Shared: my people, infants, women as unfit rule, guides mislead."
+    },
+    {
+      "number": 13,
+      "text": "The Lord has taken his place to contend; he stands to judge peoples.",
+      "arminianNotes": "The Lord has taken his place to contend; he stands to judge peoples. Wesley: he will shortly stand as judge to enquire and give sentence; to judge—to defend and deliver them.\n\nArminian stands: a real courtroom over historic peoples. He contends; elders still have to answer.",
+      "reformedNotes": "Calvin: so long as wickedness rages, we think He is idle. After complaining of princes, he adds that the Lord will do what His authority demands. He sits as judge in heaven and will call them to account.\n\nReformed stands: He was never absent. Shared: contend, judge, peoples."
+    },
+    {
+      "number": 14,
+      "text": "The Lord will enter into judgment with the elders and princes of his people: “It is you who have devoured the vineyard, the spoil of the poor is in your houses.",
+      "arminianNotes": "The Lord will enter into judgment with the elders and princes: you have devoured the vineyard; the spoil of the poor is in your houses. Wesley: ancients—princes chosen from ripe years; eaten—destroyed instead of preserving; spoil—goods violently taken from the poor.\n\nArminian vineyard: historic Judah as the Lord’s planting (soon Isa 5), not a newspaper. Spoil in houses is real theft in the gates of 1:23. They ate what they should have dressed.",
+      "reformedNotes": "Calvin: God contends with the ancients—not a lawful assembly in which they sit as deputies, but a suit against them. Psalm 82: He stands in the assembly of the gods. You have destroyed the vineyard: vine-dressers who devoured like wild beasts. Spoil of the poor in palaces that ought to be a sanctuary is sacrilege.\n\nReformed vineyard: double crime—they wasted what He loved. Shared: elders, princes, vineyard, spoil, poor."
+    },
+    {
+      "number": 15,
+      "text": "What do you mean by crushing my people, by grinding the face of the poor?” declares the Lord God of hosts.",
+      "arminianNotes": "What do you mean by crushing my people, grinding the face of the poor? declares the Lord God of hosts. The last word of the range is His question.\n\nArminian what: a real interrogation of real grinders. My people, the poor—historic Judah’s crushed, not a slogan. They can still stop the millstone.",
+      "reformedNotes": "Calvin: other particulars of haughty, cruel rule. The poor ought to betake themselves to the magistrate as father. What? What effrontery to abuse the mean. God speaks: the accusation is not from men. Majesty meets princes who think themselves beyond advice. From the greater to the less: if He punishes princes who destroyed the vineyard, the lowest will not escape.\n\nReformed what: the Lord of hosts is the plaintiff. Shared: crushing, grinding, poor, Lord God of hosts."
+    }
+  ]
+}

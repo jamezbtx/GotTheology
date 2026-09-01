@@ -1,0 +1,125 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 19,
+  "verseStart": 1,
+  "verseEnd": 15,
+  "translation": "ESV",
+  "title": "Isaiah 19:1–15",
+  "context": "An oracle concerning Egypt. Behold, the LORD is riding on a swift cloud and comes to Egypt; the idols tremble, hearts melt. Egyptians against Egyptians, city against city; the spirit emptied, counsel confounded; they inquire of idols and necromancers. A hard master, a fierce king. Waters of the sea dried, the Nile parched, canals foul, reeds rot, sown ground gone; fishermen mourn, flax-workers despair, pillars crushed. Princes of Zoan foolish, princes of Memphis deluded; the LORD mingles a spirit of confusion; nothing for Egypt that head or tail, palm branch or reed, may do. The unit stays with historic Egypt in the Assyria age—Nile, Zoan, Memphis, Judah’s false refuge—as Wesley and Calvin actually read—not a newspaper of later states, not a millennial camp fight.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the LORD riding a swift cloud into Egypt, idols moved, Egyptian against Egyptian, a fierce king, the Nile dried, Zoan’s fools, and a spirit of confusion—so each camp speaks in its own voice beside Isaiah 19:1–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Rideth—As a general in the head of his army. A swift cloud—This phrase shews that the judgment should come speedily, unexpectedly, and unavoidably. Shall be moved—So far shall they be from helping the Egyptians, that they shall tremble for themselves. I will set—Egypt was now one kingdom, but not many years after this time it was divided into twelve kingdoms, between whom there were many and cruel wars. The spirit—Their courage. A fierce king—Psammetichus, who being at first one of those twelve kings, waged war with the rest, and subdued them, and conquered all the land of Egypt and ruled it with rigor. The waters—Properly, as may be gathered from the following words. The river—Nile: upon whose fulness and overflow both the safety and the wealth of the land depended. Dried up—Not totally, but in a very great measure. Rivers—Those rivulets by which the waters of Nile were distributed. Paper-reeds—Used at that time for writing, and consequently a very good commodity. Mourn—Because they could catch no fish; which was a great loss to the people, whose common diet this was. They—That make fine linen, which was one of their best commodities. Zoan—The chief city, in which the king and court frequently resided. How—Why do you put such foolish words into Pharaoh’s mouth? Noph—Another chief city, called also Memphis. The stay—Their chief counsellors. Mingled—Or, hath poured out or given them to drink. Head, &c.—All people, both high and low, shall be at their wits end.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 19:1–15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The burden of Egypt. The Prophet here prophesies against Egypt, because it was a kind of refuge to the Jews whenever they saw any danger approaching; when they had forsaken God they thought they had no help left but in the Egyptians. It was therefore necessary that that kingdom should be overthrown, that its wealth or its forces might no longer deceive the Jews. Behold, the Lord rideth on a swift cloud: the Egyptians thought they were so well fortified that there was no way by which God could approach them; he ridicules their foolish confidence. I will set the Egyptians against the Egyptians: internal struggles, in which those who ought to be mutual defenders cut down one another; the Lord set them against each other. The spirit of Egypt shall be emptied, and I will destroy the counsel thereof: they shall seek to the idols and to the charmers. I will deliver the Egyptians into the hand of a cruel master, and a powerful king shall rule over them. Then the waters shall fail from the sea, and the river shall be wasted: he follows out the subject of Egypt’s wealth, which depended on the Nile. The fishers shall mourn; they who work in the finest flax shall be ashamed. Surely the princes of Zoan are fools; the princes of Noph are deceived. The Lord hath mingled a spirit of perverseness. Neither shall Egypt have any work to do, head or tail, branch or rush.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 19:1–15)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "An oracle concerning Egypt. Behold, the LORD is riding on a swift cloud and comes to Egypt; and the idols of Egypt will tremble at his presence, and the heart of the Egyptians will melt within them.",
+      "arminianNotes": "Wesley: Rideth—as a general in the head of his army. A swift cloud—this phrase shews that the judgment should come speedily, unexpectedly, and unavoidably. Shall be moved—so far shall they be from helping the Egyptians, that they shall tremble for themselves. Shared: the LORD comes; idols tremble.\n\nArminian pastoral: the cloud is historic Egypt’s, not a twenty-first-century sky. Do not turn the riding into a newspaper. Judah’s refuge cannot stand when the LORD arrives.",
+      "reformedNotes": "Calvin: the burden of Egypt. Egypt was a kind of refuge to the Jews whenever they saw danger; when they had forsaken God they thought they had no help left but in the Egyptians. It was necessary that that kingdom should be overthrown, that its forces might no longer deceive the Jews. Behold, the Lord rideth on a swift cloud: they thought they were so well fortified that God could not approach; he ridicules that confidence. The idols of Egypt shall be moved at his presence.\n\nReformed pastoral: the melt is still Egypt’s heart. Shared: swift cloud, trembling idols. Historic Nile land, not a modern state."
+    },
+    {
+      "number": 2,
+      "text": "And I will stir up Egyptians against Egyptians, and they will fight, each against another and each against his neighbor, city against city, kingdom against kingdom;",
+      "arminianNotes": "Wesley: I will set—Egypt was now one kingdom, but not many years after this time it was divided into twelve kingdoms, between whom there were many and cruel wars. Shared: Egyptian against Egyptian.\n\nArminian pastoral: the civil split is that age’s Egypt, not a later civil war on a map. Do not preach city against city as a headline.",
+      "reformedNotes": "Calvin: I will set the Egyptians against the Egyptians. He describes internal struggles, in which those who ought to be mutual defenders cut down one another. I will set: God, in whose hands are the hearts of men, inflames them to mutual animosities. They shall fight every one against his brother; city against city, and kingdom against kingdom. Nations never rise in a seditious manner unless the Lord set them against each other.\n\nReformed note: the stirring is the Lord’s, not chance. Shared: neighbor against neighbor. Historic Egypt, not a newspaper.",
+      "keyContrast": "Both hear Egyptians set against Egyptians in that age, not a newspaper. Arminians typically hear Wesley’s twelve kingdoms not many years after, with many and cruel wars. Reformed readers typically hear Calvin’s further word: the Lord himself sets them as gladiators; brother against brother is his vengeance, and hearts are in his hand."
+    },
+    {
+      "number": 3,
+      "text": "and the spirit of the Egyptians within them will be emptied out, and I will confound their counsel; and they will inquire of the idols and the sorcerers, and the mediums and the necromancers;",
+      "arminianNotes": "Wesley: The spirit—their courage. Shared: emptied spirit, then idols and necromancers.\n\nArminian pastoral: counsel fails, and they run to the dead. Historic Egypt’s magicians, not a culture-war séance. Do not copy the inquiry that cannot restore courage.",
+      "reformedNotes": "Calvin: and the spirit of Egypt shall be emptied. As Isaiah had deprived them of courage, he now adds that their counsel shall be destroyed. They shall seek to the idols, and to the charmers, and to them that have familiar spirits. When God takes away understanding, men fly to unlawful arts; he condemns those arts as contrary to reason, for God has revealed what is necessary by means he approves.\n\nReformed pastoral: emptied spirit is still Egypt’s. Shared: counsel confounded; necromancers sought. Historic sorcerers, not a millennial decoder."
+    },
+    {
+      "number": 4,
+      "text": "and I will give over the Egyptians into the hand of a hard master, and a fierce king will rule over them, declares the LORD God of hosts.",
+      "arminianNotes": "Wesley: A fierce king—Psammetichus, who being at first one of those twelve kings, waged war with the rest, and subdued them, and conquered all the land of Egypt and ruled it with rigor. Shared: a hard master over Egypt.\n\nArminian pastoral: the fierce king is historic Egypt’s, not a living politician. Do not hunt another hard master to make this verse a newspaper.",
+      "reformedNotes": "Calvin: I will deliver the Egyptians into the hand of a cruel master. After losing courage and understanding, nothing will be left but slavery. He threatens what is still more shocking: the inhabitants will undergo hard bondage. Though cruel is singular, he says they shall be subject to lords. A powerful king shall rule over them: the tyrant’s power shall be so great that it will not be easy to restore them to liberty.\n\nReformed note: the hard master is still that judgment’s. Shared: a fierce king, declares the LORD of hosts. Historic Egypt, not a later throne.",
+      "keyContrast": "Both hear a hard master over historic Egypt, not a newspaper and not a living politician. Arminians typically hear Wesley’s Psammetichus, one of the twelve who subdued the rest and ruled with rigor. Reformed readers typically hear Calvin’s further word: after emptied spirit, bondage under cruel lords, and a powerful king whose grip will not easily be broken—he will not name the man as Wesley does."
+    },
+    {
+      "number": 5,
+      "text": "And the waters of the sea will be dried up, and the river will be dry and parched,",
+      "arminianNotes": "Wesley: The waters—which may be understood either metaphorically of dominion or commerce, or rather properly, as may be gathered from the following words. The river—Nile: upon whose fulness and overflow both the safety and the wealth of the land depended; therefore this was a very terrible judgment. Dried up—not totally, but in a very great measure. Shared: sea and Nile fail.\n\nArminian pastoral: the parched river is historic Nile, not a twenty-first-century drought story.",
+      "reformedNotes": "Calvin: then the waters shall fail from the sea, and the river shall be wasted and dried up. He follows out Egypt’s wealth, which depended on the Nile. When God dries what they trusted, the kingdom’s pride withers with the stream.\n\nReformed pastoral: the dry river is still Egypt’s. Shared: waters fail. Historic Nile, not a newspaper."
+    },
+    {
+      "number": 6,
+      "text": "and its canals will become foul, and the branches of Egypt's Nile will diminish and dry up, reeds and rushes will rot away.",
+      "arminianNotes": "Wesley: Rivers—the rivulets by which the waters of Nile were distributed into several parts of the land shall be turned far away, as they must needs be when the river which fed them was dried up. Brooks—the several branches of the Nile, which were a great defense to Egypt. Reeds—which were useful to them for making their boats. Shared: canals foul, reeds rot.\n\nArminian pastoral: defense-brooks fail with the flood. Historic irrigation, not a modern canal project.",
+      "reformedNotes": "Calvin: and the brooks of defence shall be emptied and dried up. What he adds about fortifications shews that the drying is not a side note: the branches that guarded and fed the land fail together. Reed and rush wither with them.\n\nReformed note: foul canals are still the Nile’s. Shared: branches diminish. Historic Egypt, not a millennial map."
+    },
+    {
+      "number": 7,
+      "text": "There will be bare places by the Nile, on the brink of the Nile, and all that is sown by the Nile will be parched, will be driven away, and will be no more.",
+      "arminianNotes": "Wesley: Paper-reeds—these by a needle were divided into thin and broad leaves, which being dried were used at that time for writing, and consequently was a very good commodity. By brooks—and much more what was sown in more dry and unfruitful places. Shared: sown ground gone from the brink.\n\nArminian pastoral: paper-reed and seed fail together. Historic Nile bank, not a commodity headline.",
+      "reformedNotes": "Calvin: and the reed and the rush shall wither. He mentions reed and rush because they grew by the Nile and were part of the country’s wealth. All that is sown by the brooks shall wither, be driven away, and be no more. The blessing withdrawn, the brink is bare.\n\nReformed pastoral: parched sowing is still Egypt’s. Shared: no more by the Nile. Historic field, not a newspaper."
+    },
+    {
+      "number": 8,
+      "text": "The fishermen will mourn and lament, all who cast a hook in the Nile; and they will languish who spread nets on the water.",
+      "arminianNotes": "Wesley: Mourn—because they could catch no fish; which was a great loss to the people, whose common diet this was. Shared: hook and net fail.\n\nArminian pastoral: the fishermen’s diet is historic Egypt’s, not a modern market. Do not restage the lament as entertainment.",
+      "reformedNotes": "Calvin: and the fishers shall mourn. Isaiah still keeps in his eye the condition of Egypt. We know how abundant the fish of the Nile were, and how large a part of the people’s food. When the river fails, they who cast hook and spread nets languish.\n\nReformed note: the mourned catch is still the Nile’s. Shared: fishermen lament. Historic waters, not a later drought story."
+    },
+    {
+      "number": 9,
+      "text": "The workers in combed flax will be in despair, and the weavers of white cotton.",
+      "arminianNotes": "Wesley: They—that make fine linen, which was one of their best commodities. Shared: flax and white cloth fail.\n\nArminian pastoral: Egypt’s linen trade is a real commodity of that land. Do not turn combed flax into a newspaper.",
+      "reformedNotes": "Calvin: and they who work in the finest flax. As he spoke of mourning, so he now speaks of shame. Egypt was famous for fine linen; when the Nile’s produce fails, the weavers are confounded with the fishers.\n\nReformed pastoral: despair at the loom is still that trade’s. Shared: flax-workers in despair. Historic Egypt, not a millennial decoder."
+    },
+    {
+      "number": 10,
+      "text": "Those who are the pillars of the land will be crushed, and all who work for pay will be grieved.",
+      "arminianNotes": "Wesley: Thereof—of Egypt, or of the Egyptians. They shall lose their hopes; for the fishes in them shall die for want of water. Shared: pillars crushed, hired workers grieved.\n\nArminian pastoral: wage and pillar fall with the river. Historic Egypt’s economy, not a twenty-first-century labor story.",
+      "reformedNotes": "Calvin: and all that make ponds. As to the word, there is no absolute necessity of straining it; he means those whose work and wages depended on the waters. The pillars of the land—those who upheld its wealth—are broken when the Lord dries the Nile.\n\nReformed note: crushed pillars are still Egypt’s. Shared: hired workers grieved. Historic land, not a newspaper."
+    },
+    {
+      "number": 11,
+      "text": "The princes of Zoan are utterly foolish; the wisest counselors of Pharaoh give stupid counsel. How can you say to Pharaoh, “I am a son of the wise, a son of ancient kings”?",
+      "arminianNotes": "Wesley: Zoan—the chief city, in which the king and court frequently resided. How—why do you put such foolish words into Pharaoh’s mouth? I am the son—wisdom is heredity and natural to me. Shared: Zoan’s princes are fools.\n\nArminian pastoral: pedigree does not make counsel. Historic Zoan, not a modern cabinet. Do not baptize ancient kings as a headline.",
+      "reformedNotes": "Calvin: surely the princes of Zoan are fools. He joins wisdom with folly, and not without reason: they boasted of their wisdom, and Egypt was celebrated for it. How say ye to Pharaoh, I am the son of the wise, the son of ancient kings? Their pedigree cannot keep the counsel God has destroyed.\n\nReformed pastoral: stupid counsel is still Pharaoh’s court. Shared: princes of Zoan foolish. Historic Egypt, not a culture-war speech."
+    },
+    {
+      "number": 12,
+      "text": "Where then are your wise men? Let them tell you that they might know what the LORD of hosts has purposed against Egypt.",
+      "arminianNotes": "Wesley’s how of v. 11 still holds: why put such foolish words into Pharaoh’s mouth? The wise cannot tell what the LORD of hosts has purposed. Shared: let them declare the purpose.\n\nArminian pastoral: the purpose is already spoken against historic Egypt. Do not invent open theism from hidden counsel; the LORD of hosts has purposed, and the wise cannot find it out.",
+      "reformedNotes": "Calvin: where are thy wise men? that they may tell thee. Though they boast of wisdom, they cannot foresee what the Lord of hosts hath purposed against Egypt. The challenge exposes empty learning: God’s decree is not subject to their arts.\n\nReformed note: the missing wise men are still Zoan’s. Shared: what the LORD has purposed. Historic purpose against Egypt, not a newspaper decoder."
+    },
+    {
+      "number": 13,
+      "text": "The princes of Zoan have become fools, and the princes of Memphis are deluded; those who are the cornerstones of her tribes have made Egypt stagger.",
+      "arminianNotes": "Wesley: Noph—another chief city, and one of the kings seats, called also Moph, and by latter authors, Memphis. The stay—their chief counsellors. Tribes—of the provinces, which he calls by a title borrowed from the Hebrew. Shared: Zoan and Memphis both fool the land.\n\nArminian pastoral: cornerstones that should stay Egypt make it stagger. Historic Noph, not a later capital.",
+      "reformedNotes": "Calvin: the princes of Zoan are become infatuated, the princes of Noph are deceived. Zoan and Noph (Memphis) were chief cities. The corner-stone of the tribes: those who ought to have been the stay of the provinces have made Egypt stagger.\n\nReformed pastoral: deluded Memphis is still that court’s. Shared: cornerstones make Egypt stagger. Historic cities, not a millennial map."
+    },
+    {
+      "number": 14,
+      "text": "The LORD has mingled within her a spirit of confusion, and they will make Egypt stagger in all its deeds, as a drunken man staggers in his vomit.",
+      "arminianNotes": "Wesley: Mingled—or, hath poured out or given them to drink. To err—in all their designs and undertakings. Staggereth—when he is so drunk, that he reels to and fro, and vomits up his drink. Shared: a spirit of confusion from the LORD.\n\nArminian pastoral: the mix is the Lord’s judgment, not a gap in his knowledge. Historic Egypt reeling, not a culture-war speech. Do not invent open theism from confusion.",
+      "reformedNotes": "Calvin: the Lord hath mingled a spirit of perverseness. Because it was unexpected that so wise a nation should err, he shews that it was done by the judgment of God, who mixed a spirit that made them stagger in all their work, as a drunken man staggereth in his vomit. The Lord is not confused; he confuses them.\n\nReformed note: the stagger is still Egypt’s deeds. Shared: mingled spirit of confusion. Historic judgment, not process-theism."
+    },
+    {
+      "number": 15,
+      "text": "And there will be nothing for Egypt that head or tail, palm branch or reed, may do.",
+      "arminianNotes": "Wesley: Head, &c.—all people, both high and low, shall be at their wits end. Shared: nothing left for high or low to do.\n\nArminian close of this half: palm branch and reed fail together. Historic Egypt from court to canal, not a twenty-first-century state. The church is not to stretch “nothing for Egypt” into a newspaper. The next unit (vv. 16–25) will still keep Egypt in that age, then name a gospel mercy Wesley and Calvin share in Christ.",
+      "reformedNotes": "Calvin: neither shall Egypt have any work to do. This is the conclusion of the former statement: neither the highest nor the lowest, branch nor rush, shall be able to restore the state. Head and tail are alike helpless when the Lord has emptied spirit and Nile.\n\nReformed close: nothing to do is still that land’s. Shared: head or tail, palm or reed. Historic Egypt in the Assyria age—already enough without a later headline."
+    }
+  ]
+}

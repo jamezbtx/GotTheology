@@ -1,0 +1,155 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 41,
+  "verseStart": 1,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Isaiah 41:1–20",
+  "context": "The LORD summons the coastlands to silence and judgment: who stirred up one from the east, and who called the generations from the beginning? He is the first and with the last. Coastlands fear and idol-craftsmen nail their god so it cannot move; but Israel is named servant, Jacob chosen, seed of Abraham—fear not, I am with you. Worm Jacob is made a threshing sledge; the poor and needy are given water in the desert, that they may know the Holy One of Israel has done it.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on coastlands summoned to judgment, one raised from the east, the LORD who is first and last, an idol nailed so it cannot move, and Israel told Fear not—so each camp speaks in its own voice beside Isaiah 41:1–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Keep silence—attend diligently to my plea. Islands—countries remote from Judea, inhabited by the idolatrous Gentiles. Who—was it not my work alone? The man—Cyrus. The east—Persia was directly eastward from Judea and from Babylon. I—who was before all things even from eternity, and shall be unto eternity. Thou—Israel, whom I took in the loins of Abraham from a remote country; I have chosen thee and thy seed through all generations. Thou worm—who art weak in thyself, and trodden under foot by thy proud enemies. The mountains—the great and lofty potentates of the world. In the Holy One—for to him thou shalt ascribe thy victory.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 41:1–2, 4, 9, 14–16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Be silent to me, O islands: he commands the Gentiles to keep silence that he may plead his cause. Who shall raise up righteousness from the east? He mentions Abraham, whom God brought out of Chaldea; they ought to hope that he would equally assist them. Abraham followed him to his foot. I Jehovah: the first, and likewise with the last—not only eternity of essence but government on earth. But thou, Israel, art my servant; Jacob whom I have chosen—not through your own merit but through my bounty. Fear not, for I am with thee: a solid foundation of confidence. Fear not, thou worm Jacob, ye dead Israel: he keeps his eye upon them though mean and despised.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 41:1–2, 4, 8–10, 14)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Listen to me in silence, O coastlands; let the peoples renew their strength; let them approach, then let them speak; let us together draw near for judgment.",
+      "arminianNotes": "Listen in silence, O coastlands; let the peoples renew their strength and draw near for judgment. Wesley: keep silence—attend diligently to my plea. Islands are countries remote from Judea, inhabited by the idolatrous Gentiles. Renew—strengthen themselves to maintain their cause against me; let them unite all their strength. Near—unto me, that we may plead; God gives free liberty to say what they can on their own behalf.\n\nThe coastlands are summoned, not consulted. Shared: God rules; He is not an idol that must wait its turn. Classical Arminians still hear a real court: the nations may speak, and they will lose.",
+      "reformedNotes": "Be silent to me, O islands. Calvin: the silence of a court of justice; islands are countries beyond the sea. He will be victorious if men listen to him attentively. He defies the nations: let them collect their strength and league against me; they will gain nothing. The address is aimed chiefly at sluggish Jews, who had God so nigh by the Law.\n\nReformed: falsehood cannot stand if God is heard. Shared with Wesley: coastlands summoned, strength gathered, judgment drawn. Match the hub: God summons; idols are later nailed so they cannot move."
+    },
+    {
+      "number": 2,
+      "text": "Who stirred up one from the east whom victory meets at every step? He gives up nations before him, so that he tramples kings underfoot; he makes them like dust with his sword, like driven stubble with his bow.",
+      "arminianNotes": "Who stirred up one from the east whom victory meets at every step? Wesley: was it not my work alone? Raised into being and power, stirring up his spirit. The man is Cyrus; the east is Persia, directly eastward from Judea and from Babylon. Raised in an eminent manner; things yet to come spoken as already past. By this instance he pleads against the Gentiles: an evident proof of God’s almighty power, and of the vanity of idols, which appeared in the destruction of the Babylonians, a people mad upon their idols. Called him to march under God’s banner against Babylon.\n\nHistoric Cyrus, the Persian king—not a modern newspaper proxy. Shared: God alone stirred him up. Omnipotence here is why Babylon cannot cancel the comfort.",
+      "reformedNotes": "Who shall raise up righteousness from the east? Calvin reads Abraham, not Cyrus in this verse: God brought Abraham out of Chaldea amidst so many dangers; the children ought to hope that He would equally assist them for a return from Babylon. He calls Abraham righteousness not to extol the man but as a character belonging to the whole condition of the Church. Called him to his foot: Abraham followed step by step; no particular country was first pointed out. Gave nations before him and subdued kings (Genesis 14; Pharaoh; Abimelech). Dust and stubble: victory by God’s assistance, not human power.\n\nReformed: Abraham is a mirror of the justice of God for the exiles. Shared with Wesley: God alone raised him. Both names are historic (Abraham / Cyrus the Persian). Neither camp reads a living politician here.",
+      "keyContrast": "Arminian readings, with Wesley, take “one from the east” as Cyrus the Persian, east of Judea and Babylon, raised by God against the Babylonians who were mad upon their idols. Reformed readings, with Calvin, take the same figure as Abraham, righteousness raised from the east, called to his foot from Chaldea, a mirror so the captives may hope for return from Babylon. Shared: it was the LORD’s work alone; both names stay in the old story."
+    },
+    {
+      "number": 3,
+      "text": "He pursues them and passes on safely, by paths his feet have not trod.",
+      "arminianNotes": "He pursues them and passes on safely, by paths his feet have not trod. Wesley: went on in the pursuit with ease and safety, even through unknown paths.\n\nOn Wesley’s reading this is Cyrus’s easy road, because God stirred him (v. 2). Shared: the path is God’s, not the pursuer’s native map. Unknown ground is no match for the LORD who called him.",
+      "reformedNotes": "He pursued them; he escaped in peace by a path his foot had not entered. Calvin: the greatness of the victory commends God’s kindness. It is difficult to pursue enemies in unknown countries; that was no obstacle to Abraham, led and assisted by the hand of God.\n\nReformed: the safety is God’s, matching Calvin’s Abraham in v. 2. Shared: he passes safely because the LORD is the leader. No extra fight: both camps refuse to make the path a human feat."
+    },
+    {
+      "number": 4,
+      "text": "Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he.",
+      "arminianNotes": "Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he. Wesley: calling them out of nothing, giving them breath and being, disposing and employing them as He sees fit. From the beginning—all persons and generations of mankind. I—who was before all things even from eternity, and shall be unto eternity.\n\nShared sovereignty: first and last. Do not invent open theism: the God who calls generations is not waiting to discover whether He is still He. Match the hub: God rules, not an idol.",
+      "reformedNotes": "Who hath appointed and done it, calling the nations from the beginning? I Jehovah, the first, and with the last, I am the same. Calvin: not a single performance but successive blessings; God multiplies men by an uninterrupted course and presides over all ages—the world is not governed by chance. First and with the last: not only eternity of essence but the government He exercises on earth; He does not grow old by time and never will surrender His authority.\n\nReformed: He is the author of Abraham’s victories and of every generation’s help. Shared with Wesley: first, last, I am He. No fork: both camps confess the same unaging LORD."
+    },
+    {
+      "number": 5,
+      "text": "The coastlands have seen and are afraid; the ends of the earth tremble; they have drawn near and come.",
+      "arminianNotes": "The coastlands have seen and are afraid; the ends of the earth tremble; they have drawn near and come. Wesley: even remote countries discerned the mighty work of God in delivering His people and overthrowing their enemies. Feared—lest they should be involved in the same calamity. Came—they gathered themselves together.\n\nThe nations saw the work; fear is not yet faith. Shared: remote coasts tremble. The gathering of v. 6 will show what they do with the fear.",
+      "reformedNotes": "The isles saw and feared; the farthest boundaries of the earth trembled. Calvin: excessive ingratitude—having perceived the works of God they still continued in blindness. They were eyewitnesses and so deeply convinced that fear was awakened, yet they returned to their natural dispositions. The Gentiles had experience of His power when He delivered and preserved His people.\n\nReformed: they are inexcusable. Shared with Wesley: the coasts saw and feared. The polemic of vv. 6–7 follows: fear that runs to a new idol is not conversion."
+    },
+    {
+      "number": 6,
+      "text": "Everyone helps his neighbor and says to his brother, “Be strong!”",
+      "arminianNotes": "Everyone helps his neighbor and says to his brother, “Be strong!” Wesley has no separate note here; his v. 5 has the coasts gathering, and his v. 7 has the craftsman fastening the image to wall or pillar. The courage they lend is for idol-work, not for the LORD of v. 4.\n\nShared polemic: neighbor-help in the service of a god you make. Do not invent an Arminian defense of the workshop. God rules; this “Be strong” is the parody of v. 10’s fear not.",
+      "reformedNotes": "Every one brought assistance to his neighbor, and said, Be courageous. Calvin: they assembled in crowds to make a league, that they might encourage each other to frame new gods. This is the source of superstitions—men by mutual consent darken the light brought from heaven. He expostulates with idolaters for the sake of the Jews, that they may not imitate the Gentiles.\n\nReformed: it is not idol worship only but idol madness. Shared: craftsmen cheering craftsmen. The contrast is coming: Israel, my servant (v. 8)."
+    },
+    {
+      "number": 7,
+      "text": "The craftsman strengthens the goldsmith, and he who smooths with the hammer him who strikes the anvil, saying of the soldering, “It is good”; and they strengthen it with nails so that it cannot be moved.",
+      "arminianNotes": "The craftsman strengthens the goldsmith; they say of the soldering, “It is good”; they strengthen it with nails so that it cannot be moved. Wesley: fastened it—to the wall or pillar.\n\nWill not move is the punchline, matching 40:20. Shared: God is the first and the last (v. 4); this god must be pegged so it sits. Omnipotence versus furniture. Historic idol-makers, not a culture-war on art.",
+      "reformedNotes": "The workmen encouraged the founder; they fastened it with nails, that it should not be moved. Calvin: workmen, by beating in their turn, mutually excite each other. He describes the rebellion and madness of idolaters, who excite each other to oppose God. The more brightly the truth is manifested, the more obstinately they follow the opposite course. The passage fortifies the Jews not to imitate.\n\nReformed: a conspiracy to prop up tottering idols. Shared with Wesley: nails, so it cannot move. Match the hub: the Holy One of v. 14 versus a well-soldered stick."
+    },
+    {
+      "number": 8,
+      "text": "But you, Israel, my servant, Jacob, whom I have chosen, the offspring of Abraham, my friend;",
+      "arminianNotes": "But you, Israel, my servant, Jacob whom I have chosen, the offspring of Abraham my friend. Wesley does not pause on this verse; his next note (v. 9) takes Israel as the people God took to Himself and brought in the loins of Abraham from a remote country, and chose thee and thy seed through all generations. The “but you” is sincere comfort to the nation God still names servant and friend-seed.\n\nDo not invent open theism: the God who chose Jacob is not waiting to see whether the friendship will hold. Shared: Israel is addressed, Abraham is named. The fork is who “my servant” strictly is.",
+      "reformedNotes": "But thou, Israel, art my servant; Jacob whom I have chosen; seed of Abraham my friend. Calvin: do not confound the people of Israel with the heathen, though all agree in error. He calls Israel servant not because they deserved it by obedience, but because by a calling of free grace He had set them apart. Jacob whom I have chosen: undeserved favor; by election He formed them to be His peculiar people. The design of election is that they who were slaves of Satan may devote themselves to God. Abraham “my friend” is adoption; what is said of Abraham relates to all believers (John 15:15).\n\nReformed: servant and chosen mark the elect people of the promise, not a wage for obedience. Shared: Israel, Jacob, Abraham’s offspring. Comfort is real; the question is how wide “you” runs.",
+      "keyContrast": "Arminian readings, with Wesley’s note on the next verse, take “Israel my servant” as the nation God took in Abraham’s loins and chose with their seed through all generations—sincere comfort to the people He still names His. Reformed readings, with Calvin, take servant and chosen as a calling of free grace, not for obedience: the elect church set apart from the heathen, Abraham’s friendship by adoption extending to believers, while unbelief is not confused with Israel."
+    },
+    {
+      "number": 9,
+      "text": "you whom I took from the ends of the earth, and called from its farthest corners, saying to you, “You are my servant, I have chosen you and not cast you off”;",
+      "arminianNotes": "Taken from the ends of the earth, called from its farthest corners: “You are my servant, I have chosen you and not cast you off.” Wesley: thou Israel, whom I took to myself and brought hither in the loins of thy father Abraham, from a remote country. Called thee from the midst of many great persons among whom he lived in Chaldea. Chosen—I have chosen thee and thy seed through all generations.\n\nNot cast off is the nation’s comfort in exile. Shared: taken, called, chosen, not discarded. The seed-through-generations line is Wesley’s; it does not require an open-theist God who might yet drop them.",
+      "reformedNotes": "I have taken thee from the end of the earth; I have chosen thee and not cast thee off. Calvin: consolation repeated; from Abraham he passes to the whole nation. Ends of the earth: either Abraham’s distant country, or God stretching His hand to a mean people while passing by illustrious nations. Not elected because they were more or better (Deuteronomy 7). Not cast off: the gifts of God are without repentance (Romans 11:29). Though He cut off the greatest part on account of unbelief, He reserves some seed of adoption, that the calling may continue.\n\nReformed: election holds a remnant through unbelief; the wickedness of men cannot change it. Shared with Wesley: taken from afar, not cast off. The light of the v. 8 fork continues without a new fight: nation-and-seed, or the reserved seed of adoption."
+    },
+    {
+      "number": 10,
+      "text": "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
+      "arminianNotes": "Fear not, for I am with you; I will strengthen, help, uphold you with my righteous right hand. Wesley has no separate note on this verse; the comfort sits on v. 9’s chosen seed and on v. 13’s “will hold—will enable thee to vanquish all thine enemies.” Fear not is sincere: God is with the people He named His.\n\nShared: I am with you. Match the hub: fear not, I am with you. Do not invent a God who might not show up. Classical Arminians hear real consolation offered to Jacob, not a deity still taking counsel from the coastlands.",
+      "reformedNotes": "Fear not, for I am with thee; I will assist thee with the right hand of my righteousness. Calvin: a solid foundation of confidence. If this is fixed in our minds we stand unshaken; if we think God absent we are tossed by distrust. Righteousness here is the fidelity the Lord manifests in preserving His people. Hence a remarkable consolation: if God has determined to protect His servants, we ought not to have terror; God cannot deny Himself.\n\nReformed: I am with thee is covenant presence, the faithfulness that keeps the elect. Shared with Wesley’s nearby notes: strengthen, help, uphold. The who of “you” was already parted at v. 8; both camps refuse to empty the fear-not."
+    },
+    {
+      "number": 11,
+      "text": "Behold, all who are incensed against you shall be put to shame and confounded; those who strive against you shall be as nothing and shall perish.",
+      "arminianNotes": "All who are incensed against you shall be put to shame and confounded; those who strive against you shall be as nothing and shall perish. Wesley: confounded—because the mischief which they contrived against thee shall fall upon themselves.\n\nEnemies become nothing: the same scale as 40:17. Shared: those who strive are as nothing. Historic foes of Jacob (Assyria, Babylon), not a modern proxy. God rules; the incensed do not.",
+      "reformedNotes": "All who provoke thee shall be ashamed and blush; they shall be as nothing, and they who strive with thee shall perish. Calvin: assistance promised against enemies; salvation on this condition, that we must in the meantime encounter them and maintain contests. He does not promise external peace without war.\n\nReformed: the Church is saved through, not apart from, opposition. Shared with Wesley: shame, nothing, perish. Comfort is that the incensed fall; it is not a claim that Jacob never had foes."
+    },
+    {
+      "number": 12,
+      "text": "You shall seek those who contend with you, but you shall not find them; those who war against you shall be as nothing at all.",
+      "arminianNotes": "You shall seek those who contend with you, but you shall not find them; those who war against you shall be as nothing at all. Wesley has no separate note; his v. 11 still governs: the mischief they contrived falls on themselves, so the contenders vanish.\n\nShared: as nothing at all. The nations of v. 2 that were dust to the sword become unfindable. God, not the idol of v. 7, empties the field.",
+      "reformedNotes": "Thou shalt seek them and shalt not find them; they that war against thee shall be as nothing and as a thing of nought. Calvin: two kinds of enemies—those who attack by open violence, and those who attack by words, slander, curses, and false pretense of justice. Both are Satan’s stratagems; both end as nothing.\n\nReformed: open swords and courtroom lies alike fail. Shared: you will not find them. The nothing of v. 11 is now unfindable nothing."
+    },
+    {
+      "number": 13,
+      "text": "For I, the LORD your God, hold your right hand; it is I who say to you, “Fear not, I am the one who helps you.”",
+      "arminianNotes": "I, the LORD your God, hold your right hand; I say, “Fear not, I am the one who helps you.” Wesley: will hold—will enable thee to vanquish all thine enemies.\n\nThe hand that upholds in v. 10 now holds Jacob’s hand. Shared: Fear not, I help. God is not an idol you must carry; He takes the hand. No extra fight.",
+      "reformedNotes": "I Jehovah thy God, taking hold of thy right hand, and saying, Fear not, I will help thee. Calvin: he repeats the doctrine because it so easily slips. When He calls Himself our God He gives proof of goodness, not power only. Taking hold of the hand, and His voice: we must remain in suspense till the Lord speak, whose voice alone can remove fear. They who will not hear that voice remain in doubt.\n\nReformed: peace of mind is by His saying, not by estimating the odds. Shared with Wesley: He holds, He helps, Fear not. Match the hub: I am with you."
+    },
+    {
+      "number": 14,
+      "text": "Fear not, you worm Jacob, you men of Israel! I am the one who helps you, declares the LORD; your Redeemer is the Holy One of Israel.",
+      "arminianNotes": "Fear not, you worm Jacob, you men of Israel; your Redeemer is the Holy One of Israel. Wesley: thou worm—who art weak in thyself, and trodden under foot by thy proud enemies.\n\nComfort is this: the weak nation is not abandoned. Shared: worm, yet helped; Redeemer, Holy One. The name Holy One of Israel is the same God as v. 4’s first and last. Historic Jacob under proud empires, not a modern headline.",
+      "reformedNotes": "Fear not, thou worm Jacob, ye dead Israel. Calvin, with Jerome, takes methim as dead men: a comparison that agrees with the people’s distress better than high titles while they were in wretchedness. He keeps His eye upon them though mean and despised. Redeemer (or vindicator), the Holy One of Israel: the covenant by which Israel was separated. Whenever we see the Church oppressed by wicked men, God holds those trodden under foot in the highest honor.\n\nReformed: the voice is meant to reach even to the grave; He will be Redeemer of dead men. Shared with Wesley: worm, weak, helped. The light of v. 8 remains—nation under foot, or the Church as dead men God will raise—without a new keyContrast."
+    },
+    {
+      "number": 15,
+      "text": "Behold, I make of you a threshing sledge, new, sharp, and having teeth; you shall thresh the mountains and crush them, and you shall make the hills like chaff;",
+      "arminianNotes": "I make of you a threshing sledge, new, sharp, and having teeth; you shall thresh the mountains and crush them, hills like chaff. Wesley: an instrument such as were usual in those times and places. The mountains—the great and lofty potentates of the world.\n\nWorm Jacob (v. 14) is made the tool. Shared: God makes the sledge; the mountains are historic potentates (Babylon’s height), not a living ruler. Victory is gift, not Jacob’s native teeth.",
+      "reformedNotes": "I have made thee a new sharp threshing instrument having teeth; thou shalt thresh the mountains. Calvin: the Church, nearly crushed, shall crush her enemies and be executioner of God’s vengeance. He does not command us to desire revenge; we are to pity enemies and await the fit season of divine judgment. The metaphor means the wretched destruction of the wicked, whom the Lord will put to flight by the hand of the godly—for comfort, not to inflame bloodshed.\n\nReformed: first lay aside violent emotion; glory will be in the Lord (v. 16), not in cruelty. Shared: mountains beaten small. Historic empires, not a millennial scheme."
+    },
+    {
+      "number": 16,
+      "text": "you shall winnow them, and the wind shall carry them away, and the tempest shall scatter them. And you shall rejoice in the LORD; in the Holy One of Israel you shall glory.",
+      "arminianNotes": "You shall winnow them; wind and tempest scatter them. You shall rejoice in the LORD; in the Holy One of Israel you shall glory. Wesley: fan—when thou hast beaten them as small as chaff. In the Holy One—for to him thou shalt ascribe thy victory.\n\nAscribe, do not pocket. Shared: glory in the Holy One. The God of v. 4 takes the credit the idol of v. 7 cannot earn.",
+      "reformedNotes": "Thou shalt winnow them, and the wind shall carry them away; thou shalt rejoice in Jehovah and glory in the Holy One of Israel. Calvin: the Church compared to a sieve, the wicked to chaff. Believers are bruised for their good; others who will not be subdued are scattered. Apply to the Church what belongs to God: He afflicted the Gentiles for her sake. Rejoice in Jehovah: restrain immoderate exultation; all glory and joy ought to rest on Him.\n\nReformed: wheat versus chaff, and no fleshly swagger. Shared with Wesley: fan them, then glory in the Holy One. Both camps refuse a revenge-gospel."
+    },
+    {
+      "number": 17,
+      "text": "When the poor and needy seek water, and there is none, and their tongue is parched with thirst, I the LORD will answer them; I the God of Israel will not forsake them.",
+      "arminianNotes": "When the poor and needy seek water, and there is none, and their tongue is parched, I the LORD will answer them; I the God of Israel will not forsake them. Wesley has no separate note here; his v. 18 takes the dry land as the people who are like a barren wilderness, whom God will abundantly water with His blessings.\n\nComfort is real thirst met. Shared: I will answer; I will not forsake. Do not invent a God who might fail to hear. The Holy One who named Israel in v. 8 does not abandon the parched.",
+      "reformedNotes": "The needy and poor shall seek water, and there is none; their tongue fails for thirst. I Jehovah will listen; I the God of Israel will not forsake them. Calvin: he prepares them for extreme poverty in Babylon till God render assistance. The promise belongs to those reduced to extremity. It is advantageous to thirst, that we may flee to the Lord; He does not assist every kind of person, but those who pray.\n\nReformed: the Church does not always possess abundance; sometimes she languishes so that she will call. Shared: poor, thirsty, not forsaken. God of Israel is still God of Israel."
+    },
+    {
+      "number": 18,
+      "text": "I will open rivers on the bare heights, and fountains in the midst of the valleys. I will make the wilderness a pool of water, and the dry land springs of water.",
+      "arminianNotes": "Rivers on the bare heights, fountains in the valleys; wilderness a pool, dry land springs. Wesley: in high places—upon the mountains where by the course of nature there are no rivers. The dry land—their people who are like a dry and barren wilderness. I will abundantly water with my blessings.\n\nNature’s map does not bind Him. Shared: water where there was none. Match 40’s measuring God: He opens rivers as easily as He weighed hills.",
+      "reformedNotes": "I will open rivers on lofty mountain tops, fountains in the plain; the wilderness a pool. Calvin: God has no need of outward and natural means for aiding His Church; He has secret methods contrary to all hope. Rivers on mountain tops are contrary to the order of nature; He is not confined to second causes. Fulfilled when He brought His people out of Babylon, and much more abundantly when He converted the world by Christ the Redeemer, from whom flow waters to quench the thirst of poor sinners.\n\nReformed: the desert of the return, and then Christ. Shared christology where Wesley’s “blessings” and Calvin’s Christ both refuse to make the water a human canal. Shared: God waters the waste."
+    },
+    {
+      "number": 19,
+      "text": "I will put in the wilderness the cedar, the acacia, the myrtle, and the olive. I will set in the desert the cypress, the plane and the pine together,",
+      "arminianNotes": "Cedar, acacia, myrtle, olive in the wilderness; cypress, plane, and pine in the desert. Wesley: trees which are both useful and pleasant to the eye, and giving a good shadow to the traveller. What particular trees these Hebrew words signify is not certainly known.\n\nThe point is shade and use in a place that had neither. Shared: God plants what the desert cannot grow. Honest on the Hebrew: Wesley will not pretend a botany he does not have.",
+      "reformedNotes": "I will give in the desert the cedar, myrtle, and pine; in the solitude fir and elm. Calvin: miracles contrary to nature, that we may not limit the power and promises of God to inferior means. The Jews were not to think the vast desert could prevent return; the Lord will supply water and everything necessary. Fulfilled in the bringing out of Babylon, more abundantly when He converted the whole world to Himself by Christ.\n\nReformed: the planted desert is mercy for the road home, then the greater watering. Shared with Wesley: trees in the waste. No millennial diagram required."
+    },
+    {
+      "number": 20,
+      "text": "that they may see and know, may consider and understand together, that the hand of the LORD has done this, the Holy One of Israel has created it.",
+      "arminianNotes": "That they may see and know, consider and understand together, that the hand of the LORD has done this, the Holy One of Israel has created it. Wesley has no separate note; the unit’s point, from his nearby lines, is that victory and water are to be ascribed to the Holy One (v. 16), not to the nailed idol of v. 7.\n\nShared: the hand of the LORD, the Holy One of Israel. God rules; the craftsman’s god did not open rivers. Comfort lands on knowledge: they will know who did it.",
+      "reformedNotes": "Therefore let them see and know, consider and understand together, that the hand of Jehovah hath done this, and the Holy One of Israel hath created it. Calvin: in the restoration of the Church His wonderful power constrains admiration. He repeats the statement because we are sluggish and quickly forget. Visible even to remote Gentiles; the Persians and Medes, after conquering, were astonished when they heard the prophets and beheld the accomplishment. Such things could not be performed by men.\n\nReformed: the hand, not chance, not idols, not Cyrus as a self-made king. Shared with Wesley’s ascribe-the-victory: the Holy One created it. First and last (v. 4) is why v. 20 can be known."
+    }
+  ]
+}

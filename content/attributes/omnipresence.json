@@ -1,0 +1,113 @@
+{
+  "kind": "attribute",
+  "slug": "omnipresence",
+  "title": "Omnipresence",
+  "summary": "God is wholly present everywhere—not spread thin, not locked in a shrine—and both camps confess it; they do not disagree that the Father, the risen Christ, and the Spirit are with the church.",
+  "context": "Omnipresence is God’s immensity meeting the world he made. Jesus tells the Samaritan woman that the hour is coming when worship will not be tied to this mountain or that; he promises to be in the midst of two or three and to be with his disciples to the end of the age. Jacob wakes and says the Lord is in this place. Arminian and Reformed teachers both refuse a local God and a pantheist smear of God into the furniture. The verses still come first. Any fork is pastoral more than confessional: how nearness comforts, convicts, and orders worship—not whether God is here.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the God who is here—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The hour cometh when ye—Both Samaritans and Jews, shall worship neither in this mountain, nor at Jerusalem—As preferable to any other place. True worship shall be no longer confined to any one place or nation. The true worshippers shall worship the Father—Not here or there only, but at all times and in all places.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 4:21, 23)"
+      },
+      {
+        "quote": "God is a Spirit—Not only remote from the body, and all the properties of it, but likewise full of all spiritual perfections, power, wisdom, love, holiness. And our worship should be suitable to his nature.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 4:24)"
+      },
+      {
+        "quote": "After creatures, and places in which creatures are contained, have been granted to have an existence, from this Immensity follows the Omnipresence or Ubiquity of the Essence of God, according to which it is entirely wheresoever any creature or any place is.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§XVI)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "His immensity surely ought to deter us from measuring him by our sense, while his spiritual nature forbids us to indulge in carnal or earthly speculation concerning him. With the same view he frequently represents heaven as his dwelling-place. It is true, indeed, that as he is incomprehensible, he fills the earth also.",
+        "cite": "John Calvin",
+        "source": "Institutes of the Christian Religion 1.13.1"
+      },
+      {
+        "quote": "There is but one only, living, and true God, who is infinite in being and perfection, a most pure spirit, invisible, without body, parts, or passions; immutable, immense, eternal, incomprehensible, almighty.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 2.1"
+      },
+      {
+        "quote": "God is a Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness, and truth.",
+        "cite": "Westminster Shorter Catechism",
+        "source": "Question 4"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley’s Samaritan well is the Arminian pastoral center: worship is no longer confined to a mountain or a city. The Father is to be worshiped at all times and in all places because he is Spirit—not a body in a shrine, and not an empty sky. Arminius’s technical word is ubiquity: the essence is entirely wherever any creature or place is, as a point is wholly present to a whole circumference without being cut into pieces.\n\nMatthew 18 and Matthew 28 are promises, not metaphors that leave the church alone. “I am with you” is the risen Christ, not a mood. Genesis 28’s startled Jacob—“Surely the Lord is in this place, and I did not know it”—is how most of us meet omnipresence: we were already in his presence before we noticed. Ephesians 4 and Colossians 1 keep the doctrine from dissolving God into the world: the one who fills all is also the one who ascended and who holds all things together as Lord, not as stuff.\n\nPastoral Arminian notes use nearness for prayer and for holiness. You cannot outrun him, and you do not have to find a sacred ZIP code to be heard. Both camps confess this. There is no historic Wesley–Calvin fork here about whether God is present; the argument, when it comes, is elsewhere—how grace operates in the heart he already fills.",
+  "reformedNotes": "Calvin’s immensity is a fence against two errors at once: measuring God by our sense, and smearing him into every stick of the world as if the world were God. He fills the earth, and still Scripture speaks of heaven as his dwelling to lift heavy minds. Westminster’s “immense” sits with “without body, parts, or passions”: God is not a large object occupying space the way a mountain does.\n\nReformed nearness is therefore personal and covenantal, not spatial bulk. The God who fills also indwells the church by the Spirit. Matthew 28’s “I am with you always” is Christ’s royal presence with the mission he assigned. Colossians 1’s fullness language is Christological: in him all things hold together; he is not an item among items.\n\nPastoral Reformed notes use omnipresence for both comfort and the fear of the Lord. There is no godless room, and there is no godforsaken saint. The fork with Arminians is not this attribute. If a contrast appears, it is only the larger disagreement about effectual grace in the hearts of those among whom God is already present.",
+  "keyContrast": "Both confess that God is wholly present everywhere and is not confined to temples. There is no historic Arminian–Reformed split on the attribute itself; any remaining difference belongs to how that near God applies saving grace, not to whether he is here.",
+  "scripture": [
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 26,
+      "title": "John 4:1–26",
+      "href": "/bible/john/4/1-26.html",
+      "why": "God is spirit; the hour comes when worship is not tied to this mountain or Jerusalem."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 18,
+      "verseStart": 15,
+      "verseEnd": 20,
+      "title": "Matthew 18:15–20",
+      "href": "/bible/matthew/18/15-20.html",
+      "why": "Where two or three are gathered in my name, there am I among them."
+    },
+    {
+      "book": "Matthew",
+      "bookSlug": "matthew",
+      "chapter": 28,
+      "verseStart": 16,
+      "verseEnd": 20,
+      "title": "Matthew 28:16–20",
+      "href": "/bible/matthew/28/16-20.html",
+      "why": "I am with you always, to the end of the age."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 28,
+      "verseStart": 10,
+      "verseEnd": 22,
+      "title": "Genesis 28:10–22",
+      "href": "/bible/genesis/28/10-22.html",
+      "why": "Surely the Lord is in this place, and I did not know it."
+    },
+    {
+      "book": "Ephesians",
+      "bookSlug": "ephesians",
+      "chapter": 4,
+      "verseStart": 1,
+      "verseEnd": 16,
+      "title": "Ephesians 4:1–16",
+      "href": "/bible/ephesians/4/1-16.html",
+      "why": "He who descended is the one who also ascended, that he might fill all things."
+    },
+    {
+      "book": "Colossians",
+      "bookSlug": "colossians",
+      "chapter": 1,
+      "verseStart": 15,
+      "verseEnd": 23,
+      "title": "Colossians 1:15–23",
+      "href": "/bible/colossians/1/15-23.html",
+      "why": "In him all things hold together; in him all the fullness of God was pleased to dwell."
+    }
+  ]
+}

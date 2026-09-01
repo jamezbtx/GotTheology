@@ -133,7 +133,7 @@ function passageUrl(bookSlug, chapter, verseStart, verseEnd) {
 }
 
 const DOCTRINE_ORDER = ["election", "atonement", "justification", "regeneration", "perseverance"];
-const ATTRIBUTE_ORDER = ["holiness", "love", "sovereignty"];
+const ATTRIBUTE_ORDER = ["holiness", "love", "justice", "mercy", "faithfulness", "omnipotence", "omniscience", "omnipresence", "immutability", "eternity", "sovereignty"];
 const CHIP_SKIP_KEYS = new Set([
   "titus/2/9-10",
   "titus/1/1-4",
@@ -473,7 +473,7 @@ ${voicesHtml}
       <div class="reader">
         <div class="cta-box">
           <p class="eyebrow" style="color: var(--gold-soft);">Keep reading</p>
-          <h2 id="cta-heading">Genesis, Daniel, Matthew, John, Romans, Ephesians, Colossians, 1–2 Timothy, Titus, and 1–3 John are live</h2>
+          <h2 id="cta-heading">Genesis, Isaiah, Daniel, Matthew, John, Romans, Ephesians, Colossians, 1–2 Timothy, Titus, and 1–3 John are live</h2>
           <p>Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
           <a href="/bible/index.html" class="btn btn-gold">Browse the Bible</a>
         </div>

@@ -1,0 +1,71 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 13,
+  "verseStart": 17,
+  "verseEnd": 22,
+  "translation": "ESV",
+  "title": "Isaiah 13:17–22",
+  "context": "The LORD stirs up the Medes against Babylon: they have no regard for silver and do not delight in gold; their bows slaughter the young men, and they have no mercy on the fruit of the womb. Babylon, the glory of kingdoms and the pomp of the Chaldeans, falls like Sodom and Gomorrah when God overthrew them; the site is never inhabited, tents and shepherds gone, wild animals and howling creatures in the houses, ostriches and wild goats, hyenas in the towers and jackals in the palaces; its time is close at hand and its days will not be prolonged.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Medes stirred against Babylon, the glory of kingdoms fallen like Sodom, and a site left to beasts—so each camp speaks in its own voice beside Isaiah 13:17–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Medes—Under whom he comprehends the Persians. Not delight—Which is to be understood comparatively. They shall more eagerly pursue the destruction of the people, than the getting of spoil. Bows—Under which are comprehended, other weapons of war. Dash—Or, shalt pierce the young men through, as the Chaldee renders it. Glory—Which once was the most noble of all the kingdoms. Beauty—The beautiful seat of the Chaldean monarchy shall be totally and irrecoverably destroyed. Inhabited—After the destruction threatened shall be fully accomplished. Arabian—Who dwelt in tents, and wandered from place to place, where they could find pasture. Satyrs—The learned agree, that these are frightful and solitary creatures. Prolonged—Beyond the time appointed by God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Isaiah 13"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Behold I raise up against them the Medes. He certainly could not have conjectured this by human reason. Who shall not think of silver, nor desire gold: he does not mean that the Medes were not guilty of plundering, but that the battle will be cruel and bloody, that they will aim at nothing but a general slaughter. The Lord, though he is not cruel, yet makes use of agents who are so cruel; he acts righteously even by the agency of wicked men. The cruelty of the Medes will be so great that they will not spare even infant children. Babylon, the glory of kingdoms, shall be as when God overthrew Sodom and Gomorrah: utter perdition without any hope of escape. It is God’s overthrowing, that we may not think that it happens by chance. It shall never be inhabited any more; there is no hope of restoring Babylon. The desolation will be so great that neither will the Arabians pitch their tents, nor the shepherds their folds. Her time is near; the Lord hath appointed a day, and none shall be admitted to obtain a truce. Her days shall not be prolonged.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah 13:17–22"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 17,
+      "text": "Behold, I am stirring up the Medes against them, who have no regard for silver and do not delight in gold.",
+      "arminianNotes": "Wesley: Medes—under whom he comprehends the Persians. Not delight—which is to be understood comparatively. They shall more eagerly pursue the destruction of the people than the getting of spoil. Tho’ the Medes had no regard to God, but only to their own ends.\n\nArminian pastoral: God stirs the Medes; they still chase their own campaign. Silver and gold will not buy them off. The warning stood over historic Babylon, and they might have feared. This is Media against Babylon, not a twenty-first-century map.",
+      "reformedNotes": "Calvin: Behold I raise up against them the Medes. He could not have conjectured this by human reason. Who shall not think of silver, nor desire gold: not that they were innocent of plunder, but that the battle will be cruel and bloody, aimed at a general slaughter. The Lord, though he is not cruel, makes use of agents who are so cruel; he acts righteously even by the agency of wicked men.\n\nReformed pastoral: the LORD stirs the Medes. Pagan hunger for slaughter still serves his indignation. The stirring is his decree against historic Babylon, not a newspaper and not a modern state.",
+      "keyContrast": "Both hear God stirring the Medes against historic Babylon, not a modern map. Arminians typically hear Wesley’s “own ends”—comparatively they hunt destruction more than spoil, and still the warning stood. Reformed readers typically hear Calvin’s further word: the LORD raises them; he is not stained by their cruelty, and the battle is his."
+    },
+    {
+      "number": 18,
+      "text": "Their bows will slaughter the young men; they will have no mercy on the fruit of the womb; their eyes will not pity children.",
+      "arminianNotes": "Wesley: bows—under which are comprehended other weapons of war. Dash—or, shalt pierce the young men through, as the Chaldee renders it. No pity on the fruit of the womb; their eyes will not pity children.\n\nArminian pastoral: be honest—this is war-judgment on Babylon’s young. We do not sensationalize it. We do not defend copying the violence. The Medes pursue their own ends; the warning still called the proud to fear. Do not aim this verse at a living people.",
+      "reformedNotes": "Calvin: the cruelty of the Medes will be so great that they will not spare even infant children, on whom men do not commonly lay hands unless where there is the utmost barbarity. The Lord, though he is not cruel, makes use of agents who are so cruel; he acts righteously even by the agency of wicked men, and is not stained with their wickedness.\n\nReformed pastoral: name the horror without relish. God judges historic Babylon; he is not stained by the invaders’ crimes. This is not a permit to imitate them. The LORD stirs the Medes; the slaughter is not a model."
+    },
+    {
+      "number": 19,
+      "text": "And Babylon, the glory of kingdoms, the splendor and pomp of the Chaldeans, will be like Sodom and Gomorrah when God overthrew them.",
+      "arminianNotes": "Wesley: glory—which once was the most noble of all the kingdoms. Beauty—the beautiful seat of the Chaldean monarchy shall be totally and irrecoverably destroyed. Sodom and Gomorrah: God’s overthrow of a historic seat, as he overthrew those cities.\n\nArminian pastoral: Babylon’s pomp falls like Sodom. The comparison is the Lord’s overthrow, not a culture-war speech. The warning stood while the glory still shone; they might have feared.",
+      "reformedNotes": "Calvin: Babylon, the glory of kingdoms, shall be as when God overthrew Sodom and Gomorrah. He says it is God’s overthrowing, that we may not think that it happens by chance. No glory or splendor can hinder God from bringing the wicked to nought. Utter perdition without any hope of escape.\n\nReformed pastoral: the pomp of the Chaldeans falls because God overthrows it. Sodom here is the pattern of his judgment on that reprobate seat, not a headline and not a millennial chart."
+    },
+    {
+      "number": 20,
+      "text": "It will never be inhabited or lived in for all generations; no Arab will pitch his tent there; no shepherds will make their flocks lie down there.",
+      "arminianNotes": "Wesley: inhabited—after the destruction threatened shall be fully accomplished. Arabian—who dwelt in tents, and wandered from place to place where they could find pasture. Follow him: historic desolation of the site, not a forced end-times chart.\n\nArminian pastoral: no Arab pitches a tent; no shepherds make their flocks lie down. The warning stood over a real city. They might have feared while shepherds still could have come. Do not turn “never inhabited” into a decoder for modern maps.",
+      "reformedNotes": "Calvin: it shall never be inhabited any more; there is no hope of restoring Babylon. The desolation will be so great that neither will the Arabians pitch their tents, nor the shepherds their folds. Not only will the buildings be thrown down, but the very soil will be accursed.\n\nReformed pastoral: the site is left empty because he has spoken. Follow Calvin: historic desolation of Babylon’s ground, not a millennial camp fight and not a newspaper."
+    },
+    {
+      "number": 21,
+      "text": "But wild animals will lie down there, and their houses will be full of howling creatures; there ostriches will dwell, and there wild goats will dance.",
+      "arminianNotes": "Wesley: satyrs—the learned agree that these are frightful and solitary creatures. Wild animals lie down; houses fill with howling creatures; ostriches dwell; wild goats dance. The pomp is gone; the site is left to beasts.\n\nArminian pastoral: shared with the other camp: God stirs the Medes; Babylon’s pomp falls like Sodom; the ground is handed to creatures. This is Babylon’s ruin, not a chart of another age. The warning was meant to be heard while palaces still stood.",
+      "reformedNotes": "Calvin: he continues the description of a desert place. The solitude will be so great that the place will be deserted by men. Wild beasts of the desert shall lie there, and their houses shall be full of doleful creatures.\n\nReformed pastoral: beasts occupy what pomp built. The LORD appointed the emptying. Eerie language here is prophetic weight for a political ruin, not a millennial decoder."
+    },
+    {
+      "number": 22,
+      "text": "Hyenas will cry in its towers, and jackals in the pleasant palaces; its time is close at hand and its days will not be prolonged.",
+      "arminianNotes": "Wesley: prolonged—beyond the time appointed by God. Hyenas cry in the towers; jackals in the pleasant palaces: the pleasant is over. The days run out at the bound God set.\n\nArminian pastoral: its time is close at hand. The warning stood; they might have feared while the palaces were still pleasant. Days are not stretched past the appointment—so hear it as a real call, not as a license to decode a modern skyline.",
+      "reformedNotes": "Calvin: her time is near; the Lord hath appointed a day, and none shall be admitted to obtain a truce. Her days shall not be prolonged. The picture is heightened in delightful palaces.\n\nReformed pastoral: the days will not be prolonged because he has appointed the end. Close at hand is his timing, not chance. Jackals in palaces are the decree made visible on Babylon’s site.",
+      "keyContrast": "Both hear that Babylon’s days will not run on. Arminians typically hear Wesley’s bound—“beyond the time appointed by God”—and a warning that still stood while they might have feared. Reformed readers typically hear Calvin’s further word: the Lord has appointed a day; none obtain a truce; the days are not prolonged because he has set the end."
+    }
+  ]
+}

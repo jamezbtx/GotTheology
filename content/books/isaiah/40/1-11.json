@@ -1,0 +1,100 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 40,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "Isaiah 40:1–11",
+  "context": "A new word after judgment: Comfort, comfort my people. Jerusalem’s warfare is ended, iniquity pardoned, double received. A voice in the wilderness prepares the LORD’s way; glory will be revealed, all flesh will see it. All flesh is grass, but the word of our God stands forever. Zion, herald of good news, is told to say to Judah, Behold your God—He comes with might as a shepherd who gathers lambs and gently leads.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on double comfort, a highway in the wilderness, grass that withers, and a God who comes with might yet gathers lambs—so each camp speaks in its own voice beside Isaiah 40:1–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye—ye prophets and ministers. Warfare—the time of her captivity and misery. Double—not twice as much as her sins deserved, but abundantly enough to answer God’s design in this chastisement, which was to humble and reform them. Wilderness—this immediately relates to the deliverance of the Jews out of Babylon, but principally to their redemption by the Messiah, whose coming was ushered in by the cry of John the Baptist. Prepare ye the way—God shall by his Spirit so dispose men’s hearts, and by his providence so order the affairs of the world, as to make way for the accomplishment of his promise. All that men are or have are but like the grass; but God’s word is like himself, immutable and irresistible. His arm—he shall need no succours, for his own power shall be sufficient.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 40:1–10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Comfort ye. Leaving the people on whom no favorable impression was made, he turns to posterity, that the people who shall be humbled under the cross may experience consolation. To believers only is this discourse strictly directed; he silently permits unbelievers, through constant languishment, to be utterly wasted. Speak ye according to the heart of Jerusalem: nothing could be more agreeable than a reconciliation which should blot out all offenses. Double denotes large and abundant; God is unwilling to inflict more severe punishment, through his fatherly kindness. The word of our God shall stand for ever. He shall feed his flock like a shepherd: he undertakes to protect his Church; he will be a shepherd to none but to those who, in modesty and gentleness, shall imitate the sheep and lambs.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 40:1–2, 8, 11)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Comfort, comfort my people, says your God.",
+      "arminianNotes": "Comfort, comfort my people, says your God. Wesley: ye prophets and ministers. The doubled verb is real consolation, not a feint. After the book’s judgments, God still calls them my people and your God.\n\nDo not invent open theism here. The God who comforts is the God who will order wilderness and word in the verses that follow. Classical Arminians hear sincere comfort offered to the chastened people, meant to humble and reform (v. 2), not a God who cannot keep a promise. Shared: the comfort is from God, doubled, spoken.",
+      "reformedNotes": "Comfort ye, comfort ye my people. Calvin: he turns to posterity, that the humbled under the cross may not faint. The future tense points past a melancholy silence to prophets God will raise. To believers only is this discourse strictly directed; he silently permits unbelievers to be wasted.\n\nReformed hinge: my people is the covenant people God has not forgotten, comforted as those who hope in Him. Shared: doubled comfort is real. The fork is whether “my people” here is Jerusalem as such, or, with Calvin, strictly the godly remnant while the rest languish.",
+      "keyContrast": "Arminian readings, with Wesley, take “comfort my people” as sincere consolation to the chastened nation God still names His—prophets and ministers sent to humble and reform. Reformed readings, with Calvin, take the same doubled comfort as directed strictly to believers among that people: God has not forgotten His elect; unbelievers He silently permits to be wasted."
+    },
+    {
+      "number": 2,
+      "text": "Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned, that she has received from the LORD’s hand double for all her sins.",
+      "arminianNotes": "Speak tenderly to Jerusalem: warfare ended, iniquity pardoned, double received from the LORD’s hand. Wesley: warfare is the time of captivity and misery. Double is not twice what her sins deserved, but abundantly enough to humble and reform them and to warn others.\n\nPardon comes with the end of the war. God designed the chastisement; He also ends it. Comfort is not denial of sin; it is iniquity lifted after enough discipline. Shared: Jerusalem is addressed by name, in the heart, with a cry.",
+      "reformedNotes": "Speak to the heart of Jerusalem: her warfare accomplished, iniquity pardoned, double received. Calvin: to speak to the heart is to speak according to the wish of the mind; nothing more agreeable than reconciliation blotting out offenses. Double is large and abundant; God is unwilling to exact more, through fatherly kindness—not that punishment equaled or exceeded the sin.\n\nReformed: pardon is why the warfare ends; God is appeased and will not impute. Shared with Wesley: double is mercy’s measure of enough, not cruelty. The cry is public, that grace may be heard."
+    },
+    {
+      "number": 3,
+      "text": "A voice cries: “In the wilderness prepare the way of the LORD; make straight in the desert a highway for our God.",
+      "arminianNotes": "A voice cries in the wilderness: prepare the LORD’s way, a highway for our God. Wesley: abrupt speech—methinks I hear a voice. It relates immediately to the Jews’ passage from Babylon through a wilderness, but principally to redemption by the Messiah, ushered in by John the Baptist. God shall by His Spirit so dispose men’s hearts, and by His providence so order the world’s affairs, as to make way for the promise. Eminently fulfilled when Christ, who was and is God, came visibly.\n\nPrepare is God’s work in hearts and history, not a hint that He does not know the road. Shared: the voice is for our God. The highway is for Him, which is comfort for the people.",
+      "reformedNotes": "A voice crying in the wilderness: prepare the way of Jehovah. Calvin: the wilderness shall not hinder consolation. The voice is addressed even to Cyrus, Persians, Medes—alienated men constrained to deliver the people. A highway for our God: He applies to Himself what relates to His people’s salvation; we are so united to Him that what is done on our account He reckons done to Himself.\n\nReformed: God cleaves a path through impassable tracts and employs irreligious men as hired servants. Shared: wilderness is no match for the LORD. Evangelists justly hear John here as herald of the greater redemption."
+    },
+    {
+      "number": 4,
+      "text": "Every valley shall be lifted up, and every mountain and hill be made low; the uneven ground shall become level, and the rough places a plain.",
+      "arminianNotes": "Valleys up, mountains down, crooked straight, rough places a plain. The geography of the wilderness becomes a road because God said so.\n\nWesley’s prepare-the-way still governs: Spirit and providence level what blocks the promise. Shared: no obstacle is final when the LORD comes. This is omnipotence serving comfort, not a puzzle God is solving as He goes.",
+      "reformedNotes": "Every valley exalted, every mountain laid low. Calvin: no difficulties can prevent the Lord from delivering His Church. Mountains and hills are obstructions of every kind—Satan’s hindrances, lusts, confidence, impatience—and the Lord will break them all down.\n\nReformed: when He stretches out His hand, nothing restrains Him. Shared: the road is made because He makes it. Sovereignty here is the reason comfort is not a wish."
+    },
+    {
+      "number": 5,
+      "text": "And the glory of the LORD shall be revealed, and all flesh shall see it together, for the mouth of the LORD has spoken.”",
+      "arminianNotes": "The glory of the LORD shall be revealed; all flesh shall see it together, for the mouth of the LORD has spoken. The certainty is the spoken mouth, matching v. 8’s standing word.\n\nAll flesh seeing together is the publicness of the comfort: not a private rumor. Shared christology waits in the gospel use of this voice; here the point is that God has spoken, so the glory will be seen. Do not invent a God who speaks and then learns whether flesh will look.",
+      "reformedNotes": "Glory revealed; all flesh shall see together, because the mouth of Jehovah has spoken. Calvin: this work of redemption will be splendid; He will display His majesty in protecting His Church. All flesh: no nations that do not see the return as a heavenly work.\n\nReformed: He joins doctrine with experience—the word first, then the accomplishment as seal. Shared: the mouth of the LORD is why sight will happen. Unbelief is censured until the fact constrains it."
+    },
+    {
+      "number": 6,
+      "text": "A voice says, “Cry!” And I said, “What shall I cry?” All flesh is grass, and all its beauty is like the flower of the field.",
+      "arminianNotes": "A voice says, Cry; the prophet asks, What shall I cry? All flesh is grass; its beauty like the flower of the field. Wesley: God speaks to His ministers. Having foretold glorious things, he confirms them by the difference between men and God. All that men are or have, their highest accomplishments, are grass—weak, vanishing, soon nipped.\n\nHuman goodliness is not a rival to the promise. Shared: flesh is grass. That is why the comfort must be God’s word, not Judah’s stamina.",
+      "reformedNotes": "Cry—what shall I cry? All flesh is grass, all its grace as the flower. Calvin: not merely the frailty of life, but all the excellence men think they possess—prudence, courage, judgment—reduced to a flower. Man with his faculties is wholly compared to a flower.\n\nReformed: this is how hearers are prepared for consolation—convinced they are nothing, that they may fly to the word. Shared with Wesley: the contrast is man versus God’s speech, not a denial of the coming glory."
+    },
+    {
+      "number": 7,
+      "text": "The grass withers, the flower fades when the breath of the LORD blows on it; surely the people are grass.",
+      "arminianNotes": "Grass withers, flower fades, when the breath of the LORD blows; surely the people are grass. The same LORD whose mouth has spoken (v. 5) blows, and people wither.\n\nOmnipotence is not cruelty here; it is why Babylon and Judah alike cannot be the ground of hope. Shared: the people—even this people—are grass. Comfort will have to come from what does not fade.",
+      "reformedNotes": "The Spirit of Jehovah blows; the people is grass. Calvin: as soon as the Spirit of God blows, men feel they are nothing. He addresses this people expressly, that they may not claim anything above others.\n\nReformed: hardness must be softened, haughtiness laid low, before consolation can be received with advantage. Shared: the breath that withers is the LORD’s. That is sovereignty serving the next verse’s forever-word."
+    },
+    {
+      "number": 8,
+      "text": "The grass withers, the flower fades, but the word of our God will stand forever.",
+      "arminianNotes": "Grass withers; the word of our God will stand forever. Wesley: God’s word is like Himself, immutable and irresistible; as the mouth of the LORD has spoken these things, doubt not they shall be fulfilled.\n\nEternity of the word is the hub this block feeds. Do not invent an Arminian God whose word waits on creaturely consent to become sure. Shared: forever is like God. The comfort of vv. 1–2 stands because this word stands.",
+      "reformedNotes": "The word of our God shall stand forever. Calvin: after casting down His people He immediately raises them; the whole gospel in few words—misery acknowledged, then the eternal word. The word is eternal not merely in itself but in us; life is prepared for the dead who come thirsting to the fountain.\n\nReformed: nothing firm on earth; consolation only from the God who is eternal. Shared with Wesley: immutable word, therefore the promise of comfort and highway and shepherd will be done. 1 Peter 1 will preach this verse as the gospel seed."
+    },
+    {
+      "number": 9,
+      "text": "Go on up to a high mountain, O Zion, herald of good news; lift up your voice with strength, O Jerusalem, herald of good news; lift it up, fear not; say to the cities of Judah, “Behold your God!”",
+      "arminianNotes": "Zion, herald of good news, up the high mountain; Jerusalem, lift the voice, fear not; say to Judah’s cities, Behold your God. Wesley: Zion or Jerusalem is the publisher, the cities of Judah the hearers. Afraid—lest thou shouldest be found a false prophet. Behold—take notice of this wonderful work and glorious appearance of your God.\n\nThe good news is God Himself appearing. Shared: fear not is because the word stands (v. 8). Herald is the church’s office: say Behold your God, not behold your grass.",
+      "reformedNotes": "Ascend the high mountain, herald Zion; lift the voice, herald Jerusalem; fear not; say, Behold your God. Calvin: consolation more widely spread; the Church must not keep knowledge hidden. An assembly without heavenly doctrine does not deserve the name Church. Behold your God includes the sum of our happiness, which consists solely in His presence.\n\nReformed: nothing is more opposite to faith than to estimate by present appearances what God declares by prophets. Shared: the herald’s sentence is God, not Judah’s odds. Boldness because the Author cannot lie."
+    },
+    {
+      "number": 10,
+      "text": "Behold, the Lord GOD comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.",
+      "arminianNotes": "The Lord GOD comes with might; His arm rules for Him; reward with Him, recompense before Him. Wesley: His arm—He shall need no succours; His own power is sufficient to govern His people and destroy adversaries. Reward—recompences of blessing for friends and vengeance for enemies. Work before Him—He carries on His work effectually.\n\nOmnipotence and rule: God is not an idol who must be carried. Shared: He comes. Comfort is this coming, strong enough for enemies, enough for the flock of v. 11.",
+      "reformedNotes": "The Lord Jehovah will come with strength; His arm powerful to Him. Calvin: God is sufficient for Himself and does not need anyone’s assistance. Reward is not merit but the justice by which He testifies He is a rewarder of those who call on Him; He will not come unemployed.\n\nReformed: He comes to display power and make us feel it. Shared with Wesley: the arm is His, the work is before His face. Sovereignty here is the arriving God of v. 9, not a distant clockmaker."
+    },
+    {
+      "number": 11,
+      "text": "He will tend his flock like a shepherd; he will gather the lambs in his arm; he will carry them in his bosom, and gently lead those that are with young.",
+      "arminianNotes": "He will tend His flock like a shepherd: gather lambs in His arm, carry them in His bosom, gently lead those with young. The same arm that rules (v. 10) now gathers.\n\nComfort is this tenderness. Shared: God is shepherd, not idol. Classical Arminians hear a real flock being gathered and led—lambs and the weak included. The might of v. 10 is not the opposite of gentleness; it is why the lambs can be carried. No extra fight: both camps glory in the shepherd.",
+      "reformedNotes": "He shall feed His flock like a shepherd; gather lambs with His arm, carry them in His bosom, gently lead those with young. Calvin: He has determined to protect His Church; He ascribes a more amiable character that believers may sweetly repose. He will be a shepherd to none but those who, in modesty and gentleness, shall imitate the sheep and lambs. Lay aside fierceness if you wish to be gathered into the fold.\n\nReformed: wonderful condescension—He watches, handles, and leads according to weakness. Shared with Wesley: the flock is fed, lambs gathered, the weak led. The light fork, if any, is Calvin’s insistence that the flock is the Church of the meek, not every fierce soul claiming the comfort of v. 1."
+    }
+  ]
+}

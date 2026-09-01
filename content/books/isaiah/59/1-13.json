@@ -1,0 +1,112 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 59,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Isaiah 59:1–13",
+  "context": "The Lord’s hand is not too short to save, nor his ear too dull to hear. Iniquity has made the separation: bloodied hands, lying lips, adder eggs, crooked roads with no peace. The people then confess: we grope like the blind, hope for justice and find none, because our transgressions are multiplied and we know our iniquities.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a hand not shortened, sins that hide God’s face, and a people who at last know their iniquities—so each camp speaks in its own voice beside Isaiah 59:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "None seek to redress these wrongs… they conceive mischief, and bring forth iniquity. Justice—Judgment… is here taken for deliverance. God doth not defend our right… because of these outrages. Transgressions—sins of an high nature… rebellious sins… they are acted before thee, and multiplied against thee… We know—We are convinced of them. Lying—they broke their solemn engagement to God upon mount Sinai.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 59:4, 9, 12–13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Behold, the hand of Jehovah is not shortened… he is not unlike himself… But your iniquities have made a separation… our sins alone deprive us of the grace of God. Therefore is judgment far from us… we ought not to blame God… since in so many ways they had insulted his majesty. For our iniquities are multiplied before thee… the testimony of conscience binds and holds them fast.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 59:1–2, 9, 12)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Behold, the Lord's hand is not shortened, that it cannot save,\nor his ear dull, that it cannot hear;",
+      "arminianNotes": "The first word is Behold: look here, not at a weak God. Hand and ear are whole. Salvation is not stalled by divine inability.\n\nArminian pastoral: the same Lord who answered “Here I am” to a true fast (58:9) has not gone deaf. If he does not save, the cause is not a shortened arm. The verse still invites a people to come; the next verse will name what blocks the coming.",
+      "reformedNotes": "Calvin: hypocrites accuse God of weakness or excessive severity. He shows he does not want power or will to save, but is prevented by their wickedness. Behold is emphatic, as if pointing with the finger. Supply the contrasts: his hand was never broken, his ear never grown dull.\n\nReformed accent: God is always like himself, not wearied in doing good, power not diminished. We hinder the entrance of his grace. The slander belongs on our side of the line."
+    },
+    {
+      "number": 2,
+      "text": "but your iniquities have made a separation\nbetween you and your God,\nand your sins have hidden his face from you\nso that he does not hear.",
+      "arminianNotes": "Separation is made; it is not original distance of a God who never cared. Iniquities have done what a dull ear did not. Hidden face is the effect of sins still present.\n\nClassical Arminians: the wall can be named and, under grace, confessed (vv. 12–13). God is not the one who moved house. A people who stop hiding their sins may find the face no longer hidden. The verse is diagnosis meant to be used.",
+      "reformedNotes": "Calvin: they cannot say God has changed. The whole blame lies with themselves; they refuse to receive his assistance. Our sins alone deprive us of grace and cause separation. Sometimes frowardness grows so as to shut the door against benefits, as if driving him far away.\n\nReformed nuance: he always does good to the unworthy, yet he does not listen to the prayers of the wicked. The prophet accuses the people of rejecting benefits and making a divorce that turns aside the ordinary course of grace."
+    },
+    {
+      "number": 3,
+      "text": "For your hands are defiled with blood\nand your fingers with iniquity;\nyour lips have spoken lies;\nyour tongue mutters wickedness.",
+      "arminianNotes": "Wesley: perverse words are contrary to God’s word, every way contrary to his will. Hands, fingers, lips, tongue—four witnesses, no spare part.\n\nArminian particularity: blood here is historic violence and extortion in Judah, not a modern headline. The list can still be dropped. Lying lips are chosen speech; muttering can stop. Grace that commands a true fast (58:6–7) now names why the fast failed.",
+      "reformedNotes": "Calvin brings forward actions so they cannot evade. He speaks in the second person as God’s advocate, not ranking himself with the wicked. Blood does not mean murders everywhere, but cruelty, extortion, violence against the poor by king and nobles. Fingers say not even the smallest part is free from unjust violence.\n\nReformed descent: from hands to lips—falsehood, perjury, craft. Second-table crimes prove contempt of God. Cruelty and treachery proceed from that contempt."
+    },
+    {
+      "number": 4,
+      "text": "No one enters suit justly;\nno one goes to law honestly;\nthey rely on empty pleas, they speak lies,\nthey conceive mischief and give birth to iniquity.",
+      "arminianNotes": "Wesley: none seek to redress these wrongs; rapines and frauds with impunity. Conceiving and bringing forth denote the whole contrivance and perfecting of wickedness.\n\nArminian courts: this is Isaiah’s legal square, not ours. Empty pleas are a chosen craft. Conceiving mischief is a pregnancy they can still refuse to carry to term. Redress was possible; silence consented.",
+      "reformedNotes": "Calvin: no study of what is right; no one opposes injustice of the strong against the weak. Whoever permits what he can hinder does in some sense command it; silence is a sort of consent. Extreme confusion when no one rises for justice.\n\nReformed birth: they heap perverse reliances and harden themselves. Wickedness conceived inwardly is brought forth when occasions appear. They prepare crimes by long meditation. Paul will later quote the next lines as a mirror of nature without the Spirit (Rom 3:15–17)."
+    },
+    {
+      "number": 5,
+      "text": "They hatch adders' eggs;\nthey weave the spider's web;\nhe who eats their eggs dies,\nand from one that is crushed a viper is hatched.",
+      "arminianNotes": "Wesley: cockatrice eggs—venomous designs put in practice. Web—plots that weave nets with pains and artifice, yet come to nothing, as a spider’s web is swept away.\n\nArminian proverb: hatching is work. The eggs are not assigned in the womb of the sky; they are warmed on purpose. Crushing one only yields a viper—the whole nest is poison. Better not to hatch.",
+      "reformedNotes": "Calvin: not only women but venomous beasts, so that everything from them is deadly. As a viper cannot lay an egg that is not venomous, they throw out nothing but poison. Spider webs: barren of anything good, they deceive even by the appearance of virtues.\n\nReformed double mark: works manifest corrupt nature, and they contribute nothing toward kindness or faith. Whoever has to do with them will find them destructive."
+    },
+    {
+      "number": 6,
+      "text": "Their webs will not serve as clothing;\nmen will not cover themselves with what they make.\nTheir works are works of iniquity,\nand deeds of violence are in their hands.",
+      "arminianNotes": "Wesley: their contrivances shall not be able to cover or defend them. Webs fail as garments; violence stays in the hands.\n\nArminian exposure: the cover they wove will not hide them from the God whose face their sins already hid (v. 2). Works of iniquity remain works. A people can still strip the web and take the true fast’s covering (58:7).",
+      "reformedNotes": "Calvin repeats: everything they attempt is useless to mankind; they shrink from kindness. Abandoned minds devote themselves to evil so that no advantage can be expected. We were born to assist neighbors; those only skillful to do mischief are savage beasts, not to be called men.\n\nReformed clothing: no man will cover himself with their works; in their texture nothing solid. They are devoted to iniquity. Violence is in the hands—the same hands already defiled with blood."
+    },
+    {
+      "number": 7,
+      "text": "Their feet run to evil,\nand they are swift to shed innocent blood;\ntheir thoughts are thoughts of iniquity;\ndesolation and destruction are in their highways.",
+      "arminianNotes": "Wesley: they meditate on little else. In what way or work soever they are engaged, it tends to ruin. Feet, thoughts, highways—motion, mind, and map.\n\nArminian speed: running is eagerness, not fate. Innocent blood is historic Judah’s violence. Paul cites this in Romans 3 to show the world under sin; Isaiah first aimed it at a covenant people who could still stop running.",
+      "reformedNotes": "Calvin: extreme wickedness—fear of God shaken off, every cruelty and outrage. They run because they hasten with excessive keenness. Hands, tongues, now feet: no part of the body free from crime. Wasting and destruction wherever they go, like wild beasts that devour and leave nothing.\n\nReformed paths: Pliny said Domitian’s arrival was a savage beast; so violent men drive others from the road. Paul justly quotes this of all who are under their own nature (Rom 3:15–17)."
+    },
+    {
+      "number": 8,
+      "text": "The way of peace they do not know,\nand there is no justice in their paths;\nthey have made their roads crooked;\nno one who treads on them knows peace.",
+      "arminianNotes": "Wesley: they live in continual contentions. No justice, equity, faith, or integrity. Crooked roads are made, not merely found.\n\nArminian peace: 57:21 already said there is no peace for the wicked; here they manufacture the crookedness. Knowing the way of peace remains a real possibility under grace—the true fast loosed yokes (58:6). Treading their road is a choice with a stated end: no peace.",
+      "reformedNotes": "Calvin summons them to judgment by the second table: no sincerity, no kindness, without natural affection. Cruelty deprives them of the justice by which society is maintained. If every person rush on his neighbors, there is open war.\n\nReformed use: Isaiah addresses Jews who thought themselves holier; Gentiles are included. He speaks of all not renewed by the Spirit. Paul quotes it to show what men are whom God has forsaken. The prophet excepts himself as regenerated; viewed in nature, no man is excepted."
+    },
+    {
+      "number": 9,
+      "text": "Therefore justice is far from us,\nand righteousness does not overtake us;\nwe hope for light, and behold, darkness,\nand for brightness, but we walk in gloom.",
+      "arminianNotes": "Wesley: justice here is deliverance. God doth not defend our right nor revenge our wrong because of these outrages. The therefore is moral, not mechanical.\n\nArminian turn: the voice shifts to we. Hope for light is not mocked as impossible; darkness is what their violence purchased. A people who hoped can still name why the dawn of 58:8 did not break. Gloom is the harvest of refused justice.",
+      "reformedNotes": "Calvin: after painting depravity, he shows severe chastisements are richly deserved. Judgment far off: they were the most wretched, without God as protector. Justice: God defending and revenging injuries. Therefore: do not blame God as if he acted unjustly; they had insulted his majesty in many ways.\n\nReformed light: vain to expect the condition changed for the better until they ascribe calamities to themselves. He always endeavors to bring his people to repentance. Darkness sits down when they promised themselves alleviation."
+    },
+    {
+      "number": 10,
+      "text": "We grope for the wall like the blind;\nwe grope like those who have no eyes;\nwe stumble at noon as in the twilight,\namong those in full vigor we are like dead men.",
+      "arminianNotes": "Wesley: he compares their captivity to men dead without hope of recovery. Noon-stumble is judgment in broad daylight.\n\nArminian lament: grope is what a people does when they will not see. Eyes were not stolen in the night; 56:10 already named blind watchmen. The confession can become sight if they keep talking through v. 13 instead of stopping at the groan.",
+      "reformedNotes": "Calvin: they are destitute of counsel, overwhelmed by anguish, no solace. When lighter evil presses we look around; heavier distress takes ability to judge. A labyrinth: groping. Various stumbling-blocks if they stir a foot. Solitary places as dead men—a wilderness, shut out from society, resembling the dead.\n\nReformed noon: no alleviation; day changed into night. The tokens of anger do not always awaken; the devil stupifies complainers. Isaiah describes calamity so they will consider the cause."
+    },
+    {
+      "number": 11,
+      "text": "We all growl like bears;\nwe moan and moan like doves;\nwe hope for justice, but there is none;\nfor salvation, but it is far from us.",
+      "arminianNotes": "Wesley: oppressing governors made the wicked roar like bears, and the good mourn like doves. Hope for salvation is still on their lips; it is far because of what vv. 12–13 will admit.\n\nArminian double sound: growl and moan are not yet repentance, but they are not silence. Justice and salvation were the right things to hope. Far is a measured word—58:8–9 had promised nearness if the yoke came off.",
+      "reformedNotes": "Calvin: two classes who cannot silently endure—some howl fiercely, others moan like doves (as Hezekiah, 38:14). Both without avail; condition not better. He repeats: in vain they looked for judgment and salvation. It is by our own fault that we are wretched and waste away till converted to God.\n\nReformed close of hope: we may moan and howl, but no alleviation without repentance. No end of afflictions so long as we provoke wrath and do not desire with the whole heart to be reconciled."
+    },
+    {
+      "number": 12,
+      "text": "For our transgressions are multiplied before you,\nand our sins testify against us;\nfor our transgressions are with us,\nand we know our iniquities:",
+      "arminianNotes": "Wesley: transgressions of a high nature, much of man’s will against light—rebellious sins. Multiplied against thee, so thou art justly provoked to deny help. Testify as witnesses. Are with us—still unforgiven. We know—we are convinced of them.\n\nClassical Arminians treasure this we know. Conviction is a real, grace-enabled seeing. Sins that testify can still be confessed rather than carried. The knowledge is not yet healing (57:18), but it is the door the hidden face (v. 2) was waiting on.",
+      "reformedNotes": "Calvin: they act unjustly in accusing God of cruelty. The huge mass of iniquities towers to heaven. Before thee: he descends into himself and acknowledges the righteous judgment hidden from men who flatter themselves. God does not need many proofs; our sins hold us convicted.\n\nReformed with us: men assume shapes to appear righteous; they carry iniquities they cannot extricate, as sin kept watch at Cain’s door. “We know” is not yet a heart affected unto repentance, but conscience that binds them so that caviling is vain. Isaiah speaks in the first person as one of a diseased body."
+    },
+    {
+      "number": 13,
+      "text": "transgressing, and denying the Lord,\nand turning back from following our God,\nspeaking oppression and revolt,\nconceiving and uttering from the heart lying words.",
+      "arminianNotes": "Wesley: lying and transgressing are one—they broke the Sinai engagement. Departing—turning from God to idols. Speaking—talking of little else but how to oppress neighbors and apostatize. Uttering—contriving in the heart, then speaking. From the heart with men; with God, often only from the lip.\n\nArminian inventory: the list is theirs to own. Turning back is a direction that can still reverse. Heart-lies named are the opposite of the true fast’s poured-out soul (58:10). Next, 59:14–21 will show the Lord himself putting on righteousness when no intercessor is found.",
+      "reformedNotes": "Calvin enumerates classes of sins to arouse acknowledgment. Hardened by stripes, they still murmur. “Lied to Jehovah” is treacherous revolt, not a few faults—universal, like fugitives. They invent mischief and are imbued with falsehood; to utter a lie from the heart is worse than thoughtless deceit.\n\nReformed pastoral: such reproofs offend the proud who imagine they are holy. Pastors, seeing the Church corrupt, must make strenuous opposition. The confession of vv. 9–13 is the prophet’s way of bringing a puffed people low so they cease to find fault with God—and so that, in the next range, mercy may be promised without despair.",
+      "keyContrast": "Both locate the silence of heaven in human guilt, not a shortened hand. Arminians typically stress that knowing iniquity is a grace-enabled confession that can still turn from revolt; Reformed readers typically stress that sins themselves testify, conscience convicts, and only God can later bring the arm of salvation (vv. 16–20) to a people who have no intercessor."
+    }
+  ]
+}

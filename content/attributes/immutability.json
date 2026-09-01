@@ -1,0 +1,113 @@
+{
+  "kind": "attribute",
+  "slug": "immutability",
+  "title": "Immutability",
+  "summary": "God does not change in being or character—both camps confess it, and both read “relented” texts as a change of dealing, not a mutable essence; prayer is not wasted.",
+  "context": "Immutability is God’s sameness. He remains faithful; he cannot deny himself; the gifts and calling of God are irrevocable; he is light without darkness. Genesis 6’s “it grieved him” is in the same Bible. Arminian and Reformed teachers both refuse a God who grows, learns, or improves, and both refuse a frozen God who cannot answer prayer. They handle relenting language the same way in substance: anthropomorphism and a real change of treatment, not a change of essence. The verses still come first.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the unchanging God—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "These are expressions after the manner of men, and must be understood so as not to reflect upon God’s immutability or felicity. It doth not speak any passion or uneasiness in God, nothing can create disturbance to the eternal mind; but it speaks his just and holy displeasure against sin and sinners: neither doth it speak any change of God’s mind; for with him there is no variableness; but it speaks a change of his way… so that the change was in man, not in God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Gen 6:6)"
+      },
+      {
+        "quote": "Immutability is a pre-eminent mode of the Essence of God, by which it is void of all change; of being transferred from place to place… of generation and corruption; of alteration; of increase and decrease.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§XVIII)"
+      },
+      {
+        "quote": "If we believe not—That is, though some believe not, God will make good all his promises to them that do believe. He cannot deny himself—His word cannot fail.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 2:13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The repentance which is here ascribed to God does not properly belong to him, but has reference to our understanding of him. For since we cannot comprehend him as he is, it is necessary that, for our sakes he should, in a certain sense, transform himself. That repentance cannot take place in God, easily appears from this single consideration, that nothing happens which is by him unexpected or unforeseen.",
+        "cite": "John Calvin",
+        "source": "Commentary on Genesis (on Gen 6:6)"
+      },
+      {
+        "quote": "There is but one only, living, and true God, who is infinite in being and perfection, a most pure spirit, invisible, without body, parts, or passions; immutable, immense, eternal, incomprehensible, almighty… working all things according to the counsel of his own immutable and most righteous will.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 2.1"
+      },
+      {
+        "quote": "If we are unbelieving, he remaineth faithful… “Let them desert Christ who will, yet they take nothing from him; for when they perish, he remaineth unchanged.” He cannot deny himself. “Christ is not like us, to swerve from his truth.” … our faith is founded on the eternal and unchangeable truth of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 2:13)"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley and Arminius sound like the Reformed on Genesis 6. “It repented the Lord” is after the manner of men. It does not disturb the eternal mind or rewrite God’s purpose. It speaks a change of his way because man had changed. Immutability, for Arminius, is a mode of the essence: no alteration, no increase, no decrease. 2 Timothy 2:13 is the pastoral sentence: he cannot deny himself; his word cannot fail.\n\nPrayer is not wasted on an unchanging God. The sameness is the reason prayer has a place: the Father who invited yesterday still invites today. Conditional warnings and promises are not God experimenting; they are the stable holy will meeting changing creatures. Titus 1’s God who never lies is the same God who appointed a gospel “before the ages began.”\n\nPastoral Arminian notes refuse two caricatures: a God who is still becoming, and a God so fixed that repentance and petition cannot meet a real answer. The fork with the Reformed, if any, is not whether God changes in essence. It is whether an unchanging counsel includes a resistible mode of grace, or whether immutability is recruited to make every outcome necessary.",
+  "reformedNotes": "Calvin’s Genesis 6 is the classic Reformed handling: repentance cannot belong to God properly, because nothing is unforeseen. The Spirit accommodates himself to our capacity so that we feel how God hates sin. Westminster puts “immutable” next to “without passions” and then says he works by an immutable will. Calvin on 2 Timothy 2:13 turns the same attribute against apostasy: Christ does not swerve; deserters take nothing from him.\n\nRomans 11’s irrevocable gifts sit with 1 John’s God who is light. Unchangeable holiness is why sin is still sin; unchangeable mercy is why the gospel does not expire. Prayer, on this reading, is itself inside the immutable counsel—second causes established, not bypassed. God does not change his mind because we informed him of something he missed.\n\nPastoral Reformed notes use immutability for sleep in a world of moods. The God you trusted in the dark is the same God in the morning. They also warn against a stoic freeze: the confession is not that God is inert, but that he is faithful. The fork with Arminians is not Genesis 6. It is whether that unchanging will has already determined who will finally believe.",
+  "keyContrast": "Both confess that God does not change in being or character, and both read relenting texts as a change of dealing rather than a mutable essence. Prayer is not wasted. Any remaining fork is whether an unchanging counsel includes resistible grace, not whether God is still becoming.",
+  "scripture": [
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 11,
+      "verseStart": 25,
+      "verseEnd": 36,
+      "title": "Romans 11:25–36",
+      "href": "/bible/romans/11/25-36.html",
+      "why": "The gifts and the calling of God are irrevocable."
+    },
+    {
+      "book": "2 Timothy",
+      "bookSlug": "2-timothy",
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 13,
+      "title": "2 Timothy 2:8–13",
+      "href": "/bible/2-timothy/2/8-13.html",
+      "why": "If we are faithless, he remains faithful—for he cannot deny himself."
+    },
+    {
+      "book": "Titus",
+      "bookSlug": "titus",
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4,
+      "title": "Titus 1:1–4",
+      "href": "/bible/titus/1/1-4.html",
+      "why": "God, who never lies, promised before the ages began."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 8,
+      "title": "Genesis 6:1–8",
+      "href": "/bible/genesis/6/1-8.html",
+      "why": "The Lord regretted that he had made man—language both camps read without a mutable essence."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 10,
+      "title": "1 John 1:5–10",
+      "href": "/bible/1-john/1/5-10.html",
+      "why": "God is light, and in him is no darkness at all—he is faithful and just to forgive."
+    },
+    {
+      "book": "2 Timothy",
+      "bookSlug": "2-timothy",
+      "chapter": 1,
+      "verseStart": 8,
+      "verseEnd": 14,
+      "title": "2 Timothy 1:8–14",
+      "href": "/bible/2-timothy/1/8-14.html",
+      "why": "Grace given in Christ Jesus before the ages began—an unchanging purpose."
+    }
+  ]
+}

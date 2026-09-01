@@ -1,0 +1,123 @@
+{
+  "kind": "attribute",
+  "slug": "eternity",
+  "title": "Eternity",
+  "summary": "God is without beginning or end—the King of the ages—and both camps confess it; they do not disagree that the Word was in the beginning, or that immortality belongs to God.",
+  "context": "Eternity is not merely a long time. Paul blesses the King of the ages, immortal and invisible; he speaks of the blessed and only Sovereign who alone has immortality; John opens with the Word who was in the beginning; Genesis opens with God already there when time starts. Nebuchadnezzar learns that God’s dominion is everlasting. Arminian and Reformed teachers both refuse a God who came to be, and both refuse to treat “eternal” as a mood. The verses still come first. Any fork is almost none on the attribute itself.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the everlasting God—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Eternity is a pre-eminent mode of the Essence of God, by which it is devoid of time with regard to the term or limits of beginning and end, because it is of infinite being; it is also devoid of time with regard to the succession of former and latter, of past and future, because it is of simple being, which is never in capability, but always in act.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§XIV)"
+      },
+      {
+        "quote": "The King of eternity—A phrase frequent with the Hebrews. How unspeakably sweet is the thought of eternity to believers!",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 1 Tim 1:17)"
+      },
+      {
+        "quote": "In the beginning—(Referring to Genesis 1:1, and Proverbs 8:23.) When all things began to be made by the Word: in the beginning of heaven and earth, and this whole frame of created beings, the Word existed, without any beginning. He was when all things began to be, whatsoever had a beginning.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on John 1:1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "God is a Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness, and truth.",
+        "cite": "Westminster Shorter Catechism",
+        "source": "Question 4"
+      },
+      {
+        "quote": "There is but one only, living, and true God, who is infinite in being and perfection, a most pure spirit… immutable, immense, eternal, incomprehensible, almighty.",
+        "cite": "Westminster Confession of Faith",
+        "source": "Chapter 2.1"
+      },
+      {
+        "quote": "In the beginning was the Speech. In this introduction he asserts the eternal Divinity of Christ, in order to inform us that he is the eternal God, who was manifested in the flesh. … He does not ascribe to the Speech a beginning of time, but says that he was from the beginning, and thus rises beyond all ages.",
+        "cite": "John Calvin",
+        "source": "Commentary on John (on John 1:1)"
+      }
+    ]
+  },
+  "arminianNotes": "Arminius’s eternity is not endless extension of clock-ticks. It is a mode of the essence: no beginning, no end, and no succession of former and latter in God himself. Wesley’s doxology is simpler and sweeter: the King of eternity—and how unspeakably sweet that thought is to believers. John 1 and Genesis 1 are read together: when created things began, the Word already was.\n\n1 Timothy 6’s “who alone has immortality” keeps the difference between God and creatures honest. We are given life; he is life. Romans 16’s mystery kept secret for long ages and now disclosed does not mean God has just arrived. It means the eternal God has spoken in time. Daniel’s “everlasting dominion” is the same confession in a pagan court.\n\nPastoral Arminian notes use eternity for worship, not speculation. You cannot wait God out, and you are not an afterthought in a late universe. There is no historic fork here with Calvin on whether God is eternal. The argument, when it comes, is how an eternal purpose relates to those who will believe—already named on the sovereignty and election hubs.",
+  "reformedNotes": "The Shorter Catechism’s “infinite, eternal, and unchangeable” is the Reformed child’s sentence and the theologian’s outline. Westminster places “eternal” among the perfections of the one God, not as a poetic extra. Calvin’s John 1 will not let the Word begin when the world begins. Eternity is asserted by contrast with created commencement.\n\nOn this reading, “before the ages” in the Pastorals and “in the beginning” in John are one timeline God does not occupy from the inside the way we do. Daniel 7’s Ancient of Days is not a tired deity. He is the one whose dominion is an everlasting dominion. Time is a creature; God is not.\n\nPastoral Reformed notes use eternity for both humility and rest. Our lives are short; his years have no end. Election “before the foundation of the world” is how many Reformed writers apply this attribute in salvation—without claiming Arminians deny that God is eternal. The fork is the decree, not the calendar of heaven.",
+  "keyContrast": "Both confess that God is without beginning or end and that the Word was in the beginning. There is no historic split on the attribute itself; remaining disagreement belongs to how an eternal purpose relates to election, not to whether God is everlasting.",
+  "scripture": [
+    {
+      "book": "1 Timothy",
+      "bookSlug": "1-timothy",
+      "chapter": 1,
+      "verseStart": 12,
+      "verseEnd": 17,
+      "title": "1 Timothy 1:12–17",
+      "href": "/bible/1-timothy/1/12-17.html",
+      "why": "To the King of the ages, immortal, invisible, the only God, be honor and glory."
+    },
+    {
+      "book": "1 Timothy",
+      "bookSlug": "1-timothy",
+      "chapter": 6,
+      "verseStart": 11,
+      "verseEnd": 16,
+      "title": "1 Timothy 6:11–16",
+      "href": "/bible/1-timothy/6/11-16.html",
+      "why": "The blessed and only Sovereign, who alone has immortality."
+    },
+    {
+      "book": "John",
+      "bookSlug": "john",
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 18,
+      "title": "John 1:1–18",
+      "href": "/bible/john/1/1-18.html",
+      "why": "In the beginning was the Word, and the Word was with God, and the Word was God."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 5,
+      "title": "Genesis 1:1–5",
+      "href": "/bible/genesis/1/1-5.html",
+      "why": "In the beginning, God created—God is already there when time starts."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 16,
+      "verseStart": 17,
+      "verseEnd": 27,
+      "title": "Romans 16:17–27",
+      "href": "/bible/romans/16/17-27.html",
+      "why": "The mystery kept secret for long ages, now disclosed—to the only wise God."
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 4,
+      "verseStart": 28,
+      "verseEnd": 37,
+      "title": "Daniel 4:28–37",
+      "href": "/bible/daniel/4/28-37.html",
+      "why": "His dominion is an everlasting dominion, and his kingdom endures from generation to generation."
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 7,
+      "verseStart": 1,
+      "verseEnd": 14,
+      "title": "Daniel 7:1–14",
+      "href": "/bible/daniel/7/1-14.html",
+      "why": "The Ancient of Days takes his seat; his dominion is everlasting."
+    }
+  ]
+}

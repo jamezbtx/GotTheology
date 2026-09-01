@@ -1,0 +1,133 @@
+{
+  "kind": "attribute",
+  "slug": "faithfulness",
+  "title": "Faithfulness",
+  "summary": "God keeps covenant—if we are faithless, he remains faithful—and both camps confess it; they do not disagree that his word cannot fail, though they may differ over whom the promises finally hold.",
+  "context": "Faithfulness is God’s covenant-keeping. He remains faithful, for he cannot deny himself; Jewish unbelief does not nullify the faithfulness of God; Abraham was fully convinced that God was able to do what he had promised; he is faithful and just to forgive; he sets his bow in the cloud; he cuts a covenant with Abram; Daniel pleads the covenant and steadfast love. Arminian and Reformed teachers both refuse a God who forgets his word. The verses still come first. Any fork is usually about the scope of the promise, not about whether God is true.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the faithful God—so each camp speaks in its own voice.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "If we believe not—That is, though some believe not, God will make good all his promises to them that do believe. He cannot deny himself—His word cannot fail.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on 2 Tim 2:13)"
+      },
+      {
+        "quote": "Shall their unbelief disannul the faithfulness of God—Will he not still make good his promises to them that do believe?",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Rom 3:3)"
+      },
+      {
+        "quote": "Righteousness or Justice in God, is an eternal and constant will to render to every one his own… In all its Words are found veracity and constancy; and in its Promises, fidelity.",
+        "cite": "Jacobus Arminius",
+        "source": "Public Disputation 4, “On the Nature of God” (§LXXV)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "If we are unbelieving, he remaineth faithful… “Let them desert Christ who will, yet they take nothing from him; for when they perish, he remaineth unchanged.” He cannot deny himself. “Christ is not like us, to swerve from his truth.” … our faith is founded on the eternal and unchangeable truth of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on 2 Timothy (on 2 Tim 2:13)"
+      },
+      {
+        "quote": "It cannot be that the truth of God should lose its stability through man’s wickedness. Though then the greater part had nullified and trodden under foot God’s covenant, it yet retained its efficacy… God’s verity depends not on man’s verity.",
+        "cite": "John Calvin",
+        "source": "Commentary on Romans (on Rom 3:3)"
+      },
+      {
+        "quote": "The worldling blesses God while he gives him plenty, but the Christian blesses him when he smites him: he believes him to be too wise to err and too good to be unkind; he trusts him where he cannot trace him, looks up to him in the darkest hour, and believes that all is well.",
+        "cite": "Charles H. Spurgeon",
+        "source": "“A Happy Christian” (sermon)"
+      }
+    ]
+  },
+  "arminianNotes": "Wesley’s 2 Timothy 2:13 and Romans 3:3 are almost the same sentence: some may not believe; God will still make good his promises to those who do. He cannot deny himself. Arminius names the same thing under justice: in God’s words, veracity and constancy; in his promises, fidelity. Faithfulness is not a mood. It is God being true to his own mouth.\n\nGenesis 9’s bow and Genesis 15’s smoking fire pot are the old pictures. God binds himself. Abraham in Romans 4 is fully convinced that God is able to do what he promised—faithfulness meeting omnipotence. 1 John 1’s “faithful and just to forgive” is covenant mercy for confessing sinners, not a new personality. 2 Timothy 1’s “he is able to guard until that day what has been entrusted” is the same God in a prison cell.\n\nPastoral Arminian notes use faithfulness to keep assurance from becoming presumption and despair from becoming atheism. The promise is sure; it is sure to believers. The fork with the Reformed, when it appears, is not whether God keeps covenant. It is whether that keeping includes an unbreakable hold on every regenerate person, or whether some may refuse to the end while God remains faithful still.",
+  "reformedNotes": "Calvin hears 2 Timothy 2:13 as comfort and warning together. Christ remains unchanged if we desert; he does not swerve from his truth; apostates take nothing from him. Romans 3:3 is the covenant version: man’s wickedness cannot make God’s truth lose stability. Verity does not depend on our verity. Spurgeon’s pastoral line is the same attribute in the dark: too wise to err, too good to be unkind; trust him where you cannot trace him.\n\nOn this reading, the Noahic and Abrahamic covenants are not museum pieces. They are the character of God. 2 Timothy 1’s guarding “until that day” is often heard as the faithfulness that will not finally let the saint go. 1 John’s faithful-and-just is why confession has a place: he promised, and he is just to keep the promise in the blood.\n\nPastoral Reformed notes use faithfulness for sleep and for trembling. Sleep, because the promise does not wobble with our pulse. Trembling, because the same faithfulness will not make peace with a lie. The fork with Arminians is not Genesis 9. It is whether covenant faithfulness, in the new covenant, means an effectual preservation of the elect, or a faithful offer that can still be refused.",
+  "keyContrast": "Both confess that God keeps covenant and that unbelief does not make him a liar. Arminians typically stress that he remains faithful and still makes good the promise to those who believe; the Reformed typically stress that his verity does not depend on us and that the covenant retains its power toward those he has given to the Son.",
+  "scripture": [
+    {
+      "book": "2 Timothy",
+      "bookSlug": "2-timothy",
+      "chapter": 2,
+      "verseStart": 8,
+      "verseEnd": 13,
+      "title": "2 Timothy 2:8–13",
+      "href": "/bible/2-timothy/2/8-13.html",
+      "why": "If we are faithless, he remains faithful—for he cannot deny himself."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 8,
+      "title": "Romans 3:1–8",
+      "href": "/bible/romans/3/1-8.html",
+      "why": "Does their unbelief nullify the faithfulness of God? By no means."
+    },
+    {
+      "book": "Romans",
+      "bookSlug": "romans",
+      "chapter": 4,
+      "verseStart": 13,
+      "verseEnd": 25,
+      "title": "Romans 4:13–25",
+      "href": "/bible/romans/4/13-25.html",
+      "why": "Abraham was fully convinced that God was able to do what he had promised."
+    },
+    {
+      "book": "1 John",
+      "bookSlug": "1-john",
+      "chapter": 1,
+      "verseStart": 5,
+      "verseEnd": 10,
+      "title": "1 John 1:5–10",
+      "href": "/bible/1-john/1/5-10.html",
+      "why": "He is faithful and just to forgive us our sins."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 17,
+      "title": "Genesis 9:1–17",
+      "href": "/bible/genesis/9/1-17.html",
+      "why": "I establish my covenant; the bow in the clouds is the sign."
+    },
+    {
+      "book": "Genesis",
+      "bookSlug": "genesis",
+      "chapter": 15,
+      "verseStart": 7,
+      "verseEnd": 21,
+      "title": "Genesis 15:7–21",
+      "href": "/bible/genesis/15/7-21.html",
+      "why": "The Lord cuts a covenant with Abram while Abram sleeps."
+    },
+    {
+      "book": "Daniel",
+      "bookSlug": "daniel",
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 19,
+      "title": "Daniel 9:1–19",
+      "href": "/bible/daniel/9/1-19.html",
+      "why": "O Lord, the great and awesome God, who keeps covenant and steadfast love."
+    },
+    {
+      "book": "2 Timothy",
+      "bookSlug": "2-timothy",
+      "chapter": 1,
+      "verseStart": 8,
+      "verseEnd": 14,
+      "title": "2 Timothy 1:8–14",
+      "href": "/bible/2-timothy/1/8-14.html",
+      "why": "He is able to guard until that day what has been entrusted to me."
+    }
+  ]
+}

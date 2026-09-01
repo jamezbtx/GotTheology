@@ -1,0 +1,88 @@
+{
+  "book": "Isaiah",
+  "bookSlug": "isaiah",
+  "chapter": 65,
+  "verseStart": 17,
+  "verseEnd": 25,
+  "translation": "ESV",
+  "title": "Isaiah 65:17–25",
+  "context": "After the servants’ new name, the Lord creates new heavens and a new earth; former troubles are not remembered. Jerusalem is created a joy; no more weeping; long life; houses built and inhabited; they call and he answers; wolf and lamb graze together; they shall not hurt in all my holy mountain. Historic Zion after exile comes first; then the gospel church and the last renewal in Christ. This is not a newspaper, and not an Arminian-versus-Reformed millennial camp fight. Wesley and Calvin both read a new face on the world in the Messiah’s kingdom; they do not chart a thousand years against each other.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on new heavens and a new earth, Jerusalem a joy, and the wolf with the lamb—so each camp speaks in its own voice beside Isaiah 65:17–25.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I create—I am about wholly to change the state not only of my people, but to bring a new face upon the world, which shall abide until a new heavens and earth appear, in which shall dwell nothing but righteousness. That state of things shall be so glorious that the former state of my people shall not be remembered. You—the church, as well under the gospel as under the law. Those that were now children shall die at a great age; yet none of these things shall be of any advantage to wicked men, but if any of them shall live to be an hundred years old, yet they shall die accursed. Before they call—God promises to answer the words as soon as they should be formed in their hearts. The wolf—God here promises to take off the fierceness of the spirits of his people’s enemies, so that they shall live quietly and peaceably together. Dust—such a time when wicked men shall no more eat up the people of God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Isa 65:17–18, 20, 24–25)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "By these metaphors he promises a remarkable change of affairs; the greatness of such a blessing, which was to be manifested at the coming of Christ, could not be described in any other way. Nor does he mean only the first coming, but the whole reign, which must be extended as far as to the last coming. Thus the world is renewed by Christ. The Prophet speaks of the restoration of the Church after the return from Babylon; yet that restoration is imperfect if it be not extended as far as to Christ; even now we are in the progress of it, and those things will not be fulfilled till the last resurrection. We are only in part renewed, and therefore we do not yet see a new heaven and a new earth. The wolf and the lamb shall feed together: he speaks allegorically of bloody and violent men, whose cruel nature shall be subdued when they submit to the yoke of Christ. At that time, corruptions having been taken away, the world shall return to its first origin.",
+        "cite": "John Calvin",
+        "source": "Commentary on Isaiah (on Isa 65:17, 25)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 17,
+      "text": "\"For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind.",
+      "arminianNotes": "Wesley: I am about wholly to change the state not only of my people, but to bring a new face upon the world, which shall abide until a new heavens and earth appear, in which shall dwell nothing but righteousness. That state shall be so glorious that the former state of my people shall not be remembered.\n\nArminian new face: historic restoration first, then gospel change, then the final heavens where only righteousness dwells. Not a millennial camp fight: Wesley is not charting a thousand years against Calvin. Shared christology: the Creator does this for his people. Not a newspaper new world.",
+      "reformedNotes": "Calvin: exaggerated modes of expression for a blessing manifested at Christ’s coming—not only the first coming, but the whole reign to the last. The world is renewed by Christ (Heb 2:5). He speaks of restoration after Babylon, imperfect if not extended to Christ; we are in the progress of it, and these things will not be fulfilled till the last resurrection. We are only in part renewed, and therefore we do not yet see a new heaven and a new earth.\n\nReformed new creation: one work from return through Christ to the last day. Same Creator; the accent is already begun in the Church, not yet finished while the old man remains.",
+      "keyContrast": "Neither side here is a millennial camp. Arminians typically follow Wesley’s new face on the world that abides until the final heavens where only righteousness dwells. Reformed readers typically follow Calvin’s one restoration from Babylon through Christ’s whole reign, in progress now, fulfilled at the last resurrection. Shared ground: I create; former troubles forgotten; the Messiah’s kingdom, not a 1000-year chart."
+    },
+    {
+      "number": 18,
+      "text": "But be glad and rejoice forever in that which I create; for behold, I create Jerusalem to be a joy, and her people to be a gladness.",
+      "arminianNotes": "Wesley: you—the church, as well under the gospel as under the law.\n\nArminian Jerusalem: the same people under law and gospel, created a joy. Historic Zion first; then the church. Shared ground with Calvin: rejoice forever in what he creates. Not a millennial capital.",
+      "reformedNotes": "Calvin: he exhorts believers to rejoice on account of so great a benefit; men do not adequately consider that which is highest. I create Jerusalem a rejoicing—the ground of joy shall be so great as to remove every cloud of sadness. Even afflictions aid our salvation (Rom 8:28).\n\nReformed joy: God creates the gladness; they must not pass redemption lightly. Same created Jerusalem; the joy is his work, lasting the whole course of life."
+    },
+    {
+      "number": 19,
+      "text": "I will rejoice in Jerusalem and be glad in my people; no more shall be heard in it the sound of weeping and the cry of distress.",
+      "arminianNotes": "Wesley has no separate note on v. 19; the church created a joy (v. 18) is matched by his own gladness in his people, and the cry of distress is stilled.\n\nArminian comfort: he is glad in my people—historic Jerusalem, gospel church. Shared ground: no more weeping. Not open theism: his gladness is not a new mood he just learned.",
+      "reformedNotes": "Calvin: he will not only give men ground for rejoicing, but will be a partaker with them. So great is his love that he delights in our prosperity. If we are distressed, he says he is affected by grief; if comfortable, he takes pleasure—confirmation of faith, not a passible creature. No more weeping is the end of that joy.\n\nReformed comfort: he is glad in Jerusalem as a husband in his wife (Isa 62:5). Same stilled cry; anthropopathy without making him finite."
+    },
+    {
+      "number": 20,
+      "text": "No more shall there be in it an infant who lives but a few days, or an old man who does not fill out his days, for the young man shall die a hundred years old, and the sinner a hundred years old shall be accursed.",
+      "arminianNotes": "Wesley: those that were now children shall die at a great age. Yet none of these things shall be of any advantage to wicked men, but if any of them shall live to be an hundred years old, yet they shall die accursed.\n\nArminian days: long life in the renewed people; the sinner’s hundred years still end accursed. Historic promise first, gospel church next. Do not invent a millennial mortality chart as Arminian versus Reformed; Wesley is reading blessing and curse inside the new face, not a 1000-year timetable.",
+      "reformedNotes": "Calvin: whether children or old men, they shall arrive at mature age, always vigorous; it is on account of our sins that we grow old. Christ comes to repair our strength. If Christ reigned truly and perfectly in us, his strength would flourish in body and soul. Remaining diseases are from remaining sin: we have not advanced so far in newness of life as to lay aside all that is old. Blessings are found only in the kingdom of Christ; apart from the Church there is nothing but cursing.\n\nReformed days: the Church’s life under Christ, still in part. Same filled days; the sinner accursed is life outside that kingdom, however fresh it looks."
+    },
+    {
+      "number": 21,
+      "text": "They shall build houses and inhabit them; they shall plant vineyards and eat their fruit.",
+      "arminianNotes": "Wesley has no separate note on vv. 21–22. The flourishing of the New Jerusalem (heading, vv. 17–26) includes houses kept and fruit eaten—not seized by another.\n\nArminian houses: historic return’s reversal of the exile curse (Deut 28:30); then the church at peace. Shared ground with Calvin: they inhabit what they build. Not a millennial real-estate fight.",
+      "reformedNotes": "Calvin: he mentions the blessings of the Law (Lev 26:10): they who have obeyed shall dwell in the houses they built. The disobedient give place to foreigners. The Lord shall protect you from that curse. The prophets borrow metaphors from this life that we may rise to eternal life. We must not fix our whole attention on transitory blessings.\n\nReformed houses: Law-blessing as ladder to heavenly life. Same inhabited houses; enjoyment is in the renewed Church, resting on undeserved favor."
+    },
+    {
+      "number": 22,
+      "text": "They shall not build and another inhabit; they shall not plant and another eat; for like the days of a tree shall the days of my people be, and my chosen shall long enjoy the work of their hands.",
+      "arminianNotes": "Wesley: still the peaceable New Jerusalem. Days like a tree and chosen enjoying their work are the long, unrobbed life of v. 20, not a later earthly timetable.\n\nArminian work: my people and my chosen keep the fruit. Historic Judah first; gospel servants next. Shared ground: like the days of a tree. Not a millennial lease.",
+      "reformedNotes": "Calvin: according to the days of a tree is not the tree of life as eternal life in a forged sense; he speaks of a peaceful condition: you shall not be removed before receiving the fruit, enjoyed by children and posterity. A work is continued when the result is prosperous. We cannot possess our wealth lawfully except by dwelling in the kingdom of Christ, the only heir of the world, and being ingrafted into his body.\n\nReformed work: Christ the heir; the elect enjoy in his kingdom. Same unstolen fruit; wicked possession is uneasy even when long."
+    },
+    {
+      "number": 23,
+      "text": "They shall not labor in vain or bear children for calamity, for they shall be the offspring of the blessed of the Lord, and their descendants with them.",
+      "arminianNotes": "Wesley: with them—is blessed with them.\n\nArminian seed: labor not in vain; children not for calamity; the blessed of the Lord and their descendants. Historic end of exile’s wasted work; gospel family next. Shared ground: offspring of the blessed. Not a millennial birth-rate.",
+      "reformedNotes": "Calvin: other blessings of Christ’s kingdom: Jews and Gentiles shall be happy under his reign. Labor not in vain is the token of blessing; the Law threatened losses (Lev 26; Deut 28). They shall not bring forth in terror—settled peace, not the woman’s curse alone. They shall be the seed of the blessed of Jehovah; childlessness is a curse reversed.\n\nReformed seed: every blessing from God; thanksgiving due to him alone. Same descendants with them; fears come from the curse, now removed in Christ."
+    },
+    {
+      "number": 24,
+      "text": "Before they call I will answer; while they are yet speaking I will hear.",
+      "arminianNotes": "Wesley: God promised (Isa 58:9) to answer them when they called; here he promises to answer the words as soon as they should be formed in their hearts, before they could get them out of their lips. Yea, while they were speaking.\n\nArminian prayer: he hears faster than the lips. Not open theism: he is not learning the request; he answers what is already on the heart. Historic servants; the church still calls. Shared ground with Calvin: before they cry, I will listen.",
+      "reformedNotes": "Calvin: a remarkable promise—nothing more desirable than God reconciled, so we may draw near with freedom. This was promised under the Law, but confirmed more; it relates chiefly to the kingdom of Christ, through whom we are heard (Eph 2:18). The door, once narrow, is thrown open; the veil is rent (Matt 27:51). If assistance is not always open, he still aids by his Spirit that we may not faint; he delays to try patience, not because he needs time.\n\nReformed prayer: access through Christ, two ways of being heard—open help, and Spirit to wait. Same before they call; do not flee to other intercessors."
+    },
+    {
+      "number": 25,
+      "text": "The wolf and the lamb shall graze together; the lion shall eat straw like the ox, and dust shall be the serpent's food. They shall not hurt or destroy in all my holy mountain,\" says the Lord.",
+      "arminianNotes": "Wesley: God here promises to take off the fierceness of the spirits of his people’s enemies, so that they shall live quietly and peaceably together. Dust—a time of tranquility to his church under the metaphor of serpents eating the dust, their proper meat (Gen 3:14), instead of flying upon men: when wicked men shall no more eat up the people of God.\n\nArminian mountain: enemies quieted; the church at peace. Historic Zion first; gospel holy mountain next. Do not invent a millennial zoo as Arminian versus Reformed; Wesley reads fierce people tamed, not a 1000-year bestiary. Shared christology with Calvin: peace on the holy mountain.",
+      "reformedNotes": "Calvin: everything restored when Christ shall reign. Implied comparison between Adam and Christ: afflictions flowed from the first man’s sin; dominion over animals was lost. Christ brings back everything to its order. He speaks allegorically of bloody and violent men, whose cruel nature shall be subdued when they submit to the yoke of Christ. In all my holy mountain—rubbish taken away, a Church without spot. Few are true inhabitants; where the old man reigns, wars still prevail.\n\nReformed mountain: men as beasts tamed under Christ’s yoke; full restoration at his perfect reign. Same wolf and lamb; neither camp needs a millennial chart to honor the verse."
+    }
+  ]
+}
