@@ -50,6 +50,16 @@
   "keyContrast": "Both confess that God keeps covenant and that unbelief does not make him a liar. Arminians typically stress that he remains faithful and still makes good the promise to those who believe; the Reformed typically stress that his verity does not depend on us and that the covenant retains its power toward those he has given to the Son.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 40,
+      "verseStart": 1,
+      "verseEnd": 11,
+      "title": "Isaiah 40:1–11",
+      "href": "/bible/isaiah/40/1-11.html",
+      "why": "Comfort my people; the word of our God will stand forever."
+    },
+    {
       "book": "2 Timothy",
       "bookSlug": "2-timothy",
       "chapter": 2,

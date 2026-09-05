@@ -884,7 +884,27 @@ function renderTopicHub(kind, items, otherItems) {
     escapeHtml(otherPath) +
     '">' +
     escapeHtml(otherTitle) +
-    "</a> \u00b7 <a href=\"/bible/\">Bible</a></p>";
+    "</a> \u00b7 <a href=\"/bible/\">Bible</a>" +
+    (isAttr
+      ? ""
+      : ' \u00b7 <a href="/bible/isaiah/">Isaiah</a>') +
+    "</p>";
+
+  const keyPassages = isAttr
+    ? ""
+    : '\n      <section class="topic-scripture topic-hub-passages" aria-labelledby="key-passages-heading">\n' +
+      '        <h2 id="key-passages-heading">Read in the text</h2>\n' +
+      '        <p class="topic-hub-passages-lede">Open Isaiah and related passages that shape these doctrines\u2014then return to the notes above.</p>\n' +
+      '        <ul class="passage-list">\n' +
+      '            <li><a href="/bible/isaiah/53/1-12.html"><span class="ref">Isaiah 53:1\u201312</span><span class="meta">Suffering servant\u2014atonement and substitution.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/6/1-13.html"><span class="ref">Isaiah 6:1\u201313</span><span class="meta">Holy, holy, holy\u2014the call and the cleansing.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/42/1-9.html"><span class="ref">Isaiah 42:1\u20139</span><span class="meta">My chosen servant\u2014election and the nations.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/55/1-13.html"><span class="ref">Isaiah 55:1\u201313</span><span class="meta">Come to the waters\u2014invitation and new life.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/46/1-13.html"><span class="ref">Isaiah 46:1\u201313</span><span class="meta">I will carry you\u2014God\u2019s preserving purpose.</span></a></li>\n' +
+      '            <li><a href="/bible/daniel/4/28-37.html"><span class="ref">Daniel 4:28\u201337</span><span class="meta">The Most High rules\u2014sovereignty beside the throne.</span></a></li>\n' +
+      "        </ul>\n" +
+      '        <p class="topic-hub-alt" style="margin-top:1rem">Browse <a href="/bible/isaiah/">Isaiah</a> \u00b7 <a href="/attributes/">Attributes of God</a></p>\n' +
+      "      </section>\n";
 
   const body =
     '    <div class="reader">\n' +
@@ -902,6 +922,7 @@ function renderTopicHub(kind, items, otherItems) {
     '\n      <ul class="passage-list topic-hub-list">\n            ' +
     cards +
     "\n      </ul>\n" +
+    keyPassages +
     "    </div>";
 
   return renderBrowseDocument({

@@ -50,6 +50,16 @@
   "keyContrast": "Both confess that God rules. Arminians typically describe a sovereignty that eternally purposes to save believers and governs without irresistible determination of the will; the Reformed typically describe a sovereignty that ordains whatsoever comes to pass—including who will be effectually drawn—without making God the author of sin.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 45,
+      "verseStart": 1,
+      "verseEnd": 13,
+      "title": "Isaiah 45:1–13",
+      "href": "/bible/isaiah/45/1-13.html",
+      "why": "I am the Lord, and there is no other; I form light and create darkness."
+    },
+    {
       "book": "Ephesians",
       "bookSlug": "ephesians",
       "chapter": 1,

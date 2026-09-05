@@ -50,6 +50,16 @@
   "keyContrast": "Arminians typically read God’s saving love as sincere toward every person and resistible in its grace; the Reformed typically confess a real invitation to all and a particular, effectual love that actually saves the elect—without meaning that God is unloving toward the world he has made.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 54,
+      "verseStart": 1,
+      "verseEnd": 10,
+      "title": "Isaiah 54:1–10",
+      "href": "/bible/isaiah/54/1-10.html",
+      "why": "With everlasting love I will have compassion on you, says the Lord."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 3,

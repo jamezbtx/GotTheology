@@ -50,6 +50,16 @@
   "keyContrast": "Both confess mercy as pity toward the miserable, distinct from the love hub. Arminians typically read Romans 9 as God’s right to fix terms of mercy for all who believe; the Reformed typically read it as free pity that is not given to all indiscriminately, while still sending the Son that whoever believes should not perish.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 55,
+      "verseStart": 1,
+      "verseEnd": 13,
+      "title": "Isaiah 55:1–13",
+      "href": "/bible/isaiah/55/1-13.html",
+      "why": "Let the wicked forsake his way; return to the Lord, for he will abundantly pardon."
+    },
+    {
       "book": "Romans",
       "bookSlug": "romans",
       "chapter": 9,

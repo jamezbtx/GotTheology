@@ -50,6 +50,16 @@
   "keyContrast": "Both confess that God is righteous and that wrath against sin is real. Arminians typically unfold justice as the published terms of mercy to all who believe; the Reformed typically unfold justice as a rectitude God would owe to none, often satisfied in a particular redemption—without either camp denying the coming judgment.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 1,
+      "verseStart": 10,
+      "verseEnd": 20,
+      "title": "Isaiah 1:10–20",
+      "href": "/bible/isaiah/1/10-20.html",
+      "why": "Learn to do good; seek justice, correct oppression—or refuse and be consumed."
+    },
+    {
       "book": "Romans",
       "bookSlug": "romans",
       "chapter": 1,

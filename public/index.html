@@ -459,6 +459,67 @@
       align-items: center;
     }
 
+    /* —— Start here / featured passages —— */
+    .featured-passages {
+      padding: 1.75rem 0 2.35rem;
+      background: var(--cream);
+      border-bottom: 1px solid var(--border);
+    }
+    .featured-passages-inner {
+      max-width: var(--max);
+      margin-inline: auto;
+    }
+    .featured-passages .eyebrow {
+      margin-bottom: 0.4rem;
+    }
+    .featured-passages h2 {
+      font-size: clamp(1.35rem, 2.2vw, 1.7rem);
+      margin-bottom: 0.45rem;
+    }
+    .featured-passages-lede {
+      color: var(--ink-muted);
+      font-size: 0.98rem;
+      line-height: 1.55;
+      max-width: 38rem;
+      margin-bottom: 1.1rem;
+    }
+    .featured-passages-list {
+      list-style: none;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr));
+      gap: 0.55rem;
+    }
+    .featured-passages-list a {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+      padding: 0.75rem 0.9rem;
+      border-radius: 12px;
+      background: var(--paper);
+      border: 1px solid var(--border);
+      color: var(--ink);
+      text-decoration: none;
+      transition: border-color 0.15s, box-shadow 0.15s;
+      min-height: 100%;
+    }
+    .featured-passages-list a:hover,
+    .featured-passages-list a:focus-visible {
+      border-color: rgba(176, 141, 62, 0.55);
+      box-shadow: var(--shadow-sm);
+    }
+    .featured-passages-list .ref {
+      font-family: var(--font-serif);
+      font-size: 1.12rem;
+      font-weight: 600;
+      color: var(--ink-soft);
+    }
+    .featured-passages-list .meta {
+      font-size: 0.86rem;
+      color: var(--ink-muted);
+      line-height: 1.4;
+      font-weight: 400;
+    }
+
     .hero-note a {
       color: var(--ink-soft);
       text-decoration: underline;
@@ -1070,6 +1131,23 @@
           <a href="/bible/2-john/" class="btn btn-secondary">Read 2 John</a>
           <a href="/bible/3-john/" class="btn btn-secondary">Read 3 John</a>
         </div>
+      </div>
+    </section>
+
+    <!-- Start here / featured deep links -->
+    <section class="featured-passages" id="start-here" aria-labelledby="start-here-heading">
+      <div class="container featured-passages-inner">
+        <p class="eyebrow">Start here</p>
+        <h2 id="start-here-heading">Featured passages</h2>
+        <p class="featured-passages-lede">High-value pages worth opening first—especially Isaiah—Arminian and Reformed notes beside the text.</p>
+        <ul class="featured-passages-list">
+          <li><a href="/bible/isaiah/53/1-12.html"><span class="ref">Isaiah 53:1–12</span><span class="meta">Suffering servant · atonement</span></a></li>
+          <li><a href="/bible/isaiah/6/1-13.html"><span class="ref">Isaiah 6:1–13</span><span class="meta">Holy, holy, holy · the call</span></a></li>
+          <li><a href="/bible/isaiah/40/1-11.html"><span class="ref">Isaiah 40:1–11</span><span class="meta">Comfort my people</span></a></li>
+          <li><a href="/bible/isaiah/55/1-13.html"><span class="ref">Isaiah 55:1–13</span><span class="meta">Come to the waters</span></a></li>
+          <li><a href="/bible/daniel/4/28-37.html"><span class="ref">Daniel 4:28–37</span><span class="meta">The Most High rules</span></a></li>
+          <li><a href="/bible/romans/9/1-13.html"><span class="ref">Romans 9:1–13</span><span class="meta">Election in Paul</span></a></li>
+        </ul>
       </div>
     </section>
 

@@ -50,6 +50,16 @@
   "keyContrast": "Arminians typically teach that a truly regenerate believer may finally fall by ceasing to believe; the Reformed typically teach that those whom God has accepted and called will be preserved—warnings included as means—so that apostasy proves a faith that was not saving.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 46,
+      "verseStart": 1,
+      "verseEnd": 13,
+      "title": "Isaiah 46:1–13",
+      "href": "/bible/isaiah/46/1-13.html",
+      "why": "Even to your old age I am he; I will carry you and will save."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 15,

@@ -50,6 +50,16 @@
   "keyContrast": "Both confess that God can do all that is consistent with his nature. Arminians typically refuse to let that power author sin or make saving grace irresistible; the Reformed typically unfold omnipotence as actual, particular government—including who is effectually drawn—without meaning that God does evil.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 40,
+      "verseStart": 12,
+      "verseEnd": 31,
+      "title": "Isaiah 40:12–31",
+      "href": "/bible/isaiah/40/12-31.html",
+      "why": "Who has measured the waters; the Creator of the ends of the earth does not faint."
+    },
+    {
       "book": "Genesis",
       "bookSlug": "genesis",
       "chapter": 1,

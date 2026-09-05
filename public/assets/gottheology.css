@@ -1172,3 +1172,15 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
     margin-top: 0;
   }
 }
+
+.topic-hub-passages {
+  margin-top: 2rem;
+  padding-top: 0.25rem;
+}
+.topic-hub-passages-lede {
+  color: var(--ink-muted);
+  font-size: 0.98rem;
+  line-height: 1.55;
+  max-width: 38rem;
+  margin: -0.25rem 0 0.85rem;
+}

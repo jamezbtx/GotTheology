@@ -50,6 +50,16 @@
   "keyContrast": "Both preach a Spirit-wrought new creation. Arminians typically bind new birth to resistible, enabling grace and to faith as a real response; the Reformed typically treat regeneration as an effectual, supernatural raising that produces faith rather than waiting on it.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 55,
+      "verseStart": 1,
+      "verseEnd": 13,
+      "title": "Isaiah 55:1–13",
+      "href": "/bible/isaiah/55/1-13.html",
+      "why": "Come, everyone who thirsts, come to the waters—an invitation to life."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 3,

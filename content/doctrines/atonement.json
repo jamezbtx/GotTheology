@@ -50,6 +50,16 @@
   "keyContrast": "Arminians typically teach a universal provision (every person’s sins remissible) applied by resistible, enabling grace through faith; the Reformed typically teach a particular design that infallibly obtains faith and salvation for the elect, while still confessing the infinite worth of the death and a real gospel offer.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 53,
+      "verseStart": 1,
+      "verseEnd": 12,
+      "title": "Isaiah 53:1–12",
+      "href": "/bible/isaiah/53/1-12.html",
+      "why": "The suffering servant: pierced for our transgressions; the Lord lays on him the iniquity of us all."
+    },
+    {
       "book": "1 Timothy",
       "bookSlug": "1-timothy",
       "chapter": 2,

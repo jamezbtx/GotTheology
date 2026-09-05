@@ -50,6 +50,16 @@
   "keyContrast": "Both camps preach justification by grace through faith on the ground of Christ. Arminians typically treat believing as a resistible, grace-enabled condition that must continue; the Reformed typically treat faith as the instrumental effect of God’s prior, effectual mercy, and the verdict as final for those in Christ.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 45,
+      "verseStart": 14,
+      "verseEnd": 25,
+      "title": "Isaiah 45:14–25",
+      "href": "/bible/isaiah/45/14-25.html",
+      "why": "In the Lord all the offspring of Israel shall be justified and shall glory."
+    },
+    {
       "book": "Titus",
       "bookSlug": "titus",
       "chapter": 3,

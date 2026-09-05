@@ -50,6 +50,16 @@
   "keyContrast": "Both confess the Holy One and the call to be holy. Arminians typically unfold holiness as perfect love that sincerely seeks all; the Reformed typically unfold holiness as infinite purity that includes a justice satisfied in a particular, effectual redemption—without denying the call to holiness of life.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 6,
+      "verseStart": 1,
+      "verseEnd": 13,
+      "title": "Isaiah 6:1–13",
+      "href": "/bible/isaiah/6/1-13.html",
+      "why": "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 17,

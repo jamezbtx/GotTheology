@@ -50,6 +50,26 @@
   "keyContrast": "Arminian readings typically make foreseen, grace-enabled faith (or entry into the elect body in Christ) the difference between the chosen and the rest; Reformed readings make God’s unconditional choice the difference, with faith as the effectual result.",
   "scripture": [
     {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 42,
+      "verseStart": 1,
+      "verseEnd": 9,
+      "title": "Isaiah 42:1–9",
+      "href": "/bible/isaiah/42/1-9.html",
+      "why": "Behold my servant, whom I uphold, my chosen, in whom my soul delights."
+    },
+    {
+      "book": "Isaiah",
+      "bookSlug": "isaiah",
+      "chapter": 49,
+      "verseStart": 1,
+      "verseEnd": 7,
+      "title": "Isaiah 49:1–7",
+      "href": "/bible/isaiah/49/1-7.html",
+      "why": "The Lord called me from the womb; formed me to be his servant."
+    },
+    {
       "book": "Ephesians",
       "bookSlug": "ephesians",
       "chapter": 1,
