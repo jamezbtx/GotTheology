@@ -570,6 +570,13 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
       font-size: 0.92rem;
       line-height: 1.45;
     }
+    .ad-frame:has(ins.adsbygoogle) {
+      border-style: solid;
+      border-color: rgba(15, 28, 46, 0.08);
+      background: transparent;
+      padding: 0;
+    }
+    ins.adsbygoogle[data-ad-status="unfilled"] { display: none !important; }
     .ad-frame strong { color: var(--ink-soft); font-weight: 600; }
     .ad-frame--leader { min-height: 90px; }
     .ad-frame--rect { min-height: 250px; max-width: 300px; margin-inline: auto; }
