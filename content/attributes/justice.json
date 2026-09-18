@@ -60,6 +60,26 @@
       "why": "Learn to do good; seek justice, correct oppression—or refuse and be consumed."
     },
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 99,
+      "verseStart": 1,
+      "verseEnd": 9,
+      "title": "Psalm 99:1–9",
+      "href": "/bible/psalms/99/1-9.html",
+      "why": "The King in his might loves justice—equity, righteousness, and holiness."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 9,
+      "verseStart": 1,
+      "verseEnd": 20,
+      "title": "Psalm 9:1–20",
+      "href": "/bible/psalms/9/1-20.html",
+      "why": "He judges the world with righteousness; the Lord is a stronghold for the oppressed."
+    },
+    {
       "book": "Romans",
       "bookSlug": "romans",
       "chapter": 1,

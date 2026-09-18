@@ -1,0 +1,138 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 7,
+  "verseStart": 1,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Psalm 7:1–17",
+  "context": "Psalm 7 is David’s Shiggaion concerning the words of Cush the Benjaminite: he takes refuge in the LORD his God and pleads to be saved from pursuers who would tear him like a lion. He protests innocence under false charge—if wrong is in his hands, if he repaid a friend with evil or plundered an enemy without cause, let the enemy overtake and trample him. He asks the LORD to arise in anger, awake for appointed judgment, gather the peoples, and return on high; the LORD judges the peoples—so judge him according to righteousness and integrity. He prays that the wicked’s evil end and the righteous be established, for God tests minds and hearts. His shield is with God, who saves the upright in heart; God is a righteous judge who feels indignation every day. If a man does not repent, God whets his sword and readies fiery arrows. The wicked conceives evil, digs a pit, and falls into it—mischief returns on his own head. David closes by giving thanks due to the LORD’s righteousness and singing praise to the name of the LORD, the Most High.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on refuge under calumny, protest of innocence, appointed judgment, God who tests hearts, repentance before the whetted sword, and the pit that turns on its digger—so each camp speaks in its own voice beside Psalm 7:1–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "David prays for deliverance from his enemies, ver. 1, 2. Appeals to God for his innocence, ver. 3–5. Prays to him to judge his cause, ver. 6–9. Expresses his confidence in God, ver. 10–17. Shiggaion—this seems to be the name of a kind of song, or instrument, which then was well known. Words—the false report raised by him. Cush—probably some eminent commander or courtier under Saul. Lest—mine enemy. Tear—out of my body. Hands—which Cush and others falsely lay to my charge. Iniquity—in my actions. Deliver—when it was in my power to destroy him, as 1 Sam. 24:2–6. Lift up—glorify thyself, and shew thyself to be above them. Commanded—to execute that righteous sentence which thou hast commanded, appointed, and declared by thy prophet Samuel. Compass—they will come from all parts to worship thee. High—to thy tribunal, to sit there and judge my cause. O—put a stop to their wicked practices. Every day—even then, when his providence seems to favour them, and they are most secure and confident. He will—God will hasten, and speedily execute his judgments upon him. Ordaineth—designs or fits for this very use. Of all sinners, persecutors are set up as the fairest marks of Divine wrath. Travelleth—this metaphor denotes his deep design, and vigorous endeavours for doing mischief, and his restlessness and pain till he have accomplished it.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 7)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David, loaded with unjust calumny, calls upon God to be his advocate and defender, and commits his innocence to the Divine protection. He protests that his conscience did not accuse him of the wickedness laid to his charge; shows how greatly it concerns the glory of God that he should execute judgment against the ungodly; reflects upon the goodness and righteousness of God; and, depending upon the aid of God, assures himself that all his enemies’ endeavours shall turn to their own destruction. O Jehovah my God, in thee do I trust: the gate of mercy is shut against our prayers if the key of faith do not open it. By the figure of a lion he represents the cruelty of his persecutor. He protests he is molested unjustly; comparing himself with his enemies, he maintains that in respect of them he was righteous—but when each saint passes under the review of God’s judgment on his own merits, the only sanctuary is the mercy of God. God searcheth the hearts; he who saves the upright in heart is the shield. God judgeth the righteous, and is angry every day—his patience is very different from approbation or connivance. If he turn not, he will whet his sword: the ungodly who conceive mischief bring forth falsehood, dig a pit and fall into it, and their violence descends upon their own crown. I will praise Jehovah according to his righteousness—his faithfulness in defending and preserving his servants.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 7)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O LORD my God, in you do I take refuge; save me from all my pursuers and deliver me,",
+      "arminianNotes": "Arminian hearing: shared opening—refuge in the LORD my God, and a live plea to be saved and delivered from all pursuers. Wesley frames the psalm as prayer for deliverance under false report. Take refuge by entrusting the case to God; the ask for save and deliver still rises from the pursued.",
+      "reformedNotes": "Calvin: great emphasis falls on O Jehovah my God, in thee do I trust—continued confidence in affliction, not a faith already fallen. The gate of mercy is shut against prayers if the key of faith does not open it. Calling Jehovah his own God is a bulwark against waves of temptation.\n\nReformed accent: shared—refuge and deliverance asked of God. Faith persevering under pursuit is the proof; “my God” fences the heart from being overwhelmed."
+    },
+    {
+      "number": 2,
+      "text": "lest like a lion they tear my soul apart, rending it in pieces, with none to deliver.",
+      "arminianNotes": "Wesley: Lest—mine enemy. Tear—out of my body.\n\nArminian pastoral: shared dread—lion-tearing with none to deliver. Name the danger plainly before God; the plea for a Deliverer answers real violence, not imaginary fright.",
+      "reformedNotes": "Calvin: by the figure of a lion he heightens the cruelty of the persecutor, to move God to grant aid—ascribing to him the peculiar province of rescuing his poor sheep from the jaws of wolves.\n\nReformed accent: shared—mortal threat with no human deliverer. The argument of the prayer is God’s office to save, not the lion’s right to feast."
+    },
+    {
+      "number": 3,
+      "text": "O LORD my God, if I have done this, if there is wrong in my hands,",
+      "arminianNotes": "Wesley: Hands—which Cush and others falsely lay to my charge. Iniquity—in my actions.\n\nArminian reading: shared protest—if this charge is true, if wrong is in the hands. Bring the slandered conscience before God; innocence under false accusation is not boasting when it is simply denying what was never done.",
+      "reformedNotes": "Calvin: to induce God to show favor, he protests he is molested unjustly. By entreating help on no other condition than that integrity be found untarnished, he teaches that we must be well assured in conscience of the righteousness of our cause—we do God wrong if we engage him as advocate of a bad cause.\n\nReformed accent: shared—conditional self-imprecation under known charge. First care is a good conscience before the heavenly Judge when earthly reports condemn."
+    },
+    {
+      "number": 4,
+      "text": "if I have repaid my friend with evil or plundered my enemy without cause,",
+      "arminianNotes": "Wesley: Deliver—when it was in my power to destroy him, as 1 Sam. 24:2–6.\n\nArminian pastoral: shared self-check—evil repaid to a friend, or plundering an enemy without cause. Wesley hears the opposite history: sparing when destruction was in reach. Measure the charge against actual conduct toward friend and foe.",
+      "reformedNotes": "Calvin: two particulars—he had done no wrong to any, and had rather endeavored to do good to enemies who injured him without cause. When a man not only refrains from revenge but endeavors to overcome evil by doing good, he manifests a grace of a renewed nature.\n\nReformed accent: shared—innocence proven in dealing with friend and enemy. Meekness that succorsthe unworthy persecutor is fruit of adoption, not mere self-defense rhetoric."
+    },
+    {
+      "number": 5,
+      "text": "let the enemy pursue my soul and overtake it, and let him trample my life to the ground and lay my glory in the dust. Selah",
+      "arminianNotes": "Arminian hearing: shared solemn stake—if guilty, let pursuit, trampling, and glory in the dust follow. The Selah pauses on a conscience willing to bear the worst if the charge is true. Do not ask God to shield a bad cause.",
+      "reformedNotes": "Calvin: striking proof of confidence in integrity—willing to endure the severest punishment if guilty. He is prepared to be seized, thrown down, and after death spoken of with reproach so that his name lies in the dust. Impatience and desire of revenge shut the gate against prayer; a good conscience opens it.\n\nReformed accent: shared—life and glory staked on innocence in this matter. God is not hired to cover guilt; help is sought under honest terms."
+    },
+    {
+      "number": 6,
+      "text": "Arise, O LORD, in your anger; lift yourself up against the fury of my enemies; awake for me; you have appointed a judgment.",
+      "arminianNotes": "Wesley: Lift up—glorify thyself, and shew thyself to be above them. Commanded—to execute that righteous sentence which thou hast commanded, appointed, and declared by thy prophet Samuel.\n\nArminian reading: shared cry—arise in anger against the fury of enemies; awake for appointed judgment. Ask God to glorify himself by doing what he has already appointed, not by inventing a private vendetta.",
+      "reformedNotes": "Calvin: set God’s anger against the rage of enemies. Arise and awake mark how delay makes God seem asleep to the afflicted. He asks nothing but what is according to God’s appointment—prayer must conform to the divine will; faith reposes on the word and promise, not on fleshly ambition.\n\nReformed accent: shared—appointed judgment, not rash desire. The call and promise of God bound the request; desire beyond his word is not faith."
+    },
+    {
+      "number": 7,
+      "text": "Let the assembly of the peoples be gathered about you; over it return on high.",
+      "arminianNotes": "Wesley: Compass—they will come from all parts to worship thee, and offer to thee praises and sacrifices. High—to thy tribunal, to sit there and judge my cause. An allusion to earthly tribunals set up on high above the people.\n\nArminian pastoral: shared hope—peoples gathered, God returning on high to judge. Public worship and public judgment meet; ask for the high seat where the cause is heard.",
+      "reformedNotes": "Calvin: rather language respecting many nations—deliverance will be a common lesson teaching them to acknowledge God’s just judgment. Return on high: God who for a time kept silence raises himself that nations may behold his glory.\n\nReformed accent: shared—God on high over an assembly. The aim is God’s glory in judgment seen abroad, not a private settling only."
+    },
+    {
+      "number": 8,
+      "text": "The LORD judges the peoples; judge me, O LORD, according to my righteousness and according to the integrity that is in me.",
+      "arminianNotes": "Arminian reading: shared confession—the LORD judges the peoples; therefore ask to be judged according to righteousness and integrity in this cause. Wesley’s line through the psalm is appeal for innocence and prayer to judge the cause. Integrity here is real uprightness under the charge—lived innocence God may try and vindicate, not a fiction. The hearer still brings a clean conscience and refuses to plead a bad case.",
+      "reformedNotes": "Calvin: Jehovah shall judge the nations is a continued act—governor of the world who cannot abdicate. From this, David concludes God will maintain his cause. He brings forward his integrity that he may not, like hypocrites, make God’s name a pretext. How boast of integrity when elsewhere he deprecates God entering into judgment? The subject is not answering for his whole life, but comparing himself with his enemies—in respect of them he was righteous. When each saint is tried on his own merits, the only sanctuary is the mercy of God.\n\nReformed accent: shared—ask judgment according to righteousness in the dispute. Relative innocence vs calumniators is real; absolute standing before God still flees to mercy alone.",
+      "keyContrast": "Both confess that the LORD judges the peoples and that David may ask to be judged according to righteousness and integrity in the matter charged. Arminian readers stress real, lived integrity under false accusation—innocence God may try and vindicate as the pray-er actually walked. Reformed readers, with Calvin, stress comparative righteousness toward enemies, not a whole-life answer if God demanded account of every deed—then the only sanctuary is mercy."
+    },
+    {
+      "number": 9,
+      "text": "Oh, let the evil of the wicked come to an end, and may you establish the righteous—you who test the minds and hearts, O righteous God!",
+      "arminianNotes": "Wesley: O—put a stop to their wicked practices.\n\nArminian pastoral: shared twin plea—end the wicked’s evil; establish the righteous. The righteous God who tests minds and hearts is asked to stop real practices and uphold real uprightness. Bring both the heart and the cause under that search.",
+      "reformedNotes": "Calvin: pray that God would restrain malice and bring affliction to an end, and re-establish the righteous who are wrongfully oppressed—continued in their estate by God’s power. For God searcheth the hearts: not only external innocence but purity in secret affection. Before God’s judgment-seat the question is purity of heart, not titles or splendor of actions.\n\nReformed accent: shared—end wicked evil; establish the righteous under heart-searching. Appearance before the crowd is not the final court; God upholds the oppressed by his own power."
+    },
+    {
+      "number": 10,
+      "text": "My shield is with God, who saves the upright in heart.",
+      "arminianNotes": "Arminian reading: shared confidence—shield with God, who saves the upright in heart. Uprightness of heart is the path of those God saves; keep the inward life true, and take refuge under that shield rather than under reputation alone.",
+      "reformedNotes": "Calvin: meditations mingled with prayers foster faith. As God saves the upright in heart, David is safe under his protection—and so has the testimony of an approving conscience. Not simply “the righteous,” but upright in heart, eyes the inward searching of hearts and reins.\n\nReformed accent: shared—God’s shield saving the upright in heart. Safety rests in God’s saving of those whose inward life matches the protest, not in self-made armor.",
+      "keyContrast": "Both confess that the shield is with God, who saves the upright in heart. Arminian readers stress uprightness of heart as the real moral path those who take refuge must keep—lived integrity under the shield. Reformed readers, with Calvin, stress that safety and an approving conscience meet because God himself saves the upright in heart—protection grounded in his saving care, not in a shield the pray-er forges alone."
+    },
+    {
+      "number": 11,
+      "text": "God is a righteous judge, and a God who feels indignation every day.",
+      "arminianNotes": "Wesley: Every day—even then, when his providence seems to favour them, and they are most secure and confident.\n\nArminian warning: shared truth—righteous Judge, indignation every day. Do not read delay as approval; security of the wicked is not safety. Repent while the day of patience still calls.",
+      "reformedNotes": "Calvin: whatever the confusion of things, God discerns righteous and wicked. He appeals from false judgments of men to him who cannot be deceived. How judge every day when punishment is often delayed? No day passes without clearest evidence that he discerns between them; his patience is very different from approbation or connivance.\n\nReformed accent: shared—daily righteous judgment and indignation. Long-suffering is not wink; the faithful betake themselves to him every day."
+    },
+    {
+      "number": 12,
+      "text": "If a man does not repent, God will whet his sword; he has bent and readied his bow;",
+      "arminianNotes": "Wesley: He will—God will hasten, and speedily execute his judgments upon him.\n\nArminian reading: shared warning—if a man does not repent, God whets the sword and readies the bow. Repentance is a real turning the hearer must take; delay of judgment is not a promise that the sword stays dull forever.",
+      "reformedNotes": "Calvin notes the common reading: if the enemy does not repent, God will whet his sword—armed to maintain the righteous. He also shows how God’s armed readiness magnifies the grace that delivers when destroyers seem sure of their prey. Either way, unrepentant malice meets a God who is not idle.\n\nReformed accent: shared—unrepentance under a whetted sword. Judgment is God’s prepared act; grace is magnified when the armed threat does not finally consume the innocent.",
+      "keyContrast": "Both confess that if a man does not repent, God whets his sword and readies his bow—judgment is real, and repentance is the fork before it. Arminian readers, with Wesley, stress the call to turn while God hastens judgment on the unrepentant persecutor—repentance as a lived change the hearer must make. Reformed readers, with Calvin, stress God’s armed readiness to maintain the righteous and the certainty that unrepentant malice does not catch him asleep—patience is not connivance, and deliverance magnifies grace when the sword was already prepared."
+    },
+    {
+      "number": 13,
+      "text": "he has prepared for him his deadly weapons, making his arrows fiery shafts.",
+      "arminianNotes": "Wesley: Him—for the wicked. Ordaineth—designs or fits for this very use. Of all sinners, persecutors are set up as the fairest marks of Divine wrath. They set God at defiance but cannot set themselves out of the reach of his judgments.\n\nArminian warning: shared—deadly weapons and fiery arrows prepared. Persecutors are not beyond reach; defiance does not invent a shelter.",
+      "reformedNotes": "Calvin: instruments of death and arrows fitted for persecutors mark no ordinary wound but intent to destroy—yet the greatness of the danger magnifies the grace of the deliverance God gave.\n\nReformed accent: shared—prepared deadly weapons. The arsenal shows how complete the threat was, and how entirely rescue must be credited to God."
+    },
+    {
+      "number": 14,
+      "text": "Behold, the wicked man conceives evil and is pregnant with mischief and gives birth to lies.",
+      "arminianNotes": "Wesley: Travelleth—this metaphor denotes his deep design, and vigorous endeavours for doing mischief, and his restlessness and pain till he have accomplished it.\n\nArminian pastoral: shared exposure—conceive, be pregnant, give birth to lies. Wickedness is laborious and restless; its fruit is falsehood. Do not envy the travail that only bears deceit.",
+      "reformedNotes": "Calvin: Behold enhances the wonder—after travailing to bring forth wickedness and conceiving mischief, there comes forth empty wind and vanity, because God frustrated the expectation. The ungodly speak falsehood to themselves; they shall fail in what they devise.\n\nReformed accent: shared—conception of evil ending in lies. Providence turns the labor to futility; wait patiently if the birth of the plot is not yet seen to fail."
+    },
+    {
+      "number": 15,
+      "text": "He makes a pit, digging it out, and falls into the hole that he has made.",
+      "arminianNotes": "Arminian hearing: shared proverb made personal—dig the pit, fall into the hole. Schemes against the innocent rebound; refuse to dig pits for others, and trust God when pits are dug for you.",
+      "reformedNotes": "Calvin: not only unsuccessful devices, but by wonderful providence the opposite result. Wicked and crafty men are caught in snares set for others. God, by the secret direction of his hand, causes the evil intended for the innocent to return on the devisers.\n\nReformed accent: shared—pit-maker falls in. Retribution is providence’s turn, not bare luck; therefore restrain yourself from injuring a neighbor."
+    },
+    {
+      "number": 16,
+      "text": "His mischief returns upon his own head, and on his own skull his violence descends.",
+      "arminianNotes": "Arminian pastoral: shared outcome—mischief home to the head, violence on the skull. The moral order is not optional poetry; what was aimed at another lands on the sender. Leave vengeance to that return rather than seizing it yourself.",
+      "reformedNotes": "Calvin: the same truth without figure—mischief returns upon his own head, violence upon his own crown. Two uses: however skilled the enemy, look for this issue; and if passion instigates injury, remember those who prepare a pit are cast into it.\n\nReformed accent: shared—violence descending on its author. Divine retributive justice both comforts the oppressed and warns the tempted."
+    },
+    {
+      "number": 17,
+      "text": "I will give to the LORD the thanks due to his righteousness, and I will sing praise to the name of the LORD, the Most High.",
+      "arminianNotes": "Arminian reading: shared close—thanks due to his righteousness, praise to the name of the LORD, the Most High. Answer deliverance with gratitude and song; righteousness here is God’s faithful right that vindicated the cause. Keep praising the name that sheltered you.",
+      "reformedNotes": "Calvin: design of deliverances is that servants return sacrifices of praise. He could not ascribe preservation to God unless persuaded he was kept otherwise than by man’s power. The righteousness of God is his faithfulness made good in defending and preserving his servants—manifested when he delivers from wrongful violence.\n\nReformed accent: shared—thanks and praise for God’s righteousness. Preservation is confessed as God’s undoubted work; praise answers grace, not self-rescue."
+    }
+  ]
+}

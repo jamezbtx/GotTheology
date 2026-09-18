@@ -1,0 +1,65 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 127,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "ESV",
+  "title": "Psalm 127:1–5",
+  "context": "A Song of Ascents of Solomon: house, city, and anxious toil are vain unless the LORD builds, watches, and gives His beloved sleep. Children are His heritage and reward—arrows for a warrior, a full quiver's blessing at the gate. Domestic and civic life hang on God's blessing, not bare human hustle.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on vain building without the LORD, beloved sleep, and children as heritage and arrows—so each camp speaks in its own voice beside Psalm 127:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Except the Lord build the house—Unless the good hand of God be upon us we cannot prosperously build a place of worship for his name. Unless we have his blessing, a dwelling-house cannot be comfortably erected. And if his blessing be not on our children, the house may be built up, but instead of its being the house of God, it will be the synagogue of Satan. Except the Lord keep the city—Though you should watch constantly, guard every place, and keep on your armor ready to repel every attack, yet remember the success of all depends upon the presence and blessing of God. While, therefore, ye are not slothful in business, be fervent in spirit, serving the Lord. Lo, children are a heritage of the Lord—To many God gives children in place of temporal good. He who gave them will feed them; for wherever God sends mouths, he sends meat. Happy is the man that hath his quiver full of them—When he shall contend with his adversaries in the gate, he is not afraid, because his house is well defended.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 127)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This Psalm shows that the order of society, both political and domestic, is maintained solely by the blessing of God, and not by the policy, diligence, or wisdom of men; and that the procreating of children is his peculiar gift. Solomon declares that nothing happens prosperously to us except in so far as God blesses our proceedings. He does not reject either the labor, the enterprises, or the counsels of men; but lest, blinded by presumption, they should forcibly appropriate to themselves that which belongs to God, he admonishes them that their being busily occupied will profit them nothing, except in so far as God blesses their exertions. The blessing of God should have the whole share and exclusively hold the throne. Children are the heritage of Jehovah: they are not the fruit of chance, but God, as it seems good to him, distributes to every man his share of them. Those become fathers to whom God vouchsafes that honor.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 127)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Unless the LORD builds the house, those who build it labor in vain. Unless the LORD watches over the city, the watchman stays awake in vain.",
+      "arminianNotes": "Unless the LORD builds, builders labor in vain; unless He watches, the watchman wakes in vain. Diligence without His blessing empties both house and wall.\n\nClassical Arminians refuse sloth and presumption alike. Work and watch as duty; seek His presence so labor is not vanity. Success hangs on blessing you may earnestly ask and thankfully receive.",
+      "reformedNotes": "Unless the LORD builds and watches, house-labor and city-watch are vain. Domestic and civic order stand by His blessing, not by policy or grit alone.\n\nReformed accent: God does not reject labor; He refuses to let labor steal His honor. Busy occupancy profits nothing except as He blesses and uses human instruments.",
+      "keyContrast": "Both deny that bare human building and watching secure house or city. Arminians typically stress diligent work joined to earnest seeking of God's blessing; Reformed readers typically stress that only God's blessing makes any labor prosper, so success's whole praise belongs to Him."
+    },
+    {
+      "number": 2,
+      "text": "It is in vain that you rise up early and go late to rest, eating the bread of anxious toil; for he gives to his beloved sleep.",
+      "arminianNotes": "Vain early rising, late rest, and bread of anxious toil—for He gives His beloved sleep. Anxiety's grind cannot buy what love receives as gift.\n\nArminian pastoral: refuse the religion of frantic hours that crowd out trust. Labor faithfully, then rest as beloved; sleep is grace, not a prize for the most worried.",
+      "reformedNotes": "Early rise, late rest, anxious bread—vain—for He gives His beloved sleep. God nourishes His own without the torment of unbelieving haste.\n\nReformed comfort: begin work with prayer and end in trust. Faithful hands need not be idle; faithful minds may rest as if asleep under providence, while the ungrateful wear themselves to smoke.",
+      "keyContrast": "Both reject anxious overwork as the path to provision. Arminians typically invite beloved rest received in trusting diligence; Reformed readers typically stress sleep as God's gift to His beloved, exposing self-reliant toil as vanity."
+    },
+    {
+      "number": 3,
+      "text": "Behold, children are a heritage from the LORD, the fruit of the womb a reward.",
+      "arminianNotes": "Behold—children are a heritage from the LORD; womb's fruit a reward. Family increase is gift, not mere biology or status trophy.\n\nClassical Arminians urge grateful reception. Welcome children as from His hand; trust the Giver to feed the mouths He sends, and refuse despising this heritage for barren gold.",
+      "reformedNotes": "Children are Jehovah's heritage; fruit of the womb His reward. Procreation is not chance after a once-for-all ordinance; His care descends to each birth.\n\nReformed note: fathers are those to whom God vouchsafes the honor. Heritage and reward stand against fortune and bare strength—children distributed as seems good to Him."
+    },
+    {
+      "number": 4,
+      "text": "Like arrows in the hand of a warrior are the children of one's youth.",
+      "arminianNotes": "Like arrows in a warrior's hand are children of one's youth. Young strength in the household becomes defense and support as years unfold.\n\nArminian pastoral: raise arrows with holy care. Youthful offspring, trained under blessing, strengthen the house; neglect turns potential defense into grief.",
+      "reformedNotes": "Children of youth are arrows in a warrior's hand. Virtue and generous disposition in offspring are a second favor—defense for the otherwise solitary.\n\nReformed accent: without upright children a man is in a manner unarmed. God not only gives numbers but forms minds; arrows that bless are His adornment of the heritage."
+    },
+    {
+      "number": 5,
+      "text": "Blessed is the man who fills his quiver with them! He shall not be put to shame when he speaks with his enemies in the gate.",
+      "arminianNotes": "Blessed the man with a full quiver—he shall not be shamed speaking with enemies in the gate. Household strength meets public challenge without disgrace.\n\nClassical Arminians hear blessing tied to fruitful, defended life under God. Walk uprightly; a well-ordered house becomes witness and help when accusation or danger meets you at the gate.",
+      "reformedNotes": "Blessed the full quiver; no shame when speaking with enemies in the gate. Integrity in children shuts malevolent mouths in the place of judgment.\n\nReformed pastoral: desire offspring marked by uprightness, not by craft or oppression. Even then, only pure grace finishes the holy discipline fathers attempt—and peace at the gate is God's gift."
+    }
+  ]
+}

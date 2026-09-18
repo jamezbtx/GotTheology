@@ -1,0 +1,113 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 108,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Psalm 108:1–13",
+  "context": "A Song. A Psalm of David. The psalmist’s heart is steadfast for praise with all his being; he wakes harp and lyre and the dawn; gives thanks among the peoples and nations because God’s steadfast love is great above the heavens and faithfulness reaches the clouds; asks God to be exalted and to deliver the beloved by His right hand; recalls God’s holy promise over Shechem, Succoth, Gilead, Manasseh, Ephraim, Judah, Moab, Edom, and Philistia; asks who will lead him to the fortified city and Edom; confesses that human help is vain and that with God His people shall do valiantly, for He will tread down their foes.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a fixed heart for praise, steadfast love above the heavens, God’s holy promise of dominion, and help that is not of man—so each camp speaks in its own voice beside Psalm 108:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named. Wesley’s brief note on Psalm 108 is here joined with his parallel notes on Psalms 57 and 60, whose wording this psalm reuses; Calvin likewise refers the reader to those psalms.",
+    "arminian": [
+      {
+        "quote": "Glory—with my tongue. Fixed—in a stedfast belief of thy promises. Awake—I will employ all the powers of my soul and body. Be thou exalted—glorify thy power, and goodness, and justice, and faithfulness, by my deliverance. Beloved—thy beloved people. Rejoice—therefore I will turn my prayers into praises, for what God has already done. Divide—which supposeth possession and dominion. Shechem and Succoth—for all the land of Canaan, within and without Jordan. Wash-pot—I shall bring them into the lowest degree of servitude. Who will bring me—none can do it but God. Vain is the help of man—yet with God we shall do valiantly.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 108, with parallels in Psalms 57 and 60)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Because this psalm is composed of parts taken from the fifty-seventh and sixtieth psalms, what we have said there applies here. The heart prepared to praise is not a fleeting emotion but a fixed resolve under God’s promise. David will praise among the nations because God’s mercy is great above the heavens and His truth unto the clouds. Be thou exalted: God is asked to glorify Himself in the deliverance of His beloved. God has spoken in His holiness—His promise is the ground of rejoicing and of claimed dominion over Shechem, Gilead, Judah, Moab, and Edom. Who will bring me into the fortified city? None but God. Give us help from trouble, for vain is the help of man. Through God we will do valiantly, and He shall trample under foot our enemies. The victory is His; human aid is empty; the church fights under a word already spoken in holiness.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 108, referring to Psalms 57 and 60)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "My heart is steadfast, O God! I will sing and make melody with all my being!",
+      "arminianNotes": "My heart is steadfast, O God—I will sing and make melody with all my being. Wesley (Ps 57/108): Fixed—in a stedfast belief of thy promises. Glory—with my tongue. The whole self is summoned to praise; steadiness is not a shrug but a resolved trust that sings.\n\nArminian pastoral: grace enables a fixed heart; the singer still takes up melody with all his being. Shared piety—both camps want a heart that does not waver when praise is costly. The difference is only how tightly that steadfastness is tied to promised enabling versus to God’s preserving decree.",
+      "reformedNotes": "Calvin (on the parallel): the heart prepared to praise is a fixed resolve under God’s promise, not a mood that waits for ease. Singing with one’s glory is employing every power God has given for His renown.\n\nReformed accent: steadfastness is God’s gift sustaining the singer; praise rises because the heart has been prepared. The church does not manufacture resolve; she receives it and then sings."
+    },
+    {
+      "number": 2,
+      "text": "Awake, O harp and lyre! I will awake the dawn!",
+      "arminianNotes": "Awake, O harp and lyre! I will awake the dawn! Wesley: Awake—I will employ all the powers of my soul and body. Instruments and the early hour are pressed into service; praise will not sleep in.\n\nArminian hearing: diligence in worship is real—wake the instruments, meet the dawn. Grace does not cancel effort; it frees it for God’s glory.",
+      "reformedNotes": "Calvin’s parallel: David will arise early; praise will not be postponed. Instruments are summoned because God deserves the first and best of the day.\n\nReformed pastoral: the dawn is claimed for God. Eager praise is the fruit of a heart God has fixed, not a technique to earn His favor."
+    },
+    {
+      "number": 3,
+      "text": "I will give thanks to you, O LORD, among the peoples; I will sing praises to you among the nations.",
+      "arminianNotes": "Thanks among the peoples; praises among the nations. Wesley (Ps 57): I will praise thee among the people; I will sing unto thee among the nations. Public, missionary praise—Israel’s God is not a local secret.\n\nArminian pastoral: shared ground—the nations are to hear. The singer gladly carries thanksgiving outward. Do not fence the praise as private comfort only.",
+      "reformedNotes": "Calvin: praise among the nations anticipates God’s mercy displayed beyond Israel’s borders. The peoples are audience because God’s truth reaches the clouds.\n\nReformed accent: the church’s mission of praise rests on God’s known character. Thanksgiving is public because His glory will not stay hidden."
+    },
+    {
+      "number": 4,
+      "text": "For your steadfast love is great above the heavens; your faithfulness reaches to the clouds.",
+      "arminianNotes": "Steadfast love great above the heavens; faithfulness to the clouds. The reason for national praise is hesed and emet scaled beyond the sky. Shared confession—both camps glory here.\n\nArminian pastoral: love and faithfulness are sincerely held out as the ground of hope. Keep them before the eyes; then praise among the nations is not empty noise.",
+      "reformedNotes": "Calvin: mercy great above the heavens and truth unto the clouds are why God must be praised among the peoples. His character, not our mood, fuels the song.\n\nReformed comfort: the heights of hesed and faithfulness are God’s own measure. The church leans on what reaches past every cloud of trouble."
+    },
+    {
+      "number": 5,
+      "text": "Be exalted, O God, above the heavens! Let your glory be over all the earth!",
+      "arminianNotes": "Be exalted above the heavens; glory over all the earth. Wesley (Ps 57): Glorify thy power, and goodness, and justice, and faithfulness, by my deliverance—to the highest degree possible.\n\nArminian hearing: the prayer asks God to show Himself great in saving help. Earth-wide glory matches a love already above the heavens. Shared—exaltation of God, not of self.",
+      "reformedNotes": "Calvin: God is asked to exalt Himself so that His glory covers the earth. Deliverance of the beloved serves that exaltation.\n\nReformed accent: the petition centers God’s renown. Help for the people is bound to the display of His glory over all the earth."
+    },
+    {
+      "number": 6,
+      "text": "That your beloved ones may be delivered, give salvation by your right hand and answer me!",
+      "arminianNotes": "That your beloved may be delivered—save by your right hand and answer me. Wesley (Ps 60): Beloved—thy beloved people. The right hand is God’s power; the plea is for real rescue of those He loves.\n\nArminian pastoral: shared—deliverance is asked of God, not seized by human force. The beloved cry for an answered salvation. Grace that loves also saves when called upon in faith.",
+      "reformedNotes": "Calvin: the beloved are delivered by God’s right hand; human schemes are not the engine. Answer me ties personal petition to the people’s rescue.\n\nReformed pastoral: God’s electing love of His people underwrites the cry. Salvation by the right hand is His act; the church asks because He has claimed them as beloved.",
+      "keyContrast": "Both plead for the beloved to be delivered by God’s right hand, not by human strength. Arminians typically stress the living cry of a people God sincerely loves and answers. Reformed readers typically stress that the beloved are those God has claimed, so the right-hand salvation is His covenant act for them."
+    },
+    {
+      "number": 7,
+      "text": "God has promised in his holiness: “With exultation I will divide up Shechem and portion out the Valley of Succoth.",
+      "arminianNotes": "God has promised in his holiness—with exultation He will divide Shechem and portion Succoth. Wesley (Ps 60): Rejoice—therefore I will turn my prayers into praises. Divide—supposeth possession and dominion. Shechem and Succoth stand for the land within and without Jordan.\n\nArminian hearing: a holy promise grounds joy and claimed inheritance. Shared—God’s word in holiness is sure. The singer exults because God has spoken, then walks in the claim.",
+      "reformedNotes": "Calvin: God has spoken in His holiness—the promise is the ground of rejoicing and of dominion language. Shechem and Succoth are claimed because God said so, not because maps were redrawn by chance.\n\nReformed accent: holiness of the speaker seals the word. Exultation is faith answering a decree already uttered."
+    },
+    {
+      "number": 8,
+      "text": "Gilead is mine; Manasseh is mine; Ephraim is my helmet, Judah my scepter.",
+      "arminianNotes": "Gilead and Manasseh mine; Ephraim my helmet; Judah my scepter. Wesley (Ps 60): Gilead—land beyond Jordan; Manasseh—within; Ephraim—a chief part of strength; Judah—chief seat of throne and judgment.\n\nArminian pastoral: the tribes are named as God’s gift for defense and rule. Shared—belonging and strength come from the promise, not from swagger.",
+      "reformedNotes": "Calvin: the tribes are claimed under the holy word. Helmet and scepter picture strength and rule God assigns to His king and people.\n\nReformed comfort: “mine” is covenant possession. God allots strength and law-giving; the church does not invent her boundaries."
+    },
+    {
+      "number": 9,
+      "text": "Moab is my washbasin; upon Edom I cast my shoe; over Philistia I shout in triumph.”",
+      "arminianNotes": "Moab a washbasin; Edom under the cast shoe; Philistia under a shout of triumph. Wesley (Ps 60): Wash-pot—lowest servitude; shoe—use them like slaves; a proverbial picture of subdued foes.\n\nArminian hearing: shared—victory language is God’s triumph over hostile powers, not a license for personal cruelty. The shout is faith’s answer to the holy promise.",
+      "reformedNotes": "Calvin: Moab, Edom, and Philistia are put under the king’s foot by God’s word. Washbasin and cast shoe are images of subjection God Himself effects.\n\nReformed accent: the triumph shout rests on what God has spoken. Enemies fall because He subdues them, not because Israel’s arm is ultimate."
+    },
+    {
+      "number": 10,
+      "text": "Who will bring me to the fortified city? Who will lead me to Edom?",
+      "arminianNotes": "Who will bring me to the fortified city? Who will lead me to Edom? Wesley (Ps 60): None can do it but God. Strong-holds remain after the field is won; divine help is still needed.\n\nArminian pastoral: shared dependence—fortresses and rocky Edom yield only if God leads. Ask who will bring you; do not trust the map alone.",
+      "reformedNotes": "Calvin: who will bring me into the fortified city? The question drives the answer: God alone. Human captains cannot open Edom’s gates.\n\nReformed accent: the rhetorical who empties self-reliance. Leadership into the strong city is God’s."
+    },
+    {
+      "number": 11,
+      "text": "Have you not rejected us, O God? You do not go out, O God, with our armies.",
+      "arminianNotes": "Have you not rejected us? You do not go out with our armies. Wesley (Ps 60): Hadst cast off—but now hast graciously returned. The lament names felt absence without denying God’s power to return.\n\nArminian hearing: honest complaint beside hope. Shared—both camps allow the cry of seeming rejection while still seeking God’s presence with the hosts.",
+      "reformedNotes": "Calvin: the people feel cast off when God does not go out with the armies. The complaint is real; it drives them back to ask for help, not to invent another savior.\n\nReformed pastoral: providence may hide for a time; the remedy is plea, not autonomy. Rejection felt is answered by renewed appeal to the same God."
+    },
+    {
+      "number": 12,
+      "text": "Oh grant us help against the foe, for vain is the salvation of man!",
+      "arminianNotes": "Grant us help against the foe—vain is the salvation of man. Wesley’s line on the parallel: vain is the help of man. Human rescue is empty; the ask is for God’s grant.\n\nArminian pastoral: shared confession—man’s salvation is vain. Pray for help; do not baptize alliances as if they were the right hand of verse 6.",
+      "reformedNotes": "Calvin: give us help from trouble, because the help of man is vain. The contrast is absolute: divine aid versus empty human salvage.\n\nReformed accent: vanity of man’s salvation clears the field for God’s alone. The church asks because she knows where help is not."
+    },
+    {
+      "number": 13,
+      "text": "With God we shall do valiantly; it is he who will tread down our foes.",
+      "arminianNotes": "With God we shall do valiantly; He will tread down our foes. Courage is real, yet the treading is His. Shared climax—valor under God, victory by God.\n\nArminian pastoral: do valiantly as those who fight with God; do not claim the tread as your own boot. Faith acts; God subdues.",
+      "reformedNotes": "Calvin: through God we will do valiantly, and He shall trample under foot our enemies. The doing is with God; the treading is His.\n\nReformed comfort: valor is participation under divine agency. Foes fall because He treads; the church’s bravery is never a second savior.",
+      "keyContrast": "Both confess that with God His people do valiantly and that He treads down the foes. Arminians typically stress Spirit-enabled courage the people must actually take up in dependence. Reformed readers typically stress that the decisive treading is God’s act, so valor is never a rival ground of salvation."
+    }
+  ]
+}

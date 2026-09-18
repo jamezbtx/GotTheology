@@ -1,0 +1,114 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 4,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Hebrews 4:1–13",
+  "context": "The wilderness warning of Psalm 95 still presses: while the promise of entering God's rest stands, fear lest any seem to have failed to reach it. The good news came to us as to them, yet without faith the message did not benefit. Believers enter that rest, though God swore the unbelieving would not—and his works were finished from the foundation of the world. Creation's seventh-day rest and Canaan under Joshua are not the final rest; Today is still appointed, and a Sabbath rest remains for the people of God. Therefore strive to enter, lest any fall by the same disobedience. The word of God is living and active, sharper than any two-edged sword, discerning the heart; no creature is hidden from his sight—all are naked and exposed to him to whom we must give account.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the promised rest that still stands, the fear and striving that take the wilderness warning seriously, and the living word that searches the heart—so each camp speaks in its own voice beside Hebrews 4:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "But the word which they heard did not profit them—so far from it, that it increased their damnation. It is then only when it is mixed with faith, that it exerts its saving power. For we only that have believed enter into the rest—the proposition is, There remains a rest for us: not God's rest from creating, nor the rest Israel obtained through Joshua, but the eternal rest in heaven. Therefore—since he still speaks of another day, there must remain a farther, even an eternal, rest for the people of God. Let us labour therefore to enter into that rest, lest any one should fall—into perdition. For the word of God—preached and armed with threatenings—is living and powerful, attended with the power of the living God, conveying either life or death to the hearers; a discerner not only of the thoughts, but also of the intentions. All things are naked and opened unto the eyes of him with whom we have to do.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament, Hebrews 4"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Let us therefore fear—not that which shakes the confidence of faith, but such as fills us with concern that we grow not torpid with indifference; lest we be unfaithful to God's grace. No one comes short of the promise except he who by rejecting grace has first renounced it. The Gospel is preached to us as to them; yet they received no fruit, and we also shall be destitute of his blessing unless we receive it by faith. We which have believed do enter into rest—unbelief alone shuts us out; faith alone opens an entrance. If Joshua had given them rest, God would not afterward have spoken of another day; there remains a sabbathizing for God's people, a spiritual rest to which God daily invites us. Let us labour to enter that rest, lest any fall after the same example of unbelief. The word of God is living and powerful—it cannot be despised with impunity; it penetrates to the dividing of soul and spirit and is a discerner of the thoughts and intents of the heart. All things are naked and opened unto the eyes of him with whom we have to do.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews 4:1–13"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it.",
+      "arminianNotes": "Therefore—on the wilderness oath and unbelief of chapter 3—while the promise of entering his rest still stands, let us fear lest any seem to have failed to reach it. The promise is not revoked; the danger of missing it is named for the church. Wesley's whole chapter presses that a rest remains, and that falling short is no empty scare.\n\nArminian pastoral: both camps take \"let us fear\" seriously—the warning is real, not fake. The fork is not whether God meant the caution, but how far a hearer may fail to reach the rest. Fear here is holy urgency against presumption while the promise still stands.",
+      "reformedNotes": "Calvin: Let us therefore fear—not that which shakes the confidence of faith, but such as fills us with concern that we grow not torpid with indifference. Fear lest we be unfaithful to God's grace. No one comes short of the promise left us except he who by rejecting grace has first renounced the promise; by the fall of others we are taught humility and watchfulness.\n\nReformed pastoral: shared—the promise still stands, and \"let us fear\" is earnest means, not theater. Those who finally enter are kept; the fear God commands is the path of perseverance, not a wager that he may lose his own.",
+      "keyContrast": "Both refuse to treat \"let us fear\" or \"failed to reach it\" as sham while the promise stands. Arminians typically hear a real danger that some who hear may seem—and in truth be—short of the rest; holy fear guards against failing to reach what grace still offers. Reformed readers typically hear the same urgency as God's means: the elect enter; fear guards against torpid unfaithfulness, and none finally come short except those who reject the grace they professed."
+    },
+    {
+      "number": 2,
+      "text": "For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.",
+      "arminianNotes": "Good news came to us just as to them, but the message did not benefit them—they were not united by faith with those who listened. Wesley: the word which they heard did not profit them—so far from it, that it increased their damnation. It is then only when it is mixed with faith that it exerts its saving power.\n\nArminian pastoral: shared—hearing without faith does not save. Privilege of the gospel is no shelter if the heart will not trust. Unite the message with faith; otherwise the same good news that offers rest leaves the hearer unhelped.",
+      "reformedNotes": "Calvin: the doctrine by which God invites us is the same as that delivered to the fathers—so we may know the calling will be no more profitable to us than to them except we make it sure by faith. Hearing is useless except the word be received by faith; the word separated from faith confers no good, though its power does not depend on us.\n\nReformed pastoral: shared—gospel preached, yet without faith no benefit. The wilderness hearers are the mirror. Receive the word by faith; bare audition is not entrance into rest."
+    },
+    {
+      "number": 3,
+      "text": "For we who have believed enter that rest, as he has said, \"As I swore in my wrath, 'They shall not enter my rest,'\" although his works were finished from the foundation of the world.",
+      "arminianNotes": "We who have believed enter that rest—set against the oath, They shall not enter my rest—though God's works were finished from the foundation of the world. Wesley: we only that have believed enter into the rest; the proposition is that a rest remains for us, proved through the verses that follow, and it is the eternal rest in heaven.\n\nArminian pastoral: shared—faith is the door; unbelief drew the oath. Believing is not a casual label; it is how one enters. The finished works of creation do not cancel a rest still held out to faith today.",
+      "reformedNotes": "Calvin: we which have believed do enter into rest—an argument from the contrary: unbelief alone shuts us out; faith alone opens an entrance. God angry with the unbelieving swore they should not partake; then they enter where unbelief does not hinder, provided God invites. Speaking in the first person, he allures with sweetness, separating them from aliens.\n\nReformed pastoral: shared—believers enter; the oath fell on unbelief. The rest open to faith is God's gift. Those who believe are those who enter—not a different gospel, but the same promise received.",
+      "keyContrast": "Both agree that faith opens entrance and unbelief drew the oath. Arminians typically stress \"we who have believed\" as the living condition of entering, with the later warnings still naming a real peril of falling short. Reformed readers typically hear the same clause as describing who truly enter: believers do enter; the oath and the exhortations are means that keep the flock believing, not proof that God's elect finally miss his rest."
+    },
+    {
+      "number": 4,
+      "text": "For he has somewhere spoken of the seventh day in this way: \"And God rested on the seventh day from all his works.\"",
+      "arminianNotes": "Somewhere he has spoken of the seventh day: And God rested on the seventh day from all his works. Wesley: long after he had rested from his works, he speaks again (Gen. 2:2)—so the Psalm's rest is not merely that creation rest.\n\nArminian pastoral: shared typology, not a camp fork—creation rest is real, yet the letter will show another rest still ahead. Both camps agree a rest remains beyond the seventh day of Genesis.",
+      "reformedNotes": "Calvin: to define what our rest is, he reminds us that God, having finished creation, rested from his works—and finally concludes that the true rest of the faithful, continuing forever, will be when they rest as God did.\n\nReformed pastoral: shared—Genesis rest is cited to open, not close, the argument. The church is not told that Canaan or creation exhausted God's rest. A fuller rest is in view for the people of God."
+    },
+    {
+      "number": 5,
+      "text": "And again in this passage he said, \"They shall not enter my rest.\"",
+      "arminianNotes": "Again in this passage: They shall not enter my rest. Wesley: in this psalm, of a rest yet to come. The oath and the seventh-day word stand side by side so the reader sees the rest spoken of is not spent.\n\nArminian pastoral: shared—the repeated exclusion line keeps the warning warm. Rest remains; disobedience still bars. Do not soften the oath into ancient scenery only.",
+      "reformedNotes": "Calvin: God who is said to have rested declared long after that he would not give his rest to the unbelieving—he would have so declared to no purpose had he not intended that the faithful should rest after his own example.\n\nReformed pastoral: shared—\"They shall not enter\" returns on purpose. The same God who rested invites and warns. Unbelief still excludes; faith still enters."
+    },
+    {
+      "number": 6,
+      "text": "Since therefore it remains for some to enter it, and those who formerly received the good news failed to enter because of disobedience,",
+      "arminianNotes": "It remains for some to enter it; those who formerly received the good news failed to enter because of disobedience. The logic is pastoral: if some must enter, and the first hearers failed through disobedience, the promise has not been emptied—it still summons faith and obedience.\n\nArminian pastoral: shared—disobedience barred the former hearers; a remaining entrance is still held out. The wilderness failure is a real caution for those who hear good news now.",
+      "reformedNotes": "Calvin: it remaineth that some must enter in—for if not to enter is the punishment of unbelief, then an entrance is open to believers. As the fathers' unbelief deprived them of the promised possession, the promise is renewed so that children may possess what fathers neglected.\n\nReformed pastoral: shared—some enter; the disobedient formerly failed. The remaining rest is not typology trivia; it is the open door faith must take, under the same warning."
+    },
+    {
+      "number": 7,
+      "text": "again he appoints a certain day, \"Today,\" saying through David so long afterward, in the words already quoted, \"Today, if you hear his voice, do not harden your hearts.\"",
+      "arminianNotes": "Again he appoints a certain day, Today—through David so long afterward. Wesley: after so long a time—above four hundred years from Moses and Joshua to David. Today returns; harden not your hearts returns.\n\nArminian pastoral: shared—Today is still God's appointed day. Hearing without hardening remains the living response. The long gap after Joshua proves the call was not retired when Canaan was entered.",
+      "reformedNotes": "Calvin: there is another today appointed for us in the Psalm because the former people had been excluded; the Holy Spirit warns that we may not do the same and incur the same punishment. Were nothing promised today, how could the warning suit—take heed lest the same thing happen to you as to the fathers?\n\nReformed pastoral: shared—Today through David proves a rest and a call still open. Do not harden; the Spirit's date-stamp is present tense for the church."
+    },
+    {
+      "number": 8,
+      "text": "For if Joshua had given them rest, God would not have spoken of another day later on.",
+      "arminianNotes": "If Joshua had given them rest, God would not have spoken of another day later on. Wesley: the rest—all the rest which God had promised. Joshua's gift was real; it was not final.\n\nArminian pastoral: shared—not a camp fork on typology. Both agree Canaan under Joshua was not the last rest. Another day later on means a farther rest still stands for the people of God.",
+      "reformedNotes": "Calvin: he meant not to deny that David understood by rest the land of Canaan into which Joshua led the people; but he denies this to be the final rest to which the faithful aspire. Canaan was an image and symbol of the spiritual inheritance; when they possessed it they ought to have advanced toward what was spiritual.\n\nReformed pastoral: shared—Joshua did not exhaust God's rest. The land was gift and shadow; another day later on summons the church beyond Canaan to the rest that remains."
+    },
+    {
+      "number": 9,
+      "text": "So then, there remains a Sabbath rest for the people of God,",
+      "arminianNotes": "So then, there remains a Sabbath rest for the people of God. Wesley: therefore—since he still speaks of another day, there must remain a farther, even an eternal, rest for the people of God.\n\nArminian pastoral: shared conclusion of the typology—Sabbath rest remains. Not debate over shadows as the fork between camps, but agreement that God's people still have a rest ahead, and must hear Today.",
+      "reformedNotes": "Calvin: he draws the conclusion that there is a sabbathizing reserved for God's people—a spiritual rest to which God daily invites us.\n\nReformed pastoral: shared—there remains a Sabbath rest. The people of God are not left with only past types. Invitation and warning alike press toward that remaining rest."
+    },
+    {
+      "number": 10,
+      "text": "for whoever has entered God's rest has also rested from his works as God did from his.",
+      "arminianNotes": "Whoever has entered God's rest has also rested from his works as God did from his. Wesley: for they do not yet so rest; therefore a fuller rest remains for them. Entrance means real cessation after God's pattern—not mere geography.\n\nArminian pastoral: shared—true entrance includes resting from one's works as God rested. The fuller rest still ahead keeps striving from becoming idle presumption.",
+      "reformedNotes": "Calvin: this defines that perpetual Sabbath in which there is the highest felicity—likeness to God when united to him. The conformation takes place when we rest from our works; man becomes happy by self-denial, ceasing from his own works to give place to God. Though completion cannot be attained in this life, we ought ever to strive for it.\n\nReformed pastoral: shared—entering God's rest means resting from our works as God did. Believers enter on condition that by running they continually go forward; the rest does not cancel holy striving."
+    },
+    {
+      "number": 11,
+      "text": "Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience.",
+      "arminianNotes": "Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience. Wesley: lest any one should fall—into perdition. The wilderness pattern of disobedience is the warned fall; striving is the appointed response while rest remains.\n\nArminian pastoral: both take \"strive\" and \"fall\" seriously—the warning is real. Striving is not self-salvation; it is the earnest path grace enables so that none falls short by the same disobedience. Do not dissolve the \"lest\" into a threat that never lands.",
+      "reformedNotes": "Calvin: having pointed out the goal, he exhorts us to pursue our course. He sets falling in opposition to entering, alluding to those who fell in the wilderness because they were rebellious. After the same example—punishment for unbelief and obstinacy is set before us as in a picture; a similar end awaits us if the same unbelief be found in us. To fall means to perish as punishment.\n\nReformed pastoral: shared—strive to enter; do not fall by the same disobedience. The elect are kept through means; striving is God's instrument of perseverance, not proof that he fails to bring his people in.",
+      "keyContrast": "Both refuse to treat \"strive to enter\" or \"fall by the same sort of disobedience\" as empty. Arminians typically hear a genuine peril of falling—Wesley says into perdition—so striving is urgent lest any fail to reach the remaining rest. Reformed readers typically hear the same commands as means of perseverance: those who finally enter strive and do not fall in unbelief; the wilderness example warns and drives the flock, while God keeps his own through that very striving."
+    },
+    {
+      "number": 12,
+      "text": "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.",
+      "arminianNotes": "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and spirit, of joints and marrow, discerning the thoughts and intentions of the heart. Wesley: the word—preached (4:2) and armed with threatenings (4:3)—is living and powerful, attended with the power of the living God, conveying either life or death to the hearers; penetrating the heart; a discerner not only of the thoughts but also of the intentions.\n\nArminian pastoral: shared—searching judgment, not a camp fork. The same word that offers rest also lays the heart open. Hypocrisy cannot hide; strive and fear under a word that truly discerns.",
+      "reformedNotes": "Calvin: he says this of the word's efficacy that they might know it cannot be despised with impunity—whenever the Lord addresses us, he deals seriously to touch all our inmost thoughts and feelings. It is living and full of hidden power, leaving nothing in man untouched; a discerner that brings light where unbelief and hypocrisy had darkness.\n\nReformed pastoral: shared—the word is living, active, and searching. Consciences are summoned as soon as it sounds. Take the rest-warning as speech God means; it pierces where we would hide."
+    },
+    {
+      "number": 13,
+      "text": "And no creature is hidden from his sight, but all are naked and exposed to the eyes of him to whom we must give account.",
+      "arminianNotes": "No creature is hidden from his sight; all are naked and exposed to the eyes of him to whom we must give account. Wesley: it is God whose word is thus powerful; it is God in whose sight every creature is manifest; his word working on the conscience gives the fullest conviction. All things are naked and opened—alluding to sacrifices flayed and cleft so that everything without and within was exposed to open view.\n\nArminian pastoral: shared—accountability before the God who sees. The rest promise and the wilderness warning both stand under his eyes. Give account as those who have heard Today; do not harden as though unseen.",
+      "reformedNotes": "Calvin: for confirms the truth—whatever is hid in man is discerned by God's word, from the nature of God himself. No creature is hid from his eyes; nothing so deep in the soul that it cannot be drawn forth by that word which resembles its author. Render: with whom we have to do—it is God who deals with us; therefore whenever his word is set before us, we ought to tremble, for nothing is hid from him.\n\nReformed pastoral: shared—naked and exposed to him to whom we must give account. The living word searches because the living God sees. Fear, strive, and believe under that gaze; the warning of rest is spoken by the One who misses nothing."
+    }
+  ]
+}

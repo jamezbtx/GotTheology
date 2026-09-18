@@ -60,6 +60,26 @@
       "why": "Let the wicked forsake his way; return to the Lord, for he will abundantly pardon."
     },
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 86,
+      "verseStart": 1,
+      "verseEnd": 17,
+      "title": "Psalm 86:1–17",
+      "href": "/bible/psalms/86/1-17.html",
+      "why": "You, O Lord, are a God merciful and gracious, abounding in steadfast love."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 103,
+      "verseStart": 1,
+      "verseEnd": 22,
+      "title": "Psalm 103:1–22",
+      "href": "/bible/psalms/103/1-22.html",
+      "why": "The Lord is merciful and gracious, slow to anger and abounding in steadfast love."
+    },
+    {
       "book": "Romans",
       "bookSlug": "romans",
       "chapter": 9,

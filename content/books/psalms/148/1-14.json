@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 148,
+  "verseStart": 1,
+  "verseEnd": 14,
+  "translation": "ESV",
+  "title": "Psalm 148:1–14",
+  "context": "Cosmic Hallelujah in the final doxologies: praise the LORD from the heavens—angels, hosts, sun, moon, shining stars, highest heavens, and waters above—for He commanded and they were created, established by a decree that shall not pass. From the earth: great sea creatures, deeps, fire, hail, snow, mist, stormy wind fulfilling His word; mountains, trees, beasts, birds; then kings, peoples, princes, young and old. His name alone is exalted; He has raised a horn for His people, praise for all His saints, Israel near to Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on all creation summoned to praise—from angels and stars to kings and children—because He commanded and they were created, and because He raised a horn for His people near to Him—so each camp speaks in its own voice beside Psalm 148:1–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "As a hymn of praise, this is the most sublime in the whole book. Praise ye the Lord from the heavens—whatever belongs to the heavens, all their inhabitants. Every work of God’s hand partakes so much of his perfections that it requires only to be studied and known to show forth the manifold wisdom, power, and goodness of the Creator. He commanded, and they were created: he spake the word expressive of the idea in his infinite mind, and they sprang into being. He hath also stablished them—determined their revolutions so exactly that they have never passed the line marked out by his decree. He also exalteth the horn of his people: raises to power and authority his people. A people near unto him—the only people who know him and make their approaches unto him as he has prescribed. O what a hymn of praise is here! It is a universal chorus!",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 148)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Praise Jehovah from the heavens. With regard to the angels, created that they might be instant in this religious service, we need not wonder they are placed first. David would testify that it was the height of his happiness to join in sacred concert with elect angels. Praise him, sun and moon: the glory of God is everywhere to be seen, as if they sang his praises with audible voice; here he tacitly reproves the ingratitude of man. Let them praise the name of Jehovah; for he commanded, and they were created—the world is not eternal, nor made by a concourse of atoms, but suddenly sprang forth upon the commandment of God. He established them for ever; he hath set for them a decree—not that God sits idle while nature stands of itself, but the works above still move at his disposal. Kings of the earth: by thrice specifying princes he suggests they are slow to praise and need urging. He hath exalted the horn of his people: God’s blessing is apparent in his Church. Children of Israel, a people near unto him—nearness from gracious covenant, not from excellency; the cause is the mere love of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 148)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Praise the LORD! Praise the LORD from the heavens; praise him in the heights!",
+      "arminianNotes": "Praise the LORD! Praise the LORD from the heavens; praise Him in the heights! Clarke: the most sublime hymn in the book; min hashshamayim—all that belongs to the heavens.\n\nShared doxology opener: both camps join the heights. Classical Arminians hear a universe meant to show forth the Creator’s goodness.",
+      "reformedNotes": "Calvin: he seems to include stars as well as angels, heaven, air, and all gendered in it. The call starts above so earth may learn.\n\nReformed accent: cosmic choir. Shared: Praise the LORD from the heavens; in the heights."
+    },
+    {
+      "number": 2,
+      "text": "Praise him, all his angels; praise him, all his hosts!",
+      "arminianNotes": "Praise Him, all His angels; praise Him, all His hosts! Angels lead the litany; hosts stand ready.\n\nBoth camps: angelic praise is real. Classical Arminians do not reduce angels to metaphor in order to keep the doxology soft.",
+      "reformedNotes": "Calvin: angels created to be instant in this service are placed first; David joins their concert rather than scolding their zeal. Hosts: they stand ready to receive orders.\n\nReformed accent: angelic armies. Shared: angels and hosts praise Him."
+    },
+    {
+      "number": 3,
+      "text": "Praise him, sun and moon, praise him, all you shining stars!",
+      "arminianNotes": "Praise Him, sun and moon; praise Him, all you shining stars! Clarke: every work partakes of His perfections—study it and wisdom, power, and goodness appear. Stars of light: the brightest; perhaps planets.\n\nShared: inanimate nature as witness—creation shows the Maker.",
+      "reformedNotes": "Calvin: not Plato’s intelligent stars; glory is seen as if they sang. Tacit reproof of human ingratitude—deafness to the symphony.\n\nReformed accent: sun and moon as audible praise to attentive ears. Shared: sun, moon, shining stars."
+    },
+    {
+      "number": 4,
+      "text": "Praise him, you highest heavens, and you waters above the heavens!",
+      "arminianNotes": "Praise Him, you highest heavens, and you waters above the heavens! Clarke: heavens exceeding heavens—systems of systems; waters as in Genesis 1:7—clouds, vapors, rain, snow, meteors.\n\nShared: expanse and upper waters. Both camps praise the Architect of layered skies.",
+      "reformedNotes": "Calvin: heavens of heavens—spheres in order, not confusion; waters above point to rain’s descent, popular speech not idle philosophy of a sea upstairs.\n\nReformed accent: ordered spheres. Shared: highest heavens; waters above."
+    },
+    {
+      "number": 5,
+      "text": "Let them praise the name of the LORD! For he commanded and they were created.",
+      "arminianNotes": "Let them praise the name of the LORD! For He commanded and they were created. Clarke: He spoke the idea in His infinite mind; they sprang into being according to that idea.\n\nBoth camps: creation by command. Classical Arminians refuse a world that made itself; praise answers speech that made.",
+      "reformedNotes": "Calvin: the world is not eternal nor a concourse of atoms, but sprang forth upon God’s commandment. He Himself created—emphatic against chance.\n\nReformed confession: creation by fiat. Shared: He commanded; they were created."
+    },
+    {
+      "number": 6,
+      "text": "And he established them forever and ever; he gave a decree, and it shall not pass away.",
+      "arminianNotes": "And He established them forever and ever; He gave a decree, and it shall not pass away. Clarke: revolutions so exact they never passed the line of His decree nor intercepted each other.\n\nShared: stable decree—the ordinance holds because He holds it.",
+      "reformedNotes": "Calvin: many grant creation yet fancy nature now stands of itself with God idle; the Psalmist insists the heavens still move at His disposal.\n\nReformed accent: ongoing governance, not deism. Shared: established forever; decree that shall not pass."
+    },
+    {
+      "number": 7,
+      "text": "Praise the LORD from the earth, you great sea creatures and all deeps,",
+      "arminianNotes": "Praise the LORD from the earth, you great sea creatures and all deeps. Clarke: second half—earth and all belonging to it; tanninim—whales and sea-monsters; deeps—seas, tides, eddies.\n\nShared: ocean praise. Both camps let the deeps join without allegory-as-theology-fork.",
+      "reformedNotes": "Calvin: now the lower world; whales and abysses—matter for praising God from the sea fraught with wonders.\n\nReformed accent: earth’s choir begins in the deep. Shared: great sea creatures; all deeps."
+    },
+    {
+      "number": 8,
+      "text": "fire and hail, snow and mist, stormy wind fulfilling his word!",
+      "arminianNotes": "Fire and hail, snow and mist, stormy wind fulfilling His word! Clarke: meteors of water and fire; air from breeze to tornado—each accomplishing an especial purpose and particular will.\n\nBoth camps: stormy wind obeys. Classical Arminians hear providence in weather without denying second causes.",
+      "reformedNotes": "Calvin: lightning, snow, ice, storms fulfill His word—not chance; whether mercy by rain or punishment by hail, all depend on secret will. Nothing without present disposal.\n\nReformed accent: elements as messengers. Shared: fire, hail, snow, mist; wind fulfilling His word."
+    },
+    {
+      "number": 9,
+      "text": "Mountains and all hills, fruit trees and all cedars!",
+      "arminianNotes": "Mountains and all hills, fruit trees and all cedars! Clarke: mountains with mines and minerals; fruit trees and forest cedars—hue, savor, structure proclaim wisdom and goodness.\n\nShared landscape praise. Both camps let hills and trees glorify without forcing a genre dispute.",
+      "reformedNotes": "Calvin: mountains, hills, fruitful tree, cedars—wherever we turn, evidences of power.\n\nReformed accent: terrestrial witnesses. Shared: mountains, hills, fruit trees, cedars."
+    },
+    {
+      "number": 10,
+      "text": "Beasts and all livestock, creeping things and flying birds!",
+      "arminianNotes": "Beasts and all livestock, creeping things and flying birds! Clarke: wild and domestic; reptiles great and microscopic; fowls whose flight is mathematical wonder.\n\nShared: living earth. Classical Arminians see lavish wisdom in creatures as call to praise, not to pride.",
+      "reformedNotes": "Calvin: wild beasts, cattle, reptile, winged fowl—the catalog presses every eye toward the Maker.\n\nReformed accent: no creature left silent. Shared: beasts, livestock, creeping things, flying birds."
+    },
+    {
+      "number": 11,
+      "text": "Kings of the earth and all peoples, princes and all rulers of the earth!",
+      "arminianNotes": "Kings of the earth and all peoples, princes and all rulers of the earth! Clarke: kings as representatives; princes and judges—praise God from whom power derives; people thank Him for civil order.\n\nShared: rulers must praise. Classical Arminians hear authority under God, not autonomy.",
+      "reformedNotes": "Calvin: kings blinded by station think the world made for them; he calls them first and thrice names princes because they are slow and need urging.\n\nReformed accent: greater obligation for the high. Shared: kings, peoples, princes, rulers."
+    },
+    {
+      "number": 12,
+      "text": "Young men and maidens together, old men and children!",
+      "arminianNotes": "Young men and maidens together, old men and children! Clarke: bloom of youth and vigor; old and children—beginning and end of life—both show His sustaining goodness.\n\nShared: every age and sex. Both camps refuse an age-exempt choir.",
+      "reformedNotes": "Calvin: division by age and sex—all without exception created for this end. Old men: longer life, more exercise in praise; young: acknowledge mercy in vigor; maidens also—emphatic inclusion.\n\nReformed accent: no demographic silence. Shared: young men, maidens, old men, children."
+    },
+    {
+      "number": 13,
+      "text": "Let them praise the name of the LORD, for his name alone is exalted; his majesty is above earth and heaven.",
+      "arminianNotes": "Let them praise the name of the LORD, for His name alone is exalted; His majesty is above earth and heaven. Clarke: He excels all beings; glory over earth and heaven—all space shows manifold wisdom.\n\nShared climax before the people-clause: name alone exalted. Both camps worship; no rival name shares the throne.",
+      "reformedNotes": "Calvin: let them praise—exalted is His name only; His praise above earth and heavens.\n\nReformed accent: exclusive exaltation. Shared: name alone exalted; majesty above earth and heaven."
+    },
+    {
+      "number": 14,
+      "text": "He has raised up a horn for his people, praise for all his saints, for the people of Israel who are near to him. Praise the LORD!",
+      "arminianNotes": "He has raised up a horn for His people, praise for all His saints, for the people of Israel who are near to Him. Praise the LORD! Clarke: horn—power and authority; near—those who know Him and approach as He prescribed. Universal chorus ends with Israel’s nearness.\n\nShared close: both camps praise the horn and the near people. Classical Arminians treasure nearness as covenant grace that summons praise.",
+      "reformedNotes": "Calvin: horn means strength or dignity—Church protected by divine hand. Nearness from preferring Abraham’s line by mere love, not native worth. Hallelujah.\n\nReformed accent: gracious nearness. Shared with Clarke: horn raised; saints’ praise; Israel near; Praise the LORD!"
+    }
+  ]
+}

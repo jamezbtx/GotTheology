@@ -60,6 +60,26 @@
       "why": "Comfort my people; the word of our God will stand forever."
     },
     {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 6,
+      "verseStart": 9,
+      "verseEnd": 20,
+      "title": "Hebrews 6:9–20",
+      "href": "/bible/hebrews/6/9-20.html",
+      "why": "God swore by himself; it is impossible for God to lie—hope as an anchor."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 89,
+      "verseStart": 1,
+      "verseEnd": 52,
+      "title": "Psalm 89:1–52",
+      "href": "/bible/psalms/89/1-52.html",
+      "why": "I will sing of the steadfast love of the Lord forever—covenant faithfulness to David."
+    },
+    {
       "book": "2 Timothy",
       "bookSlug": "2-timothy",
       "chapter": 2,

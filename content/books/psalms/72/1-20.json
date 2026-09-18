@@ -1,0 +1,156 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 72,
+  "verseStart": 1,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Psalm 72:1–20",
+  "context": "Of Solomon. A royal prayer that God’s justice and righteousness clothe the king’s son: he judges the poor, crushes the oppressor, endures with sun and moon, rules from sea to sea, receives tribute from kings, delivers the needy, and is blessed forever—so the earth fills with his fame. The prayers of David the son of Jesse are ended.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the king’s justice for the poor, dominion from sea to sea, and blessing that fills the earth—read of Solomon’s throne and, more fully, of Christ’s—so each camp speaks in its own voice beside Psalm 72.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Judgments—Wherewith thou usest to govern the world, and especially thy people. Righteousness—Not only justice, but all those graces and virtues which are the proper fruits of God’s Spirit. Mountains—Which are commonly dry and barren. Bring peace—prosperity by thy righteous government. Fear—A true and filial fear of God. Sun—As long as the sun and moon endure. Dominion—From the Red Sea to the Mediterranean. Ends—Of the land of Canaan. Tarshish—A city of Cilicia, and an emporium of the Mediterranean trade; and so for the neighbouring places. Sheba—Arabia Felix. Live—Long and prosperously. Gold—The choicest gift which they have. Prayer—They shall make continual prayer for him. Daily—Heb. all the day. Name—His honour and glory. Continued—As long as the sun. Blessed—Men shall bless themselves in him, and wish to be as happy as he is. Filled—With the worship and knowledge and glory of God. Amen—This is added as a solemn confirmation of the foregoing prophecy and prayer.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 72)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Solomon prays that God would bestow upon the king the spirit of judgment and righteousness… Yet the kingdom of Christ is principally intended… He shall judge thy people with righteousness, and thy poor with judgment… In his days shall the righteous flourish… He shall have dominion from sea to sea… All kings shall fall down before him… He shall deliver the needy when he crieth… Men shall be blessed in him; all nations shall call him blessed… Blessed be the LORD God, the God of Israel, who only doeth wondrous things; and blessed be his glorious name for ever: and let the whole earth be filled with his glory. Amen, and Amen. The prayers of David the son of Jesse are ended—not that David composed no more, but that this series of prayers and praises is here closed.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 72)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Give the king your justice, O God, and your righteousness to the royal son!",
+      "arminianNotes": "Wesley: Judgments—wherewith thou governest; Righteousness—justice and Spirit-fruits for the king’s son. The prayer asks God-given equity for the throne.\n\nArminian pastoral: shared royal/messianic frame—justice is gift before it is policy. The king (and greater Son) must receive what only God gives; hearers still pray for righteous rule.",
+      "reformedNotes": "Calvin: Solomon asks the spirit of judgment and righteousness for the king; principally Christ’s kingdom is intended. Justice and righteousness are God’s to bestow on the royal son.\n\nReformed accent: shared—throne ethics begin as divine gift. The Anointed rules by what God gives, not by self-made equity.",
+      "keyContrast": "Both ask God to clothe the king’s son with justice and righteousness, and both read beyond Solomon to Christ. Arminians typically stress prayer for righteous rule that must still be exercised; Reformed readers typically stress that judgment and righteousness are bestowed for Christ’s kingdom by God’s gift."
+    },
+    {
+      "number": 2,
+      "text": "May he judge your people with righteousness, and your poor with justice!",
+      "arminianNotes": "Wesley: the poor especially need the king’s just judgment. People and poor stand together under righteous rule.\n\nArminian note: shared—care for the poor is not optional royal garnish. Grace that saves also summons rulers (and the church under Christ) to just judgment of the needy.",
+      "reformedNotes": "Calvin: he shall judge thy people with righteousness, and thy poor with judgment. Christ’s reign is marked by equity toward the lowly.\n\nReformed pastoral: shared messianic justice—the poor are not forgotten under the true King."
+    },
+    {
+      "number": 3,
+      "text": "Let the mountains bear prosperity for the people, and the hills, in righteousness!",
+      "arminianNotes": "Wesley: Mountains—often dry—bring peace/prosperity by righteous government. Hills yield under righteousness.\n\nArminian hearing: shared—shalom rides on right rule. Geography itself is imagined fruitful when justice reigns.",
+      "reformedNotes": "Calvin: mountains and hills picture the land’s flourishing under the king’s righteousness—peace as fruit of equity.\n\nReformed accent: shared—prosperity without righteousness is not this psalm’s hope."
+    },
+    {
+      "number": 4,
+      "text": "May he defend the cause of the poor of the people, give deliverance to the children of the needy, and crush the oppressor!",
+      "arminianNotes": "Wesley’s trajectory: defend poor, deliver needy children, crush the oppressor. Mercy and severity meet.\n\nArminian pastoral: shared seriousness—oppressors are crushed, not negotiated into endless harm. The King’s grace toward the needy includes judgment on predators.",
+      "reformedNotes": "Calvin: deliverance of the needy and crushing of oppressors mark the Messiah’s rule. Pity and power are not rivals.\n\nReformed note: shared—Christ’s kingdom is refuge for the crushed and terror for the crusher."
+    },
+    {
+      "number": 5,
+      "text": "May they fear you while the sun endures, and as long as the moon, throughout all generations!",
+      "arminianNotes": "Wesley: Fear—true filial fear; Sun—as long as sun and moon. Generational reverence is the aim.\n\nArminian hope: shared—fear of God outlasts dynasties. The summons to filial fear remains live for every generation that sees the King’s days.",
+      "reformedNotes": "Calvin: enduring fear of God accompanies the King’s long reign—sun and moon measure permanence beyond one Solomon.\n\nReformed accent: shared—messianic duration. Temporary thrones cannot exhaust this while-the-sun prayer."
+    },
+    {
+      "number": 6,
+      "text": "May he be like rain that falls on the mown grass, like showers that water the earth!",
+      "arminianNotes": "Wesley: gentle, renewing rule—rain on mown grass, showers on earth. Soft power that refreshes.\n\nArminian note: shared—the King refreshes rather than only scorches. Grace that waters still invites the land to drink.",
+      "reformedNotes": "Calvin: rain and showers image beneficial influence—Christ’s reign restores what cutting left bare.\n\nReformed pastoral: shared—messianic refreshment is gift from above, not self-irrigation."
+    },
+    {
+      "number": 7,
+      "text": "In his days may the righteous flourish, and peace abound, till the moon be no more!",
+      "arminianNotes": "Wesley: Fear/peace themes continue—righteous flourish; peace abounds while moon lasts.\n\nArminian pastoral: shared—righteousness and peace are twin fruits. Flourish is not greed; it is the righteous thriving under the King.",
+      "reformedNotes": "Calvin: in his days the righteous flourish; peace until the moon cease. Christ’s days define the climate of justice.\n\nReformed accent: shared long horizon—till moon be no more points past Solomon to the greater Son."
+    },
+    {
+      "number": 8,
+      "text": "May he have dominion from sea to sea, and from the River to the ends of the earth!",
+      "arminianNotes": "Wesley: Dominion—Red Sea to Mediterranean; Ends—of Canaan, yet the wording stretches wider in messianic hearing.\n\nArminian reading: shared global hope—sea to sea and River to ends outrun a small empire. Christ’s dominion is the agreed fulfillment both camps confess.",
+      "reformedNotes": "Calvin: dominion from sea to sea—Christ’s rule to the ends of the earth. Solomon’s borders were type; the River-to-ends language fits the Messiah.\n\nReformed note: shared—universal dominion. Neither camp stalls the map at mere Solomonic tourism.",
+      "keyContrast": "Both confess dominion from sea to sea as reaching beyond Solomon to Christ. Arminians typically join that confession to the ongoing call of the nations; Reformed readers typically stress the Messiah’s settled right to the ends of the earth."
+    },
+    {
+      "number": 9,
+      "text": "May desert tribes bow down before him, and his enemies lick the dust!",
+      "arminianNotes": "Wesley: foes humbled—desert tribes bow; enemies lick dust. Submission language is strong.\n\nArminian pastoral: shared—enemies are real; bowing is the right end. Dust-licking is judgment language both camps take seriously, not cartoon violence.",
+      "reformedNotes": "Calvin: enemies lick the dust before the King—forced homage where willing worship is refused.\n\nReformed accent: shared—Christ’s foes do not finally stand tall."
+    },
+    {
+      "number": 10,
+      "text": "May the kings of Tarshish and of the coastlands render him tribute; may the kings of Sheba and Seba bring gifts!",
+      "arminianNotes": "Wesley: Tarshish—Cilician emporium for Mediterranean trade; Sheba—Arabia Felix. Tribute and gifts from distant kings.\n\nArminian note: shared gentile homage—nations bring tribute to the King. Mission hope rides this verse in classical reading.",
+      "reformedNotes": "Calvin: kings of Tarshish, Sheba, Seba—wide tribute foreshadows nations’ gifts to Christ.\n\nReformed pastoral: shared—far kings honor the Anointed; geography does not fence his fame."
+    },
+    {
+      "number": 11,
+      "text": "May all kings fall down before him, all nations serve him!",
+      "arminianNotes": "Wesley: universal kneel and serve. All kings, all nations—no exempt throne.\n\nArminian hearing: shared high christology of service due the King. Nations must still serve; the prophecy summons submission.",
+      "reformedNotes": "Calvin: all kings fall down; all nations serve him—language too wide for Solomon alone, fulfilled in Christ.\n\nReformed accent: shared—catholic scope of the Messiah’s claim."
+    },
+    {
+      "number": 12,
+      "text": "For he delivers the needy when he calls, the poor and him who has no helper.",
+      "arminianNotes": "Wesley: deliverance when the needy calls—poor and helper-less find the King.\n\nArminian pastoral: shared—calling is met with deliverance. The needy must still cry; grace answers the cry.",
+      "reformedNotes": "Calvin: he delivers the needy when he crieth—Christ’s royal pity is the for of the nations’ homage.\n\nReformed note: shared—empty-handed callers are the King’s specialty."
+    },
+    {
+      "number": 13,
+      "text": "He has pity on the weak and the needy, and saves the lives of the needy.",
+      "arminianNotes": "Wesley continues pity and life-saving for the weak. Compassion is policy.\n\nArminian note: shared—pity is not weakness in the King. Saving lives of the needy is messianic glory both camps praise.",
+      "reformedNotes": "Calvin: pity on weak and needy; lives saved—the Messiah’s heart matches his dominion.\n\nReformed pastoral: shared—power serving pity."
+    },
+    {
+      "number": 14,
+      "text": "From oppression and violence he redeems their life, and precious is their blood in his sight.",
+      "arminianNotes": "Wesley: redeem from oppression and violence; blood precious in his sight. Life valued.\n\nArminian pastoral: shared—oppression’s victims are costly to the King. Blood precious rebukes casual cruelty.",
+      "reformedNotes": "Calvin: redemption from deceit and violence; their blood precious—God’s King prices the lowly highly.\n\nReformed accent: shared—precious blood language underwrites justice, not indifference."
+    },
+    {
+      "number": 15,
+      "text": "Long may he live; may gold of Sheba be given to him! May prayer be made for him continually, and blessings invoked for him all the day!",
+      "arminianNotes": "Wesley: Live—long and prosperously; Gold—choicest gift; Prayer—continual; Daily—all the day. Prayer for the King is constant.\n\nArminian hope: shared—the church keeps praying for the King’s cause. Continual prayer is the people’s work under the reign.",
+      "reformedNotes": "Calvin: prayer made for him continually; blessings all day—intercession surrounds the throne, fulfilled as the church seeks Christ’s kingdom.\n\nReformed note: shared—gold and prayer honor him; neither replaces the other."
+    },
+    {
+      "number": 16,
+      "text": "May there be abundance of grain in the land; on the tops of the mountains may it wave; may its fruit be like Lebanon; and may people blossom in the cities like the grass of the field!",
+      "arminianNotes": "Wesley: abundance even on mountain-tops; fruit like Lebanon; people blossom like grass. Fertility and population thrive.\n\nArminian note: shared creational blessing under the King—cities and fields flourish together.",
+      "reformedNotes": "Calvin: grain on mountains, fruit like Lebanon, citizens flourishing—pictures of messianic plenty.\n\nReformed pastoral: shared—the King’s peace is not thin spiritualism; it touches land and city."
+    },
+    {
+      "number": 17,
+      "text": "May his name endure forever, his fame continue as long as the sun! May people be blessed in him, all nations call him blessed!",
+      "arminianNotes": "Wesley: Name—honour continued as long as the sun; Blessed—men bless themselves in him; nations call him blessed.\n\nArminian reading: shared—Genesis 12 echo in ‘blessed in him.’ All nations calling him blessed is messianic mission both camps affirm.",
+      "reformedNotes": "Calvin: men shall be blessed in him; all nations call him blessed—language of the Seed and the Messiah’s everlasting name.\n\nReformed accent: shared christological center—fame with the sun, blessing in him.",
+      "keyContrast": "Both hear everlasting name and nations blessed in him as reaching Christ. Arminians typically stress the nations’ calling on that name; Reformed readers typically stress the Messiah’s enduring fame secured with the sun."
+    },
+    {
+      "number": 18,
+      "text": "Blessed be the LORD, the God of Israel, who alone does wondrous things.",
+      "arminianNotes": "Wesley: Amen-frame begins—bless the LORD, God of Israel, who alone does wonders. Doxology to God, not the human throne alone.\n\nArminian pastoral: shared—wondrous things are God’s alone. The King’s success is traced upward.",
+      "reformedNotes": "Calvin: Blessed be the LORD God of Israel, who only doeth wondrous things—closing praise redirects glory to God.\n\nReformed note: shared monergism of wonders—alone does wondrous things."
+    },
+    {
+      "number": 19,
+      "text": "Blessed be his glorious name forever; may the whole earth be filled with his glory! Amen and Amen!",
+      "arminianNotes": "Wesley: Amen—solemn confirmation of prophecy and prayer; earth filled with God’s glory.\n\nArminian hope: shared—whole-earth glory is the agreed horizon. Double Amen seals desire and faith.",
+      "reformedNotes": "Calvin: glorious name forever; whole earth filled with his glory; Amen and Amen—catholic doxology.\n\nReformed accent: shared—earth-filling glory is God’s goal confessed by both camps."
+    },
+    {
+      "number": 20,
+      "text": "The prayers of David, the son of Jesse, are ended.",
+      "arminianNotes": "Wesley treats the colophon as closing this prayer-series. David’s prayers ‘ended’ as a collection note.\n\nArminian note: shared—editorial pause, not claim that David never prayed again. The book’s shape invites continued praise in Book III and beyond.",
+      "reformedNotes": "Calvin: not that David composed no more, but this series of prayers and praises is closed. Colophon of a section.\n\nReformed pastoral: shared—David son of Jesse named; the greater Son’s reign (vv. 1–19) remains the theological peak of what ‘ended’ here."
+    }
+  ]
+}

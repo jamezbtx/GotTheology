@@ -1,0 +1,96 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 112,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Psalm 112:1–10",
+  "context": "An alphabetic twin to Psalm 111 turning from God’s works to the blessed fearer: the man who fears the LORD and greatly delights in His commandments is blessed; his offspring mighty, the upright’s generation blessed; wealth with enduring righteousness; light in darkness; generosity and just affairs; never moved, forever remembered; unafraid of bad news, heart firm in trust; steady until he looks on adversaries; free distribution to the poor with enduring righteousness and exalted horn; while the wicked sees, angers, gnashes, melts, and finds his desire perish.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on blessed fear and delight in commandments, enduring righteousness, generous lending, a heart fixed under bad news, and the melting of the wicked’s desire—so each camp speaks in its own voice beside Psalm 112:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Generation—the posterity. Righteousness—the fruit or reward of his righteousness, which is God’s blessing upon his estate. Darkness—in the troubles and calamities of life. He—the upright man. Lendeth—gives freely to some, and lends to others according to their conditions. Discretion—not getting his estate unjustly, nor casting it away prodigally, nor withholding it from such as need it. Moved—though afflicted for a season, yet not eternally destroyed. Evil tidings—at the report of approaching calamities. Dispersed—his goods, freely and liberally. Ever—what he gives is not lost, but the only part of his estate which will abide to all eternity. The desire—either of the misery of good men, or of his own constant prosperity.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 112)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Blessed is the man that fears Jehovah and delights greatly in His commandments—fear consists in this delighted keeping; cheerful love must overcome the flesh. His seed shall be powerful; the generation of the righteous blessed—kindness extends to posterity, yet temporal favors are measured as God sees best. Wealth and riches in his house; his righteousness endureth forever—integrity is the surest preserver of blessings. Light ariseth in darkness to the righteous; he is gracious, merciful, and just. It is well with the man who shows pity and lends; he manages affairs uprightly. He shall not be moved forever; the just in perpetual remembrance. He shall not be afraid of evil tidings; his heart is fixed, trusting in Jehovah. He has distributed to the poor; his righteousness endureth forever; his horn exalted. The wicked shall see and be angry, gnash and melt away; the desire of the wicked shall perish.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 112)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Praise the LORD! Blessed is the man who fears the LORD, who greatly delights in his commandments!",
+      "arminianNotes": "Praise the LORD! Blessed is the man who fears the LORD, who greatly delights in His commandments. Fear joined to great delight—not servile dread alone.\n\nArminian pastoral: shared gateway with Psalm 111:10—fear and delight together. Grace enables delight; the blessed still greatly delight and keep. Blessedness is real for the fearer who loves the commands.",
+      "reformedNotes": "Calvin: blessed is the man that fears Jehovah and delights greatly in His commandments—fear specified by delight; none belong to God’s worshippers but those who endeavor to keep the law. Cheerful love of the law must overcome the flesh’s allurements; forced obedience is not enough.\n\nReformed accent: fear proved by delighted keeping. Shared—happiness is not in doing evil but in this fear."
+    },
+    {
+      "number": 2,
+      "text": "His offspring will be mighty in the land; the generation of the upright will be blessed.",
+      "arminianNotes": "Offspring mighty in the land; generation of the upright blessed. Wesley: Generation—the posterity.\n\nArminian hearing: blessing extends to the upright’s line. Shared—God’s kindness often runs in families that fear Him, without making prosperity an automatic machine.",
+      "reformedNotes": "Calvin: his seed shall be powerful; the generation of the righteous blessed—fatherly kindness extends to posterity (Exod 34:7), yet God dispenses temporal favors as He sees best; some good men are childless or poor.\n\nReformed pastoral: hold the promise without turning it into a rigid ledger. Shared hope for the upright’s generation."
+    },
+    {
+      "number": 3,
+      "text": "Wealth and riches are in his house, and his righteousness endures forever.",
+      "arminianNotes": "Wealth and riches in his house; his righteousness endures forever. Wesley: Righteousness—the fruit or reward of his righteousness, God’s blessing on his estate.\n\nArminian pastoral: shared—righteousness outlasts goods. Wealth may come; enduring righteousness is the true abiding.",
+      "reformedNotes": "Calvin: wealth and riches in his house; righteousness endures forever—God sometimes gives more, sometimes less; the virtuous may hunger. Integrity is the surest preserver of blessings; unrighteous gain vanishes at God’s blast.\n\nReformed accent: enduring righteousness distinguishes the godly. Shared warning not to read every rich house as blessed or every poor saint as cursed.",
+      "keyContrast": "Both treat enduring righteousness as weightier than riches in the house. Arminians typically hear Wesley’s reward-blessing on the estate of the righteous. Reformed readers typically stress Calvin’s caution that temporal wealth is variously measured, while integrity alone lastingly guards God’s gifts."
+    },
+    {
+      "number": 4,
+      "text": "Light dawns in the darkness for the upright; he is gracious, merciful, and righteous.",
+      "arminianNotes": "Light dawns in the darkness for the upright; he is gracious, merciful, and righteous. Wesley: Darkness—troubles and calamities; He—the upright man.\n\nArminian pastoral: shared—light in trouble; the upright mirrors God’s gracious, merciful, righteous character (cf. 111:4).",
+      "reformedNotes": "Calvin: light arises in darkness to the righteous—either exempted under common troubles by God’s favor, or calm after storm; epithets gracious, merciful, just apply fittingly to God as the light’s source.\n\nReformed comfort: grace shines on the faithful when the world is dark. Shared character of the upright under that light."
+    },
+    {
+      "number": 5,
+      "text": "It is well with the man who deals generously and lends; who conducts his affairs with justice.",
+      "arminianNotes": "Well with the man who deals generously and lends; conducts affairs with justice. Wesley: Lendeth—gives freely to some, lends to others; Affairs—domestic; Discretion—not unjust gain, nor prodigal waste, nor withholding from the needy.\n\nArminian pastoral: shared ethics—generosity, just lending, discreet affairs. Faith works through liberal justice.",
+      "reformedNotes": "Calvin: well with those gracious and communicative; lending as fruit of mercy, not usury’s snare; managing affairs with prudence—neither lavish nor sordid, always equitable.\n\nReformed accent: kindness opens a channel for God’s favor. Shared refusal of oppressive lending."
+    },
+    {
+      "number": 6,
+      "text": "For the righteous will never be moved; he will be remembered forever.",
+      "arminianNotes": "The righteous will never be moved; he will be remembered forever. Wesley: Moved—though afflicted for a season, not eternally destroyed.\n\nArminian hearing: stability and lasting remembrance. Shared—affliction may come; final overthrow of the righteous will not.",
+      "reformedNotes": "Calvin: surely he shall not be moved forever; the just in perpetual remembrance—God sustains the compassionate; they may seem to sink yet confidence holds; innocence appears despite slander.\n\nReformed pastoral: unmoved in the end; name blessed before God. Shared forever remembrance."
+    },
+    {
+      "number": 7,
+      "text": "He is not afraid of bad news; his heart is firm, trusting in the LORD.",
+      "arminianNotes": "Not afraid of bad news; heart firm, trusting in the LORD. Wesley: Evil tidings—report of approaching calamities.\n\nArminian pastoral: shared—trust steadies the heart when rumors fly. Grace enables firm trust; the hearer must actually trust.",
+      "reformedNotes": "Calvin: not afraid when he hears evil tidings; heart fixed, trusting in Jehovah—unlike unbelievers who tremble at every rumor because they think fortune sports while God rests. The faithful may feel fear yet keep tenor of life under God’s care.\n\nReformed accent: fixed heart from trust, not iron insensibility. Shared peace under bad news."
+    },
+    {
+      "number": 8,
+      "text": "His heart is steady; he will not be afraid, until he looks in triumph on his adversaries.",
+      "arminianNotes": "Heart steady; not afraid until he looks in triumph on his adversaries.\n\nArminian pastoral: steadiness until vindication. Shared—fear yields as God gives the upright to see enemies put down; not a thirst for private revenge.",
+      "reformedNotes": "Calvin: heart established; not afraid until he see upon his enemies—calm until the fit season of God’s vengeance; trials alarm but do not shake faith.\n\nReformed pastoral: patience until God’s time. Shared steady heart."
+    },
+    {
+      "number": 9,
+      "text": "He has distributed freely; he has given to the poor; his righteousness endures forever; his horn is exalted in honor.",
+      "arminianNotes": "Distributed freely; given to the poor; righteousness endures forever; horn exalted in honor. Wesley: Dispersed—goods freely; Righteousness—liberality or its reward; Ever—what he gives is not lost but abides to eternity.\n\nArminian pastoral: shared—Paul cites this (2 Cor 9:9). Liberal giving to the real poor; righteousness lasting; honor from God. Classical Arminians stress free, willing generosity as fruit of grace.",
+      "reformedNotes": "Calvin: he has distributed and given to the poor—liberally as means allow, prudently to the necessitous, not ostentatious waste. Righteousness endureth forever; horn exalted—God preserves the glory of their liberality and does not disappoint the reward.\n\nReformed accent: enduring fruit of real charity. Shared exaltation of the generous righteous.",
+      "keyContrast": "Both glory in free distribution to the poor and righteousness that endures, with honor from God (and Paul’s use in 2 Cor 9). Arminians typically stress willing liberality as grace-worked practice that is never lost. Reformed readers typically stress God’s preserving of that righteousness’s reward and the careful targeting of real need rather than show."
+    },
+    {
+      "number": 10,
+      "text": "The wicked man sees it and is angry; he gnashes his teeth and melts away; the desire of the wicked will perish!",
+      "arminianNotes": "The wicked sees it and is angry; gnashes teeth and melts away; the desire of the wicked will perish. Wesley: The desire—either of the misery of good men, or of his own constant prosperity.\n\nArminian pastoral: shared end—envy melts; wicked desire perishes. Contrast with the righteous’ forever remembrance. Do not envy the gnashing; delight in the commandments.",
+      "reformedNotes": "Calvin: the wicked shall see and be angry; gnash and melt away; desire of the wicked shall perish—forced to feel that charity is not vain; envy consumes them; God snatches what they thought they held.\n\nReformed accent: frustrated desire of the wicked. Shared warning and comfort—the upright’s honor vexes evil to its own melt.",
+      "keyContrast": "Both end with the wicked’s angry melt and perishing desire over against the righteous’ enduring honor. Arminians typically stress the moral fork—delight in commandments versus desire that dies. Reformed readers typically stress God’s forcing the wicked to see the reward of mercy, then disappointing their presumptuous grasp."
+    }
+  ]
+}

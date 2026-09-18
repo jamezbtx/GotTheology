@@ -1,0 +1,63 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 100,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "ESV",
+  "title": "Psalm 100:1–5",
+  "context": "A Psalm for giving thanks. Make a joyful noise to the Lord, all the earth! Serve the Lord with gladness; come into his presence with singing! Know that the Lord, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture. Enter his gates with thanksgiving, and his courts with praise! Give thanks to him; bless his name! For the Lord is good; his steadfast love endures forever, and his faithfulness to all generations.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on all-earth joyful noise, glad service, knowing the Lord is God who made us as his sheep, gates of thanksgiving, and everlasting steadfast love and faithfulness—so each camp speaks in its own voice beside Psalm 100:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Make a joyful noise unto the LORD, all ye lands. Serve the LORD with gladness: come before his presence with singing. Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture. Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name. For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 100"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Let all the earth make a joyful noise to Jehovah. Serve Jehovah with gladness; come into his presence with joyfulness. Know that Jehovah himself is God: he made us, and not we ourselves; we are his people, and the sheep of his pasture. The psalm urges the thanksgiving part of worship and, inviting all earth's inhabitants, points prophetically to the Church gathered from the nations. Serve with gladness—his kindness gives abundant ground for joy. Know that Jehovah is God—rebuke of those who invent many gods and many worships; retain pure worship so his glory is not despoiled. Enter his gates with praise, courts with rejoicing; give glory and bless his name—because Jehovah is good, his mercy forever, his truth from generation to generation.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 100"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Make a joyful noise to the Lord, all the earth!",
+      "arminianNotes": "Make a joyful noise to the Lord, all the earth! Shared thanksgiving: all-earth joyful noise. Wesley's notes on this psalm are sparse; the plain call stands.\n\nArminian pastoral: thanksgiving is loud and wide. All the earth is invited—do not shrink the choir to a corner.",
+      "reformedNotes": "Calvin: joyful noise of all the earth to Jehovah—thanksgiving service; in prophetic spirit the Church gathered from the nations is in view.\n\nReformed pastoral: shared—joyful noise; all the earth. Both camps stand together in catholic thanksgiving, not inventing a fork here."
+    },
+    {
+      "number": 2,
+      "text": "Serve the Lord with gladness! Come into his presence with singing!",
+      "arminianNotes": "Serve with gladness; come into his presence with singing. Shared: glad service; sung approach.\n\nArminian pastoral: service without gladness misunderstands the Master. Singing is how presence is entered here.",
+      "reformedNotes": "Calvin: serve Jehovah with gladness; come before him with joy—kindness supplies ground for rejoicing in service.\n\nReformed pastoral: shared—glad service; presence with singing. Duty and delight are not rivals in this verse."
+    },
+    {
+      "number": 3,
+      "text": "Know that the Lord, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture.",
+      "arminianNotes": "Know that the Lord, he is God! He made us, and we are his; his people, sheep of his pasture. Shared: knowing deity; Maker; belonging as flock.\n\nArminian pastoral: know—repent of many gods and self-making myths. Sheep language is identity before it is comfort.",
+      "reformedNotes": "Calvin: know Jehovah himself is God; he made us, not we ourselves; his people and sheep of his pasture—rebuke of presumption and idol-fashioning; pure knowledge keeps his glory unimpaired; meditate his making and flock-care.\n\nReformed pastoral: shared—he is God; he made us; we are his people and sheep. Creator-claim and covenant flock in one breath."
+    },
+    {
+      "number": 4,
+      "text": "Enter his gates with thanksgiving, and his courts with praise! Give thanks to him; bless his name!",
+      "arminianNotes": "Enter gates with thanksgiving, courts with praise; give thanks; bless his name. Shared: gated entry; thanks; blessing the name.\n\nArminian pastoral: thanksgiving is the password. Blessing the name fills courts louder than complaints.",
+      "reformedNotes": "Calvin: enter gates with praise, courts with rejoicing; give glory and bless his name—nearly the opening call restated for public worship.\n\nReformed pastoral: shared—gates; courts; thanks; bless his name. Structured worship carries the joyful noise inside."
+    },
+    {
+      "number": 5,
+      "text": "For the Lord is good; his steadfast love endures forever, and his faithfulness to all generations.",
+      "arminianNotes": "For the Lord is good; steadfast love forever; faithfulness to all generations. Shared close: goodness; everlasting hesed; enduring truth/faithfulness.\n\nArminian pastoral: reasons under the summons. Forever love and generation-spanning faithfulness make thanksgiving rational.",
+      "reformedNotes": "Calvin: Jehovah is good; mercy forever; truth from generation to generation—grounds of praise that do not expire with one age.\n\nReformed pastoral: shared—good; steadfast love forever; faithfulness to all generations. Both camps end in undivided thanksgiving to the same good Lord."
+    }
+  ]
+}

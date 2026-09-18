@@ -1,0 +1,93 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 10,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Hebrews 10:1–10",
+  "context": "The writer presses the cultus argument: the law has but a shadow of the good things to come, and the same annual sacrifices can never make perfect those who draw near. Christ comes to do God's will, takes away the first to establish the second, and by that will we have been sanctified through the offering of his body once for all.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the law as shadow, the impossibility of animal blood to take away sins, and the once-for-all offering of Christ's body—so each camp speaks in its own voice beside Hebrews 10:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "From all that has been said it appears, that the law, the Mosaic dispensation, being a bare, unsubstantial shadow of good things to come, of the gospel blessings, and not the substantial, solid image of them, can never with the same kind of sacrifices, though continually repeated, make the comers thereunto perfect, either as to justification or sanctification. Then said he, Lo, I come to do Thy will—to offer a more acceptable sacrifice; and by this very act he taketh away the legal, that he may establish the evangelical, dispensation. By which will we are sanctified—cleansed from guilt, and consecrated to God—through the offering of the body of Jesus Christ once for all.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Hebrews 10:1–10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The difference which the Apostle makes between the Law and the Gospel is this—that under the Law was shadowed forth only in rude and imperfect lines what is under the Gospel set forth in living colors. He takes away the first, that he may establish the second: the full and perfect righteousness under the kingdom of Christ stands in no need of the sacrifices of the Law. By which will we are sanctified through the offering of the body of Jesus Christ once for all: Christ by offering himself fulfilled the command of his Father, and we have been thus sanctified.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Hebrews 10:1–10)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year, make perfect those who draw near.",
+      "arminianNotes": "The law has but a shadow of the good things to come, not the true form of the realities; the same yearly sacrifices can never make perfect those who draw near. Wesley: the Mosaic dispensation is a bare, unsubstantial shadow of the gospel blessings, not the solid image of them, and cannot perfect the worshipers as to justification or sanctification.\n\nBoth camps say this together first: cultus fulfillment, not an atonement-extent fight. The shadow points forward; the true form is Christ. Classical Arminians hear that the yearly cycle never completed what it pictured; the good things are sincerely given in the gospel, and perfection is found only in the once-for-all offering that follows.",
+      "reformedNotes": "Calvin: under the Law was shadowed forth only in rude and imperfect lines what is under the Gospel set forth in living colors. The Law was not useless; the fathers were helped by the representation; yet our condition is much more favorable. The same Christ, the same righteousness, sanctification, and salvation are exhibited to both; the difference is in the manner of setting them forth.\n\nReformed confession: the annual sacrifices prove their own inability. Perfection is not delayed for lack of sincerity in the worshiper; it is delayed because the shadow cannot do what only the substance can. The cultus argument is about once-for-all fulfillment in Christ, not about inventing a limited-versus-general quarrel here."
+    },
+    {
+      "number": 2,
+      "text": "Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sins?",
+      "arminianNotes": "Otherwise they would have ceased: once cleansed, the worshipers would no longer have consciousness of sins. Wesley: those once perfectly purged would have been no longer conscious either of the guilt or power of their sins.\n\nArminian pastoral: the repetition itself is the proof. If the sacrifice had finished the work, the altar would have fallen silent. Both camps hear a conscience that still needs a better blood—the blood that actually cleanses, offered once.",
+      "reformedNotes": "Calvin reasons: when there is no longer any consciousness of sin, there is then no need of sacrifice; but under the Law the same sacrifice was often repeated; then no satisfaction was given to God, nor was guilt removed, nor were consciences appeased.\n\nReformed accent: the logic is forensic and cultic. The yearly return is evidence that guilt was not taken away. The gospel will answer with a cleansing that does not need to be redone on the altar."
+    },
+    {
+      "number": 3,
+      "text": "But in these sacrifices there is a reminder of sins every year.",
+      "arminianNotes": "In these sacrifices there is a reminder of sins every year. Wesley: a public commemoration of the sins of the last and of all the preceding years—a clear proof that the guilt is not perfectly purged away.\n\nBoth camps: reminder, not removal. The Day of Atonement kept memory alive so that hope would look beyond bulls and goats. The reminder is pastoral honesty, not despair; it drives the draw-near of faith toward the better sacrifice.",
+      "reformedNotes": "Calvin: sins were brought to remembrance that guilt might be removed by the sacrifice then offered—not any remembrance, but that which required a sacrifice for its removal.\n\nReformed pastoral: the gospel also remembers sin unto repentance; but the cultus reminder here is the annual confession that another victim is still needed. That need ends only when one offering perfects those who are being sanctified."
+    },
+    {
+      "number": 4,
+      "text": "For it is impossible for the blood of bulls and goats to take away sins.",
+      "arminianNotes": "It is impossible for the blood of bulls and goats to take away sins. Wesley: impossible to take away either the guilt or the power of them.\n\nShared ground: animal blood cannot reach the conscience. Classical Arminians and Reformed alike refuse to treat the old sacrifices as a second gospel. They were types; the antitype is Christ's body offered once.",
+      "reformedNotes": "Calvin: the blood of beasts could not cleanse souls from sin. The Jews had in this a symbol and pledge of the real cleansing, but with reference to another—the blood of Christ. Far otherwise is the power of Christ's blood; it is not right to measure his offering by the former sacrifices.\n\nReformed soteriology: impossibility is not skepticism about grace; it is the hinge that opens to the once-for-all cross. Substitutionary blood that actually takes away sins is human and divine—Christ's."
+    },
+    {
+      "number": 5,
+      "text": "Consequently, when Christ came into the world, he said, \"Sacrifices and offerings you have not desired, but a body have you prepared for me;",
+      "arminianNotes": "Consequently, when Christ came into the world, he said from Psalm 40: sacrifices and offerings you have not desired, but a body have you prepared for me. Wesley: into the world, not into the tabernacle, because all the world is interested in his sacrifice; a body prepared that he may offer up himself.\n\nArminian hearing: the incarnation is for a real offering. God prepares a body; the Messiah comes not with another goat but with himself. The world is interested—Wesley presses the wideness of the interest—while both camps confess the same prepared body and the same cross.",
+      "reformedNotes": "Calvin: this entering into the world was the manifestation of Christ in the flesh. David as type looked farther than his own age; we must come to the kingdom of Christ for the full truth that God does not require the old sacrifices of the faithful under the new.\n\nReformed accent: Christ speaks in the psalm. The prepared body is the instrument of obedience unto death. The desire of God is not more animals but the Son who comes to do his will."
+    },
+    {
+      "number": 6,
+      "text": "in burnt offerings and sin offerings you have taken no pleasure.",
+      "arminianNotes": "In burnt offerings and sin offerings you have taken no pleasure. Paired with v. 5, the psalm dismantles confidence in the cultus as final.\n\nBoth camps: God is not pleased with the shadow as if it were the substance. Pleasure is reserved for the will done in the body of Jesus. This is not contempt for the law God gave; it is the law's own testimony that something better was coming.",
+      "reformedNotes": "Calvin: God is not condemning hypocritical sacrifices only; he denies that they are required of the faithful and sincere once Christ has come. Without them there may be a perfect obedience to God, which could not be true were not the Law's sacrificial system fulfilled and set aside in Christ.\n\nReformed pastoral: no pleasure in the type as terminus. Pleasure is in the Son's obedience. The ceremonies had their schoolmaster role; they are not the destination."
+    },
+    {
+      "number": 7,
+      "text": "Then I said, 'Behold, I have come to do your will, O God, as it is written of me in the scroll of the book.'\"",
+      "arminianNotes": "Behold, I have come to do your will, O God, as written in the scroll. Wesley: in this very psalm it is written of me; accordingly I come to do thy will by the sacrifice of myself.\n\nArminian pastoral: the will of God is not a secret decree against the text; it is the will the Son obeys in offering himself. Both camps glory here: substitutionary obedience, freely undertaken, once for all.",
+      "reformedNotes": "Calvin: Christ alone was fully competent to do God's will. This passage should stimulate us all to prompt obedience; Christ is the pattern of perfect obedience that all who are his may imitate—Lo, I come.\n\nReformed confession: the scroll already named him. The will he does is the Father's saving purpose accomplished at the cross, not a human self-salvation. The members follow the Head in obedience, but only the Head's offering sanctifies."
+    },
+    {
+      "number": 8,
+      "text": "When he said above, \"You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings\" (these are offered according to the law),",
+      "arminianNotes": "He said above that God neither desired nor took pleasure in the law's sacrifices and offerings. Wesley: when the Psalmist pronounced those words in his name.\n\nShared: the law's own offerings are relativized by the law's own Scripture. The parenthesis is honest—they are offered according to the law—and still they are not God's final pleasure. The argument is fulfillment, not antinomian scorn.",
+      "reformedNotes": "Calvin: after having said above that sacrifice and offering God would not, which are offered according to the law—then he said, Lo, I come. The contrast is deliberate: law-offerings versus the will done in Christ's body.\n\nReformed accent: \"according to the law\" marks the first that will be taken away. God gave the sacrifices; God also announced their limit. Scripture interprets Scripture toward Christ."
+    },
+    {
+      "number": 9,
+      "text": "then he added, \"Behold, I have come to do your will.\" He does away with the first in order to establish the second.",
+      "arminianNotes": "Then he added, Behold, I have come to do your will. He does away with the first in order to establish the second. Wesley: in that very instant he subjoined; by this very act he taketh away the legal, that he may establish the evangelical, dispensation.\n\nBoth camps: first and second are covenants/dispensations of sacrifice—shadow replaced by substance. Do not invent a limited-atonement debate here; the text is about cultus fulfillment. Classical Arminians hear the second established for all who come by the living way that follows.",
+      "reformedNotes": "Calvin: see why this passage was quoted—that we may know the full and perfect righteousness under the kingdom of Christ stands in no need of the sacrifices of the Law; when they are removed, the will of God is set up as a perfect rule. The sacrifices of beasts were to be removed by the priesthood of Christ.\n\nReformed reading: abolishing the first establishes the second. The second is Christ's once-for-all obedience and offering. The elect are sanctified in that will; the gospel of that will is preached without fencing off peoples."
+    },
+    {
+      "number": 10,
+      "text": "And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.",
+      "arminianNotes": "By that will we have been sanctified through the offering of the body of Jesus Christ once for all. Wesley: by which will—of God, done and suffered by Christ—we are sanctified: cleansed from guilt, and consecrated to God.\n\nShared first: substitutionary, once-for-all cross; sanctified through his body offered. Classical Arminians hear a real consecration for those who believe, the offering sufficient and sincerely given; \"once for all\" shuts the door on repeated altars, not on the gospel call—only the finished offering received by living faith.",
+      "reformedNotes": "Calvin: Christ by offering himself fulfilled the command of his Father, and we have been thus sanctified. Through the offering of the body: Christ found in himself what could appease God, so that he had no need of external aids. Christ alone was sufficient and capable of performing whatever God required.\n\nReformed soteriology: \"we have been sanctified\" is the definitive consecration of those in Christ by the one offering. Once for all is both temporal and sufficient—no mass, no second victim. The cultus is fulfilled; those being sanctified in the next unit stand on this finished work."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 122,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 122:1–9",
+  "context": "A Song of Ascents Of David: gladness at the summons to the LORD’s house, feet inside Jerusalem’s gates, and praise for a city bound firmly together. Tribes go up to give thanks; Davidic thrones for judgment stand there. The psalm turns to prayer for Jerusalem’s peace—for brothers, companions, and the house of the LORD our God.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on gladness for the house of the LORD, Jerusalem bound firmly together, and prayer for the city’s peace—so each camp speaks in its own voice beside Psalm 122:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "I was glad when they said—the very first object of their thanksgiving was the kindness of God in permitting them to return to his ordinances. Jerusalem—compact together: it is also a state of great political and spiritual union, the centre of union to all the tribes. Pray for the peace of Jerusalem—let her unanimity never be disturbed; let her prosperity ever be on the increase! They shall prosper that love thee—in the peace and prosperity of the city, they shall find their peace and their prosperity. For my brethren and companions’ sakes I will say, Peace be within thee. Because of the house of the Lord our God—particularly will I wish thee well, because thou art the seat of religion, the place where our merciful God has condescended to dwell.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 122)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In this Psalm David congratulates himself and the whole Church upon the fact that a seat had at length been appointed for the ark of the covenant, and that God had chosen a place where his name should be continually called upon. By this example we are taught that our joy should be doubled when God by his Holy Spirit not only frames each of us to the obedience of his word, but also produces the same effect upon others. Pray ye for the peace of Jerusalem: the welfare of the whole Church was inseparably connected with that kingdom and priesthood. If we would order our prayers aright, let us always begin with pleading that the Lord would be pleased to preserve this sacred community. Because of the house of Jehovah our God: if religion is with us a matter of heart-work, we ought to take an interest in the prosperity of the Church.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 122)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I was glad when they said to me, \"Let us go to the house of the LORD!\"",
+      "arminianNotes": "Gladness answers the invitation: Let us go to the house of the LORD. Worship on the Ascents begins in shared joy, not in bare duty trudged alone.\n\nClassical Arminians love this free delight. The summons is sincere; the heart may truly rejoice to seek God’s house with others on the pilgrim way.",
+      "reformedNotes": "Glad when they said, “Let us go.” A corporate call kindles joy toward the LORD’s house among David’s gathered people.\n\nReformed note: gladness is gift as well as response. God orders both the invitation and the delight that answers it for Zion’s true worshipers."
+    },
+    {
+      "number": 2,
+      "text": "Our feet have been standing within your gates, O Jerusalem!",
+      "arminianNotes": "Feet standing within Jerusalem’s gates—arrival after long longing. Presence in the city of peace is celebrated as gift, not as entitlement earned.\n\nArminian pastoral: treasure gathered worship when God grants it. Standing inside the gates is privilege to receive with gratitude and careful love.",
+      "reformedNotes": "Our feet have been standing within your gates. The plural “our” marks a people arrived together at Zion under God.\n\nReformed comfort: God brought feet to Jerusalem’s threshold. The city of peace is entered under His leading, not by private tourism of the holy alone."
+    },
+    {
+      "number": 3,
+      "text": "Jerusalem—built as a city that is bound firmly together,",
+      "arminianNotes": "Jerusalem built and bound firmly together—unity as living architecture. The city’s compactness images ordered fellowship among God’s pilgrim people.\n\nClassical Arminians hear a call to seek firm togetherness in the church. Peace in the walls begins with bonds we cultivate under grace.",
+      "reformedNotes": "Built as a city bound firmly together. Compact unity is Zion’s design under the Builder’s wise and holy hand.\n\nReformed accent: the binding is God’s building before it is our project. He gathers what human scatter would loosen among His own people."
+    },
+    {
+      "number": 4,
+      "text": "to which the tribes go up, the tribes of the LORD, as was decreed for Israel, to give thanks to the name of the LORD.",
+      "arminianNotes": "Tribes of the LORD go up as decreed, to give thanks to His name. Pilgrimage is obedience and gratitude walking the same Ascents road.\n\nArminian reading: the decree invites willing ascent. Thanksgiving is the appointed purpose—hearts and feet answering what God has set for Israel.",
+      "reformedNotes": "Tribes go up—the LORD’s tribes—by what was decreed for Israel, to thank His name. Ascent and doxology are bound together by God.\n\nReformed note: decree and thanksgiving meet. The climb is not optional folklore; it is God’s ordered way for His people’s public praise.",
+      "keyContrast": "Both see tribal ascent as God-ordered thanksgiving. Arminians typically stress a sincere, willing going-up under the decree; Reformed readers typically stress God’s sovereign appointment that gathers the tribes to thank His name."
+    },
+    {
+      "number": 5,
+      "text": "There thrones for judgment were set, the thrones of the house of David.",
+      "arminianNotes": "Thrones for judgment—David’s house—sit in the city. Worship and just rule belong together in Zion’s full vision of peace.\n\nArminian pastoral: pray that leadership under God would judge fairly. Gladness for the temple does not ignore the need for righteous thrones.",
+      "reformedNotes": "Thrones of judgment for David’s house are set there. Royal justice is part of Jerusalem’s gift to the ascending tribes.\n\nReformed reading: God established these seats. The city’s peace includes ordered judgment under the line He chose—pointing beyond David to the greater King."
+    },
+    {
+      "number": 6,
+      "text": "Pray for the peace of Jerusalem! \"May they be secure who love you!",
+      "arminianNotes": "Pray for Jerusalem’s peace; security for those who love her. Intercession is commanded love on the pilgrim’s lips and in the pilgrim’s heart.\n\nClassical Arminians take the imperative seriously: God’s people may and must ask for shalom. Love for Zion expresses itself in real petition.",
+      "reformedNotes": "Pray for the peace of Jerusalem—security for her lovers. Prayer is the means God has appointed for Zion’s lasting good.\n\nReformed pastoral: God who decrees peace also decrees prayer for peace. Intercession is not spare emotion; it is how He cares for His city."
+    },
+    {
+      "number": 7,
+      "text": "Peace be within your walls and security within your towers!\"",
+      "arminianNotes": "Peace within walls, security within towers—inner and outer safety named together. Blessing seeks the city’s full wholeness under the LORD.\n\nArminian note: speak peace over the gathered people. Walls and towers matter because persons live inside them under His patient care.",
+      "reformedNotes": "Peace in the walls, security in the towers. The blessing covers structure and strength around God’s chosen dwelling place.\n\nReformed comfort: shalom is God’s word over Zion’s defenses. Towers stand because He wills security for the place of His holy name."
+    },
+    {
+      "number": 8,
+      "text": "For my brothers and companions' sake I will say, \"Peace be within you!\"",
+      "arminianNotes": "For brothers and companions he will say, Peace be within you. Love of neighbor fuels the blessing spoken over Jerusalem’s peace.\n\nClassical Arminians hear relational motive: seek the city’s good because people you love live there. Peace is personal, not an abstract slogan.",
+      "reformedNotes": "For brothers and companions’ sake—peace within you. Covenant kinship drives the spoken shalom toward Zion’s walls and people.\n\nReformed accent: God binds us to one another so that prayer for Jerusalem is also love of the brethren He has joined in Himself."
+    },
+    {
+      "number": 9,
+      "text": "For the sake of the house of the LORD our God, I will seek your good.",
+      "arminianNotes": "For the LORD’s house he will seek Jerusalem’s good. Highest motive crowns the psalm: God’s dwelling among His pilgrim people.\n\nArminian pastoral: seek the good of God’s people because His house is there. Glad pilgrimage ends in active goodwill, not only warm feeling on the road.",
+      "reformedNotes": "For the house of the LORD our God—seek your good. The temple motive is decisive for how true pilgrims love the holy city.\n\nReformed reading: Zion’s welfare is bound to God’s name among His people. Seeking her good is obedience to the God who chose to dwell there."
+    }
+  ]
+}

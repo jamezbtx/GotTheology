@@ -1,0 +1,70 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 13,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "Hebrews 13:1–6",
+  "context": "The letter’s closing exhortations open with shared Christian ethics: let brotherly love continue; show hospitality; remember prisoners and the mistreated; honor marriage and keep the bed undefiled; live free from love of money and be content. The ground is God’s promise—“I will never leave you nor forsake you”—so the church may say with confidence that the Lord is its helper and need not fear what man can do.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on brotherly love, hospitality, marriage, contentment, and the Lord’s never-forsaking help—so each camp speaks in its own voice beside Hebrews 13:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Brotherly love is explained in the following verses. Some—Abraham and Lot—have entertained angels unawares; so may an unknown guest even now be of more worth than he appears. Remember them that are in bonds, as bound with them—seeing ye are members one of another—and them that suffer, as being yourselves in the body and liable to the same. Marriage is honourable in all, clergy as well as laity; the bed undefiled—consistent with the highest purity; but whoremongers and adulterers God will judge. He—God—hath said, I will never leave thee nor forsake thee—to all believers, in saying it to Jacob, Joshua, and Solomon. So that we may boldly say, The Lord is my helper.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Hebrews 13:1–6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He calls love brotherly that we may remember we cannot be Christians without being brethren—the love the household of faith ought to cultivate, bound closer by the common bond of adoption. Commend the miserable and needy to be entertained; God proved hospitality acceptable when Abraham and Lot entertained angels unawares. Put yourselves in the place of those in bonds; as members of the same body, feel in common for each other’s evils. Marriage is honourable in all—no order prohibited—set against fornication as God’s remedy; the bed undefiled calls the married to modesty. Be content with present things; the source of covetousness is mistrust. He who has fixed in his heart that he will never be forsaken by the Lord will not be immoderately solicitous; faith alone can quiet the mind. So we may boldly say, The Lord is my helper.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Hebrews 13:1–6)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Let brotherly love continue.",
+      "arminianNotes": "Wesley: brotherly love is explained in the following verses—hospitality, care for prisoners, honor of marriage, contentment.\n\nClassical Arminians hear a pastoral command for the whole household: love among brethren is to continue, not cool. The exhortation assumes real hearers who must keep loving; do not invent a church that loves by decree alone while ignoring the concrete duties that follow.",
+      "reformedNotes": "Calvin: probably aimed at secret hatred threatening to rend churches, yet needful generally—nothing flows away so easily as love. Brotherly love is the household of faith’s mutual bond under adoption; we cannot be Christians without being brethren.\n\nReformed accent: continue implies love already shown. Adoption binds the family; haughty self-regard lets love drain away."
+    },
+    {
+      "number": 2,
+      "text": "Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.",
+      "arminianNotes": "Wesley: some—Abraham and Lot—entertained angels unawares. An unknown guest even now may be of more worth than he appears, and may have angels attending unseen.\n\nClassical Arminians hear open-handed welcome as love’s next step. Hospitality is for strangers who may yet prove messengers of God; grace trains the church to receive without calculating return.",
+      "reformedNotes": "Calvin: not so much rich display as entertaining the miserable and needy—many were fugitives for Christ’s name. Abraham and Lot, habitually hospitable, entertained angels without knowing; God proved hospitality especially acceptable. Rare as angel visits are, Christ Himself is received when we receive the poor in His name.\n\nReformed reading: hospitality is gospel mercy to Christ’s displaced ones. The reward motif drives care, not curiosity about angels."
+    },
+    {
+      "number": 3,
+      "text": "Remember those who are in prison, as though in prison with them, and those who are mistreated, since you also are in the body.",
+      "arminianNotes": "Wesley: remember—in prayers and by help—them in bonds as bound with them, members one of another; and them that suffer as yourselves also in the body and liable to the same.\n\nClassical Arminians hear solidarity that prays and helps. Shared bodily vulnerability moves compassion toward the imprisoned and mistreated; love continues by entering their place in imagination and deed.",
+      "reformedNotes": "Calvin: nothing gives more genuine compassion than putting ourselves in the place of those in distress—think of the bound as though bound with them. “In the body” he applies to the body of the Church: as members of the same body, feel in common for each other’s evils, that nothing be disunited.\n\nReformed accent: remembrance is ecclesial sympathy. The body’s unity forbids forgetting sufferers as if they were outsiders."
+    },
+    {
+      "number": 4,
+      "text": "Let marriage be held in honor among all, and let the marriage bed be undefiled, for God will judge the sexually immoral and adulterous.",
+      "arminianNotes": "Wesley: marriage is honourable in or for all sorts—clergy as well as laity—though Romanists teach otherwise. The bed undefiled—consistent with the highest purity—though some “spiritual” writers call it licensed whoredom. Whoremongers and adulterers God will judge, though they often escape men’s sentence.\n\nClassical Arminians join the Reformers against forbidding marriage and against defiling the bed. Honor and purity are for all; judgment is God’s, not a soft option.",
+      "reformedNotes": "Calvin: marriage set against fornication as God’s remedy; honourable in all—no order prohibited from what God allowed mankind. The bed undefiled warns the married that not everything is lawful—use must be moderate and chaste. God will punish fornicators and adulterers who violate His holy institution.\n\nReformed confession: marriage is honourable, not a grudging concession. Judgment on sexual immorality stands; superstition that bars clergy from marriage is already answered here."
+    },
+    {
+      "number": 5,
+      "text": "Keep your life free from love of money, and be content with what you have, for he has said, \"I will never leave you nor forsake you.\"",
+      "arminianNotes": "Wesley: He—God—hath said, I will never leave thee nor forsake thee—to all believers, in saying it to Jacob, Joshua, and Solomon.\n\nClassical Arminians hear the promise held out to believers who may take it and rest: contentment grows where God’s nearness is trusted. Love of money is cast out by a living hold on “never leave.” Do not invent a promise sealed only for a hidden list while believers who hear are told they cannot claim it; do not invent a contentment that needs no Helper.",
+      "reformedNotes": "Calvin: cure covetousness by contentment with present things—true contempt of money when we acquiesce in the lot the Lord has given. The source of covetousness is mistrust; whosoever has fixed in his heart that he will never be forsaken by the Lord will not be immoderately solicitous, depending on God’s providence. Faith alone quiets the mind.\n\nReformed accent: the promise plucks the evil by the root. God’s pledged presence frees from avarice; contentment is trust in providence, not stoic shrug.",
+      "keyContrast": "Both ground contentment in God’s promise never to leave or forsake, and both refuse a gospel that blesses greed. Arminians typically hear the word spoken to all believers who may boldly take it as Jacob, Joshua, and Solomon did. Reformed readers typically hear the same promise curing mistrust at the root—faith fixed that the Lord never forsakes His own, so providence quiets the heart’s scramble for more."
+    },
+    {
+      "number": 6,
+      "text": "So we can confidently say, \"The Lord is my helper; I will not fear; what can man do to me?\"",
+      "arminianNotes": "Wesley points to Psalm 118:6. From the promise of v. 5 the church may boldly say the Lord is helper—fear of man loosens its grip.\n\nClassical Arminians hear confidence as the fitting answer of faith: because He will not forsake, we may speak this psalm as our own. Helper is present aid for those who trust Him amid human threats.",
+      "reformedNotes": "Calvin: from the common doctrine that the Lord will never be wanting, he infers Psalm 118—we have power to overcome fear when assured of God’s help. As long as we have such a Helper there is no cause to fear; depraved desires lose their importunity when faith quiets the mind.\n\nReformed reading: confident confession is faith’s fruit under the promise. Man’s power is relativized by the Lord’s help to those who trust Him."
+    }
+  ]
+}

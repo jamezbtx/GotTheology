@@ -1,0 +1,162 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 145,
+  "verseStart": 1,
+  "verseEnd": 21,
+  "translation": "ESV",
+  "title": "Psalm 145:1–21",
+  "context": "A Song of Praise. Of David—an alphabetic (acrostic) hymn: he extols God his King, blessing the name forever, day by day. Great is the LORD; His greatness unsearchable. Generations commend works and mighty acts; he meditates on majesty and wondrous works; they speak of awesome deeds and abundant goodness. The LORD is gracious and merciful, slow to anger, abounding in steadfast love—good to all, mercy over all He has made. Works give thanks; saints bless; they tell kingdom glory and power. His kingdom is everlasting; [He is faithful in all His words and kind in all His works.] He upholds the falling, raises the bowed down, opens His hand to satisfy living desire, is righteous and kind, near to those who call in truth, fulfills the desire of those who fear Him, preserves those who love Him, and destroys the wicked. Mouth and all flesh bless His holy name forever.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on acrostic praise of the King, unsearchable greatness, goodness and mercy over all His works, an everlasting kingdom, and nearness to those who call in truth—so each camp speaks in its own voice beside Psalm 145:1–21.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "This is the last of the acrostic Psalms; it is an incomparable Psalm of praise. I will extol thee—I will raise thee on high. I will bless thy name—for ever and onward, in this and the coming world. His greatness is unsearchable—To his mightinesses there is no investigation; all in God is unlimited and eternal. One generation—Thy creating and redeeming acts are recorded in thy word; but thy wondrous providential dealings with mankind must be handed down from generation to generation. The Lord is gracious—His holy nature is ever disposed to show favor. Full of compassion—Wherever he sees misery, his eye affects his heart. Slow to anger—When there is even the greatest provocation. Of great mercy—Great in his abundant mercy. The Lord is good to all—and his tender mercies are over all his works. All thy works shall praise thee; and thy saints shall bless thee. The Lord upholdeth all that fall—those not able to keep their feet; and raiseth up all who are bowed down. The Lord is nigh unto all that call upon him in truth—to answer their prayers, with an upright heart.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 145)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Praise of David—throughout a continued celebration of the perfections and doings of God. I will extol thee, my God and my king: David does not so much tell what he would do himself, as stir up and urge all others to this religious service of offering to God the praises due to his name. He insists upon persevering in the exercise; as God is constant in extending mercies, it would be highly improper in us to faint in his praises. In calling God his king he gives both himself and other earthly princes their proper place, and does not allow any earthly distinctions to interfere with the glory due to God. In speaking of the greatness of God as unmeasurable, he intimates that we only praise God aright when we are filled and overwhelmed with an ecstatic admiration of the immensity of his power. Generation to generation will praise thy works: all men were made and are preserved in life for this end, that they may devote themselves to the praise of God. Jehovah is gracious and compassionate, slow to anger, and great in mercy; Jehovah is good to all, and his mercies above all his works. All thy works shall praise thee, and thy merciful ones shall bless thee. Thy kingdom is a kingdom of all ages, and thy dominion unto all successive generations.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 145)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I will extol you, my God and King, and bless your name forever and ever.",
+      "arminianNotes": "I will extol You, my God and King, and bless Your name forever. Clarke: raise Thee on high; bless the name for ever and onward.\n\nClassical Arminians take the vow of praise as sincere duty under grace. Kingship language puts God above every rival loyalty.",
+      "reformedNotes": "Calvin: stirs others to offer praises due; calling God his king keeps earthly princes in place so no distinction steals God’s glory.\n\nReformed accent: praise owed, princes relativized. Shared: extol; my God and King; bless forever."
+    },
+    {
+      "number": 2,
+      "text": "Every day I will bless you and praise your name forever and ever.",
+      "arminianNotes": "Every day bless; praise the name forever. Daily perseverance matches forever speech.\n\nArminian practice: daily blessing is habit grace enables and requires. Shared: every day; forever and ever.",
+      "reformedNotes": "Calvin: daily denotes perseverance; constant mercies make fainting in praise improper.\n\nReformed note: new mercies, ongoing praise. Shared: every day I will bless You."
+    },
+    {
+      "number": 3,
+      "text": "Great is the LORD, and greatly to be praised, and his greatness is unsearchable.",
+      "arminianNotes": "Great is the LORD; greatly to be praised; greatness unsearchable. Clarke: to His mightinesses no investigation—unlimited and eternal.\n\nClassical Arminians refuse a small God. Unsearchable greatness fuels worship, not speculation that neglects praise.",
+      "reformedNotes": "Calvin: praise aright when overwhelmed with admiration of immensity; capacity-measured praise from that fountain.\n\nReformed accent: ecstatic admiration, not bare flattery. Shared: great; greatly praised; unsearchable."
+    },
+    {
+      "number": 4,
+      "text": "One generation shall commend your works to another, and shall declare your mighty acts.",
+      "arminianNotes": "Generation to generation commend works and declare mighty acts. Clarke: creating/redeeming acts in the Word; providential dealings handed down.\n\nArminian pastoral: teach the next generation deliberately. Shared: generational commendation of works.",
+      "reformedNotes": "Calvin: all are made and preserved to devote themselves to God’s praise; God renews remembrance of His works day by day.\n\nReformed accent: life’s end is praise across generations. Shared: one generation to another."
+    },
+    {
+      "number": 5,
+      "text": "On the glorious splendor of your majesty, and on your wondrous works, I will meditate.",
+      "arminianNotes": "Meditate on majesty’s splendor and wondrous works. Praise includes pondering, not only singing.\n\nClassical Arminians urge meditation that leads to speech. Shared: meditate on majesty and wonders.",
+      "reformedNotes": "Calvin: meditation (or speech) on beauty of excellency and wonderful works—true religion wants practical knowledge of works, not idle speculation on essence alone.\n\nReformed note: works-focused meditation. Shared: I will meditate."
+    },
+    {
+      "number": 6,
+      "text": "They shall speak of the might of your awesome deeds, and I will declare your greatness.",
+      "arminianNotes": "They speak of awesome deeds’ might; I declare Your greatness. Corporate and personal praise join.\n\nArminian hearing: if others speak, I still declare. Shared: speak; declare greatness.",
+      "reformedNotes": "Calvin: always some to declare righteousness, goodness, wisdom; if others desist, he will still set forth God’s praises.\n\nReformed accent: refuse silent defrauding of God’s honor. Shared: awesome deeds; declare greatness."
+    },
+    {
+      "number": 7,
+      "text": "They shall pour forth the fame of your abundant goodness and shall sing aloud of your righteousness.",
+      "arminianNotes": "Pour forth fame of abundant goodness; sing aloud of righteousness. Overflowing praise matches overflowing goodness.\n\nClassical Arminians love loud goodness-songs. Shared: abundant goodness; righteousness sung.",
+      "reformedNotes": "Calvin: gushing utterance like water from a fountain; memory of goodness we have experienced allures cheerful praise.\n\nReformed comfort: experienced fatherly mercy fuels burst of praise. Shared: pour forth; sing aloud."
+    },
+    {
+      "number": 8,
+      "text": "The LORD is gracious and merciful, slow to anger and abounding in steadfast love.",
+      "arminianNotes": "Gracious, merciful, slow to anger, abounding in steadfast love. Clarke: nature disposed to favor; eye affects heart at misery; slow even under great provocation; abundant mercy.\n\nArminian confession: this fourfold goodness is the Divine nature on display—worthy of trust and praise.",
+      "reformedNotes": "Calvin opens the goodness already named: inclined to mercy, compassionate, slow to anger, great in mercy.\n\nReformed accent: God’s own character, not a mood. Shared: gracious; merciful; slow to anger; steadfast love."
+    },
+    {
+      "number": 9,
+      "text": "The LORD is good to all, and his mercy is over all that he has made.",
+      "arminianNotes": "Good to all; mercy over all He has made. Clarke stresses universal merciful regards over all His works.\n\nClassical Arminians hear wide benevolence that underwrites sincere gospel offers and creaturely care—without turning the verse into a denial of judgment later in the psalm.",
+      "reformedNotes": "Calvin: Jehovah is good to all, and His mercies above all His works—goodness celebrated in providence toward the world He made, then special favor to His people in the psalm’s movement.\n\nReformed accent: creaturely mercy is real; it does not erase particular covenant care or the wicked’s end in v. 20. Shared: good to all; mercy over all He made.",
+      "keyContrast": "Both confess that the LORD is good to all and that His mercy is over all He has made. Arminians, with Clarke, typically emphasize wide, sincere benevolence toward His intelligent offspring and all His works. Reformed readers, with Calvin, typically read the line within providence’s praise—real creaturely mercies that still sit beside special care for the saints and the psalm’s later distinction regarding the wicked."
+    },
+    {
+      "number": 10,
+      "text": "All your works shall give thanks to you, O LORD, and all your saints shall bless you!",
+      "arminianNotes": "All works give thanks; all saints bless. Clarke: works praise the God good to all; saints (merciful ones) bless.\n\nArminian hearing: creation and redeemed people share the choir in different keys. Shared: works thank; saints bless.",
+      "reformedNotes": "Calvin: all works praise; merciful ones bless—God’s people voice what creation displays.\n\nReformed note: saint-blessing answers revealed mercy. Shared: give thanks; bless You."
+    },
+    {
+      "number": 11,
+      "text": "They shall speak of the glory of your kingdom and tell of your power,",
+      "arminianNotes": "Speak kingdom glory; tell power. Royal speech continues the praise.\n\nClassical Arminians love kingdom proclamation. Shared: glory of Your kingdom; Your power.",
+      "reformedNotes": "Calvin: they speak glory of the kingdom and talk of power—so dominion is confessed, not privatized.\n\nReformed accent: public kingdom speech. Shared: speak; tell."
+    },
+    {
+      "number": 12,
+      "text": "to make known to the children of man your mighty deeds, and the glorious splendor of your kingdom.",
+      "arminianNotes": "Make known to humankind mighty deeds and kingdom splendor. Clarke: they delight to recommend their God and Father to others.\n\nArminian mission note: praise turns outward to the children of man. Shared: make known mighty deeds.",
+      "reformedNotes": "Calvin: make known His powers to the sons of men and the beauty of His kingdom—praise as witness.\n\nReformed accent: revelation for the world to hear. Shared: children of man; glorious splendor."
+    },
+    {
+      "number": 13,
+      "text": "Your kingdom is an everlasting kingdom, and your dominion endures throughout all generations. [The LORD is faithful in all his words and kind in all his works.]",
+      "arminianNotes": "Everlasting kingdom; dominion through all generations. ESV includes the bracketed nun line: faithful in all words, kind in all works. Clarke notes the acrostic nun verse preserved in ancient Versions.\n\nClassical Arminians rest on a kingdom that does not age out—and on faithfulness and kindness in speech and works. Shared: everlasting kingdom; faithful; kind.",
+      "reformedNotes": "Calvin: kingdom of all ages; dominion to all successive generations—God’s rule outlasts human renown.\n\nReformed comfort: undying dominion. Shared praise of the forever King in this acrostic song."
+    },
+    {
+      "number": 14,
+      "text": "The LORD upholds all who are falling and raises up all who are bowed down.",
+      "arminianNotes": "Upholds the falling; raises the bowed down. Wesley: all that look up to Him for help. Clarke: those not able to keep their feet.\n\nArminian pastoral: look up—falling saints are upheld. Shared: upholds; raises.",
+      "reformedNotes": "Calvin’s praise of providence includes care for the distressed. Falling and bowed down meet holding and raising.\n\nReformed accent: the King’s hand under the weak. Shared: all who fall; all bowed down."
+    },
+    {
+      "number": 15,
+      "text": "The eyes of all look to you, and you give them their food in due season.",
+      "arminianNotes": "Eyes of all look; You give food in due season. Wesley: all living creatures; wait—expect supplies wholly from Thy bounty (even ascribed figuratively to brutes).\n\nClassical Arminians thank common provision. Shared: eyes look; food in due season.",
+      "reformedNotes": "Calvin: goodness reaches creatures who wait on God for food—providence praised before special nearness is named.\n\nReformed note: due-season giving. Shared: look to You; You give."
+    },
+    {
+      "number": 16,
+      "text": "You open your hand; you satisfy the desire of every living thing.",
+      "arminianNotes": "Open hand; satisfy every living thing’s desire. Generosity pictured as an open palm.\n\nArminian wonder: open-handed satisfaction of living desire. Shared: open hand; satisfy.",
+      "reformedNotes": "Calvin’s goodness theme continues—open hand as emblem of liberal providence.\n\nReformed comfort: desire met by God’s hand. Shared: You open; You satisfy."
+    },
+    {
+      "number": 17,
+      "text": "The LORD is righteous in all his ways and kind in all his works.",
+      "arminianNotes": "Righteous in all ways; kind in all works. Character matches kingdom rule.\n\nBoth camps: no cruel randomness in His ways. Classical Arminians rest in kind righteousness.",
+      "reformedNotes": "Calvin pairs righteousness and kindness across works—providence is not raw power without goodness.\n\nReformed accent: all ways; all works. Shared: righteous; kind."
+    },
+    {
+      "number": 18,
+      "text": "The LORD is near to all who call on him, to all who call on him in truth.",
+      "arminianNotes": "Near to all who call—on Him in truth. Wesley: nigh to answer prayers; in truth—with an upright heart. Clarke: near to answer; upright heart.\n\nArminian emphasis: sincere calling meets real nearness—truthful prayer is invited and heard.",
+      "reformedNotes": "Calvin’s movement from general goodness to special favor lands in nearness to callers. Truth marks genuine approach.\n\nReformed accent: nearness to those who truly call—not a blank cheque to empty lips. Shared: near; call in truth.",
+      "keyContrast": "Both confess that the LORD is near to all who call on Him in truth. Arminians, with Wesley and Clarke, typically stress sincere, upright calling that God answers. Reformed readers typically stress that nearness is covenant reality for true callers—special favor within the psalm’s praise—not nearness redefined as indifference to whether the call is in truth."
+    },
+    {
+      "number": 19,
+      "text": "He fulfills the desire of those who fear him; he also hears their cry and saves them.",
+      "arminianNotes": "Fulfills desire of those who fear Him; hears cry; saves. Fear and cry belong together.\n\nClassical Arminians urge reverent desire and crying out. Shared: fear Him; He hears; He saves.",
+      "reformedNotes": "Calvin: merciful ones who fear God find desire fulfilled and salvation in answer to cry.\n\nReformed comfort: fear is not frozen silence—it cries and is saved. Shared: fulfills; hears; saves."
+    },
+    {
+      "number": 20,
+      "text": "The LORD preserves all who love him, but all the wicked he will destroy.",
+      "arminianNotes": "Preserves all who love Him; destroys all the wicked. Love and wickedness diverge in outcome.\n\nArminian hearing: love Him—preservation answers real attachment; wickedness meets destruction. Both sides of the verse stand.",
+      "reformedNotes": "Calvin’s celebration of goodness never cancels judgment on the wicked. Preserve lovers; destroy the wicked.\n\nReformed accent: two ends under one Lord. Shared: preserves who love; destroys the wicked.",
+      "keyContrast": "Both confess that the LORD preserves those who love Him and destroys the wicked. Arminians typically stress love as the living attachment grace enables and requires. Reformed readers typically stress God’s preserving of His own and certain destruction of the wicked as the King’s holy dominion—not a sentimental goodness that never judges."
+    },
+    {
+      "number": 21,
+      "text": "My mouth will speak the praise of the LORD, and let all flesh bless his holy name forever and ever.",
+      "arminianNotes": "My mouth will speak praise; let all flesh bless His holy name forever. Clarke’s psalm ends in universal summons.\n\nClassical Arminians join personal vow to cosmic invitation. Shared praise: mouth and all flesh forever.",
+      "reformedNotes": "Calvin began by urging all to praise; the psalm ends with mouth and all flesh blessing the holy name forever.\n\nReformed climax: owed praise without end. Shared: speak praise; all flesh bless forever."
+    }
+  ]
+}

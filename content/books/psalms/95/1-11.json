@@ -1,0 +1,99 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 95,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "Psalm 95:1–11",
+  "context": "Oh come, sing to the Lord, the rock of our salvation; enter his presence with thanksgiving and songs. He is a great God and King above all gods; depths and heights, sea and dry land are his. Come, worship and kneel before the Lord our Maker—for he is our God, and we the people of his pasture, the sheep of his hand. Today, if you hear his voice, do not harden your hearts as at Meribah and Massah, when the fathers tested him though they had seen his work. Forty years he loathed that generation—astray in heart, ignorant of his ways—and swore they would not enter his rest.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on joyful noise to the rock of salvation, the great King above all gods, kneeling before our Maker, sheep of his hand, and the today-warning against Meribah hardness that bars the rest—so each camp speaks in its own voice beside Psalm 95:1–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Gods—above all called gods: angels, earthly potentates, and especially heathen false gods. Hand—under his government; Strength—strongest or highest mountains. Pasture—whom he feeds and keeps in his own pasture, or land appropriated to himself. Sheep—under his special care. Today—forthwith or presently. Harden not—by obstinate unbelief. Provocation—bold and wicked contest with God in the wilderness. Temptation—day in which you tempted me. Works—both of mercy and of justice. Do err—hearts insincere and bent to backsliding. Not known—after all teaching and discoveries, they did not know or consider the great things wrought for them. My rest—the promised land, called the rest (Deut 12:9).",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 95"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Come, rejoice before Jehovah; joyful noise to the Rock of our salvation. Come before his face with praise. Jehovah is a great God and King above all gods; deep places and mountain heights in his hand; sea and dry land his making. Come, worship, bow, kneel before Jehovah our Maker—because he is our God, we the people of his pastures and flock of his hand; today, if you will hear his voice. Harden not your heart as in Meribah, as in Massah in the wilderness, when fathers tempted and proved me though they had seen my work. Forty years I strove with this generation—they err in heart and have not known my ways. I swore in my wrath they shall not enter my rest. The kindness of the Shepherd becomes the call to pliable submission; obstinacy of the fathers is held up as warning. Hebrews takes up the same today and the same barred rest.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 95"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Oh come, let us sing to the Lord; let us make a joyful noise to the rock of our salvation!",
+      "arminianNotes": "Oh come, sing to the Lord; joyful noise to the rock of our salvation. Shared: invitation; rock of salvation.\n\nArminian pastoral: Wesley has no extra lemma here; the plain call stands—come and sing. Salvation's rock is reason enough for noise that is joy, not noise for its own sake.",
+      "reformedNotes": "Calvin: come, rejoice before Jehovah; joyful noise to the Rock of our salvation. Praise recounts benefits; the Rock titles God as sure help.\n\nReformed pastoral: shared—come; sing; rock of our salvation. Begin the psalm with gathered gladness, not private muttering only."
+    },
+    {
+      "number": 2,
+      "text": "Let us come into his presence with thanksgiving; let us make a joyful noise to him with songs of praise!",
+      "arminianNotes": "Come into his presence with thanksgiving; joyful noise with songs of praise. Shared: presence; thanksgiving; praise-songs.\n\nArminian pastoral: thanksgiving is the door into presence. Songs carry gratitude, not self-display.",
+      "reformedNotes": "Calvin: come before his face with praise; in psalms shout for joy. Face/presence means near approach in worship.\n\nReformed pastoral: shared—presence; thanksgiving; praise. Nearness is answered with thanks, not presumption."
+    },
+    {
+      "number": 3,
+      "text": "For the Lord is a great God, and a great King above all gods.",
+      "arminianNotes": "For the Lord is a great God, and a great King above all gods. Wesley: Gods—above all called gods: angels, earthly potentates, especially heathen false gods. Shared: greatness; kingship above rivals.\n\nArminian pastoral: name the rivals without granting them deity. Great King relativizes every lesser throne.",
+      "reformedNotes": "Calvin: Jehovah is a great God and great King above all gods—whatever is or is accounted deity; idols are nothing; angels only reflect sparks. Convince the world who alone is to be feared.\n\nReformed pastoral: shared—great God; King above all gods. Worship's ground is unmatched deity."
+    },
+    {
+      "number": 4,
+      "text": "In his hand are the depths of the earth; the heights of the mountains are his also.",
+      "arminianNotes": "In his hand are the depths of the earth; the heights of the mountains are his also. Wesley: Hand—under his government; Strength—strongest or highest mountains. Shared: depths and heights owned.\n\nArminian pastoral: geography preaches providence. Nothing too deep or high to escape his hand.",
+      "reformedNotes": "Calvin: deep places of the earth and heights of mountains are in his hand—creation's extremes under government.\n\nReformed pastoral: shared—depths; heights; his. The King's domain is the whole vertical range."
+    },
+    {
+      "number": 5,
+      "text": "The sea is his, for he made it, and his hands formed the dry land.",
+      "arminianNotes": "The sea is his, for he made it; his hands formed the dry land. Shared: maker-rights over sea and land.\n\nArminian pastoral: making grounds owning. Creator hands invite creature praise (vv. 1–2).",
+      "reformedNotes": "Calvin: sea is his for he made it; hands formed dry land—maker's claim seals the call to worship.\n\nReformed pastoral: shared—sea his; dry land formed. Creation underwrites the doxology."
+    },
+    {
+      "number": 6,
+      "text": "Oh come, let us worship and bow down; let us kneel before the Lord, our Maker!",
+      "arminianNotes": "Oh come, worship and bow down; kneel before the Lord, our Maker. Shared: triple posture—worship, bow, kneel; Maker.\n\nArminian pastoral: body joins heart. Maker names why kneeling is fitting, not optional flattery.",
+      "reformedNotes": "Calvin: come, worship, bow down, kneel before Jehovah our Maker—language grows vehement as he turns to the chosen people's gratitude for free favor and spiritual distinction above the nations.\n\nReformed pastoral: shared—worship; bow; kneel; Maker. Entire devotion answers electing kindness."
+    },
+    {
+      "number": 7,
+      "text": "For he is our God, and we are the people of his pasture, and the sheep of his hand. Today, if you hear his voice,",
+      "arminianNotes": "For he is our God; we are people of his pasture, sheep of his hand. Today, if you hear his voice— Wesley: Pasture—feeds and keeps in his own pasture/land; Sheep—special care; Today—forthwith, presently. Shared: covenant flock; urgent today.\n\nArminian pastoral: flock identity fuels hearing. Today means now—do not postpone the Shepherd's voice. Hebrews 3–4 takes the same today as living warning.",
+      "reformedNotes": "Calvin: he is our God; people of his pastures; flock of his hand; today if you will hear his voice—Law as crook showing him Shepherd; today marks the Jews' privilege of near revelation. Hebrews presses the same today upon the church.\n\nReformed pastoral: shared—our God; pasture people; sheep of his hand; today hear. Privilege intensifies the summons; both camps read Hebrews 3–4 as shared pastoral warning, not a timetable quarrel."
+    },
+    {
+      "number": 8,
+      "text": "do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness,",
+      "arminianNotes": "Do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness. Wesley: Harden not—by obstinate unbelief; Provocation—bold contest with God; Temptation—day you tempted me. Shared: Meribah/Massah pattern; soft heart commanded.\n\nArminian pastoral: hardness is obstinate unbelief. The wilderness sites are moral memory, not antiquarian trivia. Hebrews warns the same way: do not repeat the fathers' contest.",
+      "reformedNotes": "Calvin: harden not your heart as in Meribah/Massah—Shepherd's kindness becomes call to pliable submission; fathers' obstinacy is the foil. Hebrews carries the warning forward to hearers of the gospel.\n\nReformed pastoral: shared—do not harden; Meribah; Massah. Softness of heart is the flock's duty under the crook."
+    },
+    {
+      "number": 9,
+      "text": "when your fathers put me to the test and put me to the proof, though they had seen my work.",
+      "arminianNotes": "When fathers put me to the test and proof, though they had seen my work. Wesley: Works—both of mercy and of justice. Shared: testing despite seen works.\n\nArminian pastoral: sight did not produce trust. Seen mercy and justice still met provocation—beware repeating that contradiction.",
+      "reformedNotes": "Calvin: fathers tempted and proved me though they had seen my work—aggravation of unbelief after visible deeds. The warning assumes remembered history.\n\nReformed pastoral: shared—tested; proved; seen work. Revelation resisted is worse than ignorance."
+    },
+    {
+      "number": 10,
+      "text": "For forty years I loathed that generation and said, “They are a people who go astray in their heart, and they have not known my ways.”",
+      "arminianNotes": "For forty years I loathed that generation—astray in heart; have not known my ways. Wesley: Do err—insincere hearts bent to backsliding; Not known—after teaching and discoveries, they did not know or consider great things wrought for them. Shared: long grief; heart-error; ways unknown.\n\nArminian pastoral: forty years names prolonged patience met by prolonged stray. Heart-error is the root; ignorance here is culpable inattention.",
+      "reformedNotes": "Calvin: forty years I strove with this generation—they err in heart and have not known my ways. Long contention exposes an erring heart, not a brief lapse.\n\nReformed pastoral: shared—forty years; astray in heart; ways not known. Duration teaches how seriously God takes unbelief in his flock."
+    },
+    {
+      "number": 11,
+      "text": "Therefore I swore in my wrath, “They shall not enter my rest.”",
+      "arminianNotes": "Therefore I swore in my wrath, \"They shall not enter my rest.\" Wesley: My rest—the promised land, called the rest (Deut 12:9). Shared: oath; wrath; barred rest. Hebrews 3–4 applies the same exclusion as warning to persevering faith.\n\nArminian pastoral: rest is gift that unbelief forfeits. Do not invent a camp fight over end-time charts here—hear the shared apostolic warning: soft hearts enter; hard hearts stay out.",
+      "reformedNotes": "Calvin: I swore in my wrath they shall not enter my rest—oath seals exclusion. Hebrews takes up the same rest-bar as living admonition for those who hear today.\n\nReformed pastoral: shared—swore; wrath; shall not enter my rest. Both camps stand under Hebrews 3–4: today-hearing versus wilderness hardness."
+    }
+  ]
+}

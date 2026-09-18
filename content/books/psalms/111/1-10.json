@@ -1,0 +1,95 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 111,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Psalm 111:1–10",
+  "context": "An alphabetic hymn of praise: the psalmist gives thanks with the whole heart among the upright; celebrates the LORD’s great works studied by those who delight in them; names splendor, enduring righteousness, remembered wonders, grace and mercy; food for those who fear Him and everlasting covenant memory; power shown in giving the nations’ inheritance; faithful and just works and trustworthy precepts established forever; redemption sent and covenant commanded forever; holy and awesome Name; the fear of the LORD as wisdom’s beginning, good understanding for those who practice it, and praise that endures forever.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on whole-heart praise, great works sought out in delight, covenant food and forever remembrance, redemption sent, and the fear of the LORD as wisdom’s beginning—so each camp speaks in its own voice beside Psalm 111:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Sought—diligently meditated upon. Work—either all His works, or that eminent branch, His providence towards His people. Righteousness—His justice or faithfulness in performing His word. Remembered—by their own nature and lasting benefits. Meat—all necessary provisions for their being and well-being. The works—all that He doth on behalf of His people or against their enemies. Sure—constant and unchangeable. Redemption—the deliverance out of Egypt, type of that higher redemption by Christ. For ever—through all successive generations of His people. Reverend—terrible to His enemies, venerable in His people’s eyes. The fear—true religion.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 111)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I will praise Jehovah with my whole heart in the congregation of the just—unfeignedly, and publicly. The works of Jehovah are great, sought out of all who have pleasure in them; none are ignorant except the willfully blind. His work is beautiful; His justice endures forever; He has caused His marvellous works to be remembered; merciful and compassionate is Jehovah. He has given a portion to those who fear Him; He will remember His covenant forever. He showed His people the power of His works to give them the heritage of the nations. The works of His hands are truth and judgment; all His statutes are true, established forever. He sent redemption to His people; holy and terrible is His name. The fear of Jehovah is the beginning of wisdom; a good understanding have all who keep His commandments; His praise endureth forever.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 111)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Praise the LORD! I will give thanks to the LORD with my whole heart, in the company of the upright, in the congregation.",
+      "arminianNotes": "Praise the LORD! Thanks with my whole heart in the company of the upright, in the congregation. Whole-heart praise in public assembly.\n\nArminian pastoral: shared—unfeigned thanks among the upright. Grace frees the heart; the singer still gives thanks in the congregation.",
+      "reformedNotes": "Calvin: praise with the whole heart—upright, not double—and publicly in the assembly of the just. Secret gratitude should also rise in swelling strains so God is not robbed of half His honor.\n\nReformed accent: heart first, then public praise. Shared refusal of lip-only worship."
+    },
+    {
+      "number": 2,
+      "text": "Great are the works of the LORD, studied by all who delight in them.",
+      "arminianNotes": "Great are the LORD’s works, studied by all who delight in them. Wesley: Sought—diligently meditated upon.\n\nArminian hearing: delight studies; greatness is not ignored by the indifferent. Shared—meditation is the path into God’s works.",
+      "reformedNotes": "Calvin: works are great but few notice them; excellency is known to all who desire it—none ignorant except the willfully blind. Begin study with reverence.\n\nReformed accent: blindness is culpable indifference. Shared call to seek out the works with pleasure."
+    },
+    {
+      "number": 3,
+      "text": "Full of splendor and majesty is his work, and his righteousness endures forever.",
+      "arminianNotes": "Splendor and majesty His work; righteousness endures forever. Wesley: Work—all His works or providence toward His people; Righteousness—justice or faithfulness in performing His word.\n\nArminian pastoral: shared—majestic work, lasting righteousness. Trust the faithfulness that keeps the word.",
+      "reformedNotes": "Calvin: every act replete with glorious majesty; justice invitingly conspicuous—not terror only. Commendation against the ungodly’s calumny.\n\nReformed comfort: enduring righteousness answers slander of God’s ways."
+    },
+    {
+      "number": 4,
+      "text": "He has caused his wondrous works to be remembered; the LORD is gracious and merciful.",
+      "arminianNotes": "Wondrous works remembered; the LORD gracious and merciful. Wesley: Remembered—by their nature and lasting benefits not easily forgotten.\n\nArminian pastoral: shared attributes—gracious and merciful. Memory of wonders fuels present trust.",
+      "reformedNotes": "Calvin: He causes marvellous works to be remembered; Jehovah is compassionate and merciful—grace the source of the justice that preserves His people.\n\nReformed accent: memorial of wonders bound to mercy. Shared praise of graciousness."
+    },
+    {
+      "number": 5,
+      "text": "He provides food for those who fear him; he remembers his covenant forever.",
+      "arminianNotes": "Food for those who fear Him; He remembers His covenant forever. Wesley: Meat—all necessary provisions for being and well-being.\n\nArminian pastoral: fearers are fed; covenant memory is forever. Shared—provision tied to covenant faithfulness, sincerely experienced by those who fear Him.",
+      "reformedNotes": "Calvin: He gives a portion to those who fear Him; He will remember His covenant forever—care that shows the covenant is not void; goodness we receive flows from adoption.\n\nReformed accent: covenant forever underwrites daily bread for fearers. Shared reliance on His mindfulness.",
+      "keyContrast": "Both tie provision for God-fearers to everlasting covenant remembrance. Arminians typically stress the lived fear and trust that receive food from a faithfully mindful God. Reformed readers typically stress that covenant adoption is why He never wearies of showing kindness to His people."
+    },
+    {
+      "number": 6,
+      "text": "He has shown his people the power of his works, in giving them the inheritance of the nations.",
+      "arminianNotes": "Shown His people the power of His works, giving them the inheritance of the nations.\n\nArminian hearing: power displayed in gift of inheritance. Shared—conquest of the land (and its gospel analogue) is God’s power, not bare human might.",
+      "reformedNotes": "Calvin: He declared the power of His works to give the heritage of the heathen—Holy Land not by mere human power but by miracles; Israel a match for nations only from on high.\n\nReformed pastoral: shared—inheritance by demonstrated power."
+    },
+    {
+      "number": 7,
+      "text": "The works of his hands are faithful and just; all his precepts are trustworthy;",
+      "arminianNotes": "Works of His hands faithful and just; all His precepts trustworthy. Wesley: Works—for His people or against enemies; Truth—agreeable to promises and justice; Commandments—laws, especially moral; Sure—constant and unchangeable.\n\nArminian pastoral: shared harmony of deeds and precepts—faithful, just, trustworthy. Keep the sure commandments.",
+      "reformedNotes": "Calvin: works of His hands are truth and judgment; all His statutes true—beautiful harmony in sayings and doings; He is just and faithful everywhere.\n\nReformed accent: law and providence agree. Shared trust in sure precepts."
+    },
+    {
+      "number": 8,
+      "text": "they are established forever and ever, to be performed with faithfulness and uprightness.",
+      "arminianNotes": "Established forever and ever, performed with faithfulness and uprightness. Wesley: Done—constituted or ordered.\n\nArminian hearing: forever stability; performance in faithfulness. Shared—God’s orders do not expire with fashion.",
+      "reformedNotes": "Calvin: established forever, made in truth and rectitude. Without the law’s sacred chain the fruit of redemption would soon be lost.\n\nReformed pastoral: eternal statutes in truth. Shared obedience as life’s response."
+    },
+    {
+      "number": 9,
+      "text": "He sent redemption to his people; he has commanded his covenant forever. Holy and awesome is his name!",
+      "arminianNotes": "He sent redemption to His people; commanded His covenant forever. Holy and awesome is His name! Wesley: Redemption—deliverance from Egypt, type of higher redemption by Christ; Commanded—established by power; Forever—through successive generations; Reverend—terrible to enemies, venerable to His people, holy in all dealings.\n\nShared: redemption and everlasting covenant; holy Name. Both camps read Egypt as type pointing to Christ.",
+      "reformedNotes": "Calvin: He sent redemption; commanded His covenant forever; holy and terrible is His name. Deliverance begins salvation; the law ratifies grace so eternal life’s hope continues in the church. Commandments must not be taken abstractly from promises in Christ.\n\nShared: redemption plus forever covenant. Reformed accent—adoption sealed so hope does not fail."
+    },
+    {
+      "number": 10,
+      "text": "The fear of the LORD is the beginning of wisdom; all those who practice it have a good understanding. His praise endures forever!",
+      "arminianNotes": "The fear of the LORD is the beginning of wisdom; all who practice it have good understanding. His praise endures forever! Wesley: The fear—true religion.\n\nArminian pastoral: wisdom starts in fear; practice yields understanding; praise forever. Shared—true religion is obedient fear, not craftiness. Classical Arminians stress practicing the fear as living godliness grace enables.",
+      "reformedNotes": "Calvin: fear of Jehovah is the beginning of wisdom—those who do not obey are brute beasts regarding the first elements; without fear, worldly craft is vanity. Good understanding have those who keep the commandments; fear here is comprehensive true godliness. Spend life celebrating His praises.\n\nReformed accent: fear as source of wisdom, proved by keeping. Shared—His praise endures forever.",
+      "keyContrast": "Both confess that the fear of the LORD is wisdom’s beginning and that doing His commandments is good understanding. Arminians typically stress true religion practiced as grace-enabled godliness. Reformed readers typically stress that without this fear all wicked craftiness is empty, and that keeping the law evidences genuine fear."
+    }
+  ]
+}

@@ -50,6 +50,16 @@
   "keyContrast": "Both confess that God knows all things, including future free acts; classical Arminians are not open theists. Arminians typically deny that knowledge itself causes those acts (sometimes via middle knowledge); the Reformed typically deny that God decreed because he foresaw, locating certainty in a counsel independent of the creature.",
   "scripture": [
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 139,
+      "verseStart": 1,
+      "verseEnd": 24,
+      "title": "Psalm 139:1–24",
+      "href": "/bible/psalms/139/1-24.html",
+      "why": "O Lord, you have searched me and known me—before a word is on my tongue."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 2,

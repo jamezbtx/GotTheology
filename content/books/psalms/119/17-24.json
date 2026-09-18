@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 119,
+  "verseStart": 17,
+  "verseEnd": 24,
+  "translation": "ESV",
+  "title": "Psalm 119:17–24",
+  "context": "The Gimel stanza pleads for God’s bounty that the servant may live and keep the word, and for opened eyes to behold wonders in the law. The singer is a sojourner longing for God’s rules, rebukes the insolent who wander, asks relief from scorn, and under plotting princes still meditates—finding delight and counsel in the testimonies. Both camps pray for illumination and cling to Scripture under pressure; they differ on whether the power to keep is free favor of the Spirit alone from the start.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on living to keep the word, opened eyes for the law’s wonders, the sojourner’s longing, and delight under reproach—so each camp speaks in its own voice beside Psalm 119:17–24.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Live—safely and comfortably. Open—enlighten my mind by the light of thy Holy Spirit, and dispel all ignorance and error. Behold—those great and marvellous depths of Divine wisdom and goodness, and those profound mysteries of Christ, and God’s grace to mankind, and of that everlasting state, which are not to be known but by Divine illumination. A stranger—I am not here as in my home, but as a pilgrim travelling homeward in a strange land.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 119:17–19)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He asks as a principal favor that, while he lives, he may devote himself entirely to God. These two clauses are connected: that I may live, and keep thy word. It is owing to the peculiar grace of the Holy Spirit that any person keeps the law of God. Had he imagined that preparing oneself for the observance of his law depended on his own free will, then this prayer would have been nothing else than downright hypocrisy. Admitting that God gives light by his word, we are blind amid the clearest light until he remove the veil from our eyes.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 119:17–18)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 17,
+      "text": "Deal bountifully with your servant, that I may live and keep your word.",
+      "arminianNotes": "Wesley: Live—safely and comfortably.\n\nClassical Arminians hear bounty asked so that life and obedience may flourish together. Keeping the word is the aim of living, not a side hobby. Grace is petitioned; the servant does not claim self-made fidelity. Do not invent a life preserved for comfort alone without keeping.",
+      "reformedNotes": "Calvin: gamal here expresses free favor, not mutual recompense. Preferable sense: grant that while I live I may keep thy commandments. The grand object of existence is exercising oneself in God’s service. It is owing to the peculiar grace of the Spirit that any keeps the law; if preparation depended on free will, the prayer would be hypocrisy.\n\nReformed accent: live-and-keep is one gift of free favor. Prolongation of life without this aim is irrational appetite.",
+      "keyContrast": "Both tie life to keeping God’s word and both ask bounty rather than claim native power. Arminians typically hear free grace sincerely enabling the servant who asks to live and keep. Reformed readers typically hear Calvin’s sharper edge: keeping is peculiar grace of the Spirit, and any notion that we prepare ourselves by free will for that keeping would make the prayer hypocrisy."
+    },
+    {
+      "number": 18,
+      "text": "Open my eyes, that I may behold wondrous things out of your law.",
+      "arminianNotes": "Wesley: Open—enlighten my mind by the Holy Spirit, dispel ignorance and error. Behold—marvellous depths of divine wisdom and goodness, mysteries of Christ and God’s grace to mankind, and the everlasting state—known only by divine illumination.\n\nClassical Arminians hear a shared need for Spirit-opened eyes. The law’s wonders include Christ and grace; illumination is asked, not presumed. Do not invent unaided sight of the mysteries.",
+      "reformedNotes": "Calvin: every man is blind until God also enlightens the understanding. We are blind amid clearest light until he removes the veil. The prophet deplores his own and the race’s blindness; the remedy is at hand if we do not reject gracious illumination by trusting our own wisdom. Illumination is not to contemn the external word for fanatic inspirations, but to discern the light God manifests by his word. “Marvelous things” humbles us and proves our need of grace to comprehend mysteries beyond capacity—including the covenant of salvation; Christ is the end of the law.\n\nReformed confession: opened eyes are Spirit’s gift unto the word, not around it."
+    },
+    {
+      "number": 19,
+      "text": "I am a sojourner on the earth; hide not your commandments from me!",
+      "arminianNotes": "Wesley: A stranger—not here as at home, but a pilgrim travelling homeward. Commandments—chief support and guide in the pilgrimage.\n\nClassical Arminians hear the sojourner’s dependence on revealed guidance. Hide not—without the commandments the pilgrim is lost. Shared piety: Scripture as lamp for travelers.",
+      "reformedNotes": "Calvin: those who know their inheritance is in heaven are not engrossed by perishable things. Sum: since I must pass quickly through the earth, what becomes of me if deprived of the doctrine of the law? God conceals commandments from those whose eyes he does not open—in seeing they see not.\n\nReformed accent: sojourning intensifies need for unveiled commandments. Spiritual vision and the word travel together."
+    },
+    {
+      "number": 20,
+      "text": "My soul is consumed with longing for your rules at all times.",
+      "arminianNotes": "Wesley: Breaketh—faints when a vehemently desired thing is delayed. Judgments—toward more sound knowledge and serious practice.\n\nClassical Arminians hear holy impatience for God’s rules—longing that presses into practice. “At all times” marks perseverance of desire, not a spike of zeal.",
+      "reformedNotes": "Calvin: intense affection for the law—soul rent with desire at all times. Steadfastness is necessary lest zeal vanish; “at all times” expresses perseverance against weariness.\n\nReformed reading: longing is not seasonal enthusiasm. Constant desire for the judgments marks true piety."
+    },
+    {
+      "number": 21,
+      "text": "You rebuke the insolent, accursed ones, who wander from your commandments.",
+      "arminianNotes": "Wesley: The proud—obstinate and presumptuous sinners who sin with a high hand. Err—wander knowingly or wilfully.\n\nClassical Arminians hear warning: willful wandering from the commandments brings rebuke. Pride and presumption are named; hearers are called to humble keeping, not high-handed contempt.",
+      "reformedNotes": "Calvin: God’s judgments instruct us to study the law. Unbelievers are called proud—true faith alone humbles; rebellion is pride’s offspring. Wandering here is unbridled licentiousness from impious contempt, not every infirmity God bears with paternally. Judgments on the wicked teach the earth righteousness.\n\nReformed accent: rebuke of the insolent sobers the faithful. Contempt of the word is reprobate path."
+    },
+    {
+      "number": 22,
+      "text": "Take away from me scorn and contempt, for I have kept your testimonies.",
+      "arminianNotes": "Wesley does not pause here. Scorn and contempt are asked to be removed because the singer has kept the testimonies. Classical Arminians hear pastoral realism: sincere keepers still suffer mockery and may plead for relief.\n\nKeeping is confessed without claiming sinless perfection; the plea is for vindication under unjust scorn.",
+      "reformedNotes": "Calvin: even circumspect children of God incur slanders; they petition God to protect unfeigned godliness against poisonous tongues. Preferable sense: permit not the ungodly to mock me for endeavoring to keep thy law. Sincerity of worshipers has been matter of derision from the beginning.\n\nReformed confession: reproach for keeping is expected; God is asked to silence dishonor done to his name."
+    },
+    {
+      "number": 23,
+      "text": "Even though princes sit plotting against me, your servant will meditate on your statutes.",
+      "arminianNotes": "Wesley does not pause here. Under plotting princes, the servant meditates on the statutes. Classical Arminians hear courage of devotion: meditation continues when power sits against the godly.\n\nShared ground: Scripture as stay under persecution. Status does not cancel the duty and comfort of meditating.",
+      "reformedNotes": "Calvin: he was derided not only by the rabble but by judges who sat and spoke injuriously on the very judgment-seat. Yet he persevered; Satan assailed to drive him to despair, but he sought remedy in meditating on the law. Earthly judges often oppress God’s servants; do not place dependence on men’s judgments.\n\nReformed accent: meditation under official hostility is Christian fortitude. God’s approbation outweighs vacant thrones."
+    },
+    {
+      "number": 24,
+      "text": "Your testimonies are my delight; they are my counselors.",
+      "arminianNotes": "Wesley does not pause here. Testimonies as delight and counselors close Gimel. Classical Arminians hear Scripture guiding decisions and gladdening the heart under pressure.\n\nCounsel from the word outranks counsel from fear or ambition. Delight and guidance are twin gifts both camps confess.",
+      "reformedNotes": "Calvin: though cruel injustice grieves, pleasurable delight in the law is sufficient recompense. Testimonies as counselors mean he did not rely on his own judgment simply but took counsel from God’s word. Blind affection misdirects the avaricious and ambitious; guided by the word, there is no inlet to flesh’s deceits.\n\nReformed reading: the word as counselor steadies against the world’s counsel. Delight fuels fortitude."
+    }
+  ]
+}

@@ -50,6 +50,16 @@
   "keyContrast": "Both confess that God is wholly present everywhere and is not confined to temples. There is no historic Arminian–Reformed split on the attribute itself; any remaining difference belongs to how that near God applies saving grace, not to whether he is here.",
   "scripture": [
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 139,
+      "verseStart": 1,
+      "verseEnd": 24,
+      "title": "Psalm 139:1–24",
+      "href": "/bible/psalms/139/1-24.html",
+      "why": "Where shall I go from your Spirit? If I ascend to heaven or make my bed in Sheol."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 4,

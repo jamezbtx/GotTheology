@@ -1,0 +1,108 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 5,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 5:1–12",
+  "context": "Psalm 5 is David’s morning plea: he asks the LORD to give ear to his words and consider his groaning, addresses him as King and God, and watches after morning preparation. He grounds the request in God’s character—no delight in wickedness, no place for evil, hatred of evildoers, destruction of liars, abhorrence of the bloodthirsty and deceitful. Through abundant steadfast love he will enter God’s house and bow toward the holy temple in fear; he asks to be led in the LORD’s righteousness and given a straight way because of enemies whose mouths lack truth and whose throats are open graves. He asks that the guilty fall by their own counsels and be cast out for rebellion, then asks joy and protection for all who take refuge and love God’s name—for the LORD blesses the righteous and covers him with favor as with a shield.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on morning cry and watchful waiting, God’s hatred of wickedness, entrance by steadfast love, leading in righteousness amid enemies, judgment on deceitful rebels, and favor that shields those who take refuge—so each camp speaks in its own voice beside Psalm 5:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "David beseeches God to hear his prayer, assures himself of God’s justice against his enemies, declares his resolution to serve God, and prays for himself and the people of God, and against his enemies. Meditation—my prayer accompanied with deep thoughts and fervent affections of soul. Morning—every morning; as soon as I wake, I am still with thee; the first thing that I do is to pray to thee. Surely—thou dost not approve of, nor delight in them, or in their prayers. Dwelt—have any fellowship with thee. Come—with holy boldness and confidence. Mercy—trusting only in thy great mercy. Fear—with an holy dread and reverence of thy majesty. Towards—looking towards it, when I cannot come to it. Righteousness—in thy righteous laws. Because—that I may give them no occasion of slandering me, or religion for my sake. The way—the way wherein thou wouldst have one walk. Plain—that I may clearly discern it, and readily walk in it. Throat—wide opened ready to devour all that come within their reach; a metaphor from wild beasts gaping for the prey. Destroy—condemn and punish them. Cast—out of thy land, and from among thy people.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David being grievously oppressed by the cruelty of his enemies, and apprehending still more mischief, earnestly beseeches God for help. He first brings forward the intolerable malice of his enemies, showing how inconsistent it would be with the character of God were they left unpunished. He next speaks of his own faith and patience, and even comfort, having no doubt of a happy issue. Finally he concludes that when he shall be delivered, the benefits would extend to all the godly. He prayed neither coldly nor in few words; the vehemence of grief urged earnest bewailing before God. In the morning he directs unto God and watches—not drawn different ways by worldly helps, but with the settled order of faith, looking out as a sentinel until God has heard. God takes no pleasure in wickedness; evil shall not dwell with him; he hates all that commit iniquity and will destroy those who speak falsehood. David will enter God’s house in the multitude of mercy and worship in fear—access only through God’s goodness. Lead me in thy righteousness because of my adversaries; make straight thy way—open escape when snares surround. Their throat is an open sepulcher; with their tongues they deal deceitfully. Cause them to err; let them fall from their counsels; destroy them for rebellion against thee. Let all who trust in thee rejoice; cover them; let those who love thy name delight in thee. Thou wilt bless the righteous and encompass them with thy favor as with a shield—not for the merit of their works, but because after receiving them into favor he accepts their upright endeavors.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 5)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Give ear to my words, O LORD; consider my groaning.",
+      "arminianNotes": "Wesley: Meditation—my prayer accompanied with deep thoughts and fervent affections of soul.\n\nArminian hearing: shared plea—words and groaning brought before the LORD. Prayer is not bare speech; it joins thought and affection. Ask to be heard; bring the groan as well as the sentence.",
+      "reformedNotes": "Calvin: one request in varied forms marks strength of affection and long perseverance in prayer—neither cold nor few words. Groaning may be confused muttering when sorrow hinders clear speech; cry marks earnest desire. He does not fret only toward men; he directs the groan to God.\n\nReformed accent: shared—earnest, persevering cry. Language may fail; the heart still lays calamity before the King who hears."
+    },
+    {
+      "number": 2,
+      "text": "Give attention to the sound of my cry, my King and my God, for to you do I pray.",
+      "arminianNotes": "Arminian pastoral: shared address—King and God, and prayer directed to him alone. The cry has a sound meant to be attended; the ground is that prayer is owed and offered to this King, not to rival helpers.",
+      "reformedNotes": "Calvin: calling God his King and his God stirs livelier hope for the issue of affliction. At the close he testifies he does not sullenly gnaw the bit as unbelievers do, but directs groaning to God—whoever call upon God in calamities never meet with a repulse from him.\n\nReformed accent: shared—cry to the true King. Titles train familiarity with God and confidence that prayer to him is not wasted breath."
+    },
+    {
+      "number": 3,
+      "text": "O LORD, in the morning you hear my voice; in the morning I prepare a sacrifice for you and watch.",
+      "arminianNotes": "Wesley: Morning—every morning. As soon as I wake, I am still with thee (Ps 139:18). The first thing that I do is to pray to thee.\n\nArminian reading: shared discipline—morning voice, preparation, and watchful looking up. First thoughts turn to God; waiting follows the offering of the day.",
+      "reformedNotes": "Calvin: constrained by delay, he wishes deliverance hastened—as soon as I awaken this will be the first subject of my thoughts. To direct unto God means settled approach, not rambling after worldly helps. Watch conveys hope, patience, and anxiety—looking out as a sentinel until God has indeed heard.\n\nReformed accent: shared—morning order and watchful hope. Faith’s settled path is straight to God; useless are prayers without the hope that elevates the mind into a watch-tower."
+    },
+    {
+      "number": 4,
+      "text": "For you are not a God who delights in wickedness; evil may not dwell with you.",
+      "arminianNotes": "Wesley: Surely—thou dost not approve of, nor delight in them, or in their prayers. Dwelt—have any fellowship with thee.\n\nArminian warning: shared confession—God’s character bars wickedness from his pleasure and fellowship. Do not dress rebellion as prayer he must enjoy; evil has no dwelling with him.",
+      "reformedNotes": "Calvin: David makes enemies’ malice an argument for divine favor. Reasoning is grounded in God’s nature: righteousness is pleasing to him, so he will take vengeance on the unjust. There is no agreement between God and unrighteousness. Though he bear with the wicked for a time, he will ascend the judgment-seat as avenger and defender of his people.\n\nReformed accent: shared—God hates evil and will not leave it unpunished. Insolence that seems unbounded becomes ground for hope, not despair, because God is judge of the world."
+    },
+    {
+      "number": 5,
+      "text": "The boastful shall not stand before your eyes; you hate all evildoers.",
+      "arminianNotes": "Arminian hearing: shared severity—boastful swagger does not stand before God’s eyes. Hatred of evildoers is moral, not mood; the hearer must refuse the boastful path that cannot abide his gaze.",
+      "reformedNotes": "Calvin: the foolish shall not stand in thy sight—those who, impelled by blind passion, rush into sin. Nothing is more foolish than casting away the fear of God. This truth comforts the godly and bridles hearers: God the avenger of wickedness restrains vain hope of escaping with impunity.\n\nReformed accent: shared—no standing for the boastful before holy eyes. God’s hatred of iniquity both consoles the oppressed and warns against sin’s false safety."
+    },
+    {
+      "number": 6,
+      "text": "You destroy those who speak lies; the LORD abhors the bloodthirsty and deceitful man.",
+      "arminianNotes": "Arminian pastoral: shared verdict—lies meet destruction; bloodthirst and deceit meet the LORD’s abhorrence. False speech and violent craft are not minor flaws in a neutral God; they are what he destroys and abhors.",
+      "reformedNotes": "Calvin: God will destroy those who speak falsehood; Jehovah abominates the man of bloods and the deceitful. How can they escape unpunished, seeing he is judge of the world? Although God works by Satan and the ungodly for his judgments, he is not the author of sin nor pleased with it—he justly condemns those driven by mysterious providence where he pleases.\n\nReformed accent: shared—destruction and abhorrence of liars and the violent-deceitful. Providence that uses wicked instruments still hates and judges their wickedness."
+    },
+    {
+      "number": 7,
+      "text": "But I, through the abundance of your steadfast love, will enter your house. I will bow down toward your holy temple in the fear of you.",
+      "arminianNotes": "Wesley: Come—with holy boldness and confidence. Mercy—trusting only in thy great mercy. Fear—with an holy dread and reverence of thy majesty. Towards—looking towards it, when I cannot come to it.\n\nArminian reading: shared entrance—only by abundant steadfast love, with fear. Boldness trusts mercy alone, not self-desert; reverence keeps the bow from presumption. Look toward the temple when near approach is barred.",
+      "reformedNotes": "Calvin: I will come into thy temple in the multitude of thy mercy—kept in safety by God’s favor and bound to gratitude. Access to God is only through his goodness; no man prays aright but he who, having experienced grace, believes God will be merciful to him. Fear distinguishes genuine trust from vain confidence of the flesh; hypocrites’ thanks only profane his name.\n\nReformed accent: shared—mercy-access and fearful worship. The ground of coming is God’s abundant goodness already tasted, not a claim first won by the worshiper’s worth.",
+      "keyContrast": "Both confess that entrance to God’s house is through the abundance of his steadfast love, joined with reverent fear—not through self-worthiness. Arminian readers, with Wesley, stress holy boldness that trusts only in great mercy and looks toward the temple even when near approach is denied. Reformed readers, with Calvin, stress that access is only through God’s goodness, and that right prayer belongs to those who have already experienced his grace and are persuaded he will be merciful—fear fencing that trust from fleshly presumption."
+    },
+    {
+      "number": 8,
+      "text": "Lead me, O LORD, in your righteousness because of my enemies; make your way straight before me.",
+      "arminianNotes": "Wesley: Righteousness—in thy righteous laws. Because—that I may give them no occasion of slandering me, or religion for my sake. The way—the way wherein thou wouldst have one walk. Plain—that I may clearly discern it, and readily walk in it.\n\nArminian pastoral: shared plea—lead and straighten the way. Ask clear sight of the path God wills, so enemies find no handle to slander the walk or the faith.",
+      "reformedNotes": "Calvin: lead me in thy righteousness because of adversaries—open a way of escape when snares surround. God’s righteousness here is his faithfulness and mercy in defending his people. Make thy way straight: deliver by God’s power from distresses that, to flesh, seem to leave no exit—wisdom and a path where no way appears.\n\nReformed accent: shared—led because of enemies. The righteousness pleaded is God’s defending faithfulness that clears the path, not first a map of laws the pilgrim must invent alone.",
+      "keyContrast": "Both confess that the LORD must lead because of enemies and make his way straight before the pray-er. Arminian readers, with Wesley, hear righteousness as God’s righteous laws—clear discernment to walk so that foes gain no occasion to slander the person or the religion. Reformed readers, with Calvin, hear righteousness as God’s faithfulness and mercy defending his own—opening escape through surrounding snares when flesh sees no way out."
+    },
+    {
+      "number": 9,
+      "text": "For there is no truth in their mouth; their inmost self is destruction; their throat is an open grave; they flatter with their tongue.",
+      "arminianNotes": "Wesley: Throat—wide opened ready to devour all that come within their reach. A metaphor from wild beasts gaping for the prey.\n\nArminian warning: shared diagnosis—no truth in the mouth, destruction within, flattering tongue, throat as open grave. Flattery is predatory; do not trust smooth speech that hides a devouring gullet.",
+      "reformedNotes": "Calvin: no faithfulness in their mouth; inwardly full of iniquity; throat an open sepulcher—devouring gulfs, insatiable for blood; tongues dealing deceitfully. The more cruelty they show, the more confidently send groanings to heaven—God will not suffer their rage to the uttermost. Under David is described the church; Paul (Rom 3:13) applies the charge to the human family by nature.\n\nReformed accent: shared—treachery from mouth to inmost part. Oppression that looks hopeless becomes ground to cry louder, because God brings malice to light."
+    },
+    {
+      "number": 10,
+      "text": "Make them bear their guilt, O God; let them fall by their own counsels; because of the abundance of their transgressions cast them out, for they have rebelled against you.",
+      "arminianNotes": "Wesley: Destroy—condemn and punish them. Cast—out of thy land, and from among thy people.\n\nArminian hearing: shared imprecation—guilt owned, counsels collapsing, casting out for abundant transgression and rebellion against God. The plea is moral justice, not private spite; rebellion against God is the charge.",
+      "reformedNotes": "Calvin: cause them to err; let them fall from their counsels—God deprive them of understanding so undertakings fail. He strikes with stupidity those wise to commit iniquity; Satan’s schemes dissipate by the breath of God’s mouth. Punish them as deserved: in wronging the innocent they rebel against God, who takes his servants’ cause as his own.\n\nReformed accent: shared—guilt, falling counsels, casting out for rebellion. God himself frustrates crafty schemes and owns the cause of the uprightly oppressed."
+    },
+    {
+      "number": 11,
+      "text": "But let all who take refuge in you rejoice; let them ever sing for joy, and spread your protection over them, that those who love your name may exult in you.",
+      "arminianNotes": "Arminian pastoral: shared turn—from enemies to all who take refuge. Joy, song, protection, and exultation belong with loving God’s name. Refuge is to be taken; love of the name is lived allegiance that sings.",
+      "reformedNotes": "Calvin: if God delivers David, the fruit is common to all the godly—confirming faith and praise. Believers are ungrateful if neighbors’ blessings do not encourage them. True joy proceeds from God’s protection; those who trust in the Lord love his name—remembrance of God sweet after tasting his goodness.\n\nReformed accent: shared—refuge, joy, covering, love of the name. One deliverance teaches the perpetuity of grace toward all who trust him."
+    },
+    {
+      "number": 12,
+      "text": "For you bless the righteous, O LORD; you cover him with favor as with a shield.",
+      "arminianNotes": "Arminian reading: shared ground—the LORD blesses the righteous and covers with favor as a shield. Blessing and shielding answer those who take refuge and love his name (v. 11). Live under that favor; do not trade the shield for self-made cover.",
+      "reformedNotes": "Calvin: from one example judge the immutability of God’s grace toward all the godly. True joy derives from sense of God’s fatherly love. Righteous names all God’s servants—not for merit of works, but because after receiving them into favor by not imputing their sins, he accepts their upright endeavors for perfect righteousness. Favor as a shield: completely defended; God’s free goodwill is an invincible fortress.\n\nReformed accent: shared—blessing and favor-shield. The righteous are those God has received and covers—not a class that first earned the shield by perfect desert.",
+      "keyContrast": "Both confess that the LORD blesses the righteous and covers him with favor as with a shield, so refuge and joy (v. 11) rest on God’s own covering. Arminian readers stress the blessing and shield as real favor for those who take refuge and love his name—lived trust under that covering. Reformed readers, with Calvin, stress that “righteous” names those God has received into favor by not imputing sin, accepting upright endeavors—not blessing grounded in the merit of their works—and that free goodwill itself is the invincible shield."
+    }
+  ]
+}

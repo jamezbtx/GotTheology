@@ -1,0 +1,71 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 126,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "Psalm 126:1–6",
+  "context": "A Song of Ascents of restored fortune and tearful sowing: when the LORD restored Zion, laughter and nations' confession followed—'The LORD has done great things.' Prayer asks streams in the Negeb; those who sow in tears reap with shouts of joy, coming home with sheaves. Pilgrim hope works through weeping toward harvest.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on captivity turned like a dream, nations confessing great things, and sowing in tears toward joyful harvest—so each camp speaks in its own voice beside Psalm 126:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "When the Lord turned again the captivity—When Cyrus published his decree in favor of the Jews, giving them liberty to return to their own land. We were like them that dream—The news was so unexpected that we doubted for a time the truth of it. We believed it was too good news to be true, and thought ourselves in a dream or illusion. Then said they among the heathen—The liberty now granted was brought about in so extraordinary a way, that the very heathens saw that the hand of the great Jehovah must have been in it. They that sow in tears shall reap in joy—We see the benefit of humbling ourselves under the mighty hand of God; we have now a sweet return for our bitter tears. He that goeth forth and weepeth, bearing precious seed—He carries his all, his precious seed, with him; and with a sorrowful heart commits it to the furrow, watering it in effect with his tears, and earnestly imploring the blessing of God upon it. God hears; he returns with the sheaves, praising God for the wonders he has wrought.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 126)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This Psalm consists of three parts. First, the Prophet exhorts the faithful who had returned from the captivity to gratitude, and highly extols the grace displayed in their deliverance, to show them beyond all doubt that they were brought back by the hand of God, and not by a fortuitous conjuncture of circumstances or by the favor of men. In the second part a prayer is added, that God would perfect his own work which he had begun. Finally, although there was no immediate prospect of a full restoration, yet he mitigates the feeling of weariness which delay might occasion, and assures them that though at present the seed was watered with tears, the harvest would be joyous. By the verb dream, which expresses the astonishing character of the event, he teaches us that there is no room left for ingratitude. They who sow in tears shall reap in joy: this sentence ought not less to be extended to the future than understood of the past. In order that joy may succeed our present sorrow, let us learn to apply our minds to the contemplation of the issue which God promises.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 126)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "When the LORD restored the fortunes of Zion, we were like those who dream.",
+      "arminianNotes": "When the LORD restored Zion's fortunes, we were like those who dream. Mercy arrived so large it felt unreal—too good, almost, until joy caught up with fact.\n\nClassical Arminians welcome astonished gratitude. Receive the restoration as God's doing; let the dreamlike wonder keep you from shrinking the miracle back into ordinary politics.",
+      "reformedNotes": "When the LORD restored Zion's fortunes, we were like dreamers. The event's scale swallows carnal explanations and leaves room only for God's hand.\n\nReformed accent: dream language blocks ingratitude. Deliverance this astonishing is not fortune or favor of men; it is the LORD's work, to be owned as such."
+    },
+    {
+      "number": 2,
+      "text": "Then our mouth was filled with laughter, and our tongue with shouts of joy; then they said among the nations, \"The LORD has done great things for them.\"",
+      "arminianNotes": "Mouth filled with laughter; tongue with shouts; nations say the LORD has done great things for them. Joy overflows until even outsiders confess His hand.\n\nArminian pastoral: do not mute the laughter. Let glad testimony match the mercy; when nations notice God's great things, join their sentence with your own glad Amen.",
+      "reformedNotes": "Laughter and shouts fill mouth and tongue; the nations confess the LORD's great deeds for them. Even the blind see a miracle too bright to hide.\n\nReformed note: Gentile acknowledgment shames forgetful Israel. If unbelievers can name God's greatness in this return, how much more should His people celebrate without steel-hearted silence."
+    },
+    {
+      "number": 3,
+      "text": "The LORD has done great things for us; we are glad.",
+      "arminianNotes": "The LORD has done great things for us; we are glad. The nations' sentence becomes Israel's own confession—short, warm, and personal.\n\nClassical Arminians urge this echo as living faith. Own the great things; let gladness answer mercy freely, not as duty muttered without joy.",
+      "reformedNotes": "The LORD has done great things for us; we are glad. Corporate confession answers the heathen's observation with covenant ownership.\n\nReformed comfort: gladness restored after long sorrow marks renewed adoption. The antithesis with captivity's grief sharpens how thoroughly God has acted for His people."
+    },
+    {
+      "number": 4,
+      "text": "Restore our fortunes, O LORD, like streams in the Negeb!",
+      "arminianNotes": "Restore our fortunes, O LORD, like streams in the Negeb! After tasted mercy comes further asking—sudden, abundant return where the land runs dry.\n\nArminian pastoral: keep praying for those still exiled in hardship. God who restored once invites continued petition for full, stream-like renewal.",
+      "reformedNotes": "Restore our fortunes like Negeb streams. Those already home still plead that God perfect the work He began among the dispersed and distressed.\n\nReformed accent: prayer seeks miracle-scale gathering. As God can send rivers through arid south, so He can reunite captives and settle His people in ease.",
+      "keyContrast": "Both pray for further restoration after partial return. Arminians typically stress sincere, ongoing petition for remaining need; Reformed readers typically stress asking God to finish His own begun work with power like streams in a dry land."
+    },
+    {
+      "number": 5,
+      "text": "Those who sow in tears shall reap with shouts of joy!",
+      "arminianNotes": "Those who sow in tears shall reap with shouts of joy. Bitter planting under God's hand yields sweet harvest; humility is not wasted grief.\n\nClassical Arminians hold this as living promise for tearful obedience. Keep sowing in faith; joy's shout is the appointed recompense God freely grants to those who entrust seed to Him.",
+      "reformedNotes": "Sow in tears; reap with shouts of joy. Captivity was seed-time under promise; harvest follows because God pledged the issue.\n\nReformed reading: the sentence looks backward and forward. Present tears water seed God will ripen; contemplate the harvest He promises so sorrow does not slacken diligence.",
+      "keyContrast": "Both confess tearful sowing that ends in joyful reaping. Arminians typically emphasize persevering trust that keeps sowing until God grants the harvest; Reformed readers typically emphasize God's promised issue that sustains sowers through tears He Himself will turn to shouts."
+    },
+    {
+      "number": 6,
+      "text": "He who goes out weeping, bearing the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him.",
+      "arminianNotes": "Going out weeping with seed; coming home with shouts and sheaves. The pilgrim farmer must sow or perish—yet God hears tear-watered furrows and fills the arms.\n\nArminian pastoral: carry your precious seed to the field with honest grief and earnest asking. Expect return with sheaves; praise will fit the wonders He works.",
+      "reformedNotes": "Weeping outbound with seed; inbound with shouts and sheaves. Life itself is seed-time; God wipes tears and diffuses joy when His harvest arrives.\n\nReformed comfort: true believers share this prophecy. Apply the mind to the issue God promises, and joy will succeed sorrow—not by chance weather, but by His faithful ripening."
+    }
+  ]
+}

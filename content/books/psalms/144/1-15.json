@@ -1,0 +1,123 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 144,
+  "verseStart": 1,
+  "verseEnd": 15,
+  "translation": "ESV",
+  "title": "Psalm 144:1–15",
+  "context": "Of David: blessed be the LORD, his rock, who trains hands for war and fingers for battle—steadfast love, fortress, stronghold, deliverer, shield, and refuge, who subdues peoples under him. What is man that God regards him? Man is like a breath; days a passing shadow. He asks the LORD to bow the heavens, touch smoking mountains, flash lightning, stretch out a hand from on high, and rescue from many waters and lying foreigners. He will sing a new song on the ten-stringed harp to the God who gives victory to kings and rescues David from the cruel sword. He seeks safe sons and daughters, full granaries, thriving flocks and cattle, and no cry of distress in the streets—and blesses the people to whom such gifts fall, whose God is the LORD.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the LORD who trains for battle and is fortress and shield, man’s breath-like frailty, rescue from lying foreigners, and the people blessed whose God is the LORD—so each camp speaks in its own voice beside Psalm 144:1–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Subdued—Who hath disposed my peoples hearts to receive and obey me as their king. Come—To help me. Smoke—As Sinai did at thy glorious appearance; this is a figurative and poetical description of God’s coming to take vengeance upon his enemies. Strange children—Either of the Heathen nations: or of the rebellious Israelites. Vanity—Vain brags and threatenings which shall come to nothing. Falsehood—Deceiving themselves, by being unable to do what they designed; and others, by not giving them that help which they promised. That—This mercy I beg not only for my own sake, but for the sake of thy people, that they may enjoy those blessings which thou hast promised them; and particularly, that our sons, who are the strength and hopes of a nation, may be like plants, flourishing and growing in height and strength, as plants do in their youth; for when they grow old, they wither and decay. Cornerstone—Strong and beautiful. Happy is that people that is in such a case; yea, happy is that people whose God is the Lord.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 144)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This Psalm contains a mixture of praise and prayer; for David, while he extols in very high terms the great mercies which God had bestowed upon him, is led at the same time to pray that God would continue to show this favor to the end. Blessed be Jehovah, my strength: when he calls God his strength, he acknowledges that any courage he had was given him from above, not only because he had been made from a country shepherd a mighty warrior, but because the constancy and perseverance he had shown was signally a gift from God. He had been formed under God’s teaching for war—though of a warlike spirit, he was not born for warlike enterprises but needed to undergo a change; the attempt against Goliath would have been preposterous without secret divine support. Having experienced God’s kindness in so many ways, he calls him “his goodness,” meaning that whatever good he possessed flowed from him. The accumulation of terms tends greatly to strengthen faith—we know how soon faith wavers under unusual trial. He reckons among chief mercies that he controlled the people under his government; the settled state of the kingdom was owing not to any counsel, valor, or authority of his own, but to God’s secret favor. O Jehovah! what is man that thou acknowledgest him?—he amplifies the goodness shown by instituting a comparison with man’s frailty.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 144)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Blessed be the LORD, my rock, who trains my hands for war, and my fingers for battle;",
+      "arminianNotes": "Blessed be the LORD, my rock, who trains hands for war and fingers for battle. Wesley’s psalm opens in blessing for strength God teaches.\n\nClassical Arminians bless the Trainer, not bare native prowess. Skill for conflict is received and practiced under grace.",
+      "reformedNotes": "Calvin: strength means courage given from above—shepherd made warrior; perseverance itself a gift; formed under God’s teaching, upheld against Goliath by secret divine support.\n\nReformed accent: war-skill is God’s forming, not self-made legend. Shared: blessed be the LORD who trains."
+    },
+    {
+      "number": 2,
+      "text": "he is my steadfast love and my fortress, my stronghold and my deliverer, my shield and he in whom I take refuge, who subdues peoples under me.",
+      "arminianNotes": "Steadfast love, fortress, stronghold, deliverer, shield, refuge—who subdues peoples. Wesley: subdued—God disposed the people’s hearts to receive and obey him as king.\n\nArminian hearing: piled titles invite trust; willing obedience of a people is itself mercy, not only crushed revolt.",
+      "reformedNotes": "Calvin: he calls God his goodness—whatever good flowed from Him; accumulation fortifies wavering faith; settled kingdom by God’s secret favor, not David’s counsel or valor alone.\n\nReformed comfort: many names for one Helper. Shared: fortress, shield, refuge; peoples subdued under him."
+    },
+    {
+      "number": 3,
+      "text": "O LORD, what is man that you regard him, or the son of man that you think of him?",
+      "arminianNotes": "What is man that You regard him, or the son of man that You think of him? Wonder at condescending attention.\n\nClassical Arminians marvel that God truly regards frail persons. Regard is gift, not human desert.",
+      "reformedNotes": "Calvin: comparison amplifies goodness—what is man that God acknowledges him? Frailty heightens the marvel of care.\n\nReformed accent: low anthropology, high kindness. Shared: what is man that You regard him?"
+    },
+    {
+      "number": 4,
+      "text": "Man is like a breath; his days are like a passing shadow.",
+      "arminianNotes": "Man like a breath; days a passing shadow. Wesley’s line matches vanity and fleeting days.\n\nArminian pastoral: do not build identity on breath. Shadow-days still may bless the LORD who trains and shelters.",
+      "reformedNotes": "Calvin: man’s frailty sets the scale against God’s mercies. Breath and shadow rebuke trust in human permanence.\n\nShared: breath; passing shadow. Both camps refuse human immortality myths."
+    },
+    {
+      "number": 5,
+      "text": "Bow your heavens, O LORD, and come down! Touch the mountains so that they smoke!",
+      "arminianNotes": "Bow heavens; come down; touch mountains so they smoke. Wesley: Come—to help me; smoke as Sinai—figurative of God coming to take vengeance on enemies.\n\nArminian plea: ask theophany-help plainly. Come down is petition for real rescue.",
+      "reformedNotes": "Calvin’s psalm mixes praise with prayer for continued favor. Bowed heavens and smoking mountains are prayer-language for God’s intervening power.\n\nReformed note: Sinai imagery serves petition. Shared: bow; come down; mountains smoke."
+    },
+    {
+      "number": 6,
+      "text": "Flash forth the lightning and scatter them; send out your arrows and rout them!",
+      "arminianNotes": "Lightning flash; scatter; arrows rout. Wesley’s vengeance-poetry continues the plea against foes.\n\nShared: ask God to scatter enemies. Classical Arminians refuse private vendetta while praying for public deliverance.",
+      "reformedNotes": "Calvin: praise and prayer intertwine when enemies remain. Lightning and arrows are God’s war, not the king’s swagger alone.\n\nReformed accent: God routes. Shared: flash; scatter; rout."
+    },
+    {
+      "number": 7,
+      "text": "Stretch out your hand from on high; rescue me and deliver me from the many waters, from the hand of foreigners,",
+      "arminianNotes": "Hand from on high; rescue from many waters and foreigners. Wesley: strange children—heathen or rebellious Israelites.\n\nArminian urgency: stretch out—deliverance must come from above when waters rise.",
+      "reformedNotes": "Calvin: mixture of praise and prayer continues—favor already shown, favor still needed from on high.\n\nReformed comfort: high hand, deep waters. Shared: stretch out; rescue; foreigners."
+    },
+    {
+      "number": 8,
+      "text": "whose mouths speak lies and whose right hand is a right hand of falsehood.",
+      "arminianNotes": "Mouths speak lies; right hand of falsehood. Wesley: vanity—vain brags that come to nothing; falsehood—self-deceived inability and help promised but not given.\n\nArminian warning: do not trust lying speech or false-hand alliances. Shared moral clarity against deceit.",
+      "reformedNotes": "Calvin’s context: remaining enemies cause apprehension even after victories. False right hands are why refuge stays in God.\n\nReformed note: deceit explains the prayer for rescue. Shared: lies; right hand of falsehood."
+    },
+    {
+      "number": 9,
+      "text": "I will sing a new song to you, O God; upon a ten-stringed harp I will play to you,",
+      "arminianNotes": "New song to God; ten-stringed harp. Praise answers expected or received rescue.\n\nClassical Arminians vow praise they mean to perform. New song is gratitude in music, not mere slogan.",
+      "reformedNotes": "Calvin: high mercies already celebrated; new song fits continued favor sought and received.\n\nShared: new song; harp. Both camps: praise is owed speech."
+    },
+    {
+      "number": 10,
+      "text": "who gives victory to kings, who rescues David his servant from the cruel sword.",
+      "arminianNotes": "Gives victory to kings; rescues David His servant from the cruel sword. Royal salvation is God’s gift.\n\nArminian hearing: kings win because God gives—servant identity remains under the gift.",
+      "reformedNotes": "Calvin: victories signal that courage and kingdom settlement came from above. Servant David is rescued, not self-crowned by steel alone.\n\nReformed accent: victory is given. Shared: God gives victory; rescues His servant."
+    },
+    {
+      "number": 11,
+      "text": "Rescue me and deliver me from the hand of foreigners, whose mouths speak lies and whose right hand is a right hand of falsehood.",
+      "arminianNotes": "Rescue again from lying foreigners and false right hands. Wesley’s vanity/falsehood notes still apply.\n\nArminian persistence: repeat the plea while danger remains. Shared: deceitful hands still threaten.",
+      "reformedNotes": "Calvin: prayer continues to the end—favor shown is reason to ask continued rescue, not to retire from petition.\n\nReformed pastoral: repeat rescue-prayer without shame. Shared: rescue; lies; falsehood."
+    },
+    {
+      "number": 12,
+      "text": "May our sons in their youth be like plants full grown, our daughters like corner pillars cut for the structure of a palace;",
+      "arminianNotes": "Sons like full-grown plants; daughters like palace corner pillars. Wesley: mercy begged for the people’s sake—sons the nation’s strength and hope, flourishing in youth; cornerstone—strong and beautiful.\n\nClassical Arminians pray civic flourishing under promise. Strong sons and beautiful daughters are covenant kindnesses to seek and steward.",
+      "reformedNotes": "Calvin’s praise-and-prayer mixture includes asking that mercies continue into the people’s peace. Flourishing youth is gift, not guaranteed by royal technique.\n\nReformed accent: ask God for the next generation’s strength. Shared: sons as plants; daughters as pillars."
+    },
+    {
+      "number": 13,
+      "text": "may our granaries be full, providing all kinds of produce; may our sheep bring forth thousands and ten thousands in our fields;",
+      "arminianNotes": "Full granaries; sheep thousands and ten thousands. Wesley’s people-blessing continues—promised abundance enjoyed under God.\n\nArminian pastoral: pray for storehouses and flocks without despising ordinary mercy. Shared: full granaries; thriving sheep.",
+      "reformedNotes": "Calvin: continued favor includes settled plenty after war’s anxiety. Produce and flocks are reasons for praise, not idols.\n\nReformed note: abundance under the giving God. Shared: granaries; sheep in fields."
+    },
+    {
+      "number": 14,
+      "text": "may our cattle be heavy with young, suffering no mishap or failure in bearing; may there be no cry of distress in our streets!",
+      "arminianNotes": "Cattle heavy with young without mishap; no cry of distress in streets. Peace in the public square crowns the blessing list.\n\nClassical Arminians value ordered peace—no marauding cry—as mercy to ask for. Shared: thriving cattle; quiet streets.",
+      "reformedNotes": "Calvin: settled kingdom without turbulence is divine blessing. No distress-cry marks a people spread out in peace under God’s favor.\n\nReformed comfort: civic quiet as gift. Shared: no cry of distress."
+    },
+    {
+      "number": 15,
+      "text": "Blessed are the people to whom such blessings fall! Blessed are the people whose God is the LORD!",
+      "arminianNotes": "Blessed the people who receive such gifts—and blessed the people whose God is the LORD. Wesley ends: happy that people whose God is the Lord.\n\nArminian climax: temporal gifts are real, but the deeper beatitude is having the LORD as God. Both camps can say Amen here without a fork.",
+      "reformedNotes": "Calvin’s comparison of frail man with God’s mercies lands here: true happiness is the people claimed by the LORD.\n\nReformed accent: God Himself is the people’s blessedness. Shared praise: blessed are the people whose God is the LORD."
+    }
+  ]
+}

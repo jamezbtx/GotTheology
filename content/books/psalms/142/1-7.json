@@ -1,0 +1,78 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 142,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Psalm 142:1–7",
+  "context": "A Maskil of David, when he was in the cave. A Prayer: with voice he cries and pleads for mercy, pours out complaint and trouble before the LORD. When spirit faints, God knows the way—though traps hide on the path and no human refuge remains. He confesses the LORD as refuge and portion in the land of the living, asks deliverance from persecutors too strong for him, and seeks exit from prison for thanks, sure the righteous will surround him as God deals bountifully.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on crying from the cave, a known path when spirit faints, God as refuge and portion, and prison opened for thanksgiving—so each camp speaks in its own voice beside Psalm 142:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "An Instruction of David; A Prayer when he was in the cave. David was twice in great peril in caves—Adullam and En-gedi; if the inscription can be depended on, En-gedi is the most likely. Then thou knewest my path—When Saul and his army were about the cave in which I was hidden, thou knewest my path—that I had then no way of escape but by miracle: but thou didst not permit them to know that I was wholly in their power. There was no man that would know me—As to the case of David in the cave of En-gedi, he had no refuge: for what were the handful of men that were with him to Saul and his army? Thou art my refuge—Even in these most disastrous circumstances, I will put my trust in thee. I am brought very low—Never was I so near total ruin before. Deliver me from my persecutors—They are now in full possession of the only means of my escape. They are stronger than I—What am I and my men against this well-appointed armed multitude, with their king at their head. Bring my soul out of prison—Bring my life out of this cave in which it is now imprisoned; Saul and his men being in possession of the entrance. The righteous shall compass me about—they shall crown me; perhaps meaning that the pious Jews, on the death of Saul, would cheerfully join together to make him king, being convinced that God, by his bountiful dealings with him, intended that it should be so.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 142)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I cried to Jehovah. It showed singular presence of mind in David that he was not paralyzed with fear, or that he did not in a paroxysm of fury take vengeance upon his enemy, as he easily might have done; and that he was not actuated by despair to take away his life, but composedly addressed himself to the exercise of prayer. Surrounded by the army of Saul, and hemmed in by destruction on every side, how was it possible for him to have spared so implacable an enemy, had he not been fortified against the strongest temptations by prayer? He disburdened his cares unto God—the reverse of those perplexing anxieties which men brood over inwardly, or frantic exclamations from those who find no comfort in God’s care. When my spirit was perplexed: though he felt anxiety, he confirms the constancy of his faith. Though there was no apparent way of safety, God knew from the beginning in what way his deliverance should be effected. When we have tried every remedy and know not what to do, rest satisfied that God is acquainted with our afflictions. On looking to the right hand, no human aid was expected; it was God’s purpose that he should be abandoned of all assistance from man, that deliverance might appear more extraordinary. I cried unto thee: he confesses the LORD as refuge and portion. Attend to my cry, for I am brought very low; deliver me from persecutors too strong for me. Bring me out of prison, that I may give thanks; the righteous shall surround me as a signal example, for You will deal bountifully with me.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 142)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "With my voice I cry out to the LORD; with my voice I plead for mercy to the LORD.",
+      "arminianNotes": "With my voice I cry; with my voice I plead for mercy. Doubled voice marks earnest, audible seeking.\n\nClassical Arminians urge this open cry. Distress is no bar to mercy’s plea; use the voice God invites toward Himself.",
+      "reformedNotes": "I cried to Jehovah; with voice I plead for mercy. Composure in prayer replaces panic, fury, or despair.\n\nReformed accent: hemmed in by Saul’s army, prayer fortified him against temptation to vengeance or self-destruction."
+    },
+    {
+      "number": 2,
+      "text": "I pour out my complaint before him; I tell my trouble before him.",
+      "arminianNotes": "Pour out complaint; tell trouble before Him. Cast cares on God rather than brood alone.\n\nArminian pastoral: show troubles to God. What you cannot rightly complain of to Him, do not nurse to yourself or others.",
+      "reformedNotes": "Pour out complaint; tell affliction before Him—opposite of inward torture or frantic howling without providence.\n\nReformed comfort: unsuspecting confidence tells griefs to the Lord. Neither suppressed care nor loud senseless lament is the path."
+    },
+    {
+      "number": 3,
+      "text": "When my spirit faints within me, you know my way! In the path where I walk they have hidden a trap for me.",
+      "arminianNotes": "When spirit faints, You know my way—and direct escape; yet traps hide on the path walked.\n\nClassical Arminians hear knowing as guidance. Even faint, ask Him to show the path of escape; snares do not cancel His knowledge.",
+      "reformedNotes": "When spirit is perplexed, You know my way—the way of deliverance when none appears. Traps line the path.\n\nReformed accent: God knew from the beginning how to save. When every remedy fails, rest that He is acquainted with the affliction—The Lord will provide.",
+      "keyContrast": "Both confess that when spirit faints, God knows the way amid hidden traps. Arminians typically hear knowing as direction for escape the saint may follow; Reformed readers typically hear knowing as God’s prior acquaintance with the path of deliverance when no outgate is visible to us."
+    },
+    {
+      "number": 4,
+      "text": "Look to the right and see: there is none who takes notice of me; no refuge remains to me; no one cares for my soul.",
+      "arminianNotes": "Look right—none notices; no refuge remains; no one cares for my soul. Human patronage fails.\n\nArminian pastoral: admit friendlessness without shame. When the right-hand helper is gone, the cry to God becomes clearer.",
+      "reformedNotes": "Looking to the right, no friend; no refuge; none seeking after the soul’s welfare.\n\nReformed note: inquiry for human aid is warrantable as instrument—but God’s purpose may leave the saint abandoned of man so deliverance looks more extraordinary."
+    },
+    {
+      "number": 5,
+      "text": "I cry to you, O LORD; I say, “You are my refuge, my portion in the land of the living.”",
+      "arminianNotes": "I cry: You are my refuge, my portion even in this life. God Himself is shelter and share now.\n\nClassical Arminians press present trust. In disastrous circumstances, still put trust in Him—refuge and portion are enough in the land of the living.",
+      "reformedNotes": "I cry to Jehovah: my refuge, my portion in the land of the living. Vehemence hastens the plea by owning God alone.\n\nReformed accent: when man fails, confession of refuge and portion is the fortified heart’s speech—not a last slogan but living faith.",
+      "keyContrast": "Both confess the LORD as refuge and portion in the land of the living. Arminians typically emphasize choosing trust in Him even now amid disaster; Reformed readers typically emphasize that this confession is how prayer-fortified faith speaks when human help is stripped away."
+    },
+    {
+      "number": 6,
+      "text": "Attend to my cry, for I am brought very low! Deliver me from my persecutors, for they are too strong for me!",
+      "arminianNotes": "Attend—I am brought very low; deliver me, for persecutors are too strong. Weakness owns need of strength beyond itself.\n\nArminian pastoral: admit you are overmatched. Low estate and stronger foes are reasons to ask, not to quit.",
+      "reformedNotes": "Attend to my cry; I am brought very low; deliver from persecutors too strong for me. Extremity hastens interposition.\n\nReformed comfort: plain need is confessed. Strength disparity is argument in prayer, not proof that God has abandoned the cause."
+    },
+    {
+      "number": 7,
+      "text": "Bring me out of prison, that I may give thanks to your name! The righteous will surround me, for you will deal bountifully with me.",
+      "arminianNotes": "Bring me out of prison for thanks; the righteous will surround me, for You deal bountifully. Freedom serves praise and fellowship.\n\nClassical Arminians hear duty and hope together. Ask liberty to run in His ways; expect the righteous company and bountiful dealing.",
+      "reformedNotes": "Bring me out of prison to thank Your name; the righteous will surround me—signal mercy—for You deal bountifully.\n\nReformed accent: prison is broader than a cave; deliverance becomes a theater of praise. Bounty conferred establishes the faith of the watching righteous.",
+      "keyContrast": "Both seek exit from prison for thanksgiving and expect the righteous to surround under God’s bounty. Arminians typically stress asking liberty to praise and join the godly; Reformed readers typically stress deliverance as God’s conspicuous dealing that crowns and confirms the righteous who watch."
+    }
+  ]
+}

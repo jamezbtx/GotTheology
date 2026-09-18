@@ -1,0 +1,77 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 14,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Psalm 14:1–7",
+  "context": "Psalm 14 is David’s indictment of practical atheism and universal corruption: the fool says in his heart there is no God; they are corrupt and do abominable deeds; none does good. The LORD looks down from heaven for any who understand and seek him, and finds that all have turned aside—none who does good, not even one. Evildoers devour his people as bread and do not call on the LORD; yet terror falls, for God is with the generation of the righteous, and the LORD is the poor man’s refuge. The psalm closes longing that salvation for Israel would come out of Zion, and that Jacob would rejoice when the LORD restores his people’s fortunes.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the fool’s heart-denial, universal corruption that Paul cites in Romans 3, God looking for seekers, oppressors who devour the people, terror for the enemies of the righteous, and salvation longed for out of Zion—so each camp speaks in its own voice beside Psalm 14:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "The atheism and corruption of mankind, ver. 1–3. An expostulation with sinners, ver. 4–6. A prayer for the salvation of God, ver. 7. The fool—The wicked man. Good—That is, actions really good or pleasing to God. Looked—God knoweth all things without any enquiry: but he speaks after the manner of men. Upon—Upon the whole Israelitish nation, and upon all mankind; for he speaks of all except his people, and the righteous ones, who are opposed to these, ver. 4, 5. Gone—From God, and from the rule which he hath given them. Filthy—Loathsome and abominable to God. Bread—With as little remorse, and with as much greediness. Call not—They are guilty not only of gross injustice towards men, but also of horrid impiety and contempt of God. There—Upon the spot, where they practised these insolences, God struck them with a panick fear. For—God is on their side, and therefore their enemies have cause to tremble. Because—This was the ground of their contempt, that he lived by faith in God’s promise and providence. O that—These words immediately concern the deliverance of Israel out of that sinful state, in which they now were; which having described, he concludes with a prayer to God to help them out of Zion, where the ark then was, but principally they design the spiritual redemption and salvation of all God’s Israel by the Messiah. The captivity—His captive people.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In the beginning the Psalmist describes the wicked contempt of God into which almost the whole people had broken forth. To give the greater weight to his complaint, he represents God himself as uttering it. Afterwards he comforts himself and others with the hope of a remedy, which he assures himself God will very soon provide. The fool hath said in his heart, There is no God—all profane persons who have cast off all fear of God and abandoned themselves to iniquity are convicted of madness; there is no stupidity more brutish than forgetfulness of God. They may not utter this blasphemy with their mouths, but the unbridled licentiousness of their life declares that in their hearts they sing, There is no God—imagining him shut up in heaven and divested of his righteousness and power. Jehovah looked down from heaven—God is introduced as speaking on human depravity, casting his eyes on all sides. Every one of them has gone aside; they have altogether become putrid; there is none that doeth good, not even one. Paul extends this sentence to all mankind (Romans 3:10): the difference is between the children of God created anew by his Spirit and all the posterity of Adam in whom corruption exercises dominion—we bring this folly and filthiness from the womb until God make us new creatures by his mysterious grace. Have all the workers of iniquity no knowledge, who eat up my people as they eat bread?—shepherds who should feed the flock devour it; they call not upon the Lord. There did they tremble with fear, for God is in the generation of the righteous—when the ungodly think themselves most secure, God will suddenly launch the bolts of his vengeance, because he is determined to defend the righteous. Ye deride the counsel of the poor, because Jehovah is his hope—no resolution is better advised than to depend upon God. Who shall give salvation to Israel out of Sion?—the ardor of desire, hope fixed on God from Zion; when the Lord shall have brought back the captivity of his people, Jacob shall rejoice—God will not suffer the faithful to languish under continual sorrow.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 14)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The fool says in his heart, \"There is no God.\" They are corrupt, they do abominable deeds; there is none who does good.",
+      "arminianNotes": "Wesley: The fool—The wicked man. Good—That is, actions really good or pleasing to God.\n\nArminian hearing: shared diagnosis—heart-denial of God tied to corruption, abominable deeds, and none who does good. The fool’s atheism is practical, not only speculative: living as if God were absent. Grace confronts that denial; “none who does good” levels boasting and drives the hearer to mercy, not to excuse.",
+      "reformedNotes": "Calvin: all who cast off fear of God and abandon themselves to iniquity are convicted of madness; there is no stupidity more brutish than forgetfulness of God. They may not utter “There is no God” with their mouths, but licentious life declares it in the heart—imagining God shut up in heaven, divested of righteousness and power, as if judgment will never come. They have corrupted all lawful order and polluted their whole life.\n\nReformed accent: shared—heart-denial yields abominable life and “none who does good.” Practical atheism is folly the Holy Spirit names, however much the world applauds cunning scoffers."
+    },
+    {
+      "number": 2,
+      "text": "The LORD looks down from heaven on the children of man, to see if there are any who understand, who seek after God.",
+      "arminianNotes": "Wesley: Looked—God knoweth all things without any enquiry: but he speaks after the manner of men. Upon—Upon the whole Israelitish nation, and upon all mankind; for he speaks of all except his people, and the righteous ones, who are opposed to these, ver. 4, 5.\n\nArminian pastoral: shared—God himself inspects whether any understand and seek. Understanding is shown in pursuit of God. The look still summons: refuse to seek, and the next verse’s “not even one” names the tragedy.",
+      "reformedNotes": "Calvin: God is introduced speaking on human depravity, casting his eyes on all sides so the wicked gain nothing by flattering themselves while wickedness reigns with impunity. Folly is the root of wickedness; the commencement of integrity is an enlightened mind, and true understanding consists in seeking after God—unless men devote themselves wholly to God, their life cannot be well ordered. The reprobate are destitute of that reason and judgment.\n\nReformed accent: shared—heaven’s search finds the children of man wanting as seekers. The inspection is judicial disclosure, not divine ignorance."
+    },
+    {
+      "number": 3,
+      "text": "They have all turned aside; together they have become corrupt; there is none who does good, not even one.",
+      "arminianNotes": "Wesley: Gone—From God, and from the rule which he hath given them. Filthy—Loathsome and abominable to God.\n\nArminian reading: shared with Romans 3—all turned aside, together corrupt, none who does good, not even one. The indictment removes every boast and drives all to mercy. Wesley still marks “his people and the righteous” as opposed to this corrupt mass (ver. 4, 5); the line levels natural goodness without canceling the call of grace to repent and seek.",
+      "reformedNotes": "Calvin: every one gone aside; altogether putrid; none that doeth good, not even one. Paul extends this sentence to all mankind (Romans 3:10)—not merely what most men are like, but what all are who are led by corrupt nature. The carnal body of the nation is inveighed against; the small seed God set apart is not included as native goodness. All bring this folly and filthiness from the womb until God make us new creatures by his mysterious grace.\n\nReformed accent: shared Pauline diagnosis of total corruption. The remnant appears by regenerating grace, not by a pocket of unfallen virtue left intact.",
+      "keyContrast": "Both confess with Paul in Romans 3 that there is none who does good, not even one—a shared diagnosis of total corruption, not a camp fork over whether the race is sound. Arminian readers, with Wesley, still oppose “his people and the righteous” to the corrupt mass and hear the leveling as driving all to mercy and grace-enabled seeking. Reformed readers, with Calvin, hear Paul naming all led by corrupt nature until God makes new creatures by his mysterious grace—the remnant is seed God set apart, not native goodness surviving the indictment."
+    },
+    {
+      "number": 4,
+      "text": "Have they no knowledge, all the evildoers who eat up my people as they eat bread and do not call upon the LORD?",
+      "arminianNotes": "Wesley: Bread—With as little remorse, and with as much greediness. Call not—They are guilty not only of gross injustice towards men, but also of horrid impiety and contempt of God.\n\nArminian pastoral: shared—devouring the people as casually as a meal, and prayerlessness, go together. Knowledge that should restrain is refused. Call upon the LORD instead of consuming the flock.",
+      "reformedNotes": "Calvin: God speaks in astonishment—those who ought to cherish his people fall on them like wild beasts. David means domestic tyrants and false shepherds who should feed the flock yet cruelly devour it. Sound understanding would restrain such cruelty; they do not call upon the Lord. Where concern for religion is extinguished, regard for justice perishes with it.\n\nReformed accent: shared—eating the people and not calling on the LORD are one disease. Monstrous iniquity against the saints provokes heaven’s horror."
+    },
+    {
+      "number": 5,
+      "text": "There they are in great terror, for God is with the generation of the righteous.",
+      "arminianNotes": "Wesley: There—Upon the spot, where they practised these insolences, God struck them with a panick fear. For—God is on their side, and therefore their enemies have cause to tremble.\n\nArminian comfort: shared—terror falls on oppressors because God is with the generation of the righteous. Present swagger does not cancel the presence that makes enemies tremble. Stay among that generation by faith, not by devouring the poor.",
+      "reformedNotes": "Calvin: encourages the faithful—God will not forsake his people even to the end. “There” marks the certainty of punishment; when the ungodly think affairs most tranquil, God will suddenly launch the bolts of his vengeance. The reason: God is in the generation of the righteous and is determined to defend them—so he must thunder against enemies who oppress them.\n\nReformed accent: shared—God with the righteous brings terror on their foes. Sudden judgment is providence for the defense of that generation, not random panic."
+    },
+    {
+      "number": 6,
+      "text": "You would shame the plans of the poor, but the LORD is his refuge.",
+      "arminianNotes": "Wesley: Because—This was the ground of their contempt, that he lived by faith in God’s promise and providence.\n\nArminian pastoral: shared—the wicked shame the counsel of the poor because that poor one takes refuge in the LORD. Faith in promise and providence looks foolish to mockers; keep that refuge rather than answer scorn with scorn.",
+      "reformedNotes": "Calvin: giants mock the faithful for calmly expecting God to deliver when he does not yet relieve. Unbelievers reproach the poor’s confidence as folly. David threatens that such mockery will be the cause of their destruction. No resolution is better advised than to depend upon God and repose on his salvation even when surrounded with calamities.\n\nReformed accent: shared—the LORD is the poor man’s refuge; mocking that counsel invites ruin. Hope in God under delay is wisdom, not naiveté."
+    },
+    {
+      "number": 7,
+      "text": "Oh, that salvation for Israel would come out of Zion! When the LORD restores the fortunes of his people, let Jacob rejoice, let Israel be glad.",
+      "arminianNotes": "Wesley: O that—These words immediately concern the deliverance of Israel out of that sinful state in which they now were; he concludes with a prayer to God to help them out of Zion, where the ark then was, but principally they design the spiritual redemption and salvation of all God’s Israel by the Messiah. The captivity—His captive people.\n\nArminian reading: shared longing—salvation out of Zion, restored fortunes, Jacob’s joy. Pray for help from the place of God’s presence; the deeper aim is Messianic redemption. Keep asking until rejoicing fits the restoration God gives.",
+      "reformedNotes": "Calvin: after consolation he returns to prayer and groanings—do not weary though God leave us to languish. “Who shall give salvation out of Sion?” expresses ardent desire with hope fixed on God alone; Zion is the holy place of the ark and promised hearing. He cares for the whole body of the Church. Captivity here is oppression at home when the wicked exercise dominion like tyrants. God will redeem from captivity and turn sorrow to gladness; they that sow in tears shall reap in joy.\n\nReformed accent: shared—salvation from Zion ends in Israel’s gladness. Delay does not cancel God’s sure gathering of his captive people; perseverance in prayer waits on the defender of Zion.",
+      "keyContrast": "Both confess the longing that salvation for Israel would come out of Zion and that Jacob would rejoice when the LORD restores his people’s fortunes. Arminian readers, with Wesley, hear immediate prayer for deliverance from a sinful state out of Zion where the ark was, and principally the Messiah’s spiritual redemption of all God’s Israel. Reformed readers, with Calvin, hear ardent desire fixed on God alone from Zion, captivity as domestic tyranny over the Church, and sure hope that God will not leave his faithful under endless sorrow but will bring back captivity and turn tears to joy."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 53,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "Psalm 53:1–6",
+  "context": "To the choirmaster: according to Mahalath. A Maskil of David. Near twin to Psalm 14: the fool denies God; all are corrupt; God looks for seekers and finds none who does good; oppressors devour the people; terror falls where none seemed due; Zion’s salvation is longed for.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the fool’s denial, universal corruption, and salvation out of Zion—so each camp speaks in its own voice beside Psalm 53.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named. Calvin’s full exposition of this text is given with Psalm 14, to which Bible Hub’s Psalm 53 Calvin page points.",
+    "arminian": [
+      {
+        "quote": "Scattered—Hath not only broken their bones, their strength, and force, but also dispersed them hither and thither, so as there is no hope of a restoration. Thee—Against my people. Thou—Thou oh Jerusalem, which they besiege. The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 53)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The fool hath said in his heart, There is no God: they have become corrupt, they have done abominable works: there is none that doeth good… David… teaches that the wickedness of men is so great, that they will never be brought to repentance, unless they are softened by the fear of God… When the Spirit of God inspires men with a desire to seek after God, it is then that they begin to understand… There did they tremble with fear… The prophet now encourages himself and all the faithful… that God will not forsake his people even to the end… when their affairs are in a state of the greatest tranquillity and prosperity, God will suddenly launch against them the bolts of his vengeance… Who shall give salvation to Israel out of Sion? … although God may leave us for a long time to languish, yet we ought not to weary… When the Lord shall have brought back the captivity of his people… God will not suffer the faithful to languish under continual sorrow.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 14 / of Ps 53)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The fool says in his heart, “There is no God.” They are corrupt, doing abominable iniquity; there is none who does good.",
+      "arminianNotes": "The fool says in his heart, There is no God—corrupt, abominable iniquity—none who does good. Heart-atheism is practical: living as if God were absent. Corruption and abominable deeds follow the denial.\n\nArminian pastoral: the fool’s verdict is chosen in the heart and issues in deeds. Grace confronts that denial; the hearer is summoned to seek God rather than settle into “none who does good” as an excuse.",
+      "reformedNotes": "Calvin (on this text via Ps 14): wickedness is so great men will not repent unless softened by the fear of God. “None who does good” names the race apart from God’s people—corruption is native and universal, not a thin smear on otherwise sound seekers.\n\nReformed accent: the fool’s heart-speech exposes depravity only grace can break. Shared: no God in the heart yields abominable life.",
+      "keyContrast": "Both confess heart-denial of God tied to real corruption and “none who does good.” Arminians typically stress the fool’s responsible heart-choice and the call still to seek God; Reformed readers typically stress universal native corruption that only fear of God and regenerating grace interrupt."
+    },
+    {
+      "number": 2,
+      "text": "God looks down from heaven on the children of man to see if there are any who understand, who seek after God.",
+      "arminianNotes": "God looks down to see if any understand, who seek after God. Divine search for seekers—understanding shown in pursuit of God.\n\nArminian reading: seeking is the mark God looks for. The verse honors real search; refusing to seek is the tragedy the next verse names.",
+      "reformedNotes": "Calvin: when the Spirit inspires desire to seek God, then understanding begins. God’s looking down exposes that apart from that work, the children of men do not seek.\n\nReformed accent: seeking is gift before it is achievement. Shared: God himself inspects whether anyone seeks."
+    },
+    {
+      "number": 3,
+      "text": "They have all fallen away; together they have become corrupt; there is none who does good, not even one.",
+      "arminianNotes": "All fallen away; together corrupt; none who does good, not even one. Total in scope among those surveyed—no lone hero of goodness outside grace.\n\nArminian note: the indictment drives everyone to mercy. “Not even one” removes boasting; it does not remove the duty to repent when grace calls.",
+      "reformedNotes": "Calvin presses the universality: every one gone back, together filthy. Paul cites this line for the doctrine that all are under sin. Apart from the generation of the righteous, mankind is not partially sound.\n\nReformed accent: solidarity in corruption magnifies need of sovereign mercy. Shared: not even one does good by nature.",
+      "keyContrast": "Both confess a sweeping “not even one.” Arminians typically hear a leveling that drives all to resistible grace and repentance; Reformed readers typically hear Pauline total inability apart from regenerating grace."
+    },
+    {
+      "number": 4,
+      "text": "Have those who work evil no knowledge, who eat up my people as they eat bread, and do not call upon God?",
+      "arminianNotes": "Workers of evil—no knowledge?—eat up my people as bread—do not call upon God. Oppression is casual as a meal; prayerlessness marks them.\n\nArminian pastoral: devouring the people and skipping prayer go together. Knowledge that should restrain is refused; call upon God instead of consuming the flock.",
+      "reformedNotes": "Calvin: God speaks in astonishment—those who ought to cherish his people fall on them like beasts. They have no more scruple than eating a morsel of bread. Sound understanding would restrain such cruelty; they do not call on the Lord.\n\nReformed note: monstrous iniquity against the saints provokes heaven. Shared: eating the people and prayerlessness are one disease."
+    },
+    {
+      "number": 5,
+      "text": "There they are, in great terror, where there is no terror! For God scatters the bones of him who encamps against you; you put them to shame, for God has rejected them.",
+      "arminianNotes": "Great terror where no terror was; God scatters bones of the besieger; shame—God has rejected them. Wesley: Scattered—broken their strength and dispersed them with no hope of restoration. Thee—against my people. Thou—Jerusalem under siege.\n\nArminian comfort: God can overturn secure oppressors. Rejection is God’s verdict on those who encamped against his people.",
+      "reformedNotes": "Calvin: encourages the faithful—God will not forsake his people. Terror falls suddenly when the wicked think affairs most tranquil; God launches vengeance because he is with the generation of the righteous. Scattering bones of the besieger is deliverance as when a siege is broken.\n\nReformed accent: sudden judgment is providence for Zion’s defense. Shared: shame follows God’s rejection of the encamped foe."
+    },
+    {
+      "number": 6,
+      "text": "Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob rejoice, let Israel be glad.",
+      "arminianNotes": "Oh that salvation would come out of Zion!—when God restores fortunes, Jacob rejoice, Israel glad. Longing prayer for national deliverance and joy.\n\nArminian pastoral: keep asking for Zion’s salvation. Restoration is God’s act; rejoicing is the people’s fitting response when fortunes turn.",
+      "reformedNotes": "Calvin: after consolation, return to prayer and groanings—do not weary though God leave us to languish. “Who shall give salvation?” is not despair of God’s hand. He will not suffer the faithful under continual sorrow; they that sow in tears shall reap in joy.\n\nReformed hope: delay does not cancel Zion’s promised gladness. Shared: salvation out of Zion ends in Jacob’s joy.",
+      "keyContrast": "Both long for salvation out of Zion and joy at restored fortunes. Arminians typically stress persistent petition and glad response when God restores; Reformed readers typically stress perseverance in prayer under delay, assured that God will not leave his captive people in endless sorrow."
+    }
+  ]
+}

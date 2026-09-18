@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 114,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 114:1–8",
+  "context": "Egyptian Hallel continues: Israel goes out from Egypt and a strange tongue; Judah becomes the Lord's sanctuary and Israel His dominion. Sea and Jordan flee, mountains skip, and the earth is summoned to tremble at the presence of the God of Jacob, who turns rock and flint into water.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Exodus presence that makes sea flee and rock yield water—so each camp speaks in its own voice beside Psalm 114:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "When Israel went out of Egypt—God brought them out with a high hand. Judah was his sanctuary—the place of his special residence; and Israel his dominion. The sea saw it and fled—alluding to the dividing of the Red Sea. The mountains skipped—an elegant and poetical description of the earthquake which attended the giving of the law. Tremble thou earth—at the presence of the God of Jacob, who turned the rock into a standing water. The same power that wrought these wonders is still engaged for his people.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 114)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The prophet celebrates that memorable deliverance when God brought His people out of Egypt, that the faithful may be stirred to gratitude. Judah is called His sanctuary because He chose that tribe for His habitation; Israel His dominion because He reigned over them by a peculiar right. The sea fled and Jordan was driven back—nature itself yielding to its Maker. He summons the earth to tremble, not with a slavish dread, but with reverential awe before the God who turns the flinty rock into fountains.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Psalm 114)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "When Israel went out from Egypt, the house of Jacob from a people of strange language,",
+      "arminianNotes": "When Israel went out from Egypt, the house of Jacob from a people of strange language. Wesley: God brought them out with a high hand. Exodus is remembered as historical mercy, not myth.\n\nBoth camps: redemption from bondage is God's act. Classical Arminians hear a deliverance sincerely wrought for the covenant people and held out as pattern of the greater exodus in Christ—grace that actually frees, answered by a people who walk out.",
+      "reformedNotes": "Calvin: the prophet celebrates that memorable deliverance so the faithful may be stirred to gratitude. Egypt and a strange tongue mark alienation; going out is God's initiative.\n\nReformed accent: the Exodus is God's electing mercy toward His people. Shared with Wesley: Israel went out; the Lord brought them."
+    },
+    {
+      "number": 2,
+      "text": "Judah became his sanctuary, Israel his dominion.",
+      "arminianNotes": "Judah became His sanctuary, Israel His dominion. Wesley: Judah the place of His special residence; Israel His dominion. Presence and rule belong together.\n\nArminian pastoral: God dwells among a people and reigns over them—not as a distant monarch only, but as holy nearness that invites trust and obedience.",
+      "reformedNotes": "Calvin: Judah is called His sanctuary because He chose that tribe for His habitation; Israel His dominion because He reigned over them by a peculiar right.\n\nReformed confession: sanctuary and dominion are covenant gifts of electing grace. Shared: Judah His sanctuary; Israel His dominion."
+    },
+    {
+      "number": 3,
+      "text": "The sea looked and fled; Jordan turned back.",
+      "arminianNotes": "The sea looked and fled; Jordan turned back. Wesley alludes to the dividing of the Red Sea; Jordan's turning completes the bookends of the wilderness march.\n\nBoth camps: creation yields to the Redeemer. Classical Arminians preach a God whose power for His people is real in history—waters obey because He is Lord, not because nature is autonomous.",
+      "reformedNotes": "Calvin: the sea fled and Jordan was driven back—nature itself yielding to its Maker. The looking of the sea is poetic personification of obedient creation.\n\nReformed accent: providence bends the elements by secret counsel for the Church's path. Shared: sea fled; Jordan turned back."
+    },
+    {
+      "number": 4,
+      "text": "The mountains skipped like rams, the hills like lambs.",
+      "arminianNotes": "The mountains skipped like rams, the hills like lambs. Wesley: an elegant description of the earthquake that attended the giving of the law. Sinai's trembling is joy and awe together.\n\nBoth camps: even the stable earth moves at God's word. Shared wonder; no dispute that Sinai and the journey shook the hills.",
+      "reformedNotes": "Calvin reads the skipping of mountains as creation's lively acknowledgment of its Creator's approach—imagery that startles dull hearts into praise.\n\nReformed pastoral: mountains do not choose; they respond. Shared: mountains skipped like rams."
+    },
+    {
+      "number": 5,
+      "text": "What ails you, O sea, that you flee? O Jordan, that you turn back?",
+      "arminianNotes": "What ails you, O sea, that you flee? O Jordan, that you turn back? The taunt is worship: waters have no disease but the presence of God.\n\nArminian hearing: rhetorical questions catechize the congregation—remember why the waters moved. The answer is coming in v. 7.",
+      "reformedNotes": "Calvin: the prophet interrogates sea and river so that the miracle may not be ascribed to chance. The question drives the hearer to the Cause.\n\nReformed accent: inquiry that ends in God, not in secondary causes alone. Shared: What ails you, O sea?"
+    },
+    {
+      "number": 6,
+      "text": "O mountains, that you skip like rams? O hills, like lambs?",
+      "arminianNotes": "O mountains, that you skip like rams? O hills, like lambs? The interrogation continues—hills have no whimsy; they answer the Lord.\n\nBoth camps: the poetry trains memory. Classical Arminians and Reformed together refuse a deism that leaves Sinai unexplained.",
+      "reformedNotes": "Calvin keeps the same interrogative force: mountains skip because the Lord draws near. Wonder is commanded, not optional.\n\nShared: O mountains, that you skip."
+    },
+    {
+      "number": 7,
+      "text": "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,",
+      "arminianNotes": "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob. Wesley: tremble at the presence of the God of Jacob. Presence is personal—Jacob's God, covenant nearness.\n\nArminian pastoral: trembling is reverent awe before a God who sincerely claims His people. The earth is summoned; so are we.",
+      "reformedNotes": "Calvin: He summons the earth to tremble, not with a slavish dread, but with reverential awe before the God of Jacob.\n\nReformed accent: presence that is holy and particular—God of Jacob, not a generic deity. Shared with Wesley: Tremble at His presence.",
+      "keyContrast": "Both confess that the earth must tremble at the presence of the God of Jacob. Arminians typically hear covenant nearness that sincerely invites reverent response from the people He delivers. Reformed readers typically hear Calvin's accent: creation and Church alike are summoned under God's sovereign presence, awe regulated by His electing claim on Jacob."
+    },
+    {
+      "number": 8,
+      "text": "who turns the rock into a pool of water, the flint into a spring of water.",
+      "arminianNotes": "Who turns the rock into a pool of water, the flint into a spring of water. Wesley: the same power that wrought these wonders is still engaged for His people. Meribah's mercy is not locked in the past.\n\nBoth camps: flint yields water by God's hand. Classical Arminians preach ongoing providence that can still supply the thirsty people who call on Him.",
+      "reformedNotes": "Calvin: the God who turns the flinty rock into fountains displays power that leaves no room for distrust. Water from flint is grace against nature's hardness.\n\nReformed comfort: the same counsel that split seas still governs provision for the Church. Shared: rock into a pool; flint into a spring."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 54,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Psalm 54:1–7",
+  "context": "To the choirmaster: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, “Is not David hiding among us?” David asks to be saved by God’s name and vindicated by might, names ruthless strangers, confesses God as helper, and vows freewill thanks after deliverance.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on salvation by the Name, God the helper, and freewill thanks after deliverance—so each camp speaks in its own voice beside Psalm 54.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Name—By thy own strength. Judge—Plead my cause. Strangers—The Zephites, whom, though Israelites, he calls strangers in regard of their barbarous and perfidious carriage. Thy truth—Whereby thou art engaged to fulfil thy promises and threatenings.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 54)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Save me, O God! by thy name, and judge me by thy strength. As David was at this time placed beyond the reach of human assistance, he must be understood as praying to be saved by the name and the power of God, in an emphatical sense, or by these in contradistinction to the usual means of deliverance… When these fail, and every earthly stay is removed, he must then take the work into his own hands. It was in such a situation that David here fled to the saints' last asylum, and sought to be saved by a miracle of divine power. By appealing… to God as his judge, he asserts his uprightness… David was encouraged to pray for deliverance by the goodness of his cause and his consciousness of integrity.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 54:1)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O God, save me by your name, and vindicate me by your might.",
+      "arminianNotes": "Save by your name; vindicate by your might. Wesley: Name—by thy own strength. Judge—plead my cause. The plea is personal and urgent: God’s name and power, not human backup.\n\nArminian pastoral: ask to be saved and vindicated. The Name is sufficient refuge when Ziphites betray; prayer still must be made.",
+      "reformedNotes": "Calvin: beyond human help, David prays to be saved by name and power in an emphatic sense—the saints’ last asylum, a miracle of divine power. Appealing to God as judge asserts uprightness; he prays encouraged by integrity of cause.\n\nReformed accent: when ordinary means fail, God takes the work into his own hands. Shared: save and vindicate by Name and might.",
+      "keyContrast": "Both plead salvation by God’s name and vindication by his might. Arminians typically stress the earnest petition that must still be offered; Reformed readers typically stress the saints’ last asylum when God alone works beyond ordinary means."
+    },
+    {
+      "number": 2,
+      "text": "O God, hear my prayer; give ear to the words of my mouth.",
+      "arminianNotes": "Hear my prayer; give ear to my words. Simple insistence that God listen—mouth-words brought before him.\n\nArminian note: prayer is speech God is asked to hear. The double plea (hear / give ear) models importunity without cleverness.",
+      "reformedNotes": "Calvin: language of earnestness forced by extremity. He disburdens his heart; God already knows, yet the psalmist vents fear and disquietude.\n\nReformed pastoral: fervor is fitting when ruthless men surround. Shared: God is addressed as the One who hears."
+    },
+    {
+      "number": 3,
+      "text": "For strangers have risen against me; ruthless men seek my life; they do not set God before themselves. Selah",
+      "arminianNotes": "Strangers risen; ruthless men seek life; they do not set God before themselves. Wesley: Strangers—Ziphites, Israelites called strangers for barbarous, perfidious carriage.\n\nArminian hearing: betrayal by covenant kin is still named stranger-cruelty. Not setting God before themselves explains the ruthlessness—and warns hearers to keep God before their eyes.",
+      "reformedNotes": "Calvin: surrounded by men fierce, barbarous, unrestrained by religion. “Strangers” may mark barbarity of Ziphites or Saul’s army, or degeneracy as Abraham’s children. They seek his soul; they have not set God before them.\n\nReformed note: godlessness frees cruelty. Shared: ruthless pursuit plus no God-before-them.",
+      "keyContrast": "Both name treacherous “strangers” who seek life without God before them. Arminians typically press the moral warning against perfidy and the call to set God before oneself; Reformed readers typically stress the extremity that drives the saint to God’s sole help against irreligious violence."
+    },
+    {
+      "number": 4,
+      "text": "Behold, God is my helper; the Lord is the upholder of my life.",
+      "arminianNotes": "Behold—God my helper; the Lord upholder of my life. Confession turns from enemies to God. Help and upholding are present-tense trust.\n\nArminian pastoral: say it aloud—God is my helper. The behold invites faith to look where help actually is.",
+      "reformedNotes": "Calvin’s psalm moves from plea to confidence: God himself helps and upholds the soul when men do not. The Lord as upholder answers ruthless seekers of life.\n\nReformed comfort: helper and upholder are God’s offices toward his own. Shared: life held up by the Lord, not by Ziph."
+    },
+    {
+      "number": 5,
+      "text": "He will return the evil to my enemies; in your faithfulness put an end to them.",
+      "arminianNotes": "He will return evil to enemies; in faithfulness put an end to them. Wesley: Thy truth—whereby thou art engaged to fulfil promises and threatenings.\n\nArminian reading: appeal to God’s faithfulness that keeps both promise and threat. The psalmist asks for moral reversal, not private spite detached from God’s truth.",
+      "reformedNotes": "Calvin ties cut-off to God’s truth—promises and judgments stand. Returning evil is divine recompense under faithfulness, not the saint’s freelance revenge.\n\nReformed accent: faithfulness guarantees the end of relentless foes. Shared: God’s truth, not whim, frames the plea."
+    },
+    {
+      "number": 6,
+      "text": "With a freewill offering I will sacrifice to you; I will give thanks to your name, O Lord, for it is good.",
+      "arminianNotes": "Freewill offering; thanks to your name, O Lord, for it is good. Worship vowed freely—gratitude that answers deliverance.\n\nArminian pastoral: freewill thanks are intentional. The name is good; say so with sacrifice that is not grudging.",
+      "reformedNotes": "Thanksgiving and freewill sacrifice answer the Name that saved. Praise names the goodness of the Lord after help received.\n\nReformed note: vowed thanks confess divine deliverance. Shared: freewill offering and thanks because the name is good."
+    },
+    {
+      "number": 7,
+      "text": "For he has delivered me from every trouble, and my eye has looked in triumph on my enemies.",
+      "arminianNotes": "He has delivered from every trouble; my eye looked in triumph on enemies. Past-tense confidence—as sure as done—fuels the vow of thanks.\n\nArminian pastoral: remember deliverance. Triumph of the eye is God’s vindication seen, not gloating detached from his help.",
+      "reformedNotes": "Calvin’s David often speaks of deliverance as accomplished by faith before the full historical close—God’s work trusted as done. Every trouble answered; the eye sees the enemies’ fall under God’s hand.\n\nReformed accent: faith’s past tense rests on God’s certain help. Shared: deliverance from every trouble ends in thanks.",
+      "keyContrast": "Both confess deliverance from every trouble and a triumphant sight of foes. Arminians typically stress grateful remembrance that fuels freewill thanks; Reformed readers typically stress faith that speaks of God’s deliverance as secured even amid unfinished danger."
+    }
+  ]
+}

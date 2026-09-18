@@ -1,0 +1,107 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 2,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 2:1–12",
+  "context": "Psalm 2 sets the nations’ rage and the rulers’ plot against the LORD and his Anointed beside the One who sits in the heavens: he laughs, speaks in wrath, and sets his King on Zion. The decree names the Son—“today I have begotten you”—promises the nations as heritage, and warns with an iron rod; kings must be wise, serve with fear, kiss the Son, and take refuge, lest wrath be quickly kindled.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the nations’ vain rage, the LORD’s Anointed King on Zion, the Son’s decree, and the call to kiss the Son—so each camp speaks in its own voice beside Psalm 2:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "There is nothing in this psalm which is not applicable to Christ, but some things which are not all applicable to David. Threatenings denounced against the adversaries of Christ’s kingdom; promises made to Christ; counsel given to all, to submit to him. Heathen—who did so against David, and against Christ (Acts 4:25). Kings—Herod, and Pilate and others with or after them. Anointed—against the king whom God hath chosen and exalted. Heavens—evidence of God’s clear knowledge and of his sovereign and irresistible power. My king—who ruleth in my stead, and according to my will, and for my glory. My Son—much more properly belongs to Christ, to whom this title is expressly appropriated by the Holy Ghost (Acts 13:33; Heb 1:5). This day—mainly the resurrection, when Christ was declared to be the Son of God with power (Rom 1:4). Now—while you have time for repentance and submission. Kiss—in token of your subjection and adoration. The son—the Son of God. Wrath—the least degree of his anger is terrible.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 2)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David boasts that his kingdom, though assailed by powerful enemies, would be perpetual, upheld by the hand of God, and extended to the ends of the earth; he exhorts kings to receive with submissive minds the yoke laid upon them by God. All this was typical and contains a prophecy concerning the future kingdom of Christ. Their tumults and counsels would prove vain, because they waged war not against mortal man but against God himself. Let this be held as a settled point, that all who do not submit themselves to the authority of Christ make war against God. He who dwells in heaven will laugh; when God permits the reign of his Son to be troubled, he purposely delays wrath until the proper time. Thou art my Son: not one son among many, but his only begotten Son. Ask of me—the Father will deny nothing that relates to the extension of his kingdom to the uttermost ends of the earth. Thou shalt break them with a rod of iron—Christ reigns even over those averse to his authority. Kiss the Son—God is defrauded of his honor if he is not served in Christ. Blessed are all who put their trust in him—a sanctuary of hope lest believers be overwhelmed by the terror of wrath.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 2)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Why do the nations rage and the peoples plot in vain?",
+      "arminianNotes": "Wesley: Heathen—who did so against David (2 Sam 5; 1 Chron 14), and against Christ (Luke 18:32; Acts 4:25). The opening question exposes a real conspiracy whose end is empty.\n\nArminian hearing: the plot is vain, yet the rage is moral and accountable. Shared messianic reading—Acts 4 applies this to Christ. Vanity does not cancel the later summons to be wise now; hearers who rage still stand under a live call to turn.",
+      "reformedNotes": "Calvin: whole nations with their kings conspired; their tumults and counsels prove vain because they wage war not against mortal man but against God himself. The apostles arm themselves with this doctrine when the ungodly conspire against Christ (Acts 4:24).\n\nReformed accent: shared christology—David’s kingdom is type and prophecy of Christ’s. Rage is real; its vanity is settled by the God who founded the throne. Consolation: when the world rages against Christ’s kingdom, remember it fulfills what was long predicted.",
+      "keyContrast": "Both confess that the nations’ rage against the LORD’s Anointed is real and finally vain, and both read the psalm of Christ with Acts 4. Arminian readers stress that vanity does not cancel moral accountability or the later invitation to repent while there is time. Reformed readers stress that the plot fails because it assaults God and his decree—enemies cannot prevail against the kingdom he founded."
+    },
+    {
+      "number": 2,
+      "text": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed, saying,",
+      "arminianNotes": "Wesley: The kings—Herod, and Pilate and others with or after them. Earth—so called in way of contempt, to show their madness in opposing the God of heaven. Set—the combination of their counsels and forces. Anointed—against the king whom God hath chosen and exalted.\n\nShared confession: opposition to the Anointed is opposition to the LORD. Classical Arminians do not thin the title; the counsel of rulers is mad because it fights God’s chosen King.",
+      "reformedNotes": "Calvin: by the title Messias, or Anointed, David declares he reigned only by God’s authority and command. Enemies may deny attacking God, yet by undermining the kingdom God erected they wage war against him. All who do not submit to Christ’s authority make war against God.\n\nReformed accent: shared—LORD and Anointed stand together. Refuse the Son and you deny the Father who sent him; the inseparable connection is the heart of the type."
+    },
+    {
+      "number": 3,
+      "text": "“Let us burst their bonds apart and cast away their cords from us.”",
+      "arminianNotes": "Wesley: And cast—the same thing with more emphasis. Let us not only break off their yoke and the cords by which it is fastened, but cast them far away.\n\nArminian pastoral: the rebels treat the King’s rule as a shameful yoke. Shared warning—casting off Christ’s bonds is not liberty but revolt. The cords they hate are the Lord’s claim; the later call is to kiss, not to cast away.",
+      "reformedNotes": "Calvin: a prosopopoeia—enemies speaking to express their traitorous design. They cover rebellion under pretext, yet their whole consultation is how to overthrow the kingdom God set up. They speak scornfully of government as slavish subjection—as enemies of Christ still do when compelled to be subject to his authority.\n\nReformed accent: shared—bonds and cords name God’s rule through his King. Pride reckons submission disgrace; the psalm will answer with heaven’s laugh and Zion’s King."
+    },
+    {
+      "number": 4,
+      "text": "He who sits in the heavens laughs; the Lord holds them in derision.",
+      "arminianNotes": "Wesley: Sitteth—as the king of the whole world. Heavens—evidence both of God’s clear and certain knowledge of all things done below, and of his sovereign and irresistible power. Laugh—shall despise them and all their crafty devices.\n\nArminian comfort: the God who knows and rules is not threatened by earthly cabals. Shared piety—derision is judicial, not petty. Craft against the Anointed is already comic before the throne.",
+      "reformedNotes": "Calvin: against all the strength of enemies he places the power of God alone. “He that dwelleth in heaven” extols power intact whatever men attempt; they resemble grasshoppers. God laughs because he needs no great armies to repress rebellion, and because he delays wrath to the proper time until their rage is exposed to derision.\n\nReformed accent: shared—heaven sits above the plot. Delay is not indolence or feebleness; it is the Lord’s time of laughter before sudden speech in wrath."
+    },
+    {
+      "number": 5,
+      "text": "Then he will speak to them in his wrath, and terrify them in his fury, saying,",
+      "arminianNotes": "Wesley’s notes leave the verse to stand with the next: wrath and sore displeasure answer the plot. Shared confession—God’s speech here is not polite debate but terrifying judgment.\n\nArminian hearing: “then” marks a real turning from derision to fury. The nations that cast away cords will hear a word that vexes. The warning later (“kiss the Son”) is continuous with this wrath, not theatrical scenery.",
+      "reformedNotes": "Calvin: by the adverb then he points to the fit time for judgment—after apparent neglect of those who oppose the Son’s rule, God suddenly shows what he abhors. “Speak” means manifestation of wrath the ungodly do not perceive until they feel it; God speaks by actions, founding and defending the kingdom.\n\nReformed accent: shared—wrath is God’s, timed and effectual. Whenever he defends his Son’s kingdom by tokens of wrath, he speaks enough to be understood."
+    },
+    {
+      "number": 6,
+      "text": "“As for me, I have set my King on Zion, my holy hill.”",
+      "arminianNotes": "Wesley: Yet—notwithstanding all their artifices and combinations. My king—who ruleth in my stead, according to my will, and for my glory. Zion—over my church and people; in a large sense Jerusalem, temple, Jewish church, and Christian church.\n\nShared messianic kingship: God himself installs the King. Classical Arminians confess the same Zion-King against the nations’ plot; the installation stands whether rulers consent or not.",
+      "reformedNotes": "Calvin: the emphatic I—God so exalted that the mass of men cannot obscure his glory. Unchangeable purpose to defend the kingdom of his Son to the end. Mount Zion marks consecration in God’s time; the reign is holy and joined to God’s worship—applied more fully to Christ’s spiritual kingdom joined to the priesthood.\n\nReformed accent: shared—God sets the King. Plots cannot render the anointing ineffectual; faith rests on the founder’s decree, not on the consent of earth’s kings."
+    },
+    {
+      "number": 7,
+      "text": "I will tell of the decree: The LORD said to me, “You are my Son; today I have begotten you.",
+      "arminianNotes": "Wesley: The decree—the will and appointment of God. My Son—may in some sort be said of David, yet much more properly belongs to Christ, to whom the Holy Ghost appropriates it (Acts 13:33; Heb 1:5). This day—eternal generation, or manifestation in time; mainly the resurrection, when he was declared Son of God with power (Rom 1:4).\n\nShared high christology: the Son’s title is Christ’s. Arminian reading keeps the NT’s own exposition—begotten declared, especially in resurrection—without thinning the eternal Son.",
+      "reformedNotes": "Calvin: more truly fulfilled in Christ; David under prophecy had special reference to him. Not one son among many, but the only begotten. “Begotten” refers to manifestation—Paul in Acts 13:33 points to heavenly glory made known; principally the resurrection (Rom 1:4). He did not then begin to be Son, but was made manifest as such.\n\nReformed accent: shared—Heb 1:5 lifts this above angels. The decree published leaves the ungodly inexcusable; refuse the edict and you refuse the King."
+    },
+    {
+      "number": 8,
+      "text": "Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.",
+      "arminianNotes": "Wesley: Earth—not only the Jewish nation, but the whole world.\n\nArminian pastoral: shared promise—the Son’s inheritance is global. Ask and receive names the Father’s generosity toward the Son. The nations rage in vv. 1–3; here they are given as heritage. Mission and hope run on this gift, not on Israel alone.",
+      "reformedNotes": "Calvin: the Father will deny nothing relating to the extension of the Son’s kingdom to the uttermost ends of the earth. As eternal Word he always had majesty; yet he is exalted in the Mediator’s human nature (Phil 2:9). David’s narrow borders did not fulfill this; apply it to Christ, who alone subdues the world. The calling of the Gentiles is foretold.\n\nReformed accent: shared—ends of the earth belong to Christ. Ingratitude may hinder prosperity of the kingdom, yet cannot destroy his authority; he gathers remnants from every quarter."
+    },
+    {
+      "number": 9,
+      "text": "You shall break them with a rod of iron and dash them in pieces like a potter’s vessel.”",
+      "arminianNotes": "Wesley: Them—those that will not quietly submit shall be crushed and destroyed. In part fulfilled in the unbelieving Jews under Rome and in the fall of pagan power; not completely fulfilled till all opposing power and principality be put down.\n\nArminian hearing: shared—iron rod for the stubborn. Quiet submission is the alternative to being dashed. The warning is pastoral and final: refuse the Son and meet the rod.",
+      "reformedNotes": "Calvin: Christ is furnished with power to reign even over those averse to him; many stiff-necked he shall compel to submit. The prediction is verified in Christ, who by the breath of his mouth smites the ungodly. Severity strikes alarm into enemies and is not inconsistent with kindness to his own; the iron rod is not for disciples but for the rebellious.\n\nReformed accent: shared—potter’s vessel shames proud obstinacy. Wait for the last day when he consumes the ungodly; meanwhile he rules in the midst of his enemies."
+    },
+    {
+      "number": 10,
+      "text": "Now therefore, O kings, be wise; be warned, O rulers of the earth.",
+      "arminianNotes": "Wesley: Now—while you have time for repentance and submission.\n\nArminian pastoral: shared urgency—“now” is a real window. Wisdom for kings is not shrewd policy against Zion but repentance toward the King God set. The counsel binds high and low; if kings must turn, so must every hearer.",
+      "reformedNotes": "Calvin: having set forth vengeance, David exhorts the unbelieving to repentance that they may not learn too late that threatenings are neither idle nor ineffectual. “Now” signifies speedy repentance while opportunity remains—yet room if they make haste. True wisdom begins when a man lays aside pride and submits to Christ’s authority.\n\nReformed accent: shared—be wise means become humble scholars at Christ’s feet. Princes’ conceit of shrewdness is folly until they fear the Lord."
+    },
+    {
+      "number": 11,
+      "text": "Serve the LORD with fear, and rejoice with trembling.",
+      "arminianNotes": "Wesley: Fear—with an awful sense of his great and glorious majesty. Rejoice—do not esteem his yoke your dishonour and grievance; but rejoice in this inestimable grace and benefit. Trembling—warns them not to turn this grace into wantonness.\n\nArminian pastoral: shared—fear and joy together. Service is gift, not slavery; trembling guards grace from presumption. The yoke the rebels cast off (v. 3) is here the place of glad reverence.",
+      "reformedNotes": "Calvin: serve the Lord with fear—until they fear him they lack right understanding. Rejoice shows the service is pleasant; with trembling checks wanton insolence. True joy arises from resting in the fear and reverence of God; fleshly rejoicing while enemies to God is sporting with destruction.\n\nReformed accent: shared—fearful joy, not grim slavery or careless revel. Security that withdraws obedience must be broken by strong measures that recover rebels to fear."
+    },
+    {
+      "number": 12,
+      "text": "Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled. Blessed are all who take refuge in him.",
+      "arminianNotes": "Wesley: Kiss—in token of your subjection and adoration among the eastern nations. The son—the Son of God. Ye perish—be taken out of the way by death or destruction. Wrath—the least degree of his anger is terrible. (With v. 10: now, while you have time for repentance and submission.)\n\nArminian hearing: shared messianic close—kiss the Son, take refuge. The warning binds hearers: subjection is required; delay is dangerous; blessedness meets those who trust. Grace enables the kiss; the perish-clause remains a live peril for the unrepentant, not stage scenery.",
+      "reformedNotes": "Calvin: kiss is the token subjects yield to sovereigns; God is defrauded if not served in Christ. Wrath kindled in a moment warns the proud not to presume on patience. “Perish from the way”—cut off mid-race when they say peace and safety (1 Thess 5:3). Blessed are all who put their trust in him—sanctuary of hope so believers are not overwhelmed by terror; the pronoun best refers to Christ.\n\nReformed accent: shared—embrace the Son or meet sudden wrath; refuge is blessed. The severity of the iron rod is qualified by this comfort for those who trust the King.",
+      "keyContrast": "Both confess that hearers must kiss the Son—submit to God’s Anointed—or perish under quickly kindled wrath, and that all who take refuge in him are blessed. Arminian readers, with Wesley, stress the open “now” of repentance and submission: the warning truly binds, and the kiss is required while time remains. Reformed readers, with Calvin, stress that wrath can cut off the presumptuous mid-race, while the blessing opens a sanctuary of hope for those who trust in Christ—the severity of the rod answered by refuge in the Son."
+    }
+  ]
+}

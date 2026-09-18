@@ -1,0 +1,130 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 91,
+  "verseStart": 1,
+  "verseEnd": 16,
+  "translation": "ESV",
+  "title": "Psalm 91:1–16",
+  "context": "He who dwells in the shelter of the Most High abides in the shadow of the Almighty; the LORD is refuge and fortress. He delivers from fowler's snare and deadly pestilence; covers with pinions; faithfulness a shield. No fear of night terror or day arrow, pestilence or noonday destruction. Thousand may fall; it will not come near; only see the wicked's recompense. Because the LORD is your dwelling, no evil befalls; angels charged to guard; bear up lest you strike your foot; tread lion and adder. \"Because he holds fast to me in love, I will deliver him; protect him who knows my name. He calls; I answer; with him in trouble; rescue and honor; long life and salvation.\"",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on dwelling in the Most High's shelter and Almighty's shadow, refuge from snare and pestilence, pinions and faithfulness as shield, night and noon terrors, thousands falling yet not coming near, angels charged to keep, lion and serpent trampled, and the LORD's own promise to the one who holds fast in love and knows his name—so each camp speaks in its own voice beside Psalm 91:1–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He—that makes God his habitation and refuge. Pestilence—like a fowler's snare, sudden. By night—evils most terrible and least avoidable; Arrow—pestilence or destructive calamity; By day—secret and open mischiefs. Darkness—invisibly, unforeseen. Bear thee—uphold as we do a child. Lion—prostrate at thy feet; Dragon—all pernicious creatures and enemies. Because—this and the following are the words of God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 91"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He that dwells in the secret place of the High One abides under the Almighty's shadow. I will say: hope and fortress. Deliver from snare and pestilence—hidden or open assault. Wings and feathers; truth a shield. Not afraid of night terror or day arrow; pestilence in darkness; destruction at noon. Thousand fall; it shall not come nigh; see the wicked's reward. Because Jehovah is my protection / Most High thy habitation—no evil befall; no plague near dwelling. Angels charged to keep in all thy ways; bear upon hands lest foot dash. Lion and adder trodden. Because he has set his love on me, I will deliver; set him on high for knowing my name. He shall call; I answer; with him in trouble; deliver and honor; long life and salvation—benefits suited to the church's good, not a mechanical charm.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 91"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.",
+      "arminianNotes": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. Wesley: He—makes God his habitation and refuge. Shared: dwelling → abiding under shadow.\n\nArminian pastoral: habitation is chosen posture. Live where the Name shelters.",
+      "reformedNotes": "Calvin: dwells in the secret place of the High One; abides under the Almighty's shadow—faith's residence language.\n\nReformed pastoral: shared—shelter of the Most High; shadow of the Almighty. Providence is a home, not a slogan."
+    },
+    {
+      "number": 2,
+      "text": "I will say to the Lord, “My refuge and my fortress, my God, in whom I trust.”",
+      "arminianNotes": "I will say to the Lord, “My refuge and my fortress, my God, in whom I trust.” Shared: spoken trust—refuge, fortress, my God.\n\nArminian pastoral: say it to the LORD, not only about him. Trust is addressed speech.",
+      "reformedNotes": "Calvin: I will say to Jehovah—hope and fortress; my God; in him will I hope—personal appropriation.\n\nReformed pastoral: shared—refuge; fortress; my God; trust. Confession fuels courage."
+    },
+    {
+      "number": 3,
+      "text": "For he will deliver you from the snare of the fowler and from the deadly pestilence.",
+      "arminianNotes": "For he will deliver you from the snare of the fowler and from the deadly pestilence. Wesley: Pestilence—sudden as a snare. Shared: deliverance from trap and plague.\n\nArminian pastoral: hidden snare and open plague both named. Deliverance is promised to the dweller.",
+      "reformedNotes": "Calvin: snare of the fowler and noxious pestilence—likely hidden mischief and open aggression; divine protection covers both.\n\nReformed pastoral: shared—snare and pestilence. Trust is not naive about danger's forms."
+    },
+    {
+      "number": 4,
+      "text": "He will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckler.",
+      "arminianNotes": "He will cover you with his pinions, and under his wings you will find refuge; his faithfulness is a shield and buckler. Shared: wing-cover; faithfulness as armor.\n\nArminian pastoral: mother-bird image invites nearness. Truth/faithfulness is the hard shield beside soft wings.",
+      "reformedNotes": "Calvin: protect with wings; under feathers safe; truth a shield and buckler—tenderness and armor together.\n\nReformed pastoral: shared—pinions; wings; faithfulness shield. Attributes protect as truly as power does."
+    },
+    {
+      "number": 5,
+      "text": "You will not fear the terror of the night, nor the arrow that flies by day,",
+      "arminianNotes": "You will not fear the terror of the night, nor the arrow that flies by day, Wesley: By night—most terrible, least avoidable; Arrow—calamity; By day—secret and open. Shared: night terror and day arrow without slavish fear.\n\nArminian pastoral: courage is gift of dwelling, not denial of arrows. Fear not—because covered.",
+      "reformedNotes": "Calvin: not afraid for terror by night nor arrow by day—round-the-clock threats met by trust.\n\nReformed pastoral: shared—terror of night; arrow by day. Fearlessness is relative to refuge, not to risklessness of the world."
+    },
+    {
+      "number": 6,
+      "text": "nor the pestilence that stalks in darkness, nor the destruction that wastes at noonday.",
+      "arminianNotes": "nor the pestilence that stalks in darkness, nor the destruction that wastes at noonday. Wesley: Darkness—invisible, unforeseen. Shared: dark pestilence; noon destruction.\n\nArminian pastoral: unseen and high-noon alike. No hour is orphaned from the shadow.",
+      "reformedNotes": "Calvin: pestilence in darkness; destruction at noonday—completes the catalog of fears quieted.\n\nReformed pastoral: shared—pestilence in darkness; destruction at noon. Catalog drives us under wings, not into superstition."
+    },
+    {
+      "number": 7,
+      "text": "A thousand may fall at your side, ten thousand at your right hand, but it will not come near you.",
+      "arminianNotes": "A thousand may fall at your side, ten thousand at your right hand, but it will not come near you. Shared: mass falling; nearness of plague denied to the dweller.\n\nArminian pastoral: hyperbolic assurance of care—not a license to test God. Nearness of harm is relativized by the refuge.",
+      "reformedNotes": "Calvin: thousand fall at side, ten thousand at right; it shall not come nigh—providence discriminating under judgment scenes.\n\nReformed pastoral: shared—thousands fall; not come near. Hold promise without turning it into presumption (cf. Matt 4 misuse of vv. 11–12)."
+    },
+    {
+      "number": 8,
+      "text": "You will only look with your eyes and see the recompense of the wicked.",
+      "arminianNotes": "You will only look with your eyes and see the recompense of the wicked. Shared: spectator of just recompense, not participant in ruin.\n\nArminian pastoral: seeing judgment is sobering, not bloodthirsty. Recompense belongs to God.",
+      "reformedNotes": "Calvin: only with eyes behold and see the reward of the wicked—vindication observed.\n\nReformed pastoral: shared—look; see recompense. Safety is unto witnessing God's justice, not private gloating."
+    },
+    {
+      "number": 9,
+      "text": "Because you have made the Lord your dwelling place— the Most High, who is my refuge—",
+      "arminianNotes": "Because you have made the Lord your dwelling place—the Most High, who is my refuge— Shared: because-clause—LORD as dwelling/refuge grounds the promises.\n\nArminian pastoral: \"because\" ties shelter to practice of dwelling. Refuge is inhabited, not merely admired.",
+      "reformedNotes": "Calvin: because Jehovah is my protection / Most High thy habitation—resting with confidence averts coming evils; troubles still come, yet under protection.\n\nReformed pastoral: shared—made the LORD dwelling; Most High my refuge. Cause of safety is relational trust."
+    },
+    {
+      "number": 10,
+      "text": "no evil shall be allowed to befall you, no plague come near your tent.",
+      "arminianNotes": "no evil shall be allowed to befall you, no plague come near your tent. Shared: no evil allotted; no plague near the tent.\n\nArminian pastoral: tent-language is household care. Promise shepherds fear without denying all hardship elsewhere in Scripture.",
+      "reformedNotes": "Calvin: no evil befall; no plague near dwelling—commendation of providence for slow hearts that need driving to God.\n\nReformed pastoral: shared—no evil befall; no plague near tent. Read with the psalter's other laments; care is real, not a charm."
+    },
+    {
+      "number": 11,
+      "text": "For he will command his angels concerning you to guard you in all your ways.",
+      "arminianNotes": "For he will command his angels concerning you to guard you in all your ways. Shared: angelic charge; guard in all ways.\n\nArminian pastoral: angels serve the heirs under God's command. Ways means paths of obedience, not leaps from temple tops.",
+      "reformedNotes": "Calvin: given his angels charge to keep thee in all thy ways—providence uses messengers; \"ways\" are the believer's paths.\n\nReformed pastoral: shared—command angels; guard in all ways. Promise is pastoral, not a dare to test God."
+    },
+    {
+      "number": 12,
+      "text": "On their hands they will bear you up, lest you strike your foot against a stone.",
+      "arminianNotes": "On their hands they will bear you up, lest you strike your foot against a stone. Wesley: Bear thee—uphold as a child. Shared: hands bearing up; foot protected.\n\nArminian pastoral: child-carried image. Care in ordinary steps—not spectacle jumps.",
+      "reformedNotes": "Calvin: bear upon hands lest foot dash on a stone—sustaining care in goings.\n\nReformed pastoral: shared—bear up; lest foot strike. Devil quoted this to Jesus; the church reads it as care, not carnival."
+    },
+    {
+      "number": 13,
+      "text": "You will tread on the lion and the adder; the young lion and the serpent you will trample underfoot.",
+      "arminianNotes": "You will tread on the lion and the adder; the young lion and the serpent you will trample underfoot. Wesley: Lion—prostrate; Dragon—pernicious creatures and enemies. Shared: dominion over deadly threats.\n\nArminian pastoral: hostility underfoot by God's enablement. Courage without cruelty.",
+      "reformedNotes": "Calvin: tread on lion and adder; young lion and dragon trampled—enemies and perils subdued under the protected one.\n\nReformed pastoral: shared—tread lion and adder; trample serpent. Victory imagery serves trust, not swagger."
+    },
+    {
+      "number": 14,
+      "text": "“Because he holds fast to me in love, I will deliver him; I will protect him, because he knows my name.",
+      "arminianNotes": "“Because he holds fast to me in love, I will deliver him; I will protect him, because he knows my name. Wesley: Because—words of God. Shared: divine speech—love's cling and knowing the Name → deliverance and protection.\n\nArminian pastoral: hold fast in love; know the Name. Relational conditions are invitations to cleave.",
+      "reformedNotes": "Calvin: because he has set his love on me / known my name—I will deliver and set on high. God's own oracle closes the psalm; love and knowledge of the Name mark the one he exalts.\n\nReformed pastoral: shared—holds fast in love; knows my name; I deliver and protect. Promise is personal speech from God.",
+      "keyContrast": "Both hear vv. 14–16 as God's own voice promising deliverance to the one marked by love and knowledge of the Name. Arminians typically stress the relational \"hold fast in love\" as sincere cleaving—love answering love, calling and knowing the Name in living faith. Reformed readers typically stress that such love and knowing are themselves under grace, and that the oracle assures providence rather than a mechanical bargain; long life and honor are fitted to the church's good. Shared: deliverance is God's \"I will,\" not self-rescue."
+    },
+    {
+      "number": 15,
+      "text": "When he calls to me, I will answer him; I will be with him in trouble; I will rescue him and honor him.",
+      "arminianNotes": "When he calls to me, I will answer him; I will be with him in trouble; I will rescue him and honor him. Shared: call → answer; with him in trouble; rescue and honor.\n\nArminian pastoral: presence in trouble precedes rescue. Honor is God's gift after the night.",
+      "reformedNotes": "Calvin: he shall call; I will answer; with him in trouble; deliver and honor—companionship in affliction, not exemption from it.\n\nReformed pastoral: shared—call; answer; with him in trouble; rescue; honor. \"With him in trouble\" keeps the promise honest."
+    },
+    {
+      "number": 16,
+      "text": "With long life I will satisfy him and show him my salvation.”",
+      "arminianNotes": "With long life I will satisfy him and show him my salvation.” Shared close: satisfied length of days; shown salvation.\n\nArminian pastoral: satisfaction, not mere years. Salvation shown is the climax above longevity.",
+      "reformedNotes": "Calvin: long life among benefits—yet sometimes early death is for the children's advantage; the godly are more satisfied with a short span than the wicked with thousands of years. Salvation shown is the chief gift.\n\nReformed pastoral: shared—long life satisfy; show salvation. Length serves satisfaction and salvation's display, not superstition."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 33,
+  "verseStart": 1,
+  "verseEnd": 22,
+  "translation": "ESV",
+  "title": "Psalm 33:1–22",
+  "context": "The psalmist summons the righteous to shout for joy in the LORD, for praise befits the upright; calls for thanks with lyre and melody on the harp of ten strings; urges a new song played skillfully with loud shouts; grounds praise in the LORD's upright word and faithful work, his love of righteousness and justice, and an earth full of his steadfast love; celebrates creation by the word of the LORD and the breath of his mouth making the heavens and their host, gathering seas as a heap and storing deeps; bids all the earth fear and stand in awe, for he spoke and it came to be, commanded and it stood firm; proclaims that the LORD brings the nations' counsel to nothing and frustrates peoples' plans, while his own counsel stands forever and the plans of his heart to all generations; blesses the nation whose God is the LORD, the people chosen as his heritage; describes the LORD looking from his throne on all children of man, fashioning all hearts and observing all deeds; denies that king, warrior, or war horse can save; sets the LORD's eye on those who fear him and hope in his steadfast love, to deliver from death and keep alive in famine; and closes with the church waiting on the LORD as help and shield, glad hearts trusting his holy name, and a plea that steadfast love rest on them even as they hope in him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on praise that befits the upright, the LORD's upright word and faithful works, creation by speech and breath, counsel that stands while nations' plans fall, the blessed people chosen as heritage, the Fashioner who sees every heart and deed, the vanity of army and war horse, and the eye of steadfast love on those who fear and hope—so each camp speaks in its own voice beside Psalm 33:1–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Harp—These instruments were used in the publick worship of God in the tabernacle. A new song—Renewed or continued from day to day. The word—All God's counsels and commands are wise, and just, and good. His works—All his works of providence agree with his word, and are the accomplishment of his promises or threatenings. Goodness—He not only doth no man wrong, but he is kind and merciful to all men. The word—God made this admirable structure of the heavens, and all its glorious stars; not with great pains and time, but with one single word. Host—The angels: or the stars. Store-houses—Either in the clouds, or in the bowels of the earth. The Lord—Thus he passes from the work of creation, to the works of providence, and from the instances of his power, in senseless and irrational creatures, to his power in over-ruling the thoughts and wills, and actions of men, whether single or united. The Counsel—All his purposes and designs are always successful. All men—Although he hath a relation to Israel, yet he hath a general care over all mankind, all whose hearts and ways he observes. Fashioneth—Having said that God sees and observes all men, he now adds, that he rules and governs them; yea, even the hearts which are most unmanageable, he disposes and inclines according to the counsel of his will. Alike—Or, equally, one as well as another: whether they be Jews or Gentiles, princes or peasants; all are alike subject to his jurisdiction. No king—He instances in these, as the most uncontrollable persons in the world, and most confident of themselves. By an host—But only by God's providence, who disposes of victory and success, as he pleases. An horse—Though he be strong and fit for battle; Heb. a lie; because it promises that help and safety which it cannot give. The eye—Whosoever therefore would have safety, must expect it only from the watchful eye, and almighty hand of God. That fear—These are the chief objects of his care and favour. Hope—That place their hope and trust, and happiness, not in any creature, but only in God, and in his mercy and blessings.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 33"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David founds praise upon the general providence of God, by which he sustains, protects, and governs the whole world, then celebrates paternal kindness toward his chosen people. Rejoice, ye righteous: believers alone are capable of proclaiming God's glory from the heart; praise is comely for the upright—there is no better exercise for them. A new song: rare and choice, corresponding to the magnificence of God's works. The word of Jehovah is right—counsel or ordinance; all his works are in faithfulness—the execution of that counsel; whatever God appoints is right, whatever he brings to pass is true. He loveth righteousness and judgment; the earth is full of his goodness scattered over the whole human race. By the word of Jehovah were the heavens made, and all their host by the breath of his mouth: creation by his nod alone leads to providence—no man truly believes the world was created by God unless persuaded it is maintained by him. We may truly infer that the world was framed by God's Eternal Word, his only begotten Son. He gathered the waters as a heap; let all the earth fear him—for he spake, and it was; he commanded, and it stood. Jehovah scattereth the counsel of the nations; the counsel of Jehovah shall stand for ever. Blessed are the people whose God is Jehovah, whom he hath chosen for his inheritance—blessedness proceeds from the fountain of gracious electing love; we have no interest in him unless he prevent us by his grace. He looked from heaven; he who fashioned their hearts altogether understands all their works. A king is not saved by his host; a horse is a deceitful thing for safety. Behold, the eye of Jehovah is upon them that fear him, who hope in his mercy, to deliver from death and keep alive in famine. Our soul waiteth upon Jehovah; he is our help and shield. Our heart shall rejoice because we trust in his holy name. Let thy mercy be upon us according as we have trusted in thee.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 33"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Shout for joy in the Lord, O you righteous! Praise befits the upright.",
+      "arminianNotes": "Shout for joy in the Lord, O you righteous! Praise befits the upright. The forgiven of Psalm 32 are summoned into fitting praise: joy in the LORD belongs with upright hearts, not as a performance of the self-made.\n\nArminian pastoral: shared—let the righteous shout. Do not treat praise as optional garnish; it befits those the LORD has made upright in heart.",
+      "reformedNotes": "Calvin: the inspired writer addresses believers or the righteous by name, because they alone are capable of proclaiming God's glory from the heart. Praise is comely for the upright—no exercise in which they can be better employed; God by daily benefits furnishes matter for celebrating his glory.\n\nReformed pastoral: shared—rejoice in Jehovah as the upright. Let integrity of heart and public praise travel together; refuse a mute righteousness that never publishes his goodness."
+    },
+    {
+      "number": 2,
+      "text": "Give thanks to the Lord with the lyre; make melody to him with the harp of ten strings!",
+      "arminianNotes": "Give thanks to the Lord with the lyre; make melody to him with the harp of ten strings! Wesley: Harp—These instruments were used in the publick worship of God in the tabernacle. Thanksgiving takes voice and skill in the assembly's glad noise.\n\nArminian pastoral: shared—thank him with the means the congregation has. Let melody serve gratitude, not spectacle that forgets the Name.",
+      "reformedNotes": "Calvin: the Psalmist expresses the vehement affection the faithful ought to have in praising God when he enjoins instruments. Yet he marks a distinction for the church after the shadows of the law: the name of God is celebrated properly by the articulate voice; stated temple music belonged to the education of that age. Cheerfulness should not be dissevered from God's praises, while corruption and superstition are watched.\n\nReformed pastoral: shared—pour out thanks. Use helps that stir the heart without turning noise into the substance of worship; keep the voice of known praise first."
+    },
+    {
+      "number": 3,
+      "text": "Sing to him a new song; play skillfully on the strings, with loud shouts.",
+      "arminianNotes": "Sing to him a new song; play skillfully on the strings, with loud shouts. Wesley: A new song—Renewed or continued from day to day. Fresh praise answers fresh mercies; skill and loud joy are not rivals to reverence.\n\nArminian pastoral: shared—sing what matches today's goodness. Renew the song; do not let yesterday's gratitude go stale.",
+      "reformedNotes": "Calvin: a new song means a rare and choice song. As the psalm treats mighty works and the church's preservation, believers are to sing no common song but one corresponding to the magnificence of the subject; sing loudly with joyfulness.\n\nReformed pastoral: shared—match praise to the greatness of what God has done. Let consideration of his works enlarge the song; refuse a thin hymn for a thick mercy.",
+      "keyContrast": "Both summon skilled, glad praise in a new song. Arminians typically hear Wesley: the song renewed or continued day by day with daily mercies. Reformed readers typically hear Calvin: a rare and choice song fitted to the magnificence of creation, providence, and the church's keeping—not a merely ordinary ditty."
+    },
+    {
+      "number": 4,
+      "text": "For the word of the Lord is upright, and all his work is done in faithfulness.",
+      "arminianNotes": "For the word of the Lord is upright, and all his work is done in faithfulness. Wesley: The word—All God's counsels and commands are wise, and just, and good. His works—All his works of providence agree with his word, and are the accomplishment of his promises or threatenings. Word and work are not at odds.\n\nArminian pastoral: shared—trust the upright word and the faithful work. Expect providence to keep covenant with what God has spoken; do not pry a gap between counsel and deed.",
+      "reformedNotes": "Calvin: word means counsel or ordinance; work signifies the effect or execution of his counsel. Whatever God appoints and commands is right; whatever he brings to pass is faithful and true. Word here is not first doctrine but the method by which God governs the world.\n\nReformed pastoral: shared—hold upright counsel and faithful execution as one sovereignty. Let government-by-word steady you when events look crooked; his works finish what his word appointed."
+    },
+    {
+      "number": 5,
+      "text": "He loves righteousness and justice; the earth is full of the steadfast love of the Lord.",
+      "arminianNotes": "He loves righteousness and justice; the earth is full of the steadfast love of the Lord. Wesley: Goodness—He not only doth no man wrong, but he is kind and merciful to all men. Love of right and overflowing hesed meet in the same LORD.\n\nArminian pastoral: shared—preach a God who loves justice and fills the earth with steadfast love. Do not shrink either side: refuse a soft mercy that never loves righteousness, and a hard right that never fills the earth with kindness.",
+      "reformedNotes": "Calvin: God of his own nature loves righteousness and equity—froward affections cannot hurry him to evil devices. The earth is full of his goodness: benefits scattered over the whole human race meet us wherever we turn. Many shut their eyes to providence or murmur when wishes fail; yet the maxim that God doeth all things righteously must be believed in the heart.\n\nReformed pastoral: shared—confess both his love of judgment and his worldwide goodness. Submit when \"Thus it pleaseth God\" is hard; let scattered mercies train the tongue to praise."
+    },
+    {
+      "number": 6,
+      "text": "By the word of the Lord the heavens were made, and by the breath of his mouth all their host.",
+      "arminianNotes": "By the word of the Lord the heavens were made, and by the breath of his mouth all their host. Wesley: The word—God made this admirable structure of the heavens, and all its glorious stars; not with great pains and time, but with one single word. Host—The angels: or the stars. Creation is sovereign speech, not laborious craft.\n\nArminian pastoral: shared—confess heavens and host as word-made. Let one-command creation humble every rival power; the Maker who spoke worlds can keep promises.",
+      "reformedNotes": "Calvin: until God is acknowledged Creator, who will believe he attends to human affairs? Creation leads by direct consequence to providence—no idle spectator in heaven. Heavens and host (stars and planets) made by his nod alone, without painful labor. Breath of his mouth marks effective speech versus empty human sound; we may truly infer the world was framed by God's Eternal Word, his only begotten Son.\n\nReformed pastoral: shared—creation by the word grounds ongoing rule. Refuse a God who once made and now watches idly; the same mouth that formed the host still governs.",
+      "keyContrast": "Both confess creation by the LORD's word and breath—sovereign, effortless making of heavens and host. Arminians typically stay with Wesley's plain note: one single word; host as angels or stars. Reformed readers typically add Calvin's sequels: creation entails present providence, and the creative Word may be read as the Eternal Son, while \"breath\" here is utterance of speech rather than a forced proof-text against Sabellius."
+    },
+    {
+      "number": 7,
+      "text": "He gathers the waters of the sea as a heap; he puts the deeps in storehouses.",
+      "arminianNotes": "He gathers the waters of the sea as a heap; he puts the deeps in storehouses. Wesley: Store-houses—Either in the clouds, or in the bowels of the earth. Unstable waters stand as a heap at his pleasure—shared sovereignty over the deep.\n\nArminian pastoral: shared—fear the God who banks the seas. Let ordered waters preach a Governor, not a lucky accident of nature.",
+      "reformedNotes": "Calvin: under one department he comprehends the rest—a signal miracle: fluid water gathered as a solid heap and held at God's commandment. He not only confines the seas but hides deeps in the bowels of the earth by incomprehensible power; channels that might swallow the earth leave its body in place.\n\nReformed pastoral: shared—read sea and deep as word-kept stores. Do not credit chaos with the last word; the heap stands because he commands."
+    },
+    {
+      "number": 8,
+      "text": "Let all the earth fear the Lord; let all the inhabitants of the world stand in awe of him!",
+      "arminianNotes": "Let all the earth fear the Lord; let all the inhabitants of the world stand in awe of him! Creation's audience is the whole earth: awe answers the Maker who spoke seas and stars into place.\n\nArminian pastoral: shared—stand in awe with the world's inhabitants. Let fear of the LORD displace casual use of his world; reverence fits creatures who did not make themselves.",
+      "reformedNotes": "Calvin: there is just reason why the whole world should reverently submit to the government of God, who gave it being and preserves it. To fear and stand in awe is to honor his mighty power; great insensibility refuses to bow at the presence of the One on whom our condition depends.\n\nReformed pastoral: shared—let earth-wide awe answer earth-wide making. Bow as preserved creatures; refuse a life that treats the Creator as optional scenery."
+    },
+    {
+      "number": 9,
+      "text": "For he spoke, and it came to be; he commanded, and it stood firm.",
+      "arminianNotes": "For he spoke, and it came to be; he commanded, and it stood firm. The Genesis cadence returns: speech creates; command upholds. Word-sovereignty is the hinge of the psalm's praise.\n\nArminian pastoral: shared—rest creation and continuance on spoken command. When he speaks, reality answers; trust the same mouth in promise and warning.",
+      "reformedNotes": "Calvin: the world appeared as soon as God spake and is upheld by his commandment—it would not have been enough to create in a moment if it were not supported in existence by his power. He ordered that so soon as he should pronounce the word, the thing should be done; command confirms speech as nod or wish, and in that nod the eternal wisdom of God displayed itself.\n\nReformed pastoral: shared—he spoke and it was; he commands and it stands. Hold making and maintaining as one word-power; do not split a creating God from a sustaining Lord."
+    },
+    {
+      "number": 10,
+      "text": "The Lord brings the counsel of the nations to nothing; he frustrates the plans of the peoples.",
+      "arminianNotes": "The Lord brings the counsel of the nations to nothing; he frustrates the plans of the peoples. Wesley: The Lord—Thus he passes from the work of creation, to the works of providence… to his power in over-ruling the thoughts and wills, and actions of men, whether single or united. National schemes fall under the same sovereignty as the seas.\n\nArminian pastoral: shared—do not absolutize the nations' counsel. Hope when plots against the good rage; the LORD can bring them to nothing without denying that men truly plan.",
+      "reformedNotes": "Calvin: daily events prove providence. God is set as adversary to men who violate order—scattering counsels rather than always establishing them—to check wantonness and protect the upright. However nations conspire with great hosts, their purposes may be brought to nought; it is as easy for God to scatter multitudes as to restrain a few. Undertake nothing without his command and guidance.\n\nReformed pastoral: shared—rest while the wicked stir. Trust the frustrater of peoples' plans; refuse terror that treats coalitions as final."
+    },
+    {
+      "number": 11,
+      "text": "The counsel of the Lord stands forever, the plans of his heart to all generations.",
+      "arminianNotes": "The counsel of the Lord stands forever, the plans of his heart to all generations. Wesley: The Counsel—All his purposes and designs are always successful. Against canceled national schemes stands the uncanceled counsel of the LORD—shared forever-sovereignty.\n\nArminian pastoral: shared—anchor hope in the counsel that stands. Generations pass; his heart's plans do not. Let that steady prayer when peoples' devices fail or frighten.",
+      "reformedNotes": "Calvin: the infinite power of God builds faith—not a counsel hidden only in heaven to revere at a distance. As Scripture testifies he loves righteousness, cares for the righteous, and succors the oppressed, that counsel remains sure. Look at God's counsel in the glass of his word; when nations hinder, remember he brings devices to nought. Faith is exercised in this practical knowledge.\n\nReformed pastoral: shared—the LORD's counsel stands forever. Read his heart's plans in the word's promises; do not freeze before the tumult of peoples."
+    },
+    {
+      "number": 12,
+      "text": "Blessed is the nation whose God is the Lord, the people whom he has chosen as his heritage!",
+      "arminianNotes": "Blessed is the nation whose God is the Lord, the people whom he has chosen as his heritage! After frustrated nations comes the beatitude of the people who have Jehovah as God—chosen heritage language from the covenant story.\n\nArminian pastoral: shared—seek the blessing of belonging to the LORD. Treat chosen heritage as mercy to receive and walk in, not as a boast against the nations he still beholds.",
+      "reformedNotes": "Calvin: blessed are they whom God receives into his protection—the counsel just praised is displayed in the church's existence and keeping. Blessedness is that Jehovah is our God; this fountain of divine love comprehends whatever makes life happy. Lest it be thought men obtain so great a good by their own efforts, David teaches it proceeds from gracious electing love. Until God freely adopt us, we are by nature wretched; entrance to happiness is that God, of his own good pleasure, should choose us who are unworthy. They corrupt the passage who transfer to men what the prophet ascribes to God, as if men chose God for their inheritance—we have no interest in him unless he prevent us by his grace.\n\nReformed pastoral: shared—blessed is the people whose God is Jehovah. Receive chosen heritage as electing mercy; refuse to invert the verse into self-made belonging.",
+      "keyContrast": "Both bless the nation whose God is the LORD and the people chosen as his heritage. Arminians typically hear covenant privilege and call without pressing Calvin's polemic: belonging to Jehovah as living mercy to walk in. Reformed readers typically hear Calvin's accent: blessedness flows from free electing adoption—God prevents us by grace—and reject transferring the choice to human initiative."
+    },
+    {
+      "number": 13,
+      "text": "The Lord looks down from heaven; he sees all the children of man;",
+      "arminianNotes": "The Lord looks down from heaven; he sees all the children of man; Wesley: All men—Although he hath a relation to Israel, yet he hath a general care over all mankind, all whose hearts and ways he observes. Special heritage does not cancel universal sight.\n\nArminian pastoral: shared—live under the look from heaven. Neither hide in crowd nor despair as unseen; all children of man are beheld.",
+      "reformedNotes": "Calvin: human affairs are not tossed fortuitously; God secretly guides what we see. He commends God's inspection so we contemplate invisible providence with the eye of faith. Many imagine blind fortune; to shut God up in heaven idle is as if he lay buried. Under \"throne\" heaven is a royal court from which he governs all parts of the world with highest reason and wisdom.\n\nReformed pastoral: shared—the LORD looks down and sees. Refuse Epicurean idleness in heaven; walk as those under a ruling throne, not under chance."
+    },
+    {
+      "number": 14,
+      "text": "from where he sits enthroned he looks out on all the inhabitants of the earth,",
+      "arminianNotes": "from where he sits enthroned he looks out on all the inhabitants of the earth, Enthroned sight covers every inhabitant—the same sovereignty that chose a heritage still surveys the whole earth.\n\nArminian pastoral: shared—remember the throne's wide look. Princes and peasants alike live in his view; adjust secret works to that gaze.",
+      "reformedNotes": "Calvin continues the throne vision: from the dwelling-place of his throne he looked on all the inhabitants of the earth. Government is universal; none may treat locality or rank as a blind spot in his rule.\n\nReformed pastoral: shared—enthroned looking leaves no earthling off the map. Plan and repent as those already seen."
+    },
+    {
+      "number": 15,
+      "text": "he who fashions the hearts of them all and observes all their deeds.",
+      "arminianNotes": "he who fashions the hearts of them all and observes all their deeds. Wesley: Fashioneth—…he rules and governs them; yea, even the hearts which are most unmanageable, he disposes and inclines according to the counsel of his will. Alike—equally… Jews or Gentiles, princes or peasants; all are alike subject to his jurisdiction. Their works—outward and inward. Shared heart-sovereignty: Maker of hearts is Observer of deeds.\n\nArminian pastoral: shared—confess the Fashioner who inclines even stubborn hearts under his counsel. Do not claim a heart-chamber God cannot reach; bring inward works to the One who formed them.",
+      "reformedNotes": "Calvin: he fashioned their hearts altogether—without exception—so the wicked cannot hide in caverns from his eyes. Diversity of minds cannot dazzle him from judging his own work. Men cannot by erring devices diminish his authority; he governs by secret providence events that seem chance. Those who trust outward helps despoil God of power.\n\nReformed pastoral: shared—the heart-Maker considers every deed. Drop the fantasy of a hidden self outside his counsel; seek his eye rather than deeper cover."
+    },
+    {
+      "number": 16,
+      "text": "The king is not saved by his great army; a warrior is not delivered by his great strength.",
+      "arminianNotes": "The king is not saved by his great army; a warrior is not delivered by his great strength. Wesley: No king—He instances in these, as the most uncontrollable persons… By an host—But only by God's providence, who disposes of victory and success, as he pleases, and that frequently to the weakest side.\n\nArminian pastoral: shared—strip confidence from army and muscle. Pray for rulers without baptizing their hosts as saviors; salvation is the LORD's.",
+      "reformedNotes": "Calvin: safety of life depends not on one's own strength but on God's favor. Kings and giants, above the common class, persuade themselves beyond darts and easy deliverance; admiration hardens the pride. If neither king nor giant is saved by troops or strength, in vain do mankind neglect providence for human help. Strong and weak are miserable until they rely on God's protection.\n\nReformed pastoral: shared—great army saves no king. Relocate trust from force to favor; teach the mighty their mortality under God."
+    },
+    {
+      "number": 17,
+      "text": "The war horse is a false hope for salvation, and by its great might it cannot rescue.",
+      "arminianNotes": "The war horse is a false hope for salvation, and by its great might it cannot rescue. Wesley: An horse—Though he be strong and fit for battle… Vain things—Heb. a lie; because it promises that help and safety which it cannot give. War gear stands for all warlike provision—and lies.\n\nArminian pastoral: shared—call the war horse what the psalm calls it: false hope. Use means without resting salvation on them; might that cannot rescue must not own your heart.",
+      "reformedNotes": "Calvin: by synecdoche horse means any earthly help. Those who think life well protected by earthly means are commonly disappointed at the crisis; God shows their folly. Kings' swords, horses, and treasures are not vain if rightly used; but most, the more surrounded by defenses, withdraw farther from God—so gifts often pass without effect when severed from the giver.\n\nReformed pastoral: shared—false hope for salvation is still a lie when it is strong. Keep means under the Giver; do not let provisions teach independence from providence."
+    },
+    {
+      "number": 18,
+      "text": "Behold, the eye of the Lord is on those who fear him, on those who hope in his steadfast love,",
+      "arminianNotes": "Behold, the eye of the Lord is on those who fear him, on those who hope in his steadfast love, Wesley: The eye—Whosoever therefore would have safety, must expect it only from the watchful eye, and almighty hand of God. That fear—chief objects of his care and favour. Hope—trust and happiness not in any creature, but only in God and his mercy.\n\nArminian pastoral: shared—fear him and hope in his steadfast love under his eye. Trade horse-confidence for watched mercy; safety is personal care, not anonymous luck.",
+      "reformedNotes": "Calvin: believers, though neither great in power nor wealth, are sufficiently protected by God's favor. The eye bent upon them expresses more than bare hand-power—he keeps watch and ward. Fear and hope in mercy mark true believers; hypocrites boast faith but never tasted goodness so as to look to him. Right worship depends upon his mercy.\n\nReformed pastoral: shared—live as those under his eye. Fear and hope together; refuse both proud self-help and empty fear without trust in hesed."
+    },
+    {
+      "number": 19,
+      "text": "that he may deliver their soul from death and keep them alive in famine.",
+      "arminianNotes": "that he may deliver their soul from death and keep them alive in famine. The watching eye aims at rescue: death and famine do not outrun steadfast love for those who fear and hope.\n\nArminian pastoral: shared—expect deliverance and kept life from him. Hope through scarcity; the eye that watches also feeds and saves.",
+      "reformedNotes": "Calvin: God supports the saints' life in famine and dearth as really as restoring life to the dead. He has remedies to preserve the godly; they must not despond in extremest indigence. He often lets them hunger to satiate them later, and overspreads with death's darkness to restore to life's light. We firmly trust when death presents itself and worldly aids prove vain. Fatherly care is specially vouchsafed to his children.\n\nReformed pastoral: shared—count on deliverance from death and life in famine under his eye. Let empty barns train hope in mercy, not despair."
+    },
+    {
+      "number": 20,
+      "text": "Our soul waits for the Lord; he is our help and our shield.",
+      "arminianNotes": "Our soul waits for the Lord; he is our help and our shield. After false horses comes true help: the church answers doctrine with waiting souls.\n\nArminian pastoral: shared—wait for the LORD as help and shield. Let the soul's patience replace frantic trust in hosts; shielding is his work.",
+      "reformedNotes": "Calvin: what was spoken of providence and guardianship from the Spirit's mouth now becomes the church's song—nothing better than to commit welfare to God. Cast yourselves with confidence and cheerful heart upon paternal care. \"Soul\" expresses earnest affection: we sincerely rely with our whole heart, accounting him shield and help.\n\nReformed pastoral: shared—our soul waits. Join the church's confession; make help and shield more than slogans—earnest reliance."
+    },
+    {
+      "number": 21,
+      "text": "For our heart is glad in him, because we trust in his holy name.",
+      "arminianNotes": "For our heart is glad in him, because we trust in his holy name. Gladness rides on trust: holy name, not holy war-gear, is the reason the heart rejoices.\n\nArminian pastoral: shared—rejoice because you trust his name. Let gladness measure where trust sits; if joy leans on armies, relocate it to the Name.",
+      "reformedNotes": "Calvin: believers glory in joy and hope—or, because hope is fixed on God, he ministers continual matter of joy. Freed from wandering after the world's fascinations, they neither waver at every change of fortune but place felicity in God's free paternal favor. Persevering prayer continues because, satisfied with his favor, they keep cheerfulness amidst sorrows.\n\nReformed pastoral: shared—heart-gladness because of trust in his holy name. Stabilize joy in favor, not in shifting props; let trust fuel praise."
+    },
+    {
+      "number": 22,
+      "text": "Let your steadfast love, O Lord, be upon us, even as we hope in you.",
+      "arminianNotes": "Let your steadfast love, O Lord, be upon us, even as we hope in you. The psalm closes in prayer: hesed asked in the measure of hope—creation, word, and counsel have led to dependent asking.\n\nArminian pastoral: shared—pray steadfast love upon the hoping church. Match petition to trust; do not ask mercy while still hoping in the horse.",
+      "reformedNotes": "Calvin: the psalm concludes with prayer in the name of all the godly—that God would make them feel they have not relied on divine goodness in vain. The gate of grace opens when salvation is sought from no other quarter. Sweet consolation: if hope faint not in the course, we need not fear God will fail to continue mercy to the end.\n\nReformed pastoral: shared—let your steadfast love be upon us as we hope. Keep hope alive to the end; receive continued mercy as the answer to untransferred trust."
+    }
+  ]
+}

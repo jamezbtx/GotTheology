@@ -60,6 +60,26 @@
       "why": "I am the Lord, and there is no other; I form light and create darkness."
     },
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 93,
+      "verseStart": 1,
+      "verseEnd": 5,
+      "title": "Psalm 93:1–5",
+      "href": "/bible/psalms/93/1-5.html",
+      "why": "The Lord reigns; he is robed in majesty—your throne is established from of old."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 2,
+      "verseStart": 1,
+      "verseEnd": 12,
+      "title": "Psalm 2:1–12",
+      "href": "/bible/psalms/2/1-12.html",
+      "why": "Why do the nations rage? The Lord and his Anointed rule from Zion."
+    },
+    {
       "book": "Ephesians",
       "bookSlug": "ephesians",
       "chapter": 1,

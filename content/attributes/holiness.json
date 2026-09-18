@@ -60,6 +60,26 @@
       "why": "Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory."
     },
     {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 12,
+      "verseStart": 18,
+      "verseEnd": 29,
+      "title": "Hebrews 12:18–29",
+      "href": "/bible/hebrews/12/18-29.html",
+      "why": "Our God is a consuming fire—worship with reverence and awe."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 99,
+      "verseStart": 1,
+      "verseEnd": 9,
+      "title": "Psalm 99:1–9",
+      "href": "/bible/psalms/99/1-9.html",
+      "why": "Holy is he—exalt the Lord our God and worship at his holy mountain."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 17,

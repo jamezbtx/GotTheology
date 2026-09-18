@@ -1,0 +1,120 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 27,
+  "verseStart": 1,
+  "verseEnd": 14,
+  "translation": "ESV",
+  "title": "Psalm 27:1–14",
+  "context": "Of David. The psalmist confesses the LORD as his light, salvation, and stronghold so that fear loses its claim; recalls adversaries who stumbled; refuses panic though army and war rise; seeks one thing—to dwell in the LORD's house, gaze on his beauty, and inquire in his temple; trusts shelter, tent, and rock in the day of trouble; looks for his head lifted in praise and song; then cries for grace, answers God's 'Seek my face,' pleads not to be cast off; rests in the LORD who takes him in when father and mother forsake; asks to be taught a level path; begs not to be given up to violent false witnesses; confesses belief that he will look on the LORD's goodness in the land of the living; and exhorts: wait for the LORD; be strong; take courage; wait for the LORD.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the LORD as light and stronghold, desire for God's house, the cry to seek his face, faith that looks on his goodness, and the call to wait with courage—so each camp speaks in its own voice beside Psalm 27:1–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "David declares his confidence in God; his desire to be in the house of God; he prays for light and salvation; and exhorts others to wait upon God. Light—My counsellor in all my difficulties, and my comforter and deliverer in all my distresses. Strength—The supporter and preserver of my life. In this—That God is my light. Dwell—Have opportunity of constant attendance upon God. To behold—That there I may delight myself, in the contemplation of thy amiable and glorious majesty, and of thy infinite wisdom, holiness, justice, truth, and mercy. The secret—In his tabernacle, into which mine enemies cannot come. He alludes to the ancient custom of offenders, who used to flee to the tabernacle or altar. Rock—A place high and inaccessible. Away—From thy face or presence, or from the place of thy worship. Because of—That I may neither fall into their hands by my folly, nor give them any occasion of triumphing over me. The living—David was thus earnestly desirous of this mercy in this life, not because he placed his portion in these things; but because the truth and glory of God were highly concerned in making good the promise of the kingdom to him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 27"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Perceiving the conflict he had to wage with sharpest temptations, he fortifies himself beforehand and brings together matter for confidence. He calls God not only his light, but his salvation, and the strength of his life—a threefold shield against various fears. Weighing the whole power of earth and hell, he accounts it lighter than a feather, and considers God alone as far outweighing the whole. One thing have I desired: under the word one is an antithesis—disregarding all other interests, he displays intense affection for the service of God; exile from the sanctuary was bitterer than denial of his own house. He shall hide me: wherever he may be, he shall experience God's protecting power; measure not God's aid by outward appearances. My heart said: no one can believingly rise to seek God until the way is first opened by God's invitation; as soon as we hear God presenting himself, let us cordially reply, Amen. Unless I had believed: he was supported solely by faith, otherwise he had perished; from the darkness of death he promises himself a view of the divine favor. Wait thou on Jehovah: he applies it to himself the more to encourage confidence, lest his heart should faint. Had he said only Act like a man, he would have appeared to allege free-will; but he adds that God would strengthen his heart—the saints fight in the strength of another. He does not put his own efforts into the van and afterwards supplicate aid, but requests that his deficiency may be supplied by the grace of the Holy Spirit.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 27"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?",
+      "arminianNotes": "The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life. Wesley: Light—My counsellor in all my difficulties, and my comforter and deliverer in all my distresses. Strength—The supporter and preserver of my life. Confidence names God himself as light, salvation, and stronghold before fear is answered.\n\nArminian pastoral: shared piety—fear is met by who the LORD is, not by denial that dangers are real. Keep God as counsellor and comforter in view; then \"whom shall I fear?\" is lived trust, not bravado.",
+      "reformedNotes": "Calvin: perceiving sharp temptations, David fortifies himself beforehand and brings together matter for confidence. He calls God light, salvation, and strength of life—a threefold shield. Weighing earth and hell as lighter than a feather, he considers God alone as far outweighing the whole. Due homage trusts promised aid and dares to boast of safety in him.\n\nReformed pastoral: shared—the LORD is light and stronghold. Faith recovers courage from the high tower of confidence; the interrogation shows how highly the divine protection is esteemed. Put such a value on God's power as to put flight to fear.",
+      "keyContrast": "Both rest fearlessness in the LORD himself as light, salvation, and strength—not in self-made nerve. Arminians typically hear Wesley's experiential names: God as counsellor, comforter, deliverer, and life-preserver for the believer who walks with him. Reformed readers typically hear Calvin's accent: the saints must wrestle doubts the flesh cherishes, fortify confidence from God's mercy already known, and weigh every creature light beside him."
+    },
+    {
+      "number": 2,
+      "text": "When evildoers assail me to eat up my flesh, my adversaries and foes, it is they who stumble and fall.",
+      "arminianNotes": "When evildoers assail me to eat up my flesh, my adversaries and foes, it is they who stumble and fall. Past deliverance becomes present courage: savage assault ended in their fall, not his.\n\nArminian pastoral: shared—remember how God has already overturned devouring foes. Testimony of stumble and fall feeds the confidence of v. 1. Do not erase the cruelty named; celebrate the LORD who made predators fall.",
+      "reformedNotes": "Calvin: retain the past tense—David recalls triumphs obtained by God's help and from them concludes he need not doubt assistance. Nothing confirms faith more than remembrance of instances where God proved grace, truth, and power. He calls them wicked to testify innocence; \"eat up my flesh\" marks savage cruelty.\n\nReformed pastoral: shared—former mercies are fuel for present trust. Connect remembered falls of enemies with the fearlessness that follows. Experience of help is not nostalgia; it is argument for hope."
+    },
+    {
+      "number": 3,
+      "text": "Though an army encamp against me, my heart shall not fear; though war arise against me, yet I will be confident.",
+      "arminianNotes": "Though an army encamp against me, my heart shall not fear; though war arise against me, yet I will be confident. Wesley: In this—That God is my light. The ground of courage is not the size of the host but the identity of the light.\n\nArminian pastoral: shared—confidence holds when war rises because God remains light. Army and war name worst-case threat; the heart answers with trust, not numbness. Keep \"in this\" pointed at God, not at odds of battle.",
+      "reformedNotes": "Calvin: from former experience he infers that whatever adversity befalls, he ought to hope well. Camps and armies include whatever is most formidable; though all conspire for destruction, he disregards their violence because God's power on his side is far above theirs. \"My heart shall not fear\" does not mean total absence of fear—that would be insensibility—but that faith's shield keeps the heart from fainting.\n\nReformed pastoral: shared—courage under siege is faith opposing terror, not stoic blankness. When the trial comes, faith proves invincible because it relies on God's power."
+    },
+    {
+      "number": 4,
+      "text": "One thing have I asked of the LORD, that will I seek after: that I may dwell in the house of the LORD all the days of my life, to gaze upon the beauty of the LORD and to inquire in his temple.",
+      "arminianNotes": "One thing have I asked of the LORD, that will I seek after: to dwell in his house, gaze on his beauty, inquire in his temple. Wesley: Dwell—Have opportunity of constant attendance upon God. To behold—That there I may delight myself in the contemplation of thy amiable and glorious majesty, and of thy infinite wisdom, holiness, justice, truth, and mercy.\n\nArminian pastoral: shared—the one desire is God's presence and worship, not mere scenery. Seek constant attendance; delight in who he is. Beauty here is the LORD's amiable majesty known in his house.",
+      "reformedNotes": "Calvin: under \"one\" is an antithesis—disregarding all other interests, intense affection for God's service; exile from the sanctuary was bitterer than loss of house, wife, or substance. Not a gross wish to enclose God in wood and stone: temple beauty is the celestial pattern shown to Moses. Word, sacraments, public prayers still draw the faithful; they cannot be neglected without wicked contempt of God.\n\nReformed pastoral: shared—prefer God's house to every recovery of earthly loss. Gaze and inquire aim at God himself in his appointed helps, not at empty ornament."
+    },
+    {
+      "number": 5,
+      "text": "For he will hide me in his shelter in the day of trouble; he will conceal me under the cover of his tent; he will lift me high upon a rock.",
+      "arminianNotes": "For he will hide me in his shelter in the day of trouble; conceal me under the cover of his tent; lift me high upon a rock. Wesley: The secret—In his tabernacle, into which mine enemies cannot come; alluding to offenders who fled to tabernacle or altar. Rock—A place high and inaccessible.\n\nArminian pastoral: shared—shelter, tent, and rock name real refuge in trouble. Flee to God's covering, not to self-made hideouts. Height on the rock is safety granted, not climbing skill.",
+      "reformedNotes": "Calvin: though deprived of the visible sanctuary for a time, wherever he is he shall experience protecting power. The temple figure means God spreads wings to gather true believers; every sincere seeker is safely concealed. Under the figure of a rock, protection is impregnable. Do not measure God's aid by outward appearances; in the midst of death hope for deliverance from his hand.\n\nReformed pastoral: shared—day of trouble drives the soul under God's tent. Faith reads symbols of presence as promise of cover, and stands on the rock God sets."
+    },
+    {
+      "number": 6,
+      "text": "And now my head shall be lifted up above my enemies all around me, and I will offer in his tent sacrifices with shouts of joy; I will sing and make melody to the LORD.",
+      "arminianNotes": "And now my head shall be lifted up above my enemies all around me; sacrifices with shouts of joy; song and melody to the LORD. Deliverance aims at worship: lifted head becomes loud thanks in his tent.\n\nArminian pastoral: shared—joy-sacrifices and melody answer shelter received. Do not stop at escape; enter the tent to sing. Public praise fits private rescue.",
+      "reformedNotes": "Calvin: by a solemn vow of thanksgiving he confirms hope of deliverance. Though in banishment and barred from the temple, he boasts he will again come to God's altar. He sets holy rejoicing over against the profane triumphings of the world.\n\nReformed pastoral: shared—lifted head ends in offered joy and song. Vow praise before the siege fully lifts; gratitude is part of confidence, not an afterthought."
+    },
+    {
+      "number": 7,
+      "text": "Hear, O LORD, when I cry aloud; be gracious to me and answer me!",
+      "arminianNotes": "Hear, O LORD, when I cry aloud; be gracious to me and answer me! Confidence (vv. 1–6) turns to petition without shame. Cry and grace belong together.\n\nArminian pastoral: shared—bold trust still asks to be heard. Aloud crying is earnest need, not unbelief. Seek gracious answer from the God already named light and salvation.",
+      "reformedNotes": "Calvin: he returns to prayer and shows with what armor he broke through temptations. By \"cry\" he expresses vehemence to move God the sooner to help. The more the faithful are oppressed, the more their need induces God to extend favor.\n\nReformed pastoral: shared—prayer is the armor of confidence under fire. Vehemence in crying is piety, not panic alone; ask mercy and answer from the God who has already been help."
+    },
+    {
+      "number": 8,
+      "text": "You have said, \"Seek my face.\" My heart says to you, \"Your face, LORD, do I seek.\"",
+      "arminianNotes": "You have said, \"Seek my face.\" My heart says to you, \"Your face, LORD, do I seek.\" God's command opens the seeking; the heart echoes with resolve. Shared piety—invitation first, response second.\n\nArminian pastoral: answer the call to seek his face with a willing heart. Do not invent a path into favor; take the command as enough encouragement to come. Face-seeking is obedience joined to desire.",
+      "reformedNotes": "Calvin: no one can believingly rise to seek God until the way is first opened by God's invitation. David brings forward the promise and responds as it were to God; as soon as we hear God presenting himself, let us cordially reply, Amen. \"Face\" alludes to the sanctuary mode of manifestation—helps by which God raises us to his presence in Word and sacraments.\n\nReformed pastoral: shared—God's \"Seek\" creates the chorus of the heart's \"I seek.\" Fix eyes on his appointed view of himself; do not reshape God by private fancy."
+    },
+    {
+      "number": 9,
+      "text": "Hide not your face from me. Turn not your servant away in anger, O you who have been my help. Cast me not off; forsake me not, O God of my salvation!",
+      "arminianNotes": "Hide not your face from me. Turn not your servant away in anger; cast me not off; forsake me not, O God of my salvation! Wesley: Away—From thy face or presence, or from the place of thy worship. The seeker of v. 8 dreads lost presence and angry dismissal.\n\nArminian pastoral: shared—plead to keep the face you seek. Anger and casting off are real fears before a holy God; salvation's God is asked not to forsake. Former help (\"you who have been my help\") emboldens the plea.",
+      "reformedNotes": "Calvin: \"face\" now means sensible effects of grace—make me truly experience that you have been near. \"Cast not away in anger\" imports a tacit confession of sin; though God might justly cast him off, he deprecates anger. Recalling former favors, he encourages hope and moves God not to leave his work imperfect.\n\nReformed pastoral: shared—hide-not and forsake-not are prayers of dependents, not claimants of desert. Past help argues for continued salvation, while anger is humbly deprecated."
+    },
+    {
+      "number": 10,
+      "text": "For my father and my mother have forsaken me, but the LORD will take me in.",
+      "arminianNotes": "For my father and my mother have forsaken me, but the LORD will take me in. Human bonds may fail; the LORD's welcome does not. Shared piety—God outdoes the strongest earthly care.\n\nArminian pastoral: when nearest kin cannot or will not hold you, trust the LORD who takes in. This is comfort for the abandoned, not license to despise parents. God's taking-in is the surer home.",
+      "reformedNotes": "Calvin: David does not charge unnatural betrayal by Jesse; by comparison he magnifies grace—God remains ready though all men forsake. Parental love is the highest among humans, yet God advances higher (Isaiah 49:15). Sooner shall nature's laws be overturned than God fail his people.\n\nReformed pastoral: shared—faith must rise above nature's affections. The LORD as father and mother to his people steadies those forsaken by the best earthly loves."
+    },
+    {
+      "number": 11,
+      "text": "Teach me your way, O LORD, and lead me on a level path because of my enemies.",
+      "arminianNotes": "Teach me your way, O LORD, and lead me on a level path because of my enemies. Wesley: Because of—That I may neither fall into their hands by my folly, nor give them any occasion of triumphing over me. Guidance is asked both for safety and for witness.\n\nArminian pastoral: shared—pray to be taught and led, not only rescued. Folly can hand you to foes; ask a level path that starves their triumph. Willing to be taught is part of waiting on God.",
+      "reformedNotes": "Calvin: simpler sense—that God would extend his hand and safely conduct him to a happy issue, setting the right path against rough impediments. Whoever commits to God's safeguard must renounce crafty devices; God blesses the single in heart who trust his faithfulness, not crooked counsels.\n\nReformed pastoral: shared—level path is God's leading against adversary pressure. Refuse cunning shortcuts; ask to be conducted in the right way."
+    },
+    {
+      "number": 12,
+      "text": "Give me not up to the will of my adversaries; for false witnesses have risen against me, and they breathe out violence.",
+      "arminianNotes": "Give me not up to the will of my adversaries; for false witnesses have risen against me, and they breathe out violence. Slander and cruelty press together; the plea is not to be handed over to their desire.\n\nArminian pastoral: shared—ask God to withhold you from the adversary's will. False witness and breathed violence are real; integrity alone does not silence them. Pray deliverance while you walk the level path of v. 11.",
+      "reformedNotes": "Calvin: deliver me not to their lust; they greedily gaped for his destruction. God delivers by appeasing cruelty or by restraining power when fury burns. David was oppressed by slanders and by open violence; even singular integrity could not free him from deadly calumnies. Remember Christ suffered from lying tongues as from violence.\n\nReformed pastoral: shared—this prayer comforts: God can maintain innocence and shield against cruelty. When lies and force rise together, plead not to be given up to their will."
+    },
+    {
+      "number": 13,
+      "text": "I believe that I shall look upon the goodness of the LORD in the land of the living!",
+      "arminianNotes": "I believe that I shall look upon the goodness of the LORD in the land of the living! Wesley: The living—David was earnestly desirous of this mercy in this life, not because he placed his portion in these things, but because the truth and glory of God were highly concerned in making good the promise of the kingdom to him.\n\nArminian pastoral: shared—faith expects to see goodness, not only after death but in God's faithful dealing among the living. Belief holds when sight is dim. Desire mercy here because God's truth is at stake in his promises.",
+      "reformedNotes": "Calvin: incomplete sentence in Hebrew—supported solely by faith, otherwise he had perished. Land of the living is present life, not forced into the heavenly inheritance alone. From darkness of death he promises himself a view of divine favor. He dared this by special assurance tied to the kingdom promise; generally we hope that though God may not openly show favor, he will still be merciful in the present life.\n\nReformed pastoral: shared—belief that looks on goodness keeps the soul from fainting. Faith, not visible recovery, is the remedy; hope in God's mercy now without overleaping the boundaries of what he has promised.",
+      "keyContrast": "Both refuse despair by clinging to God's goodness to be seen among the living. Arminians typically stress Wesley's point: desire for mercy in this life because God's truth and glory are bound up with making good his promise. Reformed readers typically stress Calvin's point: without believing, he would have utterly perished—faith alone sustained him when favor was invisible, with hope measured by God's promise rather than by sight."
+    },
+    {
+      "number": 14,
+      "text": "Wait for the LORD; be strong, and let your heart take courage; wait for the LORD!",
+      "arminianNotes": "Wait for the LORD; be strong, and let your heart take courage; wait for the LORD! Wesley's outline closes: he exhorts others to wait upon God. Strength and courage are joined to waiting, not to restless self-rescue; the doubled \"wait\" braces a fainting heart.\n\nArminian pastoral: shared—waiting is active trust, not idle delay. Be strong and take courage while you wait; encourage others by the same call. Repeat the wait when fear returns.",
+      "reformedNotes": "Calvin: likely addressed to himself to encourage confidence lest his heart faint. Waiting is for when God hides or delays help. He stirs himself: if fearfulness steal upon thee, rise by invincible resolution. Had he said only \"Act like a man,\" he would have alleged free-will; he adds that God would strengthen his heart—saints fight in another's strength. He does not put efforts in the van then ask aid; he requests the Spirit to supply his deficiency, and repeats Wait on Jehovah.\n\nReformed pastoral: shared—courage in waiting is patience that commits the soul quietly to God. Strength to wait is asked from God, not mustered as the price of his help.",
+      "keyContrast": "Both call for strong, courageous waiting on the LORD when help is delayed. Arminians typically hear Wesley's closing movement: confidence and prayer ripen into exhortation to wait upon God, strength and courage kept in that posture of trust. Reformed readers typically hear Calvin's correction: waiting is not a free-will charge leading the way, then divine aid; God must strengthen the heart, and the Spirit supplies what the saint lacks."
+    }
+  ]
+}

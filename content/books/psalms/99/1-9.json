@@ -1,0 +1,87 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 99,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 99:1–9",
+  "context": "The Lord reigns—let peoples tremble; he sits enthroned upon the cherubim—let the earth quake. The Lord is great in Zion, exalted over all peoples; let them praise his great and awesome name—he is holy. The King in his might loves justice; he has established equity and executed justice and righteousness in Jacob. Exalt the Lord our God; worship at his footstool—he is holy. Moses and Aaron were among his priests, Samuel among those who called on his name; they called, and he answered. He spoke in the pillar of cloud; they kept his testimonies and the statute he gave. O Lord our God, you answered them; you were a forgiving God to them, yet an avenger of their wrongdoings. Exalt the Lord our God; worship at his holy mountain—for the Lord our God is holy.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the reigning Lord enthroned on the cherubim, a holy and awesome name, a King who loves justice in Jacob, worship at his footstool, Moses, Aaron, and Samuel answered, forgiveness joined to vengeance on inventions, and a thrice-holy close—so each camp speaks in its own voice beside Psalm 99:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "People—enemies of God and his people. Sitteth—upon the ark; present with his people. Earth—peoples of the earth; Moved—with fear. Them—all people. Judgment—though dominion absolute and power irresistible, he manages it with righteousness. King's strength—by Hebraism the strong king. Equity—in all proceedings. Footstool—before the ark (1 Chr 28:2). Holy—consecrated pledge of God's presence. Moses—executed priestly work before the formal priesthood (Exod 24:6). That call—who solemnly interceded for the people. Spake—to Moses and Aaron (Exod 19:24; 33:9–11) and to Samuel. Them—the intercessors. Forgavest—the people for whom they prayed, so far as not to destroy them utterly as they deserved.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 99"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Jehovah reigns; let the peoples tremble; he sits between the cherubim; let the earth be moved. Jehovah is great in Zion, high above all peoples. They shall praise thy great and terrible name—it is holy. The king's strength loves judgment; thou hast established equity; thou hast done judgment and righteousness in Jacob. Exalt Jehovah our God; worship at his footstool—he is holy. Moses and Aaron among his priests, Samuel among those who call on his name; they called, and he answered. He spoke to them in the cloudy pillar; they kept his testimonies and the statute he gave. Jehovah our God, thou answeredst them; thou wast a God who forgavest them, though taking vengeance on their inventions. Exalt Jehovah our God; worship at his holy hill—for Jehovah our God is holy. Holiness thrice marked; absolute power yoked to equity; answered intercession with pardon that still disciplines.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 99"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The Lord reigns; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!",
+      "arminianNotes": "The Lord reigns; peoples tremble; enthroned upon the cherubim; earth quake. Wesley: People—enemies; Sitteth—on the ark, present with his people; Earth—peoples; Moved—with fear. Shared: reign; cherubim throne; tremble/quake.\n\nArminian pastoral: presence at the ark is real. Trembling is fitting before enthroned holiness.",
+      "reformedNotes": "Calvin: Jehovah reigns; peoples tremble; he dwells between the cherubim; earth moved—reign produces holy agitation, not casual familiarity.\n\nReformed pastoral: shared—reigns; cherubim; tremble/quake. Majesty shakes nations and ground alike."
+    },
+    {
+      "number": 2,
+      "text": "The Lord is great in Zion; he is exalted over all the peoples.",
+      "arminianNotes": "The Lord is great in Zion; exalted over all the peoples. Shared: Zion greatness; exaltation over peoples.\n\nArminian pastoral: local Zion, global height. Greatness in the church does not shrink worldwide supremacy.",
+      "reformedNotes": "Calvin: Jehovah great in Zion; high above all peoples—Zion's God is not a tribal mascot.\n\nReformed pastoral: shared—great in Zion; exalted over peoples. Particular dwelling, universal highness."
+    },
+    {
+      "number": 3,
+      "text": "Let them praise your great and awesome name! Holy is he!",
+      "arminianNotes": "Let them praise your great and awesome name! Holy is he! Wesley: Them—all people. Shared: great/terrible name; holy is he.\n\nArminian pastoral: first holiness refrain. Awesome does not cancel praise—it deepens it.",
+      "reformedNotes": "Calvin: they shall praise thy great and terrible name; it is holy—name and holiness bound.\n\nReformed pastoral: shared—great and awesome name; holy is he. Doxology starts with who he is."
+    },
+    {
+      "number": 4,
+      "text": "The King in his might loves justice. You have established equity; you have executed justice and righteousness in Jacob.",
+      "arminianNotes": "The King in his might loves justice; established equity; executed justice and righteousness in Jacob. Wesley: Judgment—absolute dominion managed in righteousness; King's strength—the strong king; Equity—in all proceedings. Shared: might loves justice; equity; Jacob's just rule.\n\nArminian pastoral: power without equity is not this King. Jacob experienced righteous administration—imitate it.",
+      "reformedNotes": "Calvin: the king's strength loves judgment; thou established equity; executed judgment and righteousness in Jacob—irresistible might married to right.\n\nReformed pastoral: shared—might loves justice; equity; righteousness in Jacob. Throne ethics for the covenant people."
+    },
+    {
+      "number": 5,
+      "text": "Exalt the Lord our God; worship at his footstool! Holy is he!",
+      "arminianNotes": "Exalt the Lord our God; worship at his footstool! Holy is he! Wesley: Footstool—before the ark; Holy—pledge of presence. Shared: exalt; footstool worship; second holy refrain.\n\nArminian pastoral: footstool is low place for high God. Holiness again—do not rush past the refrain.",
+      "reformedNotes": "Calvin: exalt Jehovah our God; worship at his footstool; he is holy—bowed approach at the ark's pledge.\n\nReformed pastoral: shared—exalt; footstool; holy is he. Low worship matches holy height."
+    },
+    {
+      "number": 6,
+      "text": "Moses and Aaron were among his priests, Samuel also was among those who called upon his name. They called to the Lord, and he answered them.",
+      "arminianNotes": "Moses and Aaron among his priests; Samuel among those who called on his name; they called, and he answered. Wesley: Moses—priestly work before formal priesthood; That call—solemn intercessors. Shared: priestly callers; answered prayer.\n\nArminian pastoral: history of answered intercession. Call as they called—expect the God who answers.",
+      "reformedNotes": "Calvin: Moses and Aaron among his priests, Samuel among callers on his name; they called, and he answered—precedents of prevailing prayer.\n\nReformed pastoral: shared—priests; callers; he answered. Memory of answer fuels present asking."
+    },
+    {
+      "number": 7,
+      "text": "In the pillar of the cloud he spoke to them; they kept his testimonies and the statute that he gave them.",
+      "arminianNotes": "In the pillar of the cloud he spoke; they kept his testimonies and the statute he gave. Wesley: Spake—to Moses, Aaron, Samuel. Shared: cloudy speech; kept testimonies and statute.\n\nArminian pastoral: revelation and obedience pair. Keeping statute is how answered people live.",
+      "reformedNotes": "Calvin: he spoke in the cloudy pillar; they kept testimonies and the statute he gave—word received and guarded.\n\nReformed pastoral: shared—spoke in cloud; kept testimonies and statute. Hearing without keeping is not the pattern."
+    },
+    {
+      "number": 8,
+      "text": "O Lord our God, you answered them; you were a forgiving God to them, but an avenger of their wrongdoings.",
+      "arminianNotes": "You answered them; a forgiving God to them, yet an avenger of their wrongdoings. Wesley: Them—intercessors; Forgavest—the people, sparing total destruction they deserved. Shared: answer; forgive; still avenge inventions/wrongdoings.\n\nArminian pastoral: pardon is real; discipline is real. Do not flatten holiness into cheap leniency or into refusal to forgive.",
+      "reformedNotes": "Calvin: thou answeredst them; wast a God who forgavest them, though taking vengeance on their inventions—mercy to the people through intercession, yet not without chastening their corrupt ways.\n\nReformed pastoral: shared—answered; forgiving; avenger of wrongdoings. Forgiveness and holy vengeance are not enemies in God."
+    },
+    {
+      "number": 9,
+      "text": "Exalt the Lord our God, and worship at his holy mountain; for the Lord our God is holy!",
+      "arminianNotes": "Exalt the Lord our God; worship at his holy mountain; for the Lord our God is holy! Shared close: exalt; holy mountain; third holiness refrain.\n\nArminian pastoral: mountain worship ends where footstool began—exaltation. Holy closes the circle thrice.",
+      "reformedNotes": "Calvin: exalt Jehovah our God; worship at his holy hill—for Jehovah our God is holy. Final holiness seals the reigning name.\n\nReformed pastoral: shared—exalt; holy mountain; our God is holy. Thrice-holy psalm ends in worship, not speculation."
+    }
+  ]
+}

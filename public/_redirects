@@ -27,6 +27,10 @@
 /daniel/*          /bible/daniel/:splat      301
 /isaiah            /bible/isaiah/            301
 /isaiah/*          /bible/isaiah/:splat      301
+/hebrews           /bible/hebrews/           301
+/hebrews/*         /bible/hebrews/:splat     301
+/psalms            /bible/psalms/            301
+/psalms/*          /bible/psalms/:splat      301
 
 # Doctrine / attribute aliases
 /doctrine           /doctrines/           301

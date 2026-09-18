@@ -1,0 +1,105 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 76,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 76:1–12",
+  "context": "Of Asaph. A song. God is known in Judah and his name is great in Israel; his abode is in Salem, his dwelling in Zion. There he broke the weapons of war; he is more majestic than the mountains of prey; stouthearted warriors sank into sleep at his rebuke. He alone is to be feared; from heaven he uttered judgment to save the humble. The wrath of man shall praise him; vows are to be paid and gifts brought to the One who cuts off the spirit of princes and is feared by the kings of the earth.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God known in Judah, Zion as his dwelling, broken weapons, the fear of the LORD, wrath turned to praise, and vows paid to the One terrible to princes—so each camp speaks in its own voice beside Psalm 76:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Salem—In Jerusalem, which was anciently called Salem. Zion—Largely so called, as it includes Moriah. There—At Jerusalem. Sword—Both offensive and defensive weapons. Battle—All the power of the army. Mountains of prey—The greatest kings and empires, established by tyranny and maintained by preying. Sleep—Even a perpetual sleep. Chariot—The men who rode upon and fought from chariots and horses. Thou—Didst execute judgment upon thine enemies, by an angel from heaven. Feared—The rest of the world were afraid to disturb Israel. Surely—The furious attempts of thine enemies shall cause thy people and others to praise thee for thy wisdom, power, and faithfulness. Vow—A sacrifice of thanksgiving for this wonderful deliverance. Let all—All the neighboring nations submit to the God of Israel. Cut off—As men do their grapes in vintage. The spirit—Their breath and life, as he did in the Assyrian army.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 76"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It was not by human means that the enemies of Israel were compelled to retire, but by the ever-to-be-remembered aid of Jehovah. His glory was conspicuously displayed when they were discomfited by miraculous interposition. His tabernacle was in Salem: he delivered Jerusalem because he had chosen a dwelling-place there; men had no ground to arrogate any share in the deliverance. Under these figures is described the destruction of the Church's enemies—arrows, swords, and shields broken. God is more glorious and terrible than the mountains of prey—kingdoms of violence and extortion. The stout-hearted were spoiled; men of might found not their hands; chariot and horse cast into deep sleep at his rebuke. Thou alone art terrible; as soon as he begins to be angry, ruin is near the wicked—yet this terror sweetly draws true believers to God. From heaven he made judgment heard; the earth was still. The wrath of man shall praise thee; the remainder thou wilt restrain. Vow and pay; bring presents to him who is worthy to be feared. He cuts off the spirit of princes—takes understanding from tyrants; he is terrible to the kings of the earth.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 76"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "In Judah God is known; his name is great in Israel.",
+      "arminianNotes": "In Judah God is known; his name is great in Israel. The opening announces public knowledge of God by deliverance, not private speculation. Shared: both camps hear Zion's God made known by saving power.\n\nArminian pastoral: Wesley's later lemmas locate the scene at Jerusalem and the broken army; the name is great because the LORD acted. Celebrate the known God—do not treat \"known\" as thin rumor.",
+      "reformedNotes": "Calvin: not by human means were Israel's enemies compelled to retire, but by Jehovah's aid. Knowledge of God and greatness of his name came because he stretched forth his hand extraordinarily, showing the chosen people and city under his defense.\n\nReformed pastoral: shared—glory displayed in miraculous interposition. The Church is under his protection; fame of his name is the fruit of his defense, not of Israel's strength."
+    },
+    {
+      "number": 2,
+      "text": "His abode has been established in Salem, his dwelling place in Zion.",
+      "arminianNotes": "His abode has been established in Salem, his dwelling place in Zion. Wesley: Salem—Jerusalem, anciently called Salem; Zion largely so called, including Moriah. Shared geography of presence: God dwells where he is named.\n\nArminian pastoral: the tabernacle/dwelling language invites trust in the God who places his name. Historic Zion, not a newspaper capital fight.",
+      "reformedNotes": "Calvin: reason for deliverance—he had chosen a dwelling-place where his name was called upon. Men must not arrogate the glory; he opposed enemies from free choice of the Jewish nation. His power is invincible for preserving his Church; the faithful may repose under his shadow.\n\nReformed pastoral: shared—Salem/Zion is his chosen seat. Though the visible tabernacle is gone, by Christ he still dwells in the midst of us; exposed to danger, under his protection we are safe."
+    },
+    {
+      "number": 3,
+      "text": "There he broke the flashing arrows, the shield, the sword, and the weapons of war. Selah",
+      "arminianNotes": "There he broke the flashing arrows, the shield, the sword, and the weapons of war. Wesley: There—at Jerusalem; sword—offensive and defensive weapons; battle—all the power of the army. Shared: God disarms the assault at Zion.\n\nArminian pastoral: the Selah invites pause over broken weapons. Deliverance is the LORD's work in the place of his dwelling.",
+      "reformedNotes": "Calvin: God was known in Judah by wonderful proofs of power in preserving the city. Under these figures the enemies are destroyed—arrows, swords, shields broken; they are deprived of power to harm. Metonymy: what befell them is spoken of their weapons.\n\nReformed pastoral: shared—impious enemies of the Church lose capacity to do harm. The faithful read broken arms as God's visible defense of Zion."
+    },
+    {
+      "number": 4,
+      "text": "Glorious are you, more majestic than the mountains full of prey.",
+      "arminianNotes": "Glorious are you, more majestic than the mountains full of prey. Wesley: Thou—O God; mountains of prey—greatest kings and empires, established by tyranny and maintained by preying. Shared: God outranks predatory kingdoms.\n\nArminian pastoral: praise the majesty that exceeds every mountain of violence. Do not fear the empires of prey more than the God of Zion.",
+      "reformedNotes": "Calvin: mountains of prey mean kingdoms of violence and extortion—great kings compared to savage beasts living on prey. Enemies made furious assaults on Jerusalem; God greatly surpassed them all in power, that the faithful might not be overwhelmed with terror.\n\nReformed pastoral: shared—God is more terrible than predatory powers. Comfort under assault: his glory exceeds the mountains that live by plunder."
+    },
+    {
+      "number": 5,
+      "text": "The stouthearted were stripped of their spoil; they sank into sleep; all the men of war were unable to use their hands.",
+      "arminianNotes": "The stouthearted were stripped of their spoil; they sank into sleep; all the men of war were unable to use their hands. Wesley: Sleep—even a perpetual sleep. Shared: courage and hands fail before God.\n\nArminian pastoral: the sleep is death-sleep for the invading host. Hear Assyria-type judgment without turning the psalm into a modern scorecard.",
+      "reformedNotes": "Calvin: stout-hearted were spoiled—deprived of wisdom and courage; men of might have not found their hands—as if maimed. They slept their sleep: active hearts failed into listlessness. All gifts and power men seem to possess are in God's hand; he can at any instant deprive them of wisdom and strength.\n\nReformed pastoral: shared—heroic courage boasted of is overthrown by God. Magnifying the enemy's former power leads the faithful to extol the LORD's working."
+    },
+    {
+      "number": 6,
+      "text": "At your rebuke, O God of Jacob, both rider and horse lay stunned.",
+      "arminianNotes": "At your rebuke, O God of Jacob, both rider and horse lay stunned. Wesley: Chariot—the men who rode upon and fought from chariots and horses. Shared: one rebuke ends chariot warfare.\n\nArminian pastoral: God of Jacob—covenant name over military noise. The stunned rider is the LORD's nod, not Israel's tactics.",
+      "reformedNotes": "Calvin: chariot and horse cast into deep sleep at God's rebuke—whatever activity characterized the enemies was rendered powerless by the mere nod of God. Rest content with God's favor alone; he needs no great armies to repel the world's assaults.\n\nReformed pastoral: shared—rebuke alone stuns horse and rider. Faith may be deprived of created helps and still account God's favor all-sufficient."
+    },
+    {
+      "number": 7,
+      "text": "But you, you are to be feared! Who can stand before you when once your anger is roused?",
+      "arminianNotes": "But you, you are to be feared! Who can stand before you when once your anger is roused? Shared piety of holy fear: none stand when his anger rises.\n\nArminian pastoral: Wesley has no extra lemma here; the plain sense holds—fear the LORD whose anger no warrior can face. Let fear draw to worship, not to despair of mercy for the humble (v. 9).",
+      "reformedNotes": "Calvin: repetition of Thou excludes all others—whatever power is in the world vanishes when he manifests himself; he alone is terrible. The wicked cannot abide his look; when he begins to be angry, ruin is near. Wait for the time of wrath. This terror is denounced against the wicked in such a manner as sweetly draws all true believers to God.\n\nReformed pastoral: shared—God alone is to be feared. Terror for the wicked; sweet drawing for believers."
+    },
+    {
+      "number": 8,
+      "text": "From the heavens you uttered judgment; the earth feared and was still,",
+      "arminianNotes": "From the heavens you uttered judgment; the earth feared and was still. Wesley: Thou—didst execute judgment by an angel from heaven; heard with thunders or fame spread abroad. Feared—the rest of the world were afraid to disturb Israel. Shared: judgment from heaven stills the earth.\n\nArminian pastoral: heaven's verdict is public; the earth hush is real. Historic deliverance, not form-critical theater.",
+      "reformedNotes": "Calvin: \"heaven\" means the judgment was too manifest to ascribe to fortune or human policy. Sometimes judgments seem to proceed from earth; this assistance was extraordinary. Hearing judgment is louder than mere seeing—thunder that strikes fear. The earth still: the ungodly, panic-struck, yield and dare no longer rage; fear causes the stillness.\n\nReformed pastoral: shared—judgment from heaven, earth still. Do not credit chance or politics for Zion's rescue."
+    },
+    {
+      "number": 9,
+      "text": "when God arose to establish judgment, to save all the humble of the earth. Selah",
+      "arminianNotes": "when God arose to establish judgment, to save all the humble of the earth. Shared: judgment rises to save the meek/humble. Selah.\n\nArminian pastoral: Wesley has no extra lemma; the aim of arising is salvation of the humble. Fear (v. 7–8) and mercy to the meek stand together.",
+      "reformedNotes": "Calvin: God arose to judgment to save all the meek of the earth. The stillness and fear serve deliverance of the humble, not bare spectacle.\n\nReformed pastoral: shared—judgment and salvation of the humble are one motion. The Church's meek are the ones he rises to save."
+    },
+    {
+      "number": 10,
+      "text": "Surely the wrath of man shall praise you; the remnant of wrath you will put on like a belt.",
+      "arminianNotes": "Surely the wrath of man shall praise you; the remnant of wrath you will put on like a belt. Wesley: Surely—furious attempts of enemies shall cause thy people and others to praise thee for wisdom, power, and faithfulness. Shared: human wrath ends in God's praise; remainder restrained/belted.\n\nArminian pastoral: enemy rage becomes material for thanksgiving. Faithfulness is praised when wrath is overruled.",
+      "reformedNotes": "Calvin: the wrath of men shall praise thee; the remainder of wrath thou wilt restrain. Human fury is bounded so that it serves God's praise and cannot finish its design against the Church.\n\nReformed pastoral: shared—wrath of man is not ultimate; God restrains the remnant. Praise rises from overruled rage, not from celebrating violence."
+    },
+    {
+      "number": 11,
+      "text": "Make your vows to the LORD your God and perform them; let all around him bring gifts to him who is to be feared,",
+      "arminianNotes": "Make your vows to the LORD your God and perform them; let all around him bring gifts to him who is to be feared. Wesley: Vow—sacrifice of thanksgiving for wonderful deliverance; Let all—neighboring nations submit to the God of Israel. Shared: pay vows; bring gifts to the feared One.\n\nArminian pastoral: thanksgiving must be performed, not only promised. Surrounding peoples are summoned to honor Israel's God.",
+      "reformedNotes": "Calvin: Vow and pay to Jehovah your God; let those round about bring presents to him who is worthy to be feared. Gratitude answers deliverance; the nations bring tribute to the terrible One.\n\nReformed pastoral: shared—vows paid, gifts brought. Fear of the LORD issues in worship and submission, not empty dread."
+    },
+    {
+      "number": 12,
+      "text": "who cuts off the spirit of princes, who is to be feared by the kings of the earth.",
+      "arminianNotes": "who cuts off the spirit of princes, who is to be feared by the kings of the earth. Wesley: Cut off—as grapes in vintage; spirit—breath and life, as in the Assyrian army. Shared close: princes and kings fear the LORD who cuts off their spirit.\n\nArminian pastoral: historic Assyrian-type stroke seals the psalm. Kings of the earth are not beyond his vintage sickle.",
+      "reformedNotes": "Calvin: he cuts off the spirit of princes—takes understanding and wisdom from them; he is terrible to kings because he casts them down from loftiness. Limited to tyrants and robbers whom God infatuates when they apply ingenuity to mischief. Most princes being enemies to the Church, God is sufficiently terrible to subdue all kings of the earth.\n\nReformed pastoral: shared—princes lose spirit; kings fear. The Church's comfort is that crafty schemes can be blinded by God."
+    }
+  ]
+}

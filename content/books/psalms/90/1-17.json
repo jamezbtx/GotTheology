@@ -1,0 +1,136 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 90,
+  "verseStart": 1,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Psalm 90:1–17",
+  "context": "A Prayer of Moses, the man of God. Lord, you have been our dwelling place in all generations; from everlasting to everlasting you are God. You return man to dust. A thousand years are as yesterday. You sweep them away like a flood, like grass. We are brought to an end by your anger; iniquities set before you; days pass under wrath; seventy or eighty years of toil; who knows the power of your anger? Teach us to number our days for a heart of wisdom. Return; satisfy us with steadfast love; make us glad for days of affliction; let your work appear; let the favor of the Lord establish the work of our hands.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Lord as dwelling place across generations, everlasting God before mountains, man returned to dust, a thousand years as a watch, flood and grass mortality, anger and secret sins in the light, seventy years of toil, numbering days for wisdom, return and pity, morning mercy, and the beauty of the Lord establishing our work—so each camp speaks in its own voice beside Psalm 90:1–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Thou—hadst power and perfections from all eternity. Turnedst—man made mortal and miserable for sin; Saidst—return to dust, Gen 3:19. Past—time short when past; A watch—three or four hours. Them—mankind carried away universally; A sleep—short and vain. Are consumed—not suffered to live as long as nature might. Hast set—observe as righteous judge; Secret sins—brought to light by judgments. Our years—generality of mankind; Flee—swiftly like a bird. Thy fear—wrath exceeds sinful men's fear of a just God. Teach us—consider shortness and certainty of death; That—devote to true wisdom. Return—in mercy; Repent thee—of severe proceedings. Early—speedily. The beauty—gracious influence and glorious presence; In us—work not only for us but in us.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 90"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Dwelling-place: grace of adoption separating Abraham's seed; renew that ancient grace. From everlasting thou art God. Turn man to destruction; return, sons of Adam—frail life as plea for mercy; God remembers we are dust; life a narrow circle drawn back in a moment. Thousand years as yesterday or a watch. Carried as a flood; like sleep; grass morning to evening. We fail by anger; iniquities and secret sins in the light of thy countenance. Days pass in wrath; years as a tale. Seventy or eighty—labor and sorrow; fly away. Who knows the power of thy anger? Teach us to number days and apply hearts to wisdom. Return; be pacified. Satisfy early with mercy; gladness matching years of evil. Let thy work appear; beauty of the Lord upon us; establish the work of our hands.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 90"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Lord, you have been our dwelling place in all generations.",
+      "arminianNotes": "Lord, you have been our dwelling place in all generations. Shared: generational home in the Lord himself.\n\nArminian pastoral: before mortality talk, Moses names the dwelling. Make God the house across ages.",
+      "reformedNotes": "Calvin: dwelling-place magnifies adoption of Abraham's seed; aim—renew ancient grace to the offspring.\n\nReformed pastoral: shared—our dwelling in all generations. Covenant home precedes the dust confession."
+    },
+    {
+      "number": 2,
+      "text": "Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God.",
+      "arminianNotes": "Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God. Wesley: Thou—power and perfections from eternity. Shared: everlasting God before creation.\n\nArminian pastoral: eternity frames mortality. Mountains are young beside him.",
+      "reformedNotes": "Calvin: before mountains and world, from everlasting to everlasting thou art God—eternal being undergirds the prayer of frail people.\n\nReformed pastoral: shared—from everlasting to everlasting you are God. Weight of eternity is comfort and scale for dust."
+    },
+    {
+      "number": 3,
+      "text": "You return man to dust and say, “Return, O children of man!”",
+      "arminianNotes": "You return man to dust and say, “Return, O children of man!” Wesley: Turnedst—mortal and miserable for sin; Saidst—Gen 3:19 return to dust. Shared: divine sentence returning man to dust.\n\nArminian pastoral: Genesis echo keeps sin and death linked without cruelty for its own sake. Hear the Judge who still is dwelling place.",
+      "reformedNotes": "Calvin: turn man to destruction; return, sons of Adam—frailty and misery as argument to induce mercy; God remembers dust; life a circle drawn back in a moment.\n\nReformed pastoral: shared—return to dust. Mortality's weight is shared; it becomes plea for pity, not quarrel.",
+      "keyContrast": "Both set human dust under the everlasting God (vv. 1–2) with full seriousness—mortality and eternity share the psalm's weight. Arminians typically stress Wesley's Genesis link: sin made man mortal; \"Return\" echoes Gen 3:19. Reformed readers typically stress Calvin's pastoral use of frailty: dust and the narrow circle of life are arguments that move God to mercy, not grounds to accuse him. Shared: Moses teaches the church to feel both everlasting deity and returning dust together."
+    },
+    {
+      "number": 4,
+      "text": "For a thousand years in your sight are but as yesterday when it is past, or as a watch in the night.",
+      "arminianNotes": "For a thousand years in your sight are but as yesterday when it is past, or as a watch in the night. Wesley: Past—time short when gone; watch—few hours. Shared: vast time collapsed in God's sight.\n\nArminian pastoral: do not measure God by your clock. A millennium is a watch to him.",
+      "reformedNotes": "Calvin: thousand years as yesterday when gone, or a watch—divine temporality relativizes human span.\n\nReformed pastoral: shared—thousand years as yesterday or a watch. Scale teaches humility."
+    },
+    {
+      "number": 5,
+      "text": "You sweep them away as with a flood; they are like a dream, like grass that is renewed in the morning:",
+      "arminianNotes": "You sweep them away as with a flood; they are like a dream, like grass that is renewed in the morning: Wesley: Them—mankind universally; sleep—short and vain. Shared: flood-sweep; dream/sleep; morning grass.\n\nArminian pastoral: universal sweep—no class exempt. Grass image begins the day's brevity.",
+      "reformedNotes": "Calvin: carried away as with a flood; as a sleep; grass in the morning—images of sudden, common frailty.\n\nReformed pastoral: shared—flood; dream; morning grass. Shared mortality undercuts pride."
+    },
+    {
+      "number": 6,
+      "text": "in the morning it flourishes and is renewed; in the evening it fades and withers.",
+      "arminianNotes": "in the morning it flourishes and is renewed; in the evening it fades and withers. Shared: morning flourish; evening fade.\n\nArminian pastoral: same-day withering. Live the morning as gift.",
+      "reformedNotes": "Calvin: morning grow; evening cut down and wither—completes the grass emblem.\n\nReformed pastoral: shared—flourishes; fades. Brief beauty still under God's hand."
+    },
+    {
+      "number": 7,
+      "text": "For we are brought to an end by your anger; by your wrath we are dismayed.",
+      "arminianNotes": "For we are brought to an end by your anger; by your wrath we are dismayed. Wesley: Are consumed—not left to natural full length. Shared: anger and wrath as the end of our consuming.\n\nArminian pastoral: Moses ties short life to holy anger without denying dwelling-place mercy. Dismay is confessed, not hidden.",
+      "reformedNotes": "Calvin: we fail by thy anger; affrighted by indignation—Israel's peculiar afflictions as well as common frailty.\n\nReformed pastoral: shared—ended by anger; dismayed by wrath. Judgment explains more than \"natural limits\" alone."
+    },
+    {
+      "number": 8,
+      "text": "You have set our iniquities before you, our secret sins in the light of your presence.",
+      "arminianNotes": "You have set our iniquities before you, our secret sins in the light of your presence. Wesley: Hast set—observe as judge; Secret sins—brought to light by judgments. Shared: open and secret sin before God's face.\n\nArminian pastoral: light of presence exposes what men hide. Confession belongs with numbering days.",
+      "reformedNotes": "Calvin: iniquities before thee; secret sins in the light of thy countenance—nothing veiled from the Judge.\n\nReformed pastoral: shared—iniquities set; secret sins lit. Presence is both dwelling and exposure."
+    },
+    {
+      "number": 9,
+      "text": "For all our days pass away under your wrath; we bring our years to an end like a sigh.",
+      "arminianNotes": "For all our days pass away under your wrath; we bring our years to an end like a sigh. Shared: days under wrath; years ended as a sigh/tale.\n\nArminian pastoral: sigh-length years sober ambition. Pass under wrath toward wisdom (v. 12).",
+      "reformedNotes": "Calvin: days passed in wrath; years as a tale/sigh—brevity under displeasure.\n\nReformed pastoral: shared—days under wrath; years like a sigh. Brevity and judgment travel together."
+    },
+    {
+      "number": 10,
+      "text": "The years of our life are seventy, or even by reason of strength eighty; yet their span is but toil and trouble; they are soon gone, and we fly away.",
+      "arminianNotes": "The years of our life are seventy, or even by reason of strength eighty; yet their span is but toil and trouble; they are soon gone, and we fly away. Wesley: Our years—generality; Flee—swift as a bird. Shared: 70/80; toil; soon gone; fly away.\n\nArminian pastoral: strength that reaches eighty still knows labor and sorrow. Do not idolize longevity.",
+      "reformedNotes": "Calvin: seventy or eighty—labor and sorrow; soon cut off; fly away—common human span under Moses' eye.\n\nReformed pastoral: shared—seventy or eighty; toil; fly away. Even \"strong\" years are not escape from frailty."
+    },
+    {
+      "number": 11,
+      "text": "Who considers the power of your anger, and your wrath according to the fear of you?",
+      "arminianNotes": "Who considers the power of your anger, and your wrath according to the fear of you? Wesley: Thy fear—wrath exceeds sinful fear of a just God. Shared: few rightly measure wrath by true fear of God.\n\nArminian pastoral: ask who knows—then become one who considers. Fear of God scales wrath rightly.",
+      "reformedNotes": "Calvin: who knoweth the power of thy anger?—immeasurable when God withdraws his hand; men wanton until struck.\n\nReformed pastoral: shared—who considers anger's power? Wrath according to fear of you. Ignorance of wrath is itself danger."
+    },
+    {
+      "number": 12,
+      "text": "So teach us to number our days that we may get a heart of wisdom.",
+      "arminianNotes": "So teach us to number our days that we may get a heart of wisdom. Wesley: Teach us—shortness and certainty of death; That—devote to true wisdom. Shared: numbered days → wise heart.\n\nArminian pastoral: wisdom is the goal, not morbid counting. Number in order to devote.",
+      "reformedNotes": "Calvin: teach us so to number days, and we shall apply hearts to wisdom—right arithmetic of mortality yields piety.\n\nReformed pastoral: shared—teach us to number; heart of wisdom. Prayer for instruction, not mere melancholy."
+    },
+    {
+      "number": 13,
+      "text": "Return, O Lord! How long? Have pity on your servants!",
+      "arminianNotes": "Return, O Lord! How long? Have pity on your servants! Wesley: Return—in mercy; How long—before return; Repent thee—of severe proceedings. Shared: return; how long; pity servants.\n\nArminian pastoral: after numbering days, plead for the Lord's return in mercy. Servants may ask pity.",
+      "reformedNotes": "Calvin: Return, O Jehovah; how long? Be pacified toward thy servants—from meditation to petition for relenting favor.\n\nReformed pastoral: shared—return; how long; pity. Wisdom and plea are not rivals."
+    },
+    {
+      "number": 14,
+      "text": "Satisfy us in the morning with your steadfast love, that we may rejoice and be glad all our days.",
+      "arminianNotes": "Satisfy us in the morning with your steadfast love, that we may rejoice and be glad all our days. Wesley: Early—speedily. Shared: morning hesed; lifelong gladness.\n\nArminian pastoral: ask early mercy for durable joy. Steadfast love is the satisfying meal.",
+      "reformedNotes": "Calvin: satisfy early with mercy that we may rejoice all our days—gladness sourced in hesed, not in denied frailty.\n\nReformed pastoral: shared—satisfy in the morning with steadfast love; rejoice all days. Joy under mortality is gift."
+    },
+    {
+      "number": 15,
+      "text": "Make us glad for as many days as you have afflicted us, and for as many years as we have seen evil.",
+      "arminianNotes": "Make us glad for as many days as you have afflicted us, and for as many years as we have seen evil. Shared: gladness proportioned to affliction's days and evil years.\n\nArminian pastoral: ask fairness of joy after measured pain. Not denial of evil years—recompense of gladness.",
+      "reformedNotes": "Calvin: make us glad according to days wherein thou hast afflicted us and years of evil—petition for matching consolation.\n\nReformed pastoral: shared—glad for days of affliction; years of evil. Memory of pain funds the ask for joy."
+    },
+    {
+      "number": 16,
+      "text": "Let your work be shown to your servants, and your glorious power to their children.",
+      "arminianNotes": "Let your work be shown to your servants, and your glorious power to their children. Shared: God's work visible to servants; glory to the next generation.\n\nArminian pastoral: intergenerational hope—children see what servants saw. Ask for displayed work, not private only.",
+      "reformedNotes": "Calvin: let thy work appear to servants and glory to children—continuance of gracious deeds across generations.\n\nReformed pastoral: shared—work shown; glorious power to children. Dwelling-place God (v. 1) still acts for offspring."
+    },
+    {
+      "number": 17,
+      "text": "Let the favor of the Lord our God be upon us, and establish the work of our hands upon us; yes, establish the work of our hands!",
+      "arminianNotes": "Let the favor of the Lord our God be upon us, and establish the work of our hands upon us; yes, establish the work of our hands! Wesley: Beauty—gracious presence; In us—work in us as well as for us. Shared close: favor/beauty upon us; hands' work established twice.\n\nArminian pastoral: brief life still asks established work. Beauty of the Lord upon us is more than success metrics.",
+      "reformedNotes": "Calvin: beauty of the Lord upon us; establish the work of our hands—yes, establish it—frail hands need divine confirming.\n\nReformed pastoral: shared—favor upon us; establish our work. Mortality does not make labor meaningless under his beauty."
+    }
+  ]
+}

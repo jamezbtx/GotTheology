@@ -1,0 +1,143 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 115,
+  "verseStart": 1,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "Psalm 115:1–18",
+  "context": "Egyptian Hallel: glory is denied to us and given to the Lord's name for steadfast love and faithfulness. Nations mock, \"Where is their God?\"—but our God is in the heavens and does all He pleases, while idols of silver and gold are mute and deadening. Israel, Aaron, and all who fear the Lord are called to trust Him as help and shield; He remembers and blesses small and great. The living bless the Lord forever; the dead do not praise Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on glory refused for ourselves, idols that cannot speak, and trust in the Lord who is help and shield—so each camp speaks in its own voice beside Psalm 115:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Not unto us—this is a prayer against self-seeking. Give glory to thy name, for thy mercy and for thy truth. Wherefore should the heathen say, Where is now their God? Our God is in the heavens—and therefore, though we do not see him, he sees us, and he does whatsoever he pleaseth. Their idols are silver and gold—the work of men's hands. They that make them are like unto them. O Israel, trust in the Lord—he is their help and their shield. The Lord hath been mindful of us—he will bless us.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 115)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The faithful ascribe nothing to themselves, that the whole glory of their salvation may remain with God. They plead His mercy and truth against the taunts of the nations. God is in heaven and does whatever pleases Him—an assertion of His free and sovereign power. Idols are convicted of utter vanity; their makers become like them. The Church is exhorted to trust in Jehovah alone as help and shield. He who has remembered His people will continue to bless them; the living, not the dead, are the choir of His praise.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Psalm 115)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Not to us, O Lord, not to us, but to your name give glory, for the sake of your steadfast love and your faithfulness!",
+      "arminianNotes": "Not to us, O Lord, not to us, but to Your name give glory, for steadfast love and faithfulness. Wesley: a prayer against self-seeking; glory to Thy name for mercy and truth.\n\nBoth camps: self-glory is refused. Classical Arminians hear a sincere plea that God's hesed and emet—not our merit—receive the praise.",
+      "reformedNotes": "Calvin: the faithful ascribe nothing to themselves, that the whole glory of their salvation may remain with God. Mercy and truth are the grounds of the plea.\n\nReformed accent: solace in God's name alone. Shared: Not to us; to Your name give glory."
+    },
+    {
+      "number": 2,
+      "text": "Why should the nations say, “Where is their God?”",
+      "arminianNotes": "Why should the nations say, \"Where is their God?\" The taunt wounds; the psalm answers with theology, not panic.\n\nArminian pastoral: God's apparent hiddenness does not cancel His love. The question of the nations is met by confession, not by inventing a visible idol.",
+      "reformedNotes": "Calvin: they plead His mercy and truth against the taunts of the nations. The scoffer's question is overturned by who God is, not by what we manufacture.\n\nShared: Why should the nations say, Where is their God?"
+    },
+    {
+      "number": 3,
+      "text": "Our God is in the heavens; he does all that he pleases.",
+      "arminianNotes": "Our God is in the heavens; He does all that He pleases. Wesley: though we do not see Him, He sees us, and He does whatsoever He pleaseth.\n\nClassical Arminians confess real sovereignty and refuse denial of God's freedom—yet they hold that what pleases Him includes a sincere goodwill toward sinners and a government consistent with enabling, resistible grace. Heaven is not absence; it is majesty.",
+      "reformedNotes": "Calvin: God is in heaven and does whatever pleases Him—an assertion of His free and sovereign power. Nothing frustrates His counsel; idols cannot rival Him.\n\nReformed confession: absolute freedom of the divine will. Shared wording: He does all that He pleases.",
+      "keyContrast": "Both confess that our God is in the heavens and does all that He pleases. Arminians typically hold this sovereignty together with a sincere, resistible grace and a will that truly desires the salvation of those who perish in unbelief. Reformed readers typically hear Calvin's accent: God's free counsel infallibly accomplishes all He ordains, including the salvation of the elect, without being thwarted by creaturely will."
+    },
+    {
+      "number": 4,
+      "text": "Their idols are silver and gold, the work of human hands.",
+      "arminianNotes": "Their idols are silver and gold, the work of human hands. Wesley underlines handmade vanity. Costly metal does not make a god.\n\nBoth camps: idolatry is human manufacture. Shared contempt for silver gods.",
+      "reformedNotes": "Calvin: idols are convicted of utter vanity—works of human hands set against the God of heaven.\n\nShared: silver and gold; work of human hands."
+    },
+    {
+      "number": 5,
+      "text": "They have mouths, but do not speak; eyes, but do not see.",
+      "arminianNotes": "They have mouths, but do not speak; eyes, but do not see. Sensory organs without life—parody of the living God who speaks and sees.\n\nBoth camps: mute idols cannot answer prayer.",
+      "reformedNotes": "Calvin piles up the absences: mouth without speech, eyes without sight—so that trust in them appears folly.\n\nShared: mouths that do not speak."
+    },
+    {
+      "number": 6,
+      "text": "They have ears, but do not hear; noses, but do not smell.",
+      "arminianNotes": "They have ears, but do not hear; noses, but do not smell. No incense reaches them; no cry is received.\n\nArminian comfort: the Lord who inclined His ear (Ps 116) is the opposite of these deaf statues.",
+      "reformedNotes": "Calvin continues the inventory of lifeless senses. Deaf idols shame those who pray to them.\n\nShared: ears that do not hear."
+    },
+    {
+      "number": 7,
+      "text": "They have hands, but do not feel; feet, but do not walk; and they do not make a sound in their throat.",
+      "arminianNotes": "Hands that do not feel, feet that do not walk, throat without sound. Total disability of the so-called gods.\n\nBoth camps: the living God acts; idols are furniture.",
+      "reformedNotes": "Calvin completes the satire: no touch, no walk, no voice. Helplessness is the idols' essence.\n\nShared: they do not make a sound in their throat."
+    },
+    {
+      "number": 8,
+      "text": "Those who make them become like them; so do all who trust in them.",
+      "arminianNotes": "Those who make them become like them; so do all who trust in them. Wesley: they that make them are like unto them. Worship forms the worshiper.\n\nArminian pastoral: trust deforms or transforms. Classical Arminians warn that clinging to dead things deadens the soul—and call for living trust in the living God.",
+      "reformedNotes": "Calvin: their makers become like them—spiritual senselessness as judgment and mimicry. Trusting emptiness empties the heart.\n\nReformed accent: idolatry's judicial likeness. Shared: become like them; all who trust in them.",
+      "keyContrast": "Both warn that idol-makers and idol-trusters become like their idols. Arminians typically stress the moral and spiritual consequence of freely clinging to dead trusts, and the call to turn. Reformed readers typically also hear a judicial hardening under God's hand—likeness to idols as both chosen folly and just consequence."
+    },
+    {
+      "number": 9,
+      "text": "O Israel, trust in the Lord! He is their help and their shield.",
+      "arminianNotes": "O Israel, trust in the Lord! He is their help and their shield. Wesley: trust—He is help and shield. The alternative to idols is living reliance.\n\nBoth camps: trust commanded; help and shield promised.",
+      "reformedNotes": "Calvin: the Church is exhorted to trust in Jehovah alone as help and shield. Israel's safety is not in images but in the Lord.\n\nShared: trust in the Lord; help and shield."
+    },
+    {
+      "number": 10,
+      "text": "O house of Aaron, trust in the Lord! He is their help and their shield.",
+      "arminianNotes": "O house of Aaron, trust in the Lord! Priests need the same trust as the people—office does not replace faith.\n\nArminian pastoral: ministry without trust becomes another handmade security.",
+      "reformedNotes": "Calvin extends the call to Aaron's house: those nearest the altar must lean on the Lord, not on ritual as talisman.\n\nShared: house of Aaron, trust."
+    },
+    {
+      "number": 11,
+      "text": "You who fear the Lord, trust in the Lord! He is their help and their shield.",
+      "arminianNotes": "You who fear the Lord, trust in the Lord! Fear and trust are twin postures—reverence that leans.\n\nBoth camps: the God-fearers' circle is wider than ethnic Israel alone in the Hallel's trajectory.",
+      "reformedNotes": "Calvin: all who fear the Lord—the true worshipers—are summoned to the same trust. Help and shield are unchanged.\n\nShared: you who fear the Lord, trust."
+    },
+    {
+      "number": 12,
+      "text": "The Lord has remembered us; he will bless us; he will bless the house of Israel; he will bless the house of Aaron;",
+      "arminianNotes": "The Lord has remembered us; He will bless us—Israel and Aaron. Wesley: the Lord hath been mindful of us; He will bless us. Past memory grounds future hope.\n\nClassical Arminians hear covenant faithfulness that sincerely blesses the people who trust Him.",
+      "reformedNotes": "Calvin: He who has remembered His people will continue to bless them. Remembrance is not recovery of forgotten data but faithful action.\n\nReformed accent: sure blessing according to promise. Shared: He has remembered; He will bless."
+    },
+    {
+      "number": 13,
+      "text": "he will bless those who fear the Lord, both the small and the great.",
+      "arminianNotes": "He will bless those who fear the Lord, both the small and the great. No rank monopoly on mercy.\n\nArminian pastoral: small believers are not beneath the blessing; great ones are not above the need of fear.",
+      "reformedNotes": "Calvin: small and great alike are under the blessing promised to God-fearers. Status neither earns nor blocks.\n\nShared: both the small and the great."
+    },
+    {
+      "number": 14,
+      "text": "May the Lord give you increase, you and your children!",
+      "arminianNotes": "May the Lord give you increase, you and your children! Generational kindness asked under God's hand.\n\nBoth camps: increase is petition, not presumption of autonomous growth.",
+      "reformedNotes": "Calvin hears a prayer for fruitfulness under blessing—households enlarged by the Lord who makes alive.\n\nShared: increase, you and your children."
+    },
+    {
+      "number": 15,
+      "text": "May you be blessed by the Lord, who made heaven and earth!",
+      "arminianNotes": "May you be blessed by the Lord, who made heaven and earth! Creator blessing outranks idol craft.\n\nBoth camps: the Maker is the Blesser.",
+      "reformedNotes": "Calvin ties blessing to the Creator of heaven and earth—so no local shrine-god can compete.\n\nShared: blessed by the Lord who made heaven and earth."
+    },
+    {
+      "number": 16,
+      "text": "The heavens are the Lord’s heavens, but the earth he has given to the children of man.",
+      "arminianNotes": "The heavens are the Lord's heavens, but the earth He has given to the children of man. Stewardship under ownership—earth entrusted, heavens His.\n\nArminian reading: gift of earth calls for responsible trust and praise, not idolatrous claim.",
+      "reformedNotes": "Calvin: heavens remain the Lord's; earth is granted to mankind for habitation and duty under His rule—not as escape from His sovereignty.\n\nShared: heavens the Lord's; earth given to children of man."
+    },
+    {
+      "number": 17,
+      "text": "The dead do not praise the Lord, nor do any who go down into silence.",
+      "arminianNotes": "The dead do not praise the Lord, nor any who go down into silence. Urgency of living praise—this side of the grave's hush.\n\nBoth camps: praise is the work of the living congregation in the psalm's horizon.",
+      "reformedNotes": "Calvin: the living, not the dead, are the choir of His praise. Silence of the grave presses present thanksgiving.\n\nShared: the dead do not praise the Lord."
+    },
+    {
+      "number": 18,
+      "text": "But we will bless the Lord from this time forth and forevermore. Praise the Lord!",
+      "arminianNotes": "But we will bless the Lord from this time forth and forevermore. Praise the Lord! Wesley's mindfulness theme lands in vowed, lasting blessing.\n\nBoth camps: forevermore matches Ps 113's duration. Classical Arminians hear willing, persevering praise under grace.",
+      "reformedNotes": "Calvin closes with the Church's resolve: we will bless the Lord continually. Hallelujah seals the refusal of idols.\n\nShared: from this time forth and forevermore; Praise the Lord!"
+    }
+  ]
+}

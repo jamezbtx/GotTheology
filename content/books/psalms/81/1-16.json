@@ -1,0 +1,130 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 81,
+  "verseStart": 1,
+  "verseEnd": 16,
+  "translation": "ESV",
+  "title": "Psalm 81:1–16",
+  "context": "To the choirmaster: according to The Gittith. Of Asaph. Sing aloud to God our strength; shout to the God of Jacob; raise song with tambourine, lyre, and harp; blow the trumpet at new moon and feast. It is a statute for Israel, a rule of the God of Jacob—a decree in Joseph when he went out over Egypt. God relieved the shoulder of burden and freed hands from the basket; in distress they called and he delivered, answering in thunder's secret place and testing at Meribah. Hear, O my people—no strange god; I am the LORD who brought you from Egypt; open wide, and I will fill. But my people did not listen; Israel would not submit; so he gave them over to stubborn hearts to follow their own counsels. Oh that they would listen and walk in his ways—he would subdue enemies; haters would cringe; he would feed with finest wheat and honey from the rock.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on festival praise, statute and testimony from Egypt, burden lifted, Meribah's test, no strange god, mouth opened wide to be filled, people who would not listen, giving over to stubborn counsel, and the wistful oh-that of subdued foes and honey from the rock—so each camp speaks in its own voice beside Psalm 81:1–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Joseph—Among the people of Israel. Testimony—Witness of that glorious deliverance. He—God. Went—As a captain at the head of his people. Egypt—To execute judgments upon that land. I—My progenitors; successive generations make one body. A language—Egyptian, at first unknown to Israel. Pots—Vessels for water, straw, lime, or bricks. Calledst—At the Red Sea. Secret place—From the dark cloudy pillar, whence I thundered against the Egyptians. Testify—Presently after Meribah, even at Sinai. Wide—Either to pray for mercies, or to receive the mercies I am ready to give. Him—Unto Israel. Their time—Their happy time. Honey—With all pleasant and precious fruits.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 81"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Sing joyfully to God our strength; festival days train unity of faith, open profession, progress, and steadfastness in the covenant—not cold ceremony. Statute and testimony ratify the everlasting covenant; set in Joseph when he went forth over Egypt; language not understood enhances the deliverance. I removed the shoulder from the burden; hands freed from the pots. Thou criedst in trouble and I delivered; I answered in the secret place of thunder; I proved thee at Meribah. Hear, O my people—no strange god; I am Jehovah who brought thee from Egypt; open thy mouth wide, and I will fill it. But my people hearkened not; Israel would none of me. So I gave them up to the thoughts of their own heart; they walk in their own counsels—dreadful when God holds his peace. O if my people had hearkened! I would soon have brought enemies low; haters would have lied in submission; their time everlasting; fed with fat of corn and honey from the rock.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 81"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Sing aloud to God our strength; shout for joy to the God of Jacob!",
+      "arminianNotes": "Sing aloud to God our strength; shout for joy to the God of Jacob! Shared: loud praise to the covenant God who is strength.\n\nArminian pastoral: festival voice is not optional muffling. Sing and shout to Jacob's God—strength celebrated aloud.",
+      "reformedNotes": "Calvin: likely appointed for festival assemblies. They were not to stand deaf and dumb—service is not indolence or empty ceremony but cherishing unity of faith, open profession, progress, joint praise, and steadfastness in the covenant.\n\nReformed pastoral: shared—sing aloud; shout for joy. True assembly remembers benefits and stirs thanksgiving."
+    },
+    {
+      "number": 2,
+      "text": "Raise a song; sound the tambourine, the sweet lyre with the harp.",
+      "arminianNotes": "Raise a song; sound the tambourine, the sweet lyre with the harp. Shared: song and instruments summoned for worship.\n\nArminian pastoral: raise what God appointed for joy. Instruments serve the song of strength (v. 1), not spectacle alone.",
+      "reformedNotes": "Calvin: under the law Levites rightly used instruments as rudiments for a people yet tender; now the gospel's clearer light teaches simpler service—imitation of the shadow as if still required is mistaken.\n\nReformed pastoral: shared—raise song and sound. Let the appointed means serve faith and praise, not bare noise."
+    },
+    {
+      "number": 3,
+      "text": "Blow the trumpet at the new moon, at the full moon, on our feast day.",
+      "arminianNotes": "Blow the trumpet at the new moon, at the full moon, on our feast day. Shared: calendar feasts marked by trumpet.\n\nArminian pastoral: keep the feast days God set. Trumpet calls the congregation to remember deliverance and statute (vv. 4–5).",
+      "reformedNotes": "Calvin: new moon by synecdoche covers high feasts; days of meeting at the tabernacle are days of sacrifice by eminence.\n\nReformed pastoral: shared—trumpet at the appointed feast. Sacred time serves covenant memory."
+    },
+    {
+      "number": 4,
+      "text": "For it is a statute for Israel, a rule of the God of Jacob.",
+      "arminianNotes": "For it is a statute for Israel, a rule of the God of Jacob. Shared: feast praise rests on God's statute and rule—not whim.\n\nArminian pastoral: obey the statute with gladness. Jacob's God rules the calendar of praise.",
+      "reformedNotes": "Calvin: the ordinance was prescribed to ratify the everlasting covenant. In covenants there is mutual agreement; this statute was given to Israel, and God reserved this honor as his right.\n\nReformed pastoral: shared—statute and rule. Worship bound by God's appointment strengthens covenant fidelity."
+    },
+    {
+      "number": 5,
+      "text": "He made it a decree in Joseph when he went out over the land of Egypt. I hear a language I had not known:",
+      "arminianNotes": "He made it a decree in Joseph when he went out over the land of Egypt. I hear a language I had not known. Wesley: Joseph—among Israel; Testimony—witness of glorious deliverance; He—God; Went—captain at the head; Egypt—execute judgments; I—progenitors as one body; A language—Egyptian at first unknown. Shared: decree tied to Exodus; foreign tongue recalled.\n\nArminian pastoral: remember when God went out over Egypt. The unknown language heightens how strange and gracious the rescue was.",
+      "reformedNotes": "Calvin: testimony/covenant rather than mere ornament; Joseph named for the early body of the people. Sacredness of the covenant is tied to purchase in deliverance. Going forth may apply to God or people; language not understood enhances the blessing of rescue from barbarism.\n\nReformed pastoral: shared—decree in Joseph at the going out. Covenant memory is Exodus memory."
+    },
+    {
+      "number": 6,
+      "text": "“I relieved your shoulder of the burden; your hands were freed from the basket.",
+      "arminianNotes": "I relieved your shoulder of the burden; your hands were freed from the basket. Wesley: Pots—vessels for water, straw, lime, or bricks. Shared: God speaks—slavery's load and brick-labor ended.\n\nArminian pastoral: hear the first-person grace. Shoulders and hands freed are gifts to remember when strange gods beckon (v. 9).",
+      "reformedNotes": "Calvin: God recounts benefits and obligations. The more galling the bondage, the more precious the liberty—stooped under burdens, doomed to brick-labor. Apply upward: he has redeemed us from Satan's tyranny; obligations are stricter still.\n\nReformed pastoral: shared—shoulder relieved; hands freed. Redeeming power grounds exclusive worship."
+    },
+    {
+      "number": 7,
+      "text": "In distress you called, and I delivered you; I answered you in the secret place of thunder; I tested you at the waters of Meribah. Selah",
+      "arminianNotes": "In distress you called, and I delivered you; I answered you in the secret place of thunder; I tested you at the waters of Meribah. Selah. Wesley: Calledst—at the Red Sea; Secret place—from the dark cloudy pillar, thundering against Egyptians. Shared: cry, deliverance, thunder-answer, Meribah test.\n\nArminian pastoral: Selah over rescue and proving. The same God who answered in thunder also tested at the waters—grace and trial together.",
+      "reformedNotes": "Calvin: crying in distress includes prayer with remains of godliness. Secret place of thunder—heard in a secret, wonderful manner with manifest tokens; not that God was seen face to face. Meribah upbraids unworthiness—favor not from their good desert.\n\nReformed pastoral: shared—called, delivered, answered, tested. Selah: remember both thunder-help and Meribah failure."
+    },
+    {
+      "number": 8,
+      "text": "Hear, O my people, while I admonish you! O Israel, if you would but listen to me!",
+      "arminianNotes": "Hear, O my people, while I admonish you! O Israel, if you would but listen to me! Wesley: Testify—this God did presently after Meribah, even at Sinai. Shared: hearing and heeding are the point of the feast.\n\nArminian pastoral: assemblies without the voice of God are empty. \"If you would but listen\" is yearning admonition—open the ear.",
+      "reformedNotes": "Calvin: God as teacher in the congregation—festival days not rightly kept unless people listen. He acknowledges as servants those disposed to become learners. \"If thou wilt hearken\" is abrupt, pathetic—he distrusts this obstinate people.\n\nReformed pastoral: shared—hear; if you would listen. Covenant speech seeks learners, not mere feasters."
+    },
+    {
+      "number": 9,
+      "text": "There shall be no strange god among you; you shall not bow down to a foreign god.",
+      "arminianNotes": "There shall be no strange god among you; you shall not bow down to a foreign god. Shared: exclusive loyalty—no rivals, no bowing.\n\nArminian pastoral: clear the heart of fabricated gods before true worship roots. Festival joy includes this prohibition.",
+      "reformedNotes": "Calvin: leading article of the covenant—God alone must have pre-eminence. True religious worship begins with obedience. Prohibition first prepares the heart; then the reason follows in v. 10.\n\nReformed pastoral: shared—no strange god; no bowing to the foreign. Jealous love claims the whole people."
+    },
+    {
+      "number": 10,
+      "text": "I am the LORD your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it.",
+      "arminianNotes": "I am the LORD your God, who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it. Wesley: Wide—either to pray for mercies, or to receive the mercies I am ready to give. Shared: Exodus Lord offers full supply to the opened mouth.\n\nArminian pastoral: open wide in asking and receiving. Penury often traces to a mouth kept shut or too narrow for ready mercy.",
+      "reformedNotes": "Calvin: three arguments—I am Jehovah; deliverance from Egypt proving power and veracity; offer for the future—open wide, I will fill. Spare blessing often because our mouth is too narrow; empty because shut. He requires worship but sets no value on bare syllables of deity—hope and praise must not be transferred elsewhere.\n\nReformed pastoral: shared—LORD who brought up; open wide; I will fill. Unbelief contracts what grace would flood."
+    },
+    {
+      "number": 11,
+      "text": "“But my people did not listen to my voice; Israel would not submit to me.",
+      "arminianNotes": "But my people did not listen to my voice; Israel would not submit to me. Shared: refusal to hear and yield—despite \"my people.\"\n\nArminian pastoral: the tragedy is named without excuse. Listening and submitting were offered; they would none of him.",
+      "reformedNotes": "Calvin: he complains they despised friendly invitation from the beginning—always stupid and hardened. \"Would none of me\" is avowed, deliberate contempt; minds bewitched.\n\nReformed pastoral: shared—did not listen; would not submit. Honor of \"my people\" aggravates the shame of refusal."
+    },
+    {
+      "number": 12,
+      "text": "So I gave them over to their stubborn hearts, to follow their own counsels.",
+      "arminianNotes": "So I gave them over to their stubborn hearts, to follow their own counsels. Shared: judicial consequence—handed to stubbornness and self-counsel after refused hearing.\n\nArminian pastoral: warning tone—persist in not listening, and God may give you what you insist on. Flee that sentence; keep hearing while the voice still admonishes (v. 8).",
+      "reformedNotes": "Calvin: gave them up to thoughts/hardness of their own heart; they walk in own counsels. Just punishment when he deprives of wholesome doctrine and gives over to a reprobate mind. Most dreadful plague—left to own guidance, dragged by Satan. No more deadly than God holding his peace. Renounce carnal dictates; follow the Spirit. External call alone insufficient—he effectually draws those he calls; yet the complaint of folly when we disobey remains fitting.\n\nReformed pastoral: shared—gave over to stubborn hearts. Dread the silence of abandoned counsel; seek the bridle of the Word.",
+      "keyContrast": "Both hear \"gave them over\" as fearful judgment after refused listening—not as permission to sin lightly. Arminians typically stress the moral sequence Wesley's psalm-flow implies: admonition and open-mouth offer (vv. 8–10) refused, then stubborn self-counsel as the tragic outcome still calling for renewed hearing. Reformed readers typically stress Calvin's judicial abandonment—God withholding the Word's bridle, giving loose rein to corrupt counsel as righteous punishment—and the need for effectual drawing beyond the external call."
+    },
+    {
+      "number": 13,
+      "text": "Oh, that my people would listen to me, that Israel would walk in my ways!",
+      "arminianNotes": "Oh, that my people would listen to me, that Israel would walk in my ways! Shared: yearning for listening people and obedient walk.\n\nArminian pastoral: the \"oh that\" is holy desire for Israel's good. Hearing is defined by walking in his ways—not bare assent.",
+      "reformedNotes": "Calvin: \"O if\" as wish and paternal lament—not bare condition—God as father grieving over children who refuse their best interests, using human pathos to express love's greatness. To hear God is to submit to his authority, not hypocritically bend the ear. He wills the salvation of those addressed by the inviting word; secret electing difference remains, yet the complaint of our folly is just.\n\nReformed pastoral: shared—oh that they would listen and walk. Take the yearning as call to obey; do not speculate past the spoken invitation."
+    },
+    {
+      "number": 14,
+      "text": "I would soon subdue their enemies and turn my hand against their foes.",
+      "arminianNotes": "I would soon subdue their enemies and turn my hand against their foes. Shared: prompt victory tied to listening and walking (v. 13).\n\nArminian pastoral: calamity is not proof God cannot save—refusal blocked the soon subduing. Hear, and the hand turns against foes.",
+      "reformedNotes": "Calvin: Israelites taught that calamities were from their sins; enemies fought only with strength from above. He would not have failed to make them victorious had sins not prevented—and perverseness even compelled him to rush against them while enemies sat quiet.\n\nReformed pastoral: shared—soon subdue; hand against foes. Obedience would have unlocked swift help."
+    },
+    {
+      "number": 15,
+      "text": "Those who hate the LORD would cringe toward him, and their fate would last forever.",
+      "arminianNotes": "Those who hate the LORD would cringe toward him, and their fate would last forever. Wesley: Him—unto Israel; Their time—their happy time. Shared: haters subdued; lasting happy time for the people.\n\nArminian pastoral: hate of the LORD meets forced cringing if Israel listens. Pray for the happy time that endurance in his ways would secure.",
+      "reformedNotes": "Calvin: haters of Jehovah would have lied/submitted—peace with the reprobate only as God restrains their rage. It was Israel's fault enemies prevailed; humble obedience would have kept foes under. Their time everlasting refers to promises of durable prosperity.\n\nReformed pastoral: shared—haters cringe; time endure. Covenant blessing delayed by rebellion, not by weak promise."
+    },
+    {
+      "number": 16,
+      "text": "But he would feed you with the finest of the wheat, and with honey from the rock I would satisfy you.”",
+      "arminianNotes": "But he would feed you with the finest of the wheat, and with honey from the rock I would satisfy you. Wesley: Honey—with all pleasant and precious fruits. Shared close: finest wheat and rock-honey satisfaction for a listening people.\n\nArminian pastoral: open mouth (v. 10) meets wheat and honey when the ear opens too. Satisfaction is God's offer still held out in the wistful close.",
+      "reformedNotes": "Calvin: fat of corn and honey from the rock—grace continuing in unbroken course had perverseness not interrupted it. Honey in rock hollows was real under blessing; hunger in the promised land meant blessing withheld for iniquity.\n\nReformed pastoral: shared—finest wheat; honey from the rock; satisfy. The feast God wanted to give waits on the hearing he still seeks."
+    }
+  ]
+}

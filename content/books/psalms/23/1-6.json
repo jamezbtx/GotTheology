@@ -1,0 +1,72 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 23,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "Psalm 23:1–6",
+  "context": "Psalm 23 is David’s shepherd song of quiet trust: the LORD is his shepherd, so he shall not want—made to lie down in green pastures, led beside still waters, restored in soul, and guided in paths of righteousness for the LORD’s name’s sake. Even in the valley of the shadow of death he fears no evil, for the Shepherd is with him; rod and staff comfort. The image shifts to a host’s table prepared in enemies’ sight, head anointed, cup overflowing—and ends in sure hope that goodness and mercy will follow all his days, and that he will dwell in the house of the LORD forever.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the LORD as shepherd, green pastures and still waters, restored soul and righteous paths, the dark valley, the table amid enemies, and goodness that follows into the LORD’s house—so each camp speaks in its own voice beside Psalm 23:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures—to repose myself at noon, as the manner was in those hot countries—where there is both delight and plenty of provisions; he leadeth me beside the still waters. He restoreth my soul—Heb. He bringeth it back; from its errors and wandering; he leadeth me in the paths of righteousness for his name’s sake—not for any worth in me, but for the glory of his justice, and faithfulness, and goodness. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff—two words denoting the same thing, and both designing God’s pastoral care over him—they comfort me. Thou preparest a table before me—thou furnishest me with plenty of provisions and comforts—in the presence of mine enemies: thou anointest my head with oil—with aromatic ointments, which were then used at great feasts; thy comforts delight my soul; my cup runneth over—thou hast given me a plentiful portion. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 23)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This psalm contains simply a thanksgiving, composed when David lived in prosperity; that he might not bury God in forgetfulness, he delights himself in God, the author of all his blessings, and trusts that through providence he will continue happy to life’s close that he may employ himself in pure worship. Under the similitude of a shepherd he commends God’s care: God is a shepherd only to those who, touched with their weakness, feel their need of his protection and willingly abide in his sheepfold. Our happiness consists in this, that his hand governs us and his providence keeps watch over our welfare; those whom he has taken under his charge shall not want a full abundance of good things. He restores the soul as a good shepherd nurses the weak; he leads in plain paths for his name’s sake—blessing that proceeds entirely from free and sovereign goodness. Though walking through the valley of the shadow of death, he will fear no evil, for God is with him; staff and crook comfort him—he surmounts fear by casting himself on God’s protection. God prepares a table even in the presence of persecutors; oil and overflowing cup mark abundance beyond bare necessity. Goodness and mercy will follow all his days—confidence arising principally from the promise; and he will dwell in the house of Jehovah, aiming not at earthly comfort alone but at the fear and service of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 23)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD is my shepherd; I shall not want.",
+      "arminianNotes": "Wesley opens with the plain confession: the LORD is my shepherd; therefore I shall not want. The claim is personal—my shepherd—before any catalog of green pastures or still waters.\n\nArminian hearing: grace enables a real, living trust that names the LORD as shepherd. Wantlessness is promised to those who so trust and stay under his care; the hearer must still appropriate the Shepherd and refuse rival stays that leave the soul empty.",
+      "reformedNotes": "Calvin: under the shepherd image David commends God’s providential care. God is shepherd only to those who feel their weakness and willingly abide in his sheepfold to be governed by him. Happiness consists in his hand stretched forth to govern us; those he has taken under his charge shall not want. We then honor him as Shepherd when we are persuaded that his providence alone is sufficient to supply all our necessities.\n\nReformed accent: “my shepherd” is flock-membership under a governing providence—not a private motto hung on a self-kept life. Wantlessness rests on his charge of the sheep he keeps.",
+      "keyContrast": "Both confess that the LORD is shepherd and that those under his care shall not want. Arminian readers stress grace-enabled personal appropriation—my shepherd—as a trust the hearer must take up and keep. Reformed readers, with Calvin, stress that God shepherds those who surrender to his fold and that wantlessness is the fruit of his providence over the flock he has taken under charge—not a promise floating free of that governance."
+    },
+    {
+      "number": 2,
+      "text": "He makes me lie down in green pastures. He leads me beside still waters.",
+      "arminianNotes": "Wesley: Lie down—to repose at noon, as in those hot countries. Green—where there is both delight and plenty of provisions. Still waters complete the picture of rest and supply under the Shepherd’s lead.\n\nArminian pastoral: shared—green pastures and still waters are the Shepherd’s gifts of rest and refreshment. Grace lays the sheep down; the hearer still follows where he leads rather than driving himself to barren ground.",
+      "reformedNotes": "Calvin: grassy pastures and gently flowing waters explain “I shall not want.” The heavenly Shepherd has omitted nothing needed for happy life under his care—food, drink, and cooling shade. Rapid streams hurt sheep; quiet waters fit his tenderness.\n\nReformed accent: shared—provision and rest are providence, not luck. The same care that claims the flock also spreads the pasture and leads to the quiet water."
+    },
+    {
+      "number": 3,
+      "text": "He restores my soul. He leads me in paths of righteousness for his name's sake.",
+      "arminianNotes": "Wesley: Restoreth—Heb. He bringeth it back; from its errors and wandering. For—not for any worth in me, but for the glory of his justice, and faithfulness, and goodness. Paths of righteousness are the Shepherd’s lead after the soul is brought back.\n\nArminian reading: restoration names real wandering and a real bringing-back. Grace recovers the erring soul; the hearer must still be led in righteous paths. Motive is God’s name—justice, faithfulness, goodness—not the sheep’s worth.",
+      "reformedNotes": "Calvin: as a good shepherd cherishes diseased or weak sheep, God restores the soul—makes anew, recovers. Paths of righteousness, in the metaphor, are plain and straight paths; God sustains, quickens, and averts what is hurtful so his people walk at ease. All this is for his name’s sake—choosing us to be his sheep and performing a shepherd’s offices proceeds entirely from free and sovereign goodness, not from our merit.\n\nReformed accent: restoration and righteous leading hang on God’s name—free sovereign kindness to his flock—not on worth the sheep can plead.",
+      "keyContrast": "Both confess that God restores the soul and leads in righteous paths for his name’s sake, not for the sheep’s worth. Arminian readers, with Wesley, hear restore as bringing back from errors and wandering—a real recovery after stray that grace works and the sheep must still follow. Reformed readers, with Calvin, hear restore as the Shepherd’s recovering care and press that name’s-sake leading flows from free sovereign goodness in choosing and keeping his flock—not from a worth or hold the sheep contributes."
+    },
+    {
+      "number": 4,
+      "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+      "arminianNotes": "Wesley: Thy rod and thy staff—two words denoting the same thing, and both designing God’s pastoral care over him. Presence (“thou art with me”) and pastoral tools silence fear in the death-shade valley.\n\nArminian pastoral: shared—the valley is real; fear is answered by the Shepherd’s nearness and care. Grace steadies courage; the hearer must still walk trusting “you are with me,” not denying the dark.",
+      "reformedNotes": "Calvin: true believers under God’s protection are still exposed to common afflictions. David fortifies himself by providence to endure calamity; staff and crook are all-sufficient protection. He does not claim to be devoid of fear, but surmounts it by casting himself on God’s protection—“for thou art with me” implies he had felt fear. Against even the darkness of death he sets God’s pastoral care; faith’s repose differs from the sleep of carnal security.\n\nReformed accent: shared—rod and staff comfort in the valley. Fear is conquered by fixed eyes on the Shepherd’s presence and providence, not by pretending danger is unreal."
+    },
+    {
+      "number": 5,
+      "text": "You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows.",
+      "arminianNotes": "Wesley: A table—thou furnishest me with plenty of provisions and comforts. Oil—aromatic ointments used at great feasts; thy comforts delight my soul. Runneth over—a plentiful portion, the cup given by the master of the feast.\n\nArminian pastoral: shared—host’s abundance in enemies’ sight; oil and overflowing cup mark delight, not bare survival. Grace spreads the table; gratitude and tempered enjoyment still answer the gift.",
+      "reformedNotes": "Calvin: without figure now, God supplies all needed for this life—preparing a table as a father stretches food to a child, even while malicious persons envy and seek his ruin. Oil and overflowing cup commend abundance beyond bare necessity. The rich must be more ardent in gratitude and bridle excess; David still saw God as householder distributing meat and drink from his own store.\n\nReformed accent: shared—table, oil, and cup are God’s liberality amid enemies. Abundance calls for thanksgiving and temperance, not forgetting the Giver."
+    },
+    {
+      "number": 6,
+      "text": "Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the LORD forever.",
+      "arminianNotes": "Wesley closes with sure goodness and mercy following all one’s days, and dwelling in the LORD’s house for ever—the Shepherd’s care stretched to life’s length and into lasting fellowship with God.\n\nArminian reading: mercy that follows is lived faithfulness the believer experiences and trusts for remaining days. Dwelling in the house is the end the heart must keep seeking—grace enables hope; the hearer still cleaves to that house rather than treating pasture and table as the whole story.",
+      "reformedNotes": "Calvin: having recounted blessings, David expresses undoubted persuasion they will continue to life’s end. That confidence arises principally from the promise by which God seasons his gifts—not from measuring grace by the flesh. He does not impose unbroken earthly fullness on God, but hopes goodness will be favorable to the end. “I will dwell in the house of Jehovah” shows he aims at heaven’s mark—the fear and service of God—valuing earthly comforts only as they help him live to God; without belonging to God’s flock he would take no pleasure in them.\n\nReformed accent: future goodness rests on God’s promise confirming his people; the true end is dwelling with him in worship, not a cup that never empties under the sun.",
+      "keyContrast": "Both confess that goodness and mercy will follow all one’s days and that the hope ends in dwelling in the LORD’s house forever. Arminian readers stress mercy experienced as following faithfulness that invites continued trust and a heart that keeps seeking that house. Reformed readers, with Calvin, ground the undoubted persuasion principally in God’s promise—not flesh’s measure of the cup—and fix the mark in dwelling with God for worship, so earthly comforts serve that end rather than replace it."
+    }
+  ]
+}

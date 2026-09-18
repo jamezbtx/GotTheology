@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 119,
+  "verseStart": 41,
+  "verseEnd": 48,
+  "translation": "ESV",
+  "title": "Psalm 119:41–48",
+  "context": "The Waw stanza asks that the Lord’s steadfast love and salvation come according to his promise, so the singer may answer taunts, keep the word of truth on his lips, walk in a wide place, and speak of the testimonies even before kings. Delight and love for the commandments fill the close. Both camps trust the promise and refuse a mute faith under reproach; they differ on whether bold confession and continual keeping are Spirit-given ability or grace-assisted perseverance in a sincere truster.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on mercy and salvation according to the promise, liberty in seeking the precepts, and fearless witness before kings—so each camp speaks in its own voice beside Psalm 119:41–48.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Take not—Do not deal so with me, that I shall be ashamed to mention thy word. Judgments—In thy word. At liberty—Enjoy great freedom and comfort in thy ways. Lift up—To receive and embrace thy precepts and promises.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 119:43, 45, 48)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In mentioning the mercy of God first, and afterwards his salvation, the Psalmist puts the cause before the effect, acknowledging that there is no salvation for him but in the pure mercy of God. Take not the word of truth too long out of my mouth: support not only my heart by faith, but grant me also freedom of speech. The faculty of speaking freely is no more in our power than are the affections of the heart; as far as God directs our tongues, they are prepared for ready utterance. If any man yield implicit obedience to God, he will walk with a calm and composed mind.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 119:41, 43, 45)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 41,
+      "text": "Let your steadfast love come to me, O Lord, your salvation according to your promise;",
+      "arminianNotes": "Steadfast love and salvation are asked according to the promise—mercy first, then deliverance. Classical Arminians hear a sincere petition any servant of the word may bring: God has pledged himself, and love is invited to come.\n\nThe promise is the ground of hope, not a private password. Do not invent a salvation earned by native strength; do not shrink “according to your promise” into a closed circle announced without invitation.",
+      "reformedNotes": "Calvin: mercy is named before salvation—cause before effect. There is no salvation but in the pure mercy of God; and while he desires gracious salvation, he relies on the promise.\n\nReformed accent: steadfast love coming is God’s free favor, not a wage. The promise binds the plea; the fountain is mercy alone. Salvation flows to the servant God has worded into hope."
+    },
+    {
+      "number": 42,
+      "text": "then shall I have an answer for him who taunts me, for I trust in your word.",
+      "arminianNotes": "Trust in the word supplies an answer to taunts. Classical Arminians hear public confidence: God does not disappoint those who trust what he has said, so mockery need not silence the faithful.\n\nThe answer is not cleverness but reliance on Scripture. Shared ground: the word is enough to meet derision without revenge or despair.",
+      "reformedNotes": "Calvin: he is furnished with the best defense against calumnies—trust in God’s word. God never disappoints those who place confidence in him; the term word in both clauses corresponds—God by his Word furnishes another word for defense.\n\nReformed reading: magnanimity against blasphemy begins in trusting the word. Confession and hope are guarded by what God has spoken, not by native nerve."
+    },
+    {
+      "number": 43,
+      "text": "And take not the word of truth utterly out of my mouth, for my hope is in your rules.",
+      "arminianNotes": "Wesley: Take not—Do not deal so with me, that I shall be ashamed to mention thy word. Judgments—In thy word.\n\nClassical Arminians hear a pastoral fear of silenced witness and a plea for continued boldness. Hope in God’s rules sustains open profession. Grace is asked so the mouth may keep speaking truth without shame.",
+      "reformedNotes": "Calvin: he asks freedom of speech as well as faith of heart—“support my heart by faith, but grant me also freedom of speech.” The faculty of speaking freely is no more in our power than the affections of the heart; as far as God directs our tongues, they are ready—when he withdraws the spirit of magnanimity, hearts faint and tongues become mute. Judgments include the promises, the true foundation of confidence.\n\nReformed confession: bold utterance is Spirit-given, not self-wound courage. “Too long” accommodates human infirmity under assault, yet still flees to God for speech.",
+      "keyContrast": "Both refuse a mute faith under taunts and both ground hope in God’s word. Arminians typically hear a sincere plea that God not deal so as to shame the witness—grace sustaining open profession in those who hope. Reformed readers typically hear Calvin’s sharper claim: free speech is no more in our power than the heart’s affections; bold confession lasts only as God directs the tongue by his Spirit."
+    },
+    {
+      "number": 44,
+      "text": "I will keep your law continually, forever and ever,",
+      "arminianNotes": "Continual, lifelong keeping is vowed. Classical Arminians hear earnest resolve under grace—not a moment’s zeal, but perseverance asked and intended.\n\n“Forever and ever” presses against fading affection. The vow is pastoral fuel for hearers who would also keep; it is not a boast of finished strength.",
+      "reformedNotes": "Calvin: he resolves to study the law not briefly but to life’s end. Three synonyms intensify the point—without strenuous opposition the fear of God may be effaced and love of the law lost. He alludes to the difficulty and danger of the trials.\n\nReformed accent: continual keeping is resolved against temptation’s grind. Perseverance is contemplated as contested gift, not casual drift."
+    },
+    {
+      "number": 45,
+      "text": "and I shall walk in a wide place, for I have sought your precepts.",
+      "arminianNotes": "Wesley: At liberty—Enjoy great freedom and comfort in thy ways.\n\nClassical Arminians hear liberty as the comfort of those who seek the precepts—obedience enlarges rather than cages the soul. Seeking is real; the wide place is promised fruit under grace.",
+      "reformedNotes": "Calvin: if any yield implicit obedience to God, the reward is walking with a calm and composed mind; should difficulties come, God points a way where there seems none. The faithful may be in trouble, yet they walk at ease by committing the issue to God their guide.\n\nReformed reading: the wide place is God’s gift to seekers of his statutes, not autonomy inventing paths. Liberty and precept-seeking belong together under his care."
+    },
+    {
+      "number": 46,
+      "text": "I will also speak of your testimonies before kings and shall not be put to shame,",
+      "arminianNotes": "Testimonies spoken before kings without shame. Classical Arminians hear courage for public witness when power intimidates—love of the word outranking fear of rank.\n\nShared call: do not let empty splendor mute God’s glory. Boldness is sought and vowed where taunts had threatened silence (vv. 42–43).",
+      "reformedNotes": "Calvin: as if having obtained his request, he maintains he will not be dumb even before kings—who are more dreaded and haughtily shut the mouths of witnesses. We have profited by God’s word when hearts are fortified against fear of man so we do not dread kings. It is unbecoming that God’s glory be obscured by their empty splendor.\n\nReformed accent: fearless speech before thrones is fruit of the word’s fortifying work, not native bravado."
+    },
+    {
+      "number": 47,
+      "text": "for I find my delight in your commandments, which I love.",
+      "arminianNotes": "Delight and love for the commandments explain the courage of v. 46. Classical Arminians hear affection, not grim duty alone—love that makes witness natural.\n\nShared piety: commandments loved are not a burden grudgingly borne. Delight resists both legalism and antinomian coolness.",
+      "reformedNotes": "Calvin: he held the commandments in such esteem that nothing was more pleasant than making them his constant meditation. Delight expresses intensity of love.\n\nReformed confession: love of the commandments fuels public speech. Sweetness of the law knits the heart; hypocrisy that lifts hands without life is exposed in the next verse’s logic."
+    },
+    {
+      "number": 48,
+      "text": "I will lift up my hands toward your commandments, which I love, and I will meditate on your statutes.",
+      "arminianNotes": "Wesley: Lift up—To receive and embrace thy precepts and promises.\n\nClassical Arminians hear eager reception—hands stretched to take what God gives—joined to meditation. Love is shown in embrace and musing, not in bare talk.",
+      "reformedNotes": "Calvin: lifting the hands indicates eager desire—stretching out to grasp and enjoy. If gait pretends affection without regard in life’s affairs, it is base hypocrisy. Affection springs from the law’s sweetness; he will meditate—silent, secret musing.\n\nReformed accent: gesture, love, and meditation must match. The commandments loved are received and pondered under God."
+    }
+  ]
+}

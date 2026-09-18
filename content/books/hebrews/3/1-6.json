@@ -1,0 +1,70 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "Hebrews 3:1–6",
+  "context": "After showing the Son superior to angels and a merciful, faithful high priest who shared our flesh, the writer turns to holy brothers who share a heavenly calling: consider Jesus, the apostle and high priest of our confession. He is faithful like Moses in God's house—yet counted worthy of more glory, the builder over the house, the Son over the house where Moses served as a servant. We are his house if indeed we hold fast our confidence and our boasting in our hope.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Jesus as apostle and high priest, greater than Moses as Son over the house—so each camp speaks in its own voice beside Hebrews 3:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The heavenly calling—God calls from heaven, and to heaven, by the gospel. Consider the Apostle—the messenger of God, who pleads the cause of God with us. And High Priest—who pleads our cause with God. Both are contained in the one word Mediator. He compares Christ, as an Apostle, with Moses; as a Priest, with Aaron. Both these offices, which Moses and Aaron severally bore, he bears together, and far more eminently. But Christ was faithful as a Son; whose house we are, while we hold fast, and shall be unto the end, if we hold fast our confidence in God, and glorying in his promises; our faith and hope.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament, Hebrews 3"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He concludes the preceding doctrine with a necessary exhortation, that they should attentively consider what sort of being and how great Christ is. The word consider is important, for it intimates that singular attention is required, as he cannot be disregarded with impunity. Moses so ruled the Church, that he was still a part and member of it; but Christ being the builder, is superior to the whole building—Moses while ruling others, was ruled also himself, as he was a servant; but Christ being a Son possesses supreme power. Whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end. He exhorts those who had already made a profession of Christ to persevere in the faith, that they might be deemed as being in God's household.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews 3:1–6"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession,",
+      "arminianNotes": "Therefore—on the ground of the Son who shared flesh and blood and is a merciful, faithful high priest—holy brothers who share a heavenly calling must consider Jesus. Wesley: God calls from heaven, and to heaven, by the gospel. The Apostle is the messenger who pleads God's cause with us; the High Priest pleads our cause with God; both are in the one word Mediator. He bears together, and far more eminently, the offices Moses and Aaron bore severally. Of our profession: the religion we confess.\n\nArminian pastoral: the call is real and heavenly; the response is to fix the mind on Jesus, not on lesser mediators. Shared christology here: he is truly apostle and high priest of the confession. Considering him is not a bare glance; it is the living attention grace enables and faith owes.",
+      "reformedNotes": "Calvin: he concludes the preceding doctrine with a necessary exhortation—consider what sort of being and how great Christ is. The word consider intimates that singular attention is required; he cannot be disregarded with impunity. God favored them with no common grace when he called them into his kingdom; it remains that they fix their eyes on Christ as leader. Confession here stands for the faith professed—vain unless Christ is its object.\n\nReformed pastoral: holy brothers and heavenly calling name those God has set apart; the command is still to attend diligently to the Son. Shared: Jesus alone is apostle and high priest of our confession. The same Lord who called must be considered, or the profession is empty."
+    },
+    {
+      "number": 2,
+      "text": "who was faithful to him who appointed him, just as Moses also was faithful in all God's house.",
+      "arminianNotes": "Jesus was faithful to him who appointed him, just as Moses was faithful in all God's house. Wesley: his house—the church of Israel, then the peculiar family of God (Num. 12:7). Faithfulness is praised in both; the comparison honors Moses without equating the two.\n\nArminian note: shared ground—Christ's apostleship and priesthood rest on real fidelity to the Father who sent him. Moses is not scorned; he is the measuring line the writer will soon surpass. Pastoral comfort: the One we consider kept faith with the One who appointed him.",
+      "reformedNotes": "Calvin: this commendation of Christ's apostleship lets the faithful securely acquiesce in him—on two grounds: the Father set him over us as teacher, and Christ faithfully performed the office. God alone ought to be attended to; Christ delivered not his own doctrine but the Father's. As also Moses: for a while omitting the priesthood, he compares Christ with Moses in the office of teacher.\n\nReformed note: shared—both were faithful in God's house. Authority rests on divine appointment plus faithful discharge. None belong to God's church who will not acknowledge the Christ thus faithful to the Father."
+    },
+    {
+      "number": 3,
+      "text": "For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself.",
+      "arminianNotes": "Jesus is counted worthy of more glory than Moses—as much more as the builder has more honor than the house. Wesley: he that hath builded it hath more glory than the house—than the family itself, or any member of it. This is shared christology, not a camp fork: the Son outranks the servant-prophet.\n\nArminian pastoral: do not cast typology debates as Arminian versus Reformed. Both camps confess Jesus greater than Moses. The builder/house image lifts Christ above every member of the household, Moses included, without denying Moses' real faithfulness.",
+      "reformedNotes": "Calvin: lest he appear to make Moses equal to Christ, he reminds us of superior excellency. Moses so ruled the church that he was still a part and member of it; Christ being the builder is superior to the whole building. Moses while ruling others was ruled also, as a servant; Christ as Son possesses supreme power.\n\nReformed pastoral: shared—more glory than Moses is the letter's clear claim. The church is God's house; no one so eminent that he is not a member under the head. Christ alone stands above the structure he builds."
+    },
+    {
+      "number": 4,
+      "text": "(For every house is built by someone, but the builder of all things is God.)",
+      "arminianNotes": "Every house is built by someone; the builder of all things is God. Wesley: now Christ, he that built not only this house, but all things, is God—and so infinitely greater than Moses or any creature. The parenthesis seals the argument: if the builder outranks the house, and God builds all, Christ's glory is divine.\n\nArminian pastoral: shared confession—Christ is not a mere member of Israel's household; as God he is builder of all things. No open-theist detour: the living God who builds is not guessing. Faithfulness in the house rests on the God who made the house.",
+      "reformedNotes": "Calvin: though the words may be extended to the creation of the whole world, he confines them to the present subject—nothing is done in the church which ought not to be ascribed to God's power; he alone has founded it by his own hand. How much soever God uses the labors of men in building his church, he himself performs everything; the instrument derogates nothing from the workman.\n\nReformed pastoral: shared—the builder of all things is God, and this glory belongs to Christ. Human servants labor; God builds. Moses was an instrument; Christ is not a mere tool in another's hand."
+    },
+    {
+      "number": 5,
+      "text": "Now Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later,",
+      "arminianNotes": "Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later. Wesley: another proof of Christ's pre-eminence above Moses—faithful as a servant, for a testimony of the things afterwards to be spoken, a full confirmation of what he afterward spoke concerning Christ.\n\nArminian pastoral: shared—servant in the house versus Son over the house. Moses' honor is real and limited: he pointed forward. The camp fork is not whether Moses was great; both say he was a faithful servant whose testimony awaited the later word in Christ.",
+      "reformedNotes": "Calvin: the second difference—to Moses was committed a doctrine to which he, in common with others, was to submit; but Christ, though he put on the form of a servant, is yet Master and Lord. Moses, while a herald of doctrine for a time to the ancient people, rendered a testimony to the gospel not yet fully published. Limits were prescribed to him which it was not lawful for him to pass.\n\nReformed pastoral: shared—Moses as servant testifies; Christ as Son rules. The law's end is the perfection of wisdom in the gospel. Honor Moses; do not stop with Moses."
+    },
+    {
+      "number": 6,
+      "text": "but Christ is faithful over God's house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.",
+      "arminianNotes": "Christ is faithful over God's house as a son. We are his house, if indeed we hold fast our confidence and our boasting in our hope. Wesley: Christ was faithful as a Son; whose house we are, while we hold fast, and shall be unto the end, if we hold fast our confidence in God, and glorying in his promises—our faith and hope. Later he says of the parallel “if” at 3:14: if—but not else; a supposition made by the Holy Ghost is equal to the strongest assertion.\n\nArminian pastoral: the warning is not fake. Genuine house-membership is shown and conditioned by holding fast; confidence and hope-boasting are living marks, not a one-time ticket. Grace enables perseverance; the “if indeed” still names a real condition. Do not soften the exhortation into inevitability that never summons the will.",
+      "reformedNotes": "Calvin: he exhorts those who had already professed Christ to persevere in the faith, that they might be deemed as being in God's household. They would have a place in God's family when they obeyed Christ; having embraced the gospel, he mentions their condition if they persevered. Hope he takes with the constancy of faith; confidence and rejoicing express faith's power. Those who assent doubtfully do not truly believe.\n\nReformed pastoral: the warning is not fake for this camp either. The elect hold fast; the “if” is the evidence of belonging, not a bare threat emptied of force. Profession without perseverance is not the house Christ keeps. Hold fast—because those who are truly his do, and because the word will not comfort presumption.",
+      "keyContrast": "Both confess Christ faithful as Son over the house, and both treat “if indeed we hold fast” as a real warning, not a sham. Arminians typically hear genuine house-membership shown and conditioned by holding fast—confidence and hope as living marks grace enables but does not render optional. Reformed readers typically hear the same urgency as evidence: the elect hold fast; the “if” proves belonging rather than making final perseverance a wager against God's keeping."
+    }
+  ]
+}

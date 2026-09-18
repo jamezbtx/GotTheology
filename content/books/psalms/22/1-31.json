@@ -1,0 +1,225 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 22,
+  "verseStart": 1,
+  "verseEnd": 31,
+  "translation": "ESV",
+  "title": "Psalm 22:1–31",
+  "context": "Psalm 22 moves from the forsaken cry—“My God, my God, why have you forsaken me?”—through scorn, thirst, pierced hands and feet, and lots cast for clothing, to the rescued singer who tells God’s name to his brothers, calls Jacob’s seed to praise, and sees the ends of the earth remember and turn. Shared apostolic christology hears the cross in the opening and the passion details, Hebrews 2 in the congregational praise, and worldwide worship in the closing vows—humiliation answered by exaltation and gospel praise to a people yet unborn.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the forsaken cry, the scorn and piercing, the garments and the rescue, and the worldwide turn to praise—so each camp speaks in its own voice beside Psalm 22:1–31.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is confessed that David was a type of Christ, and that many passages of the Psalms, though literally understood of David, yet had a further and mystical reference to Christ. But there are some other passages which were directly and immediately intended for, and are properly to be understood of, the Messiah; and this seems to be the state of this psalm, which is understood of the Messiah by the Hebrew doctors themselves, and by Christ himself and by his apostles. There are many passages in it which were literally accomplished in him, and cannot be understood of any other. In this psalm David speaks of the humiliation of Christ, ver. 1–21, and of the exaltation of Christ, ver. 22–31. My God—who art my friend and father, though now thou frownest upon me. Forsaken—withdrawn the light of thy countenance, the supports and comforts of thy spirit, and filled me with the terrors of thy wrath: this was in part verified in David, but much more fully in Christ. Pierced—these words cannot with any probability be applied to David, but were properly and literally verified in Christ. They part my garments—this also cannot be applied to David, but was literally fulfilled in Christ. Declare thy name unto my brethren—applied to Christ, Heb. 2:11–12. All the ends of the world shall remember and turn—an evident prophecy of the calling of the Gentiles, and a clear proof that this psalm immediately speaks of Christ. They shall declare his righteousness unto a people that shall be born—David teaches us that he speaks not here of himself, but of things to be done in after-ages, even of the spreading of the gospel among the Gentiles; that this is the work of God, and not of man.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 22)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David complains that he is reduced to such distress that he is like a man in despair; yet after recounting his calamities he emerges from the abyss of temptations and comforts himself with the assurance of deliverance. At the same time he sets before us, in his own person, a type of Christ, who he knew by the Spirit of prophecy must be abased in marvellous ways previous to his exaltation by the Father. When the Psalmist speaks of being forsaken, it seems the complaint of despair; yet in calling God twice his own God he makes a distinct confession of faith. Christ on the cross used these very words; as our representative who took our sins, he appeared before God’s judgment-seat, and the terror of the curse constrained the cry—yet without sin, for the perfection of his nature preserved him from excess. Dogs encompass me; they have pierced my hands and feet—fulfilled visibly in the Son that we might be sure Christ is here described by the Spirit of prophecy. I will declare thy name to my brethren—under the figure of David, Christ is shadowed forth; the apostle justly deduces that under the name of brethren the right of fraternal alliance with Christ is confirmed to genuine believers. All the ends of the earth shall remember and turn—beyond doubt David stops not at his own person but under himself describes the promised Messiah; the kingdom is Jehovah’s that he may rule among the nations, and this conversion was effected under the management of Christ. They shall declare his righteousness to a people yet unborn, because he hath done it—the Holy Spirit recommends the publication of Christ’s resurrection; preaching of grace keeps the Church from perishing.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 22)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?",
+      "arminianNotes": "Wesley: My God—who art my friend and father, though now thou frownest upon me. The repetition denotes the depth of his distress. Forsaken—withdrawn the light of thy countenance, the supports and comforts of thy spirit, and filled me with the terrors of thy wrath: this was in part verified in David, but much more fully in Christ. Roaring—out-cries forced by miseries.\n\nShared messianic confession: Matthew 27:46 and Mark 15:34 put this cry on Christ’s lips. Arminian hearing: the forsaking is real—wrath’s terrors, not play-acting—yet “My God” still claims the Father. Grace enables the sufferer to keep crying; the hearer must not let the frown cancel the name.",
+      "reformedNotes": "Calvin: two contrary sentences enter the godly mind together—forsakenness that sounds like despair, and “My God! my God!” that confesses faith. Faith is given the first place before the complaint; the reprobate, cherishing distrust, are overwhelmed and cannot aspire after grace by faith. Christ used these words on the cross as our representative under the curse, yet without sin; the psalm is prophecy concerning David’s King and Lord.\n\nReformed accent: shared—Christ truly cried this. The conflict trains the elect: flesh feels cast off; faith beholds hidden grace in the promises until the Father’s countenance returns.",
+      "keyContrast": "Both confess the shared christology of the forsaken cry—Christ on the cross spoke these words under real judicial sorrow, not mere theatre. Arminian readers, with Wesley, stress the depth of withdrawn comfort and wrath’s terrors, and the grace-enabled duty still to claim “My God” while the frown lasts. Reformed readers, with Calvin, stress that faith precedes and corrects the complaint, and that the elect wrestle without being swallowed as the reprobate are when distrust takes entire possession."
+    },
+    {
+      "number": 2,
+      "text": "O my God, I cry by day, but you do not answer, and by night, but I find no rest.",
+      "arminianNotes": "Wesley’s notes leave the verse to stand with the cry of v. 1: day and night without answer deepen the distress that drives the roaring.\n\nArminian pastoral: shared—unanswered crying is a real trial. Grace keeps the pray-er at the throne when silence stretches; the hearer must not treat no-answer as permission to quit. Night without rest still belongs under “O my God.”",
+      "reformedNotes": "Calvin: long continuance increases weariness; the temptation is worse when crying seems lost labor. Yet constancy of faith appears—duration of calamities neither overthrows faith nor interrupts its exercise. The true rule: he who seems to have beaten the air should not desist. God in fatherly kindness lets his people unburden perplexities into his bosom.\n\nReformed accent: shared—day-and-night silence tries the saints. Prayer continues because faith is kept; disappointment becomes matter for further trust, not shipwreck.",
+      "keyContrast": "Both confess that day-and-night crying without answer is a severe trial that must not end prayer. Arminian readers stress the grace-enabled perseverance of the one who keeps crying “O my God” when silence lasts. Reformed readers, with Calvin, stress that faith’s constancy is not overthrown by delay—God keeps his people’s praying from shipwreck and receives their unburdened distress."
+    },
+    {
+      "number": 3,
+      "text": "Yet you are holy, enthroned on the praises of Israel.",
+      "arminianNotes": "Wesley: But thou art—just and true in all thy ways; this he adds to strengthen his faith, and to enforce his prayers, and prevail with God for the honour of his holy name. Inhabitest—whom thy people are perpetually praising.\n\nShared piety: holiness is the shield against despair. Arminian hearing: the sufferer appeals to God’s character so that faith and petition rise together; praise’s throne is not cancelled by the frown of v. 1.",
+      "reformedNotes": "Calvin: “Yet thou art holy”—adversative: God has always shown himself gracious to his chosen people. David turns from the temptation of forsaking to the constant evidences of grace, taking a shield against Satan’s darts. Holy means God continues always like himself; he inhabits Israel’s praises because he continually furnishes matter for thanksgiving.\n\nReformed accent: shared—holiness and praise steady the forsaken. Contemplating covenant faithfulness is how faith resists the dark night of felt abandonment."
+    },
+    {
+      "number": 4,
+      "text": "In you our fathers trusted; they trusted, and you delivered them.",
+      "arminianNotes": "Wesley’s frame: the fathers’ trust and deliverance strengthen the present cry—what God did for them he can do again.\n\nArminian pastoral: shared—ancestral trust is a live pattern, not museum piety. Grace invites the hearer into the same trust; deliverance answered their faith, and the covenant line still calls for trust today.",
+      "reformedNotes": "Calvin: David gathers past ages to persuade himself that God, who never cast off his chosen, will deliver him as one of their number—an heir of the same grace. He has an eye to the covenant by which God adopted Abraham’s posterity. Trust repeated shows hope that draws the fulfillment of the promises.\n\nReformed accent: shared—fathers trusted and were delivered. The example strengthens only those who reckon themselves inside the covenant people God keeps."
+    },
+    {
+      "number": 5,
+      "text": "To you they cried and were rescued; in you they trusted and were not put to shame.",
+      "arminianNotes": "Wesley’s silence on the verse leaves the plain sense: cry, rescue, trust, no shame.\n\nArminian hearing: shared—true faith cries and is not finally ashamed. Grace opens the mouth; the hearer must still cry. Rescue answers trust; shame does not have the last word over those who call.",
+      "reformedNotes": "Calvin: he who pretends trust yet is listless under calamity and does not implore aid lies shamefully. By prayer true faith is known, as a tree by its fruit. God regards as right only prayers that proceed from faith. “Cried” stands between the repeated “trusted,” joining petition to confidence.\n\nReformed accent: shared—cry and trust belong together. Faith without crying is counterfeit; crying without trust is not the prayer God owns."
+    },
+    {
+      "number": 6,
+      "text": "But I am a worm and not a man, scorned by mankind and despised by the people.",
+      "arminianNotes": "Wesley: A worm—neglected and despised. People—not only of the great men, but also of the common people. Which doth not so truly agree to David as to Christ.\n\nShared messianic lowliness: Isaiah 53’s despised Servant stands behind the worm. Arminian pastoral: the scorn is real and public; grace does not deny the abasement. Hearers who follow the crucified share his reproach without pretending dignity the world still grants.",
+      "reformedNotes": "Calvin: David does not murmur as if God dealt hardly, but bewails his condition to induce mercy—he is not accounted so much as a man. Remember principally the Son of God, in whom Isaiah 53:3 was fulfilled. “Worm” is no curious allegory of generation; it means abased beneath all men. Christ’s descent to such ignominy is a bright mirror of unparalleled grace.\n\nReformed accent: shared—Christ the despised One. Extreme abasement becomes argument for hope of deliverance, not license for despair."
+    },
+    {
+      "number": 7,
+      "text": "All who see me mock me; they make mouths at me; they wag their heads;",
+      "arminianNotes": "Wesley: Shoot out—they gape with their mouths in mockery. This and the next verse are applied to Christ, Matt. 27:39, 43.\n\nShared passion reading: the Evangelists hear this scorn at the cross. Arminian hearing: mockery is moral guilt, not fate’s scenery. Those who wag the head stand accountable; the sufferer’s shame is publicly fulfilled in Jesus.",
+      "reformedNotes": "Calvin: scorn from the lowest of men—insolence by gesture, thrusting out the lip and shaking the head. The godly must expect the same weapon Satan used against the Son. Yet the complaint itself proves sincerity before God who sees the heart.\n\nReformed accent: shared—Matt. 27’s mockers fulfill the type. Derision aims to dislodge hope; the answer is witness before God, not matching scorn."
+    },
+    {
+      "number": 8,
+      "text": "“He trusts in the LORD; let him deliver him; let him rescue him, for he delights in him!”",
+      "arminianNotes": "Wesley applies the mock with Matt. 27:43: the taunt turns trust and delight into a dare.\n\nShared christology: the cross repeats this jeer. Arminian pastoral: enemies treat faith as vain arrogance. Grace holds the trusted LORD when deliverance delays; the hearer must not let the taunt redefine delight as hypocrisy.",
+      "reformedNotes": "Calvin: the most grievous reproach—they allege that God, whom he avowed as Father, is turned away. Satan’s deadly dart is to dislodge hope by turning promises into ridicule, indirectly charging hypocrisy. The verb “commit” (roll upon Jehovah) shows faith reposing on providence. Christ was assailed with the same weapon; believers defend themselves by committing all to God.\n\nReformed accent: shared—the taunt of Matt. 27. Trust rolled on God is not vain confidence; God will vindicate those who lean on his delight."
+    },
+    {
+      "number": 9,
+      "text": "Yet you are he who took me from the womb; you made me trust you at my mother’s breasts.",
+      "arminianNotes": "Wesley’s frame: from the womb God has been the midwife of life and the teacher of trust—personal history against the present scorn.\n\nArminian pastoral: shared—lifelong care grounds present faith. Grace began before the sufferer could choose; the hearer still leans on the God who took him from the womb and taught trust at the breast.",
+      "reformedNotes": "Calvin: a new fortress against Satan—benefits from earliest infancy prove God a father. Even before birth God’s fatherly love shone; childbirth and nursing display wonderful providence. God anticipates little infants by grace before they have use of reason, alluring them to himself by care for their life.\n\nReformed accent: shared—womb-to-breast care. Past liberality argues present hope: the God who never wearies in kindness will not fail extreme old age."
+    },
+    {
+      "number": 10,
+      "text": "On you was I cast from my birth, and from my mother’s womb you have been my God.",
+      "arminianNotes": "Wesley’s silence leaves the plain claim: from birth cast on God, who has been “my God” from the womb.\n\nArminian hearing: shared covenant intimacy from the start. Grace claims the infant years; the adult sufferer still confesses the same God. “My God” in v. 1 rests on this lifelong belonging.",
+      "reformedNotes": "Calvin: the infant is cast upon God—without his fatherly bosom, babes would perish. God shows himself Father to mankind in a special manner; he is said to give infants confidence by care that allures them. Since he anticipates by grace, he will not disappoint servants who later call upon him.\n\nReformed accent: shared—from the womb, my God. Lifelong belonging is God’s initiative of care; present prayer leans on that same Father."
+    },
+    {
+      "number": 11,
+      "text": "Be not far from me, for trouble is near, and there is none to help.",
+      "arminianNotes": "Wesley’s notes leave the urgency plain: near trouble, no helper—so “be not far.”\n\nArminian pastoral: shared—aloneness is real petition-fuel. Grace sends the cry when human help is gone; the hearer must still ask God near rather than invent other saviors.",
+      "reformedNotes": "Calvin: another argument—sore distress and no helper. The Scriptures attribute to God the office of succoring the miserable, more ready to help the more we are afflicted. Even despair served as a ladder to elevate devout prayer. The feeling of affliction should drive us under God’s wings.\n\nReformed accent: shared—near trouble, none to help. Desolation becomes reason to plead God’s nearness, not to conclude he has left the field."
+    },
+    {
+      "number": 12,
+      "text": "Many bulls encompass me; strong bulls of Bashan surround me;",
+      "arminianNotes": "Wesley: Bulls—wicked, violent, and potent enemies (Ezek. 39:18; Amos 4:1). Of Bashan—as the cattle there bred were fierce and furious.\n\nArminian hearing: shared—enemies pictured as massive, well-fed violence. The surround is moral hostility, not abstract fate; grace does not deny the herd’s strength while the sufferer cries.",
+      "reformedNotes": "Calvin: cruelty compared to bulls, then lions, then dogs—blood-thirsty beyond manhood. Strong bulls, not merely many; bulls of Bashan are well-fed, large, and strong from rich pastures.\n\nReformed accent: shared—Bashan’s strength names real foes. The type presses toward Christ’s encirclement by raging powers."
+    },
+    {
+      "number": 13,
+      "text": "they open wide their mouths at me, like a ravening and roaring lion.",
+      "arminianNotes": "Wesley’s frame with the bulls: gaping mouths ready to devour.\n\nShared menace: lion-rage around the righteous sufferer. Arminian pastoral: the open mouth is accountable cruelty; the cry of vv. 19–21 answers it without pretending the threat is small.",
+      "reformedNotes": "Calvin: after bulls, the lion’s ravening and roaring—fierce boldness rushing to injure. David’s enemies resembled wild beasts more than men.\n\nReformed accent: shared—beastly rage. The Spirit later shows the same surround at the cross; faith names the danger without denying God’s power to save."
+    },
+    {
+      "number": 14,
+      "text": "I am poured out like water, and all my bones are out of joint; my heart is like wax; it is melted within my breast;",
+      "arminianNotes": "Wesley: Water—spirits spent and gone like water that once spilt cannot be recovered; flesh melted, weak as water. Bones—unable to help myself, full of torment as if disjointed. Wax—melted through fear and overwhelming grief.\n\nArminian hearing: shared—inward collapse, not stoic steel. Christ’s real humanity bears such melting; grace does not cancel the wax-heart while trust still prays.",
+      "reformedNotes": "Calvin: not far from death by wild beasts, he also bewails inward distress—fear that poured him out, disjointed bones, heart like wax. David was agitated by sore temptations he could not have sustained without the Spirit’s power. Applicable to Christ: real man, truly subject to flesh’s infirmities without sin’s taint; perfect nature regulated affections so they did not become sinful through excess.\n\nReformed accent: shared—poured-out anguish in the Passion’s type. Groan to God for restoration of strength when nearly lifeless."
+    },
+    {
+      "number": 15,
+      "text": "my strength is dried up like a potsherd, and my tongue sticks to my jaws; you lay me in the dust of death.",
+      "arminianNotes": "Wesley: Dried—no more moisture than a dry potsherd. Cleaveth—through excessive thirst and drought. Death—thy providence delivering me into enemies’ power, and by thy terrors in my soul.\n\nShared passion detail: thirst and dust answer John 19:28’s “I thirst.” Arminian pastoral: providence and soul-terrors are both named; the hearer sees Christ’s drought without thinning either the Father’s hand or the Son’s agony.",
+      "reformedNotes": "Calvin: strength dried like a potsherd; tongue cleaving to jaws; adjudged to the grave—“thou hast brought me to the dust of death.” Hyperbole leads beyond David to Christ: the Redeemer’s encounter with death, bloody sweat, descent into the sense of wrath, emptying himself. In Christ terror from the curse and patience from faith were conjoined.\n\nReformed accent: shared—dust of death under God’s hand. Hope quickens the dead when destruction seems the only near thing."
+    },
+    {
+      "number": 16,
+      "text": "For dogs encompass me; a company of evildoers encircles me; they have pierced my hands and feet—",
+      "arminianNotes": "Wesley: Dogs—enemies for insatiable greediness and implacable fierceness. Pierced—these words cannot with any probability be applied to David, but were properly and literally verified in Christ.\n\nShared messianic confession: hands and feet pierced point to the cross (John 20:25; Zech. 12:10). Arminian hearing: literal fulfillment in Jesus, not a stretch. Both camps refuse to leave this verse as mere Davidic metaphor alone.",
+      "reformedNotes": "Calvin: dogs and the assembly of the wicked; “they have pierced my hands and my feet”—despite Hebrew “like a lion” readings, the scope and the versions compel “pierced,” and Evangelists apply it to the crucifixion. The Father intended that in the Son those things shadowed in David should be visibly accomplished so dull hearts might awaken.\n\nReformed accent: shared—pierced hands and feet of Christ. Prophecy made palpable at Calvary; the church reads the nails without embarrassment."
+    },
+    {
+      "number": 17,
+      "text": "I can count all my bones— they stare and gloat over me;",
+      "arminianNotes": "Wesley: May tell—by my being stretched out upon the cross.\n\nShared passion reading: exposed, countable bones and gloating stares. Arminian pastoral: the shame is public and intentional; grace does not deny the spectacle while it names the Crucified.",
+      "reformedNotes": "Calvin: body so wasted bones protrude; enemies take pleasure in the pitiable sight—cruelty feeding eyes on a wretched man. The two clauses connect: lean exposure and gloating stare.\n\nReformed accent: shared—cross-exposure. The type’s humiliation is not edited away; Christ endured the stare that David voiced."
+    },
+    {
+      "number": 18,
+      "text": "they divide my garments among them, and for my clothing they cast lots.",
+      "arminianNotes": "Wesley: They part—this also cannot be applied to David, but was literally fulfilled in Christ, Matt. 27:35; John 19:24.\n\nShared messianic confession: lots for clothing are Gospel fact. Arminian hearing: another line that “cannot” rest on David alone; both camps confess the Evangelists’ plain fulfillment.",
+      "reformedNotes": "Calvin: garments divided and lots cast—metaphorically David’s goods as spoil, yet the Evangelists quote to the letter. The heavenly Father made the prophecy visible in the Son so that we might be sure the Spirit here describes Christ.\n\nReformed accent: shared—John 19:24. Spoil at the foot of the cross seals the psalm’s christology; mockery compounds the villany."
+    },
+    {
+      "number": 19,
+      "text": "But you, O LORD, do not be far off! O you my help, come quickly to my aid!",
+      "arminianNotes": "Wesley’s frame: after the passion details, the plea turns again—“be not far,” “haste to help.”\n\nArminian pastoral: shared—nearness and haste are right petitions. Grace keeps asking when enemies cast lots; the hearer must still cry for quick aid rather than silence.",
+      "reformedNotes": "Calvin: having reached utmost misery with no ray of hope from sense, David rises from the abyss to call on God—a wonderful instance of faith’s power. He does not lament as if in vain; calling God his strength proves he promises himself aid not yet perceived.\n\nReformed accent: shared—do not be far; come quickly. Faith names God “my help” while help is still unseen."
+    },
+    {
+      "number": 20,
+      "text": "Deliver my soul from the sword, my precious life from the power of the dog!",
+      "arminianNotes": "Wesley: Darling—Heb. my only one; his soul, left alone and destitute of friends and helpers.\n\nArminian hearing: shared—soul and only life under lethal threat. Grace values the life enemies treat as prey; the prayer for deliverance is earnest, not theatrical.",
+      "reformedNotes": "Calvin: sword, dog’s hand, lion’s mouth, unicorns’ horns—many forms of present death. “Only soul” means alone and destitute of aid (cf. Ps. 35:17; 25:16). Amid deaths he continued strong in the Lord; life’s spirit remained vigorous in his heart.\n\nReformed accent: shared—deliver the lonely life. Surrounded by death-forms, faith still asks rescue of the precious soul."
+    },
+    {
+      "number": 21,
+      "text": "Save me from the mouth of the lion! You have rescued me from the horns of the wild oxen!",
+      "arminianNotes": "Wesley: Heard—answered and delivered me.\n\nArminian reading: shared turning-point—cry answered. Grace hears; rescue is real. The hearer learns that petition is not lost labor; answered prayer belongs to the same psalm as the forsaken cry.",
+      "reformedNotes": "Calvin: “Answer me from the horns of the unicorns”—cause for effect; deliverance follows God’s hearing. Applied to Christ: the Father did not prevent death, yet answered more mightily by resurrection than by sparing the cross—greater to rise than to be healed of a grievous malady. Death did not prevent the resurrection from witnessing that he had been heard.\n\nReformed accent: shared—saved from lion and wild oxen. For Christ the hearing is exaltation through death, not escape from every pain.",
+      "keyContrast": "Both confess that God hears and rescues from mortal threat, turning the psalm from agony toward praise. Arminian readers, with Wesley, stress answered prayer—heard and delivered in response to the cry. Reformed readers, with Calvin, stress that Christ’s hearing was the mightier deliverance of resurrection through death, not bare prevention of the cross—so faith measures God’s answer by the Father’s exaltation of the Son."
+    },
+    {
+      "number": 22,
+      "text": "I will tell of your name to my brothers; in the midst of the congregation I will praise you:",
+      "arminianNotes": "Wesley: Declare—when thou hast delivered me. Thy name—power, faithfulness, and goodness manifested on my behalf. Brethren/congregation—fits Christ, who extends this name to all his disciples (Matt. 12:48–49); this text is applied, Heb. 2:11–12.\n\nShared messianic confession: Hebrews hears Christ praising in the assembly. Arminian pastoral: deliverance becomes declaration among brothers; grace opens praise in the church’s midst.",
+      "reformedNotes": "Calvin: gratitude after deliverance; under David’s figure Christ is shadowed. The apostle (Heb. 2:12) argues Christ’s true fellowship with us as brethren. The title belongs properly to genuine believers; Christ limits it to disciples (John 20:17). Ungodly unbelief breaks the fleshly relationship and leaves them strangers.\n\nReformed accent: shared—Heb. 2’s brothers. Praise in the congregation is Christ’s and his people’s; fraternal alliance is confirmed to true believers."
+    },
+    {
+      "number": 23,
+      "text": "You who fear the LORD, praise him! All you offspring of Jacob, glorify him, and stand in awe of him, all you offspring of Israel!",
+      "arminianNotes": "Wesley’s frame: the delivered singer summons the fearing seed to praise, glory, and awe.\n\nArminian pastoral: shared—fear and praise together. Grace gathers Jacob’s offspring into glad reverence; the hearer who fears is called to glorify, not to mute gratitude.",
+      "reformedNotes": "Calvin: public thanksgiving invites and stirs the church. He addresses those who fear God—hypocrites may sing with open mouth but only pollute the Name. True celebration joins praise with inward fear; even the holiest need continual stirring to awe.\n\nReformed accent: shared—seed of Jacob, fear and glorify. Pure affection, not bare ceremony, makes the harmony God accepts."
+    },
+    {
+      "number": 24,
+      "text": "For he has not despised or abhorred the affliction of the afflicted, and he has not hidden his face from him, but has heard, when he cried to him.",
+      "arminianNotes": "Wesley: Abhorred—he did not turn away his face from it, as men do from things they abhor. From him—for ever: though he did so for a time.\n\nArminian hearing: shared—temporary hiding, final hearing. The forsaken cry of v. 1 is answered; affliction was not abhorred. Grace comforts the afflicted that the face returns; the hearer keeps crying until heard.",
+      "reformedNotes": "Calvin: the church gives thanks in common for one member’s welfare (cf. 2 Cor. 1:11). The statement encourages every sufferer to hope for the same mercy. God’s people should endure afflictions patiently, however long he keeps them in distress, that he may at length succor them.\n\nReformed accent: shared—not despised, not finally hidden, heard when cried. Long distress trains patience under a God who does hear his afflicted."
+    },
+    {
+      "number": 25,
+      "text": "From you comes my praise in the great congregation; my vows I will perform before those who fear him.",
+      "arminianNotes": "Wesley: Great congregation—in the universal church, of Jews and Gentiles.\n\nArminian pastoral: shared—praise sourced from God, vows paid before the fearing. The congregation is already widening; grace turns private rescue into public worship across peoples.",
+      "reformedNotes": "Calvin: praise proceeds from God—deliverance owed entirely to him, not self-trumpet. Vows paid among those who fear him; desire that witnesses be true worshippers. Papist superstitions are not to be equaled to this holy thanksgiving God commanded.\n\nReformed accent: shared—great assembly, vows before fearers. Gratitude is public edification, God the sole source of the song."
+    },
+    {
+      "number": 26,
+      "text": "The afflicted shall eat and be satisfied; those who seek him shall praise the LORD! May your hearts live forever!",
+      "arminianNotes": "Wesley: Satisfied—spiritual blessings: grace, peace, comfort in God’s love, pardon, and the Spirit’s influences. Seek him—seek his favour. Your heart—same persons; comfort everlasting, not short as worldly comforts.\n\nArminian reading: shared feast for the afflicted who seek. Grace supplies lasting heart-life; the hearer must still seek and eat—satisfaction is promised to seekers, not to the indifferent.",
+      "reformedNotes": "Calvin: sacrificial feast picturing God’s goodness to the afflicted; they praise who seek him—genuine godliness’s mark. “Your heart shall live for ever” is not one meal but hope of ready succor; deliverance of one is counted deliverance for the faithful. Hypocrites have bare ceremony; right performance belongs to true seekers. The Lord’s supper renews spiritual life still more for those who seek with the whole heart.\n\nReformed accent: shared—afflicted eat; seekers praise; hearts live. Seeking marks real piety; forever life is God-given hope, not a snack of ritual.",
+      "keyContrast": "Both confess that the afflicted eat and are satisfied, that seekers praise the LORD, and that heart-life is everlasting, not worldly and short. Arminian readers, with Wesley, stress spiritual blessings for those who actually seek his favour—grace enables seeking the hearer must take up. Reformed readers, with Calvin, stress that true seekers, not ceremonial hypocrites, share the feast, and that forever heart-life is the hope God works in his people through deliverance and, under the gospel, at the Lord’s table."
+    },
+    {
+      "number": 27,
+      "text": "All the ends of the earth shall remember and turn to the LORD, and all the families of the nations shall worship before you.",
+      "arminianNotes": "Wesley: The world—all nations from one end to the other: evident prophecy of the calling of the Gentiles, proof the psalm speaks of Christ. Remember—former wickedness with grief, shame, and fear; obligations to God; Christ’s words and works. The Lord—the only true God, and Jesus Christ, to whom Jehovah’s name is often ascribed.\n\nShared messianic hope: worldwide turn and worship. Arminian pastoral: remember and turn name real repentance; families of nations must convert, not merely hear a rumor.",
+      "reformedNotes": "Calvin: beyond doubt David describes the promised Messiah—forced submission of conquered nations is not the same as willing godliness grafting Gentiles into the church. Remember and turn: awakened by signal miracles, Gentiles return from alienation. True worship proceeds from knowledge of God.\n\nReformed accent: shared—ends of the earth turn and worship. The change is conversion into the church’s fellowship under Christ, not bare political subjection.",
+      "keyContrast": "Both confess the shared prophecy that all ends of the earth remember, turn to the LORD, and worship—the calling of the Gentiles in Christ. Arminian readers, with Wesley, stress remembering sin with grief and turning to God and Christ—repentance and obligation the nations must take up. Reformed readers, with Calvin, stress that this is Messiah’s willing church from the nations, grafted by true conversion under Christ’s rule, not forced tribute or fading rumor."
+    },
+    {
+      "number": 28,
+      "text": "For kingship belongs to the LORD, and he rules over the nations.",
+      "arminianNotes": "Wesley: For—reason why Gentiles should be converted: God is not only Lord of the Jews but of the Gentiles and of all nations.\n\nShared confession: universal kingship grounds universal worship. Arminian hearing: the nations owe allegiance because the LORD already rules; conversion answers his right, not a tribal limit.",
+      "reformedNotes": "Calvin: the kingdom is Jehovah’s that he may rule among the nations—God’s throne erected for Christ to govern the world. He exercises authority in deed when ignorance’s darkness is dispelled by his word. The world was subdued when the unconquerable were brought to willing obedience by the gospel—under Christ’s management.\n\nReformed accent: shared—kingship and rule over the nations. Gospel light is how the reign appears; Christ gathers willing subjects from every side."
+    },
+    {
+      "number": 29,
+      "text": "All the prosperous of the earth eat and worship; before him shall bow all who go down to the dust, even the one who could not keep himself alive.",
+      "arminianNotes": "Wesley: Fat—kings, princes, great men. Shall eat—feed upon the bread of life, Christ and his benefits. Worship—shows what kind of eating. Go down—all mankind; none escape death.\n\nArminian pastoral: shared—rich and dying alike bow. Grace sets the same table; the prosperous must worship, not trust fatness, and the dust-bound cannot keep themselves alive.",
+      "reformedNotes": "Calvin: fat ones also invited, lest abundance keep minds on earth; the poor had first comfort, yet the rich need remedy against intoxication with delights. Even those reduced to dust and despaired of are called—partakers of the same grace. Fat must become lean to be fed; the famished must take undaunted confidence.\n\nReformed accent: shared—prosperous eat and worship; dust-bowers included. One Lord feeds high and low; none quickens his own soul."
+    },
+    {
+      "number": 30,
+      "text": "Posterity shall serve him; it shall be told of the Lord to the coming generation;",
+      "arminianNotes": "Wesley: A seed—Christ shall not want a seed or posterity; though the Jewish nation generally reject him, the Gentiles shall come in their stead. A generation—that believing seed reputed the people of the Lord.\n\nShared hope: ongoing seed serving the Lord. Arminian pastoral: gospel posterity continues by believing Gentiles when many reject; service and telling belong to the next generation.",
+      "reformedNotes": "Calvin: posterity will never forget; conversion of the world continues age after age. Perpetuity of the Church: God always raises some sincerely to serve him. This seed is fruit of the incorruptible seed—God begets and multiplies his Church by his word. Registered to the Lord—Christ invested with authority to register those on God’s side; the Father commits the chosen to the Son’s guardianship.\n\nReformed accent: shared—posterity serves; the Lord is told to the coming generation. The church’s continuance is God’s raising of a seed by the word under Christ’s care."
+    },
+    {
+      "number": 31,
+      "text": "they shall come and proclaim his righteousness to a people yet unborn, that he has done it.",
+      "arminianNotes": "Wesley: They—the seed. Come—from Judea and Jerusalem to the Gentile world, where the apostles went. His righteousness—God’s wonderful grace and mercy in giving Christ and the gospel. Unto succeeding generations—David’s key that he speaks not of himself but of gospel-spread in New Testament ages. That he—this is the work of God, and not of man.\n\nShared climax: proclamation to the unborn that God has done it. Arminian pastoral: mission declares divine righteousness and mercy; hearers in every generation receive a finished work of God, not a human achievement.",
+      "reformedNotes": "Calvin: fathers transmit knowledge hand to hand so God’s name remains; the church is kept from perishing by preaching grace. Care to instruct children is enjoined; burying God’s remembrance is great turpitude. Righteousness here is God’s faithfulness in preserving his people—illustrious in not abandoning them. The Spirit recommends publication of Christ’s resurrection: declare his righteousness because he has done it.\n\nReformed accent: shared—proclaim to a people yet unborn that he has done it. Preaching Christ’s finished deliverance perpetuates the church; God’s righteousness in keeping his own is what the generations tell.",
+      "keyContrast": "Both confess that a coming seed will proclaim God’s righteousness to a people yet unborn, and that the great deed—“he has done it”—is God’s work in Christ and the gospel, not man’s. Arminian readers, with Wesley, stress the apostolic mission from Jerusalem to the nations and the mercy of giving Christ that each generation must hear and declare. Reformed readers, with Calvin, stress that preaching grace keeps the church from perishing, that God raises and registers the seed by his word under Christ, and that the righteousness declared is his faithful preservation of his people fulfilled in the risen Son."
+    }
+  ]
+}

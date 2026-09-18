@@ -60,6 +60,26 @@
       "why": "Even to your old age I am he; I will carry you and will save."
     },
     {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 10,
+      "verseStart": 32,
+      "verseEnd": 39,
+      "title": "Hebrews 10:32–39",
+      "href": "/bible/hebrews/10/32-39.html",
+      "why": "You have need of endurance; we are not of those who shrink back but of those who have faith."
+    },
+    {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 6,
+      "verseStart": 9,
+      "verseEnd": 20,
+      "title": "Hebrews 6:9–20",
+      "href": "/bible/hebrews/6/9-20.html",
+      "why": "Better things that belong to salvation; hope as a sure and steadfast anchor."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 15,

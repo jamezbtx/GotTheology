@@ -1,0 +1,57 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 4,
+  "translation": "ESV",
+  "title": "Hebrews 1:1–4",
+  "context": "The epistle opens with the Son as God’s final word: heir of all things, agent of creation, radiance of God’s glory, exact imprint of his nature, upholder of the universe, and the one who made purification for sins and sat down at the Majesty’s right hand—already superior to angels.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Son’s supremacy, final revelation, and session at the right hand—so each camp speaks in its own voice beside Hebrews 1:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "God, who at sundry times—at various times, and in various degrees, more explicit knowledge was given. In divers manners—in visions, in dreams, and by revelations of various kinds. Both these are opposed to the one entire and perfect revelation which he has made to us by Jesus Christ. Hath in these last times—intimating that no other revelation is to be expected. Spoken—all things, and in the most perfect manner. By his Son—alone. Whom he hath appointed heir of all things—God appointed him the heir long before he made the worlds. By whom he also made the worlds—therefore the Son was before all worlds. The brightness of his glory—glory is the nature of God revealed in its brightness. The express image—or stamp: whatever the Father is, is exhibited in the Son. When he had by himself purged our sins—without any Mosaic rites. Sat down—the priests stood while they ministered; sitting denotes the consummation of his sacrifice. This word, sat down, contains the scope, the theme, and the sum of the epistle.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 1:1–3)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This beginning is for the purpose of commending the doctrine taught by Christ; for it shows that we ought not only reverently to receive it, but also to be satisfied with it alone. God formerly employed the prophets, but he has appointed his Son to be an ambassador to us. When he speaks of the last times, he intimates that there is no longer any reason to expect any new revelation; it was not a word in part that Christ brought, but the final conclusion. Whom he has appointed heir: since the Father has subjected all things to him, we are all under his authority; no good can be found apart from him. The world was created by him as the eternal wisdom of God; hence is proved the eternity of Christ. The brightness of his glory and the impress of his substance: the glory of the Father is invisible until it shines forth in Christ. Upholding all things: all things would instantly come to nothing, were they not sustained by his power. By himself he effected the purgation of our sins—excluding all other means; the price and power of purgation were found only in Christ. Sat down on the right hand: having procured salvation, he was received into celestial glory in order that he might govern all things. To sit at the right hand of the Father is no other thing than to govern in the place of the Father.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 1:1–3)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Long ago, at many times and in many ways, God spoke to our fathers by the prophets,",
+      "arminianNotes": "Wesley: at various times and degrees more explicit knowledge was given; in visions, dreams, and revelations of various kinds—opposed to the one entire and perfect revelation in Jesus Christ. The very number of the prophets showed that they prophesied only in part.\n\nClassical Arminians share the high christology of the prologue: the same God who spoke by the prophets now speaks by the Son. The diversity of former speech is not rival revelation; it prepares for the Son’s perfect word, which must still be heard and heeded.",
+      "reformedNotes": "Calvin: God formerly addressed the fathers by the prophets; he still sets before us but one God, that no one might think the Law militates against the Gospel. The variety of times and manners was an evidence of imperfection; God would have followed the same mode perpetually had the mode been perfect and complete.\n\nReformed accent: one unchanging God speaks; the fragmentary prophetic word is true but incomplete. The King who governs has always spoken; the contrast is not rival deities but progressive disclosure culminating in the Son."
+    },
+    {
+      "number": 2,
+      "text": "but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.",
+      "arminianNotes": "Wesley: last times—intimating that no other revelation is to be expected. Spoken all things, and in the most perfect manner, by his Son alone. Appointed heir of all things—after the name of Son, his inheritance is mentioned; the Son is the firstborn, born before all things. By whom he also made the worlds—therefore the Son was before all worlds.\n\nArminian reading: the Son’s final word and cosmic heirship are shared confession. The gospel is not a tentative word waiting for later improvement. This completed word binds hearers: they must receive and heed it; neglecting it (2:1–4) will be a live danger, not a stage prop.",
+      "reformedNotes": "Calvin: the Son is set in opposition to the prophets; we to the fathers; the last revelation to the various modes of old. There is no longer reason to expect any new revelation—Christ brought the final conclusion. Heir of all things: the Father has subjected all things to him; we are under his authority; no good is found apart from him. By him the world was created—proof of his eternity as the eternal wisdom of God.\n\nReformed accent: the same final word binds hearers—we ought not only reverently to receive it, but also to be satisfied with it alone. The King who governs is the appointed heir and creator; union with the universal heir is how the destitute receive his treasures (Calvin)."
+    },
+    {
+      "number": 3,
+      "text": "He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,",
+      "arminianNotes": "Wesley: brightness of his glory—glory is the nature of God revealed in its brightness. Express image—whatever the Father is, is exhibited in the Son, as a seal in the stamp on wax. Sustaining all things by his powerful word. When he had by himself—without Mosaic rites—purged our sins. Sat down—priests stood while they ministered; sitting denotes the consummation of his sacrifice. This word contains the scope, theme, and sum of the epistle.\n\nShared high christology: radiance, imprint, upholding, purification, and session. Classical Arminians refuse to empty the finished sacrifice; they also refuse to treat sitting down as making later heedlessness impossible. The consummated priest still addresses a people who must not drift.",
+      "reformedNotes": "Calvin: brightness and impress—God is made known to us in no other way than in Christ; without Christ there is no light, but only darkness. Upholding: all things would come to nothing were they not sustained by his power. By himself—he had not been aided by the shadows of the Mosaic Law; the price and power of purgation were found only in Christ. Sat down: received into celestial glory in order that he might govern all things. To sit at the right hand is to govern in the place of the Father.\n\nReformed accent: the King who governs upholds the universe by his powerful word and reigns after purification. Session is royal administration, not retirement. Purification is exclusive to Christ; second causes and means do not share the atoning price."
+    },
+    {
+      "number": 4,
+      "text": "having become as much superior to angels as the name he has inherited is more excellent than theirs.",
+      "arminianNotes": "Wesley: being—by his exaltation, after he had been lower than them (Heb 2:9). So much higher than the angels—proper because the Jews gloried in their law as delivered by angels. How much more may we glory in the gospel, given not by angels but by the very Son of God! By inheritance a more excellent name—because he is the Son of God he inherits that name, in right whereof he inherits all things.\n\nArminian pastoral: superiority to angels raises the stakes of the gospel (2:1–3). Greater glory means greater accountability for those who have heard the Son. The inherited name is not a trivia contest with angels; it is the ground for earnest heed.",
+      "reformedNotes": "Calvin: after raising Christ above Moses and all others, he amplifies his glory by comparison with angels. The Jews attentively considered the honorable things spoken of angels and obscured the glory of God by extolling them too much. It was necessary to reduce them to their own rank, that they might not overshadow the brightness of Christ. He proves from his name that Christ far excelled them, for he is called the Son of God.\n\nReformed accent: the Son’s inherited name and rank secure the gospel’s authority. Angels are creatures and ministers; the Son is heir and Lord. The King who governs is not one messenger among many."
+    }
+  ]
+}

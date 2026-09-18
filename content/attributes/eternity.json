@@ -50,6 +50,26 @@
   "keyContrast": "Both confess that God is without beginning or end and that the Word was in the beginning. There is no historic split on the attribute itself; remaining disagreement belongs to how an eternal purpose relates to election, not to whether God is everlasting.",
   "scripture": [
     {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 4,
+      "title": "Hebrews 1:1–4",
+      "href": "/bible/hebrews/1/1-4.html",
+      "why": "The Son through whom he created the world—he upholds the universe by his word."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 90,
+      "verseStart": 1,
+      "verseEnd": 17,
+      "title": "Psalm 90:1–17",
+      "href": "/bible/psalms/90/1-17.html",
+      "why": "From everlasting to everlasting you are God—a thousand years as yesterday."
+    },
+    {
       "book": "1 Timothy",
       "bookSlug": "1-timothy",
       "chapter": 1,

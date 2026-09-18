@@ -60,6 +60,26 @@
       "why": "With everlasting love I will have compassion on you, says the Lord."
     },
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 103,
+      "verseStart": 1,
+      "verseEnd": 22,
+      "title": "Psalm 103:1–22",
+      "href": "/bible/psalms/103/1-22.html",
+      "why": "As a father shows compassion to his children, so the Lord shows compassion."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 136,
+      "verseStart": 1,
+      "verseEnd": 26,
+      "title": "Psalm 136:1–26",
+      "href": "/bible/psalms/136/1-26.html",
+      "why": "His steadfast love endures forever—the refrain of covenant love."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 3,

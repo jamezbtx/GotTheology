@@ -1,0 +1,84 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 4,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 4:1–8",
+  "context": "Psalm 4 is David’s evening plea: he calls on the God of his righteousness, who has given relief in distress, and asks grace and a hearing. He rebukes men who turn his honor to shame and chase vain words and lies, then announces that the LORD has set apart the godly for himself and hears when he calls. He urges awe without sin, heart-pondering on the bed, right sacrifices, and trust in the LORD. Against many who ask who will show good, he asks the light of God’s face—and confesses more joy than abundant grain and wine, then lies down in peace, for the LORD alone makes him dwell in safety.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the God of righteousness who enlarges in distress, the shame and lies of opponents, the LORD’s setting apart of the godly, awe that refuses sin, right sacrifices and trust, the light of God’s face above harvest joy, and peace that sleeps under the LORD alone—so each camp speaks in its own voice beside Psalm 4:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "David prays, reproves the wicked, and testifies the happiness of the righteous; he exhorts them to consider and serve God, and declares his own experience of the grace of God. O God—the witness and defender of my righteous cause. My glory—that honour which God had conferred upon him. Vanity—wickedness; lying—those calumnies raised to make him odious. Godly—me, whom, though you traduce as an hypocrite, God hath pronounced a man after his own heart; for himself—to be his vicegerent. In awe—be afraid, if not of me, yet of God, who hath engaged in my cause; sin not by prosecuting rebellion against God’s authority. On your bed—calmly consider these things in the silent night; be still—compose your tumultuous minds. Offer—unto God, that he may be reconciled to you; righteousness—righteous sacrifices, requiring that the persons offering be righteous and do righteous things, and offer with an honest mind, with faith and true repentance. Many—of my followers, weary of waiting upon God; lift up—give us an assurance of thy love. Thou hast—I have at present unspeakable satisfaction in the testimonies of thy love to my soul, more than worldly persons in a plentiful harvest. In peace—in tranquility of mind, resting securely upon God’s promises.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "After David has prayed to God to help him, he turns to his enemies and, depending on the promise of God, triumphs over them as a conqueror. As often as we are weighed down by adversity, we ought to meditate upon the promises of God, in which the hope of salvation is held forth, so that defending ourselves by this shield we may break through all temptations. He calls God the God of his righteousness—the vindicator of his right—because men condemned him and his innocence was borne down by slander; if our uprightness is not acknowledged by the world, we have one in heaven to vindicate our cause. He mentions former enlargements in distress to strengthen faith for the time to come: God is always present with his own people and will never disappoint their desires. Jehovah has set apart the godly for himself—advanced not by the will of man or ambition but by God’s appointment; God does not forsake the work of his own hands but continually defends those he has once received into his favor. Tremble and sin not: awaken from lethargy; commune with your heart upon your bed and be still. Sacrifice the sacrifices of righteousness and trust in the Lord—God is not pacified by mere outward ceremonies. Many say, Who will show us good?—but perfect felicity is only in the favor of God; the light of his countenance, shining by the Spirit, cheers with solid joy. He will lie down and sleep in peace, for under God’s hand alone he is kept in safety as if surrounded by a great host.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 4)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Answer me when I call, O God of my righteousness! You have given me relief when I was in distress. Be gracious to me and hear my prayer!",
+      "arminianNotes": "Wesley: O God—the witness and defender of my righteous cause.\n\nArminian hearing: shared plea—call, remember past relief, ask grace and a hearing. The God who has enlarged before is still to be sought. Prayer is earnest dependence, not a claim that the world already owns his innocence.",
+      "reformedNotes": "Calvin: faith that, almost consumed by calamities, still betakes itself to God. God of his righteousness means vindicator of his right against slander; he expected relief from mercy. Former enlargements strengthen faith for terrors ahead—God is always present with his own and will not disappoint their desires.\n\nReformed accent: shared—cry grounded in prior help. The appeal is to God’s equity and free goodness, not to a court that already sides with David."
+    },
+    {
+      "number": 2,
+      "text": "O men, how long shall my honor be turned into shame? How long will you love vain words and seek after lies? Selah",
+      "arminianNotes": "Wesley: My glory—that honour which God had conferred upon him. Vanity—wickedness. Lying—calumnies raised to make him odious to all the people.\n\nArminian pastoral: shared rebuke—how long will shame and lies win the day? God’s conferred honor is not theirs to rewrite. Stop loving vanity; the Selah bids attention before the next word of distinction.",
+      "reformedNotes": "Calvin: how long condemns obstinate purpose, not a sudden impulse. They try to turn into shame the glory God conferred or promised; yet David keeps hold of that honor. Loving vanity and seeking lying will not prosper against God.\n\nReformed accent: shared—rebuke of obstinate shame and lies. Confidence stands because God determined to defend him; human engines against that appointment are vanity."
+    },
+    {
+      "number": 3,
+      "text": "But know that the LORD has set apart the godly for himself; the LORD hears when I call to him.",
+      "arminianNotes": "Wesley: Godly—me, whom, though you traduce as an hypocrite, God hath pronounced to be a man after his own heart (1 Sam 13:14). For himself—in his stead, or to be his vicegerent, as kings are, especially kings of God’s people.\n\nArminian reading: the LORD’s setting apart answers the shame of v. 2. God has owned the godly one against the traducer’s charge; hearing follows the call of the one so owned. Shared confession—distinction and answered prayer are real.",
+      "reformedNotes": "Calvin: set apart means advanced to the throne not by human suffrage or ambition but by God’s appointment—it is God’s prerogative to choose whom he will. Boldness rests on God the founder of the kingdom. God proves faithfulness by not forsaking the work of his hands but continually defending those he has once received into his favor.\n\nReformed accent: shared—the LORD sets apart and hears. The ground of hearing is God’s own separating choice and ongoing defense of those he has received—not a verdict first won from the crowd.",
+      "keyContrast": "Both confess that the LORD has set apart the godly for himself and hears when David calls. Arminian readers, with Wesley, stress that God has pronounced and owned the godly one against the hypocrite charge—setting apart as recognition of the man after his heart, with hearing tied to that owned calling. Reformed readers, with Calvin, stress sovereign appointment: God chose and advanced him, and will not forsake the work of his hands—hearing certain because God defends those he has once received into favor."
+    },
+    {
+      "number": 4,
+      "text": "Be angry, and do not sin; ponder in your own hearts on your beds, and be silent. Selah",
+      "arminianNotes": "Wesley: In awe—be afraid, if not of me, yet of God, who hath engaged in my cause. Sin not—by prosecuting your rebellion against God’s authority. On your bed—calmly consider these things in the silent night, at leisure from distracting business. Be still—compose your tumultuous minds.\n\nArminian pastoral: shared warning—awe that cuts off sin. Night solitude is for honest reckoning, not for nursing revolt. Compose the tumult; refuse the next sinful step.",
+      "reformedNotes": "Calvin: tremble—awaken from lethargy; ungodly presumption runs without fear of God. Commune on the bed: take account alone, away from public applause. Stillness follows trembling—return from reckless sin begins with fear, then deliberate reflection.\n\nReformed accent: shared—tremble, ponder, be still. The remedy for raging against God is awakened fear and honest self-examination, not louder self-justification."
+    },
+    {
+      "number": 5,
+      "text": "Offer right sacrifices, and put your trust in the LORD.",
+      "arminianNotes": "Wesley: Offer—unto God, that he may be reconciled to you. Righteousness—righteous sacrifices, requiring that the persons offering be righteous and do righteous things, and offer them with an honest mind, with faith and true repentance. Without which, all their sacrifices were of no esteem with God and wholly unprofitable.\n\nArminian hearing: shared call—right sacrifice and real trust. Reconciliation is sought with faith and repentance, not empty rite. Trust in the LORD must accompany the offering.",
+      "reformedNotes": "Calvin: he censures hypocrisy—enemies held the ark and temple and vaunted sacrifices while David was banished. God is not pacified by mere outward ceremonies; he requires sacrifices of righteousness over spurious rites. Trust in the Lord, not in altar pomp that pollutes while boasting.\n\nReformed accent: shared—right sacrifice and trust. Outward access without purity provokes wrath; true worship and confidence in God displace hypocritical boasting.",
+      "keyContrast": "Both confess that right sacrifices and trust in the LORD belong together, and that empty ceremony is worthless. Arminian readers, with Wesley, stress offering so that God may be reconciled—honest mind, faith, and true repentance in the persons who offer. Reformed readers, with Calvin, stress rebuke of temple hypocrisy: God is not pacified by outward rites, and trust must rest in him rather than in access and pomp that leave the heart unclean."
+    },
+    {
+      "number": 6,
+      "text": "There are many who say, “Who will show us some good?” Lift up the light of your face upon us, O LORD!",
+      "arminianNotes": "Wesley: Many—of my followers, weary of waiting upon God. Who—who will put an end to our troubles and give us tranquility. Lift up—upon me and my friends; give us an assurance of thy love, and evidence it by thy powerful assistance.\n\nArminian pastoral: shared contrast—many chase “some good”; the godly ask the light of God’s face. Assurance of love is the good worth seeking when weariness asks for quicker relief.",
+      "reformedNotes": "Calvin: many are distracted by desires for present goods; the faithful rest in God’s favor alone. The light of God’s countenance is the manifestation of his favor—shining in the heart by the Spirit to produce trust and hope. Perfect felicity is only in that favor, not in the world’s many goods.\n\nReformed accent: shared—face-light over restless appetite. Those who begin prosperity without seeking God’s favor remain miserable; the faithful ask his countenance even when other goods fail."
+    },
+    {
+      "number": 7,
+      "text": "You have put more joy in my heart than they have when their grain and wine abound.",
+      "arminianNotes": "Wesley: Thou hast—whatsoever thou shalt do with me for the future, I have at present unspeakable satisfaction in the testimonies of thy love to my soul; more than worldly persons have in the time of a plentiful harvest.\n\nArminian reading: shared joy—God-put gladness outweighs harvest abundance. Present testimonies of love to the soul answer the many who only ask for “some good.” Receive and prize that joy over grain and wine.",
+      "reformedNotes": "Calvin: more satisfaction in the reconciled countenance of God than in garners of corn and cellars of wine. Earthly abundance inflames desire and leaves secret uneasiness; undisturbed peace and solid joy come only when God’s favor shines. The faithful can bear the loss of worldly comforts if they know themselves objects of divine care.\n\nReformed accent: shared—heart-joy above harvest. The comparison exposes worldly addiction; true gladness is the gift of God’s favor, not the harvest’s measure."
+    },
+    {
+      "number": 8,
+      "text": "In peace I will both lie down and sleep; for you alone, O LORD, make me dwell in safety.",
+      "arminianNotes": "Wesley: In peace—in tranquility of mind, resting securely upon God’s promises.\n\nArminian hearing: shared rest—lie down and sleep because the LORD alone makes one dwell in safety. Peace is practiced trust that rests on what God has promised; the sleeper entrusts himself where grain and wine cannot keep the night.",
+      "reformedNotes": "Calvin: protected by God’s power, he enjoys quiet as if defended by all garrisons. Under God’s hand alone he sleeps as securely, though destitute of human guardianship, as if surrounded by a great host. Yield this honor to God—believe that though no help appear from men, his hand keeps in peace and safety.\n\nReformed accent: shared—peaceful sleep under the LORD alone. Safety is God’s placing and defending, not the presence of a human watch.",
+      "keyContrast": "Both confess peaceful lying down and sleep because the LORD alone makes his servant dwell in safety. Arminian readers, with Wesley, stress tranquility of mind resting securely upon God’s promises—peace as trusted reliance that still leans on what God has said. Reformed readers, with Calvin, stress that God’s power alone is sufficient guardianship: he places and keeps in safety as if by a host, so rest is secure because God defends, not finally because the sleeper’s hold on a promise never wavers."
+    }
+  ]
+}

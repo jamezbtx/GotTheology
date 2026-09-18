@@ -1,0 +1,83 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 12,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 12:1–8",
+  "context": "Psalm 12 cries Save when the godly seem gone and the faithful vanish among the children of man. Everyone utters lies with flattering lips and a double heart; the proud boast that with the tongue they will prevail and ask who is master over them. The LORD answers the plundered poor and the needy’s groan: I will now arise and place him in the safety for which he longs. His words are pure—silver refined seven times—so he will keep and guard his own from this generation forever, even while the wicked prowl on every side and vileness is exalted.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on vanishing faithfulness, flattering double hearts, the LORD’s arising for the plundered poor, pure words like refined silver, and guarding from a vile generation—so each camp speaks in its own voice beside Psalm 12:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "David begs help of God, having no man whom he could trust, and describes the wicked, assuring himself that God would punish them and preserve the just. Prevail—by raising and spreading evil reports concerning him. Our own—at our own disposal to speak what we please; who can control or restrain us? Puffeth—from him that despises him, and hopes to destroy him with a puff of breath. Pure—without the least mixture of falsehood; and therefore shall infallibly be fulfilled. Thou shalt keep them—thy words or promises: these thou wilt observe and keep, both now, and from this generation for ever. Walk—they fill all places, and go about boldly and securely.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 12)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David complains that the land was so overspread with wicked men that righteousness and faithfulness had ceased; he does not accuse foreigners but informs us this deluge of iniquity prevailed in the Church of God. Let the faithful not be unduly discouraged at a corrupt and confused world; the greater the confusion, God is so much the readier to aid his people. Every man speaks deceit with a double heart—flattery that covers what is hidden within. Because of the spoiling of the needy, God himself comes forward: I will now arise—though our safety is in his hand, he does not always grant deliverance at once; when tears and groans alone remain, the time is at hand for him to execute judgment. The words of Jehovah are pure: God promises nothing in vain; whatever he promises in word he will perform in deed. Whenever doubt of his faithfulness steals in, lift this shield—the words of the Lord are pure. Thou, O Jehovah, wilt keep them: David boasts of the certain safety of all the godly, of whom God, who neither can deceive nor lie, avows himself to be the guardian. Though only one good man should be left, he would be kept in perfect safety by the grace and protection of God. The ungodly walk about on every side; wherever I turn, troops of them appear, and vileness is exalted among the children of men.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 12)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Save, O LORD, for the godly one is gone; for the faithful have vanished from among the children of man.",
+      "arminianNotes": "Wesley: David begs help of God, having no man whom he could trust. The opening is a real cry when godliness and faithfulness seem to have ceased among men.\n\nArminian hearing: Save is a petition grace enables and the hearer must still lift when the faithful look gone. Do not howl with the wolves or join the vanishing—cry to the LORD and refuse the flood of unfaithfulness.",
+      "reformedNotes": "Calvin: righteousness was so overthrown among the chosen people that violence and cruelty broke forth with one consent. From black despair around him, David betakes himself to God; the greater the confusion, God is so much the readier to aid his people, and that is the most proper season for him to interpose.\n\nReformed accent: vanishing faithfulness in the Church is not proof God has abandoned the remnant. Succor is sought because men fail—not because providence has failed."
+    },
+    {
+      "number": 2,
+      "text": "Everyone utters lies to his neighbor; with flattering lips and a double heart they speak.",
+      "arminianNotes": "The verse names the social poison: vanity and lies spoken neighbor to neighbor, flattering lips paired with a double heart.\n\nArminian pastoral: doubleness of heart produces doubled speech. Grace calls for undivided sincerity—speech as a mirror of the heart, not varnish that hides injury. Refuse flattery that trades truth for advantage.",
+      "reformedNotes": "Calvin: no sincerity in their speech; every man endeavors to ensnare his neighbor by flattery. They speak with a double heart—part hidden within, covered with hypocrisy—so nothing certain can be gathered from their intentions. Speech must be sincere that uprightness of heart may be beheld in it as in a mirror.\n\nReformed accent: deceit is not a small social fault; it is unrighteousness against truth, the fox-side of a world that also does lion-violence."
+    },
+    {
+      "number": 3,
+      "text": "May the LORD cut off all flattering lips, the tongue that makes great boasts,",
+      "arminianNotes": "Wesley’s frame: David describes the wicked and assures himself that God would punish them. The plea asks the LORD to cut off flattering lips and the boasting tongue.\n\nArminian hearing: imprecation here is moral petition, not private revenge. Bring proud speech under God’s judgment; do not envy the tongue that seems to win by lies.",
+      "reformedNotes": "Calvin: to the complaint he subjoins an imprecation that God would cut off deceitful tongues—removing that plague. Falsehood and calumnies are more deadly than swords. The flatterers in view are not mere mean traders in compliments but proud boasters who overwhelm the poor and simple with big, haughty discourse.\n\nReformed accent: God, not the victim’s clever tongue, must cut off the plague. Calumny is warfare that only the Judge finally ends."
+    },
+    {
+      "number": 4,
+      "text": "those who say, \"With our tongue we will prevail, our lips are with us; who is master over us?\"",
+      "arminianNotes": "Wesley: Prevail—by raising and spreading evil reports concerning him. Our own—at our own disposal to speak what we please; who can control or restrain us?\n\nArminian warning: the boast claims untouchable speech—tongue as weapon and lips as private property with no master. That claim is rebellion. Own your tongue under the LORD’s mastery before report-spreading becomes your only strength.",
+      "reformedNotes": "Calvin: those who think that in the very falsehood to which they are addicted they have enough strength to accomplish their purposes have reached the utmost height of wickedness—as if they openly declared war against God. Armed with their tongues they go beyond all bounds and think to accomplish whatever they please, almost covering the sun with darkness by calumny.\n\nReformed accent: “Who is master over us?” is war on God’s rule. Tongue-strength is not freedom; it is presumption God will answer."
+    },
+    {
+      "number": 5,
+      "text": "\"Because the poor are plundered, because the needy groan, I will now arise,\" says the LORD; \"I will place him in the safety for which he longs.\"",
+      "arminianNotes": "Wesley: Puffeth—from him that despises him, and hopes to destroy him with a puff of breath. God rises because the poor are oppressed and the needy sigh; he sets the afflicted in safety from contemptuous destroyers.\n\nArminian reading: the groan is not ignored. Grace invites the plundered to keep sighing to God and to long for the safety he promises. “Now” answers real affliction; trust the Speaker who places the needy where they long to be.",
+      "reformedNotes": "Calvin: God himself comes forward and declares he is come to deliver the poor. Great emphasis in now: though our safety is in his hand, he does not immediately grant deliverance; his words imply he had been as it were lying still until awakened by the calamities and cries of his people. When tears and groans alone remain, remember the time is at hand for him to rise and execute judgment. Patience belongs to those reckoned among the poor whose cause he takes in hand.\n\nReformed accent: arising is God’s appointed hour, not a scramble after surprise. Safety was already in his keeping; delay trains hope until he speaks deliverance into effect.",
+      "keyContrast": "Both confess that because the poor are plundered and the needy groan, the LORD says he will now arise and place the afflicted in the safety longed for. Arminian readers stress a real answer to the groan—grace-enabled crying and longing the needy must keep lifting toward the safety God sets. Reformed readers, with Calvin, stress that “now” marks God’s fit time after seeming delay: safety was already in his hand, so patience waits his judgment rather than treating the rise as a summons to a God who had truly forgotten."
+    },
+    {
+      "number": 6,
+      "text": "The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times.",
+      "arminianNotes": "Wesley: Pure—without the least mixture of falsehood; and therefore shall infallibly be fulfilled.\n\nArminian pastoral: pure words are trustable words. When flattering lips fill the land, cling to speech that has no dross—seven-times refined promise that will not fail. Believe what God has said and expect fulfillment.",
+      "reformedNotes": "Calvin: God is sure, faithful, and steadfast in his promises; he promises nothing in vain. Whatever he promises in word he will perform in deed. Men at ease praise God’s truth, yet in adversity charge him with not keeping his word. Whenever doubt of his faithfulness steals in, lift this shield: the words of the Lord are pure. Silver refined is valued among us; we often prize God’s inestimable word less, and coin dross in our own brain to obscure its brightness.\n\nReformed accent: purity of the word is the antidote to distrust in delay. The furnace image stoops to our measure; the point is God’s non-deceiving speech, not human alloy added to it."
+    },
+    {
+      "number": 7,
+      "text": "You, O LORD, will keep them; you will guard us from this generation forever.",
+      "arminianNotes": "Wesley: Thou shalt keep them—thy words or promises: these thou wilt observe and keep, both now, and from this generation for ever.\n\nArminian hearing: the pure words of v. 6 are kept by the LORD who observes his own speech. Hold the promises; he guards his people by keeping what he said—now and forever against this generation’s lies.",
+      "reformedNotes": "Calvin: animated with holy confidence, David boasts of the certain safety of all the godly, of whom God, who neither can deceive nor lie, avows himself to be the guardian. Keep them points to the poor of whom he spoke; change of number is common—though only one good man remained, he would be kept in perfect safety by God’s grace and protection. Generation names the great multitude of the ungodly, even among the chosen people. War is not for a short time only; yet guardianship is for ever.\n\nReformed comfort: remnant safety does not hang on numbers. God keeps his own against a whole corrupt age; forever answers endless malice.",
+      "keyContrast": "Both confess that the LORD will keep and guard from this generation forever after promising pure words. Arminian readers, with Wesley, hear “keep them” as God observing and fulfilling his words and promises—so the hearer clings to speech God will not break. Reformed readers, with Calvin, hear keeping as God’s certain guardianship of the godly remnant—even one left alive—safe by grace against the malice of a whole corrupt generation."
+    },
+    {
+      "number": 8,
+      "text": "On every side the wicked prowl, as vileness is exalted among the children of man.",
+      "arminianNotes": "Wesley: Walk—they fill all places, and go about boldly and securely.\n\nArminian warning: the psalm does not end in denial of present evil. Wicked prowling and exalted vileness remain visible. Keep crying Save, keep trusting pure words, and do not mistake bold security for final victory.",
+      "reformedNotes": "Calvin: the ungodly possess the land and range through every part; wherever I turn my eyes, troops of them appear on every side. Mankind are shamefully oppressed by their tyranny; when the vile are exalted, corruption spreads as disease from the head into the members.\n\nReformed accent: the closing realism sharpens, not cancels, v. 7. Prowling wickedness is why forever-guarding matters; present exaltation of vileness is not the last verdict of the Judge who already said he will arise."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 6,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Psalm 6:1–10",
+  "context": "Psalm 6 is David’s plea under divine displeasure: he asks the LORD not to rebuke him in anger or discipline him in wrath, seeks grace and healing while bones and soul are troubled, and cries “how long?” He asks God to turn, deliver his life, and save him for the sake of steadfast love—for in death there is no remembrance of God, and in Sheol none give him praise. Weary with moaning, he floods his bed with tears and his eye wastes away because of grief and foes. Then confidence breaks through: workers of evil must depart, for the LORD has heard his weeping, heard his plea, and accepts his prayer—and all his enemies shall be ashamed and greatly troubled, turning back in shame in a moment.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on rebuke without destroying wrath, mercy for the languishing, deliverance for steadfast love’s sake, tears that cry to God, and assurance that the LORD has heard—so each camp speaks in its own voice beside Psalm 6:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "David being sick both in body and mind, because he had offended God, presents his misery before him, ver. 1–3. Begs the return of his favour, ver. 4–7. Assures himself of an answer of peace, ver. 8–10. Bones—my inmost parts. In death—among the dead. Remembrance—he speaks of the remembrance or celebration of God’s grace in the land of the living, to the edification of God’s church, and the propagation of true religion among men; which is not done in the other life. With my tears—it well becomes the greatest spirits to be tender, and to relent under the tokens of God’s displeasure. David who could face Goliath himself, melts into tears at the remembrance of sin, and under the apprehension of Divine wrath, and it is no diminution to his character. Hath heard—by the workings of God’s grace upon his heart, he knew his prayer was accepted. His tears had a voice, in the ears of the God of mercy. Silent tears are no speechless ones. Our tears are cries to God. Ashamed—of their vain confidence. Return—repent of their sins and return to their obedience.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David, being afflicted by the hand of God, acknowledges that he had provoked the Divine wrath by his sins, and, therefore, in order to obtain relief, he prays for forgiveness. He does not refuse all chastisement, but fears the wrath that threatens ruin; to anger he opposes fatherly and gentle correction. Have mercy upon me, for I am weak—he betakes himself to mercy alone, desiring not to be dealt with according to strict justice. Save me for thy mercy’s sake: men will never find a remedy until, forgetting their own merits, they betake themselves to the free mercy of God. In death there is no remembrance of thee—he laments that removal from the land of the living would cut off the mutual celebration of God’s grace among men. He waters his couch with tears under the sense of God’s displeasure, as one who saw hell open; yet after long despondency he assumes a new character: Depart from me, workers of iniquity, for the Lord hath heard the voice of my weeping. He repeats that his prayers were heard, ascribing deliverance to God. Let enemies be ashamed suddenly—when all seems desperate, the faithful are delivered by God’s power contrary to all expectation.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 6)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O LORD, rebuke me not in your anger, nor discipline me in your wrath.",
+      "arminianNotes": "Arminian hearing: shared plea—do not rebuke in anger or discipline in wrath. Wesley frames the psalm as misery presented after offense against God: the sick in body and mind still asks for correction without destroying displeasure. Own the offense; ask that discipline not become ruin.",
+      "reformedNotes": "Calvin: David ascribes affliction to God as just recompense of sin, yet beseeches him not to deal according to the utmost rigor of the law. He does not refuse all punishment—that would be more hurtful than beneficial—but fears wrath that threatens ruin and perdition. To anger he tacitly opposes fatherly and gentle chastisement.\n\nReformed accent: shared—spare destroying wrath. The path is confession of desert joined to a plea for fatherly bounds, not a charge that God is cruel without cause.",
+      "keyContrast": "Both confess that the pray-er may ask not to be rebuked in anger or disciplined in wrath, while still owning that God has a right to correct. Arminian readers stress presenting misery after offense and pleading that discipline not become destroying displeasure. Reformed readers, with Calvin, stress confessing just desert and fleeing free mercy rather than rigor—willing to bear fatherly chastisement, not refusing all punishment, yet terrified of wrath that ruins."
+    },
+    {
+      "number": 2,
+      "text": "Be gracious to me, O LORD, for I am languishing; heal me, O LORD, for my bones are troubled.",
+      "arminianNotes": "Wesley: Bones—my inmost parts.\n\nArminian pastoral: shared cry—grace and healing for the languishing. Weakness is reason to ask mercy, not to despair. Bring the troubled inmost frame to the LORD who heals.",
+      "reformedNotes": "Calvin: he betakes himself to mercy alone, desiring nothing else than not to be dealt with according to strict justice. Weak means cast down and broken; when subdued under the rod, the gate is opened for mercy. Heal me: all blessings flow from free goodness; we are delivered from chastisements when he has had mercy upon us. Fear in the bones marks grief that shook the strongest frame.\n\nReformed accent: shared—grace first, then healing. Mercy is the fountain; healing is not bargained by desert."
+    },
+    {
+      "number": 3,
+      "text": "My soul also is greatly troubled. But you, O LORD—how long?",
+      "arminianNotes": "Arminian hearing: shared anguish—soul greatly troubled, and the unfinished cry, how long? Grief may cut speech short; keep praying the question to God rather than to despair.",
+      "reformedNotes": "Calvin: the elliptical “how long?” marks vehemence of grief that breaks speech mid-sentence. More probably: how long wilt thou delay thy mercy? God seems far when help does not appear. He permits us to ask him to make haste, yet after free complaint we must submit the timing to his will.\n\nReformed accent: shared—troubled soul and patient urgency. Complaint is allowed; haste beyond God’s seeming good is not."
+    },
+    {
+      "number": 4,
+      "text": "Turn, O LORD, deliver my life; save me for the sake of your steadfast love.",
+      "arminianNotes": "Arminian reading: shared turn—ask God to return with tokens of favor, deliver life, and save for steadfast love’s sake. Wesley: he begs the return of God’s favour. The ground is love, not self-desert; the asker must still turn and plead.",
+      "reformedNotes": "Calvin: after bewailing God’s absence he requests tokens of presence—happiness is to be objects of divine regard. Save me for thy mercy’s sake: the only quarter of hope. Men will never find a remedy for miseries until, forgetting their own merits, they betake themselves to the free mercy of God.\n\nReformed accent: shared—deliverance for steadfast love. Hope is located in free mercy alone, not in a ledger of deserts.",
+      "keyContrast": "Both confess that life is delivered and saved for the sake of the LORD’s steadfast love—not by the sufferer’s merit. Arminian readers stress begging the return of favor: love is the ground, and the plea must still be made. Reformed readers, with Calvin, stress that free mercy is the only quarter of hope—remedy comes when merits are forgotten and the soul betakes itself to God’s mercy alone."
+    },
+    {
+      "number": 5,
+      "text": "For in death there is no remembrance of you; in Sheol who will give you praise?",
+      "arminianNotes": "Wesley: In death—among the dead. Remembrance—the celebration of God’s grace in the land of the living, to the edification of the church and the propagation of true religion; which is not done in the other life.\n\nArminian pastoral: shared motive—ask life so praise may continue among the living. Death silences the public remembrance that builds the church; plead to live and praise.",
+      "reformedNotes": "Calvin: if delivered, he will keep God’s benefits in grateful remembrance; removal would cut off opportunity to commend God’s name in the society of men. This does not prove the dead have no feeling—only that mutual celebration of grace belongs to the land of the living. David also dreaded judgment if death befell him under wrath, which makes praise dumb.\n\nReformed accent: shared—praise among the living as the end of life. The plea is gratitude’s continuance, not denial of the soul’s affection toward God after death."
+    },
+    {
+      "number": 6,
+      "text": "I am weary with my moaning; every night I flood my bed with tears; I drench my couch with my weeping.",
+      "arminianNotes": "Wesley: With my tears—it well becomes the greatest spirits to be tender under tokens of God’s displeasure. David who could face Goliath melts into tears at remembrance of sin and apprehension of divine wrath—no diminution to his character.\n\nArminian pastoral: shared weariness—moaning and night tears. Strength is not hardness; relenting under displeasure is fitting piety, not weakness to hide.",
+      "reformedNotes": "Calvin: hyperbole that still declares truly how bitter the sorrow was. Affliction rose less from bodily wound than from regarding God as greatly displeased—as if hell were open. The more devoted to God, the more severely disquieted by sense of wrath. Night after night he wasted with sorrow, yet never ceased praying.\n\nReformed accent: shared—protracted tears under divine displeasure. Conscience-terror may exceed other sorrows; prayer continues through the nights."
+    },
+    {
+      "number": 7,
+      "text": "My eye wastes away because of grief; it grows weak because of all my foes.",
+      "arminianNotes": "Arminian hearing: shared cost—grief that wastes the eye, and foes that wear it down. Inner anguish and outward opposition meet; bring both before God.",
+      "reformedNotes": "Calvin: grief of mind makes its way to the eyes; the eye waxes old as if failing through age. Protracted sorrow among persecutors marks how enemies’ triumph deepens the trial.\n\nReformed accent: shared—visible wasting under grief and foes. Oppression is not ignored; it is named in the lament."
+    },
+    {
+      "number": 8,
+      "text": "Depart from me, all you workers of evil, for the LORD has heard the sound of my weeping.",
+      "arminianNotes": "Wesley: Hath heard—by the workings of God’s grace upon his heart, he knew his prayer was accepted. His tears had a voice in the ears of the God of mercy. Silent tears are no speechless ones. Our tears are cries to God.\n\nArminian reading: shared turn—workers of evil must depart because weeping was heard. Assurance rises as grace-worked knowledge that the prayer was accepted; tears themselves cry.",
+      "reformedNotes": "Calvin: after disburdening grief into God’s bosom he assumes a new character—assurance after long despondency. Ungodly triumph was part of the temptation; grace is the only light of life. He ascribes deliverance to God: if we would receive fruit from prayer, we must believe God’s ears have not been shut. Weeping marks earnest mourning wholly occupying him.\n\nReformed accent: shared—heard weeping, evil workers dismissed. Confidence rests on God’s hearing and favor, not on the mockers’ verdict.",
+      "keyContrast": "Both confess that the LORD has heard the sound of weeping, so workers of evil must depart. Arminian readers, with Wesley, stress grace working on the heart so the pray-er knows the prayer was accepted—tears themselves a voice to the God of mercy. Reformed readers, with Calvin, stress assurance after long despondency that ascribes deliverance to God and believes his ears were not shut—favor that lets the godly despise the world’s mockery."
+    },
+    {
+      "number": 9,
+      "text": "The LORD has heard my plea; the LORD accepts my prayer.",
+      "arminianNotes": "Arminian pastoral: shared triple confidence with v. 8—heard plea, accepted prayer. Wesley’s answer of peace is assurance that God has received the cry. Keep asking; receive the settled sense that prayer is not cast off.",
+      "reformedNotes": "Calvin: David repeats three times that his prayers were heard, testifying that he ascribes deliverance to God and confirming that he had not betaken himself to God in vain.\n\nReformed accent: shared—heard and accepted. Repetition trains trust that prayer to God is not empty motion."
+    },
+    {
+      "number": 10,
+      "text": "All my enemies shall be ashamed and greatly troubled; they shall turn back and be put to shame in a moment.",
+      "arminianNotes": "Wesley: Ashamed—of their vain confidence. Return—repent of their sins and return to their obedience.\n\nArminian hearing: shared outcome—enemies ashamed and troubled. Wesley hears in “return” a possible turning from sin to obedience; vain confidence collapses. The sudden shame of foes does not cancel the call that rebels repent.",
+      "reformedNotes": "Calvin: by “suddenly” he signifies that when no means of deliverance appear and all seems desperate, the faithful are delivered by God’s power contrary to expectation. Sudden change from affliction to joy manifests God’s power more illustriously.\n\nReformed accent: shared—enemies ashamed in a moment. The stress is God’s unexpected reverse of hopeless cases, confounding those who mocked the godly as lost.",
+      "keyContrast": "Both confess that enemies shall be ashamed and greatly troubled, turning back in shame in a moment. Arminian readers, with Wesley, hear shame of vain confidence and “return” as repenting of sins and returning to obedience. Reformed readers, with Calvin, hear sudden divine reverse when all seems hopeless—God’s power delivering contrary to expectation and confounding those who triumphed over the afflicted."
+    }
+  ]
+}

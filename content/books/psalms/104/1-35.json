@@ -1,0 +1,246 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 104,
+  "verseStart": 1,
+  "verseEnd": 35,
+  "translation": "ESV",
+  "title": "Psalm 104:1–35",
+  "context": "The psalmist blesses the Lord for creation and providence: light and heavens, earth set on foundations, waters bounded, springs and beasts, sun and moon, sea and Leviathan, creatures waiting on God's open hand. He sends forth His Spirit and renews the ground; glory endures, and the soul answers with lifelong praise—and a plea that the wicked be no more.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Creator clothed with light, earth founded and seas bounded, creatures filled from the open hand, and the Spirit who renews the face of the ground—so each camp speaks in its own voice beside Psalm 104:1–35.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "David in the foregoing psalm praises God for his love to his people; in this, for his works of creation and providence—his majesty in the upper world, the sea and dry land, provision for all creatures, sun and moon, the sea's furniture, and his care and sovereign power over all. Hidest—withdrawest the care of thy providence. Spirit—that quickening power of God, by which he produces life in the creatures from time to time; for he speaks not of the first creation only, but of the continued production of living creatures. Renewest—by thy wise and wonderful providence thou preservest the succession of living creatures. Praise ye the Lord—Hebrew Hallelujah; the first time this word occurs, and it comes in on occasion of the destruction of the wicked.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 104)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This psalm presents a lively image of God's wisdom, power, and goodness in the creation of the world and in the order of nature, and encourages us to praise him for the manifestation he has made of himself as a father to us in this frail life. Nothing in the world is stable except as sustained by the hand of God; the whole order of nature depends on his appointment. All things wait upon him for food in due season; when he hides his face they are afraid; when he takes away their spirit they die. He sends forth his spirit and they are created; he renews the face of the earth—the world daily decaying and daily renewed, that we may see his life-giving power as in a mirror.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Psalm 104)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Bless the Lord, O my soul! O Lord my God, you are very great! You are clothed with splendor and majesty,",
+      "arminianNotes": "Bless the Lord, O my soul: the psalm opens as praise of the Creator's greatness, clothed with splendor and majesty. Wesley frames the whole as glory for creation and providence after the foregoing psalm's praise for love to the people. The soul is summoned first; worship begins in the worshiper.\n\nBoth camps: creation praise is not a side chapel. Classical Arminians hear a Father whose majesty is public in the world He made, and whose greatness invites willing blessing—not a God who must be coaxed into being great. The soul's call is real address under grace.",
+      "reformedNotes": "Calvin: after exhorting himself to praise, the Psalmist adds abundant matter for the exercise, condemning ingratitude if God's praises are buried in silence. God is exceeding great; He has clothed Himself with praise and glory. The hidden God comes forth clothed for our sake.\n\nReformed accent: praise is owed because the Creator has already displayed Himself. The soul is stirred because the world already declares His greatness. Shared with Wesley: bless the Lord; the majesty is not invented by the singer."
+    },
+    {
+      "number": 2,
+      "text": "covering yourself with light as with a garment, stretching out the heavens like a tent.",
+      "arminianNotes": "Covering Himself with light as with a garment; stretching out the heavens like a tent. Wesley: light—with that first created light, fitly first among visible works. The garment image keeps God near without making Him a creature of light.\n\nArminian pastoral: the heavens are a tent pitched by God, not a ceiling that hides Him. Classical Arminians preach a Creator who clothes Himself so we may see His glory in the fabric of the world—without requiring us to climb into His naked essence.",
+      "reformedNotes": "Calvin: comparing light to a garment intimates that although God is invisible, His glory is conspicuous enough. In His essence He dwells in inaccessible light; yet He irradiates the whole world by His splendor. Those who seek Him in naked majesty are foolish; He meets us in the beautiful fabric of the world.\n\nReformed pastoral: light is clothing for our sake. Shared: heavens stretched out; the Creator is not a dark absentee."
+    },
+    {
+      "number": 3,
+      "text": "He lays the beams of his chambers on the waters; he makes the clouds his chariot; he rides on the wings of the wind;",
+      "arminianNotes": "He lays the beams of His chambers on the waters; clouds His chariot; rides on the wings of the wind. Wesley: waters—in the waters above the heavens (Gen 1:7). The poetry is not pagan weather-myth; it is the Lord's mobility in His own sky.\n\nBoth camps: providence rides. Classical Arminians hear real wind and cloud under a real King—second causes that move because He rides, not because chance blows.",
+      "reformedNotes": "Calvin: beams of chambers in the waters ravish us with wonder—waters as foundation of the heavenly palace. He walks on the wings of the wind: He drives winds and clouds at His pleasure and shows signs of His presence. Winds do not blow by chance.\n\nReformed accent: atmosphere is ministry under sovereign rule. Shared: chariot and wind answer to Him."
+    },
+    {
+      "number": 4,
+      "text": "he makes his messengers winds, his ministers a flaming fire.",
+      "arminianNotes": "He makes His messengers winds, His ministers a flaming fire. Wesley: spirits—of spiritual nature, fitter for employment; fire—for irresistible force, agility, and fervency in executing God's commands. Hebrews 1:7 cites this line of the psalm.\n\nShared christology where camps agree: the Son is superior to angels; winds and fire serve. Shared: messengers serve the Lord who sends them; Hebrews 1:7 lifts the Son above the angels.",
+      "reformedNotes": "Calvin: what walking on the wings of the wind means is clearer here—winds are His messengers. Hebrews applies the analogy: as God uses winds as messengers, so angels were created to execute His commands. We profit little in contemplating nature if we do not behold the spiritual glory imaged in the world.\n\nReformed confession: creaturely forces and angels alike are ministers. Shared: flaming fire at His command; no autonomous storm gods."
+    },
+    {
+      "number": 5,
+      "text": "He set the earth on its foundations, so that it should never be moved.",
+      "arminianNotes": "He set the earth on its foundations, so that it should never be moved. Wesley: He hath established the earth upon its own basis, as fast as if built on strongest foundations; forever—as long as the world continues. A heavy body that does not fall is already a sermon.\n\nArminian sovereignty: the Most High fixes a dwelling for mankind. Real physics and real permanence stand under His appointment. Creaturely stability is not luck; neither is it a denial that earthquakes shake cities. The foundation is God's, and second causes remain real.",
+      "reformedNotes": "Calvin: celebrates glory in the earth's stability—suspended, yet steadfast. Even natural explanations shine with wonderful power. Nothing in the world is stable except as sustained by God's hand. The whole order of nature depends on His appointment. The language strengthens confidence for the future: He has given the earth for habitation.\n\nReformed sovereignty: effectual sustaining, not bare permission after the fact. Shared: the earth is set; man may dwell without constant terror—because God established it.",
+      "keyContrast": "Both confess that God set the earth on foundations so it should not be moved. Arminians typically hear real creaturely order under that appointment—stability governed without erasing second causes. Reformed readers typically hear Calvin's accent: nothing is stable except as sustained by God's hand; the order of nature depends on His determinate appointment."
+    },
+    {
+      "number": 6,
+      "text": "You covered it with the deep as with a garment; the waters stood above the mountains.",
+      "arminianNotes": "You covered it with the deep as with a garment; the waters stood above the mountains. Wesley: the deep—in the first creation (Gen 1:2, 9). Chaos is not celebrated as beauty; it is the stage God covers and then divides.\n\nBoth camps hear Genesis echoes. Classical Arminians preach a Creator who mastered the deep—waters that stood are waters that will flee at rebuke.",
+      "reformedNotes": "Calvin discusses whether the deep is now the sea's covering or the primal cover before gathering. Either way, the point is wonder: waters that would stand above mountains unless God rebukes. The appearance of dry surface is not chance.\n\nReformed accent: garment language still yields to providence. Shared: mountains once under deep; God rules the cover."
+    },
+    {
+      "number": 7,
+      "text": "At your rebuke they fled; at the sound of your thunder they took to flight.",
+      "arminianNotes": "At your rebuke they fled; at the sound of your thunder they took to flight. Wesley: rebuke—upon thy command (Gen 1:9); fled—immediately to the place God allotted. Word, not struggle, relocates the sea.\n\nShared: the deep obeys. Classical Arminians hear a command that creatures truly answer—waters flee because God speaks, and the flight is real history of formation, not metaphor emptied of force.",
+      "reformedNotes": "Calvin: rebuke of God and voice of thunder mean His awful command restraining the sea's rage. By His word He confined the sea at the beginning and keeps it within bounds still. Billows foam; yet they flee at His voice.\n\nReformed pastoral: thunder is not random weather theater. Shared: waters take flight when He rebukes."
+    },
+    {
+      "number": 8,
+      "text": "The mountains rose, the valleys sank down to the place that you appointed for them.",
+      "arminianNotes": "The mountains rose, the valleys sank down to the place that you appointed for them. Wesley: in that first division, part went upward as springs in mountains; the greatest part downward to channels made for them. Appointment, not accident, draws the map.\n\nBoth camps: topography is gift. Classical Arminians refuse a cosmos that climbed into beauty by itself while God watched helplessly.",
+      "reformedNotes": "Calvin: ascending mountains and descending valleys are poetical figures—unless God confined the deep, the beauty of mountain and valley would cease. He founded a place for the valleys so dry land remains at the mountains' feet.\n\nReformed accent: appointed place is decree in the landscape. Shared: mountains and valleys answer to His appointment."
+    },
+    {
+      "number": 9,
+      "text": "You set a boundary that they may not pass, so that they might not again cover the earth.",
+      "arminianNotes": "You set a boundary they may not pass, so they might not again cover the earth. Wesley: a bound—even the sand of the sea-shore. Genesis 9 and Job's shoreline preach the same mercy.\n\nArminian comfort: the boundary is covenant kindness for dwellers. Floods that terrify still meet a shore God named. Second causes of tide and storm remain; the \"not again\" is God's promise kept.",
+      "reformedNotes": "Calvin: the miracle amplified by perpetuity. It is owing to providence that dry land remains fit for habitation. No banks or iron gates could keep fluid waters in place as we see; God holds the element by His word. Though the sea sometimes overpasses locally, the law stands fast.\n\nReformed comfort: counteracting law by eternal truth. Shared: boundary so the earth is not covered again."
+    },
+    {
+      "number": 10,
+      "text": "You make springs gush forth in the valleys; they flow between the hills;",
+      "arminianNotes": "You make springs gush forth in the valleys; they flow between the hills. Provision moves from cosmic boundary to local mercy—water where dwellers and beasts can drink.\n\nBoth camps: springs are made, not merely found. Classical Arminians praise a Father who opens veins in dry land so life can continue under ordinary providence.",
+      "reformedNotes": "Calvin: another instance of power and goodness—fountains in mountains running through valleys. Though the earth must be dry for habitation, without water living creatures perish. Springs between hills commend the arrangement.\n\nReformed accent: even desert courses show household care. Shared: gushing springs by His making."
+    },
+    {
+      "number": 11,
+      "text": "they give drink to every beast of the field; the wild donkeys quench their thirst.",
+      "arminianNotes": "They give drink to every beast of the field; the wild donkeys quench their thirst. Wesley: wild asses—stupid creatures, yet plentifully provided for by divine providence. Care reaches what courts ignore.\n\nArminian pastoral: \"every beast\" is wide kindness. The same God who offers living water to sinners first shows Himself generous in the field. No need to invent a scarcity in providence to protect a doctrine of grace.",
+      "reformedNotes": "Calvin: why beasts rather than men? To enhance goodness that extends to the brute creation, even wild asses. He refers to desert places so we may compare them with cultivated lands afterward. Even waste regions furnish tokens of goodness and power.\n\nReformed pastoral: if deserts drink, how much more should cultivated mercy awaken praise. Shared: wild donkeys quench thirst from His springs."
+    },
+    {
+      "number": 12,
+      "text": "Beside them the birds of the heavens dwell; they sing among the branches.",
+      "arminianNotes": "Beside them the birds of the heavens dwell; they sing among the branches. Melody is built into the watering system—nests beside the flow.\n\nBoth camps: song is creaturely response to provision. Classical Arminians hear creation already praising in bird-song while human souls are still being summoned in v. 1.",
+      "reformedNotes": "Calvin: even desolate regions have trees where birds make the air resound. Regions that lie waste still manifest goodness. How much more where manifold abundance presents itself.\n\nReformed accent: song amid branches is evidence, not accident. Shared: birds dwell and sing by the springs."
+    },
+    {
+      "number": 13,
+      "text": "From your lofty abode you water the mountains; the earth is satisfied with the fruit of your work.",
+      "arminianNotes": "From your lofty abode you water the mountains; the earth is satisfied with the fruit of your work. Wesley: the hills most need moisture; from the clouds; satisfied—all parts made fruitful; fruit—effects of those sweet showers.\n\nShared: mountains watered from above. Classical Arminians refuse a deism that winds clouds without a Father in His lofty abode.",
+      "reformedNotes": "Calvin: mountains that seem condemned to drought nevertheless abound in pastures—fruitfulness from God, their secret cultivator. Labor is attributed to God only improperly; by blessing the earth from His repose He works more than all human toil.\n\nReformed confession: satisfied earth is fruit of His work. Shared: lofty abode waters the mountains."
+    },
+    {
+      "number": 14,
+      "text": "You cause the grass to grow for the livestock and plants for man to cultivate, that he may bring forth food from the earth",
+      "arminianNotes": "You cause grass to grow for livestock and plants for man to cultivate, that he may bring forth food from the earth. Wesley's outline marks provision for all creatures here. Cultivation is invited; God causes the growth that labor meets.\n\nArminian agency: man cultivates under gift. The \"that he may\" is real human work inside providence—neither Pelagian farming nor puppet fields. Grace in the gospel is not threatened by sweat in the field.",
+      "reformedNotes": "Calvin: now to men, of whom God takes special care as children. Corn is produced and bread made; grass for cattle, herb for man's service. God blesses the earth's yield so human toil is not empty.\n\nReformed accent: causing growth is primary; cultivation secondary. Shared: livestock and man both fed from what He causes."
+    },
+    {
+      "number": 15,
+      "text": "and wine to gladden the heart of man, oil to make his face shine and bread to strengthen man's heart.",
+      "arminianNotes": "Wine to gladden man's heart, oil to make his face shine, bread to strengthen man's heart. Wesley: oil—festival anointing; bread—preserves or renews strength. Gladness is allowed; gluttony is not the text's aim.\n\nArminian temperance: gifts may cheer without becoming gods. Classical Arminians preach gratitude that can refuse abuse—liberty under law of love, not suspicion of every feast.",
+      "reformedNotes": "Calvin: God provides not only necessity but also cheer—wine and oil beyond bare water. Nature would be satisfied with water; wine is superabundant liberality. Yet temperance must not be separated from beneficence: make not provision for the flesh to fulfill lusts. Mirth tempered with sobriety, before God.\n\nReformed pastoral: fatherly bounty tested by moderation. Shared: wine, oil, bread as gifts that strengthen and gladden under holy use."
+    },
+    {
+      "number": 16,
+      "text": "The trees of the Lord are watered abundantly, the cedars of Lebanon that he planted.",
+      "arminianNotes": "The trees of the Lord are watered abundantly, the cedars of Lebanon that He planted. Wesley: trees that thrive not by man's industry but merely by providence's care. Lebanon's pride is planted stock.\n\nBoth camps: \"of the Lord\" and \"He planted\" shut out self-made forests of meaning. Classical Arminians glory in uncultivated mercy—cedars that did not hire a gardener yet drink.",
+      "reformedNotes": "Calvin: general providence cherishing all parts. Trees satiated with sap so birds may dwell. Transition from men to trees: no wonder God nourishes those made in His image if He does not grudge care to trees. Trees of the Lord are high and beautiful; blessing is conspicuous in them.\n\nReformed accent: planted by Him, watered by Him. Shared: cedars of Lebanon under abundant watering."
+    },
+    {
+      "number": 17,
+      "text": "In them the birds build their nests; the stork has her home in the fir trees.",
+      "arminianNotes": "In them the birds build nests; the stork has her home in the fir trees. Ecology is praise: nest and home assigned in the planted timber.\n\nShared: stork and songbirds find what God prepared—household care in the canopy.",
+      "reformedNotes": "Calvin: birds build nests there; the stork's dwelling in firs. No part of the world forgotten by the best of fathers; no creature excluded from His care.\n\nReformed pastoral: home in fir trees is providence in the particular. Shared: nests where He watered."
+    },
+    {
+      "number": 18,
+      "text": "The high mountains are for the wild goats; the rocks are a refuge for the rock badgers.",
+      "arminianNotes": "High mountains for wild goats; rocks a refuge for rock badgers. Wesley's creatures continue—each niche named. Refuge is designed, not stumbled upon.\n\nBoth camps: the weak and the sure-footed alike are housed. Classical Arminians hear kindness in geology—cliffs as mercy for the timid.",
+      "reformedNotes": "Calvin: wild deer and conies have shelters—no creature excluded. High mountains and rocks are assigned habitations.\n\nReformed accent: refuge in rocks is the Father's map. Shared: goats and badgers have their places."
+    },
+    {
+      "number": 19,
+      "text": "He made the moon to mark the seasons; the sun knows its time for setting.",
+      "arminianNotes": "He made the moon to mark the seasons; the sun knows its time for setting. Wesley: seasons—to distinguish times of natural events and sacred and civil affairs commonly regulated by the moon. Clockwork is covenantal kindness for a worshiping people.\n\nShared: sun and moon as servants, not deities. Classical Arminians refuse astrology's reign while affirming calendars under the Maker.",
+      "reformedNotes": "Calvin: beautiful arrangement of sun and moon's alternate succession. Moon appointed to distinguish seasons—ordinary and appointed feasts; by synecdoche she marks festival days, years, months. The sun knows his going down—not only daily circuit but approaches and recessions that make the seasons.\n\nReformed confession: times distinguished by His making. Shared: moon for seasons; sun for setting."
+    },
+    {
+      "number": 20,
+      "text": "You make darkness, and it is night, when all the beasts of the forest creep about.",
+      "arminianNotes": "You make darkness, and it is night, when all the beasts of the forest creep about. Wesley: darkness succeeds light by virtue of thy decree. Night is made, not merely suffered.\n\nArminian reading: decree orders the alternation; beasts creeping are still under the Maker who also made day for man. Fear at night is real; chaos is not lord.",
+      "reformedNotes": "Calvin: beasts of the forest creep forth at night, going out of dens with fear. Hunger drives, yet they watch for darkness. The verb suits their wary motion.\n\nReformed accent: You make darkness—agency in the night itself. Shared: night and creeping beasts under His making."
+    },
+    {
+      "number": 21,
+      "text": "The young lions roar for their prey, seeking their food from God.",
+      "arminianNotes": "Young lions roar for their prey, seeking their food from God. Wesley: they roar when in sight of prey; roaring is a kind of natural prayer to God for relief. Predation is not atheism in the bush.\n\nBoth camps: \"from God\" is the shock. Classical Arminians can affirm lions hunt and still seek food from God—providence in the food chain without blessing cruelty as virtue.",
+      "reformedNotes": "Calvin: lions seldom venture by day but trust night. Wonderful providence: so dreadful a beast kept in dens that men may walk more freely. They seek food from God—not as casting themselves knowingly on Him, but as the fact that God provides for ravenous beasts.\n\nReformed pastoral: even the roar is inside household care. Shared: prey sought as from God."
+    },
+    {
+      "number": 22,
+      "text": "When the sun rises, they steal away and lie down in their dens.",
+      "arminianNotes": "When the sun rises, they steal away and lie down in their dens. Daylight shepherds the predators home. The schedule protects labor.\n\nShared: sunrise reallocates the field. Classical Arminians hear mercy timed into the clock—dens for lions, paths for people.",
+      "reformedNotes": "Calvin: sun rising, they gather and lie down. God distributes successions of time so day belongs properly to man. He restrains wild beasts hostile to us; light as if by iron cages. Unparalleled goodness protecting man for labor.\n\nReformed accent: daylight as restraint of providence. Shared: dens by day; the forest yields the path."
+    },
+    {
+      "number": 23,
+      "text": "Man goes out to his work and to his labor until the evening.",
+      "arminianNotes": "Man goes out to his work and to his labor until the evening. Ordinary vocation is written into the creation hymn—work until evening under the same sun that sent lions home.\n\nArminian dignity: labor is not a curse-only word here. Classical Arminians preach work as creaturely calling inside providence, awaiting the gospel's deeper rest without scorning the evening's wage.",
+      "reformedNotes": "Calvin: man goes forth to work and labor until evening—protected by light to engage the business of life. The goodness is commended for its necessity: without this order, no liberty for human labor.\n\nReformed pastoral: vocation under sunrise mercy. Shared: man works until evening by God's schedule."
+    },
+    {
+      "number": 24,
+      "text": "O Lord, how manifold are your works! In wisdom have you made them all; the earth is full of your creatures.",
+      "arminianNotes": "O Lord, how manifold are your works! In wisdom have you made them all; the earth is full of your creatures. The hymn pivots to summary wonder—manifold works, wisdom, a full earth.\n\nBoth camps: wisdom, not chance. Classical Arminians and Reformed together refuse Epicurean atoms. The fork is not whether God made wisely, but how that wisdom grounds trust.",
+      "reformedNotes": "Calvin: breaks off enumeration with admiration—how magnificent. Nothing confused; vast variety arranged with greatest wisdom. Set against imaginations that cannot discover God's designs and against dreams that the world came by fortuitous atoms. Under riches—goodness and beneficence; earth replenished for our advantage.\n\nReformed confession: made in wisdom; full of His riches. Shared: manifold works; no room for chance-as-creator."
+    },
+    {
+      "number": 25,
+      "text": "Here is the sea, great and wide, which teems with creatures innumerable, living things both small and great.",
+      "arminianNotes": "Here is the sea, great and wide, teeming with creatures innumerable, small and great. The mirror shifts from land to sea—vastness itself is argument.\n\nShared: innumerable living things. Classical Arminians preach a generosity that fills even what frightens sailors.",
+      "reformedNotes": "Calvin: after earth's evidences, the sea is a new mirror of power and wisdom. Vastness excites wonder—swelling or calm. Abundance and variety of fishes enhance glory.\n\nReformed accent: great and wide under the same Lord. Shared: small and great teem by His making."
+    },
+    {
+      "number": 26,
+      "text": "There go the ships, and Leviathan, which you formed to play in it.",
+      "arminianNotes": "There go the ships, and Leviathan, which you formed to play in it. Wesley: Leviathan—the whale; of vast strength and dominion, tumbling with security, sporting with other creatures. Play is the shocking verb for what terrifies.\n\nBoth camps: formed to play—not rival deity. Ships show human art under providence; Leviathan shows God's ease with what makes us tremble. No chaos-monster dualism.",
+      "reformedNotes": "Calvin: navigation depends on providence granting passage through the deep. Leviathan celebrated especially—sufficient proof of dreadful power; movements that agitate sea and alarm hearts are only sport in respect of God. The sea is given to leviathans as a field for exercise.\n\nReformed pastoral: play before God, terror before us. Shared: ships and Leviathan in a sea He formed."
+    },
+    {
+      "number": 27,
+      "text": "These all look to you, to give them their food in due season.",
+      "arminianNotes": "These all look to you, to give them their food in due season. Dependence language goes universal—land and sea wait on the open hand.\n\nArminian providence: looking to God is real creaturely need under a Father who gives in season. The \"all\" is sincere width in common kindness; it does not by itself settle the extent of saving grace, but it forbids a stingy Creator.",
+      "reformedNotes": "Calvin: God as master of a household toward all living creatures. Almost innumerable species, yet each needs daily food. All wait upon You—they could not continue even a few days unless He supply. Season matters: He lays up store so winter does not starve them.\n\nReformed accent: waiting is total dependence. Shared: food in due season from His hand."
+    },
+    {
+      "number": 28,
+      "text": "When you give it to them, they gather it up; when you open your hand, they are filled with good things.",
+      "arminianNotes": "When you give it, they gather it up; when you open your hand, they are filled with good things. Gathering is creaturely; giving is divine. Fullness follows the open hand.\n\nBoth camps: empty hand means empty creatures. Classical Arminians stress that gathering is real response—animals and people take what is given—while the gift's source remains solely God.",
+      "reformedNotes": "Calvin: You shall give, they shall gather; open Your hand, they are filled. If wheat grew daily without seasons, providence would be less manifest. When the earth becomes barren it is as if God shut His hand; when fruitful, He stretches out His hand from heaven.\n\nReformed pastoral: open hand, filled creatures. Shared: gathering only after giving."
+    },
+    {
+      "number": 29,
+      "text": "When you hide your face, they are dismayed; when you take away their breath, they die and return to their dust.",
+      "arminianNotes": "When you hide your face, they are dismayed; when you take away their breath, they die and return to dust. Wesley: hidest—withdrawest the care of thy providence. Face and breath are life; withdrawal is death.\n\nArminian gravity: dismay and death are real under hidden face. Classical Arminians confess utter dependence without collapsing into fatalism that denies means—yet no creature has life as private property against God's face.",
+      "reformedNotes": "Calvin: we stand or fall according to God's will. We live as He sustains; when He withdraws the life-giving spirit, we die. If He hide His face, they are afraid; if He take their spirit, they die and return to dust. His look gives life; serene countenance inspires living creatures.\n\nReformed confession: breath held at His pleasure. Shared: hide the face, dismay; take breath, dust.",
+      "keyContrast": "Both confess that hidden face and taken breath mean dismay and death—creatures have no independent lease on life. Arminians typically stress this as real providence over real second causes, without making every death a bare puppet-show. Reformed readers typically stress Calvin's point: we stand or fall by God's will; life continues only as He sustains by His power."
+    },
+    {
+      "number": 30,
+      "text": "When you send forth your Spirit, they are created, and you renew the face of the ground.",
+      "arminianNotes": "When you send forth your Spirit, they are created, and you renew the face of the ground. Wesley: Spirit—that quickening power by which He produces life from time to time; not first creation only but continued production; created—in largest sense by second causes; renewest—preserving succession of living creatures. Renewal is ongoing mercy.\n\nClassical Arminians hear a God who keeps sending life into a world that keeps dying—faithful providence through second causes, not a distracted repairman.",
+      "reformedNotes": "Calvin: the world is daily renewed because God sends forth His spirit. In propagation we see a kind of new creation. He calls that God's spirit which proceeds from Him; when sent forth, all things are created—what was His He makes ours. Not Manichaean partition of divine essence into animals. When we see the world daily decaying and renewed, life-giving power is mirrored.\n\nReformed accent: send forth Spirit—effectual renewal of the ground's face. Shared: created and renewed by the Spirit He sends.",
+      "keyContrast": "Both confess that God sends forth His Spirit so creatures are created and the ground's face renewed. Arminians typically follow Wesley: quickening power in continued production through second causes, providence preserving succession. Reformed readers typically follow Calvin: daily renewal by the Spirit God sends forth; the world subsists by secret virtue derived from Him—without dividing His essence into the creatures."
+    },
+    {
+      "number": 31,
+      "text": "May the glory of the Lord endure forever; may the Lord rejoice in his works,",
+      "arminianNotes": "May the glory of the Lord endure forever; may the Lord rejoice in His works. Wesley: God advances glory of wisdom, power, and goodness in upholding works from generation to generation; He takes pleasure in preservation and in reflecting on these works of providence.\n\nShared: glory forever; divine joy in works. Classical Arminians preach a God who delights in what He made—not a reluctant maintainer.",
+      "reformedNotes": "Calvin: purpose of celebrating power, wisdom, and goodness—to stir praise. Glory to Jehovah forever; let Jehovah rejoice in His works—desiring that the order He established may continue in the lawful use of gifts. When good things are polluted by corruptions, He ceases to take delight in bestowing as before; yet He bears the character of the best of fathers.\n\nReformed pastoral: God's rejoicing and our holy use are linked. Shared: enduring glory; joy in His works."
+    },
+    {
+      "number": 32,
+      "text": "who looks on the earth and it trembles, who touches the mountains and they smoke!",
+      "arminianNotes": "Who looks on the earth and it trembles; who touches the mountains and they smoke. Wesley: farther illustration—one angry look or touch makes hills tremble and smoke, as Sinai when God appeared. Favor gives life; severity shakes the frame.\n\nBoth camps: Sinai memory without spectacle-religion. Classical Arminians hear holy power that can undo what v. 5 established—stability is gift, not leverage against God.",
+      "reformedNotes": "Calvin: stability of the world depends on God's rejoicing in His works; if He looked with severe countenance, the earth would tremble and mountains burn. Verse 32 shows what His glance can do.\n\nReformed accent: tremble and smoke at a look. Shared: earth and mountains answer His gaze and touch."
+    },
+    {
+      "number": 33,
+      "text": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being.",
+      "arminianNotes": "I will sing to the Lord as long as I live; I will sing praise to my God while I have being. Personal vow closes the cosmic tour—lifetime praise.\n\nArminian devotion: singing is willing response under grace. Classical Arminians stress a resolved heart that can still be summoned—praise while we have being, not only when moods peak.",
+      "reformedNotes": "Calvin: points others to duty by example—throughout life proclaiming praises without wearying. Boundary of celebration is death; we are created that the divine name may be celebrated on earth.\n\nReformed vow: lifelong song as owed. Shared: sing while life lasts."
+    },
+    {
+      "number": 34,
+      "text": "May my meditation be pleasing to him, for I rejoice in the Lord.",
+      "arminianNotes": "May my meditation be pleasing to Him, for I rejoice in the Lord. Wesley's psalm ends toward pleasing meditation and joy. Acceptable thought is asked, not assumed.\n\nBoth camps: joy in the Lord, not in the gift only. Classical Arminians pray that meditation please Him—conscious of unclean lips even in praise.",
+      "reformedNotes": "Calvin: conscious of unworthiness, he prays praises may be acceptable though from polluted lips. Thanksgiving is well pleasing when offered through Christ (Heb 13:15). I will rejoice in the Lord—rare virtue; hard to call the mind from wild joys to God alone.\n\nReformed pastoral: acceptable meditation through mercy. Shared: rejoice in the Lord; seek to please Him in thought."
+    },
+    {
+      "number": 35,
+      "text": "Let sinners be consumed from the earth, and let the wicked be no more! Bless the Lord, O my soul! Praise the Lord!",
+      "arminianNotes": "Let sinners be consumed from the earth, and let the wicked be no more! Bless the Lord, O my soul! Praise the Lord! Wesley: Hallelujah—first occurrence; on occasion of destruction of the wicked; last in Rev 19 on Babylon's fall. Imprecation and doxology kiss.\n\nBoth camps take imprecation seriously—no caricature, no sneer. Classical Arminians hear holy longing that wickedness cease so creation's praise is not mocked—without making the verse a license for private revenge. Bless the Lord still frames the cry.",
+      "reformedNotes": "Calvin: this imprecation depends on \"let Jehovah rejoice in his works.\" Wicked infect the world so God has less delight in His workmanship. Uncleanness through every part is offensive. The prophet desires they be exterminated until the race fail. Take care to obey and purely use benefits; grieve that treasures are squandered.\n\nReformed pastoral: Hallelujah beside judgment. Shared: sinners consumed as prayer for clean earth; soul still blesses the Lord."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 119,
+  "verseStart": 73,
+  "verseEnd": 80,
+  "translation": "ESV",
+  "title": "Psalm 119:73–80",
+  "context": "The Yodh stanza begins from creation—God’s hands made and fashioned the singer—and asks understanding to learn the commandments. God-fearers will rejoice at hope in the word; affliction is confessed as faithful; steadfast love and mercy are begged for life and comfort because the law is delight. The insolent are left to shame while the servant meditates; the God-fearing are invited to turn; and the heart is asked to be blameless in the statutes. Both camps pray from creaturehood for light and a sound heart; they differ on whether that soundness is the Spirit’s gift against natural blindness or grace assisting sincere aim.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Creator who must also give understanding, faithful affliction, and a heart made sound in the statutes—so each camp speaks in its own voice beside Psalm 119:73–80.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Glad—For the encouragement they have by my example to trust in God. See me—Alive and in safety. Word—In thy promise, and have not been disappointed of my hope. Judgments—Thy corrections. Of faithfulness—In pursuance of thy promises, and in order to my good. Known—Loved and practised them. Sound—That I may love and obey them sincerely, constantly, and universally.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 119:74–75, 79–80)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Thy hands have made and fashioned me: make me to understand. As we are God’s workmanship, this encourages us to pray that he would direct us to obedience; he asks new grace to carry to perfection what he has commenced. Whenever he prays for understanding, he condemns both himself and all mankind as in a state of blindness; the only remedy is the illumination of the Holy Spirit. Let my heart be sound in thy statutes: he prays for sincere affection; understanding and affections are both depraved. This plainly refutes free will; uprightness of heart is the gift of the Holy Spirit. No service is acceptable except what proceeds from integrity of heart.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 119:73, 80)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 73,
+      "text": "Your hands have made and fashioned me; give me understanding that I may learn your commandments.",
+      "arminianNotes": "Creator hands ground the plea for understanding. Classical Arminians hear creaturely dependence: the God who fashioned us is asked to teach us—formation and illumination joined.\n\nShared humility: learning commandments requires given understanding. Do not invent eyes clear enough without prayer.",
+      "reformedNotes": "Calvin: created by God’s hand encourages hope of the favor asked—he has given understanding and reason, which emboldens prayer for direction into obedience. He does not claim God owes him; knowing God never forsakes work begun, he asks new grace to perfect what was commenced. Teaching avails nothing until souls are renewed; praying for understanding condemns himself and mankind as blind—the only remedy is the Spirit’s illumination.\n\nReformed accent: Maker must also enlighten. External law plus blind mind still fails without supernatural light."
+    },
+    {
+      "number": 74,
+      "text": "Those who fear you shall see me and rejoice, because I have hoped in your word.",
+      "arminianNotes": "Wesley: Glad—For the encouragement they have by my example to trust in God. See me—Alive and in safety. Word—In thy promise, and have not been disappointed of my hope.\n\nClassical Arminians hear hope vindicated in public—God-fearers rejoice when a servant’s trust is not put to shame. Example feeds others’ faith.",
+      "reformedNotes": "Calvin: benefits God conferred would make genuine saints glad. Joy proceeds from trust and from being preserved and loaded with benefits—hope’s ample reward. When God shows grace to one servant, he testifies to all that he is faithful and that those who trust need not fear disappointment.\n\nReformed reading: one servant’s hoped-in word becomes church-wide encouragement. God’s faithfulness to the promise is on display."
+    },
+    {
+      "number": 75,
+      "text": "I know, O Lord, that your rules are righteous, and that in faithfulness you have afflicted me.",
+      "arminianNotes": "Wesley: Judgments—Thy corrections. Of faithfulness—In pursuance of thy promises, and in order to my good.\n\nClassical Arminians hear affliction read as faithful, not fickle—corrections aimed at good, matching righteous rules. Knowledge here is confessed trust in God’s character under the rod.",
+      "reformedNotes": "Calvin: judgments may mean precepts or the punishments that stir repentance; justice and truth nearly coincide. He confesses God so regulates judgments that ungodly mouths are shut. True piety is less rigid censor of others’ faults than of one’s own; this knowledge proves strict self-examination—without weighing guilt he could not by experience learn God’s righteousness in afflictions.\n\nReformed accent: faithful affliction is known from within a judged conscience. The law remains holy even when the rod falls."
+    },
+    {
+      "number": 76,
+      "text": "Let your steadfast love comfort me according to your promise to your servant.",
+      "arminianNotes": "Steadfast love is asked to comfort according to the promise. Classical Arminians hear sorrow that only reconciled favor can cure—comfort tied to what God said to his servant.\n\nShared pattern: remind God of his promise without presumption; the word opens the way into his presence.",
+      "reformedNotes": "Calvin: though justly humbled, he desires consolation by God’s mercy—nothing removes the faithful’s sorrow until they feel God reconciled. The Word offers mercy and comfort, yet he asks actual mercy—the deed declaring promised favor. Reminding God of his promise is not vain; without his invitation it would be presumption. “To thy servant” applies church-wide promises to himself by faith.\n\nReformed confession: comfort is steadfast love performed. Hope disappoints unless God appears as deliverer."
+    },
+    {
+      "number": 77,
+      "text": "Let your mercy come to me, that I may live; for your law is my delight.",
+      "arminianNotes": "Mercy unto life, grounded in delight in the law. Classical Arminians hear dependence on compassion for true living—and delight as the posture that hopes for mercy without bargaining.\n\nShared confession: without God’s mercy there is death even while breathing; with it, life returns.",
+      "reformedNotes": "Calvin: he cannot live without being reconciled to God—unlike worldlings little concerned for reconciliation. Until he knows God reconciled, he is a dead man while living; when mercy shines, he is restored from death to life. He argues from delight in the law; otherwise he could not hope for mercy. He had learned from the law that those who dissever themselves from God are miserable.\n\nReformed accent: mercy-coming is life itself. Law-delight is not payment but the mark of one who knows where life lies."
+    },
+    {
+      "number": 78,
+      "text": "Let the insolent be put to shame, because they have wronged me with falsehood; as for me, I will meditate on your precepts.",
+      "arminianNotes": "Shame asked for false wrongs; the singer’s answer is meditation, not matching deceit. Classical Arminians hear refuge in God when persecuted wrongfully—precepts as the steady occupation under assault.\n\nShared path: leave loftiness to God to abase; keep musing on the word.",
+      "reformedNotes": "Calvin: prayer that the proud be shamed because they wickedly assaulted him—falsehood referring to stratagems. When wrongfully persecuted, we are invited straight to God’s protection. God will beat down loftiness to shame as an example: nothing more ridiculous than singing triumph before victory. He will meditate—or speak—of the statutes, declaring how God guards his saints.\n\nReformed reading: meditation is the servant’s post while God handles the proud. Wrongful falsehood drives prayer, not panic."
+    },
+    {
+      "number": 79,
+      "text": "Let those who fear you turn to me, that they may know your testimonies.",
+      "arminianNotes": "Wesley: Known—Loved and practised them.\n\nClassical Arminians hear deliverance becoming instruction—God-fearers turning to see and learn the testimonies. Shared mission: one servant’s rescue catechizes others who already fear God.",
+      "reformedNotes": "Calvin: deliverance would afford common instruction; the righteous, once disheartened, will turn their eyes to this joyful spectacle. Two marks of true believers: fear of God, and knowledge of divine truth—inseparable. Superstitious fear vanishes; God counts only service done in obedience to commandments. True religion originates in faith in what he enjoined.\n\nReformed accent: fear and knowing the testimonies define those who turn. The spectacle teaches faithfulness."
+    },
+    {
+      "number": 80,
+      "text": "May my heart be blameless in your statutes, that I may not be put to shame!",
+      "arminianNotes": "Wesley: Sound—That I may love and obey them sincerely, constantly, and universally.\n\nClassical Arminians hear prayer for a sincere, constant, universal heart in the statutes—integrity asked so shame may be avoided. The aim is real; the soundness is still petitioned from God.",
+      "reformedNotes": "Calvin: as he asked a sound understanding, now he asks sincere affection—both principal faculties depraved. He requests illumination and a heart framed to obedience. This refutes free-will babble: he does not ask help for a merely weak will; he testifies uprightness of heart is the Spirit’s gift. No service is acceptable except from integrity of heart. Without God governing so hearts are sound in the statutes, shame comes at last to the proud and to hypocrites.\n\nReformed confession: blameless heart in the statutes is given, not self-secured. Spirit-framed affection is the only path that escapes eventual shame.",
+      "keyContrast": "Both pray for a heart sound and blameless in the statutes and both refuse empty outward religion. Arminians typically hear sincere aiming at constant, universal obedience—grace assisting the heart that seeks integrity. Reformed readers typically hear Calvin’s confession that uprightness of heart is the Holy Spirit’s gift and that both mind and affections are depraved—soundness is not free will completing itself, but God framing the heart to the statutes."
+    }
+  ]
+}

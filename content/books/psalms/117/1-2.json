@@ -1,0 +1,46 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 117,
+  "verseStart": 1,
+  "verseEnd": 2,
+  "translation": "ESV",
+  "title": "Psalm 117:1–2",
+  "context": "Shortest psalm in the Egyptian Hallel: all nations and peoples are summoned to praise and extol the Lord, because His steadfast love toward us is great and His faithfulness endures forever. Paul cites this wideness in Romans 15 for Gentile praise beside Jewish mercy.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on all nations summoned to praise because the Lord's steadfast love is great and His faithfulness forever—so each camp speaks in its own voice beside Psalm 117:1–2.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "O praise the Lord, all ye nations—let his love be universally known and praised. For his merciful kindness is great toward us—in the Redeemer. And the truth of the Lord endureth for ever—his ancient promises will be fulfilled. Praise ye the Lord.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 117)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The prophet invites all nations to praise God, teaching that the grace of God would be poured out upon the Gentiles. His mercy is great toward us—toward the Church first gathered from the Jews, yet so that the nations are called into the same song. The faithfulness of the Lord endures forever; therefore praise is not a momentary shout but the endless due of all peoples.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Psalm 117)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Praise the Lord, all nations! Extol him, all peoples!",
+      "arminianNotes": "Praise the Lord, all nations! Extol Him, all peoples! Wesley: let His love be universally known and praised. The shortest psalm casts the widest net.\n\nClassical Arminians hear a sincere summons to every nation—gospel praise truly meant for all peoples, fulfilled as Gentiles believe (Rom 15:11).",
+      "reformedNotes": "Calvin: the prophet invites all nations to praise God, teaching that grace would be poured out upon the Gentiles. The call is missionary and sure.\n\nReformed accent: nations praised into the song as God gathers His elect from all peoples. Shared: Praise the Lord, all nations!",
+      "keyContrast": "Both confess a summons to all nations and peoples to praise the Lord. Arminians typically take the call as a sincere universal invitation matching a gospel held out to every person. Reformed readers typically take \"all nations\" as all kinds of peoples from whom God effectually gathers a people for His name, while the praise-command is preached without ethnic fence."
+    },
+    {
+      "number": 2,
+      "text": "For great is his steadfast love toward us, and the faithfulness of the Lord endures forever. Praise the Lord!",
+      "arminianNotes": "For great is His steadfast love toward us, and the faithfulness of the Lord endures forever. Praise the Lord! Wesley: merciful kindness great toward us in the Redeemer; truth enduring; promises fulfilled.\n\nBoth camps: hesed and emet ground Gentile and Jewish praise alike. Classical Arminians preach great love sincerely shown in Christ to the world of nations.",
+      "reformedNotes": "Calvin: His mercy is great toward us—toward the Church, yet so the nations enter the same song. Faithfulness endures forever; praise is endless due.\n\nReformed comfort: everlasting faithfulness undergirds the inclusion of the nations. Shared: great steadfast love; faithfulness forever; Praise the Lord!"
+    }
+  ]
+}

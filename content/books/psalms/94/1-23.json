@@ -1,0 +1,172 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 94,
+  "verseStart": 1,
+  "verseEnd": 23,
+  "translation": "ESV",
+  "title": "Psalm 94:1–23",
+  "context": "O God of vengeance, shine forth; rise, Judge of the earth, and repay the proud. How long shall the wicked exult, pour out arrogant words, crush the people, kill widow, sojourner, and fatherless, saying the Lord does not see? Fools are summoned to understand: the Planter of the ear hears; the Former of the eye sees; the Discipliner of nations rebukes; the Lord knows that man's thoughts are breath. Blessed is the one he disciplines and teaches from his law—rest until a pit is dug for the wicked—for he will not forsake his people. Justice will return; the upright follow it. Who rises for me? If the Lord had not helped, the soul would dwell in silence; when the foot slips, steadfast love holds up; when cares multiply, consolations cheer. Wicked rulers framing injustice by statute cannot ally with him. The Lord is stronghold and rock; he will bring back their iniquity and wipe them out.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the God of vengeances shining forth, how long the wicked triumph, the ear-Planter who hears, blessed discipline from the law, a people not forsaken, consolations in many cares, and no fellowship with a throne of iniquity—so each camp speaks in its own voice beside Psalm 94:1–23.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Utter—pour forth freely, constantly, abundantly, as a fountain. Hard things—insolent words against thee and thy people. Of Jacob—he who takes that name but has no regard to his people. Planted—excellent structure of the ear; Formed—curious workmanship of the eye. Know—men's thoughts, words, and actions. Thoughts—he knoweth secret things; your thoughts, much more your practices. Blessed—afflictions accompanied with Divine instructions are great blessings. But—God will declare himself a righteous judge and establish justice; Follow—approve and imitate. Rise—defend me; none appeared; God alone helped. Dwelt—place of silence, the grave. Thoughts—perplexing cares; Comforts—promises and remembrance of former kindness. Shall—wilt thou take part with unrighteous powers; A law—by unrighteous decrees.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 94"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "O Jehovah, God of vengeances, shine forth; Judge of the earth, render to the proud. How long shall the wicked triumph—length of impunity hardens audacity. They pour forth hard things; break in pieces thy people; slay widow, stranger, fatherless. They say God shall not see—virtual denial of providence. Understand, ye stupid among the people: he that planted the ear, shall he not hear? He that chastises nations, shall he not correct? Jehovah knows thoughts of men are vanity. Blessed is the man instructed and taught out of thy law—to give rest while the pit is dug for the wicked. Jehovah will not cast off his people. Judgment will return unto righteousness. Who will rise for me? Unless Jehovah had been help, my soul had dwelt in silence. If I said my foot has fallen, thy kindness held me up; in multitude of thoughts thy comforts delight. Shall the throne of iniquities have fellowship with thee, framing mischief by law? Jehovah has been my fortress; he shall repay their iniquity and cut them off.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 94"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O Lord, God of vengeance, O God of vengeance, shine forth!",
+      "arminianNotes": "O Lord, God of vengeance, shine forth! Shared: double title; plea that the Avenger appear.\n\nArminian pastoral: Wesley has no extra lemma on the opening; the plain cry stands—ask the just God to show himself, not private revenge dressed as piety.",
+      "reformedNotes": "Calvin: God of vengeances—titles fit the situation; shine forth means some actual manifestation as judge. Not that God needs reminding; the faithful embolden themselves to vehement prayer. When wicked indulge excesses, remember he never ceases to be judge of the earth.\n\nReformed pastoral: shared—shine forth, God of vengeance. Retributive justice, not a vindictive spirit; put up the Spirit-taught prayer when he seems hidden."
+    },
+    {
+      "number": 2,
+      "text": "Rise up, O judge of the earth; repay to the proud what they deserve!",
+      "arminianNotes": "Rise up, O judge of the earth; repay the proud what they deserve. Shared: earth-Judge; repayment to pride.\n\nArminian pastoral: the rise is courtroom, not mob. Deserve names the moral claim without licensing cruelty in the petitioner.",
+      "reformedNotes": "Calvin: Lift up thyself, Judge of the earth—render reward to the proud. Ascending the tribunal to punish sin and preserve order. Phraseology is for us who feel overlooked unless he help openly.\n\nReformed pastoral: shared—rise, judge, repay the proud. Confidence that governance of the world is his office."
+    },
+    {
+      "number": 3,
+      "text": "O Lord, how long shall the wicked, how long shall the wicked exult?",
+      "arminianNotes": "O Lord, how long shall the wicked exult? Shared: doubled how long; length of triumph.\n\nArminian pastoral: importunity is justified by duration. The question is prayer, not unbelief's sneer.",
+      "reformedNotes": "Calvin: how long twice repeated—impunity granted so long they became shameless. Triumph is boasting exultation of the intoxicated wicked. God may subject the Church to protracted persecution without having forsaken her.\n\nReformed pastoral: shared—how long the wicked exult. Delay is not desertion; pray through long forbearance."
+    },
+    {
+      "number": 4,
+      "text": "They pour out their arrogant words; all the evildoers boast.",
+      "arminianNotes": "They pour out arrogant words; evildoers boast. Wesley: Utter—pour forth freely, constantly, abundantly as a fountain; Hard things—insolent, intolerable words against thee and thy people. Shared: fountain of insolence.\n\nArminian pastoral: name the speech as fountain-abuse. Boast is not strength; it is poured wickedness.",
+      "reformedNotes": "Calvin: they pour forth, speak hard things—nabang means rush/boil forth; reckless words under no fear. Workers of iniquity lift themselves; glory in guilt. Pray for help under wild misrule.\n\nReformed pastoral: shared—arrogant words; boast. Church under misgovernment still cries to God."
+    },
+    {
+      "number": 5,
+      "text": "They crush your people, O Lord, and afflict your heritage.",
+      "arminianNotes": "They crush your people, O Lord, and afflict your heritage. Shared: people and heritage under the boot.\n\nArminian pastoral: the injury is against God's own. Heritage language fuels intercession, not despair.",
+      "reformedNotes": "Calvin: break in pieces thy people and afflict thy inheritance—intolerable that God's peculiar heritage be trampled. Safety is dear as his workmanship and as his heritage; wronged, betake to God with more confidence.\n\nReformed pastoral: shared—crush people; afflict heritage. Prefer this prayer when intestine enemies oppress."
+    },
+    {
+      "number": 6,
+      "text": "They kill the widow and the sojourner, and murder the fatherless;",
+      "arminianNotes": "They kill the widow and the sojourner, and murder the fatherless. Shared: triple assault on the unprotected.\n\nArminian pastoral: compassion's special objects are named. Cruelty here is contempt of divine authority.",
+      "reformedNotes": "Calvin: God commanded equity generally and specially protected orphan, widow, stranger. Cruelty to them is singular impiety; little children even beasts spare—monstrous that men assault them. Alleviate by prayer that God undertake their defense.\n\nReformed pastoral: shared—widow, sojourner, fatherless murdered. Imitate the Psalmist: pray God to defend them."
+    },
+    {
+      "number": 7,
+      "text": "and they say, “The Lord does not see; the God of Jacob does not perceive.”",
+      "arminianNotes": "They say the Lord does not see; the God of Jacob does not perceive. Wesley: Of Jacob—he who takes that name but has no regard to his people. Shared: practical atheism of providence.\n\nArminian pastoral: the taunt empties the covenant name. Answer by faith that Jacob's God does regard his flock.",
+      "reformedNotes": "Calvin: not always gross blasphemy in words, but despising judgments as if God took no cognisance. Violence shows brutish security concealing them from the Almighty—virtual denial of providence and of God as judge.\n\nReformed pastoral: shared—\"does not see/perceive.\" Lowest depravity casts off fear of God."
+    },
+    {
+      "number": 8,
+      "text": "Understand, O dullest of the people! Fools, when will you be wise?",
+      "arminianNotes": "Understand, O dullest of the people! Fools, when will you be wise? Shared: rebuke of stupid folly among the people.\n\nArminian pastoral: wisdom's question is urgent. Belonging to Abraham's line makes folly more inexcusable.",
+      "reformedNotes": "Calvin: stupid among the people—stronger than mere fools; belonging to Abraham's posterity (Deut 4) aggravates. Or rulers leveled with the herd. When will ye be wise?—obstinate adherence to folly.\n\nReformed pastoral: shared—understand; fools, when wise? Revelation makes dullness worse, not better."
+    },
+    {
+      "number": 9,
+      "text": "He who planted the ear, does he not hear? He who formed the eye, does he not see?",
+      "arminianNotes": "He who planted the ear—does he not hear? Who formed the eye—does he not see? Wesley: Planted—excellent structure of the ear; Formed—accurate workmanship of the eye. Shared: Creator argument for cognisance.\n\nArminian pastoral: design of ear and eye preaches against practical atheism. Do not humanize God with parts; hear and see are his perfect observation.",
+      "reformedNotes": "Calvin: if men see and hear by faculties from the Creator, God who formed eye and ear must possess most perfect observation. Argument from order of nature against eluding his view.\n\nReformed pastoral: shared—Planter hears; Former sees. Creature senses refute the claim that God does not perceive."
+    },
+    {
+      "number": 10,
+      "text": "He who disciplines the nations, does he not rebuke? He who teaches man knowledge—",
+      "arminianNotes": "He who disciplines the nations—does he not rebuke? Who teaches man knowledge— Wesley: Know—men's thoughts, words, and actions. Shared: from nations' correction to personal rebuke; from teaching to knowing.\n\nArminian pastoral: the greater-to-less holds. Nations under discipline leave no room for private exemption.",
+      "reformedNotes": "Calvin: he that chastises nations, shall he not correct?—from greater to less; or Gentiles punished, then Jews who heard the word all the more. Folly to flatter with impunity when peoples perish. He teaches knowledge—your shrewdness is a drop from his fullness.\n\nReformed pastoral: shared—disciplines nations; teaches knowledge. Eluding God by craft is madness."
+    },
+    {
+      "number": 11,
+      "text": "the Lord—knows the thoughts of man, that they are but a breath.",
+      "arminianNotes": "The Lord knows the thoughts of man, that they are but a breath. Wesley: Thoughts—he knoweth secret things; your thoughts, much more practices. Shared: known vanity of human devisings.\n\nArminian pastoral: breath/vanity undercuts the boast of v. 4. Secret counsel is already weighed.",
+      "reformedNotes": "Calvin: Jehovah knows thoughts of men that they are vain—mists of delusion scatter before the Judge. Wicked cannot deceive God by subtle refuges; they deceive themselves.\n\nReformed pastoral: shared—knows thoughts; they are breath. Stand before the Judge who stamps vanity on deep counsels."
+    },
+    {
+      "number": 12,
+      "text": "Blessed is the man whom you discipline, O Lord, and whom you teach out of your law,",
+      "arminianNotes": "Blessed is the man you discipline and teach out of your law. Wesley: Blessed—afflictions accompanied with Divine instructions are great and true blessings. Shared: rod plus law-teaching equals beatitude.\n\nArminian pastoral: do not call raw pain blessed; call instructed affliction blessed. Receive the law's teaching under the rod.",
+      "reformedNotes": "Calvin: blessed whom God instructed and taught out of his law—wisdom for composure under the cross is not natural; it comes from God's school and Scriptures. True patience is cheerful submission based on confidence in grace, not Stoic stubbornness.\n\nReformed pastoral: shared—discipline; teach from your law. Word and Spirit support under long trouble.",
+      "keyContrast": "Both call the disciplined and law-taught man blessed. Arminians, with Wesley, typically stress that afflictions joined to divine instruction are themselves great blessings to receive. Reformed readers, with Calvin, typically stress the school of the Word: patience under the cross is taught from above so the Church is not swallowed by despair while tyrants misuse law. Shared: rod and teaching together; blessing is not bare pain."
+    },
+    {
+      "number": 13,
+      "text": "to give him rest from days of trouble, until a pit is dug for the wicked.",
+      "arminianNotes": "To give him rest from days of trouble, until a pit is dug for the wicked. Shared: rest timed with the wicked's pit.\n\nArminian pastoral: rest is gift in the meantime. The pit's digging is God's work, not the sufferer's project.",
+      "reformedNotes": "Calvin: rest from days of evil while the pit is dug—wicked left on earth as a body on a bed till burial. Mount the watchtower; houses of the living are granted to those already devoted to destruction until the grave is ready.\n\nReformed pastoral: shared—rest; pit for the wicked. Faith waits the issue without envying temporary ease of oppressors."
+    },
+    {
+      "number": 14,
+      "text": "For the Lord will not forsake his people; he will not abandon his heritage;",
+      "arminianNotes": "For the Lord will not forsake his people; he will not abandon his heritage. Shared: double negation of forsaking.\n\nArminian pastoral: heritage again (v. 5). Crushing does not equal casting off—cling to the promise.",
+      "reformedNotes": "Calvin: Jehovah will not cast off his people nor forsake his inheritance—gratuitously adopted; he watches the Church as his heritage. Fly to this when affliction suggests desertion.\n\nReformed pastoral: shared—will not forsake people or heritage. Adoption underwrites patience."
+    },
+    {
+      "number": 15,
+      "text": "for justice will return to the righteous, and all the upright in heart will follow it.",
+      "arminianNotes": "Justice will return to the righteous; the upright in heart will follow it. Wesley: But—God will declare himself righteous judge and establish justice; Follow—approve and imitate. Shared: justice restored; upright trail it.\n\nArminian pastoral: return of judgment is public rectitude. Imitate—do not only cheer from the stands.",
+      "reformedNotes": "Calvin: judgment will return unto righteousness—government fitted to justice; God brings forth openly the justice that seemed clouded. Upright follow him with greater alacrity when deliverance is seen.\n\nReformed pastoral: shared—justice returns; upright follow. Confusion ends in ordered righteousness."
+    },
+    {
+      "number": 16,
+      "text": "Who rises up for me against the wicked? Who stands up for me against evildoers?",
+      "arminianNotes": "Who rises up for me against the wicked? Who stands up against evildoers? Wesley: Rise—defend me; looked hither and thither, none appeared; God alone helped. Shared: human aid absent.\n\nArminian pastoral: the loneliness is real. Looking around is honest; settling on God alone is faith.",
+      "reformedNotes": "Calvin: who will rise/stand for me?—destitute of human aid; cries as if at the moment of danger. Immediately: had not God helped, he must have despaired. Miraculous rescue when deserted magnifies grace.\n\nReformed pastoral: shared—who rises? who stands? God's single help outranks empty alliances."
+    },
+    {
+      "number": 17,
+      "text": "If the Lord had not been my help, my soul would soon have lived in the land of silence.",
+      "arminianNotes": "If the Lord had not been my help, my soul would soon have lived in the land of silence. Wesley: Dwelt—place of silence, the grave. Shared: near death-quiet without help.\n\nArminian pastoral: silence = grave. Help is the difference between living prayer and the pit.",
+      "reformedNotes": "Calvin: life dwelling in silence—the dead lie without feeling. No means of preserving life but God's undelayed interposition.\n\nReformed pastoral: shared—without help, land of silence. Commend kindness that snatches from present death."
+    },
+    {
+      "number": 18,
+      "text": "When I thought, “My foot slips,” your steadfast love, O Lord, held me up.",
+      "arminianNotes": "When I thought, \"My foot slips,\" your steadfast love held me up. Shared: slipping foot; hesed props.\n\nArminian pastoral: the inner sentence of falling meets covenant love. Admit the slip-thought; receive the hold.",
+      "reformedNotes": "Calvin: if I said, My foot has fallen—thy kindness held me up. Near present death made interposition conspicuous. Sense may say fallen while prayer continues—hope not wholly cut off.\n\nReformed pastoral: shared—foot slips; steadfast love holds. Mercy props what would otherwise drop."
+    },
+    {
+      "number": 19,
+      "text": "When the cares of my heart are many, your consolations cheer my soul.",
+      "arminianNotes": "When cares of my heart are many, your consolations cheer my soul. Wesley: Thoughts—various perplexing thoughts; Comforts—promises and remembrance of former care and kindness. Shared: many cares; divine consolations.\n\nArminian pastoral: pile of cares meets pile of comforts. Remember promises and past kindness under anxiety.",
+      "reformedNotes": "Calvin: in multitude of thoughts/anxieties, thy comforts delight—secret joy from above preserves from being swallowed. God enlarges in straits according to magnitude of trial.\n\nReformed pastoral: shared—many cares; consolations cheer. Two states: fear below, comfort from above."
+    },
+    {
+      "number": 20,
+      "text": "Can wicked rulers be allied with you, those who frame injustice by statute?",
+      "arminianNotes": "Can wicked rulers be allied with you, who frame injustice by statute? Wesley: Shall—wilt thou take part with unrighteous powers; A law—by unrighteous decrees. Shared: no fellowship with legalized mischief.\n\nArminian pastoral: statute does not sanctify oppression. Ask the question as confession of God's purity.",
+      "reformedNotes": "Calvin: shall throne of iniquities have fellowship with thee, framing molestation for law?—tyrants under color of law, not common robbers. A throne abused by wickedness has nothing in common with God; iniquity never meets his approbation.\n\nReformed pastoral: shared—no alliance with injustice-by-statute. Legal forms can be tools of oppression; God is not partner."
+    },
+    {
+      "number": 21,
+      "text": "They band together against the life of the righteous and condemn the innocent to death.",
+      "arminianNotes": "They band together against the life of the righteous and condemn the innocent to death. Shared: conspiracy; innocent blood condemned.\n\nArminian pastoral: stigma plus sentence. Character assassination rides with legal murder—bring both to God.",
+      "reformedNotes": "Calvin: they gather as a troop against the soul of the righteous; condemn innocent blood—leading persons, public convention, college of judges as band of robbers. Double trial: violence and injurious charges. God formerly tried servants thus; learn to bear both.\n\nReformed pastoral: shared—band against life; condemn innocent. Submissive endurance under unrighteous courts."
+    },
+    {
+      "number": 22,
+      "text": "But the Lord has become my stronghold, and my God the rock of my refuge.",
+      "arminianNotes": "But the Lord has become my stronghold, and my God the rock of my refuge. Shared: fortress turn; rock of refuge.\n\nArminian pastoral: but—pivot from statute-thrones to the Rock. Claim the stronghold aloud.",
+      "reformedNotes": "Calvin: Jehovah has been my fortress—sufficient help in God's single protection against force and fury of many. Hide and bid defiance to assault from that height.\n\nReformed pastoral: shared—stronghold; rock of refuge. One fortress outmatches assembled wickedness."
+    },
+    {
+      "number": 23,
+      "text": "He will bring back on them their iniquity and wipe them out for their wickedness; the Lord our God will wipe them out.",
+      "arminianNotes": "He will bring back their iniquity and wipe them out; the Lord our God will wipe them out. Shared: recoil of iniquity; doubled wipe-out; our God.\n\nArminian pastoral: their own wickedness returns. Our God binds the Church to the Judge who finishes the case.",
+      "reformedNotes": "Calvin: he shall repay their iniquity and cut them off—evil devised against the people recoils; they fall into their own pit. Said twice: he shall cut them off—the Lord our God shall cut them off. Our God reminds: he will not forget his inheritance.\n\nReformed pastoral: shared—bring back iniquity; wipe out. Slow hearts need the doubled assurance."
+    }
+  ]
+}

@@ -888,15 +888,15 @@ function renderTopicHub(kind, items, otherItems) {
     escapeHtml(otherTitle) +
     "</a> \u00b7 <a href=\"/bible/\">Bible</a>" +
     (isAttr
-      ? ""
-      : ' \u00b7 <a href="/bible/isaiah/">Isaiah</a>') +
+      ? ' \u00b7 <a href="/bible/psalms/">Psalms</a> \u00b7 <a href="/bible/hebrews/">Hebrews</a>'
+      : ' \u00b7 <a href="/bible/isaiah/">Isaiah</a> \u00b7 <a href="/bible/psalms/">Psalms</a> \u00b7 <a href="/bible/hebrews/">Hebrews</a>') +
     "</p>";
 
   const keyPassages = isAttr
     ? ""
     : '\n      <section class="topic-scripture topic-hub-passages" aria-labelledby="key-passages-heading">\n' +
       '        <h2 id="key-passages-heading">Read in the text</h2>\n' +
-      '        <p class="topic-hub-passages-lede">Open Isaiah and related passages that shape these doctrines\u2014then return to the notes above.</p>\n' +
+      '        <p class="topic-hub-passages-lede">Open Isaiah, Psalms, Hebrews, and related passages that shape these doctrines\u2014then return to the notes above.</p>\n' +
       '        <ul class="passage-list">\n' +
       '            <li><a href="/bible/isaiah/53/1-12.html"><span class="ref">Isaiah 53:1\u201312</span><span class="meta">Suffering servant\u2014atonement and substitution.</span></a></li>\n' +
       '            <li><a href="/bible/isaiah/6/1-13.html"><span class="ref">Isaiah 6:1\u201313</span><span class="meta">Holy, holy, holy\u2014the call and the cleansing.</span></a></li>\n' +
@@ -904,8 +904,12 @@ function renderTopicHub(kind, items, otherItems) {
       '            <li><a href="/bible/isaiah/55/1-13.html"><span class="ref">Isaiah 55:1\u201313</span><span class="meta">Come to the waters\u2014invitation and new life.</span></a></li>\n' +
       '            <li><a href="/bible/isaiah/46/1-13.html"><span class="ref">Isaiah 46:1\u201313</span><span class="meta">I will carry you\u2014God\u2019s preserving purpose.</span></a></li>\n' +
       '            <li><a href="/bible/daniel/4/28-37.html"><span class="ref">Daniel 4:28\u201337</span><span class="meta">The Most High rules\u2014sovereignty beside the throne.</span></a></li>\n' +
+      '            <li><a href="/bible/psalms/22/1-31.html"><span class="ref">Psalm 22:1\u201331</span><span class="meta">Forsaken cry and gathered praise\u2014cross-shaped lament.</span></a></li>\n' +
+      '            <li><a href="/bible/psalms/51/1-19.html"><span class="ref">Psalm 51:1\u201319</span><span class="meta">Create in me a clean heart\u2014confession and new life.</span></a></li>\n' +
+      '            <li><a href="/bible/hebrews/9/11-22.html"><span class="ref">Hebrews 9:11\u201322</span><span class="meta">Better sacrifice\u2014blood of the covenant.</span></a></li>\n' +
+      '            <li><a href="/bible/hebrews/10/32-39.html"><span class="ref">Hebrews 10:32\u201339</span><span class="meta">Need of endurance\u2014not of those who shrink back.</span></a></li>\n' +
       "        </ul>\n" +
-      '        <p class="topic-hub-alt" style="margin-top:1rem">Browse <a href="/bible/isaiah/">Isaiah</a> \u00b7 <a href="/attributes/">Attributes of God</a></p>\n' +
+      '        <p class="topic-hub-alt" style="margin-top:1rem">Browse <a href="/bible/isaiah/">Isaiah</a> \u00b7 <a href="/bible/psalms/">Psalms</a> \u00b7 <a href="/bible/hebrews/">Hebrews</a> \u00b7 <a href="/attributes/">Attributes of God</a></p>\n' +
       "      </section>\n";
 
   const body =

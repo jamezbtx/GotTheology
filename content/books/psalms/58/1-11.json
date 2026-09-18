@@ -1,0 +1,103 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 58,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "Psalm 58:1–11",
+  "context": "To the choirmaster: according to Do Not Destroy. A Miktam of David. Imprecatory challenge to unjust “gods”/rulers who devise wrongs and deal violence; wicked estranged from the womb, serpent venom, deaf to charm; prayer that God break teeth, dissolve snares, sweep away; the righteous rejoice at vengeance; mankind confesses reward for the righteous and a God who judges on earth. Treat both camps’ hearing as serious—not ironic.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on unjust judges, venomous obstinacy, imprecation that breaks the predator’s teeth, and joy at God’s vengeance that proves he judges on earth—so each camp speaks in its own voice beside this severe miktam.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "O congregation—Saul’s judges and counsellors consulting against David. Sons of men—to mind them they are men and must give account for hard speeches. Heart—with free choice and consent; Hands—great wrong under pretence of justice, weighing then turning the scale. Estranged—from God and all goodness; natures corrupt from birth; Astray—by actual sins from childhood. Poison—malicious disposition. Not hearken—deaf to counsels, conscience, and God’s law. Teeth—powerful instruments of mischief. Melt away—as snow-waters that run then are gone. Melteth—quickly dissolved. Before pots feel thorns—violently take them away, living, as Korah. Rejoice—for blessed effects: vindication of God’s honour and deliverance of good men.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 58)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David challenges the congregation—Saul’s counsellors—with conscious rectitude. In heart they plot wickedness; hands weigh out violence openly upon the earth. They are monsters of iniquity, wicked from the womb beyond common corruption. Their poison is like the serpent’s; deaf adders shutting ear against the charmer. Then he assumes imprecation: Break their teeth—God’s peculiar prerogative to repel oppression. Let them flow away like waters; arrows as broken; vanish like a snail; like an untimely birth. Before pots feel thorns, a whirlwind carries them away. The righteous rejoice at vengeance under holy zeal, not cruel hatred—sympathy with God’s justness. Man shall say: verily reward for the righteous; verily a God that judgeth in the earth.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 58)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Do you indeed decree what is right, you gods? Do you judge the children of man uprightly?",
+      "arminianNotes": "Wesley: O congregation—Saul’s judges and counsellors; Sons of men—they must give account for hard speeches. The challenge exposes sham justice.\n\nArminian pastoral: rulers who claim to decree right are still accountable men. Shared seriousness—the question is not sarcasm for sport but a real arraignment before God.",
+      "reformedNotes": "Calvin: challenge from conscious rectitude; congregation as Saul’s assembly ostensibly for the nation, really for oppression; sons of men may strip the courtesy title. Integrity may challenge kings and counsellors.\n\nReformed accent: shared—unjust “gods” are weighed. Appeal to adversaries’ own lips and to God’s tribunal when the world will not hear."
+    },
+    {
+      "number": 2,
+      "text": "No, in your hearts you devise wrongs; your hands deal out violence on earth.",
+      "arminianNotes": "Wesley: Heart—free choice and consent; Hands—wrong under pretence of justice, weighing then turning the scale; in this land under God and law.\n\nArminian hearing: devising wrongs is willed, not fate alone. Violence “dealt out” as if measured justice is hypocrisy grace still names and resists by prayer.",
+      "reformedNotes": "Calvin: wickedness first in thoughts then practiced with hands; weigh/frame violence; upon the earth—unbridled license done openly.\n\nReformed pastoral: shared—heart and hand together. Pretended equity glossing oppression is still violence God sees."
+    },
+    {
+      "number": 3,
+      "text": "The wicked are estranged from the womb; they go astray from birth, speaking lies.",
+      "arminianNotes": "Wesley: Estranged—from God and goodness; natures corrupt from birth, wicked offspring of sinful parents; Astray—actual sins from childhood when reason begins.\n\nArminian note: original corruption and early actual sin both named. Estrangement deepens by lies spoken; the will goes astray as capacity grows—serious diagnosis, not excuse for cruelty.",
+      "reformedNotes": "Calvin: not recent sinners but born to commit sin; leavened with wickedness from the womb. All inherit Adam’s stain, yet some proceed to intolerable iniquity—monsters beyond common restraint.\n\nReformed accent: shared—from-the-womb language is grave anthropology. Both camps refuse to soft-pedal congenital and early deceit.",
+      "keyContrast": "Both take estrangement from the womb with full seriousness. Arminians typically stress free consent and actual sins stacking on corrupt nature; Reformed readers typically stress radical native wickedness and a class of intolerable iniquity under Adam’s stain."
+    },
+    {
+      "number": 4,
+      "text": "They have venom like the venom of a serpent, like the deaf adder that stops its ear,",
+      "arminianNotes": "Wesley: Poison—malicious disposition. Serpent and deaf adder picture willful malice that will not hear.\n\nArminian pastoral: venom is moral, not merely “strong personality.” Stopping the ear is refusal of counsel—serious enough to drive the imprecations that follow.",
+      "reformedNotes": "Calvin: deadly malice like serpent poison; deaf adders famed for cunning against the charmer. Consummate subtlety that will not be won by wise appeal.\n\nReformed note: shared—serpent venom is not comic hyperbole. Both camps hear real spiritual danger in deaf malice."
+    },
+    {
+      "number": 5,
+      "text": "so that it does not hear the voice of charmers or of the cunning enchanter.",
+      "arminianNotes": "Wesley: Not hearken—deaf to counsels, conscience, and God’s law; adder called deaf because it will not be charmed.\n\nArminian hearing: refusal to hear is culpable. Wise charming fails where the will stops the ear; prayer then turns from persuasion of the wicked to appeal to God.",
+      "reformedNotes": "Calvin: enchantment figure underscores craft that resists every artifice; obstinacy against word and Spirit’s enlightenment. Persuasion exhausted, imprecation remains.\n\nReformed pastoral: shared—deafness to charm is judicial seriousness. Neither camp treats the adder’s ear as a joke before asking God to break teeth."
+    },
+    {
+      "number": 6,
+      "text": "O God, break the teeth in their mouths; tear out the fangs of the young lions, O LORD!",
+      "arminianNotes": "Wesley: Teeth—powerful instruments of doing mischief. Imprecation asks God to disable the predator, not private revenge.\n\nArminian pastoral: break teeth is serious petition for public check. Shared—both camps refuse to baptize this as mere venting; it is prayer that God disarm violence so harm stops.",
+      "reformedNotes": "Calvin: language of imprecation; vengeance is God’s peculiar prerogative after integrity asserted. Teeth and lion jaws—wild-beast desire to rend; crush and restrain rage.\n\nReformed accent: shared—imprecation is real prayer to the Judge. God alone breaks fangs; the saint does not take the lion’s mouth in hand.",
+      "keyContrast": "Both treat “break the teeth” as a grave plea for God’s justice. Arminians typically stress that disabling the predator may yet leave room for check and turn; Reformed readers typically stress that God himself crushes the violence according to his righteous will."
+    },
+    {
+      "number": 7,
+      "text": "Let them vanish like water that runs away; when he aims his arrows, let them be blunted.",
+      "arminianNotes": "Wesley: Melt away—snow-waters that run with force then are suddenly gone; arrows as cut in pieces. Swift nullifying of threat.\n\nArminian note: vanishing and blunting are asked so malice fails mid-aim. Serious hope—God may evaporate the flood and snap the shaft before it strikes.",
+      "reformedNotes": "Calvin: flow away like waters—swiftly; faith that solid national opposition melt before God. Arrows fall powerless as broken though the bow is bent.\n\nReformed pastoral: shared—do not cease to pray after arrows are fitted. Both camps hear judicial seriousness: the threat is real, and so is the plea that it dissolve."
+    },
+    {
+      "number": 8,
+      "text": "Let them be like the snail that dissolves into slime, like the stillborn child who never sees the sun.",
+      "arminianNotes": "Wesley: Melteth—quickly dissolved; untimely birth that may not see the sun. Evaporation of proud schemes.\n\nArminian pastoral: snail and stillborn images are severe—not to be softened into comedy. Shared seriousness—malice’s career may be cut off before it “sees the sun” of success.",
+      "reformedNotes": "Calvin: snail melting; abortion—pass away before life well begun; God can crush the mighty in a moment. Pride in easy prosperity dashed by equally sudden end.\n\nReformed note: shared—these similes are judicial, not cruel entertainment. Both camps refuse to laugh off the stillborn image; it is prayer that evil not mature."
+    },
+    {
+      "number": 9,
+      "text": "Sooner than your pots can feel the heat of thorns, whether green or ablaze, may he sweep them away!",
+      "arminianNotes": "Wesley: Before pots heated—take them violently and irresistibly; Living—alive, as Korah. Whirlwind judgment before schemes cook.\n\nArminian hearing: sweep-away is sudden divine act. Shared—thorn-fire under pots meets storm; neither camp treats Korah-like removal as light rhetoric.",
+      "reformedNotes": "Calvin: swift judgment—before thorns grow to bush or flesh feels the pot’s heat; whirlwind carries them raw. Unprepared wickedness snatched mid-plan.\n\nReformed accent: shared—timing of wrath outruns the cook-fire. Serious petition that God not let violence “come to a boil.”"
+    },
+    {
+      "number": 10,
+      "text": "The righteous will rejoice when he sees the vengeance; he will bathe his feet in the blood of the wicked.",
+      "arminianNotes": "Wesley: Rejoice—for blessed effects: vindication of God’s honour and deliverance of himself and all good men. Joy at justice’s fruit, not bloodlust.\n\nArminian pastoral: bathing feet in blood is martial image of complete victory under God. Shared seriousness—rejoicing is at vengeance as God’s, for honour and rescue; both camps reject sadistic glee while affirming real judicial joy.",
+      "reformedNotes": "Calvin: joy under holy zeal guided by the Spirit—sympathy with God’s justness, not hatred’s desire for revenge. When obstinacy brings retribution, saints rejoice that God awards punishment and cares for their safety.\n\nReformed pastoral: shared—pure joy at judgment differs from cruel satisfaction. Both camps take the verse as grave doxology over God’s vengeance, not a joke.",
+      "keyContrast": "Both take rejoicing at vengeance with full moral seriousness. Arminians typically stress joy for honour vindicated and good men delivered, still hoping the wicked might have turned; Reformed readers typically stress Spirit-guided delight in God’s executed justice when obstinacy has closed the door to repentance."
+    },
+    {
+      "number": 11,
+      "text": "Mankind will say, \"Surely there is a reward for the righteous; surely there is a God who judges on earth.\"",
+      "arminianNotes": "Wesley’s arc closes in public confession: reward for the righteous; God judging on earth. The imprecations aim at this acknowledgement.\n\nArminian hope: mankind’s saying invites the watching world to learn righteousness. Shared—final verdict is theodicy spoken aloud; prayer for judgment serves confession that God still judges here.",
+      "reformedNotes": "Calvin: man shall say—saints especially, many whose faith staggered now established. Verily reward; verily God judges in the earth—against the thought that providence is only heavenly. Judgments teach righteousness (Isa 26:9).\n\nReformed accent: shared—earthly judgment confessed. Both camps end convinced: the righteous are not abandoned; God judges on earth.",
+      "keyContrast": "Both end with mankind confessing reward and a judging God. Arminians typically stress the public invitation to learn and keep seeking righteousness; Reformed readers typically stress that manifested judgments establish faith that providence rules the earth, not chance."
+    }
+  ]
+}

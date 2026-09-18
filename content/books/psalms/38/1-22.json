@@ -1,0 +1,172 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 38,
+  "verseStart": 1,
+  "verseEnd": 22,
+  "translation": "ESV",
+  "title": "Psalm 38:1–22",
+  "context": "A Psalm of David, for the memorial offering. A penitential psalm: the singer pleads that the LORD not rebuke him in anger nor discipline him in wrath; confesses arrows and hand sunk upon him, no soundness in flesh or health in bones because of indignation and sin, iniquities gone over the head like a burden too heavy; names wounds that stink from foolishness, bowed mourning, sides filled with burning, feeble crushed groaning from the heart's tumult; sets all longing and sighing before the Lord while heart throbs, strength fails, and light of eyes is gone; laments friends and companions aloof from his plague and nearest kin far off, while life-seekers lay snares and meditate treachery; answers as deaf and mute without rebukes; waits for the LORD who will answer, lest enemies rejoice when his foot slips; ready to fall with pain ever before him, he confesses iniquity and is sorry for sin even while vigorous foes hate him wrongfully and render evil for good because he follows after good; closes pleading that the LORD not forsake him or be far, and make haste to help—O Lord, my salvation.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on memorial penitence under anger and wrath, arrows and hand of judgment, flesh without soundness because of sin, iniquities as overwhelming burden, wounds from foolishness, bowed mourning and burning sides, longing and sighing open before the Lord, failing strength and light, friends aloof and kin far off, snares and treachery met with deaf-mute patience, waiting for the God who answers, confession and sorrow amid wrongful foes, and the closing plea not to be forsaken but helped in haste by the Lord our salvation—so each camp speaks in its own voice beside Psalm 38:1–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "To bring to remembrance—Either to God, that by this humble and mournful prayer he might prevail with God to remember and pity him; or to himself, that by reviewing this psalm afterwards he might call to mind his former danger and misery, and God's wonderful mercy in delivering him. Arrows—Thy judgments outward and inward. Sin—Which hath provoked thee to deal thus severely with me. Iniquities—Or, the punishment of mine iniquities; Are gone—Like deep waters wherewith I am overwhelmed. Foolishness—Sin. Disease—The disease might be some burning fever, breaking forth outwardly in carbuncles, or boils; we should not forsake the literal sense without necessity. Deceit—They design mischief, but cover it with fair pretences. Dumb—Was silent, to testify his humiliation for his sins, and his acceptation of the punishment which he had brought upon himself. When—When I fall into any misery, they triumph in the accomplishment of their desires. To halt—just falling into destruction. Before me—I am constantly sensible of thy just hand, and of my sins the cause of it. Declare—To thee. Strong—Are thriving and flourishing.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 38"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "O Jehovah, rebuke me not in thy wrath—he does not ask that afflictions be removed, but that God moderate the severity of chastisements; content with mitigation, anger and wrath denoting extreme rigor contrasted with fatherly chastisement. Thy arrows and hand—necessity drives the plea; the pronoun thy is emphatic; he views the hand of God punishing sin. No soundness because of anger; connect sins with his wrath—God is righteous judge, not a tyrant at random. Iniquities as a heavy burden—deservedly suffered; not Cain's quarrel, but the shield of just judgment. Wounds putrid from foolishness—not extenuation by inadvertence, but confession he was out of his right mind, sin as madness against the Maker. Bowed down—humility against stubborn pride; no consolation but submitting under God's mighty hand. Longing and groaning before God—disburdened into his bosom, not howled into the air. Friends stand away from the sore; enemies lay snares while friends sit still—lay both before God. Deaf and dumb—shut from defense, yet patient, trusting God as defender; give place unto wrath. On thee I wait; thou wilt answer—hope sources patience. Ready to halt—metaphorical near-ruin without remedy from God. I declare my iniquity—bewailing miserable wrath-tokens joined to sin, humbling at his judgment seat. Forsake me not; make haste—he calls God his salvation, wall of defense though waiting wearies the flesh.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 38"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O LORD, rebuke me not in your anger, nor discipline me in your wrath!",
+      "arminianNotes": "O LORD, rebuke me not in your anger, nor discipline me in your wrath! The penitential cry opens under memorial: he does not deny he deserves rebuke, but pleads against anger's unchecked heat.\n\nArminian pastoral: shared—ask for fatherly discipline without the storm that would crush you. Bring guilt honestly; refuse both denial of sin and a prayer that only wants sin left alone.",
+      "reformedNotes": "Calvin: David does not expressly ask that afflictions be removed, but only that God would moderate the severity of his chastisements. He is content with mitigation—chastised, yet not beyond what he is able to bear; anger and wrath mark extreme rigor over against fatherly chastisement.\n\nReformed pastoral: shared—spread the complaint before God in humble confession, not fretful murmur. Seek tempered severity under his hand; do not secretly bargain for impunity.",
+      "keyContrast": "Both plead that rebuke not fall in unchecked anger. Arminians typically hear the pastoral ask for discipline without crushing wrath. Reformed readers typically hear Calvin: not removal of every rod, but moderated severity—content with mitigation, anger and wrath named as extreme rigor contrasted with fatherly chastisement."
+    },
+    {
+      "number": 2,
+      "text": "For your arrows have sunk into me, and your hand has come down on me.",
+      "arminianNotes": "For your arrows have sunk into me, and your hand has come down on me. Wesley: Arrows—Thy judgments outward and inward. The wound is traced to the Lord's own arrows and hand, not to blind chance.\n\nArminian pastoral: shared—name the pressure as his judgments, outer and inner. Bring the sunk arrows to him who shot them; do not explain the pain as mere accident.",
+      "reformedNotes": "Calvin: he was constrained by dire necessity to ask alleviation; the malady is the arrows and the hand of God. The pronoun thy is emphatic—he has to do with God, who can discharge arrows with overwhelming force. Scarcely one in a hundred discerns the hand of God in judgments.\n\nReformed pastoral: shared—estimate affliction by more than raw pain. Look to the hand of him who smites; seek deliverance from the same Lord whose arrows have sunk in."
+    },
+    {
+      "number": 3,
+      "text": "There is no soundness in my flesh because of your indignation; there is no health in my bones because of my sin.",
+      "arminianNotes": "There is no soundness in my flesh because of your indignation; there is no health in my bones because of my sin. Wesley: Sin—Which hath provoked thee to deal thus severely with me. Flesh and bones fail under indignation that his own sin provoked.\n\nArminian pastoral: shared—join the body's ruin to the sin that stirred severity. Do not separate indignation from guilt; confess the provocation while you feel the lack of soundness.",
+      "reformedNotes": "Calvin: as soon as he recognized affliction as from God, he turns to his own sin as the cause of divine displeasure. God is not a tyrant who exercises cruelty at random, but a righteous judge who manifests displeasure when grievously offended. Connect sins with his wrath.\n\nReformed pastoral: shared—give God the praise of righteousness in the rod. Refuse the charge of divine cruelty; let sin explain the severity so confession can open toward mercy."
+    },
+    {
+      "number": 4,
+      "text": "For my iniquities have gone over my head; like a heavy burden, they are too heavy for me.",
+      "arminianNotes": "For my iniquities have gone over my head; like a heavy burden, they are too heavy for me. Wesley: Iniquities—Or, the punishment of mine iniquities, as this word is frequently used. Are gone—Like deep waters wherewith I am overwhelmed. Guilt and its weight crest over him like flood and load.\n\nArminian pastoral: shared—own the overload without minimizing. Iniquities gone over the head are too heavy for self-management; cry for mercy under the deep waters.",
+      "reformedNotes": "Calvin: overwhelmed by sins as by a heavy burden, he faints under their weight, yet confesses he deservedly suffered. He does not quarrel like Cain (“My punishment is greater than I can bear”); he defends himself with the shield that he is afflicted by the just judgment of God.\n\nReformed pastoral: shared—attribute the weight of wrath to your own sins as cause. Refuse the murmur that God is too severe; find rest only in imploring compassion and forgiveness.",
+      "keyContrast": "Both feel iniquities as an overwhelming load under just displeasure. Arminians typically hear Wesley: the word may mean the punishment of iniquities, and “are gone” like deep waters that overwhelm. Reformed readers typically hear Calvin: the burden is owned as deserved judgment—shield against Cain-like complaint—so the only rest is divine compassion, not a charge of cruelty."
+    },
+    {
+      "number": 5,
+      "text": "My wounds stink and fester because of my foolishness,",
+      "arminianNotes": "My wounds stink and fester because of my foolishness, Wesley: Foolishness—Sin. Putrid wounds are not random medical detail; they track to foolishness named as sin.\n\nArminian pastoral: shared—call foolishness what it is. Do not dress guilt as a mere mistake of manners; let festering wounds drive honest naming of sin.",
+      "reformedNotes": "Calvin: long continuance of misery pleads for alleviation; by foolishness he does not extenuate as hypocrites who plead inadvertence, but acknowledges he was out of his right mind when he obeyed fleshly lusts against God. Sin is conjoined with folly or madness—maniacal fury flying in the Maker's face.\n\nReformed pastoral: shared—own the madness of lust-driven disobedience. Refuse the soft plea of mere imprudence; ask mercy after long putrefying under deserved chastisement.",
+      "keyContrast": "Both tie festering wounds to foolishness that is real guilt. Arminians typically hear Wesley's plain gloss: Foolishness—Sin. Reformed readers typically hear Calvin: not a mild excuse of inadvertence, but confession of being out of one's right mind—sin as madness and maniacal fury against God."
+    },
+    {
+      "number": 6,
+      "text": "I am utterly bowed down and prostrate; all the day I go about mourning.",
+      "arminianNotes": "I am utterly bowed down and prostrate; all the day I go about mourning. Day-long mourning matches a body and spirit already bent low under the rod.\n\nArminian pastoral: shared—let bowed posture be prayer, not performance. Carry the mourning to the Lord who sees the prostration; do not harden into proud uprightness under his hand.",
+      "reformedNotes": "Calvin: bent and bowed beyond measure, this holy man was oppressed with extreme grief; he tacitly contrasts humility with the pride of many who refuse to be humbled by chastisements. Blackness of grief marks the face; there is no consolation but by laying aside stubbornness and submitting under God's mighty hand.\n\nReformed pastoral: shared—bow rather than brace against the rod. Ask compassion as one already abased; refuse the insensibility that feels pain yet will not humble itself."
+    },
+    {
+      "number": 7,
+      "text": "For my sides are filled with burning, and there is no soundness in my flesh.",
+      "arminianNotes": "For my sides are filled with burning, and there is no soundness in my flesh. Wesley: Disease—The disease might be some burning fever, breaking forth outwardly in carbuncles, or boils. It is true, this and the other expressions may be taken figuratively, but we should not forsake the literal sense of the words without necessity.\n\nArminian pastoral: shared—take the burning seriously as real bodily misery under guilt. Pray for relief of flesh that has no soundness; do not rush past literal pain into mere metaphor.",
+      "reformedNotes": "Calvin: reins or sides filled with burning or inflammation; covered with putrid sores. He confirms extreme grief—weakened and sore broken—not as cowardice, but as evidence that sufferings were severe in the extreme.\n\nReformed pastoral: shared—own inflammatory misery without theatrical excess. Bring the burning sides to God; let severity of pain deepen dependence, not rebellion.",
+      "keyContrast": "Both read burning sides as severe bodily distress under the rod. Arminians typically hear Wesley's caution: prefer the literal sense (fever, boils) unless necessity forces figure. Reformed readers typically hear Calvin's physiological grief: inflamed reins and putrid sores proving extreme oppression that still did not break faith."
+    },
+    {
+      "number": 8,
+      "text": "I am feeble and crushed; I groan because of the tumult of my heart.",
+      "arminianNotes": "I am feeble and crushed; I groan because of the tumult of my heart. Feebleness and crushing meet an inward roar the heart cannot quiet.\n\nArminian pastoral: shared—groan honestly under tumult. Do not polish the prayer into calm you do not feel; bring the crushed heart's noise to the Lord.",
+      "reformedNotes": "Calvin: uncontrollable emotions of the heart forced him to cry out; a courageous man does not ordinarily roar, so the severity must have been extreme. The roaring of the heart names inward disquiet that breaks into voice.\n\nReformed pastoral: shared—admit the roar without shame before God. Severe grief may force cry and complaint; aim them as humble prayer, not as charge against his justice."
+    },
+    {
+      "number": 9,
+      "text": "O Lord, all my longing is before you; my sighing is not hidden from you.",
+      "arminianNotes": "O Lord, all my longing is before you; my sighing is not hidden from you. Nothing of desire or sigh is offstage; the memorial prayer assumes he already sees.\n\nArminian pastoral: shared—spread longing openly rather than hide sighing. Confidence that he sees is fuel for persevering prayer under sickness and guilt.",
+      "reformedNotes": "Calvin: either confident assurance that groanings are heard, or a declaration that he has poured all cares into God's bosom—substantially the same encouragement. Unbelief keeps minds captive; persuasion that groanings do not vanish produces alacrity in prayer. He had not howled into the air as the unbelieving do.\n\nReformed pastoral: shared—disburden sorrows into his bosom. Refuse both secret fretting and public howling that never reaches God; pray as one sure he is witness and hearer."
+    },
+    {
+      "number": 10,
+      "text": "My heart throbs; my strength fails me, and the light of my eyes—it also has gone from me.",
+      "arminianNotes": "My heart throbs; my strength fails me, and the light of my eyes—it also has gone from me. Heart, strength, and eyesight fail together; the penitential body is nearly spent.\n\nArminian pastoral: shared—name total weakness without despair of mercy. When light of the eyes is gone, still address the Lord who has all longing before him.",
+      "reformedNotes": "Calvin: the heart turns round—agitated, not knowing what to do—yet faith holds thoughts within God's word. Strength fails as of a dead man; the light of the eyes is taken—life's energy gone. Infirmity remains even in the obedient; storms threaten a thousand deaths.\n\nReformed pastoral: shared—expect disquiet without abandoning the word. Restrain wandering counsel by his promises; pray from failed strength, not from pretended self-sufficiency."
+    },
+    {
+      "number": 11,
+      "text": "My friends and companions stand aloof from my plague, and my nearest kin stand far off.",
+      "arminianNotes": "My friends and companions stand aloof from my plague, and my nearest kin stand far off. Social abandonment compounds the plague; even nearest kin keep distance.\n\nArminian pastoral: shared—bring isolation to God when friends stand aloof. Their distance does not cancel his nearness; ask help when human offices of kindness fail.",
+      "reformedNotes": "Calvin: friends cease the offices of humanity—from pride that despises, or cowardice that fears odium. It is a sore trial when a man with many friends is abandoned by them all. Lay forsakenness before God, whose province is to succor the betrayed.\n\nReformed pastoral: shared—pray the empty circle. Do not treat aloof friends as final verdict; ask the Lord to take up what pride and fear have dropped."
+    },
+    {
+      "number": 12,
+      "text": "Those who seek my life lay their snares; those who seek my hurt speak of ruin and meditate treachery all day long.",
+      "arminianNotes": "Those who seek my life lay their snares; those who seek my hurt speak of ruin and meditate treachery all day long. Wesley: Deceit—They design mischief, but cover it with fair pretences. While friends withdraw, enemies work covered snares all day.\n\nArminian pastoral: shared—name treachery without matching it. Fair pretences hide ruin-talk; wait on God rather than answer snare with snare.",
+      "reformedNotes": "Calvin: enemies vigorously seek his destruction by guileful conspiracy—snares, talk of ruin, secret deceit—while friends sit still. Lay these before God from his Word: he succors the miserable, restrains the wicked, and frustrates deceitful counsels.\n\nReformed pastoral: shared—report the conspiracy in prayer, not in fleshly panic. Friends' cowardice and enemies' plots both drive you to the defender who alone can anticipate their designs."
+    },
+    {
+      "number": 13,
+      "text": "But I am like a deaf man; I do not hear, like a mute man who does not open his mouth.",
+      "arminianNotes": "But I am like a deaf man; I do not hear, like a mute man who does not open his mouth. Wesley: Dumb—Was silent, to testify his humiliation for his sins, and his acceptation of the punishment which he had brought upon himself.\n\nArminian pastoral: shared—practice penitential silence under accepted discipline. Mute endurance can mark humility; refuse the retort that would deny your guilt before God.",
+      "reformedNotes": "Calvin: like dumb and deaf—overwhelmed by false judgments and shut from self-defense, yet also patient, trusting God as defender. Those who depend only on the world rage when they cannot avenge; the one persuaded God is defender cherishes hope in silence (cf. Romans 12:19).\n\nReformed pastoral: shared—give place to wrath by leaving vengeance with God. Hold peace when defense is denied; do not seize God's right to repay.",
+      "keyContrast": "Both praise silence under attack, yet stress different motives. Arminians typically hear Wesley: mute to testify humiliation for sins and acceptation of self-brought punishment. Reformed readers typically hear Calvin: patience that trusts God as defender when shut out from reply—hope in silence that leaves vengeance with him (Romans 12:19)."
+    },
+    {
+      "number": 14,
+      "text": "I have become like a man who does not hear, and in whose mouth are no rebukes.",
+      "arminianNotes": "I have become like a man who does not hear, and in whose mouth are no rebukes. The deaf-mute posture repeats: no answering rebuke leaves the mouth.\n\nArminian pastoral: shared—keep the mouth from retaliating rebuke. Silence can serve repentance; save speech for confession and plea to God.",
+      "reformedNotes": "Calvin: he held peace as if already convicted and struck dumb. It is difficult, when conscious of innocence toward men, to bear unjust condemnation as if argument had failed—yet he waits the heavenly Judge.\n\nReformed pastoral: shared—endure misjudgment without snatching the last word. Wait the Judge; let absent rebukes mark trust, not defeated truth."
+    },
+    {
+      "number": 15,
+      "text": "But for you, O LORD, do I wait; it is you, O Lord my God, who will answer.",
+      "arminianNotes": "But for you, O LORD, do I wait; it is you, O Lord my God, who will answer. Waiting replaces self-defense; answer is expected from the Lord my God alone.\n\nArminian pastoral: shared—fix waiting on the one who will answer. Do not abandon hope when mute before enemies; stake the reply on God.",
+      "reformedNotes": "Calvin: the source of patience is trusting God's grace so as to overcome worldly temptations. Hope alone frames the mind to meekness; he cherished hope by constant meditation on promises. Thou wilt answer—double defense against fainting (cf. Romans 5:4 joining patience to hope).\n\nReformed pastoral: shared—feed patience with promise-meditation. When delay tempts despair, set his fidelity before you and wait for the answer he will give."
+    },
+    {
+      "number": 16,
+      "text": "For I said, “Only let them not rejoice over me, who boast against me when my foot slips!”",
+      "arminianNotes": "For I said, “Only let them not rejoice over me, who boast against me when my foot slips!” Wesley: When—When I fall into any misery, they triumph in the accomplishment of their desires. The fear is their boast over a slipped foot.\n\nArminian pastoral: shared—pray against enemies' triumph without denying your slip. Ask that misery not become their gloating victory; keep the plea Godward.",
+      "reformedNotes": "Calvin: if forsaken, enemies would triumph—mockery that assails faith and treats God's promises as vain. He had already tasted their proud boastings; insolence should increase hope that God will help.\n\nReformed pastoral: shared—treat their rejoicing as an assault on God's word, not only on your flesh. Plead that he not abandon you to their boast when the foot slips."
+    },
+    {
+      "number": 17,
+      "text": "For I am ready to fall, and my pain is ever before me.",
+      "arminianNotes": "For I am ready to fall, and my pain is ever before me. Wesley: To halt—just falling into destruction. Before me—I am constantly sensible of thy just hand, and of my sins the cause of it.\n\nArminian pastoral: shared—keep pain and justice in view together. Ready-to-fall urgency should deepen sense of the just hand and of sin as cause, not erase it.",
+      "reformedNotes": "Calvin: ready to halt is metaphorical—without speedy aid, no hope of restoration; he would walk as maimed all his days. Sorrow continually before him means no moment's relaxation; the disease is incurable unless God remedies.\n\nReformed pastoral: shared—confess near-collapse without inventing a merely medical halt. Direct every request to God alone; aside from him you see only ruin.",
+      "keyContrast": "Both stress imminent falling under constant pain. Arminians typically hear Wesley: halt as just falling into destruction, with continual sense of God's just hand and sin as cause. Reformed readers typically hear Calvin: metaphorical readiness to halt—not literal lifelong lameness—incurable misery unless God himself sustains and heals."
+    },
+    {
+      "number": 18,
+      "text": "I confess my iniquity; I am sorry for my sin.",
+      "arminianNotes": "I confess my iniquity; I am sorry for my sin. Wesley: Declare—To thee. Open confession and real sorrow address the Lord directly in the penitential center of the psalm.\n\nArminian pastoral: shared—declare iniquity to God with sorrow that is more than regret for consequences. Let confession and grief meet at his feet while enemies still flourish.",
+      "reformedNotes": "Calvin: not so much a bare repeat of Psalm 32's confession before God for forgiveness, as bewailing his miserable condition—sin and iniquity naming afflictions that are tokens of wrath, so the world might regard him as condemned. Yet he does not deny the miseries proceed from sins; the godly, unlike the wicked, humble themselves at God's judgment seat.\n\nReformed pastoral: shared—confess under the rod as one reading cause from effect. Own both the wretched tokens of displeasure and the sins that procured them; appear at his bar, not in self-justifying complaint.",
+      "keyContrast": "Both require real dealing with iniquity under the rod. Arminians typically hear Wesley: Declare—To thee—plain confession and sorrow addressed to God. Reformed readers typically hear Calvin's careful accent: the verse bewails miserable wrath-tokens as much as it narrates Ps 32-style confession, yet still joins adversity to sin so the godly humble themselves at his judgment seat."
+    },
+    {
+      "number": 19,
+      "text": "But my foes are vigorous, they are mighty, and many are those who hate me wrongfully.",
+      "arminianNotes": "But my foes are vigorous, they are mighty, and many are those who hate me wrongfully. Wesley: Strong—Are thriving and flourishing. Wrongful hatred thrives while the penitent lies low.\n\nArminian pastoral: shared—name the imbalance without envy turning to sin. Vigorous foes and wrongful hate drive you to God, not to matching their strength.",
+      "reformedNotes": "Calvin: while he lies filthy and wretched, enemies live in abundant prosperity and increase in power; they assail him wrongfully and without cause. Take care to injure no one, that God may favor your defense.\n\nReformed pastoral: shared—contrast their thriving with your low estate before God. Plead innocence toward them without claiming sinlessness before him; ask him to judge wrongful hate."
+    },
+    {
+      "number": 20,
+      "text": "Those who render me evil for good accuse me because I follow after good.",
+      "arminianNotes": "Those who render me evil for good accuse me because I follow after good. Evil repaid for good, and accusation aimed at the pursuit of good itself.\n\nArminian pastoral: shared—keep following good when accused for it. Do not answer evil-for-good with revenge; bring the injustice to the Lord.",
+      "reformedNotes": "Calvin: more than abstaining from harm—he had done them all the good in his power; yet they hate him because he studies uprightness. Prefer the world's hatred to swerving from duty; God maintains his own cause in theirs.\n\nReformed pastoral: shared—count opposition for good as expected, not as proof you should quit. Hold the testimony of a good conscience and ask God to defend the upright path."
+    },
+    {
+      "number": 21,
+      "text": "Do not forsake me, O LORD! O my God, be not far from me!",
+      "arminianNotes": "Do not forsake me, O LORD! O my God, be not far from me! Forsaken by friends and pressed by foes, he asks the Lord not to match their distance.\n\nArminian pastoral: shared—pray against divine forsaking with urgency. When kin stand far off, plead that God not be far; keep calling him my God.",
+      "reformedNotes": "Calvin: the sum of the prayer—forsaken of men and grievously afflicted, that God would receive and raise him. Three forms: not forsake, not be far, make haste. Saints unburden in language of fleshly feeling yet still pray in faith.\n\nReformed pastoral: shared—ask nearness without pretending you never feel delay. Confess the fear of distance; cling to him as the God who does not finally abandon his own."
+    },
+    {
+      "number": 22,
+      "text": "Make haste to help me, O Lord, my salvation!",
+      "arminianNotes": "Make haste to help me, O Lord, my salvation! Speed and salvation close the memorial psalm: help from the Lord who is himself salvation.\n\nArminian pastoral: shared—pray haste without abandoning trust. Call him my salvation while you still wait; urgency and confidence belong together.",
+      "reformedNotes": "Calvin: make haste to come to my aid; waiting was wearisome according to the flesh, yet he does not pray in uncertainty—he calls God his salvation, a wall of defense against devices that assail faith. Whatever happens, he is assured of salvation in God.\n\nReformed pastoral: shared—urge haste while naming him salvation. Let weariness speak, but set assurance of salvation in God as the wall that holds when help seems slow."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 65,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Psalm 65:1–13",
+  "context": "To the choirmaster. A Psalm of David. A Song. Praise is due in Zion and vows are paid; the Hearer of prayer draws all flesh; God atones when iniquities prevail; the chosen are brought near to be satisfied in His house; awesome deeds answer as hope for the ends of the earth; Creator might stills seas and peoples; and His visiting waters crown the year until wilderness, hills, meadows, and valleys shout for joy.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on praise in Zion, atonement for prevailing iniquity, being chosen and brought near, and the God who waters the earth—so each camp speaks in its own voice beside Psalm 65:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Waiteth—is silent, or is prepared, as a gift ready to be offered. All flesh—all men. Prevail—are too strong for me. Purge—expiate or take away. Choosest—to approach unto thee by prayer and sacrifices. Terrible—with dreadful judgments against thine and our enemies. Setteth—established them. Noises—tumults and wars of the nations. Outgoings—the successive courses. Visitest—with thy gracious presence. River—the clouds which drop fatness. Settlest—makest soft and fit for fruitfulness. Crownest—adornest with plenty. Wilderness—even the most barren places. Sing—the valleys covered with corn appear to shout and sing.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 65"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Praise waits for God in Zion; vows are paid there. He who hears prayer is He to whom all flesh shall come. When iniquities prevail, He purges transgressions. Blessed is he whom God chooses and causes to approach His courts—satisfied with the goodness of His house. He answers by terrible things in righteousness and is the confidence of all the ends of the earth. By strength He sets the mountains; He stills seas and the tumult of peoples. He visits and waters the earth; the river of God is full; He prepares grain, softens with showers, crowns the year with goodness until wilderness and valleys shout for joy.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 65"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Praise is due to you, O God, in Zion, and to you shall vows be performed.",
+      "arminianNotes": "Praise is due to you, O God, in Zion, and to you shall vows be performed. Wesley: Waiteth—is silent, or is prepared, as a gift ready to be offered. Zion is the address of owed praise and kept vows.\n\nArminian pastoral: shared—bring due praise and perform vows. Silence of waiting can be readiness to offer; do not delay what you promised God.",
+      "reformedNotes": "Calvin: praise waits for God in Zion—the Church is the place where vows are paid. God is owed silent readiness and spoken gratitude.\n\nReformed pastoral: shared—Zion's worship is not optional ornament. Perform vows where God has set His name."
+    },
+    {
+      "number": 2,
+      "text": "O you who hear prayer, to you shall all flesh come.",
+      "arminianNotes": "O you who hear prayer, to you shall all flesh come. Wesley: All flesh—all men. The Hearer of prayer draws the world.\n\nArminian pastoral: shared missionary horizon—all flesh invited to come. Grace that hears prayer is offered widely; come, and keep coming.",
+      "reformedNotes": "Calvin: God as hearer of prayer is the magnet of all flesh—Gentiles included in the hope. Access is by His character as the One who hears.\n\nReformed pastoral: shared—universal invitation rests on God's hearing. All flesh may come; none come except He draws by the means He appoints."
+    },
+    {
+      "number": 3,
+      "text": "When iniquities prevail against me, you atone for our transgressions.",
+      "arminianNotes": "When iniquities prevail against me, you atone for our transgressions. Wesley: Prevail—are too strong for me. Purge—expiate or take away. Overwhelming guilt meets atoning God.\n\nArminian pastoral: shared gospel in the psalm—atonement for prevailing iniquities. Confess overwhelm; trust the God who purges. Do not pretend strength against your own sins.",
+      "reformedNotes": "Calvin: when iniquities prevail, God purges transgressions—forgiveness is His work, not our self-cleansing. The plural \"our\" joins the people in need.\n\nReformed pastoral: shared—atonement is God's provision. Prevailing sin drives to mercy, not to despair or to works-atonement."
+    },
+    {
+      "number": 4,
+      "text": "Blessed is the one you choose and bring near, to dwell in your courts! We shall be satisfied with the goodness of your house, the holiness of your temple!",
+      "arminianNotes": "Blessed is the one you choose and bring near, to dwell in your courts! We shall be satisfied with the goodness of your house... Wesley: Choosest—to approach unto thee by prayer and sacrifices. Nearness is gift and blessedness.\n\nArminian pastoral: election here is unto nearness in worship—blessed are those drawn to God's courts. Shared: satisfaction is in His house's goodness, not in self.",
+      "reformedNotes": "Calvin: Blessed is he whom thou choosest and causest to approach—approach is God's choosing and bringing. Satisfaction with the temple's goodness is the fruit of that choice.\n\nReformed pastoral: shared blessedness of nearness. The courts welcome those God brings; goodness of His house fills what the world cannot.",
+      "keyContrast": "Both bless those God brings near to dwell in His courts and find satisfaction in His house. Arminians typically hear choosing-and-bringing as gracious drawing unto worship that still calls all flesh (v. 2) to come; Reformed readers typically hear effectual choice that causes approach, so nearness is God's sovereign bringing before it is our arriving."
+    },
+    {
+      "number": 5,
+      "text": "By awesome deeds you answer us with righteousness, O God of our salvation, the hope of all the ends of the earth and of the farthest seas;",
+      "arminianNotes": "By awesome deeds you answer us with righteousness, O God of our salvation, the hope of all the ends of the earth... Wesley: Terrible—with dreadful judgments against thine and our enemies. Hope reaches farthest seas.\n\nArminian pastoral: shared—salvation's God is hope for the ends of the earth. Awesome answers in righteousness encourage global trust, not ethnic monopoly of hope.",
+      "reformedNotes": "Calvin: God answers by terrible things in righteousness—deliverances that display justice. He is the confidence of all the ends of the earth.\n\nReformed pastoral: shared catholic hope. The God of Israel's salvation is already named as hope of the farthest seas."
+    },
+    {
+      "number": 6,
+      "text": "the one who by his strength established the mountains, being girded with might;",
+      "arminianNotes": "The one who by his strength established the mountains, being girded with might. Wesley: Setteth—established them. Creator strength undergirds Redeemer hope.\n\nArminian pastoral: shared—mountain-maker is prayer-hearer. Trust the girded might that set the hills when waves of trouble rise.",
+      "reformedNotes": "Calvin: by strength He sets fast the mountains—creation power assures the Church that the same God can still tumults.\n\nReformed pastoral: shared—cosmic might for covenant care. Girded with power, He is not too weak for your seas."
+    },
+    {
+      "number": 7,
+      "text": "who stills the roaring of the seas, the roaring of their waves, the tumult of the peoples,",
+      "arminianNotes": "Who stills the roaring of the seas... the tumult of the peoples. Wesley: Noises—tumults and wars of the nations. Nature and nations hush under Him.\n\nArminian pastoral: shared comfort—seas and peoples both roar; both can be stilled. Pray to the Still-er rather than echo the tumult.",
+      "reformedNotes": "Calvin: He stilleth the noise of the seas and the tumult of the people—one sovereignty over creation and history.\n\nReformed pastoral: shared—political storms are not outside God's rule. The stiller of waves stills peoples."
+    },
+    {
+      "number": 8,
+      "text": "so that those who dwell at the ends of the earth are in awe at your signs. You make the going out of the morning and the evening to shout for joy.",
+      "arminianNotes": "So that those who dwell at the ends of the earth are in awe at your signs. You make the going out of the morning and the evening to shout for joy. Wesley: Outgoings—the successive courses. Dawn and dusk are summoned to joy.\n\nArminian pastoral: shared doxology—daily rhythms praise. Live awake to signs that awe the ends of the earth; let morning and evening shout through you.",
+      "reformedNotes": "Calvin: dwellers at the ends fear His signs; He makes morning and evening rejoice—ordinary times become liturgy under providence.\n\nReformed pastoral: shared—creation's clock is catechesis. Awe at the edges; joy at sunrise and sunset."
+    },
+    {
+      "number": 9,
+      "text": "You visit the earth and water it; you greatly enrich it; the river of God is full of water; you provide their grain, for so you have prepared it.",
+      "arminianNotes": "You visit the earth and water it; you greatly enrich it; the river of God is full of water; you provide their grain, for so you have prepared it. Wesley: Visitest—with thy gracious presence. River—the clouds which drop fatness. Grain is prepared gift.\n\nArminian pastoral: shared gratitude—harvest theology. God visits, waters, enriches, provides; receive bread as prepared kindness, not bare chance.",
+      "reformedNotes": "Calvin: God visits the earth and waters it; the river of God is full—His channels never fail. Grain is prepared by His counsel.\n\nReformed pastoral: shared—providence in agriculture. The prepared grain silences proud self-sufficiency."
+    },
+    {
+      "number": 10,
+      "text": "You water its furrows abundantly, settling its ridges, softening it with showers, and blessing its growth.",
+      "arminianNotes": "You water its furrows abundantly, settling its ridges, softening it with showers, and blessing its growth. Wesley: Settlest—makest soft and fit for fruitfulness. Softening showers are blessing.\n\nArminian pastoral: shared—ask for softening as for rain. Hard ground in fields and hearts needs shower-blessing; growth is God-touched.",
+      "reformedNotes": "Calvin: He watereth the furrows and blesseth the springing—detailed care of the soil images fatherly providence.\n\nReformed pastoral: shared—minute mercies. Softening showers preach a God who tends what He planted."
+    },
+    {
+      "number": 11,
+      "text": "You crown the year with your bounty; your wagon tracks overflow with abundance.",
+      "arminianNotes": "You crown the year with your bounty; your wagon tracks overflow with abundance. Wesley: Crownest—adornest with plenty. Paths—clouds drop fatness wherever they go.\n\nArminian pastoral: shared year-end praise—crown the year by naming His bounty. Overflowing tracks invite overflowing thanks.",
+      "reformedNotes": "Calvin: He crowneth the year with goodness; His paths drop fatness—the whole circuit of the year under blessing.\n\nReformed pastoral: shared—time itself is crowned by God. Abundance is traced to His wagon tracks, not to luck."
+    },
+    {
+      "number": 12,
+      "text": "The pastures of the wilderness overflow, the hills gird themselves with joy,",
+      "arminianNotes": "The pastures of the wilderness overflow, the hills gird themselves with joy. Wesley: Wilderness—even the most barren places. Joy clothes the hills.\n\nArminian pastoral: shared—barren places can overflow under God. Hope for wilderness pastures; let joy gird what looked dead.",
+      "reformedNotes": "Calvin: the wilderness pastures overflow; hills rejoice—creation shares the feast of providence.\n\nReformed pastoral: shared—no pocket of earth outside His watering. Joy on the hills answers His visit."
+    },
+    {
+      "number": 13,
+      "text": "the meadows clothe themselves with flocks, the valleys deck themselves with grain, they shout and sing together for joy.",
+      "arminianNotes": "The meadows clothe themselves with flocks, the valleys deck themselves with grain, they shout and sing together for joy. Wesley: Sing—the valleys covered with corn appear to shout and sing. Creation's choir closes the psalm.\n\nArminian pastoral: shared finale—join the shout. Flocks and grain are vestments of praise; add your voice to the valleys' song.",
+      "reformedNotes": "Calvin: pastures clothed with flocks, valleys covered with corn, shout for joy—nature's hymn to the Provider.\n\nReformed pastoral: shared—let abundance become doxology. The song of fields trains the Church's song."
+    }
+  ]
+}

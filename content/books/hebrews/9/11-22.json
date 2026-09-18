@@ -1,0 +1,106 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 9,
+  "verseStart": 11,
+  "verseEnd": 22,
+  "translation": "ESV",
+  "title": "Hebrews 9:11–22",
+  "context": "Christ appears as high priest of the good things that have come: through a greater tent not of this creation He enters once for all by His own blood, securing eternal redemption. His blood purifies the conscience; He is mediator of a new covenant; and under the law almost everything is purified with blood—without the shedding of blood there is no forgiveness.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Christ the high priest of good things, His own blood better than goats and calves, the mediator of the new covenant, and forgiveness only through shed blood—so each camp speaks in its own voice beside Hebrews 9:11–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "An high priest of good things to come—entered through a greater and more perfect tabernacle, namely his own body, not of this creation. The holy place—heaven. For us—all that believe. How much more shall the blood of Christ—the merit of all his sufferings—who through the eternal Spirit offered himself without spot to God, purge our conscience from dead works to serve the living God. For this end he is the Mediator of a new covenant, that they who are called might receive the eternal inheritance by his meritorious death. According to the law, there is no forgiveness of sins without shedding of blood—all this pointed to the blood of Christ effectually cleansing from all sin, and intimated there can be no purification from it by any other means.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 9:11–22)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Christ being come an high priest of good things to come, by a greater and more perfect tabernacle not made with hands, neither by the blood of goats and calves but by his own blood entered once into the holy place, having obtained eternal redemption. How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge the conscience from dead works to serve the living God? For this cause he is the mediator of the new testament, that by means of death they which are called might receive the promise of eternal inheritance. Almost all things are by the law purged with blood; and without shedding of blood is no remission. There is but one way of pacification, and that is by an expiation made by blood: hence no pardon of sins can be hoped for unless we bring blood, and this is done when we flee by faith to the death of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 9:11–22)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 11,
+      "text": "But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation)",
+      "arminianNotes": "But when Christ appeared as a high priest of the good things that have come, through the greater and more perfect tent—not made with hands, not of this creation. Wesley: an high priest of good things to come, described in v. 15; entered through a greater—more noble and perfect—tabernacle, namely his own body; not framed by man as that tabernacle was.\n\nBoth camps: the \"but\" is cultus fulfillment. Christ is the high priest; the tent is greater. Classical Arminians preach good things sincerely come in Him for those who believe—without turning this verse into a particular-vs-general atonement quarrel about sanctuary typology.",
+      "reformedNotes": "Calvin: Christ being come sets before us the reality of the things under the Law. He alone possesses the dignity and office of high priest, but brings eternal blessings that secure a perpetuity to his priesthood. By a greater and more perfect tabernacle Calvin understands the body of Christ—the temple in which the whole majesty of God dwells—not made with hands as the material tent was.\n\nReformed accent: appearance of Christ ends the age of shadow. The greater tent is not another earthly building but the consecrated body through which He enters glory for us."
+    },
+    {
+      "number": 12,
+      "text": "he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.",
+      "arminianNotes": "He entered once for all into the holy places, not by goats' and calves' blood but by His own blood, thus securing an eternal redemption. Wesley: the holy place—heaven. For us—all that believe.\n\nShared confession: once for all; His own blood; eternal redemption. Classical Arminians hear \"for us—all that believe\" as Wesley frames it—redemption secured by blood sincerely provided and received by faith. The contrast with animal blood is the main fork the text itself draws.",
+      "reformedNotes": "Calvin: neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption. As soon as Christ came forth with the efficacious influence of his death, all the typical observances must necessarily have ceased. What is the value of Christ's blood if it be deemed no better than the blood of beasts?\n\nReformed confession: once and eternal shut the door on repetition. Redemption obtained is not a mere offer of a possibility but the high priest's accomplished entry. Both camps refuse any return to goats and calves.",
+      "keyContrast": "Both glory in a once-for-all entry by Christ's own blood securing eternal redemption over animal blood. Arminians typically stress Wesley's \"for us—all that believe\": a redemption sincerely meant for believers as such. Reformed readers typically stress that the once-for-all blood actually obtained eternal redemption for those the high priest represents, while still preaching His blood as the only hope held out in the gospel."
+    },
+    {
+      "number": 13,
+      "text": "For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh,",
+      "arminianNotes": "For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh. Wesley: if the ashes of a heifer consumed as a sin-offering, sprinkled on the legally unclean, purified the flesh—removed legal uncleanness and readmitted them to temple and congregation.\n\nBoth camps: a real but limited sanctifying of the flesh under the law. The argument is a fortiori toward Christ's blood. No need to invent an atonement-extent culture war where the text compares flesh-purification to conscience-purification.",
+      "reformedNotes": "Calvin: if the blood of bulls and goats and the ashes of a heifer sprinkling the unclean sanctify to the purifying of the flesh—this is sacramental speech, not a heathenish reduction to civil reputation. If the blood of beasts was a true symbol of purgation that cleansed in a sacramental manner, how much more shall Christ who is himself the truth really perform this for consciences?\n\nReformed accent: from sign to thing signified. The flesh-purifications were real witnesses; they were never the final cleansing of the soul."
+    },
+    {
+      "number": 14,
+      "text": "how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.",
+      "arminianNotes": "How much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, purify our conscience from dead works to serve the living God. Wesley: the merit of all his sufferings; the work of redemption being the work of the whole Trinity; offered himself infinitely more precious than any created victim; purge our conscience—our inmost soul—from dead works to serve the living God in the life of faith, in perfect love and spotless holiness.\n\nShared: better blood, clean conscience, living service. Classical Arminians preach a purification sincerely held out so that cleansed people may serve—not plunge again into filth.",
+      "reformedNotes": "Calvin: Christ's death is to be estimated not by the external act but by the power of the Spirit; that death becomes saving through the Spirit's efficacious power. He calls the Spirit eternal that we may know the reconciliation is eternal. From dead works—works that produce death or spring from death. We are washed by Christ that our purity may serve to glorify God; nothing can please God until we are purified by Christ's blood.\n\nReformed pastoral: conscience purged is unto service of the living God. The living God stands over against dead works; reconciliation is the beginning of acceptable worship."
+    },
+    {
+      "number": 15,
+      "text": "Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant.",
+      "arminianNotes": "Therefore He is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from transgressions under the first covenant. Wesley: for this end he is the Mediator of a new covenant, that they who are called to its engagements and benefits might receive the eternal inheritance promised to Abraham by his meritorious death—for redemption from the guilt and punishment of sins committed in the time of the old covenant.\n\nBoth camps: mediator, death, inheritance. Classical Arminians hear calling and inheritance joined to a death that truly redeems transgressors who are brought into the covenant's benefits by faith.",
+      "reformedNotes": "Calvin: for this cause he is Mediator of the new testament; he claims not for Christ a mediation shared with others, but maintains that all others were repudiated when Christ undertook the office through death intervening. He paid the price for sins under the first covenant which the blood of beasts could not blot out. When we come to Christ we obtain a full redemption. He speaks of the called as those made partakers of this calling; righteousness and salvation are procured by Christ's blood and we become partakers by faith.\n\nReformed accent: one Mediator, one death, full redemption. The called receive what the law's victims could only sign."
+    },
+    {
+      "number": 16,
+      "text": "For where a will is involved, the death of the one who made it must be established.",
+      "arminianNotes": "For where a will is involved, the death of the one who made it must be established. Wesley: by means of death; where such a covenant is, there must be the death of him by whom it is confirmed—seeing it is by his death that the benefits of it are purchased.\n\nShared: death ratifies. The new covenant's benefits are not released by moral improvement alone but by the death of the covenant-maker. Both camps preach a costly mercy.",
+      "reformedNotes": "Calvin: where a testament is, there must of necessity be the death of the testator. The Apostle, alluding to the Greek word's range of meaning, holds that the promises should not otherwise have been ratified had they not been sealed by the death of Christ. God in establishing the covenant of the law made use of blood; that covenant bore likeness to a testament, ratified by death.\n\nReformed confession: no bloodless inheritance. The argument from wills presses the necessity of Christ's death for covenant efficacy."
+    },
+    {
+      "number": 17,
+      "text": "For a will takes effect only at death, since it is not in force as long as the one who made it is alive.",
+      "arminianNotes": "For a will takes effect only at death, since it is not in force while the one who made it is alive. Wesley notes the passage's difficulty in older English renderings, yet the pastoral point stands: death brings the covenant's purchased benefits into force.\n\nBoth camps: as long as we treat the covenant-maker as merely a living teacher, we miss the will's power. Cross first; then inheritance.",
+      "reformedNotes": "Calvin: a testament is of force after men are dead; otherwise it is of no strength while the testator lives. What rightly belongs to a testament is that it begins to take effect after death. The covenant of God made with blood may be fitly compared to a testament.\n\nReformed pastoral: Christ's death is not an optional seal on an already complete moral program. Inheritance waits on the death that establishes it."
+    },
+    {
+      "number": 18,
+      "text": "Therefore not even the first covenant was inaugurated without blood.",
+      "arminianNotes": "Therefore not even the first covenant was inaugurated without blood. Wesley: neither was the first—the Jewish covenant—originally transacted without the blood of an appointed sacrifice.\n\nShared: from the beginning, covenant with God meant blood. The first covenant already preached, in shadow, that access and inauguration cost life. Classical Arminians and Reformed alike refuse a bloodless Christianity.",
+      "reformedNotes": "Calvin: whereupon neither the first testament was dedicated without blood. Men were even then reminded that it could not be valid and efficacious except death intervened. Though the blood of beasts was shed, he denies that it availed to confine an everlasting covenant.\n\nReformed accent: inauguration by blood was pedagogical necessity. The old dedication pointed beyond itself to the blood that truly establishes the everlasting covenant."
+    },
+    {
+      "number": 19,
+      "text": "For when every commandment of the law had been declared by Moses to all the people, he took the blood of calves and goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,",
+      "arminianNotes": "When Moses had declared every commandment, he took the blood of calves and goats, with water, scarlet wool, and hyssop, and sprinkled the book and all the people. Wesley: circumstances known from Moses; the book which contained all he had said; blood mixed with water—perhaps also to typify that blood and water of John 19:34.\n\nBoth camps: word and blood together. Sprinkling reaches book and people. The gospel pattern is already here—promise spoken, blood applied.",
+      "reformedNotes": "Calvin: Moses, having spoken every precept, took blood with water, scarlet wool, and hyssop, and sprinkled book and people. Before the explanation of the Law no symbol was added; a symbol is an appendage to the word. The people were taught that God could not be sought for salvation except faith looked to intervening blood.\n\nReformed pastoral: sacrament without word is dead; word without blood cannot cleanse. Moses' sprinkling catechizes the church to look to Christ."
+    },
+    {
+      "number": 20,
+      "text": "saying, \"This is the blood of the covenant that God commanded for you.\"",
+      "arminianNotes": "Saying, \"This is the blood of the covenant that God commanded for you.\" Wesley: this is the blood of the covenant which God hath enjoined me to deliver unto you—by this it is established.\n\nShared: covenant blood is God's command, not human invention. Both camps hear the line that will echo in the Lord's Supper. The blood establishes what God enjoins.",
+      "reformedNotes": "Calvin: if that was the blood of the testament, then neither testament without blood nor blood without testament avails. Both must be united. The promises of God are profitable when confirmed by the blood of Christ; when the Gospel is preached, his sacred blood distills together with the voice.\n\nReformed accent: \"This is the blood\" binds word and sacrifice. Faith receives a covenant God Himself commanded and sealed."
+    },
+    {
+      "number": 21,
+      "text": "And in the same way he sprinkled with the blood both the tent and all the vessels used in worship.",
+      "arminianNotes": "In the same way he sprinkled with the blood both the tent and all the vessels used in worship. Wesley: he ordered the tabernacle when it was made, and all its vessels, to be sprinkled with blood.\n\nBoth camps: even holy furniture needs blood. Worship itself is unclean until sprinkled. The point is cultus consecration pointing to Christ's cleansing of our approach to God.",
+      "reformedNotes": "Calvin: moreover he sprinkled with blood both the tabernacle and all the vessels of the ministry. All kinds of worship are faulty and impure until Christ cleanses them by the sprinkling of his blood. Where Christ does not appear with his blood, we have nothing to do with God.\n\nReformed pastoral: vessels and tent preach our need. Ministry without the blood is not safe nearness to the Holy One."
+    },
+    {
+      "number": 22,
+      "text": "Indeed, under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins.",
+      "arminianNotes": "Under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins. Wesley: almost all things—for some were purified by water or fire—are according to the law purified with blood; and according to the law there is no forgiveness without shedding of blood. All this pointed to the blood of Christ effectually cleansing from all sin, and intimated there can be no purification from it by any other means.\n\nShared and non-negotiable: no blood, no forgiveness. Classical Arminians and Reformed preach substitutionary atonement here without distraction. This is the chapter's pastoral center.",
+      "reformedNotes": "Calvin: almost all things are by the law purged with blood; and without shedding of blood is no remission. Uncleanness was imputed until expiated by sacrifice. As without Christ there is no purity nor salvation, so nothing without blood can be pure or saving. Men cannot appear before God until He is pacified; there is but one way of pacification—expiation by blood—when we flee by faith to the death of Christ.\n\nReformed confession: forgiveness is blood-bought or it is imaginary. Both camps stand shoulder to shoulder against any gospel that omits the shed blood of Christ."
+    }
+  ]
+}

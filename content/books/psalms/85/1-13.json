@@ -1,0 +1,112 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 85,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Psalm 85:1–13",
+  "context": "To the choirmaster. A Psalm of the Sons of Korah. LORD, you were favorable to your land and restored Jacob's fortunes; you forgave iniquity and covered all sin; you withdrew wrath and turned from hot anger. Restore us again, God of our salvation; put away indignation. Will anger last forever? Will you revive us that your people may rejoice? Show steadfast love and grant salvation. Let me hear what God the LORD will speak—peace to his people and saints, if they not turn to folly. Salvation is near to those who fear him, that glory may dwell in the land. Steadfast love and faithfulness meet; righteousness and peace kiss; faithfulness springs from the ground; righteousness looks down from the sky. The LORD gives what is good; the land yields increase. Righteousness goes before him and makes his footsteps a way.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on favor to the land and restored fortunes, forgiven iniquity and covered sin, wrath withdrawn, restore-again prayer, revive and rejoice, steadfast love and salvation, peace spoken to saints, glory in the land, mercy and truth meeting, righteousness and peace kissing, and footsteps made a way—so each camp speaks in its own voice beside Psalm 85:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Captivity—The captives. Turn us—Restore us to former tranquillity, free from troubles we yet groan under. Revive us—Give us a second reviving in bringing home the rest of our brethren and restraining enemies. Will hear—Diligently observe. Will speak—What answer God will give to my prayers. Peace—He will give an answer of peace. Saints—Not to all called God's people, but only to those truly such. His salvation—That complete salvation for which the Israel of God wait; even redemption by the Messiah—of which Jewish as well as Christian writers understand this place; the seventy weeks determined by Daniel were begun. Glory—The glorious presence of God, and the God of glory himself, even Christ. Kissed—Redemption by Christ manifests mercy to Israel and Gentiles; truth in sending the Son; righteousness in punishing sin on his Son and conferring righteousness on the guilty; peace of reconciliation and conscience. Truth—Truth among men. Righteousness—God's justice satisfied; he looks on sinful men with a smiling countenance. Before him—As his harbinger; he shall fulfil all righteousness and advance holiness among men. Set us—Cause us to walk in those righteous ways wherein he walketh.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 85"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Thou hast been favorable to thy land—past deliverance encourages prayer under present affliction; God mindful of his covenant remains merciful to Abraham's children. Iniquities taken away means free forgiveness—not imputing sins; covering buries them from judgment; pardon and mitigation of punishment go together. Turn us, O God of our salvation—apply paternal tenderness now; remove anger, the cause of calamities. Wilt thou be wroth forever?—argue from God's merciful name in the law; punishments of children are temporary; quicken those nearly dead in affliction. Show mercy; grant salvation. I will hear what God Jehovah will speak—he will speak peace to his people and meek ones; let them not turn again to folly. Salvation near to them that fear him; glory dwell in the land. Mercy and truth meet; righteousness and peace kiss—fruits of reconciliation; many see prophecy of Christ's kingdom: these virtues distinguish his reign and flow from God. Truth springs from earth; righteousness looks from heaven—universally diffused. Jehovah grants prosperity; land yields increase—fatherly goodness for the body also. Righteousness goes before him and sets steps in the way—order under Christ's reign attributed to God's appointment.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 85"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "LORD, you were favorable to your land; you restored the fortunes of Jacob.",
+      "arminianNotes": "LORD, you were favorable to your land; you restored the fortunes of Jacob. Wesley: Captivity—the captives. Shared: past favor and restored fortunes of Jacob ground present hope.\n\nArminian pastoral: remember favor shown to the land. Covenant faithfulness in yesterday's restoration fuels today's prayer.",
+      "reformedNotes": "Calvin: favorable to thy land; brought back captivity—past tokens of free love encourage expectation under present tyranny; God mindful of covenant remains merciful to Abraham's children. Remembrance of former benefits emboldens the throne of grace.\n\nReformed pastoral: shared—favor to the land; fortunes of Jacob restored. Unintermitted course of favor inspires confidence in prayer."
+    },
+    {
+      "number": 2,
+      "text": "You forgave the iniquity of your people; you covered all their sin. Selah",
+      "arminianNotes": "You forgave the iniquity of your people; you covered all their sin. Selah Shared: forgiveness and covering of all sin; Selah.\n\nArminian pastoral: covered sin is real pardon. Pause at Selah over grace that buried guilt.",
+      "reformedNotes": "Calvin: iniquities taken away is free forgiveness—not imputing sins; covering buries them from judgment (cf. Ps 32). Deliverance from punishment depends on remission; God does not retain punishment while pretending to forgive the fault.\n\nReformed pastoral: shared—forgave; covered all sin. Pardon and peace with God travel together."
+    },
+    {
+      "number": 3,
+      "text": "You withdrew all your wrath; you turned from your hot anger.",
+      "arminianNotes": "You withdrew all your wrath; you turned from your hot anger. Shared: wrath withdrawn; hot anger turned away.\n\nArminian pastoral: past turning of anger is covenant mercy remembered. Attributes of patience stand behind the verbs.",
+      "reformedNotes": "Calvin: God mercifully inclined that he might withdraw his hand from chastising; sequence of pardon is that, being pacified, he mitigates punishment.\n\nReformed pastoral: shared—wrath withdrawn; anger turned. Forgiveness is not a fiction while fury still burns unchecked."
+    },
+    {
+      "number": 4,
+      "text": "Restore us again, O God of our salvation, and put away your indignation toward us!",
+      "arminianNotes": "Restore us again, O God of our salvation, and put away your indignation toward us! Wesley: Turn us—restore to former tranquillity; free from troubles still groaned under. Shared: restore-again prayer to the God of salvation; put away indignation.\n\nArminian pastoral: \"again\" confesses need after partial mercy. Ask salvation's God to finish what favor began.",
+      "reformedNotes": "Calvin: Turn us, O God of our salvation—apply past paternal tenderness to present need; encourage hope even when circumstances look desperate; remove anger as cause of calamities—do not only beg relief of symptoms.\n\nReformed pastoral: shared—restore again; put away indignation. Salvation's God can find means whenever he pleases."
+    },
+    {
+      "number": 5,
+      "text": "Will you be angry with us forever? Will you prolong your anger to all generations?",
+      "arminianNotes": "Will you be angry with us forever? Will you prolong your anger to all generations? Shared: forever and all-generations name feared duration of anger.\n\nArminian pastoral: how-long piety without denying justice. Ask the duration; keep praying.",
+      "reformedNotes": "Calvin: Wilt thou be wroth forever?—argue from God's merciful name (Exod 34); anger endures but a moment compared with favor; punishments of his children are temporary.\n\nReformed pastoral: shared—angry forever? Prolong to all generations? Nature of God funds the plea against endless wrath on his people."
+    },
+    {
+      "number": 6,
+      "text": "Will you not revive us again, that your people may rejoice in you?",
+      "arminianNotes": "Will you not revive us again, that your people may rejoice in you? Wesley: Revive us—second reviving: bring home remaining brethren; restrain enemies. Shared: revive-again for joy in God.\n\nArminian pastoral: revival aims at joy in God, not mere ease. Second life after near-death affliction.",
+      "reformedNotes": "Calvin: turn again and quicken us—nearly dead or prostrate under affliction; confident he will be entreated and turn mourning to gladness; rejoicing implies present weariness with sorrow.\n\nReformed pastoral: shared—revive again; people rejoice in you. Quicken the stunned; joy is in him."
+    },
+    {
+      "number": 7,
+      "text": "Show us your steadfast love, O LORD, and grant us your salvation.",
+      "arminianNotes": "Show us your steadfast love, O LORD, and grant us your salvation. Shared: steadfast love (mercy) shown; salvation granted.\n\nArminian pastoral: hesed and salvation asked together. Attributes and saving help are one petition.",
+      "reformedNotes": "Calvin: Show us thy mercy; grant us thy salvation—mercy and deliverance joined in the asking.\n\nReformed pastoral: shared—steadfast love and salvation. Covenant love is the fountain of the rescue sought."
+    },
+    {
+      "number": 8,
+      "text": "Let me hear what God the LORD will speak, for he will speak peace to his people, to his saints; but let them not turn back to folly.",
+      "arminianNotes": "Let me hear what God the LORD will speak, for he will speak peace to his people, to his saints; but let them not turn back to folly. Wesley: Will hear—diligently observe; Peace—answer of peace; Saints—not all called God's people, only those truly such. Shared: God speaks peace to people/saints; folly must not return.\n\nArminian pastoral: listen for the LORD's answer. Peace is promised to true saints; do not turn again to folly.",
+      "reformedNotes": "Calvin: I will hear what God Jehovah will speak; surely he will speak peace to his people and meek ones; they will not turn again to folly—peace conditioned on not relapsing.\n\nReformed pastoral: shared—hear what God speaks; peace to saints; no return to folly. Attention and holiness answer peace spoken."
+    },
+    {
+      "number": 9,
+      "text": "Surely his salvation is near to those who fear him, that glory may dwell in our land.",
+      "arminianNotes": "Surely his salvation is near to those who fear him, that glory may dwell in our land. Wesley: His salvation—complete Messianic redemption; Daniel's seventy weeks begun; Glory—glorious presence, and Christ the brightness of the Father's glory. Shared: salvation near to fearers; glory dwelling in the land.\n\nArminian pastoral: fear of the LORD and near salvation. Wesley presses Messianic fullness—glory as Christ among his people.",
+      "reformedNotes": "Calvin: salvation near to them that fear him though God seems far; glory dwell in the land opposite ruinous reproach—encourages repentance under oppression. Many also read kingdom-of-Christ hope for the Church's restoration.\n\nReformed pastoral: shared—salvation near to those who fear; glory in the land. Fear and hope meet; covenant faithfulness is not absent when slow.",
+      "keyContrast": "Both confess salvation near to those who fear the LORD and glory meant to dwell in the land. Arminians typically stress Wesley's strong Messianic lemma—complete redemption by the Messiah, Daniel's weeks underway, glory as Christ's presence. Reformed readers typically stress Calvin's pastoral nearness—God secretly regards those he seems to neglect; glory opposed to the land's ruin; repentance under tyranny—while also allowing prophecy of Christ's kingdom in the following verses. Shared: attributes and covenant faithfulness underwrite the nearness."
+    },
+    {
+      "number": 10,
+      "text": "Steadfast love and faithfulness meet; righteousness and peace kiss each other.",
+      "arminianNotes": "Steadfast love and faithfulness meet; righteousness and peace kiss each other. Wesley: Kissed—Christ's redemption manifests mercy, truth in sending the Son, righteousness (sin punished on the Son; righteousness conferred), and peace of reconciliation. Shared: hesed and faithfulness meet; righteousness and peace kiss.\n\nArminian pastoral: four virtues embrace in redemption's work. Celebrate the meeting without divorcing justice from peace.",
+      "reformedNotes": "Calvin: mercy and truth meet; righteousness and peace kiss—fruits of reconciliation; cordially embraces reading these as marks of Christ's kingdom; blessings flow from God, not human praise. Whether mercy/truth refer to God or gift, true happiness needs these virtues reigning.\n\nReformed pastoral: shared—steadfast love and faithfulness meet; righteousness and peace kiss. Grace's fruits, supremely under Christ."
+    },
+    {
+      "number": 11,
+      "text": "Faithfulness springs up from the ground, and righteousness looks down from the sky.",
+      "arminianNotes": "Faithfulness springs up from the ground, and righteousness looks down from the sky. Wesley: Truth—among men; Righteousness—God's justice satisfied; smiling countenance on sinners. Shared: faithfulness from below; righteousness from above.\n\nArminian pastoral: earth and sky agree in the restored order. Truth among people; righteousness from heaven.",
+      "reformedNotes": "Calvin: truth springs from earth; righteousness looks from heaven—universally diffused above and beneath; not assigning contrary things but filling all corners with these qualities.\n\nReformed pastoral: shared—faithfulness from the ground; righteousness from the sky. Heaven and earth stocked with God's order."
+    },
+    {
+      "number": 12,
+      "text": "Yes, the LORD will give what is good, and our land will yield its increase.",
+      "arminianNotes": "Yes, the LORD will give what is good, and our land will yield its increase. Shared: the LORD gives good; land yields increase.\n\nArminian pastoral: material increase under spiritual reconciliation. Receive good as gift, not as the only hope.",
+      "reformedNotes": "Calvin: Jehovah grants prosperity; land yields increase—completeness of blessedness; bodily provision a further proof of fatherly love, kept within bounds so hearts are not stuffed asleep; earth fruitful yearly by God's secret influence—not a distant clockmaker at ease.\n\nReformed pastoral: shared—LORD gives good; land yields. Covenant care includes daily bread without making it ultimate."
+    },
+    {
+      "number": 13,
+      "text": "Righteousness will go before him and make his footsteps a way.",
+      "arminianNotes": "Righteousness will go before him and make his footsteps a way. Wesley: Before him—as harbinger; fulfil all righteousness; advance holiness; Set us—cause us to walk in his righteous ways. Shared close: righteousness precedes him and prepares the way of his steps.\n\nArminian pastoral: follow the path righteousness clears. Walk in the ways he walks.",
+      "reformedNotes": "Calvin: righteousness goes before him and sets steps in the way—order under Christ's reign by God's appointment; chief blessedness is moral order, not stuffed bellies; righteousness' free course attributed to God.\n\nReformed pastoral: shared—righteousness goes before; footsteps a way. The King walks a prepared path; his people are set in it."
+    }
+  ]
+}

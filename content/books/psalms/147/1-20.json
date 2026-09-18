@@ -1,0 +1,153 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 147,
+  "verseStart": 1,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Psalm 147:1–20",
+  "context": "Final Hallelujah doxologies (146–150) continue: praise is good and fitting; the LORD builds Jerusalem, gathers outcasts, heals the brokenhearted, numbers the stars, lifts the humble, and feeds beasts and ravens. He delights not in horse or human strength but in those who fear Him and hope in His steadfast love. Zion’s gates, peace, and wheat; snow, frost, and ice obey His swift word. He declares statutes to Jacob as to no other nation—shared praise closing toward the Psalter’s end.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on fitting praise, Jerusalem rebuilt and outcasts gathered, stars named, meek lifted, fear and hope in steadfast love, and the word given to Jacob—so each camp speaks in its own voice beside Psalm 147:1–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Praise is comely—it is decent, befitting, and proper that every intelligent creature should acknowledge the Supreme Being; and as he does nothing but good to the children of men, so they should speak good of his name. The Lord doth build up Jerusalem: the psalmist appears to see the walls rising under his eye, because the outcasts of Israel are now gathered together. He healeth the broken in heart—the shivered in heart. He telleth the number of the stars: he whose knowledge is so exact as to tell every star can find out and collect all the scattered exiles. His understanding is infinite—to his intelligence there is no number. The Lord taketh pleasure in them that fear him, in those that hope in his mercy—even the cry of the penitent is pleasing in the ear of the Lord. He showeth his word unto Jacob: to no nation of the world beside had God given a revelation of his will.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 147)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This Psalm also incites the people of God to praise him upon two accounts: first, for the display of his power, goodness, and wisdom in the common government of the world; but more particularly for his special goodness in cherishing and defending the Church which he has chosen of his free grace, in restoring it when fallen down, and gathering it when dispersed. Though the benefits he speaks of are such as God extends to all men indiscriminately, it is plain that he addresses more especially God’s people. The main thing which he celebrates is his mercy, as shown to his chosen people. Praise is good, delightful, and pleasant. Jehovah building up Jerusalem will gather the dispersed of Israel: the Church was not of human erection, but formed by the supernatural power of God; he forsakes not the work of his own hands. Not in the strength of the horse will he take pleasure: let man come in the preparation of his own strength, and this will only issue in smoke and vanity. Jehovah delighteth in those who fear him, who hope in his mercy. He announces his words to Jacob: the crowning proof of his love is that he has set before us in his word the light of eternal life. He hath not done so to every nation—this pre-eminence leads us to gratuitous election as its source.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 147)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Praise the LORD! For it is good to sing praises to our God; for it is pleasant, and a song of praise is fitting.",
+      "arminianNotes": "Praise the LORD! For it is good to sing praises to our God; for it is pleasant, and a song of praise is fitting. Clarke: praise is comely—decent and proper that every intelligent creature acknowledge the Supreme Being who does good to the children of men.\n\nShared doxology: both camps gladly sing. Classical Arminians hear a sincere summons to fitting praise under grace—good, pleasant, and comely because God is worthy.",
+      "reformedNotes": "Calvin: though benefits extend to all, he addresses God’s people especially; the main celebration is mercy to the chosen. Praise is good, delightful, and pleasant—indirectly censuring weariness at God’s name.\n\nReformed accent: alacrity in praise. Shared with Clarke: Praise the LORD; song of praise is fitting."
+    },
+    {
+      "number": 2,
+      "text": "The LORD builds up Jerusalem; he gathers the outcasts of Israel.",
+      "arminianNotes": "The LORD builds up Jerusalem; He gathers the outcasts of Israel. Clarke: walls rising under the eye as outcasts return to the work. Restoration is praise-material.\n\nArminian pastoral: gathering outcasts is mercy meant to be noticed and sung. Shared: the LORD builds and gathers.",
+      "reformedNotes": "Calvin: builder of Jerusalem points less to stones than to spiritual worship; the Church is formed by God’s power, not human counsel. He gathers the dispersed—God forsakes not the work of His hands.\n\nReformed comfort: restoration as divine architecture. Shared: Jerusalem built; outcasts gathered."
+    },
+    {
+      "number": 3,
+      "text": "He heals the brokenhearted and binds up their wounds.",
+      "arminianNotes": "He heals the brokenhearted and binds up their wounds. Clarke: the shattered heart—broken by a sense of God’s displeasure—is bound by the divine Surgeon.\n\nBoth camps: real healing for real wounds. Classical Arminians preach a Healer who invites the broken to come and be bound up.",
+      "reformedNotes": "Calvin: though the Church labor under many diseases, God will speedily recover it; the figure shows the Church ever safe under His care.\n\nReformed pastoral: healing as covenant care. Shared: brokenhearted healed; wounds bound."
+    },
+    {
+      "number": 4,
+      "text": "He determines the number of the stars; he gives to all of them their names.",
+      "arminianNotes": "He determines the number of the stars; He gives to all of them their names. Clarke: He whose knowledge tells every star can collect scattered exiles. Wesley: He exactly knows them as we do those we call by name.\n\nShared: star-naming wisdom—creation praise fuels trust for gathering.",
+      "reformedNotes": "Calvin: matchless wisdom regulates the courses of the stars without confusion; each has its fixed office. Gathering outcasts is not harder than numbering stars.\n\nReformed accent: incomprehensible power and wisdom. Shared: stars numbered and named."
+    },
+    {
+      "number": 5,
+      "text": "Great is our Lord, and abundant in power; his understanding is beyond measure.",
+      "arminianNotes": "Great is our Lord, and abundant in power; His understanding is beyond measure. Clarke: to His intelligence there is no number—He is infinite; therefore He can know and do all things.\n\nBoth camps: greatness without measure. Classical Arminians refuse a small God; praise matches plenitude of power.",
+      "reformedNotes": "Calvin: Great is God, boundless in power and understanding. There cannot be greater folly than to make our judgment the measure of God’s works.\n\nReformed accent: do not scale God by human measure. Shared: abundant power; understanding beyond measure."
+    },
+    {
+      "number": 6,
+      "text": "The LORD lifts up the humble; he casts the wicked to the ground.",
+      "arminianNotes": "The LORD lifts up the humble; He casts the wicked to the ground. Clarke: the humbled and afflicted are raised; justice and mercy meet in one verse.\n\nArminian hearing: lifting the meek is pastoral hope; casting the wicked is moral warning. Shared praise of both sides of the LORD’s rule.",
+      "reformedNotes": "Calvin: we are brought low that God may lift us up; the wicked are lifted that they may be cast down. Affliction and envy both meet this verse.\n\nReformed comfort under the cross. Shared: humble lifted; wicked cast down."
+    },
+    {
+      "number": 7,
+      "text": "Sing to the LORD with thanksgiving; make melody to our God on the lyre!",
+      "arminianNotes": "Sing to the LORD with thanksgiving; make melody to our God on the lyre! Clarke: sing a responsive song—answer one another. Thanksgiving is the mode.\n\nShared doxology: vocal and instrumental praise. Classical Arminians hear willing melody, not forced noise.",
+      "reformedNotes": "Calvin: again he exhorts to sing; abundant matter is not wanting—new proofs of power, goodness, and wisdom meet our eyes.\n\nReformed accent: thanksgiving as chief exercise. Shared: sing with thanksgiving; melody on the lyre."
+    },
+    {
+      "number": 8,
+      "text": "He covers the heavens with clouds; he prepares rain for the earth; he makes grass grow on the hills.",
+      "arminianNotes": "He covers the heavens with clouds; He prepares rain for the earth; He makes grass grow on the hills. Clarke: even winds, clouds, and rain are under especial management; providence, not bare chance.\n\nArminian pastoral: ordinary weather is praise-material. Shared: clouds, rain, grass on hills.",
+      "reformedNotes": "Calvin: sudden veiling of the heavens displays power; rain prepares grass—mercy and fatherly care in the same act as power. Second causes should not hide providence.\n\nReformed accent: particular providence in weather. Shared with Clarke: rain prepared; grass on hills."
+    },
+    {
+      "number": 9,
+      "text": "He gives to the beasts their food, and to the young ravens that cry.",
+      "arminianNotes": "He gives to the beasts their food, and to the young ravens that cry. Wesley: ravens most contemptible and unclean to Jews, forsaken by dams, wholly left to divine providence.\n\nBoth camps: care reaches the overlooked. Classical Arminians hear a Father who feeds what men neglect.",
+      "reformedNotes": "Calvin: naming cattle and ravens emphasizes the argument—if God feeds brutes, He will be nurse and father to us. Young ravens cry unto God as confessing want.\n\nReformed pastoral: providence scaled to the least. Shared: beasts and young ravens fed."
+    },
+    {
+      "number": 10,
+      "text": "His delight is not in the strength of the horse, nor his pleasure in the legs of a man,",
+      "arminianNotes": "His delight is not in the strength of the horse, nor His pleasure in the legs of a man. Wesley: as if He needed either for His designs. Clarke: horse and well-proportioned legs delight men; they are not God’s peculiar delight.\n\nShared: human military beauty is not the LORD’s treasure. Classical Arminians warn against trusting strength God did not ask for as His joy.",
+      "reformedNotes": "Calvin: men have no strength but what is given from above—this checks pride that trusts its own preparation. Strength of horse stands for any protection that intoxicates.\n\nReformed accent: false confidence blocks mercy. Shared: not horse-strength; not legs of a man."
+    },
+    {
+      "number": 11,
+      "text": "but the LORD takes pleasure in those who fear him, in those who hope in his steadfast love.",
+      "arminianNotes": "But the LORD takes pleasure in those who fear Him, in those who hope in His steadfast love. Clarke: the truly religious; and those just beginning to seek salvation—even the penitent’s cry pleases Him.\n\nShared center of the doxology: fear and hope in hesed. Both camps worship here; classical Arminians stress sincere hope held out to the seeking soul.",
+      "reformedNotes": "Calvin: fear of God opposed to horse and human strength; hope in His mercy—worship with reverence and dependence upon grace.\n\nReformed accent: delight is in God-fearers who hope in mercy, not in self-strength. Shared: pleasure in fear and hope in steadfast love."
+    },
+    {
+      "number": 12,
+      "text": "Praise the LORD, O Jerusalem! Praise your God, O Zion!",
+      "arminianNotes": "Praise the LORD, O Jerusalem! Praise your God, O Zion! Covenant address: the rebuilt city is called by name to the choir.\n\nShared: Zion’s duty to praise. Classical Arminians hear a people summoned to grateful song for mercies already tasted.",
+      "reformedNotes": "Calvin: having spoken generally, he addresses the Lord’s people who alone can appreciate these mercies. Under Jerusalem he comprises the whole Church.\n\nReformed accent: Church as choir. Shared: Praise the LORD, O Jerusalem; praise your God, O Zion."
+    },
+    {
+      "number": 13,
+      "text": "For he strengthens the bars of your gates; he blesses your children within you.",
+      "arminianNotes": "For He strengthens the bars of your gates; He blesses your children within you. Wesley: strength consists not in walls and bars, but in His protection. Clarke: walls completed, gates secured, provision safe.\n\nArminian pastoral: protection and children blessed—ordinary covenant goods to thank God for.",
+      "reformedNotes": "Calvin: bars strengthened means the holy city perfectly guarded from hostile fear; children blessed prosper within.\n\nReformed comfort: divine guardianship. Shared: gates barred by God; children blessed."
+    },
+    {
+      "number": 14,
+      "text": "He makes peace in your borders; he fills you with the finest of the wheat.",
+      "arminianNotes": "He makes peace in your borders; He fills you with the finest of the wheat. Clarke: no longer troubled by hostile neighbors; finest wheat fills the city.\n\nShared: peace and bread as praise-reasons. Classical Arminians thank God for tangible mercies without despising them.",
+      "reformedNotes": "Calvin: bounds made peace—enemies restrained; fatness of corn satisfies. Temporal provision under the law led toward higher gifts; faith sees liberality clearer than unbelief.\n\nReformed accent: peace as divine restraint. Shared: peace in borders; finest wheat."
+    },
+    {
+      "number": 15,
+      "text": "He sends out his command to the earth; his word runs swiftly.",
+      "arminianNotes": "He sends out His command to the earth; His word runs swiftly. Wesley: commandment sufficient without instruments; the thing is done without delay. Clarke: substantial word personified, running to perform His will.\n\nBoth camps: creation obeys speech. His word runs because He speaks with effect.",
+      "reformedNotes": "Calvin: sending forth His word is secret influence governing all; without His appointment no movement among the elements. His word runs quickly—all concurs to effect it.\n\nReformed accent: nature depends on God’s will. Shared: command sent; word runs swiftly."
+    },
+    {
+      "number": 16,
+      "text": "He gives snow like wool; he scatters frost like ashes.",
+      "arminianNotes": "He gives snow like wool; He scatters frost like ashes. Wesley: like wool in color, shape, softness, and use—keeping earth’s fruits warm. Clarke: large flakes resembling fine white wool; frost spread over nature’s face.\n\nShared wonder at winter. Both camps praise the Giver, not chance weather.",
+      "reformedNotes": "Calvin: sudden snow and hoar-frost show how quickly God’s word runs; avoid senseless natural philosophy that starts without His will.\n\nReformed accent: meteors as prompt obedience. Shared: snow like wool; frost like ashes."
+    },
+    {
+      "number": 17,
+      "text": "He hurls down his crystals of ice like crumbs; who can stand before his cold?",
+      "arminianNotes": "He hurls down His crystals of ice like crumbs; who can stand before His cold? Wesley: great hailstones cast like morsels. Clarke: eastern cold can kill man and beast—hence the cry, who can stand?\n\nShared: cold as the LORD’s. Classical Arminians hear majesty that humbles, not a puzzle of genre.",
+      "reformedNotes": "Calvin: ice and cold force recognition of God’s power; piercing cold should compel acknowledgment when wonders alone do not.\n\nReformed pastoral: creation’s severity as summons. Shared: ice like crumbs; who can stand before His cold?"
+    },
+    {
+      "number": 18,
+      "text": "He sends out his word, and melts them; he makes his wind blow and the waters flow.",
+      "arminianNotes": "He sends out His word, and melts them; He makes His wind blow and the waters flow. Clarke: command; south wind; thaw; waters flow where ice bound them.\n\nBoth camps: same word that freezes also melts. Shared praise of sovereign seasons.",
+      "reformedNotes": "Calvin: He who binds also looses by His word; changes that would seem incredible cry that there is a Being who reigns above.\n\nReformed accent: word rules freeze and thaw. Shared: word melts; wind blows; waters flow."
+    },
+    {
+      "number": 19,
+      "text": "He declares his word to Jacob, his statutes and rules to Israel.",
+      "arminianNotes": "He declares His word to Jacob, His statutes and rules to Israel. Clarke: to no nation beside had God given a revelation of His will. Covenant speech crowns the nature hymn.\n\nShared: particular word to Israel. Classical Arminians treasure revealed statutes as grace.",
+      "reformedNotes": "Calvin: another word than the silent law in nature—God teaches men with articulate language. Crowning proof of love: light of eternal life in the word. Moses and the prophets’ part is ascribed to God Himself.\n\nReformed accent: written revelation as highest mercy. Shared: word to Jacob; statutes to Israel."
+    },
+    {
+      "number": 20,
+      "text": "He has not dealt thus with any other nation; they do not know his rules. Praise the LORD!",
+      "arminianNotes": "He has not dealt thus with any other nation; they do not know His rules. Praise the LORD! Clarke: wondrous ordinances unknown to the nations—therefore praise. The doxology ends where it began: Hallelujah.\n\nShared closing of Psalm 147: both camps worship for the gift of God’s rules. Classical Arminians join the praise for His particular dealing with Israel.",
+      "reformedNotes": "Calvin: comparison enhances mercy—He preferred one people; pre-eminence leads to gratuitous election, for Israel differed not by native excellency. Hallelujah.\n\nReformed confession: free distinction. Shared with Clarke: not so with any other nation; Praise the LORD!"
+    }
+  ]
+}

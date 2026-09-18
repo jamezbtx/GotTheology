@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 119,
+  "verseStart": 113,
+  "verseEnd": 120,
+  "translation": "ESV",
+  "title": "Psalm 119:113–120",
+  "context": "The Samekh stanza hates the double-minded and loves the law; God is hiding place and shield; hope rests in the word. Evildoers are told to depart so commandments may be kept; upholding according to the promise is asked for life and unashamed hope; held up, the singer regards statutes continually. God spurns those who stray; the wicked are discarded like dross, therefore testimonies are loved; flesh trembles in fear of God and his judgments. Both camps flee to God for safety and ask to be upheld; they differ on how far that upholding is the necessary cause of living and keeping.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on hating double-mindedness, God as shield, being upheld to live and keep, and trembling fear of judgments—so each camp speaks in its own voice beside Psalm 119:113–120.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Deceit—Their deceitful devices shall bring that destruction upon themselves which they design for others.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 119:118)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I have hated crooked thoughts and loved thy law—whoever would truly embrace the law must divest himself of unhallowed thoughts. Sustain me by thy word, and I shall live; establish me and I shall be safe: he looks to God’s protection as the only way to be safe, confiding in promises. Depart from me, ye wicked—keep distance from worldly contagion. My flesh trembled for fear of thee—reverent fear joined to love of the testimonies.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 119:113–117, 120)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 113,
+      "text": "I hate the double-minded, but I love your law.",
+      "arminianNotes": "Hate of the double-minded paired with love of the law. Classical Arminians hear single-hearted affection—law-love that cannot cozy to divided loyalties.\n\nShared clarity: crooked, wavering thoughts set against God’s right word. Purification of mind begins discipleship.",
+      "reformedNotes": "Calvin: seaphim as crooked thoughts—branches of the heart tangled and twisted; inventions of the human heart set against the law alone right. Whoever would truly embrace the law must first divest unhallowed thoughts, or rather go out of his own nature. God acknowledges as disciples those purified from contrary imaginations.\n\nReformed accent: hate double-mindedness; love the law. Docility begins by opposing crooked thoughts to Scripture."
+    },
+    {
+      "number": 114,
+      "text": "You are my hiding place and my shield; I hope in your word.",
+      "arminianNotes": "God as hiding place and shield; hope in the word. Classical Arminians hear refuge language that steadies fear—safety sought in God, confidence fed by promise.\n\nShared sequence: learn from the word that he is refuge; cherish it under felt need of protection.",
+      "reformedNotes": "Calvin: persuaded the only way to be safe was lying hid under God’s wings, he confided in promises and feared nothing. First point: preservation entirely owing to God’s protection—flee to him and wait for promised deliverance. Confidence that God is refuge is derived from the word; set the word before us that faith fail not when aid is slow.\n\nReformed confession: hide and shield plus word-hope. Mutual relation—need drives us into promised protection."
+    },
+    {
+      "number": 115,
+      "text": "Depart from me, you evildoers, that I may keep the commandments of my God.",
+      "arminianNotes": "Evildoers told to depart for the sake of keeping commandments. Classical Arminians hear holy distance—companionship chosen with a view to obedience.\n\nShared caution: intimate entanglement with the wicked risks contagion. “My God” stakes loyalty above the crowd.",
+      "reformedNotes": "Calvin: not mainly “when they desist I will serve better,” though deliverance should stir zeal. He testifies he will not entangle in their society—distance not of place only but of intercourse. Contract intimacy and scarce avoid corruption; few continue integrity to life’s end because the world is fraught with corruptions. Banish the wicked from intimate fellowship; designate God as his God—more account of him than of all mankind.\n\nReformed accent: depart, that I may keep. Separation unto commandment-keeping under God alone."
+    },
+    {
+      "number": 116,
+      "text": "Uphold me according to your promise, that I may live, and let me not be put to shame in my hope!",
+      "arminianNotes": "Uphold according to promise unto life; shame in hope refused. Classical Arminians hear dependence in prayer—live by being upheld, hope kept from disgrace.\n\nShared plea: promise-based sustaining. Without God’s upholding, life and unashamed hope fail.",
+      "reformedNotes": "Calvin: Sustain me by thy word, and I shall live—make me not ashamed of my expectation. He looks entirely to God’s protection; preservation owed to God; leaning on the word, he waits for promised deliverance. Living is tied to being sustained by the word; hope’s shame is fled by clinging to what God said.\n\nReformed confession: uphold according to promise is the cause of living. Shame-free hope rests on sustained life from God, not self-support.",
+      "keyContrast": "Both ask to be upheld according to the promise so that they may live and not be ashamed of hope. Arminians typically hear earnest dependence—grace sustaining the believer who hopes. Reformed readers typically hear Calvin’s tighter bond: sustain me by thy word and I shall live—life itself viewed as contingent on God’s upholding, not on native continuance."
+    },
+    {
+      "number": 117,
+      "text": "Hold me up, that I may be safe and have regard for your statutes continually!",
+      "arminianNotes": "Held up unto safety and continual regard for statutes. Classical Arminians hear perseverance asked—safety and ongoing attention as gifts sought together.\n\nShared logic: being held up serves continual regard. Do not invent safe wandering from the statutes.",
+      "reformedNotes": "Calvin: Establish me, and I shall be safe; I will consider thy statutes continually. Safety and continual consideration of statutes flow from God’s establishing. The prophet binds secure standing to divine upholding.\n\nReformed accent: hold me up—then safety and continual regard. Continuance in the statutes is asked as fruit of being established."
+    },
+    {
+      "number": 118,
+      "text": "You spurn all who go astray from your statutes, for their cunning is in vain.",
+      "arminianNotes": "Wesley: Deceit—Their deceitful devices shall bring that destruction upon themselves which they design for others.\n\nClassical Arminians hear God’s rejection of willful straying—cunning that backfires. Shared warning: astray from statutes is not clever; it is vain.",
+      "reformedNotes": "Calvin: God has trodden under foot all who wander from statutes; their deceit is falsehood—devices rebound. Soft security in crooked paths is exposed; God’s spurning teaches the lover of testimonies.\n\nReformed reading: spurned straying and vain cunning sober the church. Statutes mark the path God honors."
+    },
+    {
+      "number": 119,
+      "text": "All the wicked of the earth you discard like dross; therefore I love your testimonies.",
+      "arminianNotes": "Wicked discarded as dross; therefore testimonies loved. Classical Arminians hear judgment teaching love—God’s refining action deepens affection for his word.\n\nShared therefore: seeing dross removed, love the testimonies more, not less.",
+      "reformedNotes": "Calvin: God made the wicked cease as dross; therefore he loved the testimonies. Judgment on the wicked confirms the worth of what God has spoken and stirs love rather than cynicism.\n\nReformed accent: dross discarded → testimonies loved. Providence catechizes affection for Scripture."
+    },
+    {
+      "number": 120,
+      "text": "My flesh trembles for fear of you, and I am afraid of your judgments.",
+      "arminianNotes": "Flesh trembling; fear of God’s judgments. Classical Arminians hear reverent fear joined to love of the law (v. 113)—not slavish despair but holy awe.\n\nShared balance: affection without fear grows careless; fear without love grows loveless. Tremble and trust.",
+      "reformedNotes": "Calvin: flesh trembled for fear of God; afraid of his judgments. Reverent fear accompanies love of the testimonies and hope in the word—not contradiction but fullness of piety before the Judge whose statutes he loves.\n\nReformed confession: trembling flesh and feared judgments mark real knowledge of God. Soft presumption is refused alongside despair."
+    }
+  ]
+}

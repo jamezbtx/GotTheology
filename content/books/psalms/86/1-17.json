@@ -1,0 +1,137 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 86,
+  "verseStart": 1,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Psalm 86:1–17",
+  "context": "A Prayer of David. Incline your ear, O Lord, for I am poor and needy; preserve the godly servant who trusts in you. Be gracious; gladden the soul lifted up to you—for you are good and forgiving, abounding in steadfast love to all who call. There is none like you among the gods; all nations shall worship and glorify your name. Teach me your way; unite my heart to fear your name. Great is your steadfast love; you delivered my soul from Sheol. Insolent men rise, but you are merciful and gracious; turn, strengthen, save the son of your maidservant; show a sign of favor that haters may be ashamed.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the poor and needy heard, the godly servant preserved, daily cry for mercy, goodness and forgiving love to all who call, none like the LORD among the gods, nations worshiping, a united heart to fear his name, deliverance from Sheol's depths, and a token of favor before insolent foes—so each camp speaks in its own voice beside Psalm 86:1–17.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Holy—Sincerely devoted to thy service. Truth—In the way of thy precepts, which are true and right in all things. My heart—Knit my whole heart to thyself. Hell—From extreme dangers and miseries.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 86"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Incline thy ear; I am poor and needy—nothing more suitable to God's nature than to succor the afflicted. Preserve my soul, for I am meek; save thy servant who trusteth in thee—clemency and trust, not meriting obligation. Have mercy; I cry daily. Thou art good and propitious, of great mercy to all who call—yet restricted to the faithful who call; those who chafe perish. Among the gods none like thee; all nations shall come and worship—eye to Christ's kingdom. Show me thy ways; unite my heart—both light and uprightness are Spirit's gifts; free will destitute of both. Great mercy delivered from the lower grave. The proud rise; but thou art merciful and gracious. Look to me; save the son of thy handmaid; make a sign for good.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 86"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Incline your ear, O Lord, and answer me, for I am poor and needy.",
+      "arminianNotes": "Incline your ear, O Lord, and answer me, for I am poor and needy. Shared: poverty and need are a plea before the listening Lord.\n\nArminian pastoral: Wesley has no extra lemma here; the plain cry stands. Bring need without polishing merit first.",
+      "reformedNotes": "Calvin: nothing more suitable to God's nature than to succor the afflicted; the more destitute of human aid, the more inclined is God to help. The Spirit dictates this prayer for the poor.\n\nReformed pastoral: shared—poor and needy incline the divine ear. Despair need not win; affliction is itself argument for mercy."
+    },
+    {
+      "number": 2,
+      "text": "Preserve my life, for I am godly; save your servant, who trusts in you—you are my God.",
+      "arminianNotes": "Preserve my life, for I am godly; save your servant, who trusts in you—you are my God. Wesley: Holy—sincerely devoted to thy service. Shared: devotion and trust mark the servant God saves.\n\nArminian pastoral: godly here is sincere devotion, not self-salvation. Trust names the God who is \"my God.\"",
+      "reformedNotes": "Calvin: meek/clemency and trust—not meriting obligation, but showing enemies' cruelty against a merciful man; trust is the mother of true religion. Integrity without lifting eyes to God is vanity.\n\nReformed pastoral: shared—preserve the devoted servant who trusts. Conscience may approve; still commit hope to God."
+    },
+    {
+      "number": 3,
+      "text": "Be gracious to me, O Lord, for to you do I cry all the day.",
+      "arminianNotes": "Be gracious to me, O Lord, for to you do I cry all the day. Shared: all-day cry asks grace, not wage.\n\nArminian pastoral: perseverance in crying is itself piety. Keep the day-long petition alive.",
+      "reformedNotes": "Calvin: mercy is to gratify freely—I bring no merit of my own. Daily crying proves hope; cry denotes earnestness of soul.\n\nReformed pastoral: shared—grace sought all day. Untiring prayer is not presumption; it is faith's labor."
+    },
+    {
+      "number": 4,
+      "text": "Gladden the soul of your servant, for to you, O Lord, do I lift up my soul.",
+      "arminianNotes": "Gladden the soul of your servant, for to you, O Lord, do I lift up my soul. Shared: joy asked for the servant whose soul is lifted to the Lord.\n\nArminian pastoral: gladness is gift answering a lifted soul. Lift first; then ask to rejoice.",
+      "reformedNotes": "Calvin: the end of mercy sought is removal of sorrow; lifting the soul is the mark of right prayer—no hypocrisy in the cry.\n\nReformed pastoral: shared—gladden the lifted soul. True prayer rises Godward before it asks for cheer."
+    },
+    {
+      "number": 5,
+      "text": "For you, O Lord, are good and forgiving, abounding in steadfast love to all who call upon you.",
+      "arminianNotes": "For you, O Lord, are good and forgiving, abounding in steadfast love to all who call upon you. Shared: goodness, pardon, and hesed toward callers.\n\nArminian pastoral: \"all who call\" is the open door of the text. Goodness and forgiveness invite every sincere cry.",
+      "reformedNotes": "Calvin: God is bountiful and inclined to compassion; pardoning mercy modifies his goodness. Plenteous mercy is yet restricted to the faithful who call; those who obstinately chafe perish. \"All\" encourages every rank to betake themselves to his mercy.\n\nReformed pastoral: shared—good, forgiving, abounding in love to callers. The invitation is real; the restriction is against proud refusal, not against humble need.",
+      "keyContrast": "Both confess the LORD is good, forgiving, and abounding in steadfast love toward those who call. Arminians typically stress the breadth of \"all who call\" as a sincere universal invitation to mercy. Reformed readers typically follow Calvin: plenteous mercy is celebrated, yet joined to faithful calling—not to those who chafe against God—while \"all\" still beckons every rank to the throne of grace. Shared: attributes of goodness and pardon underwrite the prayer."
+    },
+    {
+      "number": 6,
+      "text": "Give ear, O Lord, to my prayer; listen to my plea for grace.",
+      "arminianNotes": "Give ear, O Lord, to my prayer; listen to my plea for grace. Shared: prayer and plea for grace seek a listening ear.\n\nArminian pastoral: ask again after grounding in God's character (v. 5). Grace is the plea's content.",
+      "reformedNotes": "Calvin: earnest repetition shows ordinary grief and extreme anxiety; those who pray once and quit when not instantly answered betray cold hearts. Importunity is a sweet savor.\n\nReformed pastoral: shared—give ear; listen to the plea. Repeat the request into God's bosom without shame."
+    },
+    {
+      "number": 7,
+      "text": "In the day of my trouble I call upon you, for you answer me.",
+      "arminianNotes": "In the day of my trouble I call upon you, for you answer me. Shared: trouble-day calling rests on God's answering.\n\nArminian pastoral: call because he answers—confidence, not experiment. Trouble is the day of prayer.",
+      "reformedNotes": "Calvin: particular application of the truth that God is merciful to all who call—he will hear when I cry in trouble.\n\nReformed pastoral: shared—trouble; call; answer. Apply general mercy to this day's need."
+    },
+    {
+      "number": 8,
+      "text": "There is none like you among the gods, O Lord, nor are there any works like yours.",
+      "arminianNotes": "There is none like you among the gods, O Lord, nor are there any works like yours. Shared: incomparability of the LORD and his works.\n\nArminian pastoral: false gods fail the works-test. Worship the One whose deeds prove deity.",
+      "reformedNotes": "Calvin: heathen fabrications derided—no characteristic of deity in their works. Speculations that skip God's works trifle; works bear witness of him.\n\nReformed pastoral: shared—none like you; no works like yours. Glory exclusive to the true God."
+    },
+    {
+      "number": 9,
+      "text": "All the nations you have made shall come and worship before you, O Lord, and shall glorify your name.",
+      "arminianNotes": "All the nations you have made shall come and worship before you, O Lord, and shall glorify your name. Shared: maker of nations; nations shall worship and glorify.\n\nArminian pastoral: creation grounds the summons to worship. Expect Gentile glory to his name.",
+      "reformedNotes": "Calvin: celebrating godliness among the heathen has an eye to Christ's kingdom; Gentiles created by God, so their enlightenment need not seem strange.\n\nReformed pastoral: shared—nations made shall worship. Gospel horizon softens the announcement of Gentile inclusion."
+    },
+    {
+      "number": 10,
+      "text": "For you are great and do wondrous things; you alone are God.",
+      "arminianNotes": "For you are great and do wondrous things; you alone are God. Shared: greatness, wonders, exclusive deity.\n\nArminian pastoral: wonders teach monotheism. Leave rival \"gods\" without share in his title.",
+      "reformedNotes": "Calvin: greatness of works brings nations to worship; Godhead's glory belongs exclusively to the one true God.\n\nReformed pastoral: shared—great; wondrous; God alone. Contemplation of works births genuine piety."
+    },
+    {
+      "number": 11,
+      "text": "Teach me your way, O Lord, that I may walk in your truth; unite my heart to fear your name.",
+      "arminianNotes": "Teach me your way, O Lord, that I may walk in your truth; unite my heart to fear your name. Wesley: Truth—way of thy precepts; My heart—knit my whole heart to thyself. Shared: taught way, walk in truth, united heart fearing the Name.\n\nArminian pastoral: ask to be taught and knit. Whole-heart fear answers divided loyalties.",
+      "reformedNotes": "Calvin: unite my heart: the heart is scattered until God gathers it; free will is destitute of both light and uprightness; Spirit's light and gift of uprightness oppose our blindness and fluctuating affections.\n\nReformed pastoral: shared—teach; walk; unite the heart. Progress in religion deepens sense of need for inward light.",
+      "keyContrast": "Both ask to be taught the LORD's way, to walk in truth, and to have the heart united to fear his name. Arminians typically hear Wesley's \"knit my whole heart\" as devoted cooperation with grace—sincere concentration of love and fear. Reformed readers typically follow Calvin's stronger anthropology: both powers (understanding and will) are wanting until the Spirit unites a tumultuous heart; free will of itself cannot supply what the prayer seeks. Shared: fear of the Name is the end; divided hearts need God's knitting."
+    },
+    {
+      "number": 12,
+      "text": "I give thanks to you, O Lord my God, with my whole heart, and I will glorify your name forever.",
+      "arminianNotes": "I give thanks to you, O Lord my God, with my whole heart, and I will glorify your name forever. Shared: whole-heart thanks; forever glory to the Name.\n\nArminian pastoral: thanksgiving matches the united heart of v. 11. Forever is the horizon of praise.",
+      "reformedNotes": "Calvin: engages to celebrate praises not only with mouth but sincere affection, with steadfast perseverance.\n\nReformed pastoral: shared—whole heart; forever. Gratitude is vowed, not merely felt once."
+    },
+    {
+      "number": 13,
+      "text": "For great is your steadfast love toward me; you have delivered my soul from the depths of Sheol.",
+      "arminianNotes": "For great is your steadfast love toward me; you have delivered my soul from the depths of Sheol. Wesley: Hell—extreme dangers and miseries. Shared: great hesed; deliverance from Sheol's depths.\n\nArminian pastoral: lowest dangers magnify mercy. Read Sheol as extremity of misery, not a speculative map.",
+      "reformedNotes": "Calvin: singular proof of mercy—thrust down into lowest depths, requiring God's hand stretched out wonderfully. In Christ a still deeper abyss is escaped.\n\nReformed pastoral: shared—great love; delivered from Sheol's depths. Prolonged life was David's praise; gospel deliverance demands more."
+    },
+    {
+      "number": 14,
+      "text": "O God, insolent men have risen up against me; a band of ruthless men seeks my life, and they do not set you before them.",
+      "arminianNotes": "O God, insolent men have risen up against me; a band of ruthless men seeks my life, and they do not set you before them. Shared: proud/ruthless assault; no fear of God before them.\n\nArminian pastoral: name the insolence honestly. Godlessness of foes explains their cruelty.",
+      "reformedNotes": "Calvin: proud and strong rush to destroy; no regard to God means extreme excess of cruelty—lusts dare anything without fear of judgment.\n\nReformed pastoral: shared—insolent band; life sought; God not set before them. Seek remedy in divine mercy next."
+    },
+    {
+      "number": 15,
+      "text": "But you, O Lord, are a God merciful and gracious, slow to anger and abounding in steadfast love and faithfulness.",
+      "arminianNotes": "But you, O Lord, are a God merciful and gracious, slow to anger and abounding in steadfast love and faithfulness. Shared: Exodus 34:6 attributes answer the proud.\n\nArminian pastoral: turn from foes to the Name. Mercy, grace, slowness to anger, hesed and truth are the shield.",
+      "reformedNotes": "Calvin: from Exod 34:6—merciful, ready to forgive, long-suffering, abundant in mercy and truth. God by nature gracious; severity compelled by obstinate wickedness. Truth joined to mercy because we distrust promises.\n\nReformed pastoral: shared—merciful, gracious, slow to anger, abounding in love and faithfulness. Nature of God allays terror under scourges."
+    },
+    {
+      "number": 16,
+      "text": "Turn to me and be gracious to me; give your strength to your servant, and save the son of your maidservant.",
+      "arminianNotes": "Turn to me and be gracious to me; give your strength to your servant, and save the son of your maidservant. Shared: turn, grace, strength, save the household servant.\n\nArminian pastoral: apply the attributes of v. 15 to this servant. Strength given is grace's muscle.",
+      "reformedNotes": "Calvin: apply mercy to himself; proceeds from free goodness. Servant and son of handmaid urge long ancestral grace—born a household servant—not boasting of services.\n\nReformed pastoral: shared—turn; be gracious; give strength; save. Destitution of own strength confesses need."
+    },
+    {
+      "number": 17,
+      "text": "Show me a sign of your favor, that those who hate me may see and be put to shame because you, Lord, have helped me and comforted me.",
+      "arminianNotes": "Show me a sign of your favor, that those who hate me may see and be put to shame because you, Lord, have helped me and comforted me. Shared close: token of favor; haters shamed by help and comfort.\n\nArminian pastoral: ask a visible good for God's glory before scoffers. Help and comfort are the LORD's signature.",
+      "reformedNotes": "Calvin: desire for a token implies feeling forsaken; steadfastness descries light in darkness. Enemies mocked trust; shame them by God's succor.\n\nReformed pastoral: shared—sign of favor; haters ashamed; helped and comforted. Faith asks a token without despising the hidden God."
+    }
+  ]
+}

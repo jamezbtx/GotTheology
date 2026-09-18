@@ -1,0 +1,255 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 69,
+  "verseStart": 1,
+  "verseEnd": 36,
+  "translation": "ESV",
+  "title": "Psalm 69:1–36",
+  "context": "To the choirmaster: according to Lilies. Of David. Waters to the neck, zeal for the house, gall and sour wine, imprecations on persecutors, then praise that pleases more than sacrifice and a promise that God will save Zion.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on drowning distress, zeal for God’s house, vinegar at the cross, and serious imprecation—so each camp speaks in its own voice beside Psalm 69.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Zeal—That fervent love which I have for thy house and service, and glory, and people. Eaten—Exhausted my spirits. Upon me—I have been as deeply affected with thy reproaches, as with mine own. This tho' truly belonging to David, yet was also directed by the spirit of God in him, to represent the disposition and condition of Christ, in whom it was more fully accomplished, to whom therefore it is applied in the New Testament, the first part of it, John 2:17, and the latter, Rom 15:3. Vinegar—These things were metaphorically fulfilled in David, but properly in Christ.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 69:9, 21)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "For the zeal of thy house hath eaten me up… David… affirms that he is fighting in God’s quarrel… by the zeal for the Church of God with which his soul was inflamed… It is, therefore, not surprising to find the Evangelists applying this passage to Christ (John 2:17). In like manner, Paul, in Romans 15:3… They put gall into my meat… the Apostle John justly declares that this Scripture was fulfilled when the soldiers gave Christ vinegar to drink upon the cross (John 19:28–30).",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 69:9, 21)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Save me, O God! For the waters have come up to my neck.",
+      "arminianNotes": "Waters to the neck—save me. Wesley: waters mean tribulations. The cry is desperate and real.\n\nArminian pastoral: drowning distress does not cancel prayer; grace enables the call when the soul is nearly under.",
+      "reformedNotes": "Calvin: waters enter unto the heart—suffocation forced them in. Even a courageous man reaches the brink of despair. Shared: save me is the first word."
+    },
+    {
+      "number": 2,
+      "text": "I sink in deep mire, where there is no foothold; I have come into deep waters, and the flood sweeps over me.",
+      "arminianNotes": "Deep mire, no foothold; flood sweeps. Standing is gone.\n\nBoth camps hear utter helplessness—deliverance must come from outside the slough.",
+      "reformedNotes": "Calvin: in mire there is no springing up; flood brings disorder. Shared: no foothold left."
+    },
+    {
+      "number": 3,
+      "text": "I am weary with my crying out; my throat is parched. My eyes grow dim with waiting for my God.",
+      "arminianNotes": "Weary crying; throat parched; eyes dim waiting.\n\nArminian note: waiting is persevering faith that can still grow faint—keep crying.",
+      "reformedNotes": "Calvin: weary does not mean he quit; hoarse throat and failing eyes mark untiring perseverance. Shared: waiting for God."
+    },
+    {
+      "number": 4,
+      "text": "More in number than the hairs of my head are those who hate me without cause; mighty are those who would destroy me, those who attack me with lies. What I did not steal must I now restore?",
+      "arminianNotes": "Hate without cause; restore what I did not steal. Wesley: restored for peace’s sake. John 15:25 cites without-cause hatred of Christ.\n\nArminian pastoral: innocent suffering under lies is real.",
+      "reformedNotes": "Calvin: mortal hatred kingdom-wide; without cause; liars. Good conscience under false accusation. Shared christology: hated without cause."
+    },
+    {
+      "number": 5,
+      "text": "O God, you know my folly; the wrongs I have done are not hidden from you.",
+      "arminianNotes": "You know my folly; wrongs not hidden. Wesley: innocent toward enemies, yet guilty of many sins against God.\n\nArminian weight: confession before God remains necessary even when enemies lie.",
+      "reformedNotes": "Calvin: irony—he flees to God as defender of his cause; integrity known to God. Shared: nothing hidden.",
+      "keyContrast": "Both place folly before God while enemies lie. Arminians typically stress sincere confession of real faults toward God; Reformed readers typically hear ironic appeal from calumny to the God who knows."
+    },
+    {
+      "number": 6,
+      "text": "Let not those who hope in you be put to shame through me, O Lord God of hosts; let not those who seek you be brought to dishonor through me, O God of Israel.",
+      "arminianNotes": "Let not hopers be shamed through me. Wesley: if they see me forsaken they will be discouraged.\n\nArminian pastoral: one believer’s fall can stumble seekers.",
+      "reformedNotes": "Calvin: set forth as example of hope or despair; prayer that seekers not be ashamed in him. Shared: corporate stake."
+    },
+    {
+      "number": 7,
+      "text": "For it is for your sake that I have borne reproach, that dishonor has covered my face.",
+      "arminianNotes": "For your sake—reproach and dishonor. Wesley: for obedience and zeal for glory.\n\nArminian note: reproach for God’s sake is costly discipleship.",
+      "reformedNotes": "Calvin: cause is God’s; hatred for the anointing. Shared: for-your-sake suffering."
+    },
+    {
+      "number": 8,
+      "text": "I have become a stranger to my brothers, an alien to my mother's sons.",
+      "arminianNotes": "Stranger to brothers; alien to mother’s sons.\n\nBoth camps take the alienation seriously—loyalty to God can estrange kin.",
+      "reformedNotes": "Calvin: when devotion displeases brethren, follow God, not flesh and blood. Shared: alien at home."
+    },
+    {
+      "number": 9,
+      "text": "For zeal for your house has consumed me, and the reproaches of those who reproach you have fallen on me.",
+      "arminianNotes": "Zeal for your house consumed me; reproaches of you fell on me. Wesley: applied more fully to Christ—John 2:17 and Romans 15:3.\n\nArminian christology: David’s zeal prefigures Christ’s.",
+      "reformedNotes": "Calvin: fighting God’s quarrel; Evangelists apply to Christ; Paul applies the second member to the faithful. Shared messianic reading.",
+      "keyContrast": "Both hear David and, more fully, Christ. Shared christology on zeal and transferred reproach."
+    },
+    {
+      "number": 10,
+      "text": "When I wept and humbled my soul with fasting, it became my reproach.",
+      "arminianNotes": "Weeping and fasting became reproach. Wesley: wept for their impiety; they derided him.\n\nArminian note: pious sorrow can be mocked—still do it.",
+      "reformedNotes": "Calvin: signs of pure zeal turned into mockery. Shared: fasting mocked."
+    },
+    {
+      "number": 11,
+      "text": "When I made sackcloth my clothing, I became a byword to them.",
+      "arminianNotes": "Sackcloth; byword. Wesley: proverb of reproach.\n\nBoth: humiliation garb becomes joke.",
+      "reformedNotes": "Calvin: mourning tokens turned to jest. Shared: byword."
+    },
+    {
+      "number": 12,
+      "text": "I am the talk of those who sit in the gate, and the drunkards make songs about me.",
+      "arminianNotes": "Talk of the gate; drunkards’ songs. Wesley: vain idle persons in gates and markets.\n\nArminian pastoral: public scorn is real pressure; prayer remains the answer.",
+      "reformedNotes": "Calvin: even judges join the mockery. Shared: song of drunkards."
+    },
+    {
+      "number": 13,
+      "text": "But as for me, my prayer is to you, O Lord. At an acceptable time, O God, in the abundance of your steadfast love answer me in your saving faithfulness.",
+      "arminianNotes": "Prayer at an acceptable time; steadfast love; saving faithfulness. Wesley: according to saving faithfulness.\n\nArminian hope: acceptable time is sought and waited for—pray on.",
+      "reformedNotes": "Calvin: driven from the world to God; hope shining in darkness. Shared: abundance of mercy."
+    },
+    {
+      "number": 14,
+      "text": "Deliver me from sinking in the mire; let me be delivered from my enemies and from the deep waters.",
+      "arminianNotes": "Deliver from mire, enemies, deep waters.\n\nBoth: salvation must lift out of what already swallowed.",
+      "reformedNotes": "Calvin: previously sunk; now prays not to sink—hope looking to the issue. Shared: deliver me."
+    },
+    {
+      "number": 15,
+      "text": "Let not the flood sweep over me, or the deep swallow me up, or the pit close its mouth over me.",
+      "arminianNotes": "Flood, deep, pit’s mouth. Total engulfment feared.\n\nArminian plea: ask that the pit not close—grace hears distress.",
+      "reformedNotes": "Calvin: let not weight of affliction swallow. Shared: pit language."
+    },
+    {
+      "number": 16,
+      "text": "Answer me, O Lord, for your steadfast love is good; according to your abundant mercy, turn to me.",
+      "arminianNotes": "Steadfast love good; abundant mercy—turn to me.\n\nArminian pastoral: plead mercy that can be sought.",
+      "reformedNotes": "Calvin: hard to believe God merciful when He seems angry; only His character sustains hope. Shared: love and mercy."
+    },
+    {
+      "number": 17,
+      "text": "Hide not your face from your servant, for I am in distress; make haste to answer me.",
+      "arminianNotes": "Hide not your face; distress; make haste.\n\nArminian note: haste prayed for is sincere dependence.",
+      "reformedNotes": "Calvin: hide-face fear from delayed help; still God’s servant. Shared: make haste."
+    },
+    {
+      "number": 18,
+      "text": "Draw near to my soul, redeem me; ransom me because of my enemies!",
+      "arminianNotes": "Draw near; redeem; ransom because of enemies.\n\nBoth: God must come close; enemies press the need.",
+      "reformedNotes": "Calvin: Draw near implies felt distance; faith still asks nearness. Shared: redeem me."
+    },
+    {
+      "number": 19,
+      "text": "You know my reproach, and my shame and my dishonor; my foes are all known to you.",
+      "arminianNotes": "You know reproach, shame, dishonor; foes known.\n\nArminian comfort: God knows—pray from that knowledge.",
+      "reformedNotes": "Calvin: Providence not overcast; God witness of grief. Shared: all before thee."
+    },
+    {
+      "number": 20,
+      "text": "Reproaches have broken my heart, so that I am in despair. I looked for pity, but there was none, and for comforters, but I found none.",
+      "arminianNotes": "Reproach broke the heart; no pity, no comforters.\n\nArminian pastoral: broken heart still looks—and may find none but God.",
+      "reformedNotes": "Calvin: not without struggle; no human relief. Shared: broken heart."
+    },
+    {
+      "number": 21,
+      "text": "They gave me poison for food, and for my thirst they gave me sour wine to drink.",
+      "arminianNotes": "Poison for food; sour wine for thirst. Wesley: metaphorically David, properly Christ.\n\nArminian christology: Spirit intended Christ’s sufferings principally here.",
+      "reformedNotes": "Calvin: John rightly sees fulfillment when soldiers give vinegar. Shared messianic reading.",
+      "keyContrast": "Both land messianic fulfillment at the cross without inventing an Arminian/Reformed split on the vinegar."
+    },
+    {
+      "number": 22,
+      "text": "Let their own table before them become a snare; and when they are at peace, let it become a trap.",
+      "arminianNotes": "Table become snare and trap. Wesley: punishment answers the sin of gall.\n\nArminian note: imprecation is serious judicial plea, not private spite.",
+      "reformedNotes": "Calvin: Spirit-guided imprecation within duty; not reckless revenge. Shared: table/snare seriousness.",
+      "keyContrast": "Both take imprecation seriously. Arminians typically hear a real judicial cry under oppression; Reformed readers typically stress Spirit-kept bounds and judgment on the reprobate."
+    },
+    {
+      "number": 23,
+      "text": "Let their eyes be darkened, so that they cannot see, and make their loins tremble continually.",
+      "arminianNotes": "Eyes darkened; loins tremble. Wesley: minds judicially blinded; strength taken.\n\nArminian pastoral: judicial hardening warns against shutting eyes.",
+      "reformedNotes": "Calvin: deprive of counsel and strength. Shared: darkening."
+    },
+    {
+      "number": 24,
+      "text": "Pour out your indignation upon them, and let your burning anger overtake them.",
+      "arminianNotes": "Pour indignation; burning anger.\n\nBoth refuse to soft-pedal divine anger against persecutors of the godly.",
+      "reformedNotes": "Calvin: imprecations to terrify frantic enemies and comfort believers. Shared: pour out."
+    },
+    {
+      "number": 25,
+      "text": "May their camp be a desolation; let no one dwell in their tents.",
+      "arminianNotes": "Camp desolate; empty tents. Related judgment language appears in Acts 1:20.\n\nArminian note: desolation of the hostile camp is prayed as public justice.",
+      "reformedNotes": "Calvin: wrath may reach posterity per the law’s threat. Shared: desolate habitation."
+    },
+    {
+      "number": 26,
+      "text": "For they persecute him whom you have struck down, and they recount the pain of those you have wounded.",
+      "arminianNotes": "Persecute whom you struck; recount the wounded’s pain. Wesley: barbarous cruelty; triumph in calamities.\n\nArminian weight: piling on the God-struck is extra guilt.",
+      "reformedNotes": "Calvin: smitten as God’s child under discipline; persecuting the wounded adds damnation. Shared: cruelty aggravates."
+    },
+    {
+      "number": 27,
+      "text": "Add to them punishment upon punishment; may they have no acquittal from you.",
+      "arminianNotes": "Punishment upon punishment; no acquittal. Wesley: give up to lusts; not partake mercy.\n\nArminian reading: exclusion from mercy is a real sentence prayed against hardened foes.",
+      "reformedNotes": "Calvin: give over to reprobate mind; not enter righteousness. Shared: no acquittal."
+    },
+    {
+      "number": 28,
+      "text": "Let them be blotted out of the book of the living; let them not be enrolled among the righteous.",
+      "arminianNotes": "Blotted from book of living; not enrolled with righteous. Wesley: eternal life.\n\nArminian pastoral: enrollment language warns—apostasy is not a game.",
+      "reformedNotes": "Calvin: book of life as election purpose; hypocrites blotted as openly rejected; elect finally not cut off. Shared seriousness; classic fork on perseverance.",
+      "keyContrast": "Both treat blotting as ultimate. Arminians typically hear real exclusion from life; Reformed readers typically hear judgment revealing who were never written among the righteous."
+    },
+    {
+      "number": 29,
+      "text": "But I am afflicted and in pain; let your salvation, O God, set me on high!",
+      "arminianNotes": "Afflicted and in pain; salvation set me on high. Wesley: out of enemies’ reach.\n\nArminian hope: salvation lifts the poor sufferer who still asks.",
+      "reformedNotes": "Calvin: broken humility vs raging revenge; salvation shall exalt. Shared: set on high."
+    },
+    {
+      "number": 30,
+      "text": "I will praise the name of God with a song; I will magnify him with thanksgiving.",
+      "arminianNotes": "Praise with song; magnify with thanksgiving.\n\nBoth: praise is the fitting answer when God saves.",
+      "reformedNotes": "Calvin: elevated with joy; God magnified among men by praise. Shared: song."
+    },
+    {
+      "number": 31,
+      "text": "This will please the Lord more than an ox or a bull with horns and hoofs.",
+      "arminianNotes": "Pleases more than ox or bull. Wesley: hearty praise over glorious legal sacrifices.\n\nArminian note: thanksgiving is the sacrifice God prefers—offer it.",
+      "reformedNotes": "Calvin: spiritual service preferred to Levitical pomp. Shared: better than bull."
+    },
+    {
+      "number": 32,
+      "text": "When the humble see it they will be glad; you who seek God, let your hearts revive.",
+      "arminianNotes": "Humble glad; seekers’ hearts revive. Wesley: dejected revived.\n\nArminian pastoral: one deliverance revives many seekers.",
+      "reformedNotes": "Calvin: effects extend to others; pledge of grace. Shared: hearts revive."
+    },
+    {
+      "number": 33,
+      "text": "For the Lord hears the needy and does not despise his own people who are prisoners.",
+      "arminianNotes": "Lord hears needy; does not despise prisoner-people. Wesley: prison or affliction for his sake.\n\nArminian comfort: needy prayer is heard.",
+      "reformedNotes": "Calvin: deliverance of one signals care for all oppressed. Shared: hears the needy."
+    },
+    {
+      "number": 34,
+      "text": "Let heaven and earth praise him, the seas and everything that moves in them.",
+      "arminianNotes": "Heaven, earth, seas praise.\n\nBoth widen praise beyond the individual.",
+      "reformedNotes": "Calvin: hyperbole teaching ardor; concern for Church preservation. Shared: all creation praise."
+    },
+    {
+      "number": 35,
+      "text": "For God will save Zion and build up the cities of Judah, and people shall dwell there and possess it;",
+      "arminianNotes": "God will save Zion; build Judah; dwell and possess. Wesley: church and people; literal then heavenly Canaan.\n\nArminian hope: Zion’s future is promised and believed.",
+      "reformedNotes": "Calvin: speaks for the Church; blessing from the sanctuary. Shared: save Zion."
+    },
+    {
+      "number": 36,
+      "text": "the offspring of his servants shall inherit it, and those who love his name shall dwell in it.",
+      "arminianNotes": "Offspring of servants inherit; those who love his name dwell.\n\nArminian note: loving the name is the mark of dwellers—love grace enables and requires.",
+      "reformedNotes": "Calvin: true seed who love the name, not hypocrite boasters. Shared: love his name.",
+      "keyContrast": "Both end on lovers of the Name inheriting. Arminians typically stress love as living response; Reformed readers typically stress the true seed vs hypocrites."
+    }
+  ]
+}

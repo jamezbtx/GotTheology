@@ -1,0 +1,76 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 11,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Hebrews 11:1–7",
+  "context": "After urging endurance so that the just may live by faith, the writer defines faith as assurance of things hoped for and conviction of things not seen. By it the people of old were commended. Creation itself is grasped by faith; Abel, Enoch, and Noah then stand as first exemplars—sacrifice accepted, pleasing God, and an ark built for a flood not yet seen.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the definition of faith, creation by God’s word, and the first faith-exemplars—Abel, Enoch, and Noah—so each camp speaks in its own voice beside Hebrews 11:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The definition of faith given in this verse, and exemplified in the various instances following, undoubtedly includes justifying faith, but not directly as justifying. For faith justifies only as it refers to, and depends on, Christ. Now faith is the subsistence of things hoped for, the evidence or conviction of things not seen—giving a kind of present subsistence to the good things which God has promised; the divine supernatural evidence exhibited to, the conviction hereby produced in, a believer of things not seen, whether past, future, or spiritual; particularly of God and the things of God. Without faith—even some divine faith in God—it is impossible to please him. For he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Hebrews 11:1, 6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Greatly mistaken are they who think that an exact definition of faith is given here; for the Apostle does not speak here of the whole of what faith is, but selects that part of it which was suitable to his purpose, even that it has patience ever connected with it. Faith, he says, is the hypostasis, the prop, or the foundation on which we plant our foot—of things absent, which are so far from being really possessed by us, that they are far beyond the reach of our understanding. Promised to us is eternal life, but it is promised to the dead; we are pronounced just, as yet sin dwells in us. What would become of us were we not supported by hope, and did not our minds emerge out of darkness through the light of God’s word and of his Spirit? Faith will only then be complete and secure us God’s favor, when we shall feel a confidence that we shall not seek him in vain. This confidence recumbs not on works, nor on man’s own worthiness, but on the grace of God alone; and as grace is nowhere found but in Christ, it is on him alone that faith ought to be fixed.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Hebrews 11:1, 6)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now faith is the assurance of things hoped for, the conviction of things not seen.",
+      "arminianNotes": "Wesley: the definition includes justifying faith, but not directly as justifying—faith justifies only as it refers to and depends on Christ. Faith is the subsistence of things hoped for, giving a kind of present subsistence to the good things God has promised; the divine supernatural evidence and conviction of things not seen, particularly of God and the things of God.\n\nClassical Arminians hear a living trust that God really gives to hearers who believe—assurance and conviction as the believer’s present grasp of what God has promised. Do not invent a faith that never needs Christ; Wesley immediately ties justifying faith to dependence on Him. Yet the catalog that follows shows this same faith exercised in obedience amid difficulties.",
+      "reformedNotes": "Calvin: this is not an exact definition of the whole of faith, but that part suited to the purpose—that faith has patience ever connected with it. Faith is the hypostasis, the prop of things absent, beyond our understanding; the Spirit shows hidden things the senses cannot reach.\n\nReformed reading: assurance here is not a human climb into certainty, but the Spirit-wrought support of hope under delay. The just live by faith (10:38); faith regards what is waited for. Do not flatten this into bare optimism; it is God’s word and Spirit lifting the mind above the world.",
+      "keyContrast": "Both refuse a works-righteousness reading of faith and both call hearers to endure what is not yet seen. Arminians typically hear Wesley’s living subsistence and conviction as the believer’s real grasp of promised goods—including justifying faith as it depends on Christ. Reformed readers typically hear Calvin’s caution that this is not the whole of faith defined, but faith as the Spirit-given prop of hope, patience included—assurance resting on grace in Christ, not on the believer’s native certainty."
+    },
+    {
+      "number": 2,
+      "text": "For by it the people of old received their commendation.",
+      "arminianNotes": "Wesley: by it the elders—our forefathers—obtained a good testimony. This chapter is a kind of summary of the Old Testament: designs, labours, sojournings, expectations, temptations, martyrdoms. God gave a testimony not only of them but to them; they received His testimony as if it had been the things themselves.\n\nClassical Arminians hear commendation as God’s real approval of those who believed and obeyed. The catalog is for hearers who may likewise trust and endure. Do not shrink “people of old” into a closed museum of elect names with no pastoral force for sincere seekers.",
+      "reformedNotes": "Calvin: he handles this subject to the end of the chapter—that the fathers obtained salvation and were accepted by God in no other way than by faith. The hinge: all the fathers from the beginning were approved by being united to Him by faith.\n\nReformed accent: commendation is God’s testimony, not ancestral magic. As soon as faith is renounced, one is banished from the Church’s true unity with the fathers. The Jews’ foolish admiration of the fathers without faith is exposed."
+    },
+    {
+      "number": 3,
+      "text": "By faith we understand that the universe was created by the word of God, so that what is seen was not made out of things that are visible.",
+      "arminianNotes": "Wesley: by faith we understand that the worlds—heaven and earth and all in them—were formed, fashioned, and finished by the word, the sole command of God, without instrument or preceding matter. As creation is the foundation of the whole divine economy, so faith in the creation is the foundation and specimen of all faith.\n\nClassical Arminians hear creation faith as the specimen of all trusting God’s word: what is seen was not made of things that appear. This is for every hearer who will believe God’s speech, not a private insight reserved for a hidden few.",
+      "reformedNotes": "Calvin: it is by faith alone we know that it was God who created the world. Men’s minds are wholly blind until, irradiated by God’s Spirit, they begin to understand by faith what otherwise they cannot comprehend. Those who have faith do not entertain a slight opinion, but a deep conviction of the true God—His power, goodness, wisdom, and justice.\n\nReformed confession: creation is grasped by Spirit-given faith, not by bare natural opinion. The world is the theater of divine glory; the faithful see sparks of His glory in every created thing."
+    },
+    {
+      "number": 4,
+      "text": "By faith Abel offered to God a more acceptable sacrifice than Cain, through which he was commended as righteous, God commending him by accepting his gifts. And through his faith, though he died, he still speaks.",
+      "arminianNotes": "Wesley: by faith—in the future Redeemer—Abel offered a more excellent sacrifice, the firstlings of his flock, implying confession of what his sins deserved and desire of sharing in the great atonement. Cain’s offering testified no such faith, but a bare acknowledgment of God the Creator. By this faith, being dead, he yet speaketh—that a sinner is accepted only through faith in the great sacrifice.\n\nClassical Arminians hear Abel as a model for sincere worshipers who come by faith in the Redeemer. God testifies by accepting gifts; the dead still speak this gospel. Do not invent a sacrifice that earns apart from faith.",
+      "reformedNotes": "Calvin: Abel’s sacrifice was preferable only because it was sanctified by faith. God had respect to Abel, and to his gifts—so the sacrifice was accepted because he himself was graciously accepted. How did he obtain this favor, except that his heart was purified by faith? No works please God until we ourselves are received into favor.\n\nReformed accent: God regards the inward purity of the heart, not outward masks of works. Though dead, Abel still speaks; God cared for him after death—evidence he was one of God’s saints whose death is precious to Him."
+    },
+    {
+      "number": 5,
+      "text": "By faith Enoch was taken up so that he should not see death, and he was not found, because God had taken him. Now before he was taken he was commended as having pleased God.",
+      "arminianNotes": "Wesley: Enoch was not any longer found among men, though perhaps they sought for him as for Elijah. He had this testimony—from God in his own conscience—that he pleased God.\n\nClassical Arminians hear pleasing God as the fruit of a real walk of faith before translation. Enoch models a life God publicly honored. The commendation invites hearers to seek to please God by faith (v. 6), not by speculation about where Enoch now is.",
+      "reformedNotes": "Calvin: through faith it was that Enoch was translated. As righteousness begins with faith, it is justly ascribed to his faith that he pleased God. Leave airy questions about what became of Enoch and Elijah; their translation was a sort of extraordinary death, that they might be renewed into blessed immortality with the other members of Christ.\n\nReformed reading: pleasing God is not a ladder of merit but the fruit of faith. The extraordinary honor displays how dear he was to God amid prevailing impiety."
+    },
+    {
+      "number": 6,
+      "text": "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.",
+      "arminianNotes": "Wesley: without faith—even some divine faith in God—it is impossible to please him. For he that cometh to God, in prayer or another act of worship, must believe that he is, and that he is a rewarder of them that diligently seek him.\n\nClassical Arminians hear a sincere summons: draw near believing God is, and that He rewards those who diligently seek. Seeking is real; the reward is not a wage that purchases God, yet God’s goodness truly answers those who come. Do not invent a God who cannot be sought by the hearer who believes.",
+      "reformedNotes": "Calvin: no one will come to God except he believes that God is, and is convinced that He is a remunerator to all who seek Him. This confidence recumbs not on works nor on man’s worthiness, but on the grace of God alone; and as grace is nowhere found but in Christ, it is on Him alone that faith ought to be fixed. God must anticipate us by His grace.\n\nReformed confession: “rewarder” is not merit-theology. The right way of seeking is the self-despairing flight to Christ. Without faith none please Him; access is opened by faith that rests on free grace."
+    },
+    {
+      "number": 7,
+      "text": "By faith Noah, being warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household. By this he condemned the world and became an heir of the righteousness that comes by faith.",
+      "arminianNotes": "Wesley: Noah being warned of things not seen as yet—of the future deluge—moved with fear, prepared an ark, by which open testimony he condemned the world who neither believed nor feared.\n\nClassical Arminians hear Noah as a model for hearers who take God’s warning seriously before the unseen arrives. Reverent fear and obedience flow from faith; he became heir of the righteousness that comes by faith. The ark condemns unbelief that refuses to fear and prepare.",
+      "reformedNotes": "Calvin: having been warned of things not yet visible, Noah feared, built the ark, condemned the world, and became heir of the righteousness which is by faith. Faith beholds in God’s word things hid from the senses. Obedience flows from faith as water from a fountain; he could not have persevered without resting on the promise of deliverance. Righteousness must necessarily recumb on faith.\n\nReformed accent: Noah’s fortitude is faith’s work. Unbelief prevents obedience. Inheritance of righteousness-by-faith is God’s gift to the believing heir, not a self-made badge."
+    }
+  ]
+}

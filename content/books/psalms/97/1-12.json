@@ -1,0 +1,106 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 97,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 97:1–12",
+  "context": "The Lord reigns—let the earth rejoice and many coastlands be glad. Clouds and thick darkness surround him; righteousness and justice are his throne's foundation. Fire goes before him and burns his adversaries; lightnings light the world; the earth sees and trembles; mountains melt like wax before the Lord of all the earth. The heavens proclaim his righteousness; all peoples see his glory. Idol-worshipers are put to shame; all gods are summoned to worship him. Zion hears and is glad; Judah's daughters rejoice at his judgments. For he is most high over the earth, exalted far above all gods. Those who love the Lord hate evil; he preserves his saints' lives and delivers them from the wicked. Light is sown for the righteous, joy for the upright. Rejoice in the Lord, you righteous, and give thanks to his holy name.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Lord's reign and glad coastlands, clouded majesty with a righteous throne, fire and lightning, idols shamed, Zion glad at judgments, love that hates evil, light sown for the righteous, and thanks to his holy name—so each camp speaks in its own voice beside Psalm 97:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Isles—Gentile nations; so this word in Isa 42:4 is expounded Matt 12:21. Darkness—a dark cloud encompasses him. Heavens—angels, yea God himself from heaven. Confounded—ashamed of their folly. Gods—all objects of Gentile worship. Zion—thy people in Zion/Jerusalem, to whom Christ came. Heard—fame of thy judgments and the setting up of Messiah's kingdom. Light—joy and felicity. Sown—laid up for them.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 97"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Jehovah reigns; let the earth rejoice; many isles be glad. Clouds and darkness round him; righteousness and judgment the base of his throne. Fire goes before him and burns enemies; lightnings light the world; earth sees and trembles; hills melt like wax before the Lord of the whole earth. Heavens declare his righteousness; all people see his glory. Ashamed be image-servants who boast in vanities; all gods, worship him. Zion heard and was glad; daughters of Judah rejoiced at thy judgments. Thou, Jehovah, art high above all the earth, exalted far above all gods. Hate evil, you who love Jehovah; he keeps souls of his saints and delivers them from the wicked. Light is sown for the righteous, gladness for the upright. Rejoice in Jehovah, you righteous; give thanks at the memorial of his holiness. Reign language comforts the Church; darkness hides glory yet righteousness is the throne's foundation.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 97"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The Lord reigns, let the earth rejoice; let the many coastlands be glad!",
+      "arminianNotes": "The Lord reigns—let earth rejoice; many coastlands be glad. Wesley: Isles—Gentile nations (cf. Isa 42:4; Matt 12:21). Shared: reign; earth and coastlands glad.\n\nArminian pastoral: Gentile coastlands are invited into joy. Reign is public good news, not private speculation.",
+      "reformedNotes": "Calvin: Jehovah reigns; earth rejoice; many isles be glad—reign announced so the world may take courage; isles share the summons.\n\nReformed pastoral: shared—Lord reigns; earth and coastlands glad. Royal present tense grounds worldwide rejoicing.",
+      "keyContrast": "Both rejoice that the Lord reigns and that far coasts are glad. Arminians, with Wesley, typically underline the isles as Gentile nations drawn into Messiah's joy (Isa/Matt). Reformed readers, with Calvin, typically underline the reign itself as the Church's shield and the world's call to courage. Shared: present kingship; glad earth."
+    },
+    {
+      "number": 2,
+      "text": "Clouds and thick darkness are all around him; righteousness and justice are the foundation of his throne.",
+      "arminianNotes": "Clouds and thick darkness around him; righteousness and justice the foundation of his throne. Wesley: Darkness—a dark cloud encompasses him. Shared: hidden majesty; righteous foundation.\n\nArminian pastoral: cloud does not cancel justice. What you cannot see still sits on righteousness.",
+      "reformedNotes": "Calvin: clouds and darkness round him; righteousness and judgment the habitation of his throne—majesty veiled, yet the throne's base is moral certainty.\n\nReformed pastoral: shared—clouds; darkness; righteousness; justice. Mystery without moral fog."
+    },
+    {
+      "number": 3,
+      "text": "Fire goes before him and burns up his adversaries all around.",
+      "arminianNotes": "Fire goes before him and burns up his adversaries all around. Shared: preceding fire; consumed foes.\n\nArminian pastoral: adversaries meet holiness as fire. Do not romanticize the burn—fear and trust the King.",
+      "reformedNotes": "Calvin: fire goes before his face and burns enemies round about—judicial flame escorting the reign.\n\nReformed pastoral: shared—fire; burns adversaries. Reign includes judgment, not only cheer."
+    },
+    {
+      "number": 4,
+      "text": "His lightnings light up the world; the earth sees and trembles.",
+      "arminianNotes": "His lightnings light up the world; the earth sees and trembles. Shared: world-lighting; seeing earth trembles.\n\nArminian pastoral: illumination is also alarm. Sight of glory shakes the ground of pride.",
+      "reformedNotes": "Calvin: lightnings lighten the world; earth sees and trembles—manifest power produces holy quake.\n\nReformed pastoral: shared—lightnings; earth trembles. Revelation unsettles before it comforts."
+    },
+    {
+      "number": 5,
+      "text": "The mountains melt like wax before the Lord, before the Lord of all the earth.",
+      "arminianNotes": "Mountains melt like wax before the Lord, before the Lord of all the earth. Shared: melting heights; universal lordship.\n\nArminian pastoral: permanence of mountains is relative. Lord of all the earth outlasts every ridge.",
+      "reformedNotes": "Calvin: hills melt like wax before Jehovah, before the Lord of the whole earth—creation's pillars soften at his presence.\n\nReformed pastoral: shared—melt like wax; Lord of all the earth. Geography yields to the King."
+    },
+    {
+      "number": 6,
+      "text": "The heavens proclaim his righteousness, and all the peoples see his glory.",
+      "arminianNotes": "Heavens proclaim his righteousness; all peoples see his glory. Wesley: Heavens—angels, yea God himself from heaven. Shared: proclaimed righteousness; seen glory.\n\nArminian pastoral: heaven's witness is public. Peoples seeing glory is the point of proclamation.",
+      "reformedNotes": "Calvin: heavens have declared his righteousness; all people seen his glory—open vindication of the reigning God.\n\nReformed pastoral: shared—heavens proclaim; peoples see. Glory is not smuggled in secret only."
+    },
+    {
+      "number": 7,
+      "text": "All worshipers of images are put to shame, who make their boast in worthless idols; worship him, all you gods!",
+      "arminianNotes": "Image-worshipers put to shame; boast in worthless idols; worship him, all you gods! Wesley: Confounded—ashamed of folly; Gods—objects of Gentile worship. Shared: idol shame; summons to worship the true God.\n\nArminian pastoral: shame is mercy's alarm. Even so-called gods are told to bow.",
+      "reformedNotes": "Calvin: ashamed be those who serve graven images and glory in inventions; all gods, worship before him—idolatry exposed; every rival summoned low.\n\nReformed pastoral: shared—shame for idols; worship him. Boast in emptiness ends at his feet."
+    },
+    {
+      "number": 8,
+      "text": "Zion hears and is glad, and the daughters of Judah rejoice, because of your judgments, O Lord.",
+      "arminianNotes": "Zion hears and is glad; daughters of Judah rejoice because of your judgments. Wesley: Zion—people in Zion/Jerusalem to whom Christ came; Heard—fame of judgments and setting up Messiah's kingdom. Shared: Zion glad; Judah rejoices at judgments.\n\nArminian pastoral: judgments are gospel news for Zion. Hearing precedes gladness—keep ears open.",
+      "reformedNotes": "Calvin: Zion heard and was glad; daughters of Judah rejoiced because of thy judgments—covenant city cheers when God vindicates his reign.\n\nReformed pastoral: shared—Zion glad; Judah rejoices at judgments. Holy verdicts are the Church's joy, not embarrassment."
+    },
+    {
+      "number": 9,
+      "text": "For you, O Lord, are most high over all the earth; you are exalted far above all gods.",
+      "arminianNotes": "You, O Lord, are most high over all the earth; exalted far above all gods. Shared: most high; far above gods.\n\nArminian pastoral: height language silences rivals. Exaltation is already true—confess it.",
+      "reformedNotes": "Calvin: thou, Jehovah, art high above all the earth; exalted far above all gods—reason for Zion's gladness.\n\nReformed pastoral: shared—most high; exalted above gods. Vertical supremacy explains horizontal joy (v. 8)."
+    },
+    {
+      "number": 10,
+      "text": "O you who love the Lord, hate evil! He preserves the lives of his saints; he delivers them from the hand of the wicked.",
+      "arminianNotes": "You who love the Lord, hate evil! He preserves saints' lives; delivers from the wicked. Shared: love entails hate of evil; preservation; deliverance.\n\nArminian pastoral: love is not soft on evil. Saints are kept and delivered—live like those loved by a holy King.",
+      "reformedNotes": "Calvin: hate evil, you who love Jehovah; he preserves souls of his meek/saints and delivers them from the wicked—love of God and hatred of evil are paired; preservation is promised.\n\nReformed pastoral: shared—love the Lord; hate evil; preserves; delivers. Ethic and comfort travel together."
+    },
+    {
+      "number": 11,
+      "text": "Light is sown for the righteous, and joy for the upright in heart.",
+      "arminianNotes": "Light is sown for the righteous, and joy for the upright in heart. Wesley: Light—joy and happiness; Sown—laid up for them. Shared: sown light; joy for upright.\n\nArminian pastoral: sown means future harvest, not always present blaze. Wait for the crop of joy.",
+      "reformedNotes": "Calvin: light has been sown for the righteous, gladness for the upright—seed now, harvest sure under the reigning Lord.\n\nReformed pastoral: shared—light sown; joy for upright. Deferred brightness is still secured brightness."
+    },
+    {
+      "number": 12,
+      "text": "Rejoice in the Lord, O you righteous, and give thanks to his holy name!",
+      "arminianNotes": "Rejoice in the Lord, you righteous; give thanks to his holy name. Shared close: rejoice; thanks; holy name.\n\nArminian pastoral: holiness remembered becomes thanksgiving. Righteous joy is God-centered, not self-congratulating.",
+      "reformedNotes": "Calvin: rejoice in Jehovah, you righteous; give thanks at the memorial of his holiness—holy name is the theme of thanks.\n\nReformed pastoral: shared—rejoice; give thanks to his holy name. Reign (v. 1) ends in holy remembrance."
+    }
+  ]
+}

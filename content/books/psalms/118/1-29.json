@@ -1,0 +1,210 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 118,
+  "verseStart": 1,
+  "verseEnd": 29,
+  "translation": "ESV",
+  "title": "Psalm 118:1–29",
+  "context": "Egyptian Hallel climax: thanksgiving for the Lord's goodness and forever steadfast love, confessed by Israel, Aaron, and all who fear Him. Distress yields to answered freedom; refuge in the Lord outranks trust in man or princes; nations surround, yet the Name cuts off. The Lord is strength, song, and salvation; severe discipline does not end in death. Gates of righteousness open; the stone the builders rejected becomes the cornerstone—the Lord's marvelous doing—and hosanna welcomes the one who comes in the Lord's name.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on forever steadfast love, refuge better than princes, and the rejected stone made cornerstone—so each camp speaks in its own voice beside Psalm 118:1–29.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "O give thanks unto the Lord, for he is good; because his mercy endureth for ever. Let Israel now say—and the house of Aaron—and they that fear the Lord. I called upon the Lord in distress; the Lord answered me. It is better to trust in the Lord than to put confidence in man or princes. The Lord is my strength and song, and is become my salvation. I shall not die, but live. The stone which the builders refused is become the head stone of the corner—applied in the New Testament to Christ. This is the Lord's doing; it is marvellous in our eyes. Blessed be he that cometh in the name of the Lord.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 118)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The people are taught to celebrate God's goodness and never-failing mercy. From deep distress the faithful cried and were heard. Confidence in men and princes is declared inferior to refuge in God. Surrounded by nations, they prevail only in His name. God becomes their salvation; chastening is severe yet not unto death. The stone rejected by the builders—Christ refused by the rulers of His people—God has made the cornerstone; this is His doing and marvelous in our eyes. Hosanna and blessing meet the One who comes in the Lord's name.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Psalm 118)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Oh give thanks to the Lord, for he is good; for his steadfast love endures forever!",
+      "arminianNotes": "Oh give thanks to the Lord, for He is good; for His steadfast love endures forever! Wesley opens thanksgiving on goodness and everlasting mercy.\n\nBoth camps: goodness and hesed forever. Shared doxology that frames the whole psalm.",
+      "reformedNotes": "Calvin: thanksgiving is due because God is good and His mercy everlasting. The refrain will gather Israel, Aaron, and God-fearers.\n\nShared: give thanks; He is good; steadfast love forever."
+    },
+    {
+      "number": 2,
+      "text": "Let Israel say, “His steadfast love endures forever.”",
+      "arminianNotes": "Let Israel say, \"His steadfast love endures forever.\" National voice rehearses the refrain.\n\nBoth camps: Israel must speak mercy aloud.",
+      "reformedNotes": "Calvin: Israel is to confess everlasting mercy as corporate memory and faith.\n\nShared: Let Israel say; steadfast love forever."
+    },
+    {
+      "number": 3,
+      "text": "Let the house of Aaron say, “His steadfast love endures forever.”",
+      "arminianNotes": "Let the house of Aaron say the same. Priests lead the confession they need as much as the people.\n\nShared: Aaron's house; steadfast love forever.",
+      "reformedNotes": "Calvin: Aaron's house must not trust altar without mercy's refrain.\n\nShared: house of Aaron say; steadfast love forever."
+    },
+    {
+      "number": 4,
+      "text": "Let those who fear the Lord say, “His steadfast love endures forever.”",
+      "arminianNotes": "Let those who fear the Lord say it—widening beyond tribe and priesthood to all God-fearers.\n\nArminian hearing: the fearers' circle anticipates Gentile inclusion under the same forever mercy.",
+      "reformedNotes": "Calvin: all who fear the Lord join the same confession—true religion's common creed.\n\nShared: those who fear the Lord; steadfast love forever."
+    },
+    {
+      "number": 5,
+      "text": "Out of my distress I called on the Lord; the Lord answered me and set me free.",
+      "arminianNotes": "Out of my distress I called on the Lord; the Lord answered me and set me free. Prayer from a tight place; answer as spacious freedom.\n\nClassical Arminians: calling and answering are real interpersonal mercy—distress sincerely heard.",
+      "reformedNotes": "Calvin: from straits the psalmist cried; the Lord answered into a broad place. Deliverance is God's act.\n\nShared: called; answered; set me free.",
+      "keyContrast": "Both confess that distress-prayer is answered with freedom. Arminians typically emphasize a sincere divine willingness to answer those who call. Reformed readers typically emphasize that the answering Lord effectually delivers His own according to His purpose, the cry itself granted in grace."
+    },
+    {
+      "number": 6,
+      "text": "The Lord is on my side; I will not fear. What can man do to me?",
+      "arminianNotes": "The Lord is on my side; I will not fear. What can man do to me? Courage from alliance with God, not from denial of enemies.\n\nBoth camps: holy fearlessness. Shared: the Lord on my side.",
+      "reformedNotes": "Calvin: with God as advocate, human threat is relativized. Fear is expelled by presence.\n\nShared: I will not fear; what can man do?"
+    },
+    {
+      "number": 7,
+      "text": "The Lord is on my side as my helper; I shall look in triumph on those who hate me.",
+      "arminianNotes": "The Lord is on my side as my helper; I shall look in triumph on those who hate me. Help first; triumph as consequence.\n\nArminian pastoral: triumph is God's help seen, not personal vindictiveness baptized.",
+      "reformedNotes": "Calvin: God as helper secures the outlook of victory over haters—vindication by the Lord.\n\nShared: helper; look in triumph."
+    },
+    {
+      "number": 8,
+      "text": "It is better to take refuge in the Lord than to trust in man.",
+      "arminianNotes": "It is better to take refuge in the Lord than to trust in man. Comparative wisdom—refuge outranks human reliance.\n\nBoth camps: man-trust fails; Lord-refuge holds.",
+      "reformedNotes": "Calvin: refuge in the Lord is incomparably better than confidence in flesh.\n\nShared: better to take refuge in the Lord than to trust in man."
+    },
+    {
+      "number": 9,
+      "text": "It is better to take refuge in the Lord than to trust in princes.",
+      "arminianNotes": "Better refuge in the Lord than trust in princes. Rank does not redeem unreliability.\n\nBoth camps: political saviors are not the Rock.",
+      "reformedNotes": "Calvin doubles the warning: princes fail as surely as common men when made ultimate trust.\n\nShared: better than to trust in princes."
+    },
+    {
+      "number": 10,
+      "text": "All nations surrounded me; in the name of the Lord I cut them off!",
+      "arminianNotes": "All nations surrounded me; in the name of the Lord I cut them off! Encirclement met by the Name, not by autonomous strength.\n\nBoth camps: victory credited to the Lord's name.",
+      "reformedNotes": "Calvin: surrounded by nations, the king (and the Church in him) prevails only in Jehovah's name.\n\nShared: in the name of the Lord I cut them off!"
+    },
+    {
+      "number": 11,
+      "text": "They surrounded me, surrounded me on every side; in the name of the Lord I cut them off!",
+      "arminianNotes": "Surrounded on every side—repetition paints pressure; again the Name cuts off.\n\nShared refrain of dependence.",
+      "reformedNotes": "Calvin hears intensified siege language answered by the same confession: only the Name saves.\n\nShared: surrounded on every side; name of the Lord."
+    },
+    {
+      "number": 12,
+      "text": "They surrounded me like bees; they went out like a fire among thorns; in the name of the Lord I cut them off!",
+      "arminianNotes": "Like bees—swarming fury; like fire among thorns—fierce yet quickly spent. The Name still decides.\n\nBoth camps: vivid foes, same refuge.",
+      "reformedNotes": "Calvin: bee-swarm and thorn-fire images show rage that cannot overthrow those kept by the Name.\n\nShared: like bees; name of the Lord."
+    },
+    {
+      "number": 13,
+      "text": "I was pushed hard, so that I was falling, but the Lord helped me.",
+      "arminianNotes": "I was pushed hard, so that I was falling, but the Lord helped me. Near-fall, real help.\n\nArminian comfort: help meets the falling; grace is timely.",
+      "reformedNotes": "Calvin: pushed toward falling, yet upheld by the Lord's help—preservation in extremity.\n\nShared: pushed hard; the Lord helped me."
+    },
+    {
+      "number": 14,
+      "text": "The Lord is my strength and my song; he has become my salvation.",
+      "arminianNotes": "The Lord is my strength and my song; He has become my salvation. Exodus echo (Ex 15:2)—strength, song, salvation in one Lord.\n\nBoth camps: salvation is God Himself become ours in deliverance.",
+      "reformedNotes": "Calvin: strength and song meet in the God who has become salvation—personal appropriation of redeeming power.\n\nShared: strength and song; become my salvation."
+    },
+    {
+      "number": 15,
+      "text": "Glad songs of salvation are in the tents of the righteous: “The right hand of the Lord does valiantly,",
+      "arminianNotes": "Glad songs of salvation in the tents of the righteous: the right hand of the Lord does valiantly. Households of the righteous become choir lofts.\n\nBoth camps: salvation produces song; the right hand is God's.",
+      "reformedNotes": "Calvin: tents of the righteous ring with salvation's joy; valor is ascribed to Jehovah's right hand.\n\nShared: glad songs; right hand does valiantly."
+    },
+    {
+      "number": 16,
+      "text": "the right hand of the Lord exalts, the right hand of the Lord does valiantly!”",
+      "arminianNotes": "The right hand of the Lord exalts, does valiantly! Triple right-hand stress—exaltation and valor from God alone.\n\nShared: right hand exalts.",
+      "reformedNotes": "Calvin repeats the right hand so no secondary cause steals the glory of exaltation.\n\nShared: right hand of the Lord exalts."
+    },
+    {
+      "number": 17,
+      "text": "I shall not die, but I shall live, and recount the deeds of the Lord.",
+      "arminianNotes": "I shall not die, but I shall live, and recount the deeds of the Lord. Life granted for testimony.\n\nBoth camps: preserved life is for recounting deeds, not private hoarding.",
+      "reformedNotes": "Calvin: not death but life—and the purpose is to narrate the Lord's deeds publicly.\n\nShared: I shall not die, but live, and recount."
+    },
+    {
+      "number": 18,
+      "text": "The Lord has disciplined me severely, but he has not given me over to death.",
+      "arminianNotes": "The Lord has disciplined me severely, but He has not given me over to death. Severe mercy—discipline without abandonment.\n\nClassical Arminians: fatherly discipline aims at restoration; it is not proof of a will to destroy the believer.",
+      "reformedNotes": "Calvin: severe discipline stopped short of death—chastening within covenant care, not final rejection.\n\nReformed accent: paternal correction of those who are His. Shared: disciplined severely; not given over to death.",
+      "keyContrast": "Both confess severe discipline that stops short of death. Arminians typically hear fatherly correction consistent with a sincere will to save and restore. Reformed readers typically hear covenant chastening of the elect that never becomes final reprobation, appointed in wise sovereignty."
+    },
+    {
+      "number": 19,
+      "text": "Open to me the gates of righteousness, that I may enter through them and give thanks to the Lord.",
+      "arminianNotes": "Open to me the gates of righteousness, that I may enter and give thanks. Access sought for thanksgiving, not tourism.\n\nBoth camps: gates open toward grateful worship.",
+      "reformedNotes": "Calvin: gates of righteousness admit the delivered thanksgiving throng to God's house.\n\nShared: open the gates; enter; give thanks."
+    },
+    {
+      "number": 20,
+      "text": "This is the gate of the Lord; the righteous shall enter through it.",
+      "arminianNotes": "This is the gate of the Lord; the righteous shall enter through it. Entrance defined by the Lord and by righteousness He grants and requires.\n\nBoth camps: not every gate; this gate.",
+      "reformedNotes": "Calvin: the Lord's own gate—the righteous enter. Holiness of access matches the Holy One.\n\nShared: gate of the Lord; the righteous shall enter."
+    },
+    {
+      "number": 21,
+      "text": "I thank you that you have answered me and have become my salvation.",
+      "arminianNotes": "I thank You that You have answered me and have become my salvation. Answer and salvation again fused in thanks.\n\nShared: answered; become my salvation.",
+      "reformedNotes": "Calvin returns to answered prayer and God-as-salvation as the content of thanks at the gate.\n\nShared: thank You; answered; salvation."
+    },
+    {
+      "number": 22,
+      "text": "The stone that the builders rejected has become the cornerstone.",
+      "arminianNotes": "The stone that the builders rejected has become the cornerstone. Wesley and the whole Church read Christ here: rejected by the builders, made Head of the corner. New Testament citation (Matt 21:42; Acts 4:11; 1 Pet 2:7) seals the messianic reading.\n\nBoth camps together: shared messianic christology—Jesus is the rejected stone become cornerstone. Classical Arminians preach this Christ sincerely held out as the Church's foundation for all who believe.",
+      "reformedNotes": "Calvin: the stone rejected by the builders is exalted as cornerstone—fulfilled in Christ, refused by the leaders, made head of the Church's building by God's power.\n\nReformed and Wesleyan agreement: this is messianic christology held in common. Shared: rejected stone; cornerstone."
+    },
+    {
+      "number": 23,
+      "text": "This is the Lord’s doing; it is marvelous in our eyes.",
+      "arminianNotes": "This is the Lord's doing; it is marvelous in our eyes. The reversal—rejection to cornerstone—is God's act, wonder for the Church's eyes.\n\nBoth camps: marvel, not human engineering. Shared christological wonder.",
+      "reformedNotes": "Calvin: the exaltation of the rejected stone is the Lord's doing—marvelous, not explicable as builders' revision of taste.\n\nShared with Wesley: Lord's doing; marvelous in our eyes."
+    },
+    {
+      "number": 24,
+      "text": "This is the day that the Lord has made; let us rejoice and be glad in it.",
+      "arminianNotes": "This is the day that the Lord has made; let us rejoice and be glad in it. The day of saving reversal—ultimately the day God exalts His Christ—calls for corporate joy.\n\nBoth camps: rejoice in the Lord's day of salvation.",
+      "reformedNotes": "Calvin: the day God made for this marvel demands gladness from the people who see it.\n\nShared: the day the Lord has made; rejoice and be glad."
+    },
+    {
+      "number": 25,
+      "text": "Save us, we pray, O Lord! O Lord, we pray, give us success!",
+      "arminianNotes": "Save us, we pray, O Lord! O Lord, we pray, give us success! Hosanna-cry—salvation and success asked together under God.\n\nClassical Arminians: petition is sincere; success is sought as God's gift for His people's good, not autonomous triumph.",
+      "reformedNotes": "Calvin: save and prosper—prayers that confess inability and ask ongoing help from the Lord who already delivered.\n\nShared: Save us; give us success.",
+      "keyContrast": "Both pray for salvation and success from the Lord. Arminians typically hear petitions God sincerely invites and may answer as His people ask in faith. Reformed readers typically hear dependent cries God ordains and answers according to His wise will for the Church's true good."
+    },
+    {
+      "number": 26,
+      "text": "Blessed is he who comes in the name of the Lord! We bless you from the house of the Lord.",
+      "arminianNotes": "Blessed is he who comes in the name of the Lord! We bless you from the house of the Lord. The Gospels set this on the lips of the crowds for Jesus; the Church still blesses the Coming One.\n\nBoth camps: christological welcome. Shared: Blessed is He who comes.",
+      "reformedNotes": "Calvin: blessing on the one who comes in the Lord's name—applied preeminently to Christ entering His kingdom and house.\n\nShared messianic greeting: Blessed is He who comes in the name of the Lord."
+    },
+    {
+      "number": 27,
+      "text": "The Lord is God, and he has made his light to shine upon us. Bind the festal sacrifice with cords, up to the horns of the altar!",
+      "arminianNotes": "The Lord is God; He has made His light shine upon us. Bind the festal sacrifice with cords up to the altar's horns. Light and sacrifice—revelation and offering.\n\nBoth camps: festal consecration under shining light. In Christian reading, the true Sacrifice is Christ; the psalm's joy remains.",
+      "reformedNotes": "Calvin: Jehovah is God; light upon the people; the festal victim bound for the altar—worship that answers illumination.\n\nShared: light shine upon us; festal sacrifice to the altar."
+    },
+    {
+      "number": 28,
+      "text": "You are my God, and I will give thanks to you; you are my God; I will extol you.",
+      "arminianNotes": "You are my God, and I will give thanks to You; You are my God; I will extol You. Personal appropriation doubled—thanks and extolling.\n\nArminian pastoral: \"my God\" is covenant claim answered by willing praise.",
+      "reformedNotes": "Calvin: repeated \"my God\" seals belonging; thanks and extolling are the fit return.\n\nShared: You are my God; thanks; extol You."
+    },
+    {
+      "number": 29,
+      "text": "Oh give thanks to the Lord, for he is good; for his steadfast love endures forever!",
+      "arminianNotes": "Oh give thanks to the Lord, for He is good; for His steadfast love endures forever! The psalm ends as it began—goodness and everlasting hesed.\n\nBoth camps: forever mercy bookends distress, victory, and the cornerstone. Classical Arminians and Reformed together close the Hallel stretch in shared thanksgiving.",
+      "reformedNotes": "Calvin returns to the opening refrain: goodness and everlasting mercy. All that intervened—distress, Name, stone, hosanna—sits inside this forever love.\n\nShared with Wesley: give thanks; He is good; steadfast love endures forever."
+    }
+  ]
+}

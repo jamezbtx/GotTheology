@@ -1,0 +1,83 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 129,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 129:1–8",
+  "context": "A Song of Ascents of affliction and resilience: Israel is called to say how greatly foes have afflicted her from youth—yet they have not prevailed. Plowers cut long furrows on the back; the righteous LORD cuts the cords of the wicked. Haters of Zion are wished shame and housetop grass that withers before harvest greeting—no blessing of the LORD upon a barren crop.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Israel’s long affliction, the LORD cutting wicked cords, and the barren end of Zion’s haters—so each camp speaks in its own voice beside Psalm 129:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "From my youth—From the time that I was a people. Righteous—Faithful or merciful. The cords—Wherewith the plow was drawn. By these cords he understands all their plots and endeavours. House-tops—Which there were flat. Which—Having no deep root, never comes to maturity. And so all their designs shall be abortive. The blessing—Which was an usual salutation given by passengers to reapers: so the meaning is, it never continues ’till the harvest comes.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 129)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This Psalm teaches that God subjects his Church to divers troubles, that he may the better prove himself her deliverer and defender. Let Israel now say—let him consider the trials of the Church in ancient times, from which it may be gathered that the people of God have never been exempted from bearing the cross, and yet that the various afflictions by which they have been tried have always had a happy issue. The repetition, they have afflicted me, they have afflicted me, is intended to teach that the people of God had not merely once or twice to enter the conflict, but that their patience had been tried by continual exercises. Matter of consolation is laid down in the last clause: the enemies of Israel, after having tried all methods, never succeeded in realizing their wishes, God having always disappointed their hopes. The ploughers have ploughed upon my back—the cross has always been planted on the back of the Church, to make long and wide furrows. The righteous Lord hath cut asunder the cords of the wicked—repressing their fury, just as if a man should unyoke oxen from the plough by cutting the cords. The welfare of the Church is inseparably connected with the righteousness of God. The haters of Zion shall be as grass on the housetops—without root, of brief duration; the nearer they approach the sun by the height of their pride, the sooner consumed.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 129)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "\"Greatly have they afflicted me from my youth\"— let Israel now say—",
+      "arminianNotes": "Greatly afflicted from youth—let Israel now say. The community is summoned to name a long history of pressure without denying it.\n\nClassical Arminians hear a call to honest memory. Saying the affliction aloud is faith’s first step toward hope; the people may and must speak what they have endured.",
+      "reformedNotes": "Greatly afflicted from youth—Israel must say it now. Present distress is set beside the church’s lifelong warfare under God.\n\nReformed accent: “now” is emphatic for fainting saints. God trains His people to recall age-long affliction so despair does not rewrite the story as if the cross were new."
+    },
+    {
+      "number": 2,
+      "text": "\"Greatly have they afflicted me from my youth, yet they have not prevailed against me.",
+      "arminianNotes": "Afflicted from youth—yet they have not prevailed. Severity is real; final defeat of God’s people is not.\n\nArminian pastoral: endure under pressure without surrendering trust. Affliction may be great; prevailing against the people God keeps is another matter—cling to Him in the conflict.",
+      "reformedNotes": "Afflicted greatly—yet they have not prevailed. God disappointed the enemies’ hopes after every method they tried.\n\nReformed comfort: non-prevailing is God’s work, not bare toughness. The church’s survival under the plow is His defending righteousness.",
+      "keyContrast": "Both confess great affliction that still does not prevail. Arminians typically stress persevering endurance under pressure; Reformed readers typically stress God’s effectual defense that keeps enemies from finally prevailing against His people."
+    },
+    {
+      "number": 3,
+      "text": "The plowers plowed upon my back; they made long their furrows.\"",
+      "arminianNotes": "Plowers on the back; long furrows. The image is bodily, communal pain stretched across the whole field of Israel’s life.\n\nClassical Arminians refuse to minimize the wound. Long furrows call for compassion and steadfast hope—not a shrug that suffering is only a metaphor.",
+      "reformedNotes": "Plowers plowed the back; furrows made long. The cross is planted on the church’s back with wide, cutting lines.\n\nReformed note: the field cannot resist the plowshare. Affliction is real formation under God’s hand, not proof that He has abandoned Zion."
+    },
+    {
+      "number": 4,
+      "text": "The LORD is righteous; he has cut the cords of the wicked.",
+      "arminianNotes": "The LORD is righteous; He has cut the wicked’s cords. Plots that drove the plow are severed by a faithful, merciful Judge.\n\nArminian reading: cry to the righteous LORD who can break oppressive schemes. Relief is sincerely sought from the One who cuts cords sinners cannot untie.",
+      "reformedNotes": "The LORD is righteous—He has cut the cords of the wicked. Oxen of cruelty are unyoked when He severs the thongs.\n\nReformed accent: righteousness here means God does not finally forget His afflicted people. Enemies do not stop themselves; He stops their advance.",
+      "keyContrast": "Both credit the righteous LORD with cutting the wicked’s cords. Arminians typically emphasize turning to Him for real deliverance from oppressive plots; Reformed readers typically emphasize His sovereign cutting that limits how far wicked violence may go."
+    },
+    {
+      "number": 5,
+      "text": "May all who hate Zion be put to shame and turned backward!",
+      "arminianNotes": "May Zion’s haters be shamed and turned back. The imprecation seeks public reversal of hostility against God’s city.\n\nClassical Arminians take the plea seriously without cruelty for its own sake. Love for Zion asks God to halt hate—shame and retreat instead of triumph over the holy.",
+      "reformedNotes": "All who hate Zion—shame and turned backward. Future judgment on Zion’s foes is named as hope for the pressed church.\n\nReformed pastoral: raised enemies need not discourage the faithful. God turns backward those who hate the city He loves."
+    },
+    {
+      "number": 6,
+      "text": "Let them be like the grass on the housetops, which withers before it grows up,",
+      "arminianNotes": "Housetop grass—withers before it grows up. Height without root never reaches maturity; hostile designs abort.\n\nArminian pastoral: do not envy flourishing that has no depth. Pride’s quick green is not harvest; wait for God rather than fear shallow success.",
+      "reformedNotes": "Grass on housetops withers before it grows up—high, rootless, brief. Pride near the sun burns sooner for want of sap from God.\n\nReformed comfort: enemy splendor without humility is grass, not grain. Fear their height less when you remember they have no root in Him."
+    },
+    {
+      "number": 7,
+      "text": "with which the reaper does not fill his hand nor the binder of sheaves his arms,",
+      "arminianNotes": "No handful for the reaper; no armful for the binder. Barren hostility yields nothing worth gathering.\n\nClassical Arminians hear a warning and a comfort: schemes against Zion do not stock God’s barn. Emptiness is the end of fruitless hate.",
+      "reformedNotes": "Reaper’s hand unfilled; binder’s arms empty. Swelling appearance never ripens into sheaves under God’s verdict.\n\nReformed note: the wicked remain mere grass—no good fruit, no ripeness. Their show does not become a harvest God or man can bless."
+    },
+    {
+      "number": 8,
+      "text": "nor do those who pass by say, \"The blessing of the LORD be upon you! We bless you in the name of the LORD!\"",
+      "arminianNotes": "No passerby blessing—no “blessing of the LORD be upon you.” Hostile growth never lasts until a harvest greeting.\n\nArminian pastoral: the usual reapers’ salutation is withheld from a sterile plot. Seek the LORD’s name upon real fruit, not upon Zion’s ruin.",
+      "reformedNotes": "Passersby do not say, “The blessing of the LORD be upon you.” Barren foes receive no harvest benediction in His name.\n\nReformed accent: blessing belongs where God gives increase. The church may despise flourishing that heaven will not greet with the LORD’s name."
+    }
+  ]
+}

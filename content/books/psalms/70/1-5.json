@@ -1,0 +1,65 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 70,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "ESV",
+  "title": "Psalm 70:1–5",
+  "context": "To the choirmaster. Of David, for the memorial offering. A short cry nearly twin to Psalm 40:13–17: make haste to deliver; shame those who seek the life and gloat; let seekers rejoice and say God is great; the poor and needy beg the help and deliverer not to delay.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on haste for deliverance, shame for gloaters, joy for seekers, and the poor man’s plea that God not delay—so each camp speaks in its own voice beside Psalm 70.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Make haste—This and the following verses are almost the same with Psalm 40:13–17. Deliver me—from mine enemies. Make haste—he doubles the request, to express the vehemency of his desire. Shame—confusion of face. Seek—to take away. Turned back—disappointed in their expectation. Aha—words of insult and triumph. Seek thee—that seek thy favour. Continually—or, all the day. Poor—helpless and miserable. Make haste—he repeats the petition, being in great distress. Help—my helper. Delay not—do not put me off.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 70:1–5)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This psalm is almost the same with the conclusion of the fortieth… David, under a sense of his danger, earnestly entreats God to make haste for his deliverance, and that the wicked who sought his life might be put to shame, while the godly who sought God might rejoice. Although God does not always answer us at the very moment we call, yet it is our duty to pray that he would make haste… The repetition of the prayer shows the intensity of his desire… He calls himself poor and needy, that by this confession of his misery he may the more effectually move God to pity.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 70)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Make haste, O God, to deliver me! O LORD, make haste to help me!",
+      "arminianNotes": "Wesley: Make haste—this and the following verses nearly the same with Psalm 40:13–17. Deliver from enemies; he doubles the request to express vehemency. The twin petitions (deliver / help) refuse leisurely religion when danger is near.\n\nArminian pastoral: haste is begged because need is real and prayer is the appointed means. Grace that can deliver still summons urgent asking; delay on our side would be presumption.",
+      "reformedNotes": "Calvin: under sense of danger he earnestly entreats God to make haste. Although God does not always answer at the very moment we call, it is our duty to pray that he would make haste. The repetition shows intensity of desire.\n\nReformed accent: urgency in prayer does not deny providence’s timing; it confesses helplessness. Shared: make haste is the poor saint’s cry, not unbelief."
+    },
+    {
+      "number": 2,
+      "text": "Let them be put to shame and confusion who seek my life! Let them be turned back and brought to dishonor who delight in my hurt!",
+      "arminianNotes": "Wesley: Shame—confusion of face; Seek—to take away life; Turned back—disappointed. Those who hunt the life and delight in hurt are asked to meet shame, not applause.\n\nArminian hearing: imprecation here is petition for public check on malice. Shared seriousness—gloating over a saint’s hurt is sin God may reverse; the pray-er does not take personal revenge but asks God to confound.",
+      "reformedNotes": "Calvin: he prays that the wicked who sought his life might be put to shame. Shame and confusion are judicial, not petty spite—God’s honor and the sufferer’s safety are joined when hunters of life are turned back.\n\nReformed pastoral: delight in another’s hurt invites dishonor from the Judge. Shared: both camps take the imprecation as real prayer for God’s justice, not a joke.",
+      "keyContrast": "Both treat shame on life-seekers as a serious plea for God’s justice. Arminians typically stress that the petition still leaves room for the wicked to be checked and turn; Reformed readers typically stress that God himself confounds the malicious according to his righteous will."
+    },
+    {
+      "number": 3,
+      "text": "Let them turn back because of their shame who say, \"Aha, Aha!\"",
+      "arminianNotes": "Wesley: Aha—words of insult and triumph. The taunt is short; the shame asked for matches the sneer.\n\nArminian note: mockery of the godly is named so prayer can be specific. Grace does not require the sufferer to pretend the gloat never happened; it invites asking God to reverse the triumph.",
+      "reformedNotes": "Calvin ties the aha to malicious joy over another’s fall—God is asked to turn the mockers back by their own shame. The Lord hears when scorn becomes a weapon.\n\nReformed accent: shared—Aha is not harmless banter. Judicial shame answers verbal cruelty; the psalm will not baptize gloating."
+    },
+    {
+      "number": 4,
+      "text": "May all who seek you rejoice and be glad in you! May those who love your salvation say evermore, \"God is great!\"",
+      "arminianNotes": "Wesley: Seek thee—thy favour; Continually—or, all the day. Seekers rejoice; lovers of salvation keep saying God is great.\n\nArminian pastoral: seeking and loving salvation are living postures. Joy and the confession “God is great” are the community’s answer while enemies say Aha—grace invites that praise to be spoken evermore.",
+      "reformedNotes": "Calvin: while enemies are shamed, the godly who seek God rejoice. Love of salvation issues in perpetual exaltation of God—praise is the flip side of the imprecation.\n\nReformed note: shared—salvation’s lovers confess greatness, not self-rescue. God is great is doxology under pressure."
+    },
+    {
+      "number": 5,
+      "text": "But I am poor and needy; hasten to me, O God! You are my help and my deliverer; O LORD, do not delay!",
+      "arminianNotes": "Wesley: Poor—helpless and miserable; Make haste repeated in great distress; Help—my helper; Delay not. Poverty of spirit frames the last plea.\n\nArminian hope: the needy may still hasten to God and name him help and deliverer. Do-not-delay is faith’s urgency, not a contract; the asker must keep coming as poor.",
+      "reformedNotes": "Calvin: he calls himself poor and needy that by confession of misery he may the more effectually move God to pity. Help and deliverer are titles of God alone; delay-not rests on that character.\n\nReformed accent: shared—poverty confessed, not merit displayed. Hasten is begged because God is the deliverer; the saint’s emptiness is the argument.",
+      "keyContrast": "Both end as poor and needy begging no delay. Arminians typically stress the needy must keep seeking with urgency; Reformed readers typically stress that confession of misery moves God whose help and deliverance alone close the psalm."
+    }
+  ]
+}

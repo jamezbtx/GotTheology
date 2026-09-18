@@ -1,0 +1,93 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 64,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Psalm 64:1–10",
+  "context": "To the choirmaster. A Psalm of David. The psalmist asks God to hear his complaint and preserve him from dread; seeks hiding from secret plots and sharp tongues that shoot from ambush; exposes the wicked's confident secrecy and deep injustice; then watches God shoot His own arrow, turn their tongues against them, awaken holy fear in mankind, and call the righteous to rejoice and take refuge.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on complaint under slander, tongues as swords, God's sudden arrow, and the righteous rejoicing in refuge—so each camp speaks in its own voice beside Psalm 64:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Complaint—prayer mixed with complaint of my enemies. Secret—crafty and subtle. Whet—sharpen. Suddenly—when they are not aware. Hold fast—are confirmed in their wicked designs. Who can see—they think God sees not. Search—invent new ways of doing mischief. Deep—crafty and hard to be found out. Arrow—his judgments. Tongues—the instruments of their mischief. Fear—stand in awe of God. Glad—in God, and in his favour and protection.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 64"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David appeals to God under the injuries of the wicked—complaint is lawful when referred to God's judgment-seat. He asks to be hidden from secret counsel; their tongues are swords and arrows shot suddenly without fear of God. They encourage one another, saying \"Who shall see?\" and search out iniquity with deep deceit. But God shoots His arrow; their own tongue falls upon them; all men fear and declare His work. The righteous rejoice and trust in the Lord; the upright in heart glory.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 64"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Hear my voice, O God, in my complaint; preserve my life from dread of the enemy.",
+      "arminianNotes": "Hear my voice, O God, in my complaint; preserve my life from dread of the enemy. Wesley: Complaint—prayer mixed with complaint of my enemies. The godly may bring dread before God without pretending composure they do not feel.\n\nArminian pastoral: shared—cry aloud under threat. Grace invites honest complaint that still asks preservation. Do not mute dread; bring it to the God who hears.",
+      "reformedNotes": "Calvin: David appeals to God under the injuries of the wicked—complaint is lawful when referred to God's judgment-seat, not when it frets against providence. Preserve life from dread: fear itself can wound.\n\nReformed pastoral: shared—God hears the complaint of the oppressed. Refuge begins with petition. The dread named is real; the Preserver is greater."
+    },
+    {
+      "number": 2,
+      "text": "Hide me from the secret plots of the wicked, from the throng of evildoers,",
+      "arminianNotes": "Hide me from the secret plots of the wicked, from the throng of evildoers. Wesley: Secret—crafty and subtle. Plots thrive in secrecy; the prayer asks covering under God.\n\nArminian pastoral: shared—ask to be hidden when schemes surround you. Plotters and throngs both threaten; God alone is adequate shelter.",
+      "reformedNotes": "Calvin: hide me from the secret counsel of the wicked—evil often works by conspiracy. The throng amplifies danger; multiplicity does not intimidate God.\n\nReformed pastoral: shared—secret plots are not secret to God. Pray for concealment under His care when human cover fails."
+    },
+    {
+      "number": 3,
+      "text": "who whet their tongues like swords, who aim bitter words like arrows,",
+      "arminianNotes": "Who whet their tongues like swords, who aim bitter words like arrows. Wesley: Whet—sharpen. Words as weapons: slander prepared and aimed.\n\nArminian pastoral: shared—guard your own tongue even while naming theirs. Bitter speech kills reputation; bring the wounded name to God.",
+      "reformedNotes": "Calvin: tongues whetted like swords and words like arrows—calumny is murderous intent in speech. The righteous suffer wounds without steel.\n\nReformed pastoral: shared—God counts verbal assault. The metaphor equips faith to treat slander as real hostility under divine hearing."
+    },
+    {
+      "number": 4,
+      "text": "shooting from ambush at the blameless, shooting at him suddenly and without fear.",
+      "arminianNotes": "Shooting from ambush at the blameless, shooting at him suddenly and without fear. Wesley: Suddenly—when they are not aware. Ambush plus shamelessness: no fear of God in the shooters.\n\nArminian pastoral: shared—blamelessness does not exempt from ambush. Sudden attack calls for sudden prayer; fear of God missing in them should increase fear of God in us.",
+      "reformedNotes": "Calvin: they shoot suddenly without fear—conscience seared, no dread of divine judgment. The blameless are targeted precisely for integrity.\n\nReformed pastoral: shared—innocence under fire is not failure. God sees the ambush; fearlessness of the wicked is temporary folly."
+    },
+    {
+      "number": 5,
+      "text": "They hold fast to their evil purpose; they talk of laying snares secretly, thinking, \"Who can see them?\"",
+      "arminianNotes": "They hold fast to their evil purpose; they talk of laying snares secretly, thinking, \"Who can see them?\" Wesley: Hold fast—are confirmed in their wicked designs. Who can see—they think God sees not.\n\nArminian pastoral: shared—atheism practical: \"Who can see?\" Answer by living as before the God who does. Evil purpose clung to can still be abandoned under grace that convicts.",
+      "reformedNotes": "Calvin: they encourage one another in evil and deny God's oversight—\"Who shall see?\" The depth of rebellion includes theoretical atheism in practice.\n\nReformed pastoral: shared—God sees what they deny. Hold fast to prayer while they hold fast to purpose; their question will be answered in judgment."
+    },
+    {
+      "number": 6,
+      "text": "They search out injustice, saying, \"We have accomplished a diligent search.\" For the inward mind and heart of a man are deep.",
+      "arminianNotes": "They search out injustice... For the inward mind and heart of a man are deep. Wesley: Search—invent new ways of doing mischief. Deep—crafty and hard to be found out. Human cunning digs deep wells of wrong.\n\nArminian pastoral: shared—do not match craft with craft. Deep hearts need the Searcher of hearts; leave exposed injustice to God's light.",
+      "reformedNotes": "Calvin: they spare no diligence in searching out iniquity; the heart is a deep gulf of deceit. Human ingenuity in evil proves the need of divine justice.\n\nReformed pastoral: shared—depth of heart is no hiding place from God. Diligent injustice meets a more diligent Judge."
+    },
+    {
+      "number": 7,
+      "text": "But God shoots his arrow at them; they are wounded suddenly.",
+      "arminianNotes": "But God shoots his arrow at them; they are wounded suddenly. Wesley: Arrow—his judgments. Sudden wound answers sudden shot (v. 4)—poetic justice from heaven.\n\nArminian pastoral: shared—God's arrow, not yours. Wait for divine reversal rather than private revenge. Sudden judgment vindicates patient faith.",
+      "reformedNotes": "Calvin: God shoots His arrow—He meets them with like suddenness. Their security is broken in a moment by the Judge they ignored.\n\nReformed pastoral: shared—providence can turn in an instant. The God who seemed silent shoots with perfect aim."
+    },
+    {
+      "number": 8,
+      "text": "They are brought to ruin, with their own tongues turned against them; all who see them will wag their heads.",
+      "arminianNotes": "They are brought to ruin, with their own tongues turned against them; all who see them will wag their heads. Wesley: Tongues—the instruments of their mischief. Their weapon becomes their fall.\n\nArminian pastoral: shared—slander boomerangs under God. Wagging heads are public shame; fear such an end more than temporary success of lies.",
+      "reformedNotes": "Calvin: their own tongue falls upon them—God makes the instrument of sin the instrument of ruin. Spectators shake the head in astonishment.\n\nReformed pastoral: shared—poetic justice is theological: God governs consequences. Ruin of the tongue-armed warns every gossiping heart."
+    },
+    {
+      "number": 9,
+      "text": "Then all mankind fears; they tell what God has brought about and ponder what he has done.",
+      "arminianNotes": "Then all mankind fears; they tell what God has brought about and ponder what he has done. Wesley: Fear—stand in awe of God. Public judgment becomes public theology—tell and ponder.\n\nArminian pastoral: shared—when God acts, witness and reflect. Fear that leads to praise is healthy; spread the report of what He has done.",
+      "reformedNotes": "Calvin: all men shall fear and declare God's work—judgments are meant to instruct the world. Pondering is the fruit of holy fear.\n\nReformed pastoral: shared—providence is pedagogical. Tell what God wrought; let fear become wisdom."
+    },
+    {
+      "number": 10,
+      "text": "Let the righteous one rejoice in the LORD and take refuge in him! Let all the upright in heart exult!",
+      "arminianNotes": "Let the righteous one rejoice in the LORD and take refuge in him! Let all the upright in heart exult! Wesley: Glad—in God, and in his favour and protection. Joy and refuge close the psalm.\n\nArminian pastoral: shared end—rejoice and take refuge. Upright hearts exult not in enemies' pain alone but in the LORD who shelters. Choose refuge again today.",
+      "reformedNotes": "Calvin: the righteous shall rejoice and trust in the Lord—the upright in heart shall glory. The end of persecution for the godly is joy in God Himself.\n\nReformed pastoral: shared—refuge and rejoicing belong together. Exult because the LORD is trustworthy when tongues were cruel."
+    }
+  ]
+}

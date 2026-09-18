@@ -1,0 +1,94 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 1,
+  "verseStart": 5,
+  "verseEnd": 14,
+  "translation": "ESV",
+  "title": "Hebrews 1:5–14",
+  "context": "A catena of OT citations proves the Son’s supremacy over angels: unique Sonship, angelic worship of the firstborn, the Son’s eternal throne and creative Lordship, session until enemies are subdued, while angels are ministering spirits for those who will inherit salvation.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Son’s name above angels, his throne, and angels as ministers—so each camp speaks in its own voice beside Hebrews 1:5–14.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Thou art my Son—God of God, Light of Light. This day have I begotten thee—I have begotten thee from eternity, which, by its unalterable permanency of duration, is one continued, unsuccessive day. I will be to him a Father, and he shall be to me a Son—I will own myself to be his Father, and him to be my Son, by eminent tokens of my peculiar love. When he bringeth in his first-begotten into the world—namely, at his incarnation—Let all the angels of God worship him: so much higher was he, when in his lowest estate, than the highest angel. Who maketh his angels spirits—this implies they are only creatures, whereas the Son is eternal, and the Creator himself. Thy throne, O God, is for ever and ever—God, in the singular number, is never in Scripture used absolutely of any but the supreme God. Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?—who, having patiently continued in well doing, shall inherit everlasting salvation.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 1:5–14)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Thou art my Son: it cannot be denied that this was spoken of David as he sustained the person of Christ; yet the name of Son belongs by a peculiar privilege to Christ alone. When David without any addition calls himself as the type of Christ the Son of God, he denotes something more excellent than the honor given to angels. And again, when he bringeth in the first-begotten into the world, he saith, Let all the angels of God worship him—it hence follows that he is their head and Prince. Thy throne, O God, is for ever and ever: whosoever will read the verse who is of a sound mind cannot doubt but that the Messiah is called God; the perpetuity of his kingdom is an evidence of his divinity. To sit at God’s right hand means that the second place was given him by the Father, that he is the Father’s vicegerent. Are they not all ministering spirits: calling them spirits denotes their eminence; but the office of ministering reduces them to their own rank. From this passage the faithful receive no small consolation; for they hear that celestial hosts are assigned to them as ministers, in order to secure their salvation. This benefit he grants especially to his chosen people; hence that angels may minister to us, we must be the members of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 1:5–14)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 5,
+      "text": "For to which of the angels did God ever say, “You are my Son, today I have begotten you”? Or again, “I will be to him a father, and he shall be to me a son”?",
+      "arminianNotes": "Wesley: Thou art my Son—God of God, Light of Light. This day have I begotten thee—from eternity, one continued day. The second clause: I will own myself his Father and him my Son by eminent tokens of peculiar love. The former relates to natural Sonship by eternal generation; the other to the Father’s acknowledgment of him as incarnate Son.\n\nShared confession: the Son’s name is unique. Classical Arminians receive the author’s christological use of the citations. The inherited name underwrites the call to heed the gospel (2:1).",
+      "reformedNotes": "Calvin: spoken of David as sustaining Christ’s person; fully accomplished in Christ. The name Son belongs by peculiar privilege to Christ alone and cannot be applied thus to any other without profanation. When said exclusively of Christ, “Thou art my Son,” it follows this honor does not belong to any of the angels.\n\nReformed accent: the King who governs bears a sealed Sonship angels never share. The catena is royal proof, not a trivia of titles."
+    },
+    {
+      "number": 6,
+      "text": "And again, when he brings the firstborn into the world, he says, “Let all God's angels worship him.”",
+      "arminianNotes": "Wesley: when he brings his first-begotten into the world—at his incarnation—Let all the angels of God worship him. So much higher was he, even in his lowest estate, than the highest angel.\n\nShared high christology: angels worship the incarnate Firstborn. Arminians refuse to pit incarnation against deity; worship at his coming shows creaturely angels beneath the Son.",
+      "reformedNotes": "Calvin: he proves Christ above the angels because the angels are bidden to worship him; hence he is their head and Prince. The Psalm describes his coming to take possession of his kingdom; what joy could arise from his kingdom except it brought salvation to the whole world?\n\nReformed accent: worship commanded of angels seals the Son’s supremacy. The King who governs is adored, not merely admired."
+    },
+    {
+      "number": 7,
+      "text": "Of the angels he says, “He makes his angels winds, and his ministers a flame of fire.”",
+      "arminianNotes": "Wesley: Who maketh his angels spirits—implies they are only creatures, whereas the Son is eternal (v. 8) and the Creator himself (v. 10). Spirits and a flame of fire—excellent nature, yet infinitely below the majesty of the Son.\n\nShared confession: both read angels as made servants; the Son is not made a servant in that sense.",
+      "reformedNotes": "Calvin: this testimony is brought that by a similitude it might be applied to angels; David compares winds to angels because they perform similar offices. The point stands: angels are ministers God makes and sends; they are not the seated Son.\n\nReformed accent: creaturely mutability of angelic service contrasts with the Son’s throne (vv. 8–12)."
+    },
+    {
+      "number": 8,
+      "text": "But of the Son he says, “Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom.",
+      "arminianNotes": "Wesley: O God—God in the singular is never used absolutely in Scripture of any but the supreme God. Thy reign, of which the sceptre is the ensign, is full of justice and equity.\n\nShared confession of the Son’s deity and everlasting throne. Classical Arminians join Reformed readers here against any reduction of the Son to a mere exalted creature.",
+      "reformedNotes": "Calvin: the Messiah is called God; the perpetuity of his kingdom is an evidence of his divinity. The sceptre of righteousness: he by his gospel, his spiritual sceptre, renews us after the righteousness of God.\n\nReformed accent: the King who governs wields a righteous sceptre forever—throne language is rule, not ornament."
+    },
+    {
+      "number": 9,
+      "text": "You have loved righteousness and hated wickedness; therefore God, your God, has anointed you with the oil of gladness beyond your companions.”",
+      "arminianNotes": "Wesley: Thou hast loved righteousness and hated iniquity—thou art infinitely pure and holy. Therefore God—who, as thou art Mediator, is thy God—hath anointed thee with the oil of gladness—with the Holy Ghost, the fountain of joy—above thy fellows—above all the children of men.\n\nShared mediatorial anointing. The “fellows” are human companions, not peer deities.",
+      "reformedNotes": "Calvin: he was anointed above us all, as it was beyond measure, while we each according to a limited portion. He was anointed for our sake, that we may all draw out of his fatness. Hence he is the Christ; we are Christians proceeding from him. As Christ received this unction when in the flesh, he is said to have been anointed by his God.\n\nReformed accent: effectual fullness in the Head overflows to the members; the anointing is not a bare example but the fountain."
+    },
+    {
+      "number": 10,
+      "text": "And, “You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands;",
+      "arminianNotes": "Wesley: Thou—the same to whom the discourse is addressed in the preceding verse. The Son is addressed as Lord who laid earth’s foundation—Creator, not creature.\n\nShared creation christology: both camps confess the Son as Creator.",
+      "reformedNotes": "Calvin: all things found there are to be applied to his person; in none have they been fulfilled but in Christ. He is the eternal God, the creator of heaven and earth; perpetuity belongs to him without any change, and he himself is removed from the rank of all created beings.\n\nReformed accent: the King who governs is the unchangeable Creator addressed as Lord."
+    },
+    {
+      "number": 11,
+      "text": "they will perish, but you remain; they will all wear out like a garment,",
+      "arminianNotes": "Creation wears out; the Son remains. Wesley on the following verse: they shall be changed into new heavens and a new earth; but thou art eternally the same.\n\nPastoral share: mutable cosmos, immutable Son—ground for trusting the gospel’s Author above angelic mediators of the law.",
+      "reformedNotes": "Calvin: what need of strained explanation when we know all creatures are subjected to vanity? The perpetuity of Christ brings no common comfort to the godly; as the Psalm teaches, they shall be partakers of it, inasmuch as Christ communicates himself and what he possesses to his own body.\n\nReformed accent: the elect share the Son’s permanence by union with him—comfort tied to membership in his body."
+    },
+    {
+      "number": 12,
+      "text": "like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end.”",
+      "arminianNotes": "Wesley: As a mantle—with all ease. They shall be changed—into new heavens and a new earth. But thou art eternally the same.\n\nShared immutability of the Son. Arminians hear stability that underwrites perseverance-as-path: the unchanging Son still calls hearers not to drift (2:1).",
+      "reformedNotes": "Calvin: perpetuity without change raises his majesty to the highest elevation and removes him from the rank of all created beings. The godly are partakers of this perpetuity as Christ communicates himself to his own body.\n\nReformed accent: immutability of the Son is communicated comfort for those united to him, not a bare metaphysical compliment."
+    },
+    {
+      "number": 13,
+      "text": "And to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?",
+      "arminianNotes": "Wesley simply cites Psalm 110:1. Sit on my right hand until I make thine enemies thy footstool—royal session no angel receives.\n\nShared royal session. The “until” marks ongoing conquest; enemies are real. Arminians refuse fake warnings later in the letter; the seated Son still addresses a people who must hold fast.",
+      "reformedNotes": "Calvin: to sit at God’s right hand means the second place given him by the Father—he is the Father’s vicegerent. No angel bears so honorable an office. Two things must be borne in mind: Christ’s kingdom shall never in this world be at rest, and whatever enemies do, they shall never prevail, for his session is to the end of the world.\n\nReformed accent: the King who governs will lay enemies prostrate; apparent delay is not defeat."
+    },
+    {
+      "number": 14,
+      "text": "Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?",
+      "arminianNotes": "Wesley: Are they not all—though of various orders—ministering spirits, sent forth—ministering before God, sent forth to men—to attend on them in numerous offices of protection, care, and kindness. Who—having patiently continued in well doing—shall inherit everlasting salvation.\n\nArminian accent on the heirs: inheritance is for those who patiently continue in well doing. Angels serve; they do not replace the Son. The “shall inherit” keeps perseverance-as-path in view without denying grace.",
+      "reformedNotes": "Calvin: spirits denotes eminence; ministering reduces them to rank opposite dominion. They were created that they might serve. This benefit he grants especially to his chosen people; hence that angels may minister to us, we must be the members of Christ. Our salvation being defended by such guardians is beyond the reach of danger.\n\nReformed accent: angelic ministry is for those who inherit salvation as members of Christ—chosen people under the King’s guard.",
+      "keyContrast": "Both confess angels as servants and the Son as Lord. Arminians (Wesley) typically hear “heirs of salvation” with patient continuance in well doing still in view—inheritance along a grace-enabled path that must be walked. Reformed readers (Calvin) typically hear angelic help granted especially to the chosen as members of Christ—salvation guarded for those the King has joined to himself."
+    }
+  ]
+}

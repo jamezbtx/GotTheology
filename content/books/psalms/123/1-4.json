@@ -1,0 +1,59 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 123,
+  "verseStart": 1,
+  "verseEnd": 4,
+  "translation": "ESV",
+  "title": "Psalm 123:1–4",
+  "context": "A Song of Ascents of dependent gaze: eyes lift to the One enthroned in the heavens, then linger like servants watching a master’s hand—until mercy comes. The community has had more than enough contempt from the easeful and proud. Pilgrim faith here is patient looking and repeated plea, not self-rescue.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on eyes lifted to the One enthroned in the heavens, servant-gaze until mercy comes, and a soul filled with the contempt of the proud—so each camp speaks in its own voice beside Psalm 123:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Unto thee lift I up mine eyes—we have no hope but in thee; our eyes look upward; we have expectation from thy mercy alone. As the eyes of servants—we now wait for thy commands, feeling the utmost readiness to obey them when made known to us. As slaves expect their support from their masters, so do we ours from thee, O Lord! Have mercy upon us, O Lord—we not only suffer grievously from our captivity, but are treated in the most contemptuous manner by our masters. Those that are at ease—who, having subdued the neighbouring nations, lived at ease, and now became luxurious, indolent, and insolent: they were contemptuous and proud. Unto thee lift I up mine eyes—we trust in thee alone.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 123)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In this Psalm, the faithful oppressed with the cruel tyranny of their enemies, beseech God to deliver them, there being no other source of hope left for them except in his protection. Although all worldly resources fail us, we must raise our eyes upward to heaven, where God remains unchangeably the same. This similitude implies that without the protection of God true believers have no comfort, are completely disarmed and exposed to all manner of wrongs; in short, that their safety depends entirely upon aid derived from another. The repetition of the prayer, Have mercy upon us, which is a sign of vehement and ardent desire, indicates that they were reduced to the last degree of misery. When insult is added to wrongs, there is nothing which inflicts a deeper wound upon well constituted minds.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 123)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "To you I lift up my eyes, O you who are enthroned in the heavens!",
+      "arminianNotes": "Eyes lift to the One enthroned in the heavens. Contempt below does not erase the throne above for the weary Ascents pilgrim.\n\nClassical Arminians urge this upward look as genuine trust. The singer freely turns from scorn to the heavenly King who can show mercy to His people.",
+      "reformedNotes": "To You—enthroned in the heavens—I lift my eyes. Sovereignty frames the plea before mercy is even asked on the hard road.\n\nReformed comfort: the throne is occupied. Heaven’s King is not vacant while the proud sneer and the easeful pour contempt on earth."
+    },
+    {
+      "number": 2,
+      "text": "Behold, as the eyes of servants look to the hand of their master, as the eyes of a maidservant to the hand of her mistress, so our eyes look to the LORD our God, till he has mercy upon us.",
+      "arminianNotes": "Servant and maidservant eyes watch the hand—so ours look to the LORD our God till He has mercy. Waiting is active dependence, not idle despair on the road.\n\nArminian pastoral: keep looking. Mercy is sincerely sought; persistence in gaze is faith’s posture on the pilgrimage, not unbelief’s delay tactic.",
+      "reformedNotes": "As servants watch the hand, so we watch the LORD our God until He shows mercy. Timing belongs to the Master of heaven’s court alone.\n\nReformed accent: “till” is His appointed hour. Prayerful eyes are means He uses; mercy arrives when He wills for the people He loves.",
+      "keyContrast": "Both commend steadfast eyes toward God’s mercy. Arminians typically stress persevering petition that God may graciously answer; Reformed readers typically stress looking as the means God ordained until His appointed mercy comes."
+    },
+    {
+      "number": 3,
+      "text": "Have mercy upon us, O LORD, have mercy upon us, for we have had more than enough of contempt.",
+      "arminianNotes": "Have mercy—twice—for contempt has been more than enough. The plea is corporate, urgent, and honest about the soul’s overload of scorn.\n\nClassical Arminians hear a real cry God welcomes. Repeated mercy-seeking is not empty chatter; the Lord invites His people to name their fill of contempt.",
+      "reformedNotes": "Mercy, mercy—because contempt has overflowed. The double plea rests on God’s character, not on the proud finally relenting of their ease.\n\nReformed pastoral: enough is measured before God. He hears the fullness of His people’s shame and remains the only fountain of mercy.",
+      "keyContrast": "Both plead for mercy under contempt. Arminians typically emphasize a sincere, repeated ask that God freely grants; Reformed readers typically emphasize mercy flowing from God’s will to relieve His people in His time."
+    },
+    {
+      "number": 4,
+      "text": "Our soul has had more than enough of the scorn of those who are at ease, of the contempt of the proud.",
+      "arminianNotes": "Soul-deep surplus of scorn from the easeful and proud. Comfortable contempt wounds pilgrims while feet still point toward Zion’s peace.\n\nArminian pastoral: do not envy the ease of the proud. Bring the soul’s “more than enough” to the throne; mercy, not matching pride, is the true answer.",
+      "reformedNotes": "Soul has had more than enough—scorn of the easeful, contempt of the proud. The diagnosis is both spiritual and social on the Ascents road.\n\nReformed note: God sees the proud at ease and His people’s full cup of scorn. Faith waits on heaven’s hand, not on the world’s empty applause."
+    }
+  ]
+}

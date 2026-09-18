@@ -1,0 +1,65 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 15,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "ESV",
+  "title": "Psalm 15:1–5",
+  "context": "Psalm 15 asks who may sojourn in the LORD’s tent and dwell on his holy hill, then answers with a portrait of integrity: walking blamelessly, doing what is right, speaking truth in the heart; refusing slander, neighbor-harm, and easy reproach; despising the vile while honoring those who fear the LORD; keeping costly oaths; refusing predatory interest and bribes against the innocent—and promising that the one who does these things shall never be moved.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on who may dwell with God, blameless walking and heart-truth, neighbor love without slander, honoring those who fear the LORD, costly faithfulness, and the unmoved life—so each camp speaks in its own voice beside Psalm 15:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "The scope of this short, but excellent psalm, is to shew us the way to heaven. Here is a question proposed, ver. 1. The answer to it, ver. 2–5. Who—Who shall so dwell in thy church here, as to dwell with thee for ever in heaven? Uprightly—Loving, and serving God, and loving his neighbour not in word only, but in truth; and this constantly. Worketh—Makes it his business to do justly, to give to every one his due, first to God, and then to men. Speaketh—His words and professions to God and men, agree with the thoughts and purposes of his heart. He—He that doth not speak evil of his neighbour. Nor taketh—doth not raise a reproach, neither spread or propagate it; or believe it without sufficient reason. Vile—An ungodly man. Honoureth—He highly esteems and loves them that fear the LORD, though they be mean as to their worldly condition. Sweareth—A promissory oath to his own damage. Changeth not—His purpose, but continues firm and resolved to perform his promise. To usury—In such a manner as is contrary to God’s law. Moved—He shall abide with God here, and when he dies be for ever with the Lord.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 15)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This psalm teaches upon what condition God made choice of the Jews to be his people and placed his sanctuary among them—that they should show themselves a peculiar and holy people by a just and upright life. O Jehovah, who shall dwell in thy tabernacle? As nothing is more common than falsely to assume the name of God, David addresses God himself: if men assume the title of his people without being so in deed and truth, they gain nothing by self-delusion. God adopted Abraham freely, but stipulated that he should live a holy and upright life—the general rule of the covenant from the beginning. Hypocrites in the temple in vain pretend to be his people; he acknowledges none as such but those who follow justice and uprightness. Those only have access to God who are his genuine servants and live a holy life. He who walketh in integrity: sincerity, justice, and truth in the heart—agreement of heart and tongue. David does not exclude faith and prayer; he takes evidences of sincere faith from the second table, for care to practice righteousness toward neighbors shows fear of God. He that doeth these things shall not be moved for ever: hypocrites who falsely assume the title of saints shall at length be cast out; God dwells with the faithful and is far from the perfidious who approach only with the mouth.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 15)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O LORD, who shall sojourn in your tent? Who shall dwell on your holy hill?",
+      "arminianNotes": "Wesley: Who—Who shall so dwell in thy church here, as to dwell with thee for ever in heaven? The psalm’s scope is to shew the way to heaven: a question, then an answer in lived integrity.\n\nArminian hearing: the question is pastoral and real—access to God’s presence is not a slogan. Grace opens the way; the hearer must still walk the integrity the next verses name. Dwelling with God forever is tied to so dwelling in his church here that the life matches the claim.",
+      "reformedNotes": "Calvin: nothing is more common than falsely assuming God’s name. If men take the title of his people without being so in deed and truth, they gain nothing by self-delusion. God adopted Abraham freely, yet stipulated a holy and upright life—the covenant rule from the beginning. Those only have access who are genuine servants and live a holy life.\n\nReformed accent: the question unmasks hypocrisy in the crowded sanctuary. Free adoption is not antinomian; God acknowledges as his people those whose lives follow justice and uprightness—integrity as the fruit and mark of the covenant, not a ladder that replaces grace.",
+      "keyContrast": "Both confess that sojourning in the LORD’s tent and dwelling on his holy hill are not for empty profession, and both refuse a works-gospel that buys God or an antinomian shrug that ignores holiness. Arminian readers, with Wesley, hear the question as showing the way to heaven—grace-enabled integrity the hearer must actually walk so as to dwell with God forever. Reformed readers, with Calvin, hear free adoption that still stipulates a holy life: God acknowledges genuine servants whose uprightness is covenant fruit, not a self-made ticket into the tent."
+    },
+    {
+      "number": 2,
+      "text": "He who walks blamelessly and does what is right and speaks truth in his heart;",
+      "arminianNotes": "Wesley: Uprightly—Loving and serving God, and loving his neighbour not in word only, but in truth; and this constantly. Worketh—Makes it his business to do justly, to give every one his due, first to God, then to men. Speaketh—Words and professions agree with the thoughts and purposes of the heart.\n\nArminian pastoral: shared—blameless walking, right doing, and heart-truth go together. Grace enables the constant business of justice; the hearer must still make it his business. Truth in the heart refuses split religion—mouth one way, purpose another.",
+      "reformedNotes": "Calvin: implied contrast between vain boasting of name-only people and genuine evidence of godliness. Sincerity, justice, and truth: singleness of heart without craft; doing good and abstaining from wrong; speech that vividly represents the hidden affection. David does not exclude faith and prayer; he draws marks of sincere faith from the second table—care for neighbors shows fear of God.\n\nReformed accent: shared—integrity of walk, deed, and heart-speech. These are fruits that discover true faith, not a substitute for faith and prayer."
+    },
+    {
+      "number": 3,
+      "text": "who does not slander with his tongue and does no evil to his neighbor, nor takes up a reproach against his friend;",
+      "arminianNotes": "Wesley: He—He that doth not speak evil of his neighbour. Neighbour—That is, any man. Nor taketh—Into his mouth: doth not raise a reproach, neither spread or propagate it; or believe it without sufficient reason.\n\nArminian pastoral: shared—refuse slander, refuse harm, refuse trafficking in reproach. Neighbor love is practical: do not invent, spread, or swallow bad reports without cause. Grace trains the tongue and the ear together.",
+      "reformedNotes": "Calvin: no slanderers or detractors; restrain from injuring neighbors; do not aid currency of calumnies. A good name is a treasure; the lust of detraction wounds reputation. Companion and neighbor mean all bound by common humanity. Raising a reproach also rebukes undue credulity—eager listening that lifts falsehoods instead of letting them fall.\n\nReformed accent: shared—tongue, hand, and rumor-mill are marks of injustice. Suppress calumny; do not raise what charity would bury."
+    },
+    {
+      "number": 4,
+      "text": "in whose eyes a vile person is despised, but who honors those who fear the LORD; who swears to his own hurt and does not change;",
+      "arminianNotes": "Wesley: Vile—An ungodly man. Honoureth—He highly esteems and loves them that fear the LORD, though mean in worldly condition, and though they differ in lesser opinions or practices. Sweareth—A promissory oath to his own damage. Changeth not—Continues firm to perform his promise.\n\nArminian pastoral: shared—moral sight is inverted from the world’s: honor God-fearers over glitter; keep costly vows. Grace enables esteem that costs social capital and promises that cost personal convenience.",
+      "reformedNotes": "Calvin: the godly despise the ungodly as their character deserves, and honor those who fear the LORD—free judgment without flattery that nourishes vice. Preferring the world’s favorites over the fear of God is fellowship with darkness. Swearing to one’s hurt: the faithful would rather suffer loss than break their word; common unfaithfulness invents inconvenience to escape engagements.\n\nReformed accent: shared—despise vileness, honor the God-fearing, keep oaths under loss. Steadfast promise-keeping is second-table righteousness, not optional polish."
+    },
+    {
+      "number": 5,
+      "text": "who does not put out his money at interest and does not take a bribe against the innocent. He who does these things shall never be moved.",
+      "arminianNotes": "Wesley: To usury—In such a manner as is contrary to God’s law (Exod. 22:25; Lev. 25:36–37). Reward—A bribe for him who hath a bad cause. Moved—He shall abide with God here, and when he dies be for ever with the Lord.\n\nArminian reading: shared—refuse predatory gain and bribes that crush the innocent. The one who does these things is unmoved: abiding with God now and forever. Grace produces this economic and judicial integrity; the hearer must still refuse the bite of usury and the price of a bad cause.",
+      "reformedNotes": "Calvin: neither oppress by usury nor take bribes for unrighteous causes. God looks on the thing as it is—unjust bargains that devour the poor are condemned whatever specious name they wear. He who does these things shall not be moved forever: not all who thrust into the sanctuary are permanent citizens; hypocrites shall be cast out. God dwells with the faithful and is far from the perfidious who approach only with the mouth.\n\nReformed accent: shared—unmoved stability belongs to those whose integrity God owns. Permanence is covenant presence, not bare grit; grace that produces these works keeps the citizen from being shaken.",
+      "keyContrast": "Both confess that refusing predatory interest and bribes against the innocent belongs to the life that shall never be moved, and both refuse either a works-ladder into heaven or a soft gospel that leaves oppression untouched. Arminian readers, with Wesley, hear abiding with God here and forever as the end of walking this grace-enabled way—the hearer must do these things. Reformed readers, with Calvin, hear permanence as God dwelling with genuine servants whose integrity is covenant fruit: hypocrites are cast out, while grace-produced righteousness marks those who shall not be moved forever."
+    }
+  ]
+}

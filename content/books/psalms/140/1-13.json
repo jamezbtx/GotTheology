@@ -1,0 +1,115 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 140,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Psalm 140:1–13",
+  "context": "To the choirmaster. A Psalm of David: a cry for deliverance from evil and violent men whose hearts plan mischief, whose tongues are serpent-sharp, and whose nets and snares line the path. David confesses the LORD as his God and the strength of his salvation, pleads that wicked desires not be granted, and looks for justice that maintains the afflicted—so the righteous give thanks and the upright dwell in God’s presence.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on deliverance from violent plotters, serpent tongues and hidden snares, covered heads in battle, and the LORD’s sure justice for the afflicted—so each camp speaks in its own voice beside Psalm 140:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "From the evil man—Saul, who was full of envy, jealousy, and cruelty against David, to whom both himself and his kingdom were under the highest obligations, endeavoured by every means to destroy him. They have sharpened their tongues—They employ their time in forging lies and calumnies against me; and those of the most virulent nature. Preserve me from the violent man—Saul again; who was as headstrong and violent in all his measures, as he was cruel, and inflexibly bent on the destruction of David. Have hid a snare for me—They hunted David as they would a dangerous wild beast. Thou hast covered my head—Not only when I fought with the proud blaspheming Philistine; but in the various attempts made against my life by my sworn enemies. Further not his wicked device—He knew his enemies still desired his death, and were plotting to accomplish it; and here he prays that God may disappoint and confound them. The cause of the afflicted—Every person who is persecuted for righteousness’ sake has God for his peculiar help and refuge; and the persecutor has the same God for his especial enemy. The righteous shall give thanks—For thou wilt support and deliver him. The upright shall dwell in thy presence—Shall be admitted to the most intimate intercourse with God.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 140)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I cannot bring myself to restrict this Psalm to Doeg, as the great body of interpreters do, for the context will clearly show that it speaks of Saul, and of the counselors who ceased not to inflame the king. The terms wicked and violent men denote their unwarranted attempts at his destruction without provocation given. He therefore commends his cause to God, as having studied peace with them, as never having injured them, but being the innocent object of their unjust persecution. The same rule must be observed by us all, as it is against violence and wickedness that the help of God is extended. He charges them with inward malignity of heart; they stirred up unjust war by wicked calumnies. He prays keep me—that God would be his avenger; he complains of nets spread out on every side. I said to Jehovah: till we have a persuasion of being saved through the grace of God there can be no sincere prayer. He recalls deliverances already extended; God has been to him as a shield. Grant not the desires of the wicked—God can frustrate unprincipled designs. David cuts off the reprobate from the hope of pardon, as knowing them to be beyond recovery. I have known that God will be the judge of the poor and the afflicted; he will not give way to despair. The righteous would give thanks to God, and be safe under his help; to dwell before God’s face is to be cherished and sustained by his fatherly regards.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 140)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Deliver me, O LORD, from evil men; preserve me from violent men,",
+      "arminianNotes": "Deliver and preserve—from evil and violent men. The opening is urgent petition against real persecution, not abstract worry.\n\nClassical Arminians welcome this honest cry. Seek the LORD’s rescue; violence is not met by self-help alone but by calling on the God who can preserve.",
+      "reformedNotes": "Deliver me, O LORD, from evil men; preserve me from violent men. Innocent persecution is laid before God as Judge and Helper.\n\nReformed accent: help is extended against violence and wickedness. Commend the cause to God rather than multiplying bare reproach."
+    },
+    {
+      "number": 2,
+      "text": "who plan evil things in their heart and stir up wars continually.",
+      "arminianNotes": "Evil planned in the heart; wars stirred continually. Hostility is inward before it is outward.\n\nArminian pastoral: take heart-plotting seriously. Continual agitation is a moral course to refuse and to pray against—not a fate to admire.",
+      "reformedNotes": "Mischief imagined in the heart; wars gathered and stirred. Inward malignity drives the open campaign.\n\nReformed note: the more treacherous the assault, the nearer the promised aid of the Spirit who gave this form of prayer."
+    },
+    {
+      "number": 3,
+      "text": "They make their tongue sharp as a serpent’s, and under their lips is the venom of asps. Selah",
+      "arminianNotes": "Tongue sharp as a serpent’s; venom of asps under the lips. Words wound like poison.\n\nClassical Arminians hear a warning about speech. Calumny is not small talk; pray to be kept from both suffering and spreading such venom.",
+      "reformedNotes": "Serpent tongue and asp venom under the lips. Calumny is the weapon when open force cannot crush the innocent.\n\nReformed accent: unjust war is often lit by false report. The Spirit records the poison so the church may seek God against it."
+    },
+    {
+      "number": 4,
+      "text": "Guard me, O LORD, from the hands of the wicked; preserve me from violent men, who have planned to trip up my feet.",
+      "arminianNotes": "Guard and preserve—from wicked hands and feet-tripping plans. The plea repeats with fresh urgency.\n\nArminian pastoral: keep asking for guarding grace. Planned trips are real; the hearer may still cast every scheme on the LORD who preserves.",
+      "reformedNotes": "Keep me from the hand of the wicked; preserve from violent men who plot to overthrow the unsuspecting.\n\nReformed comfort: complaint turns again to prayer. God is sought as avenger and keeper when human hands close in."
+    },
+    {
+      "number": 5,
+      "text": "The arrogant have hidden a trap for me, and with cords they have spread a net; beside the way they have set snares for me. Selah",
+      "arminianNotes": "Arrogant hunters hide trap, net, and snares beside the way. Pride invents ambush along ordinary paths.\n\nClassical Arminians urge watchful dependence. Walk the way, but pray against hidden cords; God can expose what arrogance conceals.",
+      "reformedNotes": "Proud men spread gins and snares; confident in power, they still devise stratagem.\n\nReformed accent: insolent pride and craft both drive the saint to God, who can repel the rage of the wicked."
+    },
+    {
+      "number": 6,
+      "text": "I say to the LORD, You are my God; give ear to the voice of my pleas for mercy, O LORD!",
+      "arminianNotes": "I say to the LORD, You are my God—then plead for mercy’s ear. Confession and petition meet.\n\nArminian reading: own Him as your God and keep pleading. Mercy is sincerely sought; the voice of plea is welcome at His throne.",
+      "reformedNotes": "I said to Jehovah, You are my God; give ear to mercy’s pleas. Prayer rises from inward faith, not lip show.\n\nReformed accent: till there is persuasion of being saved through grace, there is no sincere prayer. Faith turns from man’s view to address God apart.",
+      "keyContrast": "Both confess the LORD as God and plead for mercy’s ear. Arminians typically stress the open invitation to keep pleading in faith; Reformed readers typically stress that sincere prayer itself rests on grace-wrought persuasion of salvation, not bare outward cry."
+    },
+    {
+      "number": 7,
+      "text": "O LORD, my Lord, the strength of my salvation, you have covered my head in the day of battle.",
+      "arminianNotes": "O LORD, my Lord—strength of salvation; You have covered my head in battle. Past covering fuels present trust.\n\nClassical Arminians hear experience teaching prayer. Remember covered days; let proven care encourage fresh dependence in new fights.",
+      "reformedNotes": "Strength of salvation; head covered in the day of battle. Past shield becomes fuel for present faith.\n\nReformed comfort: he comes not as a raw recruit but as one already protected. Recalled deliverance corroborates the plea."
+    },
+    {
+      "number": 8,
+      "text": "Grant not, O LORD, the desires of the wicked; do not further their evil plot, or they will be exalted! Selah",
+      "arminianNotes": "Grant not wicked desires; do not further the evil plot, lest they be exalted. Prayer asks God to disappoint schemes.\n\nArminian pastoral: when enemies will not turn, ask God to thwart the device. Exaltation of evil is not a good to accept passively.",
+      "reformedNotes": "Grant not—establish not—the desires of the wicked; frustrate aims so they are not lifted up in pride.\n\nReformed accent: it is in God’s power, whenever He sees proper, to dash unprincipled designs. Security that overlooks providence is censured.",
+      "keyContrast": "Both pray that wicked desires not be granted. Arminians typically emphasize petition that God disappoint and confound plots; Reformed readers typically emphasize God’s sovereign power to frustrate designs according to His wise timing and purpose."
+    },
+    {
+      "number": 9,
+      "text": "As for the head of those who surround me, let the mischief of their lips overwhelm them!",
+      "arminianNotes": "Let lip-mischief overwhelm the surrounding head. Designed harm rebounds on the designer.\n\nClassical Arminians hear poetic justice asked of God. Slanderers reap what they sow; leave the rebound to the Judge, not to private revenge.",
+      "reformedNotes": "Mischief of wicked speech falls on their own head. Imprecation seeks God’s just return of calumny.\n\nReformed note: the plea is not private spite but appeal that God settle the account of venomous lips."
+    },
+    {
+      "number": 10,
+      "text": "Let burning coals fall upon them! Let them be cast into fire, into miry pits, no more to rise!",
+      "arminianNotes": "Burning coals, fire, miry pits—no more to rise. Severe judgment imagery against hardened persecutors.\n\nArminian hearing: divine vengeance is real. The prayer seeks God’s public justice against relentless violence, not a license for the saint’s cruelty.",
+      "reformedNotes": "Coals and fire recall Sodom; deep pits from which they never rise. David cuts off the reprobate from hope of pardon as beyond recovery.\n\nReformed accent: God sometimes heals those He smites severely; here the prayer marks those judged past repentance. Had they been disposable to repentance, mercy would have inclined.",
+      "keyContrast": "Both take the imprecation as appeal to God’s real judgment. Arminians typically stress God’s vengeance on violent persecutors without authorizing personal cruelty; Reformed readers, with Calvin, hear a cutting off of the reprobate as beyond recovery under God’s just sentence."
+    },
+    {
+      "number": 11,
+      "text": "Let not the slanderer be established in the land; let evil hunt down the violent man speedily!",
+      "arminianNotes": "Let the slanderer not be established; let evil hunt the violent speedily. Land and haste mark public and prompt justice.\n\nArminian pastoral: pray against the rooted liar and the violent career. Establishment of slander is a social evil the church may ask God to uproot.",
+      "reformedNotes": "The man of virulent tongue shall not be established; mischief hunts the violent into ruin.\n\nReformed comfort: whether by treachery or open force, God is the deliverer. The crafty cannot elude divine judgments."
+    },
+    {
+      "number": 12,
+      "text": "I know that the LORD will maintain the cause of the afflicted, and will execute justice for the needy.",
+      "arminianNotes": "I know—the LORD will maintain the afflicted’s cause and execute justice for the needy. Confidence seals the prayer.\n\nClassical Arminians press this knowing as trust to keep. Afflicted saints may rely on God’s peculiar help; persecutors answer to the same God.",
+      "reformedNotes": "I have known that God will maintain the afflicted’s cause and judge the needy. Doubtful prayer is no prayer; providence undergirds the plea.\n\nReformed accent: God may connive for a time, yet He does so advisedly to relieve and recover. It is His part to undertake the poor’s cause—do not despair in delay.",
+      "keyContrast": "Both confess sure knowledge that the LORD maintains the afflicted and executes justice for the needy. Arminians typically stress confident trust the persecuted may keep in God’s help; Reformed readers typically stress providence that may delay yet never abandons His judicial care of the poor."
+    },
+    {
+      "number": 13,
+      "text": "Surely the righteous shall give thanks to your name; the upright shall dwell in your presence.",
+      "arminianNotes": "Surely the righteous give thanks; the upright dwell in Your presence. Deliverance ends in praise and nearness.\n\nArminian pastoral: expect thanksgiving and intimate fellowship. Support and deliverance lead to dwelling before God—not mere escape.",
+      "reformedNotes": "Surely—affirmatively—the righteous will thank His name; the upright dwell before His face, cherished by fatherly regards.\n\nReformed comfort: though trouble silence praise for a time, what was taken will be restored. Struggle upward to persuasion that the Lord’s people will sing again."
+    }
+  ]
+}

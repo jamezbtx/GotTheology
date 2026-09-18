@@ -1,0 +1,77 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 110,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Psalm 110:1–7",
+  "context": "A Psalm of David. The LORD says to David’s Lord: Sit at my right hand until I make your enemies a footstool; from Zion He sends the mighty scepter to rule amid enemies; a willing people offer themselves in holy garments on the day of power; the LORD swears without changing His mind that this Lord is a priest forever after Melchizedek’s order; the Lord at the right hand shatters kings in the day of wrath, judges the nations, and, drinking from the brook by the way, lifts up His head. Historic Arminian and Reformed confession agrees here on the Messiah’s session, priesthood, and victory.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the LORD’s decree to David’s Lord, the eternal Melchizedek priesthood, and the Messiah’s conquering session—so each camp speaks in its own voice beside Psalm 110:1–7, on shared messianic ground.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named. Where classical Arminian and Reformed readers agree on Christ’s person and work in this psalm, the notes mark that agreement.",
+    "arminian": [
+      {
+        "quote": "The Lord—God the Father. Said—decreed it from eternity, and in due time published and executed it when He raised Christ and brought Him to His heavenly mansion. Unto my Lord—unto His Son the Messiah, whom David designedly calls his Lord, to admonish the church that although He was his son according to His human nature, yet He had a higher nature, and was also his Lord, as being God blessed for ever. Sit—take possession of that sovereign kingdom and glory which by right belongs to Thee. The rod—His powerful scepter, which as Christ’s kingdom is spiritual is nothing else but His word. People—Thy subjects shall offer themselves as living sacrifices and freewill-offerings. Sworn—that this priesthood might be sure and irrevocable. The Lord at thy right hand—God the Son shall destroy obstinate kings. Drink—He shall have a large portion of afflictions in the way before the honour of the right hand; therefore He shall be exalted to great glory.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 110)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David sets forth the perpetuity of Christ’s reign and the eternity of His priesthood: God conferred on Christ supreme dominion with invincible power; He would extend the kingdom far and wide; Christ, installed as priest with an oath, sustains priestly and regal honors forever after Melchizedek, ending the temporary Levitical order. Jehovah said to my Lord, Sit at my right hand—something more lofty than ordinary kings; the Son is exalted above all creatures. Until I make thine enemies thy footstool—Christ subdues all opposition; the kingdom is assailed until the end, yet unmoved. Thy people shall come with voluntary offerings—a willing people in beauty of holiness; dew of youth an innumerable offspring. Jehovah hath sworn and will not repent—Thou art a priest for ever after Melchizedek; the oath seals a priesthood on which our access depends. The Lord at thy right hand shatters kings; He judges nations; drinking of the brook in the way, He presses the pursuit and lifts up His head.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 110)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD says to my Lord: “Sit at my right hand, until I make your enemies your footstool.”",
+      "arminianNotes": "The LORD says to my Lord: Sit at my right hand until I make your enemies your footstool. Wesley: The Lord—God the Father; Said—decreed from eternity and executed in Christ’s resurrection and ascension; my Lord—the Messiah, David’s son according to the flesh yet his Lord as God blessed forever; Sit—possession of sovereign glory; enemies—ungodly men, sin, death, and the devil as footstool.\n\nShared messianic christology: both camps, with Jesus’ own reading (Matt 22:44) and the apostles, confess David’s Lord as the risen Christ seated at the Father’s right hand. Classical Arminians hear a real decree fulfilled in history and sincerely proclaimed.",
+      "reformedNotes": "Calvin: Jehovah said to my Lord, Sit at my right hand—more than ordinary royal authority; one King elevated next to God, a dignity of which David saw only twilight and Christ the meridian. Until I make thine enemies thy footstool—all opposition fails; the throne remains. The particle until does not end the reign but marks the time of conquest; Paul speaks of the manner of the kingdom, not its cessation.\n\nShared messianic christology: Reformed confession joins Wesley here—Christ’s session, deity, and victory over enemies. The camps agree that David’s Lord is Christ."
+    },
+    {
+      "number": 2,
+      "text": "The LORD sends forth from Zion your mighty scepter. Rule in the midst of your enemies!",
+      "arminianNotes": "The LORD sends from Zion your mighty scepter—rule in the midst of your enemies. Wesley: The rod—powerful scepter for kingly power; as Christ’s kingdom is spiritual, this scepter is His word; Zion—from Jerusalem.\n\nShared: both camps confess Christ’s rule amid enemies by the word going out from Zion. Arminian pastoral—preach and obey that word; the scepter is not carnal coercion.",
+      "reformedNotes": "Calvin: Jehovah sends out of Zion the scepter of thy power—Christ’s kingdom extended far beyond Israel’s narrow bounds, even when the world leagues against it. Rule in the midst of thine enemies—warfare until the end, under invincible power.\n\nShared: Reformed and Arminian readers alike hear the Gentile mission in the stretching scepter. Christ reigns now in the midst of foes."
+    },
+    {
+      "number": 3,
+      "text": "Your people will offer themselves freely on the day of your power, in holy garments; from the womb of the morning, the dew of your youth will be yours.",
+      "arminianNotes": "Your people offer themselves freely on the day of your power, in holy garments; dew of youth from the morning’s womb. Wesley: People—subjects offering themselves as living sacrifices and freewill-offerings; day—when He takes the rod and sets up His kingdom; beauties—robes of righteousness and holiness; dew—offspring of the church more numerous than morning dew.\n\nShared: willing people, holiness, innumerable increase. Arminian accent—freewill offerings of self under grace; the day of power enables a real, glad consecration.",
+      "reformedNotes": "Calvin: a willing people with voluntary offerings at the assembling of the army, in beauty of holiness—prompt obedience without forced constraint; only those who take Christ’s yoke are recognized as His. Dew of youth—innumerable offspring spread over the earth, gathered by the gospel alone despite world opposition.\n\nShared: both glory in willing subjects and holy beauty. Reformed accent—willingness as the mark of the chosen who hear His voice; increase by the word’s power.",
+      "keyContrast": "Both confess a willing people in holy beauty and a vast gospel offspring under Christ’s power. Arminians typically stress free, grace-enabled self-offering on the day His kingdom is set up. Reformed readers typically stress that those who come willingly are the people He gathers by the word—prompt obedience as the privilege of the chosen, not forced constraint."
+    },
+    {
+      "number": 4,
+      "text": "The LORD has sworn and will not change his mind, “You are a priest forever after the order of Melchizedek.”",
+      "arminianNotes": "The LORD has sworn and will not change His mind—You are a priest forever after Melchizedek’s order. Wesley: Sworn—that this priesthood might be sure and irrevocable.\n\nShared messianic christology: both camps, with Hebrews, confess Christ’s everlasting Melchizedek priesthood—king and priest in one, beyond Levi. Arminian pastoral—our access rests on this sure oath; come boldly because the priesthood will not be revoked.",
+      "reformedNotes": "Calvin: Jehovah hath sworn and will not repent—Thou art a priest forever after Melchizedek. The oath marks something peculiar: crown and priesthood joined; Levi’s temporary order gives way. Our salvation turns on this Mediator; to shut the door is to charge God with untruth. Melchizedek likeness is chiefly perpetuity—no successor, against any mass that would seize reconciliation from Christ.\n\nShared: Reformed and Arminian confession alike receive Hebrews’ reading. The priest forever is Christ; the camps stand together in that confession."
+    },
+    {
+      "number": 5,
+      "text": "The Lord is at your right hand; he will shatter kings on the day of his wrath.",
+      "arminianNotes": "The Lord at your right hand will shatter kings on the day of His wrath. Wesley: The Lord—God the Son at the right hand; Strike—destroy obstinate enemy kings.\n\nShared: Messiah’s judicial power in the day of wrath. Both refuse a Christ who never judges. Arminian pastoral—wrath is real; flee to the Priest while the day of grace holds.",
+      "reformedNotes": "Calvin: the Lord at thy right hand breaks kings in the day of His wrath—power to disperse enemies; endure the cross when fury seems to prevail, for God knows the fit season. Christ keeps distant nations under His sway (cf. Ps 2).\n\nShared: session and wrath together. Reformed accent—timing of vengeance is God’s; patience under the cross until that day."
+    },
+    {
+      "number": 6,
+      "text": "He will execute judgment among the nations, filling them with corpses; he will shatter chiefs over the wide earth.",
+      "arminianNotes": "He will execute judgment among the nations, filling them with corpses; shatter chiefs over the wide earth. Wesley: Judge—condemn and punish; dead bodies—of enemies; heads—princes who oppose; not to be understood grossly but spiritually, according to Christ’s kingdom.\n\nShared: worldwide judgment under the Messiah. Arminian note with Wesley—spiritual reading of the warfare without denying real judgment on obstinate rebellion.",
+      "reformedNotes": "Calvin: He shall judge among the heathen, fill with ruins, crush the head over a great country—power over the nations; rebels fall before Him.\n\nShared: Gentile judgment under Christ. Reformed pastoral—the wide earth is His field; chiefs who resist are shattered."
+    },
+    {
+      "number": 7,
+      "text": "He will drink from the brook by the way; therefore he will lift up his head.",
+      "arminianNotes": "He will drink from the brook by the way; therefore He will lift up His head. Wesley: Drink—a large portion of afflictions in the course of life before the honor of the right hand; waters often signify sufferings; Therefore—exalted to great glory and felicity.\n\nShared passion-to-exaltation pattern: both camps hear suffering then lifted head—cross then crown. Arminian pastoral—the way includes the brook of affliction; exaltation follows.",
+      "reformedNotes": "Calvin: He shall drink of the torrent in the way and therefore elevate His head—like a general who will not stop for luxury but hastily drinks and presses pursuit; prowess that strikes enemies with terror. Meek to His flock, terrible to wolves.\n\nShared: the lifted head after the hard way. Reformed accent—relentless conquest after refreshment in the campaign; do not provoke the wrath of the One who sweetly invites.",
+      "keyContrast": "Both confess a Messiah who drinks the hard way and then lifts His head in triumph. Arminians typically follow Wesley in hearing the brook as the portion of afflictions before session-glory. Reformed readers typically follow Calvin’s warrior image—pressing the campaign without soft delay—while both still agree this is Christ’s path from suffering to exaltation."
+    }
+  ]
+}

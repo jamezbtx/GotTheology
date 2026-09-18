@@ -1,0 +1,91 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 28,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 28:1–9",
+  "context": "Of David. The psalmist calls to the LORD his rock, pleading not to be met with silence lest he become like those who go down to the pit; lifts hands toward the most holy sanctuary with pleas for mercy; begs not to be dragged off with the wicked who speak peace while evil is in their hearts; asks that workers of evil receive according to their deeds; names their disregard of the LORD's works as the reason they will be torn down and built up no more; then blesses the LORD who has heard; confesses him as strength and shield, trust, help, exultation, and song; declares the LORD the strength of his people and saving refuge of his anointed; and prays: save your people, bless your heritage, be their shepherd and carry them forever.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on crying to God as rock, hands lifted toward the sanctuary, the plea not to be dragged with the wicked, the serious imprecation of due reward, assurance that prayer was heard, and the shepherd prayer for God's people—so each camp speaks in its own voice beside Psalm 28:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "David cries unto the LORD his rock; lifts his hands toward the holy oracle; deprecates being dragged with the wicked; asks that workers of iniquity receive their desert; blesses God who heard; and prays for God's people. Towards—Towards the holy of holies, because there the ark was; from whence God gave oracular answers to his people. Draw not—Do not drag me; as thou dost these, to execution and destruction. Regard not—The providential works of God towards his people. I am helped—He speaks of it as past, because God assured him by his spirit, that he had heard and accepted his prayers.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 28"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Psalmist begins by declaring that he would betake himself to the help of God alone. By calling God his strength, he confided in God's assistance even under the severest temptations; silent is set against sensible experience of aid. Draw me not away: God should not mingle the righteous with the wicked in indiscriminate destruction; it is God's prerogative to distinguish and give every one his due. Give them according to their works: he is not inflamed by private sorrow; laying aside desire of the flesh, he gives judgment concerning the matter itself—we must cordially desire the welfare of the whole human race and wish the conversion of those who seem to rush on destruction. Blessed be Jehovah: his prayers were not in vain; God is his strength and shield. Jehovah is their strength and the strength of the salvations of his anointed—victory attributed to God alone. Save thy people: not so much his own welfare as the welfare of the whole Church; he assigns the shepherd office to God, confessing he is unfit for it save as God's minister.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 28"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "To you, O LORD, I call; my rock, be not deaf to me, lest, if you be silent to me, I become like those who go down to the pit.",
+      "arminianNotes": "To you, O LORD, I call; my rock, be not deaf to me, lest silence leave me like those who go down to the pit. The cry is personal and urgent: rock names dependable refuge; deafness and silence name the dread of unanswered prayer.\n\nArminian pastoral: shared piety—call on the LORD alone when help must come from outside yourself. Do not treat silence lightly; the pit image shows how total the need is. Keep crying to the rock, not to substitutes that cannot hear.",
+      "reformedNotes": "Calvin: he betakes himself to the help of God alone—faith and sincerity. Scarcely one in a hundred has recourse to God; most gnaw the bit, fill the air with unavailing complaints, or faint. By calling God his strength he confided not only in peace but under severest temptations. Silent is set against sensible experience of aid. It is as if he said, I am nothing if thou leavest me; if thou succourest me not, I perish.\n\nReformed pastoral: shared—renounce self-help and worldly props; betake yourself to God alone. Conviction of inability belongs with the cry. Silence feared is not unbelief's invention; it drives the soul to the rock who alone keeps from the pit.",
+      "keyContrast": "Both refuse every refuge but the LORD as rock when silence would mean the pit. Arminians typically hear the experiential urgency of the cry: rock, hearing, and rescue from the pit as lived dependence in prayer. Reformed readers typically hear Calvin's accent: betake yourself to God alone, renounce all help from the world, and treat silence as the opposite of God's sensible aid—without whose favor no hope remains."
+    },
+    {
+      "number": 2,
+      "text": "Hear the voice of my pleas for mercy, when I cry to you for help, when I lift up my hands toward your most holy sanctuary.",
+      "arminianNotes": "Hear the voice of my pleas for mercy, when I cry for help, when I lift up my hands toward your most holy sanctuary. Wesley: Towards—Towards the holy of holies, because there the ark was; from whence God gave oracular answers to his people.\n\nArminian pastoral: shared—hands lifted toward God's appointed presence, not toward empty gesture. Cry and mercy belong together. Seek answer where God has pledged to meet his people.",
+      "reformedNotes": "Calvin: repetition signs a heart in anguish; voice and cry mark burning, vehement desire, not cold prayer. Hands lifted are a help to devout prayer when without hypocrisy. David lifts hands not merely to heaven but to the sanctuary, that by its help he might ascend more easily—yet not so tied to the outward place as to forget that God must be sought spiritually. The sanctuary was pledge of the covenant; the faithful now direct faith to Christ.\n\nReformed pastoral: shared—vehement crying and lifted hands aim at God's promised nearness. Use appointed helps without superstition; let the sanctuary (and now Christ) raise the heart to the Father."
+    },
+    {
+      "number": 3,
+      "text": "Do not drag me off with the wicked, with the workers of evil, who speak peace with their neighbors while evil is in their hearts.",
+      "arminianNotes": "Do not drag me off with the wicked, with the workers of evil, who speak peace while evil is in their hearts. Wesley: Draw not—Do not drag me; as thou dost these, to execution and destruction. The plea takes judgment seriously: the wicked are truly headed for destruction; the righteous beg not to share that end.\n\nArminian pastoral: shared—hypocrisy of peace-speech with evil hearts is named without soft-pedaling. Ask to be kept from their doom, not from moral clarity about their craft. Integrity still needs mercy not to be swept into their judgment.",
+      "reformedNotes": "Calvin: in dissimilar circumstances God should not mingle the righteous with the wicked in indiscriminate destruction. Indirectly he asserts integrity, yet reasons from God's nature—it is God's prerogative to distinguish and give every one his due. Workers of iniquity means those wholly addicted to wickedness; God's children may fall, but fear stirs repentance. Craft that speaks peace while malice hides is more detestable than open depravity.\n\nReformed pastoral: shared—pray not to be dragged off with the double-tongued wicked. Take their doom and their deceit seriously; trust God to sort righteous from wicked without erasing either the plea or the threat."
+    },
+    {
+      "number": 4,
+      "text": "Give to them according to their work and according to the evil of their deeds; give to them according to the work of their hands; render them their due reward.",
+      "arminianNotes": "Give to them according to their work and the evil of their deeds; according to the work of their hands; render them their due reward. The threefold ask matches piled-up evil: both camps take the imprecation as real petition for just recompense, not as a joke or a mere venting.\n\nArminian pastoral: shared—due reward for evil deeds is asked under God's justice, not private spite. Do not caricature this verse as bloodlust; hear it as the oppressed crying for God to weigh works truly. Hold the plea beside the mercy still sought for the speaker in v. 3.",
+      "reformedNotes": "Calvin: accumulation shows he had groaned long before breaking forth to desire such vengeance; constant evil doings made audacity intolerable. Yet if flesh moves us to seek revenge, the desire is wicked. David's example must not be alleged by intemperate passion: he is not inflamed by private sorrow; laying aside desire of the flesh, he gives judgment on the matter itself. We must cordially desire the welfare of the whole human race and wish conversion even of those who seem to rush on destruction; he pleads God's cause more than his own.\n\nReformed pastoral: shared—imprecation is serious and measured by God's judgment-seat. Free the heart from hatred before asking due reward; labor for neighbors' welfare even while asking God to restrain unrepentant wickedness.",
+      "keyContrast": "Both take the imprecation of vv. 3–5 with full seriousness—evil deeds deserve due reward under God, not caricature as either soft sentiment or private revenge. Arminians typically stress Wesley's frame at v. 3: the wicked are truly dragged to execution and destruction, and the plea is not to share that end while justice still falls on their works. Reformed readers typically stress Calvin's guardrails: strip fleshly vengeance, judge the matter itself, desire the human race's welfare and even conversion, and plead God's cause rather than private spite."
+    },
+    {
+      "number": 5,
+      "text": "Because they do not regard the works of the LORD or the work of his hands, he will tear them down and build them up no more.",
+      "arminianNotes": "Because they do not regard the works of the LORD or the work of his hands, he will tear them down and build them up no more. Wesley: Regard not—The providential works of God towards his people. Root of their doom is willful disregard of what God has done.\n\nArminian pastoral: shared—judgment answers contempt for God's works, not arbitrary rage. Regard the LORD's providence toward his people; do not harden into the blindness that invites being torn down without rebuilding.",
+      "reformedNotes": "Calvin: root of impiety—they are bold to do mischief because they think they have nothing to do with God; intoxicated with prosperity they flatter themselves, or persuade themselves the world runs by chance. Let him destroy them and not build them up continues the petition that they be overthrown so as not to recover. Learn to awake to God's works, lest an incurable plague strike.\n\nReformed pastoral: shared—disregard of the LORD's works is the hinge of their ruin. Faith considers providence even in confusion; refuse the blindness that tramples God's handiwork while doing evil."
+    },
+    {
+      "number": 6,
+      "text": "Blessed be the LORD! For he has heard the voice of my pleas for mercy.",
+      "arminianNotes": "Blessed be the LORD! For he has heard the voice of my pleas for mercy. Prayer turns to praise: the same voice of pleas (v. 2) is now confessed as heard.\n\nArminian pastoral: shared—bless God when mercy's cry is answered. Do not leave thanksgiving unspoken. Hearing received becomes public blessing.",
+      "reformedNotes": "Calvin: second part of the psalm—thanksgiving confirms that prayers were not in vain. He teaches by example that God is ready to help his people whenever they seek him in truth and sincerity.\n\nReformed pastoral: shared—answered prayer flowers into blessing the LORD. Let experience of being heard strengthen the next cry; gratitude seals the mercy."
+    },
+    {
+      "number": 7,
+      "text": "The LORD is my strength and my shield; in him my heart trusts, and I am helped; my heart exults, and with my song I give thanks to him.",
+      "arminianNotes": "The LORD is my strength and my shield; in him my heart trusts, and I am helped; my heart exults, and with my song I give thanks to him. Wesley: I am helped—He speaks of it as past, because God assured him by his spirit, that he had heard and accepted his prayers. Trust, help, exultation, and song form one chain.\n\nArminian pastoral: shared—strength and shield are God himself; help received moves the heart to thanks. Hear Wesley's accent: assurance of accepted prayer can let the believer speak help as already given. Sing what trust has received.",
+      "reformedNotes": "Calvin: persuaded God had heard him because he had been wonderfully preserved. He adds that he had been helped in respect of his confidence and hope—for callers often come short through unbelief. Wicked men and hypocrites flee to God in trouble, then forget their deliverer and rejoice with frantic mirth; David adds a testimony of gratitude. He trusted not in vain; true joy opens the mouth to sing praises.\n\nReformed pastoral: shared—strength, shield, trust, help, exultation, and song. Confidence is the path of being helped; thanksgiving distinguishes true deliverance from the amnesia of hypocrites.",
+      "keyContrast": "Both confess the LORD as strength and shield, with trust issuing in help, joy, and song. Arminians typically stress Wesley's point: help spoken as past because the Spirit assured that prayer was heard and accepted. Reformed readers typically stress Calvin's point: help comes in the line of confidence and hope—unbelief can short the grace—and true joy must add grateful song, unlike hypocrites who forget the deliverer once trouble lifts."
+    },
+    {
+      "number": 8,
+      "text": "The LORD is the strength of his people; he is the saving refuge of his anointed.",
+      "arminianNotes": "The LORD is the strength of his people; he is the saving refuge of his anointed. Personal help (v. 7) widens: the same LORD strengthens the people and shelters his anointed.\n\nArminian pastoral: shared—do not privatize strength; God's people and his anointed share the refuge. Celebrate corporate strength without losing the personal trust of v. 7.",
+      "reformedNotes": "Calvin: by way of explanation he repeats that God had been his strength—because he had blessed his armies. Whatever help from men proceeded from God; he attributes victory to God alone. Anointed: had God not appointed him king, he would not have favored him more than Saul; from the anointing God never ceased to help until grace's work was done.\n\nReformed pastoral: shared—people and anointed stand under one strength. Means and armies must not obscure God's glory; lawful calling encourages hope that God finishes what he began."
+    },
+    {
+      "number": 9,
+      "text": "Oh, save your people and bless your heritage! Be their shepherd and carry them forever.",
+      "arminianNotes": "Oh, save your people and bless your heritage! Be their shepherd and carry them forever. The psalm ends in intercession: salvation, blessing, shepherding, and lifelong carrying for the heritage, not for the speaker alone.\n\nArminian pastoral: shared—pray beyond private rescue to the people's good. Ask the LORD to shepherd and carry; lasting care is his work. Bless the heritage he claims as his own.",
+      "reformedNotes": "Calvin: not so much his own welfare as the welfare of the whole Church; he lived and reigned for the common good—a type of the Son of God whose salvation diffuses through his members. He assigns the shepherd office to God, confessing he is unfit for it save as God's minister. David is a mirror of the continual course of God's grace; let obedience of faith correspond to fatherly love.\n\nReformed pastoral: shared—save, bless, shepherd, and carry are asked for the people forever. Kings and leaders must want preservation for the people's sake; the true Shepherd remains God himself.",
+      "keyContrast": "Both end by seeking the people's salvation, blessing, and shepherd care forever—not a private exit from trouble. Arminians typically hear the pastoral wideness of the plea: save and bless the heritage; let God shepherd and carry his own. Reformed readers typically hear Calvin's Christward and churchward accent: concern for the whole Church, the anointed as type of the Son whose salvation spreads to his members, and the shepherd office confessed as God's, the king only a minister."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 137,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 137:1–9",
+  "context": "An exile lament by the waters of Babylon: captives weep at the memory of Zion, hang lyres on the willows, and refuse to turn the LORD’s song into entertainment for tormentors. Vow follows—Jerusalem above highest joy—then appeal that God remember Edom’s cry to raze the city, and solemn judgment language against Babylon’s doom, including the hard closing line of retributive warfare. Both camps take the imprecation seriously as Scripture under exile grief, not as flippant revenge theater.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on exile tears, refused mockery-song, love of Jerusalem, and judgment on Edom and Babylon—so each camp speaks in its own voice beside Psalm 137:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "By the rivers of Babylon—captives held religious meetings on river banks. We hanged our harps upon the willows—a most affecting picture: reflecting on their country they unstrung their harps and gave loose to grief. How shall we sing the Lord’s song in a strange land?—Can WE, in this state of slavery, stripped of property, insulted by oppressors, in the land of heathens, sing? God does not expect it; it is base in our enemies to require it. If I forget thee, O Jerusalem—let me lose my skill if I prostitute holy song to please the ungodly. Remember the children of Edom—they joined Nebuchadnezzar and were instruments in rasing Jerusalem. O daughter of Babylon—Cyrus was God’s agent to repay her. Happy that taketh and dasheth thy little ones—so oppressive hast thou been as to become universally hated; those who have the last hand in thy destruction shall be reputed happy. These prophetic declarations contain no excitement to cruelty; they are simply declarative of what would take place in the retributive providence and justice of God. Praying for the destruction of our enemies, in the sense of private revenge, is totally out of the question.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 137)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "There was danger that the Jews cast off in so melancholy a manner should lose hold of their faith. The writer drew up a form of lamentation that by sighs and prayers they might keep alive the hope of deliverance, and warn against decline of godliness in an irreligious land. They sat by Babylon’s rivers and wept when they remembered Zion—tears of humility as well as distress, cut off from the worship of God. How shall we sing Jehovah’s song in a foreign land?—Chaldea was not worthy of that honor; they abstain as from polluted sacrifices, yet must be ready for return. If I forget thee, O Jerusalem—the zeal of God’s house should rise above private considerations. Remember the children of Edom—the Psalmist does not break forth unadvisedly, but as God’s herald confirming prophecy; to pray for vengeance would be unwarrantable had not God promised it against a reprobate party. O daughter of Babylon laid waste—he discerns coming judgment by the eye of faith. Happy he who dashes little ones upon the stones—he does not speak under impulse of personal feeling, but employs words God had authorized; this is declaration of just judgment answering measure for measure, as Isaiah had specially predicted of Babylon.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 137)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "By the waters of Babylon, there we sat down and wept, when we remembered Zion.",
+      "arminianNotes": "Clarke: by rivers of captivity the exiles sat and wept at Zion remembered—grief for lost worship and home, not mere nostalgia for comfort.\n\nArminian pastoral: tears belong before God. Remembering Zion may still break the heart; honest lament is not unbelief, and grace does not mock the captive’s grief.",
+      "reformedNotes": "Calvin: sitting marks prolonged burial in exile; even Babylon’s pleasant waters could not dry tears while they were cut off from God’s sanctuary on Zion.\n\nReformed accent: memory of Zion is memory of the LORD’s worship and promise. Affliction that should quicken faith must not be soothed away by pagan luxury."
+    },
+    {
+      "number": 2,
+      "text": "On the willows there we hung up our lyres.",
+      "arminianNotes": "Clarke: they unstrung instruments and hung them on willow bushes—music stopped under overwhelming distress.\n\nArminian hearing: sometimes holiness refuses forced cheer. The lyre is not surrendered forever; it is set aside until praise can be true again.",
+      "reformedNotes": "Calvin: suspension of temple song under chastisement; even refreshing shade could not heal a wound cut by the LORD’s displeasure.\n\nReformed note: public praise may pause in mourning without denying God. The relics of worship are kept for restoration, not sold for Babylon’s amusement."
+    },
+    {
+      "number": 3,
+      "text": "For there our captors required of us songs, and our tormentors, mirth, saying, “Sing us one of the songs of Zion!”",
+      "arminianNotes": "Clarke: captors requiring Zion’s song was as unreasonable as it was insulting—slavers demanding sacred mirth from the crushed.\n\nArminian pastoral: do not confuse obedience with performing religion for mockers. The songs of Zion are for the LORD, not for tormentors’ sport.",
+      "reformedNotes": "Calvin: the worst affliction was blasphemous mockery aimed less at wounding exiles than at casting scorn on their God—“Is your God dead?”\n\nReformed accent: when the world demands holy song as entertainment, refusal can be fidelity. The insult falls on Jehovah’s name, not only on Israel’s feelings."
+    },
+    {
+      "number": 4,
+      "text": "How shall we sing the LORD’s song in a foreign land?",
+      "arminianNotes": "Clarke: How shall WE sing—exiles, stripped, insulted, in a heathen land? God does not expect mirth as spectacle for oppressors.\n\nArminian reading: the LORD’s song has fitting place and heart. Integrity may withhold song when the request is cruelty dressed as culture.",
+      "reformedNotes": "Calvin: a magnanimous answer—they abstain because the land is polluted; “foreign land” also hints the stay is temporary, Canaan still their sacred rest.\n\nReformed comfort: refusal to coalesce with Babylon keeps hope of return alive. Separation here is loyalty to promised worship, not despair of God’s reach."
+    },
+    {
+      "number": 5,
+      "text": "If I forget you, O Jerusalem, let my right hand forget its skill!",
+      "arminianNotes": "Clarke: forgetting Jerusalem would be tacit peace with bondage; better lose harp-skill than prostitute holy song to the ungodly.\n\nArminian pastoral: love of God’s city and ordinances outranks personal craft. Prefer Jerusalem’s good over the applause of captors.",
+      "reformedNotes": "Calvin: solemn oath that Jerusalem stay engraved on the heart; if zeal for God’s house fades, let the musician’s hand forget its cunning.\n\nReformed accent: public calamity of the church should weigh heavier than private trial. Skill is gift; loyalty to Zion is vow."
+    },
+    {
+      "number": 6,
+      "text": "Let my tongue stick to the roof of my mouth, if I do not remember you, if I do not set Jerusalem above my highest joy!",
+      "arminianNotes": "Clarke: prefer country, people, and God’s ordinances above every chief joy—or lose voice and melody. Grace-made free hearts speak thus under slavery.\n\nArminian hearing: highest joy is recalibrated. Personal delight bows to the LORD’s place and people; that preference is piety, not mere nationalism.",
+      "reformedNotes": "Calvin: set Jerusalem over the head of all joy—prosperity of the church as chief gladness, so her ruin shuts out lesser worldly joys.\n\nReformed note: zeal for God’s house claims the top of the heart’s loves. Memory and preference are forms of faith under exile."
+    },
+    {
+      "number": 7,
+      "text": "Remember, O LORD, against the Edomites the day of Jerusalem, how they said, “Lay it bare, lay it bare, down to its foundations!”",
+      "arminianNotes": "Clarke: Edom joined Nebuchadnezzar and helped raze Jerusalem’s walls—brotherly cruelty remembered before God.\n\nArminian pastoral: appeal is to the LORD’s memory and justice, not to private vendetta. Name the wrong; leave the verdict with Him who judges nations.",
+      "reformedNotes": "Calvin: not unadvised rage but herald of prior prophecy—God had promised to punish Edom; “Remember” strengthens faith to wait His timing.\n\nReformed accent: imprecation tracks God’s Word against a hardened ally of Babylon. Amendment would be desired for enemies generally; here Scripture had already closed the case.",
+      "keyContrast": "Both treat the cry against Edom as serious appeal to God’s justice, not casual spite. Arminian readers typically stress laying the injury before the LORD and refusing private revenge. Reformed readers typically stress that the plea stands on God’s prior prophetic promise against a reprobate partner in Jerusalem’s fall—vengeance asked only where God had spoken."
+    },
+    {
+      "number": 8,
+      "text": "O daughter of Babylon, doomed to be destroyed, blessed shall he be who repays you with what you have done to us!",
+      "arminianNotes": "Clarke: Babylon the destroyer is herself to be ruined; “blessed” names God’s chosen agent (as Cyrus) who repays her measure—declarative providence, not a license for personal cruelty.\n\nArminian reading: lex talionis language confesses moral order. Oppression returns on the oppressor under God; the church does not invent a new ethic of hate.",
+      "reformedNotes": "Calvin: faith sees Babylon’s fall while she still looks impregnable; blessing on the recompenser is not praise of Medo-Persian motives, but certainty that God-appointed judgment will succeed.\n\nReformed accent: “doomed” is already written in the Word. Happy is the instrument God uses; the empire’s pride does not cancel Jehovah’s sentence."
+    },
+    {
+      "number": 9,
+      "text": "Blessed shall he be who takes your little ones and dashes them against the rock!",
+      "arminianNotes": "Clarke: the line states how hated Babylon’s oppression had become and what horrors would attend her sack—prophetic declaration of retributive providence, containing no excitement to barbarity; private prayers for enemies’ destruction as revenge are out of the question.\n\nArminian pastoral: hear exile grief and ancient war’s terror without flippancy or culture-war rant. The verse is hard because judgment on a violent empire is hard; Christians read it through the cross’s call to love enemies personally while still confessing that God judges nations and that Scripture may speak judgment language without baptizing our cruelty.",
+      "reformedNotes": "Calvin: not personal feeling but authorized words of just judgment—measure for measure, as Isaiah foresaw infants dashed in Babylon’s fall; “happy” declares the reputed service of ending a universally oppressive power under God’s auspices.\n\nReformed pastoral: sit with the text’s severity. God had sentenced Babylon; the psalm voices that sentence in the warfare idiom of the day. Neither camp softens the horror, and neither treats the verse as a manual for Christian spite—both hear judgment that belongs to God’s holy response to relentless violence, while personal discipleship still seeks the good of neighbors and leaves vengeance with the Lord.",
+      "keyContrast": "Both refuse to caricature or dismiss the verse: it is Scripture’s judgment speech in exile grief, not a joke and not a license for private cruelty. Arminian readers, with Clarke, typically stress its declarative, prophetic character and explicitly bar revenge-prayer as personal excitement to harm. Reformed readers, with Calvin, typically stress that the psalmist speaks as herald of God’s already-promised sentence on Babylon—authorized talionic judgment, not unchecked passion—while still warning that Medo-Persian agents were not thereby made righteous in motive."
+    }
+  ]
+}

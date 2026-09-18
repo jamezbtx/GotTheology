@@ -1,0 +1,106 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 12,
+  "verseStart": 18,
+  "verseEnd": 29,
+  "translation": "ESV",
+  "title": "Hebrews 12:18–29",
+  "context": "The writer contrasts Sinai—blazing fire, darkness, trumpet, and a voice the hearers begged to silence—with Zion: the city of the living God, angels in festal gathering, the assembly of the firstborn, God the judge, spirits of the righteous made perfect, and Jesus the mediator whose sprinkled blood speaks a better word than Abel’s. Therefore do not refuse him who speaks from heaven. A final shaking will remove what is made so that the unshakable may remain; receiving an unshakable kingdom, offer acceptable worship with reverence and awe, for our God is a consuming fire.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Sinai versus Zion, refusing him who speaks, the unshakable kingdom, and God the consuming fire—so each camp speaks in its own voice beside Hebrews 12:18–29.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye are not come to the mountain that could be touched—of earthy nature—but ye who believe are come to mount Sion, the city of the living God, the heavenly Jerusalem, and to Jesus the mediator and the blood of sprinkling that speaketh better things than that of Abel. Refuse not—by unbelief—him that speaketh. If they escaped not who refused him that spake on earth, much more shall not we if we turn away from him that speaketh from heaven. Yet once more I will shake heaven and earth—looking to the end of all things, begun at Christ’s first coming, consummated at his second. Therefore receiving a kingdom which cannot be moved, hold fast the grace whereby we may serve God with reverence and godly fear. For our God is a consuming fire—in the strictness of his justice, and purity of his holiness.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Hebrews 12:18, 22–29)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Ye are not come to the earthly mountain of terrors but to mount Sion and the heavenly Jerusalem—associated with angels, enrolled among the firstborn, joined to spirits of the just made perfect, and to Jesus the Mediator whose sprinkled blood speaks better things than Abel’s. See that ye refuse not him that speaketh; if they escaped not who refused him speaking on earth, much less we if we turn from him who speaks from heaven. The gospel’s voice shakes earth and heaven; what is shaken is removed that the unshakable may remain. Receiving a kingdom which cannot be moved, we have grace to worship acceptably with reverence and fear. For our God is a consuming fire—grace is never promised without threatening; he is merciful to those who fear him and a just avenger when despised.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Hebrews 12:18–29)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 18,
+      "text": "For you have not come to what may be touched, a blazing fire and darkness and gloom and a tempest",
+      "arminianNotes": "Wesley: a strong reason to regard the whole Christ-priesthood exhortation—salvation and vengeance are nearer. Ye are not come to the mountain that could be touched—earthy, material.\n\nClassical Arminians hear liberation from Sinai’s terror-approach without soft-pedaling holiness. Believers have not come to a touchable mountain of dread; the gospel draws near differently.",
+      "reformedNotes": "Calvin: new argument from the gospel’s greatness and kind invitation versus the Law’s terrors. Earthly mountain set against the spiritual; Sinai’s fire, blackness, and tempest secured reverence for the Law, yet Christ’s kingdom exhibits what is far above the heavens.\n\nReformed accent: comparatively the Law excels in earthly symbols, the gospel in what is spiritual. Ingratitude is less excusable given kinder approach."
+    },
+    {
+      "number": 19,
+      "text": "and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.",
+      "arminianNotes": "Wesley: trumpet formed by angels’ ministry, preparatory to the Ten Commandments uttered with loud voice.\n\nClassical Arminians hear the people’s plea for distance: the voice was unbearable. The contrast prepares Zion’s welcome without denying that God still speaks and must be heard.",
+      "reformedNotes": "Calvin: second clause—when the Law was published there was terror on every side; God on the tribunal as strict judge. The people prayed not to hear God Himself but through Moses; dread was mitigated by a delegate.\n\nReformed reading: Sinai’s voice drove hearers back. The gospel’s speaking is not soft antinomianism; it is kinder access with greater accountability (v. 25)."
+    },
+    {
+      "number": 20,
+      "text": "For they could not endure the order that was given, \"If even a beast touches the mountain, it shall be stoned.\"",
+      "arminianNotes": "Wesley: they could not bear the terror when they heard—if even a beast, etc.\n\nClassical Arminians hear the extremity of Sinai’s fence: even beasts die at the touch. Holiness was fenced with death; the point is how different the mountain we have come to—not that God is now unsafe to ignore.",
+      "reformedNotes": "Calvin: if an innocent beast approaching must die, how much heavier the punishment awaiting conscious sinners condemned by the Law.\n\nReformed accent: the order exposes Law-terror. Gospel kindness does not erase judgment on refusal; it heightens the shame of turning away."
+    },
+    {
+      "number": 21,
+      "text": "Indeed, so terrifying was the sight that Moses said, \"I tremble with fear.\"",
+      "arminianNotes": "Wesley: even Moses—admitted to near intercourse as friend—while the ten words were pronounced stood as one of the hearers and trembled.\n\nClassical Arminians hear that the mediator himself quaked. Sinai’s fear was universal; Zion’s privilege is correspondingly great for those who believe.",
+      "reformedNotes": "Calvin: the Apostle ascribes trembling to Moses as speaking in the people’s name, their delegate. The sight was so terrible the whole camp shook.\n\nReformed confession: even Moses fears at Sinai. The comparison magnifies gospel privilege and the crime of refusing Him who now speaks from heaven."
+    },
+    {
+      "number": 22,
+      "text": "But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering,",
+      "arminianNotes": "Wesley: ye who believe are come—not merely to the church militant but to communion with the church triumphant. Mount Sion—a spiritual mountain; heavenly Jerusalem—titles of the New Testament church. Innumerable company includes all afterwards named.\n\nClassical Arminians hear present privilege for believers: you have come. Faith brings real access to Zion’s festal company, inviting perseverance in what has been entered.",
+      "reformedNotes": "Calvin: contrasts Sinai with Sion and the heavenly Jerusalem—gospel going forth, not clinging to the earthly that under Law could turn back to Sinai. We are associated with angels when Christ by the gospel calls us; incalculable honor to be enrolled among angels and holy fathers.\n\nReformed accent: “you have come” is gospel calling into heavenly society. The city is built worldwide; privilege binds to perseverance."
+    },
+    {
+      "number": 23,
+      "text": "and to the assembly of the firstborn who are enrolled in heaven, and to God, the judge of all, and to the spirits of the righteous made perfect,",
+      "arminianNotes": "Wesley: general assembly—stated festival convention; church—true believers on earth or in paradise. Firstborn enrolled in heaven as citizens. God the Judge—propitious to you, adverse to enemies. Spirits of just men made perfect—separate souls perfected in a higher sense than any still alive.\n\nClassical Arminians hear enrollment and perfection as the company believers join by faith. Judge propitious to those in Christ; the perfected spirits await the rest who endure.",
+      "reformedNotes": "Calvin: firstborn adorns renowned saints; written in heaven evokes God’s secret catalogue of the elect. Judge of all inspires fear—grace altered so we still deal with a Judge. Spirits of just made perfect—holy souls who put off fleshly filth; proof the pious live with God.\n\nReformed reading: enrollment is God’s writing; perfection is completed holiness of the departed righteous. Access includes the Judge—reverence remains."
+    },
+    {
+      "number": 24,
+      "text": "and to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.",
+      "arminianNotes": "Wesley: to Jesus the mediator through whom they had been perfected; blood of sprinkling—virtue of His precious blood cleansing the conscience. Speaks better things than Abel’s—which cried for vengeance.\n\nClassical Arminians glory that Jesus’ blood speaks mercy louder than Abel’s cry for vengeance. The new-covenant Mediator is the highest point of the gradation—come to Him and stay.",
+      "reformedNotes": "Calvin: Jesus alone reconciles the Father so we come without fear; Mediator through His blood—sprinkled blood cleansing souls by faith, alluding to the Law’s rite. Christ’s blood speaks better things—avails for pardon; Abel’s blood called for vengeance, Christ’s is heard daily for atonement.\n\nReformed confession: better word is gospel pardon through sprinkled blood. The Mediator is the access; refuse Him and nothing remains but Sinai’s terror heightened."
+    },
+    {
+      "number": 25,
+      "text": "See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we escape if we reject him who warns from heaven.",
+      "arminianNotes": "Wesley: refuse not—by unbelief—him that speaketh. If they escaped not His vengeance, much more shall not we who turn from Him that speaketh from heaven—who came from heaven to speak to us.\n\nClassical Arminians hear a real a fortiori warning: gospel hearers who refuse by unbelief will not escape. The speaking is present; turning away is possible and perilous. Hold what you have come to.",
+      "reformedNotes": "Calvin: do not reject the word destined for us. Argument from less to greater—God spoke then on earth, now from heaven more gloriously. Severest punishment awaits gospel despisers since ancients did not despise the Law with impunity.\n\nReformed accent: refusing him who speaks is the apostasy danger. Greater light, greater accountability; escape is denied to those who finally turn away.",
+      "keyContrast": "Both warn that refusing him who speaks from heaven brings greater peril than Sinai’s refusal, and both call for reverent perseverance in the unshakable kingdom—not a chart fight over millennial timelines. Arminians typically hear a sincere danger that gospel hearers may turn away in unbelief and fail to escape. Reformed readers typically hear the same severity as confirming that those who finally reject were never held by the kingdom’s grace—yet the pastoral call to all hearers remains: do not refuse, worship with awe, for our God is a consuming fire."
+    },
+    {
+      "number": 26,
+      "text": "At that time his voice shook the earth, but now he has promised, \"Yet once more I will shake not only the earth but also the heavens.\"",
+      "arminianNotes": "Wesley: voice then shook the earth from Sinai. The promise is joyful to saints, dreadful to the wicked. Full sense looks to the end of all things—shaking began at Christ’s first coming, consummated at His second.\n\nClassical Arminians hear promise and warning together: God will shake what can be shaken. Saints rejoice; the wicked dread. Live for what remains.",
+      "reformedNotes": "Calvin: Law’s voice shook the earth; gospel speaks more gloriously, shaking earth and heaven (Haggai). Christ’s kingdom gathers nations; gospel doctrine is sublimer and must be more distinctly heard.\n\nReformed reading: the promised shaking marks the gospel age’s superiority and finality. God’s voice now reaches beyond Sinai’s local quake."
+    },
+    {
+      "number": 27,
+      "text": "This phrase, \"Yet once more,\" indicates the removal of things that are shaken—that is, things that have been made—in order that the things that cannot be shaken may remain.",
+      "arminianNotes": "Wesley: things shaken—heaven and earth—as being made and liable to change. Things not shaken remain—even the new heavens and new earth.\n\nClassical Arminians hear removal unto permanence: created order gives way so the unshakable remains. Hope is fixed on what God keeps, not on what totters.",
+      "reformedNotes": "Calvin: “yet once more” implies the world’s state changed at Christ’s coming; created things decay, Christ’s kingdom is eternal—creatures brought into a better state. God shakes us to establish us forever in Himself.\n\nReformed accent: removal of the shakeable clears the field for what remains. The kingdom’s permanence is God’s doing."
+    },
+    {
+      "number": 28,
+      "text": "Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe,",
+      "arminianNotes": "Wesley: receiving by willing and joyful faith a kingdom more glorious than present heaven and earth. Hold fast the grace whereby we serve God in every thought, word, and work—with reverence (shame from unworthiness) and godly fear (tender jealousy of offending).\n\nClassical Arminians hear grateful reception and grace held fast for acceptable service. Reverence and awe fit those who have come to Zion yet still may refuse; gratitude fuels worship.",
+      "reformedNotes": "Calvin: preferring “we have grace” whereby we worship acceptably with reverence and fear. Embracing the gospel, we have the Spirit’s gift to serve devoutly. Acceptable service unites promptitude with humility; froward fleshly confidence and sloth are condemned.\n\nReformed confession: receiving the unshakable kingdom comes with grace for reverent worship. Awe is not terror without promise; it is fitting fear inside received grace."
+    },
+    {
+      "number": 29,
+      "text": "for our God is a consuming fire.",
+      "arminianNotes": "Wesley: for our God is a consuming fire—in the strictness of His justice, and purity of His holiness.\n\nClassical Arminians hear the closing note as pastoral severity inside gospel privilege: justice and holiness still consume what opposes God. Serve with reverence; do not refuse the Speaker. Shared call—endure, worship, fear—without turning the fire into a speculative timeline chart.",
+      "reformedNotes": "Calvin: having set forth grace kindly, he now makes known severity (from Deuteronomy). Grace is never promised without threatening; we are prone to indulge. The Lord is merciful to those who fear Him and a jealous avenger when despised.\n\nReformed accent: consuming fire seals both comfort and warning. Propitious to Zion’s worshipers who hold grace; terrible to those who refuse Him who speaks from heaven."
+    }
+  ]
+}

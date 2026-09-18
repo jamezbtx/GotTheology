@@ -60,6 +60,26 @@
       "why": "In the Lord all the offspring of Israel shall be justified and shall glory."
     },
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 51,
+      "verseStart": 1,
+      "verseEnd": 19,
+      "title": "Psalm 51:1–19",
+      "href": "/bible/psalms/51/1-19.html",
+      "why": "Wash me thoroughly; create in me a clean heart—confession and cleansing."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 32,
+      "verseStart": 1,
+      "verseEnd": 11,
+      "title": "Psalm 32:1–11",
+      "href": "/bible/psalms/32/1-11.html",
+      "why": "Blessed is the one whose transgression is forgiven, whose sin is covered."
+    },
+    {
       "book": "Titus",
       "bookSlug": "titus",
       "chapter": 3,

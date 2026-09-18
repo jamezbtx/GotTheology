@@ -1,0 +1,246 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 68,
+  "verseStart": 1,
+  "verseEnd": 35,
+  "translation": "ESV",
+  "title": "Psalm 68:1–35",
+  "context": "To the choirmaster. A Psalm of David. A Song. God arises; enemies scatter like smoke and wax; the righteous exult; Jah who rides the deserts is Father of orphans and settler of the solitary while rebels parch; Sinai march, abundant rain, and provision for the needy lead to the Lord's word of fleeing kings and dove-bright spoil; Zion, chosen over Bashan's peaks, hosts God's myriad chariots—Sinai now in the sanctuary—and the ascended One who leads captives and receives gifts even among the rebellious that God may dwell; daily bearing, issues from death, and judgment on guilty heads; procession with singers and Israel's tribes; power summoned, temple gifts, rebuke of war-lovers; Egypt and Cush stretch hands; kingdoms sing to the rider of ancient heavens; awesome God from His sanctuary gives strength—Blessed be God!",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God arising against enemies, Sinai and Zion, the ascended Christ who leads captivity captive, daily salvation, and the nations stretching hands to God—so each camp speaks in its own voice beside Psalm 68:1–35.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The occasion seems to have been David's translation of the ark to Zion. The first words are those Moses appointed (Num 10:35). Because David knew that both himself and the ark were types of Christ, and Israel a type of the catholic church of Jews and Gentiles, he looked through the types to Christ's resurrection and ascension, the privileges of the Christian church, and the conversion of the Gentiles. Ascended—manifest reference to Christ and His ascension, in whom alone it is literally accomplished (Eph 4:8). Captivity—death and sin and the devil and all enemies of Christ, whom He led in triumph (Col 2:15). Received—in His manhood all gifts of the Spirit necessary for His church. Rebellious—stubborn enemies, Jews or Gentiles. Might dwell—that He who as man ascended might as God dwell with them by ordinances and by His Spirit in their hearts. Ethiopia stretching hands unto God, and the kingdoms' song, belong to the times of the Messiah.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 68"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David celebrates victories God gave over enemies, yet opens with God's power and goodness in the world, then redemption and fatherly care for Abraham's seed, then the signal power he and the nation experienced. Made king, he infers the Church settled and God erecting His throne to reign—typically representing the glory afterward manifested in Christ. God shall arise; enemies scatter as smoke and wax. He rides upon the clouds in Jah His name, father of orphans, settler of the solitary; rebels dwell in a dry land. Sinai presence and liberal rain refresh the inheritance. Thou hast ascended on high, led captivity captive, received gifts among men, even the rebellious, that the Lord might dwell among His people—Paul applies this to Christ (Eph 4:8): emptied, then exalted, making enemies tributary and distributing gifts to adorn His Church. Daily He loads with deliverances; to Him belong issues from death. Princes from Egypt and Ethiopia stretch hands to God under Christ; kingdoms of the earth must sing to Him who rides the ancient heavens. Blessed be God.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 68"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "God shall arise, his enemies shall be scattered; and those who hate him shall flee before him!",
+      "arminianNotes": "God shall arise, his enemies shall be scattered; and those who hate him shall flee before him! Wesley traces the opening to Moses' ark-cry (Num 10:35): David knew himself and the ark were types of Christ, and looked through to Christ's victories for His church.\n\nArminian pastoral: shared—pray and expect God to arise. Enemies of the church are God's enemies; flee before Him rather than harden under His patience.",
+      "reformedNotes": "Calvin: God shall arise—His enemies scatter; the sentiment is borrowed from Moses (Num 10:35). Observation attests that God needs only to rise up; when enemies ascend for a time, it is divine forbearance until He rises.\n\nReformed pastoral: shared comfort—persecutors are named God's enemies. Injuries to the church dishonor His Majesty; He will avenge by the mere forth-putting of His hand."
+    },
+    {
+      "number": 2,
+      "text": "As smoke is driven away, so you shall drive them away; as wax melts before fire, so the wicked shall perish before God!",
+      "arminianNotes": "As smoke is driven away, so you shall drive them away; as wax melts before fire, so the wicked shall perish before God! Wesley's psalm-frame: prayer against God's enemies and for His people opens the song (vv. 1–3).\n\nArminian pastoral: shared—formidable arrays can vanish. Do not let smoke blind you; the wicked perish before God's presence as wax before fire.",
+      "reformedNotes": "Calvin: enemies are as smoke driven by wind, as wax melting before fire. The Spirit chides our fearfulness—we allow smoke to blind our eyes and forget that mountains flow down at the Lord's presence.\n\nReformed pastoral: shared—strength in enemies is overrated. God's presence, not our estimates, decides their permanence."
+    },
+    {
+      "number": 3,
+      "text": "But the righteous shall be glad; they shall exult before God; they shall be jubilant with joy!",
+      "arminianNotes": "But the righteous shall be glad; they shall exult before God; they shall be jubilant with joy! Wesley: the righteous rejoice when God arises against haters of His name.\n\nArminian pastoral: shared—gladness is the church's portion when God shows Himself. Exult before Him; joy occupies the affections He delivers.",
+      "reformedNotes": "Calvin: when God is formidable to the wicked, it is to secure the Church's deliverance. The wicked flee from His presence in terror; the righteous rejoice because nothing delights them more than that God is near.\n\nReformed pastoral: shared—presence terrifies some and comforts others. Leap for exultation under the God who is propitious to His people."
+    },
+    {
+      "number": 4,
+      "text": "Sing to God, sing praises to his name; lift up a song to him who rides through the deserts; his name is the Lord; exult before him!",
+      "arminianNotes": "Sing to God, sing praises to his name; lift up a song to him who rides through the deserts; his name is the Lord; exult before him! Wesley: Jah—an abbreviation of Jehovah. Before him—before the ark where He is present, as David danced before the Lord (2 Sam 6:14).\n\nArminian pastoral: shared—sing the Name. Extol Him who rides through the deserts; cheerful praise fits the God who comes near by His ark and Name.",
+      "reformedNotes": "Calvin: sing unto God—exalt Him that rides upon the clouds in Jah His name. Infinite power sits superior over all; yet draw near with cheerfulness, for this God condescends to the wretched.\n\nReformed pastoral: shared doxology. Set aside vain idols; Jah is His name—rejoice before the rider of the heavens."
+    },
+    {
+      "number": 5,
+      "text": "Father of the fatherless and protector of widows is God in his holy habitation.",
+      "arminianNotes": "Father of the fatherless and protector of widows is God in his holy habitation. Wesley: Habitation—in heaven. The high God stoops to orphans and widows.\n\nArminian pastoral: shared—Father and protector of the overlooked. Holy habitation does not distance Him from the fatherless; trust His nearness in heaven's throne and temple care.",
+      "reformedNotes": "Calvin: father of the fatherless and judge of the widows—God in the habitation of His holiness. Orphans and widows name all the world overlooks; His incomprehensible glory does not keep Him from stooping to our lowest depths.\n\nReformed pastoral: shared—heaven is His throne for judgment, and His residence with men encourages the poor. He is not far off."
+    },
+    {
+      "number": 6,
+      "text": "God settles the solitary in a home; he leads out the prisoners to prosperity, but the rebellious dwell in a parched land.",
+      "arminianNotes": "God settles the solitary in a home; he leads out the prisoners to prosperity, but the rebellious dwell in a parched land. Wesley: Rebellious—those who rebel against God. Kindness to the lonely and bound stands beside dry judgment on rebels.\n\nArminian pastoral: shared double edge—homes for the solitary, freedom for prisoners, drought for the rebellious. Do not envy rebels' temporary ease; turn from revolt while mercy still settles and leads out.",
+      "reformedNotes": "Calvin: God sets the solitary in families and brings out those bound with chains; the rebellious dwell in a dry land. Comfort under affliction: we are in God's hand. The wicked may prosper briefly, yet are banished as to a wilderness, deprived of fatherly kindness they abused.\n\nReformed pastoral: shared—providence houses and frees, and also parches the rebel. Envy not their lot; fear the dry land of those who despise Him.",
+      "keyContrast": "Both confess that God settles the solitary and frees prisoners while the rebellious dwell in a parched land. Arminian readers typically stress a real warning and call—turn from rebellion under grace lest drought become your dwelling; Reformed readers typically stress judicial banishment—rebels are deprived of fatherly kindness they criminally abused, while the elect are comforted that they remain in God's hand."
+    },
+    {
+      "number": 7,
+      "text": "O God, when you went out before your people, when you marched through the wilderness, Selah",
+      "arminianNotes": "O God, when you went out before your people, when you marched through the wilderness, Selah. Wesley: Wentest—in the cloudy pillar, as their captain leading them up out of Egypt.\n\nArminian pastoral: shared Exodus memory—God went out before His people. March with the Captain who led through the wilderness; Selah pauses over leading grace.",
+      "reformedNotes": "Calvin: when Thou wentest forth before Thy people through the wilderness—the chief pledge of favor to Abraham's seed. Heaven and earth were put in commotion that all might recognize God's power allied with the Church's deliverance.\n\nReformed pastoral: shared—God as leader, not mere spectator. Wilderness marches prove covenant love for succeeding ages."
+    },
+    {
+      "number": 8,
+      "text": "the earth quaked, the heavens poured down rain, before God, the One of Sinai, before God, the God of Israel.",
+      "arminianNotes": "the earth quaked, the heavens poured down rain, before God, the One of Sinai, before God, the God of Israel. Wesley: Dropped—poured down great showers which accompanied those mighty thunders.\n\nArminian pastoral: shared Sinai awe—earth quakes and heavens pour before the God of Israel. The true God shook Sinai; fashion no idols of wood or gold beside Him.",
+      "reformedNotes": "Calvin: the earth was moved, the heavens dropped at the presence of this God—Sinai at the presence of the God of Israel. Sinai presented the most glorious spectacle of majesty; \"this God\" marks the God of Abraham as the true God against heathen invention.\n\nReformed pastoral: shared—Sinai presence fortifies faith. The Lord of Israel is no vague uncertainty; tremble and trust before Him."
+    },
+    {
+      "number": 9,
+      "text": "Rain in abundance, O God, you shed abroad; you restored your inheritance as it languished;",
+      "arminianNotes": "Rain in abundance, O God, you shed abroad; you restored your inheritance as it languished. Wesley: Weary—dry and thirsty, parched with heat, ready to faint for want of rain.\n\nArminian pastoral: shared—abundant rain restores languishing inheritance. Ask for showers on weary ground; God's free rain refreshes what heat has drained.",
+      "reformedNotes": "Calvin: a liberal rain—literally a rain of freenesses—alludes to blessing in free favor. God watered the inheritance seasonably; Judea owed fertility to rains of heaven, refreshed when weary.\n\nReformed pastoral: shared—unprompted goodness prepares food. Inheritance is God's gift; rain of freeness keeps the people dependent on Him."
+    },
+    {
+      "number": 10,
+      "text": "your flock found a dwelling in it; in your goodness, O God, you provided for the needy.",
+      "arminianNotes": "your flock found a dwelling in it; in your goodness, O God, you provided for the needy. Wesley: Thy congregation—the people of Israel. Poor—such they really were when God undertook their conduct into Canaan.\n\nArminian pastoral: shared—goodness provides for the needy flock. Dwell as congregation in the land He prepared; remember poverty that first received His conduct.",
+      "reformedNotes": "Calvin: Thy congregation shall dwell therein; Thou wilt prepare in Thy goodness for the poor. The land is blessed as habitation of God's Church; He proportioned kindness so they always depended on Him.\n\nReformed pastoral: shared—goodness, not merit, feeds the poor people. Daily provision trains expectation toward the Giver."
+    },
+    {
+      "number": 11,
+      "text": "The Lord gives the word; the women who announce the news are a great host:",
+      "arminianNotes": "The Lord gives the word; the women who announce the news are a great host. Wesley: Gave—He put this triumphant song into their mouths.\n\nArminian pastoral: shared—the Lord gives the word of victory news. Publish what He puts in the mouth; women announcing good news model grateful witness.",
+      "reformedNotes": "Calvin: the Lord shall give the word to the women who announce the great army—God determines the successful issue of battles. Women sang triumph as Miriam and those who celebrated David's victory over Goliath.\n\nReformed pastoral: shared—victories are owing to God. Songs of praise are His gift; gratitude must proclaim His benefits."
+    },
+    {
+      "number": 12,
+      "text": "\"The kings of the armies—they flee, they flee!\" The women at home divide the spoil—",
+      "arminianNotes": "\"The kings of the armies—they flee, they flee!\" The women at home divide the spoil— Wesley: Kings—of Canaan and other nations with great armies. The spoil—enough also for wives and children at home.\n\nArminian pastoral: shared—kings flee twice over. Home-dividers of spoil prove how complete God's rout can be; trust Him against armies you cannot match.",
+      "reformedNotes": "Calvin: kings of armies shall flee—shall flee; she that tarries at home divides the spoil. The verb repeated shows attacks repelled once and again; spoil so great that females at home share it.\n\nReformed pastoral: shared—Divine favor puts formidable kings to flight. Stand not in your own strength; God stands forward as defender."
+    },
+    {
+      "number": 13,
+      "text": "though you men lie among the sheepfolds— the wings of a dove covered with silver, its pinions with shimmering gold.",
+      "arminianNotes": "though you men lie among the sheepfolds— the wings of a dove covered with silver, its pinions with shimmering gold. Wesley: Ye Israelites—though formerly exposed to reproach and misery, God changed your condition. Gold—beautiful like dove feathers under shifting light.\n\nArminian pastoral: shared—from sheepfolds to silver wings. Affliction does not cancel beauty God restores; hope for changed condition under His hand.",
+      "reformedNotes": "Calvin: though ye lie among the pots, yet as wings of a dove covered with silver. Believers may lie under darkness yet are preserved; the dove contracts no lasting defilement—the Church emerges and recovers beauty.\n\nReformed pastoral: shared—hidden power preserves the afflicted. Calamity is not the last appearance of God's people."
+    },
+    {
+      "number": 14,
+      "text": "When the Almighty scatters kings there, let snow fall on Zalmon.",
+      "arminianNotes": "When the Almighty scatters kings there, let snow fall on Zalmon. Wesley: Therein—in Canaan at Israel's coming; the land white as Salmon with snow.\n\nArminian pastoral: shared—Almighty scatters kings. Whitened land after battle images honor restored; ascribe the white field to God, not to chance.",
+      "reformedNotes": "Calvin: when the Almighty scattered kings—the land recovered fair appearance like Salmon white with snow. Hostile confusion blackened the country; God dispelled darkness of oppression.\n\nReformed pastoral: shared—scattering kings is Almighty work. Snow-brightness after gloom is His gift to the church's land."
+    },
+    {
+      "number": 15,
+      "text": "O mountain of God, mountain of Bashan; O many-peaked mountain, mountain of Bashan!",
+      "arminianNotes": "O mountain of God, mountain of Bashan; O many-peaked mountain, mountain of Bashan! Wesley: The hill—Zion, seat of God's ark. High—not external height but spiritual exaltation in privileges of God's presence.\n\nArminian pastoral: shared—Zion's height is spiritual. Prefer the mount of God's presence over Bashan's peaks of worldly fame.",
+      "reformedNotes": "Calvin: the hill of God—source of kindness, for God chose Zion for palace and temple. Bashan may boast fertility and height, yet must yield to the mount God consecrated by irrevocable decree.\n\nReformed pastoral: shared—election of Zion grounds blessing. One mountain God chose; worldly heights cannot equal His abode."
+    },
+    {
+      "number": 16,
+      "text": "Why do you look with hatred, O many-peaked mountain, at the mount that God desired for his abode, yes, where the Lord will dwell forever?",
+      "arminianNotes": "Why do you look with hatred, O many-peaked mountain, at the mount that God desired for his abode, yes, where the Lord will dwell forever? Wesley: Leap—why triumph and look on Zion with contempt? Will dwell—this hill, despicable in your eyes, is precious in God's for perpetual residence.\n\nArminian pastoral: shared—God desired Zion forever. Do not envy high hills; rest in the abode He chose and will not abandon.",
+      "reformedNotes": "Calvin: why leap ye, ye high hills?—only one mountain God chose; the kingdom of Christ shadowed in David excels all worldly glory. Ungodly boast; God's people may leave them to self-complacency while united to God.\n\nReformed pastoral: shared—forever dwelling silences rival hills. Christ's kingdom, not carnal height, is God's desire."
+    },
+    {
+      "number": 17,
+      "text": "The chariots of God are twice ten thousand, thousands upon thousands; the Lord is among them; Sinai is now in the sanctuary.",
+      "arminianNotes": "The chariots of God are twice ten thousand, thousands upon thousands; the Lord is among them; Sinai is now in the sanctuary. Wesley: Chariots—armies attending God. Twenty thousand—innumerable. Among them—the psalmist is transported to the Messiah; greater privilege than Sinai—Jehovah descending into human body, as His ascending next describes.\n\nArminian pastoral: shared messianic turn—Sinai glory now in the sanctuary, pointing to incarnation and ascension. Count angel chariots; still more, count the Lord among them for His people.",
+      "reformedNotes": "Calvin: chariots of God are twenty thousand thousands of angels—the Lord among them as in Sinai in the holy place. Countless myriads at His command; Sinai is recalled so faith in His presence may be drawn from Law and Prophets.\n\nReformed pastoral: shared—angel hosts and Sinai-in-sanctuary exalt God's presence. One God among them outweighs a universe of angels; fortify faith from covenant revelation."
+    },
+    {
+      "number": 18,
+      "text": "You ascended on high, leading a host of captives in your train and receiving gifts among men, even among the rebellious, that the Lord God may dwell there.",
+      "arminianNotes": "You ascended on high, leading a host of captives in your train and receiving gifts among men, even among the rebellious, that the Lord God may dwell there. Wesley: Ascended—manifest reference to Christ and His ascension, literally accomplished in Him and ascribed to Him (Eph 4:8). Captivity—death, sin, the devil, and all enemies Christ led in triumph (Col 2:15). Received—in His manhood all gifts of the Spirit for the church. Rebellious—stubborn enemies, Jews or Gentiles. Might dwell—He who as man ascended may as God dwell by ordinances and Spirit in hearts.\n\nArminian pastoral: shared with Calvin and Paul—Christ ascended, led captivity captive, and gifts serve His dwelling among men. Even rebels are in view; receive the ascended Lord's gifts and welcome His dwelling.",
+      "reformedNotes": "Calvin: Thou hast ascended on high, led captivity captive, received gifts among men, even the rebellious, that the Lord Jehovah might dwell among His people. David shadowed Christ's eternal kingdom; Paul applies this to Christ (Eph 4:8)—emptied, then exalted, making enemies tributary by the gospel. He distributes gifts to adorn His Church; ascending, He fills all things and still dwells among us.\n\nReformed pastoral: shared messianic reading with Wesley and Ephesians—ascension, captives, gifts, and divine dwelling. Christ holds rebels and reprobates under control and nourishes the church from His exaltation.",
+      "keyContrast": "Both Wesley and Calvin, with Paul in Ephesians 4:8, read this verse of Christ's ascension, triumph over enemies, and gifts for the church's good that God may dwell with His people. Arminian readers typically stress the ascended Christ's gifts held out even toward the rebellious—Jews or Gentiles—so hearts may receive His Spirit and dwelling; Reformed readers typically stress that Christ effectually makes enemies tributary, binds obstinate rebels, and distributes gifts to adorn the church He will not fail to fill."
+    },
+    {
+      "number": 19,
+      "text": "Blessed be the Lord, who daily bears us up; God is our salvation. Selah",
+      "arminianNotes": "Blessed be the Lord, who daily bears us up; God is our salvation. Selah. Wesley's frame places ascension and the salvation of His people together (vv. 18–20).\n\nArminian pastoral: shared daily doxology—bless the Lord who bears us up. Salvation is not rare emergency only; receive today's bearing and answer with blessing.",
+      "reformedNotes": "Calvin: Blessed be the Lord daily—He loads us with deliverances. Particular victories must not draw minds from constant care; God extends continued kindness and is unwearied in renewing it.\n\nReformed pastoral: shared—daily bearing, not occasional only. Selah over the God of our salvation who never ceases to carry His people."
+    },
+    {
+      "number": 20,
+      "text": "Our God is a God of salvation, and to God, the Lord, belong deliverances from death.",
+      "arminianNotes": "Our God is a God of salvation, and to God, the Lord, belong deliverances from death. Wesley: Issues—escapes or deliverances.\n\nArminian pastoral: shared—issues from death belong to the Lord. When ways out are invisible, trust the God of salvations who opens escapes.",
+      "reformedNotes": "Calvin: our God is the God of salvations; to the Lord belong the issues from death. Salvations plural—death may threaten in many forms; God has singular ways of delivering. He often lets His people fall in some measure under death's power, then unexpectedly rescues.\n\nReformed pastoral: shared—do not judge deliverance by sight. Issues from death are His peculiar work; trust Him in the deep."
+    },
+    {
+      "number": 21,
+      "text": "But God will strike the heads of his enemies, the hairy crown of him who walks in his guilty ways.",
+      "arminianNotes": "But God will strike the heads of his enemies, the hairy crown of him who walks in his guilty ways. Wesley: Hairy—ancient warriors wore long shaggy hair to look terrible.\n\nArminian pastoral: shared warning—God wounds the head of those who go on in trespasses. Do not walk still in guilty ways; terrible looks do not shield from His stroke.",
+      "reformedNotes": "Calvin: God shall wound the head of His enemies and the crown of hair of him who walks on in wickedness—a deadly wound. He counts persecutors of the righteous His enemies and is ready to defend His church.\n\nReformed pastoral: shared—continued guilt meets certain stroke. Protection of the righteous includes judgment on obstinate foes."
+    },
+    {
+      "number": 22,
+      "text": "The Lord said, \"I will bring them back from Bashan, I will bring them back from the depths of the sea,",
+      "arminianNotes": "The Lord said, \"I will bring them back from Bashan, I will bring them back from the depths of the sea, Wesley: Bring again—deliverances as great as from Og of Bashan and from Egypt at the Red Sea.\n\nArminian pastoral: shared promise—Bashan and sea depths cannot hide from God's bringing. Remember first deliverances as warrant for present hope.",
+      "reformedNotes": "Calvin: I will bring back from Bashan and from the depths of the sea—God speaks, sending Israel to early redemption. Passage through sea and victory over giants were a species of resurrection; He who raised them then will defend in like dangers.\n\nReformed pastoral: shared—original redemption argues future help. The Lord's \"I will\" outruns Bashan heights and sea depths."
+    },
+    {
+      "number": 23,
+      "text": "that you may strike your feet in their blood, that the tongues of your dogs may have their portion from the foe.\"",
+      "arminianNotes": "that you may strike your feet in their blood, that the tongues of your dogs may have their portion from the foe.\" Wesley: as at Red Sea and Bashan, enemies slain in such numbers that feet wade and dogs lick blood in the field.\n\nArminian pastoral: shared hard victory image—total overthrow of foes. Rejoice not in cruelty for its own sake, but in God's defense of His people against destroyers.",
+      "reformedNotes": "Calvin: foot stained with blood; tongue of dogs in that of enemies. God stained with blood ascribes not cruelty but zeal for His people's defense; vengeance on the wicked displays divine judgment.\n\nReformed pastoral: shared—enemies shall not finally triumph. Graphic judgment sobers the church into trust, not bloodlust."
+    },
+    {
+      "number": 24,
+      "text": "Your procession is seen, O God, the procession of my God, my King, into the sanctuary—",
+      "arminianNotes": "Your procession is seen, O God, the procession of my God, my King, into the sanctuary— Wesley: They—men saw it. Goings—procession of the ark to Zion. Sanctuary—the tabernacle prepared for it.\n\nArminian pastoral: shared—seen goings of God the King into the sanctuary. Watch and join the procession; public worship makes His kingship visible.",
+      "reformedNotes": "Calvin: they have seen Thy goings—God as King leading His armies, with allusion to the sanctuary as symbol of presence. David calls Him my King to divert attention from frail David to the supreme Head.\n\nReformed pastoral: shared—procession into the sanctuary reveals the true King. Guardianship goes forth because He hears prayer there."
+    },
+    {
+      "number": 25,
+      "text": "the singers in front, the musicians last, between them virgins playing tambourines:",
+      "arminianNotes": "the singers in front, the musicians last, between them virgins playing tambourines. Wesley describes the solemn pomp of carrying the ark; choirs and timbrels fill the train.\n\nArminian pastoral: shared ordered praise—singers, players, tambourines. Let every rank take its place in thanksgiving; victory processions belong to God.",
+      "reformedNotes": "Calvin: singers went before, players followed, damsels with timbrels—not battle array but solemn assembly for thanksgivings. God showed Himself leader in war; to Him the song of triumph is addressed.\n\nReformed pastoral: shared—ordered worship after victory. Distinct choirs serve the God who won the field."
+    },
+    {
+      "number": 26,
+      "text": "\"Bless God in the great congregation, the Lord, O you who are of Israel's fountain!\"",
+      "arminianNotes": "\"Bless God in the great congregation, the Lord, O you who are of Israel's fountain!\" Wesley: Fountain—all ye people of Israel.\n\nArminian pastoral: shared—bless God from Israel's fountain. Congregational blessing is duty of the whole stock; hypocrisy of lips alone will not do.",
+      "reformedNotes": "Calvin: Bless ye God in the congregations, even the Lord, O ye of the fountain of Israel—all who deduce origin from Jacob are summoned. True saints walk in Abraham's faith; vain boasters are distinguished from the fountain's true children.\n\nReformed pastoral: shared—congregation-wide blessing. Fountain language calls the covenant people to sincere praise."
+    },
+    {
+      "number": 27,
+      "text": "There is Benjamin, the least of them, in the lead, the princes of Judah in their throng, the princes of Zebulun, the princes of Naphtali.",
+      "arminianNotes": "There is Benjamin, the least of them, in the lead, the princes of Judah in their throng, the princes of Zebulun, the princes of Naphtali. Wesley: Little—Benjamin diminished under the Judges. Ruler—Judah's tribe now submitted to David. Zebulun and Naphtali—remotest tribes; naming near and far intimates all came (2 Sam 6:15–19).\n\nArminian pastoral: shared—least and farthest join the ark's pomp. No tribe too small or remote for the King's procession; take your place.",
+      "reformedNotes": "Calvin: little Benjamin, princes of Judah, Zebulun, and Naphtali—near and far tribes in the sacred assembly. Benjamin's \"ruler\" honor need not revive Saul's condemned reign; small tribes form one head in Israel under David.\n\nReformed pastoral: shared—whole-people worship. Primacy of Judah and presence of the least display unity under God's king."
+    },
+    {
+      "number": 28,
+      "text": "Summon your power, O God, the power, O God, by which you have worked for us.",
+      "arminianNotes": "Summon your power, O God, the power, O God, by which you have worked for us. Wesley: Thy God—speech directed to Israel. Commanded—ordained or effectually procured. Thy strength—all strength put forth at any time.\n\nArminian pastoral: ask Him to summon again the power already worked for you. Past strength is gift; pray for present strengthening of what grace began—do not presume without asking.",
+      "reformedNotes": "Calvin: Thy God hath commanded thy strength; strengthen, O God, what Thou hast wrought. Victories were not by Israel's own power; more is required than preventing grace—we stand constantly in need of assistance throughout life.\n\nReformed pastoral: shared dependence—power commanded from above. Perseverance in conflict, especially spiritual, requires ongoing grace from the God who first wrought.",
+      "keyContrast": "Both confess that strength for God's people is commanded and wrought by God, and that we must ask Him to strengthen what He has already done. Arminian readers typically stress earnest prayerful dependence—seek fresh empowering of grace already given, without presuming on past victories; Reformed readers typically stress that preventing grace is not enough and that God must continually supply the power that secures perseverance against Satan, sin, and the world."
+    },
+    {
+      "number": 29,
+      "text": "Because of your temple at Jerusalem kings shall bear gifts to you.",
+      "arminianNotes": "Because of your temple at Jerusalem kings shall bear gifts to you. Wesley: Temple—which Solomon shall build. Kings—Gentile kings; in part under Solomon and Hezekiah, more fully when the Lord came into His temple.\n\nArminian pastoral: shared—temple draws kings' gifts. Honor God's dwelling; expect wider homage when Christ is known in His temple.",
+      "reformedNotes": "Calvin: from Thy temple upon Jerusalem kings shall bring presents. Power issues from sanctuary and covenant; subdued kings acknowledge God as conqueror and become tributary—an obligation to free-will offerings of praise.\n\nReformed pastoral: shared—temple presence summons royal gifts. Covenant localized at Jerusalem aims at acknowledged rule among kings."
+    },
+    {
+      "number": 30,
+      "text": "Rebuke the beasts that dwell among the reeds, the herd of bulls with the calves of the peoples. Trample underfoot those who lust after tribute; scatter the peoples who delight in war.",
+      "arminianNotes": "Rebuke the beasts that dwell among the reeds, the herd of bulls with the calves of the peoples. Trample underfoot those who lust after tribute; scatter the peoples who delight in war. Wesley: Rebuke—chastise those who will not bring presents. Bulls—fierce adversaries; calves—dependents. Delight—those who make war from love of mischief.\n\nArminian pastoral: shared prayer—rebuke war-delighting peoples. Ask God to scatter lust for tribute; the church remains soft-hearted while He humbles bulls and reeds-beasts.",
+      "reformedNotes": "Calvin: destroy the company of spearmen—bulls with calves of the people; scatter those who delight in war. David still commends the people to God after victories; the church is never in perfect worldly tranquillity.\n\nReformed pastoral: shared—ongoing enemies require ongoing rebuke. Delight in war marks those God will scatter; trust His protection."
+    },
+    {
+      "number": 31,
+      "text": "Nobles shall come from Egypt; Cush shall hasten to stretch out her hands to God.",
+      "arminianNotes": "Nobles shall come from Egypt; Cush shall hasten to stretch out her hands to God. Wesley: Ethiopia—ancient enemies standing for like nations. Unto God—begging mercy. This prophecy, with the next verse, belongs to the times of the Messiah.\n\nArminian pastoral: shared messianic hope—Egypt and Cush stretch hands to God. Pray and labor for the nations' submission; mercy begged is mercy offered in the gospel age.",
+      "reformedNotes": "Calvin: princes shall come out of Egypt; Ethiopia shall stretch out hands unto God. The prediction extends to Christ, by whom Egyptians and Ethiopians are brought under God's sway—submission of once distant peoples.\n\nReformed pastoral: shared with Wesley—Messiah gathers former foes. Hands stretched to God fulfill the psalm beyond David's partial tributes."
+    },
+    {
+      "number": 32,
+      "text": "O kingdoms of the earth, sing to God; sing praises to the Lord, Selah",
+      "arminianNotes": "O kingdoms of the earth, sing to God; sing praises to the Lord, Selah. Wesley's outline: accession of the Gentiles (vv. 29–31) opens into worldwide song.\n\nArminian pastoral: shared mission summons—kingdoms of the earth, sing. Selah over Gentile praise; invite the nations into the song already started.",
+      "reformedNotes": "Calvin: sing unto God, ye kingdoms of the earth—those once hostile ranked among willing worshippers. Knowledge of God precedes praise; Moses and the prophets invite Gentiles—proof of their calling.\n\nReformed pastoral: shared—earth's kingdoms are addressed because Creator-rule and gospel promise meet. Sing, for worship will not stay in one land forever."
+    },
+    {
+      "number": 33,
+      "text": "to him who rides in the heavens, the ancient heavens; behold, he sends out his voice, his mighty voice.",
+      "arminianNotes": "to him who rides in the heavens, the ancient heavens; behold, he sends out his voice, his mighty voice. Wesley: Heavens—highest heavens from of old, unlike the ark's few centuries. A voice—His gospel by Christ and apostles, assisted by the Spirit; a mighty voice for great effects.\n\nArminian pastoral: shared—hear the mighty gospel voice from ancient heavens. The rider of old heavens still speaks; believe and obey the voice that works wonders.",
+      "reformedNotes": "Calvin: He rides upon the heaven of heavens of old—supreme power over all creatures from the beginning. Mighty voice—thunder that arrests security; God thunders to impress awe, and His command shakes heaven and earth.\n\nReformed pastoral: shared—ancient heavens and mighty voice humble the earth. Behold His governance; let thunder and gospel alike produce reverence."
+    },
+    {
+      "number": 34,
+      "text": "Ascribe power to God, whose majesty is over Israel, and whose power is in the skies.",
+      "arminianNotes": "Ascribe power to God, whose majesty is over Israel, and whose power is in the skies. Wesley: Ascribe—acknowledge He can do whatsoever He pleases. Excellency—over Israel; universal Lord, yet in special manner God of Israel.\n\nArminian pastoral: shared—ascribe power, do not hoard credit. Majesty over Israel and power in the skies meet in one God; confess both universality and covenant nearness.",
+      "reformedNotes": "Calvin: give strength unto God over Israel—His strength in the clouds. We give Him nothing properly, yet must sound His praises and repose in His all-sufficient protection; the God of Israel guards against Gentile religious error.\n\nReformed pastoral: shared—ascribe strength by trusting His protection. Excellency over Israel anchors praise in revelation, not vague theism."
+    },
+    {
+      "number": 35,
+      "text": "Awesome is God from his sanctuary; the God of Israel—he is the one who gives power and strength to his people. Blessed be God!",
+      "arminianNotes": "Awesome is God from his sanctuary; the God of Israel—he is the one who gives power and strength to his people. Blessed be God! Wesley: Terrible—deservedly to be feared. The psalm ends in awful acknowledgment of God's glory and grace.\n\nArminian pastoral: shared final blessing—awesome from His sanctuary, yet Giver of strength to His people. Fear Him rightly; receive power as gift; end with \"Blessed be God!\"",
+      "reformedNotes": "Calvin: God is terrible out of His holy places; the God of Israel gives strength and power to His people. Protection enough to confound enemies issues from the sanctuary; Israel trusts by free covenant grace. Blessed be God.\n\nReformed pastoral: shared—awesome holiness and given strength together. The church's power is received; bless the God who still exerts terrible displays for His people."
+    }
+  ]
+}

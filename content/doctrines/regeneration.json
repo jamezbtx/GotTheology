@@ -60,6 +60,26 @@
       "why": "Come, everyone who thirsts, come to the waters—an invitation to life."
     },
     {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 13,
+      "title": "Hebrews 8:1–13",
+      "href": "/bible/hebrews/8/1-13.html",
+      "why": "A new covenant: I will put my laws into their minds and write them on their hearts."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 51,
+      "verseStart": 1,
+      "verseEnd": 19,
+      "title": "Psalm 51:1–19",
+      "href": "/bible/psalms/51/1-19.html",
+      "why": "Create in me a clean heart, O God, and renew a right spirit within me."
+    },
+    {
       "book": "John",
       "bookSlug": "john",
       "chapter": 3,

@@ -1,0 +1,146 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 10,
+  "verseStart": 1,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "Psalm 10:1–18",
+  "context": "Psalm 10 is a cry against the seeming distance of God while the arrogant wicked hotly pursue the poor. The wicked boast of desire, curse and renounce the LORD, refuse to seek him, and say in the heart that there is no God; their ways prosper, judgments feel far off, and they puff at foes while plotting ambush like a lion. They crush the helpless and claim God has forgotten and will never see. The psalm then turns: Arise, O LORD—forget not the afflicted; you do see mischief and vexation, the helpless commit themselves to you, helper of the fatherless. Break the arm of the wicked; the LORD is king forever; he hears the desire of the afflicted, strengthens their heart, and does justice so that earthly man may strike terror no more.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the wicked’s pride and practical atheism, the cry that God arise for the afflicted, and the king who hears and strengthens—so each camp speaks in its own voice beside Psalm 10:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Boasteth—he glorieth in his very sins which are his shame, and especially in the satisfaction of his desires. Countenance—so called, because though pride be properly seated in the heart, yet it is manifest in the countenance. Judgments—thy threatenings denounced against, and punishments inflicted upon sinners; he doth not regard or fear them: yea he despises them, being confident that he can blow them away with a breath. Tongue—under his fair and plausible speeches, mischief is hid and covered. Contemn—why dost thou by giving them impunity, suffer and occasion them to despise thee? Requite—to restore or pay the mischief which they have done to others with thy hand, by thy own extraordinary providence, because the oppressed were destitute of all other succours. Fatherless—of such as have no friend or helper. Seek—search for it, and punish these wicked atheists, till no such wickedness be left. Is king—to whom it belongs to protect his subjects; therefore his people’s case is never desperate, seeing he ever lives to help them. Prepare—by thy grace and good spirit, that they may so pray as thou wilt hear. To judge—to give sentence for them and against their enemies. The man—earthly and mortal men, who yet presume to contend with thee their maker.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David complains that fraud, cruelty, and injustice prevail because the ungodly, intoxicated with prosperity, have shaken off fear of God and think they may do as they please with impunity; he beseeches God to help, and closes comforting the faithful with hope of deliverance in due time. When iniquity breaks out like a flood, look into this mirror: nothing befalls us which the Church has not known of old. “Standing afar off” is spoken by anthropathy and figuratively from present appearance; nothing is hid from his eyes, and though David complains, he is persuaded of God’s presence, else prayer were vain. The ungodly praise themselves for the desire of their soul and despise Jehovah; in the pride of countenance they inquire not—all their devices say, There is no God—stripping him of the office of judge. Prosperity hardens them; they put judgments far away and say, I shall not be moved. Their mouths are full of cursing and deceit; they lurk like lions. They say God has forgotten; the godly shake that false imagination and cry Arise—not so much to stir God as to awaken themselves to hope. Thou hast seen; upon thee shall the poor leave; thou art helper of the fatherless. Break the arm of the wicked. Jehovah is King forever; he has heard the desire of the needy, will establish their hearts, and incline his ear to judge the fatherless, that the man of earth may terrify no more.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 10)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Why, O LORD, do you stand far away? Why do you hide yourself in times of trouble?",
+      "arminianNotes": "Wesley’s later notes press the same wound: impunity tempts the wicked to contemn God, and the oppressed cry for God’s extraordinary hand. The opening question names felt distance in trouble.\n\nArminian hearing: the cry is a real petition, not theater. Grace enables the afflicted to ask why and to keep asking; the hearer must still bring the complaint to the LORD rather than baptize despair as wisdom. Distance is felt; prayer refuses to treat it as final.",
+      "reformedNotes": "Calvin: seek comfort in providence; it is God’s peculiar office to relieve the wretched. “Standing afar off” is anthropathy—figurative from sense’s present appearance, not literal absence. Nothing is hid from his eyes; God is always armed with invincible power. Though David complains, he is persuaded of God’s presence, else aid-prayer were vain. The question encourages confidence of obtaining what is desired; needful times are when the faithful are in distress.\n\nReformed accent: delay is not desertion. Sense says far; faith deposits the burden in God’s bosom and waits the season of his hand."
+    },
+    {
+      "number": 2,
+      "text": "In arrogance the wicked hotly pursue the poor; let them be caught in the schemes that they have devised.",
+      "arminianNotes": "The psalm’s indictment begins in moral heat: arrogance pursues the poor, and the plea is that schemes rebound on their authors.\n\nArminian pastoral: pride’s hunt is chosen cruelty. Pray that traps catch the trapper—and refuse the arrogance that treats the poor as prey. Grace convicts; the hearer must still renounce disdainful treatment of neighbors.",
+      "reformedNotes": "Calvin: before prayer against the ungodly, David sets forth their cruelty—vexing the afflicted only because pride disdains them. Pride is the mother of wrongs; without overweening self-conceit, common humanity would teach humility and justice. Beware taking pleasure in treating others disdainfully; free the mind from pride’s disease.\n\nReformed accent: oppression here is pride’s fruit, not random misfortune—so repentance aims at the root of disdain."
+    },
+    {
+      "number": 3,
+      "text": "For the wicked boasts of the desires of his soul, and the one greedy for gain curses and renounces the LORD.",
+      "arminianNotes": "Wesley: Boasteth—he glorieth in his very sins which are his shame, and especially in the satisfaction of his desires.\n\nArminian warning: boasting in desire and blessing greed while renouncing the LORD is shameless self-congratulation. Desire satisfied is not proof of blessing; it may be the stage of renunciation. Do not envy the loud desire—flee its glory.",
+      "reformedNotes": "Calvin: the ungodly praises himself on account of the desire of his soul and blesses himself; he despises Jehovah. Desire here is lust and intemperate gratification—they indulge depraved desires, fearlessly absolve themselves, and glory in wickedness. This foolish confidence breaks forth into every excess; base contempt of God is the cause.\n\nReformed accent: prosperity-fed self-praise is contempt of the Judge, not merely loud appetite."
+    },
+    {
+      "number": 4,
+      "text": "In the pride of his face the wicked does not seek him; all his thoughts are, \"There is no God.\"",
+      "arminianNotes": "Wesley: Countenance—though pride be seated in the heart, it is manifest in the face. The wicked will not seek God; God is not in all his thoughts.\n\nArminian reading: refusal to seek is a live, responsible no. Pride of face shows a heart that will not inquire after God. Practical atheism is chosen neglect of seeking—not a puzzle about whether God exists on paper.",
+      "reformedNotes": "Calvin: in the pride of countenance the ungodly inquireth not—permits himself anything without discriminating lawful from unlawful, lust as law. Inquiry begins well-doing and proceeds from humility that assigns God the place of judge. All his devices say, There is no God—not always flat denial of existence, but stripping God of power and judicial office, as if he were an idle idol. Cold head-knowledge is not enough; heartfelt conviction of providence keeps us in subjection.\n\nReformed accent: “no God” here is eviction of the Judge from the world—atheism of practice under a bare name of deity.",
+      "keyContrast": "Both confess that proud refusal to seek and the heart-cry “There is no God” name real wickedness. Arminian readers stress a responsible, face-shown will that will not seek—practical atheism as chosen neglect. Reformed readers, with Calvin, stress that the devices deny God as Judge and providence—stripping him of office until he would be an idle idol—so the fork is not whether God “exists,” but whether he reigns and will call to account."
+    },
+    {
+      "number": 5,
+      "text": "His ways prosper at all times; your judgments are on high, out of his sight; as for all his foes, he puffs at them.",
+      "arminianNotes": "Wesley: Judgments—threatenings and punishments upon sinners; he doth not regard or fear them, yea despises them, confident he can blow them away with a breath—a gesture of contempt.\n\nArminian hearing: prosperity without fear of judgment is moral intoxication. Puffing at foes is practiced contempt. Do not read success as divine approval when judgments are treated as distant jokes.",
+      "reformedNotes": "Calvin: ways prosper at all times; from God’s goodness they harden themselves. Judgments are “on high” to them—presuming God’s distance, they promise themselves truce with death and shut God up in heaven like Epicureans. They mock God, taking encouragement from his forbearance, and think to put down enemies with a puff.\n\nReformed accent: delay of judgment is misread as absence of judgment; forbearance becomes fuel for pride."
+    },
+    {
+      "number": 6,
+      "text": "He says in his heart, \"I shall not be moved; throughout all generations I shall not meet adversity.\"",
+      "arminianNotes": "The wicked’s heart-speech claims unmovable security across generations—no adversity ahead.\n\nArminian pastoral: false assurance of never falling is the opposite of humble walking. Grace teaches watchfulness; boasting “I shall not be moved” without God is presumption to repent of, not envy.",
+      "reformedNotes": "Calvin: he says in his heart—hidden arrogance, not only loud talk—I shall not be moved from generation to generation, because he is not in adversity. Unlike the faithful who lean wholly on God’s grace while knowing life hangs by a thread, the despiser builds his nest above the clouds and exempts himself from man’s common condition.\n\nReformed contrast: godly “I shall not be moved” rests on God’s protection under affliction; ungodly immovability is self-hardened exemption from trouble."
+    },
+    {
+      "number": 7,
+      "text": "His mouth is filled with cursing and deceit and oppression; under his tongue are mischief and iniquity.",
+      "arminianNotes": "Wesley: Tongue—under fair and plausible speeches, mischief is hid; vanity—injury, the vexation or oppression of others.\n\nArminian warning: cursing, deceit, and oppression are not slips of temper but filled mouths. What hides under the tongue still harms neighbors—guard speech as moral ground, not decoration.",
+      "reformedNotes": "Calvin: mouths full of cursing, deceit, and malice; under the tongue, mischief and iniquity. Cursing here includes perjuries sworn to deceive; dealings with them bring loss. If God intends to succor his servants, this excess of lawlessness marks a fit time.\n\nReformed accent: speech-violence is evidence for prayer’s urgency—the flood of fraud calls for heaven’s help."
+    },
+    {
+      "number": 8,
+      "text": "He sits in ambush in the villages; in hiding places he murders the innocent. His eyes stealthily watch for the helpless;",
+      "arminianNotes": "Wesley: Sitteth—not within the villages but in ways bordering them, as robbers do; eyes are hid—he watches from his lurking-place.\n\nArminian pastoral: ambush and murder of the innocent are concrete sins against the helpless. Name them as such; protect the watched-for poor; do not spiritualize predation into abstraction.",
+      "reformedNotes": "Calvin: like highwaymen at narrow roads; eyes bent to take aim. Not only forest bandits—great robbers hide wickedness under honor, pomp, and splendor, converting mansions into places of robbery.\n\nReformed accent: polished status can be a hiding place; providence must unmask titled predation."
+    },
+    {
+      "number": 9,
+      "text": "he lurks in ambush like a lion in his thicket; he lurks that he may seize the poor; he seizes the poor when he draws him into his net.",
+      "arminianNotes": "The lion-and-net image continues: lurk, seize, draw the poor into the net.\n\nArminian hearing: craft mixed with force is still chosen cruelty. Refuse both the lion’s spring and the net’s invitation—neither “cleverness” nor power excuses seizing the poor.",
+      "reformedNotes": "Calvin: thirst for prey like lions in dens—a step higher in wickedness than common robbery. Deceits and snares join violence; they catch by drawing into the net—open force and hidden snare together, so the children of God would be miserable without help from heaven.\n\nReformed comfort: the double threat (violence plus craft) drives prayer upward; self-rescue is not enough."
+    },
+    {
+      "number": 10,
+      "text": "The helpless are crushed, sink down, and fall by his might.",
+      "arminianNotes": "Wesley: Croucheth—like a lion lying close, partly undiscovered, partly to seize prey more suddenly.\n\nArminian warning: the helpless crushed and sunk are not metaphors only—they are people under might. Side with the fallen; do not admire the crouch that looks humble while it hunts.",
+      "reformedNotes": "Calvin: they crouch and cast themselves down so cruelty will not frighten prey away; then sudden violence when the simple are in their power—feigned humility with armed strength ready. Wicked men hide strength by crafty courteous demeanor yet keep claws ready.\n\nReformed accent: counterfeit lowliness serving predation is exposed; God must judge the gesture, not the costume."
+    },
+    {
+      "number": 11,
+      "text": "He says in his heart, \"God has forgotten, he has hidden his face, he will never see it.\"",
+      "arminianNotes": "The wicked’s theology of convenience: God has forgotten, hidden his face, will never see.\n\nArminian reading: this is false comfort for cruelty. God does see; the claim of divine amnesia is a lie the oppressor tells himself. Do not grant that lie—live and pray as those who know the Judge watches.",
+      "reformedNotes": "Calvin: presumption’s source—because God seems not to notice, they flatter themselves with escape. They say in the heart (often not aloud) that God has forgotten and shut his eyes. When wishes prosper, they act as if God were obliged to them and skip solemn reckoning; long-suffering misread becomes security.\n\nReformed accent: silence of judgment is not forgetfulness; patience stores a stricter account.",
+      "keyContrast": "Both confess that “God has forgotten… he will never see” is the wicked’s lie, not the truth about God. Arminian readers stress refusing that lie in practice—live and pray as those who know God sees and will answer cruelty. Reformed readers, with Calvin, stress that apparent non-notice becomes fuel for presumption, while divine long-suffering is storing reckoning—not amnesia, and not an open future in which God might fail to know."
+    },
+    {
+      "number": 12,
+      "text": "Arise, O LORD; O God, lift up your hand; forget not the afflicted.",
+      "arminianNotes": "The turn of the psalm: Arise, lift up your hand, forget not the afflicted.\n\nArminian pastoral: this is petition the church must actually pray. Grace enables the cry; the afflicted still lift it. “Forget not” trusts God’s care enough to ask for its public stretch of hand.",
+      "reformedNotes": "Calvin: flesh imagines God idle when judgments delay; the wicked cherish that opinion into contempt, but the faithful shake the false imagination and return to due consideration. “Arise” does not so much stir God as awaken the pray-er to hope for more assistance than presently felt. The more the ungodly harden in “God takes no concern,” the more the godly must be persuaded of the contrary.\n\nReformed accent: the imperative trains faith against Epicurean slumber—prayer as self-awakening under providence, not information for an absent deity.",
+      "keyContrast": "Both confess the rightness of crying Arise and forget not the afflicted. Arminian readers stress a real petition grace enables and the afflicted must keep lifting. Reformed readers, with Calvin, stress that “Arise” chiefly awakens the believer’s hope against flesh’s charge that God is idle—persuasion of providence, not a summons to a God who had truly forgotten."
+    },
+    {
+      "number": 13,
+      "text": "Why does the wicked renounce God and say in his heart, \"You will not call to account\"?",
+      "arminianNotes": "Wesley: Contemn—why dost thou by giving them impunity, suffer and occasion them to despise thee? The wicked says, Thou wilt not require it.\n\nArminian hearing: impunity’s scandal is pastoral and moral—delayed account can embolden contempt. Pray that God not leave contempt unanswered; the heart that says “you will not call to account” must be proven wrong in history and judgment.",
+      "reformedNotes": "Calvin: why do the wicked despise God?—taking from him the power and office of judging is to drag him from his throne. Arguments in prayer are permitted familiar speech; pouring the heart before God lightens care and increases confidence. They say, Thou wilt not require it—same practical atheism as denying God or calling him asleep.\n\nReformed accent: contempt is dethronement of the Judge; prayer insists he still requires."
+    },
+    {
+      "number": 14,
+      "text": "But you do see, for you note mischief and vexation, that you may take it into your hands; to you the helpless commits himself; you have been the helper of the fatherless.",
+      "arminianNotes": "Wesley: Requite—pay the mischief with thy hand by extraordinary providence, because the oppressed lack other succours; fatherless—such as have no friend or helper.\n\nArminian reading: “you do see” grounds commitment. The helpless truly commit themselves; God has been helper. Trust is a grace-enabled act the oppressed take—placing the case in God’s hands when human help fails.",
+      "reformedNotes": "Calvin: Thou hast seen—armed with faith, David turns from men’s blasphemies to God. It is God’s province to take cognisance of wrongs; he is no idle spectator but takes the matter into his hand as judge. Upon thee shall the poor leave—give providence time; cast cares into his bosom and wait the fit time of deliverance. Prayer will not be vain; he is helper of the fatherless.\n\nReformed accent: commit-and-wait is faith under delayed vengeance—disburdened patience, not frantic self-rescue.",
+      "keyContrast": "Both confess that God does see mischief, takes it in hand, and is helper of the fatherless, so the helpless may commit themselves to him. Arminian readers stress the real act of committing trust when other succours fail—grace-enabled placing of the case in God’s hand. Reformed readers, with Calvin, stress leaving the matter on God and waiting the fit time—providence as judge already cognisant, so patience is part of the commitment, not a rival to it."
+    },
+    {
+      "number": 15,
+      "text": "Break the arm of the wicked and evildoer; call his wickedness to account till you find none.",
+      "arminianNotes": "Wesley: Seek—search out and punish these wicked atheists; till—no such wickedness left in the world, or at least in the church.\n\nArminian pastoral: breaking the arm is prayer for real restraint of evil power. Call wickedness to account until none remains—justice aimed at exhaustion of evil, not endless theater. Side with that prayer for the church’s purity and the oppressed’s relief.",
+      "reformedNotes": "Calvin: break the arm—break the power of the wicked; prayer and prophecy together. However frantic malice appears, God can remedy it promptly; ungodly violence proceeds only as far as God permits, and when he ascends the judgment-seat he can destroy with his look. As sunrise clears the air, God’s hand as Judge restores order.\n\nReformed comfort: the wicked’s strength is contingent; God’s look as Judge is enough."
+    },
+    {
+      "number": 16,
+      "text": "The LORD is king forever and ever; the nations perish from his land.",
+      "arminianNotes": "Wesley: Is king—it belongs to him to protect his subjects; therefore his people’s case is never desperate, seeing he ever lives to help them. The heathen—Canaanites expelled as great example confirming hope; his land—Canaan, God’s by gift and dwelling.\n\nArminian hearing: forever-kingship means the church’s case is never finally hopeless. Hold the throne when nations rage; the King lives to help.",
+      "reformedNotes": "Calvin: Jehovah King forever—confidence and joy; he reigns not shut within narrow time. Mortal princes disappoint; our King has full power even when he does not immediately execute judgments—he reigns for us forever. Heathen perished from his land: the holy land purged; “heathen” can name apostate hypocrites in the church’s bosom. Beseech God to purge his house.\n\nReformed accent: everlasting reign underwrites delayed help—and holy jealousy for a purged people of God."
+    },
+    {
+      "number": 17,
+      "text": "O LORD, you hear the desire of the afflicted; you will strengthen their heart; you will incline your ear",
+      "arminianNotes": "Wesley: Prepare—by thy grace and good spirit, that they may so pray as thou wilt hear. Desire heard; ear caused to hear.\n\nArminian reading: God hears desire and prepares the heart by grace and Spirit for prayers he will answer. Strengthening is gracious enablement for right asking—the afflicted must still desire and pray as prepared.",
+      "reformedNotes": "Calvin: Thou hast heard the desire of the needy—what God granted the fathers we obtain if we share their solicitude for the church’s deliverance. Direct/establish their hearts: God sustains and comforts in trouble, furnishes fortitude and patience, inspires hope, stirs to prayer—keeps hearts from fainting or fleeing elsewhere. Inclining the ear means hearts directed to call on him are not in vain.\n\nReformed accent: heart-strength is God’s establishing grace that keeps faith and prayer near him until hope proves effectual—not bare human grit.",
+      "keyContrast": "Both confess that God hears the afflicted’s desire, strengthens the heart, and inclines his ear. Arminian readers, with Wesley, hear prepare as grace and Spirit enabling them so to pray that God will hear—enablement for right asking the afflicted must take up. Reformed readers, with Calvin, hear establish as God keeping hearts from despondency and securing them in faith and prayer until deliverance—persevering nearness wrought by God, not a preparation that finally hangs on uncertain human hold."
+    },
+    {
+      "number": 18,
+      "text": "to do justice to the fatherless and the oppressed, so that man who is of the earth may strike terror no more.",
+      "arminianNotes": "Wesley: To judge—give sentence for them and against their enemies. The man—earthly and mortal men who yet presume to contend with their maker.\n\nArminian pastoral: justice for fatherless and oppressed is the aim; terror from mere earth-man is not the last word. Live toward that verdict—defend the weak, and do not fear mortal bullies as if they outranked their Maker.",
+      "reformedNotes": "Calvin: judge the fatherless and poor—apply hearing to oppressed saints; bear crosses with patience, for God often withholds aid until extremity. Man of earth may terrify no more: wicked power is still mortal, going forth from earth like worms from crevices, yet attacking God who helps from heaven. Forgetfulness of their condition makes their threatenings cruel; remember they are of earth.\n\nReformed comfort: earthly terror is real but bounded; the Judge’s justice ends the bully’s license."
+    }
+  ]
+}

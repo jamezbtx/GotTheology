@@ -1,0 +1,70 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 9,
+  "verseStart": 23,
+  "verseEnd": 28,
+  "translation": "ESV",
+  "title": "Hebrews 9:23–28",
+  "context": "The copies of heavenly things were purified with animal rites; the heavenly things themselves required better sacrifices. Christ entered heaven itself to appear for us—not repeatedly, but once for all at the end of the ages to put away sin. As men die once and face judgment, so Christ was offered once to bear the sins of many, and will appear a second time to save those eagerly waiting for Him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on copies and better sacrifices, Christ's once-for-all appearing to put away sin, His bearing the sins of many, and His second appearing to save those who wait—so each camp speaks in its own voice beside Hebrews 9:23–28.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It was necessary that the tabernacle and its utensils, patterns of things in heaven, should be purified by these sacrifices; but the heavenly things themselves by better sacrifices—that is, by a better sacrifice, expressed plurally because it includes the signification of them all. Christ did not enter into the holy place made with hands, but into heaven itself, to appear in the presence of God for us as our glorious high priest. By suffering once he atoned for all the sins committed from the foundation of the world. Christ having once died to bear the sins—the punishment due to them—of many—even as many as are born into the world—will appear the second time without sin, not bearing the sins of many, but to bestow everlasting salvation.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 9:23–28)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "It was necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these. Christ is not entered into holy places made with hands, but into heaven itself, now to appear in the presence of God for us. Now once in the end of the world hath he appeared to put away sin by the sacrifice of himself. So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation. To bear sins is to free from guilt by his satisfaction those who have sinned. He says the sins of many, that is, of all, as in Romans 5:15—yet it is certain that all receive no benefit from the death of Christ, because their unbelief prevents them; here he simply means that he died for others and not for himself. Those shall find complete salvation who recumb with quiet minds on the death of Christ.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 9:23–28)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 23,
+      "text": "Thus it was necessary for the copies of the heavenly things to be purified with these rites, but the heavenly things themselves with better sacrifices than these.",
+      "arminianNotes": "It was necessary for the copies of the heavenly things to be purified with these rites, but the heavenly things themselves with better sacrifices than these. Wesley: necessary according to God's appointment that the tabernacle and utensils—patterns of things in heaven—be purified by these; the heavenly things themselves by better sacrifices—that is, by a better sacrifice expressed plurally because it includes the signification of them all and is of so much more eminent virtue.\n\nBoth camps: analogy of purification, escalation of sacrifice. The text's own fork is copies vs heavenly, many animal rites vs one better sacrifice—not a forced limited-atonement dispute.",
+      "reformedNotes": "Calvin: it was necessary that the patterns of things in the heavens be purified with these; but the heavenly things themselves with better sacrifices. Under the Law were earthly images, so the rite of expiation was carnal and figurative; the heavenly pattern requires another blood than that of beasts. He uses \"sacrifices\" plural for antithesis though it was only one.\n\nReformed accent: necessity is God's appointment. Better blood for better sanctuary. The cultus argument stays cultus."
+    },
+    {
+      "number": 24,
+      "text": "For Christ has entered, not into holy places made with hands, which are copies of the true things, but into heaven itself, now to appear in the presence of God on our behalf.",
+      "arminianNotes": "Christ has entered, not into holy places made with hands—copies of the true—but into heaven itself, now to appear in the presence of God on our behalf. Wesley: he never went into the holy of holies at Jerusalem; but into heaven itself, to appear in God's presence for us as our glorious high priest and powerful intercessor.\n\nShared comfort: appearance \"on our behalf.\" Classical Arminians preach a living Intercessor sincerely for those who come to God through Him. The location is heaven; the posture is advocacy.",
+      "reformedNotes": "Calvin: Christ entered not into holy places made with hands, figures of the true, but into heaven itself, now to appear in the presence of God for us. So formerly the Levitical priest stood before God in the people's name typically; in Christ is the reality. We have so kind an advocate that we need not flee God's tribunal. Whenever His ascension is mentioned, this benefit ought to come to mind: He appears there to defend us by His advocacy.\n\nReformed pastoral: \"for us\" is priestly representation in heaven's court. The true holy place is not a building we maintain but the presence where Christ stands."
+    },
+    {
+      "number": 25,
+      "text": "Nor was it to offer himself repeatedly, as the high priest enters the holy places every year with blood not his own,",
+      "arminianNotes": "Nor was it to offer Himself repeatedly, as the high priest enters every year with blood not his own. The negation is pastoral: Christ's priesthood does not run on the calendar of Leviticus 16.\n\nBoth camps: repeated offering is the mark of the old high priest with alien blood. \"Once\" will exclude any remaining sacrificial system that pretends to add expiation. Classical Arminians and Reformed agree here against re-sacrificing Christ.",
+      "reformedNotes": "Calvin: nor yet that he should offer himself often, as the high priest enters every year with blood of others. It is not required of a priest that he be continually sacrificing; that only true sacrifice offered once for all is ever efficacious and thus perpetual in its effects. Christ offered himself, not an animal, and repeated not his sacrifice.\n\nReformed confession: the difference of kind (His own blood) and of frequency (not often) sustains eternal priesthood. Yearly alien blood is the foil."
+    },
+    {
+      "number": 26,
+      "text": "for then he would have had to suffer repeatedly since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself.",
+      "arminianNotes": "For then He would have had to suffer repeatedly since the foundation of the world. But He has appeared once for all at the end of the ages to put away sin by the sacrifice of Himself. Wesley: by suffering once he atoned for all the sins committed from the foundation of the world; he could not have atoned without suffering. At the consummation of the ages his sacrifice divides the world's duration and extends its virtue backward and forward to abolish both the guilt and power of sin.\n\nShared: once for all; put away sin; sacrifice of Himself. Arminian hearing stresses the wide virtue of that one appearing—backward and forward—without needing yearly renewal.",
+      "reformedNotes": "Calvin: then must he often have suffered since the foundation of the world; but now once in the end of the world he has appeared to put away sin by the sacrifice of himself. Except the sacrifice of Christ was efficacious, no father would have obtained salvation. The notion that Christ is often offered is a device of the devil; sins are not expiated by a sacrifice except blood be shed. He appeared once for all; had something been defective in the first oblation, fullness would be denied.\n\nReformed accent: one suffering, eternal virtue, end of the ages. Put away sin means non-imputation to those who flee to this sacrifice—not a license for new masses of expiation."
+    },
+    {
+      "number": 27,
+      "text": "And just as it is appointed for man to die once, and after that comes judgment,",
+      "arminianNotes": "Just as it is appointed for man to die once, and after that comes judgment. Wesley: after this, the judgment of the great day. At the moment of death every man's final state is determined; yet there is not a word in scripture of a particular judgment immediately after death as a separate spectacle.\n\nBoth camps: one death, then judgment. The analogy prepares Christ's one offering. Classical Arminians urge readiness—life is not an endless series of second chances after death.",
+      "reformedNotes": "Calvin: as it is appointed unto men once to die, but after this the judgment. Since we patiently wait after death for judgment, why less patience for Christ's second coming? The Apostle speaks of the ordinary lot of men. The parallel will be: one death of Christ, then the saving appearance—not a chain of new expiations.\n\nReformed pastoral: appointment humbles curiosity and hurry. Human once-dying underwrites the argument for Christ's once-offering."
+    },
+    {
+      "number": 28,
+      "text": "so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.",
+      "arminianNotes": "So Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for Him. Wesley: once died to bear the sins—the punishment due to them—of many—even as many as are born into the world; will appear the second time without sin, not bearing the sins of many as before, but to bestow everlasting salvation.\n\nClassical Arminians hear \"many\" with Wesley's universal scope: sins borne for the race, salvation bestowed on those who wait in faith. Eager waiting is persevering hope, not a second atonement. Both camps preach no second dealing with sin as sacrifice.",
+      "reformedNotes": "Calvin: so Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation. To bear sins is to free from guilt by his satisfaction those who have sinned. He says many, that is, of all, as in Romans 5:15—yet all receive no benefit when unbelief prevents them; here he means Christ died for others, not for himself. Those find complete salvation who recumb with quiet minds on His death; looking for Him means being satisfied with His redemption alone.\n\nReformed accent: once offered; second appearing without a new sin-bearing; salvation for those who wait. Perseverance appears as eager waiting that rests on the finished sacrifice, not on fresh expiations.",
+      "keyContrast": "Both confess a once-for-all sin-bearing and a second appearing that saves waiters rather than re-does Calvary. On \"sins of many,\" Wesley explicitly takes many as \"even as many as are born into the world.\" Calvin can say many means all (as in Rom 5:15) yet immediately adds that unbelief keeps many from the benefit, and that the verse's main point is dying for others not for Himself. Arminians typically hear a universal provision received by those who believe and wait; Reformed readers typically refuse to turn the verse into a second sacrifice while locating effectual salvation in those who actually look for Him—without forcing the whole particular-vs-general debate onto sanctuary typology."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 47,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 47:1–9",
+  "context": "To the choirmaster. A Psalm of the Sons of Korah. Clap your hands, all peoples! Shout to God with loud songs of joy! For the LORD, the Most High, is to be feared, a great king over all the earth. He subdued peoples under us, and nations under our feet. He chose our heritage for us, the pride of Jacob whom he loves. Selah. God has gone up with a shout, the LORD with the sound of a trumpet. Sing praises to God, sing praises! Sing praises to our King, sing praises! For God is the King of all the earth; sing praises with a psalm! God reigns over the nations; God sits on his holy throne. The princes of the peoples gather as the people of the God of Abraham. For the shields of the earth belong to God; he is highly exalted!",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the call that all peoples clap and shout to God with triumph, the LORD Most High to be feared as a great king over all the earth, peoples subdued under the church's feet, the heritage chosen for Jacob whom he loved, God gone up with shout and trumpet, repeated sing-praises to God our King of all the earth with understanding, God reigning over the nations on his holy throne, and princes of the peoples gathered as the people of the God of Abraham with the shields of the earth belonging to God who is highly exalted—so each camp speaks in its own voice beside Psalm 47:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Subdue—He speaks this in the name of the whole church, to which all particular believers were to submit themselves in the Lord. Chuse—He will appoint and bestow upon us. Inheritance—The presence and worship, and blessing of God. This God had chosen for the Israelites and resolved to chuse or set apart for the Gentiles. Of Jacob—Of the people of Jacob or Israel, who are frequently called Jacob, for these did actually enjoy the presence of God in his sanctuary. Loved—Not for any peculiar worth in them, but for his free love to them, as he declareth, Deut 7:7,8. God—This is meant literally of the ark: but mystically of Christ's ascension into heaven, as may be gathered by comparing this with Eph 4:8, where the like words uttered concerning the ark upon the same occasion, Psal 68:18, are directly applied to Christ's ascension. The king—Not only ours, but of all the nations of the world. Sing—Not formally and carelessly, but seriously, considering the greatness of this king whom you praise, and what abundant cause you have to praise him. The throne—Heaven is often called God's throne, whence God is said to behold and to rule all nations; of which general dominion of God, he here speaks. And Christ sits at his father's right-hand, for that purpose. The princes—The Gentiles, who were divided in their principles, and interests, and religions, are now united and gathered together to Christ, laying their scepters at his feet, and jointly owning his worship and service. Of the God—He doth not say the people of Abraham, lest this should be appropriated to the Israelites; but the people of the God of Abraham who worship the God of Abraham, whether they be Jews or Gentiles. The Shields—The princes or rulers, who are called shields, Hosea 4:18, because by their office they are the common protectors of all their people. These are the Lord's, at his disposal, or subject to his dominion, both as to their hearts and kingdoms. Exalted—By this means God shall be greatly glorified.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 47"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Clap your hands, all ye peoples; shout unto God with the voice of triumph—not ordinary blessings, but such as fill the world with joy; subjection not slavish but desirable under Christ's authority; a high and terrible King whose majesty quells rebellion. He hath set in order the people under us—advantageous, joyful subjection under the figure of David's kingdom celebrating grace to come; nations brought willingly under Christ's word. He hath chosen our inheritance for us, the glory of Jacob whom he loved—special grace distinguishing the holy seed; chosen emphatic: not dealt with as other nations; free and unmerited favor; all merits in man annihilated; the grace displayed toward his chosen is not extended to all in common but distinguishes a few from the mass. God is gone up with triumph, Jehovah with the sound of a trumpet—allusion to the ark and solemn assemblies; under that shadow, Christ's going up far above all heavens (Eph 4:10), obtaining the empire of the world. Sing praises—fivefold earnestness; for God is King of all the earth—Jews with primogeniture, Gentiles as associates; sing with understanding, not mere sound of tongues. He hath obtained the kingdom over the heathen; God sitteth upon the throne of his holiness—new manner of reigning at Christ's coming, empire extended beyond Judea. The princes of the peoples are gathered together to the people of the God of Abraham—aliens grafted into Abraham's family; strangers gathered that the kingdom might extend; not the bastard Jews cut off by unbelief, but the holy root and remaining branches; unity in obedience to the word; the shields of the earth are God's—princes at his disposal, or his many bucklers preserving the world.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 47"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Clap your hands, all peoples! Shout to God with loud songs of joy!",
+      "arminianNotes": "Clap your hands, all peoples! Shout to God with loud songs of joy! Shared with both camps: all peoples—not Israel only—are summoned to clap and shout triumph to God.\n\nArminian pastoral: shared—join the worldwide clap and shout. Give loud joy to God; refuse a praise that stays silent while the nations are called.",
+      "reformedNotes": "Calvin: Clap your hands, all ye peoples; shout unto God with the voice of triumph—not ordinary blessings but such as fill the whole world with incredible joy; the language fits the kingdom of Christ, under whose authority rebels become willing subjects who can truly leap for joy.\n\nReformed pastoral: shared—answer Christ's kingdom with open triumph. Clap because the blessing is for the peoples; refuse a joy that never breaks into praise."
+    },
+    {
+      "number": 2,
+      "text": "For the LORD, the Most High, is to be feared, a great king over all the earth.",
+      "arminianNotes": "For the LORD, the Most High, is to be feared, a great king over all the earth. Shared kingship with both camps: the LORD Most High is terrible to enemies and great king over all the earth—not of Israel only.\n\nArminian pastoral: shared—fear the Most High as universal king. Yield him the whole earth; refuse a God whose reign stops at one border.",
+      "reformedNotes": "Calvin: Jehovah is high, terrible, a great King over all the earth—titles that strengthen the godly until Christ's advent; his majesty quells the world's rebellion; under David's type the kingdom of Christ is extolled so the faithful keep clapping until the Redeemer comes.\n\nReformed pastoral: shared—hold the Most High as great king over all the earth. Fear his majesty; refuse a local kingship that never reaches the nations."
+    },
+    {
+      "number": 3,
+      "text": "He subdued peoples under us, and nations under our feet.",
+      "arminianNotes": "He subdued peoples under us, and nations under our feet. Wesley: Subdue—He speaks this in the name of the whole church, to which all particular believers were to submit themselves in the Lord.\n\nArminian pastoral: shared—read the subjection as the church's place under the Lord. Submit in the Lord; refuse a conquest story that never bows believers themselves.",
+      "reformedNotes": "Calvin: He hath set in order the people under us—advantageous, joyful, desirable subjection, not destruction; under David's figure, grace to come; subdued nations associated in the joy; willing obedience of the heart under Christ's word, not forced tribute as under Solomon.\n\nReformed pastoral: shared—receive subjection as gospel joy, not slavish fear. Expect willing nations under Christ; refuse a triumph that never asks hearts to yield.",
+      "keyContrast": "Both hear peoples subdued under the church's feet. Arminians typically hear Wesley: the psalm speaks in the name of the whole church, to which particular believers submit themselves in the Lord. Reformed readers typically hear Calvin: an advantageous, desirable subjection under David's type of Christ's kingdom—willing gospel obedience, not forced tribute."
+    },
+    {
+      "number": 4,
+      "text": "He chose our heritage for us, the pride of Jacob whom he loves. Selah",
+      "arminianNotes": "He chose our heritage for us, the pride of Jacob whom he loves. Selah. Wesley: Chuse—He will appoint and bestow upon us. Inheritance—The presence and worship, and blessing of God. This God had chosen for the Israelites and resolved to chuse or set apart for the Gentiles. Of Jacob—Of the people of Jacob or Israel, who actually enjoy God's presence in his sanctuary. Loved—Not for any peculiar worth in them, but for his free love to them, as he declareth, Deut 7:7,8.\n\nArminian pastoral: shared—receive the heritage as God's presence, worship, and blessing, given by free love. Pause at Selah; refuse a pride of Jacob that claims worth instead of love.",
+      "reformedNotes": "Calvin: He hath chosen our inheritance for us, the glory of Jacob whom he loved—special grace to Abraham's seed; chosen is emphatic: not dealt with as other nations; free and unmerited favor; all merits in man annihilated; if the patriarch's glory depended on God's good pleasure, none may arrogate anything as his own; the grace toward his chosen is not extended to all in common but distinguishes a few from the mass.\n\nReformed pastoral: shared—ascribe the heritage wholly to electing love. Boast only in being chosen; refuse every claim of peculiar worth.",
+      "keyContrast": "Both hear God choosing Jacob's heritage in free love. Arminians typically hear Wesley: inheritance as God's presence, worship, and blessing—appointed for Israel and set apart also for the Gentiles; loved not for worth but free love (Deut 7:7,8). Reformed readers typically hear Calvin: chosen as special distinguishing grace that annihilates merits and is not extended to all in common but marks a few from the mass."
+    },
+    {
+      "number": 5,
+      "text": "God has gone up with a shout, the LORD with the sound of a trumpet.",
+      "arminianNotes": "God has gone up with a shout, the LORD with the sound of a trumpet. Wesley: God—This is meant literally of the ark: but mystically of Christ's ascension into heaven, as may be gathered by comparing this with Eph 4:8, where the like words uttered concerning the ark upon the same occasion, Psal 68:18, are directly applied to Christ's ascension. Shared with both camps: ark going up and Christ's ascension echo together.\n\nArminian pastoral: shared with both camps—hear the shout and trumpet as ark and as ascended Christ. Praise the One who has gone up; refuse a ceremony that never looks to heaven.",
+      "reformedNotes": "Calvin: God is gone up with triumph, Jehovah with the sound of a trumpet—allusion to the Law's solemn assemblies and the ark as pledge of presence; under that shadow, another going up more triumphant—Christ ascended far above all heavens (Eph 4:10), obtaining the empire of the world. Shared with Wesley: literal ark ceremony and Christ's ascension belong together.\n\nReformed pastoral: shared with both camps—let trumpet praise follow the ascended King. Hold ark and ascension as one testimony; refuse an empty sound that never confesses his empire."
+    },
+    {
+      "number": 6,
+      "text": "Sing praises to God, sing praises! Sing praises to our King, sing praises!",
+      "arminianNotes": "Sing praises to God, sing praises! Sing praises to our King, sing praises! Fourfold call: praises to God and to our King—the same Lord who has gone up.\n\nArminian pastoral: shared—multiply praise to God our King. Answer the ascent with song; refuse a silence after the trumpet.",
+      "reformedNotes": "Calvin: Sing praises—drawn from God's going up as present King; the faithful are not acting blindly like those who howl before idols; they know he is as present as if his royal throne were visibly among them.\n\nReformed pastoral: shared—sing because the King is truly present. Praise with certainty; refuse empty ritual that never knows whom it addresses."
+    },
+    {
+      "number": 7,
+      "text": "For God is the King of all the earth; sing praises with a psalm!",
+      "arminianNotes": "For God is the King of all the earth; sing praises with a psalm! Wesley: The king—Not only ours, but of all the nations of the world. Sing—Not formally and carelessly, but seriously, considering the greatness of this king whom you praise, and what abundant cause you have to praise him. Shared kingship: King of all the earth.\n\nArminian pastoral: shared—sing with serious understanding to the King of all the earth. Weigh his greatness; refuse formal careless praise.",
+      "reformedNotes": "Calvin: God is King of all the earth—Jews retain primogeniture while Gentiles join as associates; the kingdom more magnificent at the Messiah's coming than under the Law's shadows; sing praises with understanding (maskil)—not mere sound of tongues dissolving in air, but intelligent worship so God's name is not profaned.\n\nReformed pastoral: shared—confess the worldwide King and sing with understanding. Join heart to voice; refuse a melody that never knows what it sings."
+    },
+    {
+      "number": 8,
+      "text": "God reigns over the nations; God sits on his holy throne.",
+      "arminianNotes": "God reigns over the nations; God sits on his holy throne. Wesley: The throne—Heaven is often called God's throne, whence God is said to behold and to rule all nations; of which general dominion of God, he here speaks. And Christ sits at his father's right-hand, for that purpose. Shared reign: God over the nations from his holy throne.\n\nArminian pastoral: shared—look to the holy throne where God and the seated Christ rule the nations. Rest under that dominion; refuse a reign confined to one people.",
+      "reformedNotes": "Calvin: He hath obtained the kingdom over the heathen; God sitteth upon the throne of his holiness—new manner of reigning at Christ's coming, empire stretched beyond Judea's bounds; throne as temple-seat from which gospel dominion flowed, or as heaven from which he shows near power so men acknowledge him Governor.\n\nReformed pastoral: shared—confess God reigning over the nations from his holy throne. Expect Christ's worldwide sway; refuse a kingdom that never leaves old borders."
+    },
+    {
+      "number": 9,
+      "text": "The princes of the peoples gather as the people of the God of Abraham. For the shields of the earth belong to God; he is highly exalted!",
+      "arminianNotes": "The princes of the peoples gather as the people of the God of Abraham. For the shields of the earth belong to God; he is highly exalted! Wesley: The princes—The Gentiles, who were divided in their principles, and interests, and religions, are now united and gathered together to Christ, laying their scepters at his feet, and jointly owning his worship and service. Of the God—He doth not say the people of Abraham, lest this should be appropriated to the Israelites; but the people of the God of Abraham who worship the God of Abraham, whether they be Jews or Gentiles. The Shields—The princes or rulers, called shields (Hosea 4:18), protectors of their people—the Lord's, at his disposal in hearts and kingdoms. Exalted—By this means God shall be greatly glorified.\n\nArminian pastoral: shared—welcome princes gathered as worshipers of Abraham's God, Jew and Gentile. Own that shields belong to him; refuse a people-of-Abraham claim that shuts out the nations.",
+      "reformedNotes": "Calvin: Princes of the peoples gathered to the people of the God of Abraham—aliens grafted into Abraham's family so the kingdom extends; gospel does not remove Jews from the covenant but joins Gentiles to them; not bastard Jews cut off by unbelief, but the holy root and remaining branches; Church unity is unfeigned obedience to the word; shields of the earth are God's—princes he may engraft, or his many bucklers preserving the world.\n\nReformed pastoral: shared—seek a place among Abraham's God-people by faith's graft. Yield scepters to him; refuse a gathering that will not obey the word.",
+      "keyContrast": "Both see princes gathered as the people of the God of Abraham, with earth's shields his. Arminians typically hear Wesley: Gentiles united to Christ with scepters at his feet; deliberately \"people of the God of Abraham\"—Jews or Gentiles who worship that God—not a title locked to Israel alone. Reformed readers typically hear Calvin: aliens grafted into Abraham's stock and joined to the covenant people; unity as obedience to the word; shields as princes he engrafts or as his bucklers preserving the world."
+    }
+  ]
+}

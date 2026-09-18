@@ -1,0 +1,123 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 92,
+  "verseStart": 1,
+  "verseEnd": 15,
+  "translation": "ESV",
+  "title": "Psalm 92:1–15",
+  "context": "A Psalm. A Song for the Sabbath. It is good to give thanks to the LORD and sing to the Most High; declare steadfast love in the morning and faithfulness by night, with lute, harp, and lyre. Glad in his work; great works; deep thoughts. The stupid cannot know that though the wicked sprout like grass they are doomed forever—but the LORD is on high forever. Enemies perish; horn exalted; fresh oil; eyes see downfall. The righteous flourish like palm and cedar, planted in the LORD's house, still fruit in old age, to declare that the LORD is upright—my rock, no unrighteousness in him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Sabbath thanksgiving, morning love and night faithfulness, deep thoughts fools cannot grasp, wicked flourishing briefly then destroyed, the LORD most high forever, the righteous like palm and cedar planted in his house, fruit in old age, and the upright Rock—so each camp speaks in its own voice beside Psalm 92:1–15.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Thoughts—counsels in government of world and church. A brutish man—led by sense, not reason and faith; This—depth of God's counsels. Anointed—joy testified by anointing at solemnities. Palm-tree—constantly green. Planted—fixed by gracious providence in the church. Old age—last days best; grow in grace and blessedness.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 92"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Good to give thanks; Sabbath for meditating divine works, not idle holiness. Show loving-kindness morning and faithfulness night—continuous praise. Glad in thy works. How great thy works; thoughts very deep—brutish man knows not. Wicked spring as grass to be destroyed forever; thou, LORD, most high forever. Enemies perish; workers of iniquity scattered. Horn exalted like wild ox; fresh oil. Eyes see desire on enemies. Righteous flourish like palm and cedar; planted in Jehovah's house; still bud in old age; fat and green—to show Jehovah upright, my rock, no iniquity in him. Trials first; eventual flourishing displays his righteousness.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 92"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "It is good to give thanks to the Lord, to sing praises to your name, O Most High;",
+      "arminianNotes": "It is good to give thanks to the Lord, to sing praises to your name, O Most High; Shared: goodness of thanks and sung praise to the Most High.\n\nArminian pastoral: Sabbath song starts with \"it is good.\" Praise is fitting work, not leftover.",
+      "reformedNotes": "Calvin: good to give thanks; Sabbath not idle but separated to meditate and celebrate divine works; knowing the service meets divine approbation encourages labor in praise.\n\nReformed pastoral: shared—good to give thanks; sing to the Most High. Right Sabbath is praise, not vacancy."
+    },
+    {
+      "number": 2,
+      "text": "to declare your steadfast love in the morning, and your faithfulness by night,",
+      "arminianNotes": "to declare your steadfast love in the morning, and your faithfulness by night, Shared: morning hesed; night faithfulness declared.\n\nArminian pastoral: bookend the day with attributes. Love at dawn; faithfulness at night.",
+      "reformedNotes": "Calvin: announce goodness morning and faithfulness night—not dividing the attributes by hours but continuing praise from dawn to latest night.\n\nReformed pastoral: shared—steadfast love morning; faithfulness by night. Ingratitude alone leaves us without matter for praise."
+    },
+    {
+      "number": 3,
+      "text": "to the music of the lute and the harp, to the melody of the lyre.",
+      "arminianNotes": "to the music of the lute and the harp, to the melody of the lyre. Shared: instrumental praise with the song.\n\nArminian pastoral: beauty of ordered worship aids declaration. Instruments serve the Name.",
+      "reformedNotes": "Calvin: addresses Levite singers to employ instruments—not as if necessary to God, but as helps elevating devotion under the law's pedagogy.\n\nReformed pastoral: shared—lute, harp, lyre. Means of praise serve hearts that savor God's works."
+    },
+    {
+      "number": 4,
+      "text": "For you, O Lord, have made me glad by your work; at the works of your hands I sing for joy.",
+      "arminianNotes": "For you, O Lord, have made me glad by your work; at the works of your hands I sing for joy. Shared: gladness caused by God's work; joy at his hands' deeds.\n\nArminian pastoral: joy has a cause—his work. Sing because he acted.",
+      "reformedNotes": "Calvin: made glad in thy works; triumph in works of thy hands—holy joy answering contemplation.\n\nReformed pastoral: shared—glad by your work; sing for joy. Brutish indifference (v. 6) is failure to savor this end."
+    },
+    {
+      "number": 5,
+      "text": "How great are your works, O Lord! Your thoughts are very deep!",
+      "arminianNotes": "How great are your works, O Lord! Your thoughts are very deep! Wesley: Thoughts—counsels governing world and church. Shared: great works; deep thoughts/counsels.\n\nArminian pastoral: depth invites worship, not complaint. Counsels run deeper than headlines.",
+      "reformedNotes": "Calvin: how great thy works; thoughts very deep—universe proclaims faithfulness and goodness to the watchful.\n\nReformed pastoral: shared—great works; deep thoughts. Depth is praise material."
+    },
+    {
+      "number": 6,
+      "text": "The stupid man cannot know; the fool cannot understand this:",
+      "arminianNotes": "The stupid man cannot know; the fool cannot understand this: Wesley: Brutish—led by sense not faith; This—depth of counsels. Shared: folly misses the deep works.\n\nArminian pastoral: sense-only living cannot read providence. Ask for faith's understanding.",
+      "reformedNotes": "Calvin: brutish man knows not; fool understands not—inability to savor the end designed in God's works causes indifference.\n\nReformed pastoral: shared—stupid cannot know; fool cannot understand. Dullness is spiritual before it is intellectual."
+    },
+    {
+      "number": 7,
+      "text": "that though the wicked sprout like grass and all evildoers flourish, they are doomed to destruction forever;",
+      "arminianNotes": "that though the wicked sprout like grass and all evildoers flourish, they are doomed to destruction forever; Shared: brief grass-flourish; everlasting doom.\n\nArminian pastoral: do not envy tomorrow's cut grass. Flourish is not finale.",
+      "reformedNotes": "Calvin: wicked spring as grass to be destroyed forever—ridiculous to envy those doomed to swift withering.\n\nReformed pastoral: shared—sprout like grass; doomed forever. Deep thoughts include the end of evil's spring."
+    },
+    {
+      "number": 8,
+      "text": "but you, O Lord, are on high forever.",
+      "arminianNotes": "but you, O Lord, are on high forever. Shared: contrast—LORD forever exalted.\n\nArminian pastoral: \"but\" relocates hope from grass to the Most High. Forever answers \"forever\" doom of v. 7.",
+      "reformedNotes": "Calvin: but thou, LORD, art most high forevermore—stable height over transient wickedness.\n\nReformed pastoral: shared—on high forever. God's height is the psalm's rest."
+    },
+    {
+      "number": 9,
+      "text": "For behold, your enemies, O Lord, for behold, your enemies shall perish; all evildoers shall be scattered.",
+      "arminianNotes": "For behold, your enemies, O Lord, for behold, your enemies shall perish; all evildoers shall be scattered. Shared: double behold; enemies perish; evildoers scattered.\n\nArminian pastoral: behold twice—certainty. Scattering ends organized evil.",
+      "reformedNotes": "Calvin: lo, thine enemies shall perish; workers of iniquity scattered—vindication tied to his forever height.\n\nReformed pastoral: shared—enemies perish; evildoers scattered. Justice is part of Sabbath praise."
+    },
+    {
+      "number": 10,
+      "text": "But you have exalted my horn like that of the wild ox; you have poured over me fresh oil.",
+      "arminianNotes": "But you have exalted my horn like that of the wild ox; you have poured over me fresh oil. Wesley: Anointed—joy at solemnities. Shared: horn raised; fresh oil.\n\nArminian pastoral: strength and festal joy after enemies' fate. Oil marks glad consecration.",
+      "reformedNotes": "Calvin: horn exalted like unicorn/wild ox; anointed with fresh oil—strength and refreshed gladness for the righteous.\n\nReformed pastoral: shared—horn exalted; fresh oil. Personal mercy after public judgment."
+    },
+    {
+      "number": 11,
+      "text": "My eyes have seen the downfall of my enemies; my ears have heard the doom of my evil assailants.",
+      "arminianNotes": "My eyes have seen the downfall of my enemies; my ears have heard the doom of my evil assailants. Shared: eyes and ears witness foes' end.\n\nArminian pastoral: testimony senses confirm God's justice. Witness without vengeful appetite.",
+      "reformedNotes": "Calvin: eye sees desire on enemies; ears hear of the wicked rising against me—fulfilled watchfulness.\n\nReformed pastoral: shared—seen downfall; heard doom. Providence becomes audible and visible."
+    },
+    {
+      "number": 12,
+      "text": "The righteous flourish like the palm tree and grow like a cedar in Lebanon.",
+      "arminianNotes": "The righteous flourish like the palm tree and grow like a cedar in Lebanon. Wesley: Palm—constantly green. Shared: palm flourish; cedar growth.\n\nArminian pastoral: lasting green against grass of v. 7. Character rooted differently.",
+      "reformedNotes": "Calvin: righteous flourish like palm; multiplied as cedar—after trials, God shows he had not forgotten them.\n\nReformed pastoral: shared—palm; cedar. Enduring life versus grass-wicked."
+    },
+    {
+      "number": 13,
+      "text": "They are planted in the house of the Lord; they flourish in the courts of our God.",
+      "arminianNotes": "They are planted in the house of the Lord; they flourish in the courts of our God. Wesley: Planted—fixed by providence in the church. Shared: planted in the house; flourish in courts.\n\nArminian pastoral: location matters—house and courts. Flourish is ecclesial, not merely private.",
+      "reformedNotes": "Calvin: planted in Jehovah's house; flourish in courts—nearness to worship is the soil of growth.\n\nReformed pastoral: shared—planted in the house; flourish in courts. God's dwelling grows his trees."
+    },
+    {
+      "number": 14,
+      "text": "They still bear fruit in old age; they are ever full of sap and green,",
+      "arminianNotes": "They still bear fruit in old age; they are ever full of sap and green, Wesley: Old age—last days best; grow in grace. Shared: aged fruitfulness; sap and green.\n\nArminian pastoral: refuse the myth that piety expires with youth. Last days can be best days.",
+      "reformedNotes": "Calvin: still bud in old age; fat and green—continued vitality displaying God's care into late years.\n\nReformed pastoral: shared—fruit in old age; full of sap and green. Perseverance has botanical imagery."
+    },
+    {
+      "number": 15,
+      "text": "to declare that the Lord is upright; he is my rock, and there is no unrighteousness in him.",
+      "arminianNotes": "to declare that the Lord is upright; he is my rock, and there is no unrighteousness in him. Shared close: aged fruit declares the upright Rock; no unrighteousness in him.\n\nArminian pastoral: lives become arguments for God's character. Rock without injustice.",
+      "reformedNotes": "Calvin: that they may show Jehovah is upright, my rock, and no iniquity in him—flourishing saints are exhibits of his righteousness.\n\nReformed pastoral: shared—declare the LORD upright; my rock; no unrighteousness. The Sabbath song ends in theodicy proved in lives."
+    }
+  ]
+}

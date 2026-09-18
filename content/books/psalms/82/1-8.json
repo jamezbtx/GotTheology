@@ -1,0 +1,81 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 82,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 82:1–8",
+  "context": "A Psalm of Asaph. God has taken his place in the divine council; in the midst of the gods he holds judgment. How long will rulers judge unjustly and show partiality to the wicked? Give justice to the weak and fatherless; maintain the right of the afflicted and destitute; rescue the weak and needy from the wicked. Yet the magistrates neither know nor understand; they walk in darkness and the foundations of the earth are shaken. Though called gods and sons of the Most High, they shall die like men and fall like any prince. Arise, O God, judge the earth—for you shall inherit all the nations.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God judging among the gods, unjust partiality rebuked, the weak and fatherless defended, darkened magistrates and shaken foundations, mortal fall of princes, and the plea that God arise to judge the earth—so each camp speaks in its own voice beside Psalm 82:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Standeth—To observe all that is said or done there. Mighty—Kings or chief rulers; by their congregation he understands all persons of this high and sacred order. Judgeth—Passes sentence upon them. The gods—Judges and magistrates are called gods, because they have their commission from God and act as his deputies. How long—The psalmist speaks to them in God's name. Accept—By giving sentence according to respect or affection to the person. They—The magistrates of whom this psalm treats. Know not—The duty of their place. Nor will—Their ignorance is wilful. Walk on—They persist; it is their constant course. In darkness—In their sinful courses. The foundations—Corruption of the supreme rulers flows to inferior officers and members. Have said—I have given you my name and power to rule your people in my stead. All—Not only the rulers of Israel, but of all other nations. Children—Representing my person, bearing both my name and authority. Like men—Or, like ordinary men. Arise—Take the sword of justice into thine own hand.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 82"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Although men occupy thrones and judgment-seats, God nevertheless continues to hold the office of supreme ruler. Civil order is termed the assembly of God; the name gods is understood of judges on whom God has impressed special marks of his glory—to apply it to angels is a fancy too strained. Kings may lift up their heads above the clouds, but they are under God's government; the prophet freely inveighs against princes who sell themselves to those who oppress the poor and are gained by bribes. A just government maintains the rights of the poor and afflicted; rulers are appointed defenders of the miserable and oppressed. They know not nor understand—though heaven and earth are involved in confusion, they continue thoughtless. I have said, ye are gods: dignity will afford no shield to wicked judges; God has not divested himself of sovereignty; they must appear at the judgment-seat of heaven. Arise, O God, judge the earth—when admonitions are ineffectual, lift eyes to heaven; he claims the office of judging the world; tyrants wickedly wrest his prerogative when they confound good and evil.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 82"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "God has taken his place in the divine council; in the midst of the gods he holds judgment:",
+      "arminianNotes": "God has taken his place in the divine council; in the midst of the gods he holds judgment. Wesley: Standeth—to observe all said or done; Mighty—kings or chief rulers; The gods—judges and magistrates commissioned by God as his deputies. Shared: God sits as supreme Judge over earthly judges.\n\nArminian pastoral: the council scene is moral and magisterial, not speculative theater. Hear God inspecting those who bear his name in office.",
+      "reformedNotes": "Calvin: although men occupy thrones, God holds the office of supreme ruler; civil order is the assembly of God; gods means judges marked with his glory—not angels. He erects a throne from which he judges princes and represses their pride.\n\nReformed pastoral: shared—God judges among the gods. Magnates may not arrogate exemption; lawful government reflects his majesty and remains under his rule."
+    },
+    {
+      "number": 2,
+      "text": "“How long will you judge unjustly and show partiality to the wicked? Selah",
+      "arminianNotes": "“How long will you judge unjustly and show partiality to the wicked? Selah” Wesley: How long—the psalmist speaks in God's name; Accept—sentence according to respect or affection to the person. Shared: partiality to the wicked is rebuked under God's eye.\n\nArminian pastoral: Selah invites pause over crooked judgment. Ask how long; do not baptize favoritism as prudence.",
+      "reformedNotes": "Calvin: after laying the foundation that God rules among them, the prophet freely reproves princes who sell themselves to oppressors and are gained by bribes—wicked men find more favor than the simple and innocent.\n\nReformed pastoral: shared—unjust judgment and partiality. Open the mouth against tyranny under the truth that God rules among rulers."
+    },
+    {
+      "number": 3,
+      "text": "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute.",
+      "arminianNotes": "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute. Shared: the weak, fatherless, afflicted, and destitute are the measure of just rule.\n\nArminian pastoral: Wesley has no extra lemma; the plain duty stands. Defend those who cannot buy a verdict.",
+      "reformedNotes": "Calvin: a just government is distinguished by maintaining the rights of the poor and afflicted; by synecdoche one part of equity stands for the whole. Rulers are appointed defenders of the miserable—where free from avarice and ambition.\n\nReformed pastoral: shared—justice for weak and fatherless. The sword restrains the wicked so violence does not prevail."
+    },
+    {
+      "number": 4,
+      "text": "Rescue the weak and the needy; deliver them from the hand of the wicked.”",
+      "arminianNotes": "Rescue the weak and the needy; deliver them from the hand of the wicked. Shared: rescue and deliverance from the wicked's hand is the magistrate's charge.\n\nArminian pastoral: deliverance language is active—rid them out. Office exists to extract the needy from predatory power.",
+      "reformedNotes": "Calvin: rescue the poor and afflicted; deliver them out of the hand of the wicked. Judges bear the sword to restrain the wicked and prevent violence among those disposed to outrage.\n\nReformed pastoral: shared—rescue from the wicked. Strength without defense of the weak is not the office God named \"gods.\""
+    },
+    {
+      "number": 5,
+      "text": "They have neither knowledge nor understanding, they walk about in darkness; all the foundations of the earth are shaken.",
+      "arminianNotes": "They have neither knowledge nor understanding, they walk about in darkness; all the foundations of the earth are shaken. Wesley: They—the magistrates; Know not—duty of their place; Nor will—ignorance is wilful; Walk on—constant sinful course; Foundations—corruption flows from supreme rulers to inferiors. Shared: wilful dark walking shakes social foundations.\n\nArminian pastoral: ignorance here is refusal, not mere lack of data. When rulers walk in darkness, foundations tremble—lament and call them back.",
+      "reformedNotes": "Calvin: admonition is ineffectual; though heaven and earth are in confusion, they continue thoughtless. Dazzled with splendor, they shake off every yoke; sound wisdom begins by yielding God his honor. Many take shaken foundations as unjust tyranny undermining society—Calvin does not reject that reading.\n\nReformed pastoral: shared—no knowledge, darkness, foundations shaken. Secure neglect of duty is madness when the world reels."
+    },
+    {
+      "number": 6,
+      "text": "I said, “You are gods, sons of the Most High, all of you;",
+      "arminianNotes": "I said, “You are gods, sons of the Most High, all of you. Wesley: Have said—I have given you my name and power to rule in my stead; All—rulers of Israel and other nations; Children—representing my person and authority. Shared: the title \"gods\" is real commission, not flattery.\n\nArminian pastoral: the name is gift and trust. Bearing God's name in office heightens accountability rather than canceling it.",
+      "reformedNotes": "Calvin: God has invested judges with a sacred character and title; this will afford no protection to wicked judges. He has not divested himself of sovereignty; they must appear at heaven's judgment-seat. Christ cites this in John 10:34 of those to whom the word of God came.\n\nReformed pastoral: shared—ye are gods, sons of the Most High. Dignity is temporary; it cannot excuse wickedness."
+    },
+    {
+      "number": 7,
+      "text": "nevertheless, like men you shall die, and fall like any prince.”",
+      "arminianNotes": "nevertheless, like men you shall die, and fall like any prince.” Wesley: Like men—or like ordinary men. Shared: mortal fall strips the sacred title of false security.\n\nArminian pastoral: princes fall like other men. Do not trust the bench more than the Judge who gave it.",
+      "reformedNotes": "Calvin: frailty is recalled to stir fearful execution of office; the dignity with which they are clothed is temporary and will pass away with the fashion of the world.\n\nReformed pastoral: shared—die like men; fall like any prince. Sacred office does not cancel death or final judgment."
+    },
+    {
+      "number": 8,
+      "text": "Arise, O God, judge the earth; for you shall inherit all the nations!",
+      "arminianNotes": "Arise, O God, judge the earth; for you shall inherit all the nations! Wesley: Arise—take the sword of justice into thine own hand. Shared close: when human gods fail, God himself must judge and inherit the nations.\n\nArminian pastoral: the plea hands the sword back to God. Pray for his public justice over all nations—not for private revenge.",
+      "reformedNotes": "Calvin: finding remonstrances ineffectual, the prophet calls on God to repress insolence. When no power on earth restrains tyrants, lift eyes to heaven; he does not claim the office of judging the world in vain. He has rightful claim to all nations' obedience; tyrants wrest his prerogative when they confound right and wrong.\n\nReformed pastoral: shared—arise and judge; inherit the nations. Comfort under cruel treatment: seek redress from the world's true Judge."
+    }
+  ]
+}

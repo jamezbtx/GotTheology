@@ -1,0 +1,148 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 80,
+  "verseStart": 1,
+  "verseEnd": 19,
+  "translation": "ESV",
+  "title": "Psalm 80:1–19",
+  "context": "To the choirmaster: according to Lilies. A Testimony. Of Asaph, a Psalm. The Shepherd of Israel who leads Joseph and sits enthroned on the cherubim is asked to shine forth and stir up might before Ephraim, Benjamin, and Manasseh. The refrain cries restore us, let your face shine, that we may be saved. How long will the Lord of hosts be angry with his people's prayers? They have eaten bread of tears and drunk tears in full measure; neighbors contend and enemies laugh. The vine brought from Egypt, planted and deeply rooted to sea and River, has walls broken down so passersby pluck it and boar and field-beasts ravage it. Turn again, look from heaven, regard the vine and the son made strong; it is burned and cut down. Let your hand be on the man of your right hand, the son of man; then we will not turn back—give life, and we will call on your name. Restore us, O Lord God of hosts; let your face shine, that we may be saved.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the Shepherd enthroned on the cherubim, the thrice-sung restore-and-shine refrain, bread of tears, the vine from Egypt broken and ravaged, the man of the right hand, and life that calls on the name—so each camp speaks in its own voice beside Psalm 80:1–19.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Joseph—The children of Joseph or Israel; the name of Joseph is elsewhere put for all the tribes. Cherubim—By the mercy seat above the ark. Before Ephraim—Allusion to the tabernacle in the wilderness, these tribes west of the ark, which was before them. Turn us—To thy self. Preparedst—Thou didst root out the idolatrous nations. Deep root—Firm settlement. The hills—They filled valleys and even barren mountains. The river—From the mid-land sea to Euphrates. Hedges—Taken away thy protection. They—Thy people, signified by the vine; he passes from metaphor to the thing. Be—To protect and strengthen him. Right-hand—Benjamin means son of the right hand, a dearly beloved son. Son of man—The people of Israel as one person, God's son and first-born. Go back—Revolt to idolatry or wickedness. Quicken—Revive and restore us to our tranquility.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 80"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Hearken, O Shepherd of Israel, who leadest Joseph like a flock; who sittest between the cherubim, shine forth. They are called back from spurious worship to the mercy-seat—the pledged presence. Turn us again: restore us to our former state; all miseries traced to the hidden face; complete salvation solely through divine favor—resurrection if once thy countenance shine. How long wilt thou smoke against the prayer of thy people? Bread of tears; strife to neighbors; enemies laugh. Thou broughtest a vine out of Egypt, cast out the heathen, planted and rooted it; mountains covered, branches to sea and river. Why broken hedges so passersby pluck it; boar and wild beast waste it? Return, look from heaven, visit this vine—the branch thy right hand planted. Burnt with fire, cut down; they perish at the rebuke of thy countenance. Let thy hand be on the Man of thy right hand, the Son of man strengthened for thyself—the people as one, with particular reference to the king. We will not go back; quicken us, and we will call on thy name. Turn us again, O Jehovah God of Hosts; cause thy face to shine, and we shall be saved.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 80"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Give ear, O Shepherd of Israel, you who lead Joseph like a flock. You who are enthroned upon the cherubim, shine forth.",
+      "arminianNotes": "Give ear, O Shepherd of Israel, you who lead Joseph like a flock. You who are enthroned upon the cherubim, shine forth. Wesley: Joseph—children of Joseph or Israel; Cherubim—by the mercy seat above the ark. Shared: Shepherd-King addressed at the ark's throne.\n\nArminian pastoral: ask the Shepherd to hear and shine. Presence between the cherubim is the appointed nearness—come back to that light.",
+      "reformedNotes": "Calvin: Joseph is named because the design treats the kingdom of Israel under Joseph's line; yet they must not trust spurious worship—He who sits between the cherubim calls them back to the law's pure doctrine. The mercy-seat pledges presence; God humbles himself to dwell among them so the faithful not imagine him far.\n\nReformed pastoral: shared—Shepherd, flock, cherubim, shine. Return to the Word's seat of meeting, not to homemade gods."
+    },
+    {
+      "number": 2,
+      "text": "Before Ephraim and Benjamin and Manasseh, stir up your might and come to save us!",
+      "arminianNotes": "Before Ephraim and Benjamin and Manasseh, stir up your might and come to save us! Wesley: Before Ephraim—allusion to wilderness camp, these tribes west of the tabernacle, ark before them. Shared: stir strength in the sight of the tribes and save.\n\nArminian pastoral: ask visible might and coming salvation. Historic camp order teaches where the ark led; pray that lead again.",
+      "reformedNotes": "Calvin: stir up strength and come for deliverance in the sight of Ephraim, Benjamin, and Manasseh. The plea is for God to act where his people can see his aid.\n\nReformed pastoral: shared—stir up might; come save. Salvation is asked as God's arising, not Israel's self-rescue."
+    },
+    {
+      "number": 3,
+      "text": "Restore us, O God; let your face shine, that we may be saved!",
+      "arminianNotes": "Restore us, O God; let your face shine, that we may be saved! Wesley: Turn us—to thy self. Shared refrain: turning/restoring and shining face equal salvation.\n\nArminian pastoral: the turn is Godward—\"to thy self.\" Face-shine is the light of favor that saves; pray both the turning and the shining.",
+      "reformedNotes": "Calvin: Turn us again means restore us to our former state. Some refine it as a prayer for regenerating spirit; better to keep the sense of restoration under adversity—God's peculiar work to restore life to the dead. Miseries traced to the hidden face; complete salvation solely through divine favor. It will be a resurrection if once thy countenance shine.\n\nReformed pastoral: shared—restore; face shine; we are saved. Favor's light is the life of the people.",
+      "keyContrast": "Both hear salvation as bound to God's restoring turn and shining face—not to unaided recovery. Arminians typically stress Wesley's \"Turn us—to thy self\": restoration as return Godward that grace enables and the face-shine completes. Reformed readers typically stress Calvin's restore-to-former-state and resurrection-if-the-countenance-shines: miseries from the hidden face, life only when divine favor returns."
+    },
+    {
+      "number": 4,
+      "text": "O LORD God of hosts, how long will you be angry with your people's prayers?",
+      "arminianNotes": "O LORD God of hosts, how long will you be angry with your people's prayers? Shared: even prayer seems met with anger; how long?\n\nArminian pastoral: name the dread that petitions smoke back unanswered. Keep praying the how-long; do not quit the throne of grace.",
+      "reformedNotes": "Calvin: surprising that God continues unpacified though they betake themselves to him—angry when they call. Speaking by flesh's judgment, they represent him as deaf; yet they must cherish faith's judgment and penetrate to hidden salvation. He permits them to disburden cares and fears. Smoke of wrath alludes to incense; another smoke seems to obscure the heavens.\n\nReformed pastoral: shared—anger against prayer. Pour out the complaint; still believe the promise that prayer is not finally disappointed."
+    },
+    {
+      "number": 5,
+      "text": "You have fed them with the bread of tears and given them tears to drink in full measure.",
+      "arminianNotes": "You have fed them with the bread of tears and given them tears to drink in full measure. Shared: diet and cup are grief measured out by God.\n\nArminian pastoral: tears as bread and drink—sorrow saturates ordinary life. Bring the full measure to the God of hosts who alone can change the ration.",
+      "reformedNotes": "Calvin: greatness and long continuance of grief—so filled with sorrow they can contain no more. Bread of tears and tears to drink depict Zion in captivity.\n\nReformed pastoral: shared—bread and cup of tears. Affliction is from his hand; therefore from his hand seek relief."
+    },
+    {
+      "number": 6,
+      "text": "You make us an object of contention for our neighbors, and our enemies laugh among themselves.",
+      "arminianNotes": "You make us an object of contention for our neighbors, and our enemies laugh among themselves. Shared: strife around and laughter among foes—both ascribed to God's ordering.\n\nArminian pastoral: neighbors quarrel over or against us; enemies mock. Own that God \"makes\" this, then plead the restore refrain.",
+      "reformedNotes": "Calvin: made a strife to neighbors—either quarrel taken up against them, or victors contending over spoil; former sense suits. Enemies laugh among themselves at their adversities. They ascribe all to God's judgment, who bends hearts—to stir repentance.\n\nReformed pastoral: shared—contention and laughter. The Spirit still inspires bold prayer under nearly desperate guilt."
+    },
+    {
+      "number": 7,
+      "text": "Restore us, O God of hosts; let your face shine, that we may be saved!",
+      "arminianNotes": "Restore us, O God of hosts; let your face shine, that we may be saved! Refrain returns with \"God of hosts.\" Shared: armies' Lord must turn and shine for salvation.\n\nArminian pastoral: Wesley's turn-to-thyself still governs. Repeat the plea; hosts-language matches the scale of the ruin.",
+      "reformedNotes": "Calvin: repetition of v. 3—not vain words but means to surmount obstacles. God encourages a people bowed under calamity to rise, heavy though the load be. The support is presented often; it will close the psalm a third time.\n\nReformed pastoral: shared—restore; shine; save. Repeat faith's chorus against despair."
+    },
+    {
+      "number": 8,
+      "text": "You brought a vine out of Egypt; you drove out the nations and planted it.",
+      "arminianNotes": "You brought a vine out of Egypt; you drove out the nations and planted it. Shared: Exodus vine—God the planter after clearing the land.\n\nArminian pastoral: rehearse the planting grace. The God who brought and planted is the one now asked to return (v. 14).",
+      "reformedNotes": "Calvin: under the vine is celebrated singular grace after redemption—inviting approach by benefits and word. Unbecoming that God abandon what he planted and cultivated. The covenant was not for a few days; vine marks high estimation.\n\nReformed pastoral: shared—vine from Egypt, nations driven, planted. Past liberality grounds present hope."
+    },
+    {
+      "number": 9,
+      "text": "You cleared the ground for it; it took deep root and filled the land.",
+      "arminianNotes": "You cleared the ground for it; it took deep root and filled the land. Wesley: Preparedst—root out idolatrous nations; Deep root—firm settlement. Shared: cleared ground, deep root, filled land.\n\nArminian pastoral: firm settlement was gift. Remember how thoroughly God prepared and rooted before you ask why hedges fell.",
+      "reformedNotes": "Calvin: ground cleansed—heathen cast out, or continual digging vines need. Rooted its roots—pains to propagate. The land filled with inhabitants as the people increased.\n\nReformed pastoral: shared—cleared, rooted, filled. Husbandry of God was careful; ruin is therefore the more grievous."
+    },
+    {
+      "number": 10,
+      "text": "The mountains were covered with its shade, the mighty cedars with its branches.",
+      "arminianNotes": "The mountains were covered with its shade, the mighty cedars with its branches. Wesley: The hills—they filled not only fruitful valleys but even barren mountains. Shared: sprawling shade and cedar-high branches.\n\nArminian pastoral: prosperity once reached the barren heights. Praise the former cover before you mourn the plucking.",
+      "reformedNotes": "Calvin: mountains covered with its shadow; branches compared to cedars of God—most excellent—to express how eminently Abraham's seed were blessed.\n\nReformed pastoral: shared—mountain shade, cedar branches. Former glory measures present loss."
+    },
+    {
+      "number": 11,
+      "text": "It sent out its branches to the sea and its shoots to the River.",
+      "arminianNotes": "It sent out its branches to the sea and its shoots to the River. Wesley: The river—they possessed the whole land from the mid-land sea to Euphrates. Shared: sea-to-River extent of the vine.\n\nArminian pastoral: promised borders once held. The geography of blessing fuels the why of broken walls.",
+      "reformedNotes": "Calvin: sea and Euphrates were the appointed boundaries of the inheritance. Extent fulfilled the promise of wide possession.\n\nReformed pastoral: shared—branches to sea and River. Wide planting makes the later ravaging the sharper question."
+    },
+    {
+      "number": 12,
+      "text": "Why then have you broken down its walls, so that all who pass along the way pluck its fruit?",
+      "arminianNotes": "Why then have you broken down its walls, so that all who pass along the way pluck its fruit? Wesley: Hedges—taken away thy protection. Shared: protection removed; passersby plunder.\n\nArminian pastoral: ask why honestly. Broken hedges mean lost covering—pray protection restored, not merely complain of thieves.",
+      "reformedNotes": "Calvin: application of the similitude—nothing more inconsistent than God abandoning the vine he planted to be rooted up. He often threatened this; severity renders ingratitude detestable. Yet true believers take encouragement: he who never forsakes the work of his hands may still care for a remnant.\n\nReformed pastoral: shared—walls broken; fruit plucked. Ingratitude explained the breach; remnant hope remains."
+    },
+    {
+      "number": 13,
+      "text": "The boar from the forest ravages it, and all that move in the field feed on it.",
+      "arminianNotes": "The boar from the forest ravages it, and all that move in the field feed on it. Shared: wild destroyers finish what broken walls began.\n\nArminian pastoral: boar and field-beasts image ruthless foes. Name them before God the vine-keeper.",
+      "reformedNotes": "Calvin: destroyers are not only passersby but wild boar and savage beasts—indignity aggravated against the contrast of God as vine-keeper.\n\nReformed pastoral: shared—boar ravages; beasts feed. Savage waste still under the God who can visit the vine again."
+    },
+    {
+      "number": 14,
+      "text": "Turn again, O God of hosts! Look down from heaven, and see; have regard for this vine,",
+      "arminianNotes": "Turn again, O God of hosts! Look down from heaven, and see; have regard for this vine. Shared: return, look, see, visit the vine.\n\nArminian pastoral: turn again matches the restore refrain. Heaven's look is enough if it rests on this vine—ask regard, not mere notice.",
+      "reformedNotes": "Calvin: do not yield though God hide his face—sought in confident mercy he will reconcile. Vineyard honor is argument from his liberality, not claim of desert. From heaven—lift faith to distance if he seems far; if earth shows no deliverance, look up.\n\nReformed pastoral: shared—turn, look from heaven, regard the vine. Confidence of mercy under apparent alienation."
+    },
+    {
+      "number": 15,
+      "text": "the stock that your right hand planted, and for the son whom you made strong for yourself.",
+      "arminianNotes": "the stock that your right hand planted, and for the son whom you made strong for yourself. Shared: right-hand planting and the son made strong are God's own work.\n\nArminian pastoral: plead what his hand planted and strengthened. The son-language prepares v. 17's man of the right hand.",
+      "reformedNotes": "Calvin: metaphor akin to the former—singular liberality advancing and prospering the people. The vine-branch planted is also the Man of his right hand.\n\nReformed pastoral: shared—stock of the right hand; son made strong. Ask God to finish what he began for himself."
+    },
+    {
+      "number": 16,
+      "text": "They have burned it with fire; they have cut it down; may they perish at the rebuke of your face!",
+      "arminianNotes": "They have burned it with fire; they have cut it down; may they perish at the rebuke of your face! Wesley: They—thy people, signified by the vine; he passes from metaphor to the thing. Shared: fire and cutting; perishing at face-rebuke.\n\nArminian pastoral: the vine-people burn and fall. Face-rebuke (not foe strength alone) is the true cause—so face-shine (refrain) is the true cure.",
+      "reformedNotes": "Calvin: calamities clearer—abandoned to beasts was grave; burned, rooted, destroyed is worse. Warning of severity when ingratitude joins obstinacy. Yet cast sorrows into God's bosom who raises the Church from destruction. They perish at the rebuke of his countenance—not by enemies' bare strength. Look to the hand that smote.\n\nReformed pastoral: shared—burned, cut down; perish at face-rebuke. Own the rebuke; seek the shining face."
+    },
+    {
+      "number": 17,
+      "text": "But let your hand be on the man of your right hand, the son of man whom you have made strong for yourself!",
+      "arminianNotes": "But let your hand be on the man of your right hand, the son of man whom you have made strong for yourself! Wesley: Be—protect and strengthen him; Right-hand—Benjamin = son of the right hand, dearly beloved; Son of man—people of Israel as one person, God's son and first-born. Shared: hand on the beloved son/people God strengthened.\n\nArminian pastoral: ask protecting hand on the dearly beloved people. Corporate \"son of man\" here is Israel made strong for God—pray that strength back.",
+      "reformedNotes": "Calvin: plain prayer for what the vineyard figure asked—defend the Man of thy right hand and Son of man strengthened for thyself. The whole Church is comprehended under one; oneness depends on the head, with particular reference to the king who preserved many from utter destruction. Found hope only on benefits formerly conferred.\n\nReformed pastoral: shared—hand on the man of the right hand. People as one under God's strengthening; plead prior grace."
+    },
+    {
+      "number": 18,
+      "text": "Then we shall not turn back from you; give us life, and we will call upon your name!",
+      "arminianNotes": "Then we shall not turn back from you; give us life, and we will call upon your name! Wesley: Go back—revolt to idolatry or wickedness; Quicken—revive and restore us to our tranquility. Shared: no apostasy; life given; name called on.\n\nArminian pastoral: vow not to revolt; ask quickening. Calling on the name answers restored life—praise and prayer together.",
+      "reformedNotes": "Calvin: they engage, upon being heard, to acknowledge goodness by praise and by whole life. Calling on the name is the calves of the lips; not going back is continued obedience. Or: we will continue even when circumstances look hopeless; when restored, we will magnify the name.\n\nReformed pastoral: shared—not turn back; give life; call on the name. Quicken first; then the lips and walk follow."
+    },
+    {
+      "number": 19,
+      "text": "Restore us, O LORD God of hosts! Let your face shine, that we may be saved!",
+      "arminianNotes": "Restore us, O LORD God of hosts! Let your face shine, that we may be saved! Third refrain, now \"LORD God of hosts.\" Shared: covenant name plus hosts; shine; save.\n\nArminian pastoral: end where the psalm's hope lives—turn to himself, face bright, people saved. Sing the chorus until the face shines.",
+      "reformedNotes": "Calvin: the verse is repeated the third time—superfluous to add much. The thrice-sung support lifts a bowed people to keep asking until favor returns.\n\nReformed pastoral: shared—restore; shine; save. LORD God of hosts closes the plea with full title and full need."
+    }
+  ]
+}

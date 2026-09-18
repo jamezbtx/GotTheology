@@ -1,0 +1,137 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 59,
+  "verseStart": 1,
+  "verseEnd": 17,
+  "translation": "ESV",
+  "title": "Psalm 59:1–17",
+  "context": "To the choirmaster: according to Do Not Destroy. A Miktam of David, when Saul sent men to watch his house in order to kill him. Prayer for deliverance from bloodthirsty watchers (vv. 1–7); confidence that the Lord laughs and is fortress (vv. 8–10); plea that enemies totter as lasting warning, then be consumed so the earth knows God rules in Jacob (vv. 11–13); dogs prowling again while the singer praises strength and steadfast love morning by morning (vv. 14–17).",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on deliverance from house-watchers, dogs that howl, the Lord who laughs, strength as fortress, and morning praise of steadfast love—so each camp speaks in its own voice beside Psalm 59.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "David prays for deliverance from his enemies, ver. 1–7. He foretells their destruction, ver. 8–17. Run—To and fro, to receive Saul’s commands, and to execute them with all speed. The God—A God in covenant with all true Israelites, whom thou hast promised to protect and bless. The heathen—Or, these heathens, who though they are Israelites by birth; yet in their dispositions they are mere Heathens. Be not—For indeed thou canst not according to thy word, be merciful to such incorrigible offenders. Return—Watching for me: which they did at this time all the night long, 1 Sam. xix, 11. A dog—When he is pursuing his prey. Pour out—Sharp and bitter words, abundantly and vehemently. Swords—Words as keen and mischievous as swords. For who—David doth not hear us, and God either doth not hear, or not regard what we say. Prevent—Thou wilt help me sooner than I expect. Scatter—Let them wander from place to place, that they may carry the tokens of thy justice, and their own shame to all places. Pride—For their proud and insolent speeches against thee. Lying—For their execrations and lying reports. Not be—In the land of the living any more.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 59)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He begins by insisting upon the injustice of that cruel hostility which his enemies showed to him, and which he had done nothing to deserve. His complaint is followed up by prayer to God for help; and afterwards, as his hopes revive in the exercise of devout meditation, he proceeds to prophesy their calamitous destruction. At the close, he engages to preserve a grateful remembrance of his deliverance, and to praise the goodness of God. Michal may have contrived the artifice which deceived the soldiers, but he never could have been saved except through the wonderful preservation of God. He insists upon the strength and violence of his enemies to excite greater fervency in prayer… Yet he asks that he may be lifted up above the reach of this over-swelling inundation. Language teaches us that we should believe in the ability of God to deliver us even when our enemies have an overwhelming advantage. Thou, O Jehovah! shalt laugh at them—when the wicked have perfected their schemes, God can, without any effort, and as it were in sport, dissipate them all. Slay them not, lest my people forget—he checks the desire to see enemies at once exterminated; God designs that the spectacle of slower judgment be constantly renewed. Consume them in wrath… that they may know unto the ends of the earth that God ruleth in Jacob. But I will sing of thy power… My strength is with thee—weak as he was in himself, he maintains that he had strength sufficient in the Lord.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 59)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Deliver me from my enemies, O my God; protect me from those who rise up against me;",
+      "arminianNotes": "Wesley frames the psalm as David praying for deliverance from enemies (vv. 1–7) then foretelling their ruin. Deliver and protect name the house-watchers of 1 Samuel 19:11—enemies rising up demand urgent asking.\n\nArminian pastoral: deliverance is begged because need is real and prayer is the appointed means. Grace that can protect still summons the hunted to cry “O my God”; rising foes do not cancel the duty to seek refuge.",
+      "reformedNotes": "Calvin: he insists on enemies’ strength and violence to excite greater fervency in prayer; they rise up with eminent superiority of power, yet he asks to be lifted up above the inundation. We should believe God’s ability to deliver even when enemies have overwhelming advantage.\n\nReformed accent: shared—deliver and protect are cries of helplessness, not self-rescue. Providence’s reach outranks the rising up."
+    },
+    {
+      "number": 2,
+      "text": "deliver me from those who work evil, and save me from bloodthirsty men.",
+      "arminianNotes": "Wesley’s arc keeps the plea specific: workers of evil and bloodthirsty men, not vague trouble. Double deliver/save matches double danger.\n\nArminian hearing: naming bloodthirsty men lets prayer be concrete. Grace does not require pretending the watchers meant only scare; the asker seeks salvation from real murderous intent.",
+      "reformedNotes": "Calvin: while expressing extremity he adverts to injustice and cruelty of persecutors—workers of iniquity and bloody men. Helplessness and undeserved assault are joined as grounds of complaint before the throne.\n\nReformed pastoral: shared—evil-workers and bloodthirsty men are real threats under God’s eye. Save me rests on God’s character, not the saint’s leverage."
+    },
+    {
+      "number": 3,
+      "text": "For behold, they lie in wait for my life; fierce men stir up strife against me. For no transgression or sin of mine, O LORD,",
+      "arminianNotes": "Wesley’s setting: Saul’s men watching the house all night. Lie in wait and fierce strife frame the plea of innocence—no transgression of mine toward these hunters.\n\nArminian note: integrity before enemies strengthens liberty in prayer without denying sin before God. Shared seriousness—ambush for life is sin; the sufferer may plead blamelessness toward the plotters.",
+      "reformedNotes": "Calvin: confidence in prayer is proportional to consciousness of integrity; he founds one plea on destitution, another on innocency. So far as Saul was concerned David could exonerate himself; he appeals to God against base calumnies.\n\nReformed accent: shared—behold names the ambush honestly. Affliction may chastise saints, yet groundless hostility still ranks oppressors among God’s enemies.",
+      "keyContrast": "Both take the plea of no transgression toward the hunters as serious. Arminians typically stress that conscious integrity frees urgent asking; Reformed readers typically stress that God himself vindicates the righteous cause and ranks oppressors among his enemies."
+    },
+    {
+      "number": 4,
+      "text": "for no fault of mine, they run and make ready. Awake, come to meet me, and see!",
+      "arminianNotes": "Wesley: Run—to and fro, to receive Saul’s commands, and to execute them with all speed. No fault of mine; awake to help and behold.\n\nArminian pastoral: runners making ready summon matching haste in prayer. Awake and see is faith’s urgency under pressure, not a claim that God was ignorant—grace invites specific asking when malice is swift.",
+      "reformedNotes": "Calvin: they run unremittingly to ruin their victim; awake to hasten for my help glances at their eagerness—he desires God to show the same haste in help. And behold savours of faith and infirmity: language of sense, yet virtually acknowledging nothing is hid from providence.\n\nReformed note: shared—no fault and awake are real petition. God meets the runner; the saint does not outpace him."
+    },
+    {
+      "number": 5,
+      "text": "You, LORD God of hosts, are God of Israel. Rouse yourself to punish all the nations; spare none of those who treacherously plot evil. Selah",
+      "arminianNotes": "Wesley: The God—in covenant with true Israelites, promised to protect and bless. The heathen—Israelites by birth yet heathens in disposition. Be not merciful—thou canst not according to thy word be merciful to such incorrigible offenders.\n\nArminian hearing: covenant titles fund the plea against treacherous plotters. Sparing none of the incorrigible is judicial petition, not private spite; Selah marks the weight.",
+      "reformedNotes": "Calvin: Jehovah, God of Hosts, God of Israel—immensity of power and special care of the Church. And Thou is emphatic: God cannot lay aside the office of judge. Visit all nations so that enemies within the pale cannot escape; he deprecates mercy to reprobate transgressors of desperate character under pure zeal, pleading the Church’s cause.\n\nReformed accent: shared—hosts and Israel name the Judge. Treacherous evil-plotters meet covenant justice, not sentimental exemption."
+    },
+    {
+      "number": 6,
+      "text": "Each evening they come back, howling like dogs and prowling about the city.",
+      "arminianNotes": "Wesley: Return—watching for me all the night long, 1 Sam. xix, 11. A dog—when pursuing prey. Go round—when they found him not at home they sought him in other parts of the city.\n\nArminian pastoral: evening howl and city prowl are honest complaint. Naming the dogs lets prayer track the night watch; grace does not require pretending the circle of the city was harmless.",
+      "reformedNotes": "Calvin: compares enemies to famished furious dogs hunger drives in endless circuits; evening return intimates indefatigable evil—if no speed by day, night finds them at work. Barking expresses formidable assault.\n\nReformed note: shared—dogs prowling are real cruelty under judgment’s eye. Complaint to God is the weak man’s warfare."
+    },
+    {
+      "number": 7,
+      "text": "There they are, bellowing with their mouths with swords in their lips—for \"Who,\" they think, \"will hear us?\"",
+      "arminianNotes": "Wesley: Pour out—sharp bitter words abundantly as a fountain. Swords—words as keen and mischievous as swords. For who—David hears not, and God either hears not or regards not.\n\nArminian note: sword-lips and the sneer Who will hear are named so petition can answer blasphemy. Shared seriousness—verbal cruelty is not banter; the mockers bank on divine deafness.",
+      "reformedNotes": "Calvin: prating/belching—they proclaim infamous counsels openly; swords in lips mean they breathe slaughter. Cause of excess: they apprehended no disgrace, long possessing power to injure; the people deceived, none dared defend David.\n\nReformed pastoral: shared—Who will hear is practical atheism. God hears the bellow; sword-words invite his reply."
+    },
+    {
+      "number": 8,
+      "text": "But you, O LORD, laugh at them; you hold all the nations in derision.",
+      "arminianNotes": "Wesley’s turn: from dogs and sword-lips to the Lord’s laugh. Enemies’ schemes meet divine derision; nations in the aggregate cannot outvote God.\n\nArminian hope: But you redirects fear to worship. Laugh and derision are God’s answer to Who will hear—grace invites the sufferer to reckon with that laughter before panic reclaims the night.",
+      "reformedNotes": "Calvin: in face of opposition David rises to greater confidence. God laughs—when the wicked perfect schemes he can without effort, as in sport, dissipate them. Connivance breeds pride; yet God needs but nod. All nations—though they equal the world in numbers they are mockery; David ridicules their boasting.\n\nReformed accent: shared—the Lord laughs; nations are derision. Faith answers numbers with God’s ease."
+    },
+    {
+      "number": 9,
+      "text": "O my Strength, I will watch for you, for you, O God, are my fortress.",
+      "arminianNotes": "Wesley’s arc moves to trust: Strength and fortress name God while watchers surround the house. Watching for God answers watching for the kill.\n\nArminian pastoral: I will watch for you is living posture—grace that is fortress still summons waiting. Strength is confessed so the hunted keeps looking to God, not to self-armor.",
+      "reformedNotes": "Calvin on the hard line: Saul’s strength is with God / I will wait—enemy under secret restraint, unable to move a finger without consent; David waits the issue with composure. He opposes to Saul’s house-guard a different watch: looking out for the divine issue quietly.\n\nReformed note: shared—Strength and fortress are God’s titles. Watching for God is faith’s guard-post under siege."
+    },
+    {
+      "number": 10,
+      "text": "My God in his steadfast love will meet me; God will let me look in triumph on my enemies.",
+      "arminianNotes": "Wesley: Prevent—Thou wilt help me sooner than I expect. Steadfast love meets the need; triumph is God’s gift, not self-made revenge.\n\nArminian hearing: love that meets still invites expectant trust. Help sooner than expected is mercy’s timing received by faith that keeps asking.",
+      "reformedNotes": "Calvin: God of my mercy will prevent me—kidem means come forward seasonably; divine assistance promptly and opportunely extended. Our precipitance imagines him dilatory. He calls him God of his mercy from past proof; experience funds hope. God shall let him see desire upon enemies.\n\nReformed accent: shared—steadfast love meets; triumph is given. Mercy’s name, not merit, times the help.",
+      "keyContrast": "Both hear steadfast love meeting the hunted as sure hope. Arminians typically stress expectant watching that keeps trusting for timely help; Reformed readers typically stress that God of mercy comes forward seasonably by his own prompt care, correcting our sense that he delays."
+    },
+    {
+      "number": 11,
+      "text": "Kill them not, lest my people forget; make them totter by your power and bring them down, O Lord, our shield!",
+      "arminianNotes": "Wesley: My people—over whom thou appointed me governor in due time. Forget—former danger and glorious mercy. Scatter—wander place to place carrying tokens of justice and their shame.\n\nArminian pastoral: kill-them-not is pedagogical mercy toward the watching people. Totter and bring down as lasting warning; our shield frames corporate plea, not private vendetta.",
+      "reformedNotes": "Calvin: checks desire for instant annihilation—sudden judgments fade from memory; he desires the spectacle constantly renewed so knowledge of God’s judgments be graven on hearts. Make them wander in misery; cast them down from honor. By thy power against those who trusted worldly resources. Our shield—plural; he pleads the Church’s cause, his safety bound to the people’s.\n\nReformed note: shared—forgetfulness of judgment is the danger. Slow tottering under the Shield teaches longer than a single stroke."
+    },
+    {
+      "number": 12,
+      "text": "For the sin of their mouths, the words of their lips, let them be trapped in their pride. For the cursing and lies that they utter,",
+      "arminianNotes": "Wesley: Pride—proud insolent speeches against thee. Lying—execrations and lying reports spread concerning me. Mouth-sin asks mouth-judgment.\n\nArminian note: trapped in pride matches the boast. Cursing and lies are named so justice can be specific; shared seriousness—verbal sin is real guilt, not mere rhetoric.",
+      "reformedNotes": "Calvin: no long proof needed—wickedness proceeded from their mouth; they vomited pride and cruelty. Let them be taken in their pride—source of insolent oppression. Cursing and falsehood filled their lips; deceit and calumny.\n\nReformed pastoral: shared—sin of mouth traps the proud. God may catch hunters in their own speech."
+    },
+    {
+      "number": 13,
+      "text": "consume them in wrath; consume them till they are no more, that they may know that God rules over Jacob to the ends of the earth. Selah",
+      "arminianNotes": "Wesley: Not be—in the land of the living any more. Double consume aims at final clearing so knowledge spreads: God rules in Jacob to earth’s ends.\n\nArminian hearing: judicial consummation serves revelation—nations and Jacob alike must know God’s rule. Selah weights the doxological aim of the imprecation.",
+      "reformedNotes": "Calvin: apparent tension with slay-them-not removed by time—reserve them as example, then devote to destruction, as captives led in triumph then executed. That they may know to the ends of the earth that God rules in Jacob—report of condign judgment strikes even remote inhabitants; especially anxious that God be recognized as ruling in the Church.\n\nReformed accent: shared—consume serves knowledge of God’s rule. Wrath teaches Jacob and the ends of the earth together."
+    },
+    {
+      "number": 14,
+      "text": "Each evening they come back, howling like dogs and prowling about the city.",
+      "arminianNotes": "Wesley’s dog image returns: evening howl and city circuit again. The refrain after consume shows malice may still circle while faith narrates a different end.\n\nArminian pastoral: repeating the prowlers keeps prayer honest. Grace that foresaw destruction still lets the saint name the nightly round without despair.",
+      "reformedNotes": "Calvin: after closing requests he anticipates the happy issue; repeats the dog noise with different application—ironically they are ravenous otherwise than they looked for; he congratulates himself on abortive issue of their activity. Let them do what they may; I am safe under God’s protection.\n\nReformed note: shared—same howl, new confidence. The circle of the city cannot cancel the fortress."
+    },
+    {
+      "number": 15,
+      "text": "They wander about for food and growl if they do not get their fill.",
+      "arminianNotes": "Wesley’s scatter/wander theme meets unsatisfied hunger: dogs seeking fill, growling empty. Malice without prey becomes its own misery.\n\nArminian note: unfilled growl is warning and comfort—hunters may miss their meal. Shared seriousness—predatory hunger is not comic; empty prowling is judgment tasted.",
+      "reformedNotes": "Calvin: wander up and down to eat; if not satisfied they lodge all night—hunger aggravated by fruitless day, lying down empty, wearied, unsatisfied. Malicious effort returns disappointed.\n\nReformed pastoral: shared—no fill for the howling pack. Providence can starve the chase without the saint lifting a sword."
+    },
+    {
+      "number": 16,
+      "text": "But I will sing of your strength; I will sing aloud of your steadfast love in the morning. For you have been to me a fortress and a refuge in the day of my distress.",
+      "arminianNotes": "Wesley’s close: from dogs to morning song of strength and mercy. Fortress and refuge in distress fund loud praise at dawn—answer to the evening howl.\n\nArminian pastoral: But I will sing is chosen response. Strength and steadfast love must be sung aloud; grace that was refuge still summons morning praise as living duty.",
+      "reformedNotes": "Calvin: prepares presently for thanksgiving—deliverance an effect of power and mere grace. Even escape by Michal’s artifice was God disappointing Saul’s forces. Morning praise relates to watchers seeking him at dawn; then he would be safe and bless God. Looks back over various interpositions.\n\nReformed accent: shared—morning song answers night dogs. Fortress and refuge are God’s past tense that funds present praise."
+    },
+    {
+      "number": 17,
+      "text": "O my Strength, I will sing praises to you, for you, O God, are my fortress, the God who shows me steadfast love.",
+      "arminianNotes": "Wesley’s psalm ends in praise: Strength, fortress, God of mercy. Singing praises seals the night of watching with confessed love.\n\nArminian hope: I will sing praises is ongoing posture. The God who shows steadfast love still invites the delivered to keep singing; fortress is relationship named in worship, not a one-time escape.",
+      "reformedNotes": "Calvin: My strength is with thee—he owed safety entirely to God. Formerly Saul’s strength with God to curb it; now his own strength from God to support him. Weak in himself, strength sufficient in the Lord; good reason to praise as James exhorts the merry to sing psalms.\n\nReformed note: shared—Strength, fortress, steadfast love close the psalm. Praise ascribes safety to God alone; the singer’s emptiness was the argument."
+    }
+  ]
+}

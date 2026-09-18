@@ -1,0 +1,108 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 60,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 60:1–12",
+  "context": "To the choirmaster: according to Shushan Eduth. A Miktam of David; for instruction; when he strove with Aram-naharaim and with Aram-zobah, and when Joab on his return struck down twelve thousand of Edom in the Valley of Salt. After national shaking and a sense of rejection, the people plead restore us; God sets a banner for those who fear him, claims Israel’s land and humiliates the nations, and the close confesses that vain is man’s salvation—with God we shall do valiantly.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on rejected defenses, a quaking land, the banner for those who fear God, the holy claim on Shechem and Judah, and valiant help that is God’s alone—so each camp speaks in its own voice beside Psalm 60.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Rejected us—withdrawn thy favour and help. Broken—defeated us. Restore—bring us into thy favour again. Quake—by thine anger and by our enemies. Breaches—the ruins made by the enemy. Hard things—sore calamities. Wine—the cup of thy wrath. Banner—a token of thy presence and protection. Beloved—thy people whom thou lovest. Spoken—promised. Holiness—or, sanctuary. Divide—as a conqueror. Helmet—defence. Sceptre—the seat of my kingdom. Wash-pot—a vessel of no esteem. Cast my shoe—take possession of, as of a mean thing. Fortified city—the chief city of Edom. Rejected—seems to have cast us off. Vain—insufficient and deceitful. Valiantly—triumphantly. Tread down—subdue.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 60:1–12)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David complains that God had cast off his people and broken their power, yet he turns at once to prayer for restoration… The shaking of the land pictures the disordered state of the kingdom under divine chastisement… Yet God has given a banner to them that fear him, a signal of hope under the crossbow of enemies… He then cites God’s own oracle claiming Shechem, Succoth, Gilead, Manasseh, Ephraim, and Judah, and despising Moab, Edom, and Philistia… Human help is vanity; only with God shall we do valiantly, for it is he who treads down our foes.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 60)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O God, you have rejected us, broken our defenses; you have been angry; oh, restore us.",
+      "arminianNotes": "Wesley: Rejected us—withdrawn thy favour and help; Broken—defeated us; Restore—bring us into thy favour again. The psalm opens by naming anger and asking restoration, not denial of guilt.\n\nArminian pastoral: restore us is a living plea after real defeat. Grace that once fought for Israel still invites a people to seek favour again; rejection felt is not treated as final when restore is prayed.",
+      "reformedNotes": "Calvin: David complains that God had cast off his people and broken their power, yet turns at once to prayer for restoration. Anger is confessed as God’s; the remedy is God himself restoring.\n\nReformed accent: shared—broken defenses are read theologically, not merely militarily. Restore us rests on covenant mercy, not human regrouping."
+    },
+    {
+      "number": 2,
+      "text": "You have made the land to quake; you have torn it open; repair its breaches, for it totters.",
+      "arminianNotes": "Wesley: Quake—by thine anger and by our enemies; Breaches—the ruins made by the enemy. The land totters; prayer asks God to repair what his judgment has torn.\n\nArminian hearing: breaches can be mended when God is asked. Shared seriousness—national tottering is not ignored; the asker seeks divine repair, not self-made stability alone.",
+      "reformedNotes": "Calvin: the shaking of the land pictures the disordered state of the kingdom under divine chastisement. Repair is begged from the same hand that tore.\n\nReformed pastoral: shared—tottering breaches call for God’s mend. Providence that shakes also alone can heal the rift.",
+      "keyContrast": "Both read the quake as divine chastening and repair as God’s work. Arminians typically stress that the people must keep seeking restoration under the breach; Reformed readers typically stress that the same sovereign hand that tore must mend."
+    },
+    {
+      "number": 3,
+      "text": "You have made your people see hard things; you have given us wine to drink that made us stagger.",
+      "arminianNotes": "Wesley: Hard things—sore calamities; Wine—the cup of thy wrath. Staggering wine names judgment that confuses and weakens.\n\nArminian note: hard things are faced honestly in prayer. Grace does not require pretending the cup was sweet; it invites confession of staggering need.",
+      "reformedNotes": "Calvin ties hard things and staggering wine to God’s severe dealing—discipline that makes a people reel. The cup is from his hand.\n\nReformed accent: shared—stagger is theological, not mere bad luck. Wrath’s cup drives the cry that follows for banner and salvation."
+    },
+    {
+      "number": 4,
+      "text": "You have set up a banner for those who fear you, that they may flee to it from the bow. Selah",
+      "arminianNotes": "Wesley: Banner—a token of thy presence and protection for those who fear thee, that they may flee to it from the bow. Fear of God gathers under a visible hope.\n\nArminian pastoral: fleeing to the banner is a living act. Those who fear are invited to gather under God’s signal; the bow does not erase the call to take refuge there.",
+      "reformedNotes": "Calvin: God has given a banner to them that fear him—a signal of hope under the crossbow of enemies. Fear of God, not military pride, marks those for whom the banner is raised.\n\nReformed note: shared—the banner is God’s gift. Flight to it is faith under fire, not cowardice."
+    },
+    {
+      "number": 5,
+      "text": "That your beloved ones may be delivered, give salvation by your right hand and answer us!",
+      "arminianNotes": "Wesley: Beloved—thy people whom thou lovest; deliverance begged by the right hand; answer us joins salvation to prayer heard.\n\nArminian hope: beloved ones may still ask to be delivered. Right-hand salvation is sought in petition; answer us keeps the dialogue open.",
+      "reformedNotes": "Calvin: beloved ones are delivered by God’s right hand alone; answer us stakes the plea on his hearing. Salvation is gift, not wage.\n\nReformed accent: shared—beloved is God’s naming. Deliverance by the right hand excludes boasting in man’s arm."
+    },
+    {
+      "number": 6,
+      "text": "God has spoken in his holiness: \"With exultation I will divide up Shechem and portion out the Vale of Succoth.",
+      "arminianNotes": "Wesley: Spoken—promised; Holiness—or, sanctuary; Divide—as a conqueror. God’s holy speech claims the land with exultation.\n\nArminian hearing: the oracle invites trust in what God has spoken. Shared—holiness underwrites the promise; Shechem and Succoth are portioned by his word, not chance.",
+      "reformedNotes": "Calvin cites God’s own oracle spoken in his holiness—divine claim on the land with conquering joy. The word, not circumstance, settles the map.\n\nReformed pastoral: shared—God has spoken stands over defeat. Faith leans on the holy utterance when armies fail."
+    },
+    {
+      "number": 7,
+      "text": "Gilead is mine; Manasseh is mine; Ephraim is my helmet; Judah is my scepter.",
+      "arminianNotes": "Wesley: Helmet—defence; Sceptre—the seat of my kingdom. God claims tribes as his own armor and rule.\n\nArminian note: mine repeats ownership that summons loyalty. Grace that claims Ephraim and Judah still calls those tribes to live under the helmet and scepter.",
+      "reformedNotes": "Calvin: Gilead, Manasseh, Ephraim, Judah are God’s—helmet and scepter picture defense and royal rule from him. The people are instruments of his dominion.\n\nReformed accent: shared—identity is “mine.” Kingdom security rests on God’s claim, not tribal strength alone."
+    },
+    {
+      "number": 8,
+      "text": "Moab is my washbasin; upon Edom I cast my shoe; over Philistia I shout in triumph.\"",
+      "arminianNotes": "Wesley: Wash-pot—a vessel of no esteem; Cast my shoe—take possession of, as of a mean thing. Enemies are humbled in God’s speech.\n\nArminian pastoral: triumph shouted is God’s, not fleshly gloating as final ethic. The nations’ low place under the oracle warns pride and comforts the afraid.",
+      "reformedNotes": "Calvin: Moab, Edom, and Philistia are despised in the divine oracle—washbasin and cast shoe mark subjection under God’s triumph.\n\nReformed note: shared—enemy humiliation is God’s verdict. The shout belongs to the Lord who owns the map.",
+      "keyContrast": "Both hear contempt of Moab/Edom/Philistia as God’s holy claim, not private spite. Arminians typically stress that hearers must still respond in fear and trust under that word; Reformed readers typically stress the sovereign decree that already assigns the nations their place."
+    },
+    {
+      "number": 9,
+      "text": "Who will bring me to the fortified city? Who will lead me to Edom?",
+      "arminianNotes": "Wesley: Fortified city—the chief city of Edom. The question seeks a leader into the stronghold still untaken.\n\nArminian hearing: who will bring me keeps asking for guidance into hard places. Faith does not skip the fortified city; it seeks the one who leads.",
+      "reformedNotes": "Calvin: even after the oracle, David asks who will lead to Edom’s strong city—promise drives petition for actual leading.\n\nReformed accent: shared—oracle and need meet. God who claimed Edom is asked to bring the army there."
+    },
+    {
+      "number": 10,
+      "text": "Have you not rejected us, O God? You do not go forth, O God, with our armies.",
+      "arminianNotes": "Wesley: Rejected—seems to have cast us off; God not going forth with armies explains the felt absence in battle.\n\nArminian pastoral: honest lament of rejection still speaks to God. The complaint is prayer, not atheism—seeking that he would go forth again.",
+      "reformedNotes": "Calvin returns to the complaint of rejection and God’s absence from the armies—victory fails when he does not march.\n\nReformed note: shared—military loss is read as God’s withholding. The cure is his presence, not better tactics alone."
+    },
+    {
+      "number": 11,
+      "text": "Oh, grant us help against the foe, for vain is the salvation of man!",
+      "arminianNotes": "Wesley: Vain—insufficient and deceitful. Help against the foe is begged because man’s salvation cannot save.\n\nArminian hope: grant us help is still asked. Shared—human rescue is named vain so that prayer turns wholly to God.",
+      "reformedNotes": "Calvin: human help is vanity; therefore grant us help against the foe is addressed to God alone. Man’s salvation cannot underwrite the war.\n\nReformed accent: shared—vain is confession of creaturely emptiness. Help is grace from above the foe."
+    },
+    {
+      "number": 12,
+      "text": "With God we shall do valiantly; it is he who will tread down our foes.",
+      "arminianNotes": "Wesley: Valiantly—triumphantly; Tread down—subdue. With God courage becomes possible; he treads the foes.\n\nArminian pastoral: we shall do valiantly still includes the people’s action under God. Grace enables valor; the treading remains his—cooperation under divine might, not self-salvation.",
+      "reformedNotes": "Calvin: only with God shall we do valiantly, for it is he who treads down our foes. Valor is real, but the decisive trampling is God’s.\n\nReformed accent: shared—with God closes the psalm. Human arm is vain (v. 11); divine treading secures the field.",
+      "keyContrast": "Both end with God-wrought victory over foes. Arminians typically stress that with God the people still do valiantly as living agents; Reformed readers typically stress that he alone treads down, so valor is gift resting on his act."
+    }
+  ]
+}

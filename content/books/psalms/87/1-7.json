@@ -1,0 +1,76 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 87,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Psalm 87:1–7",
+  "context": "A Psalm of the Sons of Korah. A Song. On the holy mount stands the city God founded; the LORD loves Zion's gates more than all Jacob's dwellings. Glorious things are spoken of the city of God. Rahab and Babylon, Philistia, Tyre, and Cush are named among those who know him—\"This one was born there.\" Of Zion it shall be said that this one and that one were born in her; the Most High establishes her. The LORD records as he registers the peoples: born there. Singers and dancers: \"All my springs are in you.\"",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the founded city on holy mountains, the LORD's love for Zion's gates, glorious things spoken of the city of God, Rahab and Babylon counted among those born in Zion, the Most High establishing her, the LORD's register of the peoples, and all springs in her—so each camp speaks in its own voice beside Psalm 87:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Its foundation—The foundation of the temple of God. Zion—Jerusalem, loved for Zion's sake and the temple. Rahab—Egypt; under Egypt, Babylon, and Philistia, enemies of Israel who shall be not only reconciled but united to them. Zion—Jerusalem or the church; Man and man—all sorts without difference of nations; Establish—lasting work, Almighty founder. When—God surveys his citizens, as princes keep a register. Singers—rejoicing for conversion of the Gentiles; evangelical worship in legal phrases. In thee—all desires and delights; springs of mercy, grace, and glory flow only in and through thee.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 87"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "God chose the holy mountains to found his city; Jehovah loves Zion's gates by free love, not the place's worth—Shiloh rejected that he might dwell in Zion. End of the choice: fixed place for true religion until Christ, then flowing to all regions. Glorious things spoken of the city of God. Rahab and Babel among them that know me; Philistia, Tyre, Ethiopia—he is born there: Gentile inclusion; man and man born in Zion; Most High establishes her. The Lord recounts when he writes the peoples. Singers and players; all my springs in thee.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 87"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "On the holy mount stands the city he founded;",
+      "arminianNotes": "On the holy mount stands the city he founded; Wesley: Its foundation—the foundation of the temple of God. Shared: God-founded city on holy mountains.\n\nArminian pastoral: temple foundation language honors the place God chose. Start with his founding, not civic boast.",
+      "reformedNotes": "Calvin: foundations refer to God founding Jerusalem among surrounding holy mountains; difference from other cities—Jerusalem his peculiar sanctuary and royal seat, not mere civil polity.\n\nReformed pastoral: shared—holy mount; city he founded. Spiritual government and true worship were then nowhere but in Jerusalem."
+    },
+    {
+      "number": 2,
+      "text": "the Lord loves the gates of Zion more than all the dwelling places of Jacob.",
+      "arminianNotes": "the Lord loves the gates of Zion more than all the dwelling places of Jacob. Wesley: Zion—Jerusalem, loved for Zion's sake / the temple. Shared: preferential love for Zion's gates.\n\nArminian pastoral: love for the temple-seat explains the preference. Jacob's other dwellings are not despised; Zion is prized.",
+      "reformedNotes": "Calvin: excellence depends on free choice; God rejected Shiloh and Joseph's tabernacle to dwell in Zion which he loved. Why so distinguished? Because it so pleased God. Free love is the source.\n\nReformed pastoral: shared—loves Zion's gates above Jacob's dwellings. Trace preference to divine pleasure, not urban merit."
+    },
+    {
+      "number": 3,
+      "text": "Glorious things of you are spoken, O city of God. Selah",
+      "arminianNotes": "Glorious things of you are spoken, O city of God. Selah Shared: speech of glory over God's city; Selah.\n\nArminian pastoral: pause at Selah over spoken glory. The city's fame is theological before it is political.",
+      "reformedNotes": "Calvin: glorious things spoken of the city of God—her praise is what God speaks and does concerning her.\n\nReformed pastoral: shared—glorious things spoken. Let God-talk define Zion's honor."
+    },
+    {
+      "number": 4,
+      "text": "Among those who know me I mention Rahab and Babylon; behold, Philistia and Tyre, with Cush—“This one was born there,” they say.",
+      "arminianNotes": "Among those who know me I mention Rahab and Babylon; behold, Philistia and Tyre, with Cush—“This one was born there,” they say. Wesley: Rahab—Egypt; under these enemies, all enemies of the church reconciled and united. Shared: former foes counted as born in Zion's knowledge.\n\nArminian pastoral: conversion of the nations is the song. Enemies become citizens by new birth language.",
+      "reformedNotes": "Calvin: Rahab and Babel among those who know me; Philistines, Tyre, Ethiopia—he is born there. Gentile inclusion into Zion's citizenship; Jewish ears softened by noting Gentiles also are God's creatures.\n\nReformed pastoral: shared—Rahab, Babylon, Philistia, Tyre, Cush named; born there. Christ-ward reading of Gentile birth into the city.",
+      "keyContrast": "Both read former enemy nations counted as \"born\" in relation to Zion—Gentile inclusion into the city of God. Arminians typically stress Wesley's evangelical lemma: enemies not only reconciled but united; conversion of the Gentiles as the glorious work. Reformed readers typically stress Calvin's frame: Zion first loved by free choice as the seat of true religion until Christ, from which knowledge then flows to the nations; birth-language as gospel citizenship. Shared: glorious things include the nations knowing the LORD."
+    },
+    {
+      "number": 5,
+      "text": "And of Zion it shall be said, “This one and that one were born in her”; for the Most High himself will establish her.",
+      "arminianNotes": "And of Zion it shall be said, “This one and that one were born in her”; for the Most High himself will establish her. Wesley: Man and man—all sorts without national difference; Establish—lasting, Almighty founder. Shared: many born in her; Most High establishes.\n\nArminian pastoral: no ethnic monopoly on Zion's birth register. Stability is God's work.",
+      "reformedNotes": "Calvin: man and man born in her; Most High himself will establish her—numerous citizens from the nations; her permanence rests on God, not census alone.\n\nReformed pastoral: shared—this and that one born; Most High establishes. Church strength is the Highest's establishing."
+    },
+    {
+      "number": 6,
+      "text": "The Lord records as he registers the peoples, “This one was born there.” Selah",
+      "arminianNotes": "The Lord records as he registers the peoples, “This one was born there.” Selah Wesley: When—God surveys citizens as princes keep a register. Shared: the LORD's own enrollment of peoples; Selah.\n\nArminian pastoral: heaven's register, not merely earth's. Pause over divine census language.",
+      "reformedNotes": "Calvin: the Lord will recount when he writes the peoples—he is born there. Divine bookkeeping of citizenship in Zion.\n\nReformed pastoral: shared—LORD records; peoples registered; born there. Belonging is written by God."
+    },
+    {
+      "number": 7,
+      "text": "Singers and dancers alike say, “All my springs are in you.”",
+      "arminianNotes": "Singers and dancers alike say, “All my springs are in you.” Wesley: Singers—rejoicing for Gentile conversion; evangelical worship under legal phrases; In thee—springs of mercy, grace, glory. Shared close: song and dance; all springs in Zion/the church.\n\nArminian pastoral: let worship name its source. All desires and delights flow only through the city of God.",
+      "reformedNotes": "Calvin: singers and players; all my springs in thee—metaphor of joy and sources; Zion is the fountain-place of the people's gladness.\n\nReformed pastoral: shared—singers and dancers; all springs in you. Trace every spring of grace to God's dwelling with his people."
+    }
+  ]
+}

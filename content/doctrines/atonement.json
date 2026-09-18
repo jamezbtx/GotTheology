@@ -60,6 +60,26 @@
       "why": "The suffering servant: pierced for our transgressions; the Lord lays on him the iniquity of us all."
     },
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 31,
+      "title": "Psalm 22:1–31",
+      "href": "/bible/psalms/22/1-31.html",
+      "why": "My God, my God—why have you forsaken me? The afflicted one and the gathered people."
+    },
+    {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 9,
+      "verseStart": 11,
+      "verseEnd": 22,
+      "title": "Hebrews 9:11–22",
+      "href": "/bible/hebrews/9/11-22.html",
+      "why": "Better sacrifice: blood of the covenant; without the shedding of blood there is no forgiveness."
+    },
+    {
       "book": "1 Timothy",
       "bookSlug": "1-timothy",
       "chapter": 2,

@@ -1,0 +1,112 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 12,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Hebrews 12:1–13",
+  "context": "Surrounded by the cloud of witnesses from chapter 11, the church is urged to lay aside every weight and clinging sin and run with endurance the race set before us, looking to Jesus the founder and perfecter of faith. Considering his cross keeps faint hearts from wearying. Affliction is then reframed as the Lord’s loving discipline of sons—painful now, later yielding the peaceful fruit of righteousness—so drooping hands and weak knees may be lifted and lame feet healed.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the race of faith, looking to Jesus, and the Father’s discipline of sons—so each camp speaks in its own voice beside Hebrews 12:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Let us lay aside every weight—whatever weighs us down or damps the vigour of our soul—and the sin which easily besetteth us, and run with patience the race set before us. Looking unto Jesus—the author and finisher of our faith—who begins it in us, carries it on, and perfects it; who for the joy set before him patiently endured the cross. Despise not the chastening of the Lord; neither faint when rebuked of him. For whom the Lord loveth he chasteneth: all springs from love. If ye endure chastening, God dealeth with you as with sons. He disciplines us for our profit, that we may be partakers of his holiness. Afterward chastening yieldeth the peaceable fruit of righteousness to them that are exercised thereby—that receive this exercise as from God and improve it according to his will.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Hebrews 12:1–2, 5–6, 10–11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This conclusion is an epilogue to the former chapter: the dense throng of witnesses should stimulate us to imitate them. Lay aside every burden that delays our spiritual course—love of this life, lusts, cares, riches—and the sin which so easily besets us, even concupiscence that holds us on every side. Run with patience the contest; Christ is not only umpire but extends his hand and supplies strength to the end. Whom the Lord loveth he chastens: as to the elect he has no other end but to promote their salvation—a demonstration of paternal love. God is offered as a Father to all who endure correction; those who kick like restive horses do not belong to this class. Bastards rather than aliens—he addresses members of the Church who would become false professors if they withdrew from the Father’s discipline.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Hebrews 12:1–2, 6–8)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us,",
+      "arminianNotes": "Wesley: encompassed with a cloud—a great multitude tending upward with holy swiftness—witnesses of the power of faith. Lay aside every weight that damps the soul’s vigour, and the sin which easily besets—of constitution, education, profession—and run with patience the race set before us.\n\nClassical Arminians hear a sincere summons to endurance: the cloud cheers runners who may yet finish. Weights and clinging sin are to be thrown off by grace-enabled effort. Do not invent a race already finished for a closed list; the exhortation is for hearers who must still run.",
+      "reformedNotes": "Calvin: the dense throng of chapter 11 should stimulate imitation; faith is sufficiently proved by their testimony. Lay aside burdens that impede the course—worldly loves and cares—and the fountain of sin, concupiscence that snares on every side. The metaphor is a running contest calling forth greatest exertions; Christ invites to the prize.\n\nReformed accent: witnesses are associates who have shown the way, not rivals. Endurance is faith’s patience seeking the invisible kingdom. The race is set before those God surrounds with examples."
+    },
+    {
+      "number": 2,
+      "text": "looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.",
+      "arminianNotes": "Wesley: looking from all other things to Jesus—as the wounded to the brazen serpent. Author and finisher—who begins faith in us, carries it on, and perfects it. For the joy set before him he patiently endured the cross and is set down where there is fulness of joy.\n\nClassical Arminians glory that Jesus really begins, carries, and perfects faith in those who look to Him. The cross is the model for runners who may yet endure. Looking is the living act of trust, not a private decree announced after the fact.",
+      "reformedNotes": "Calvin: Christ underwent bitter, ignominious death though He might have exempted Himself; joy set before Him may mean instead of earthly enjoyment, or the blessed issue. He endured death and despised shame; the glorious end teaches that evils end in salvation if we follow Christ. He is not only umpire but supplies strength and leads to the race’s end.\n\nReformed confession: founder and perfecter names Christ’s work from start to finish. Seated at God’s right hand is the pledge that sufferers who belong to Him will share His outcome."
+    },
+    {
+      "number": 3,
+      "text": "Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted.",
+      "arminianNotes": "Wesley: consider—draw the comparison. The Lord bore all this; shall His servants bear nothing? Such enmity of every kind—lest ye be weary, dull and languid, and faint in your course.\n\nClassical Arminians hear pastoral comparison that strengthens real runners against fainting. Hostility is expected; considering Jesus keeps the mind from quitting mid-race.",
+      "reformedNotes": "Calvin: if the Son of God willingly underwent such conflicts, who dares refuse the same? Knowing we are associates of the Son who came down to our condition conquers temptation and gathers courage that would otherwise melt into despair.\n\nReformed accent: consideration of Christ is the Spirit’s means against weariness. Faintheartedness is met by His example, not by self-steel."
+    },
+    {
+      "number": 4,
+      "text": "In your struggle against sin you have not yet resisted to the point of shedding your blood.",
+      "arminianNotes": "Wesley: unto blood—unto wounds and death. They have not yet reached martyrdom’s extremity.\n\nClassical Arminians hear a sober scale: present struggle is real, yet short of blood. The warning is to keep striving, not to despise lesser trials or claim they have already finished.",
+      "reformedNotes": "Calvin: even persecutions for the gospel are a contest against sin—remedies that destroy sin, keep flesh from wantonness, and sometimes chastise. He addresses those who had already suffered loss yet were fainting halfway; Christ will have no discharged soldiers but those who have conquered death itself.\n\nReformed reading: not yet unto blood exposes sloth mid-contest. Struggle against sin includes resisting apostasy; God uses affliction as discipline for His people’s good."
+    },
+    {
+      "number": 5,
+      "text": "And have you forgotten the exhortation that addresses you as sons? \"My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him.",
+      "arminianNotes": "Wesley: ye seem already to have forgotten the exhortation wherein God speaks with utmost tenderness. Despise not chastening—do not slight it or impute affliction to chance; see and revere God’s hand. Neither faint when rebuked—endure patiently and fruitfully.\n\nClassical Arminians hear “as sons” as a real address calling for response: neither slight nor faint under the Father’s hand. Discipline is for those God speaks to as children who may yet endure fruitfully.",
+      "reformedNotes": "Calvin: reads as a question—have ye forgotten?—intimating it is not yet time to forget. Solomon’s word “My son” should allure hearts. Two parts: do not reject the Lord’s correction; the reason is He loves those He chastises.\n\nReformed accent: the exhortation addresses the church as sons. Forgetting it is spiritual amnesia under the cross; paternal speech binds hearers to endure as children."
+    },
+    {
+      "number": 6,
+      "text": "For the Lord disciplines the one he loves, and chastises every son whom he receives.\"",
+      "arminianNotes": "Wesley: for—all springs from love; therefore neither despise nor faint. Love is the fountain of the rod.\n\nClassical Arminians hear discipline as the Father’s love toward sons He receives—those under His hand who are called to endure. The rod is not rejection; it is love’s training so that sons may share holiness (v. 10). Do not invent a loveless affliction; do not invent a love that never trains.",
+      "reformedNotes": "Calvin: though God visits elect and reprobate, as to the elect He has no other end but their salvation—paternal love. The reprobate often miss God’s hand as chance; the godly, persuaded they are chastised by God, are led to know they are loved. Judgment begins at God’s house; domestics feel peculiar care.\n\nReformed confession: every son whom He receives is chastened. Love and reception ground the rod; those kept as sons taste Fatherly scourges for salvation.",
+      "keyContrast": "Both confess that discipline springs from the Lord’s love and that hearers must neither despise nor faint under it, and both refuse a works-earned sonship. Arminians typically hear the Father disciplining sons He receives—those addressed and trained who may yet endure and share His holiness. Reformed readers typically hear chastisement as paternal love toward the elect He receives and keeps—Fatherly scourges that promote their salvation, not chance blows on those outside His house."
+    },
+    {
+      "number": 7,
+      "text": "It is for discipline that you have to endure. God is treating you as sons. For what son is there whom his father does not discipline?",
+      "arminianNotes": "Wesley: whom his father chastens not—when he offends. Enduring chastening is how God deals with you as sons.\n\nClassical Arminians hear endurance under discipline as the path of sonship’s dealings. The common-sense analogy presses: fathers discipline; so does God. Treat the hardship as training, not as proof you are cast off.",
+      "reformedNotes": "Calvin: if no prudent father exempts children from correction, how much less will God neglect so necessary a remedy? As long as we live we are children before God; the rod remains. Those who seek exemption from the cross withdraw from the number of His children.\n\nReformed accent: God treating you as sons is adoption’s evidence in the cross. Endurance is the mark of true children under the Father’s hand."
+    },
+    {
+      "number": 8,
+      "text": "If you are left without discipline, in which all have participated, then you are illegitimate children and not sons.",
+      "arminianNotes": "Wesley: of which all sons are partakers—more or less. Absence of chastening would mark illegitimacy, not privilege.\n\nClassical Arminians hear a pastoral warning: craving an undisciplined life is craving bastardy. All true sons share the Father’s training to some degree. Stay under the hand that proves belonging.",
+      "reformedNotes": "Calvin: he calls refusants bastards rather than aliens because he addresses church members—children of God by profession. Withdrawing from the Father’s discipline would make the profession of Christ false; they would be bastards, no more children.\n\nReformed reading: all sons participate; exemption claims expose spurious sonship. Discipline is the family mark of those truly in the house."
+    },
+    {
+      "number": 9,
+      "text": "Besides this, we have had earthly fathers who disciplined us and we respected them. Shall we not much more be subject to the Father of spirits and live?",
+      "arminianNotes": "Wesley: we neither despised nor fainted under earthly correction. Much rather submit with reverence to the Father of spirits—that we may live with Him forever.\n\nClassical Arminians hear life as the end of subjection: submit and live. The a fortiori from fleshly fathers presses willing meekness under God. Life with Him is the promised outcome for those who yield.",
+      "reformedNotes": "Calvin: if we reverenced harsh earthly fathers, much more honor is due our spiritual Father. By “and live” he points the end—that we may live; nothing is more ruinous than refusing to surrender to God.\n\nReformed accent: Father of spirits names God’s peculiar claim. Subjection is just concession to His Fatherly authority; life hangs on that surrender."
+    },
+    {
+      "number": 10,
+      "text": "For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness.",
+      "arminianNotes": "Wesley: earthly fathers for a few days chastened as they thought good—often erring by indulgence or severity. He always, unquestionably, for our profit, that we may be partakers of His holiness—of Himself and His glorious image.\n\nClassical Arminians hear holiness-sharing as the clear aim of divine discipline. God’s rod is wiser than human parenting; the goal is real participation in His character for those trained by it.",
+      "reformedNotes": "Calvin: men’s discipline serves the present life; God’s looks to prepare us for eternal life. Chastisements help sanctify—helps to mortify the flesh—not as though they make us holy of themselves, but as the Lord exercises us in mortification.\n\nReformed confession: for our good unto sharing His holiness is God’s perfect wisdom. The fruit is spiritual and perpetual, far above civil training."
+    },
+    {
+      "number": 11,
+      "text": "For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.",
+      "arminianNotes": "Wesley: all chastening is for the present grievous, yet yields the peaceable fruit of righteousness—holiness and happiness—to them exercised thereby, who receive it as from God and improve it according to His will.\n\nClassical Arminians hear “trained by it” as real cooperation under grace: receive and improve. Pain now, peaceful fruit later, for those who do not waste the exercise.",
+      "reformedNotes": "Calvin: do not measure chastisements by present feelings; we are like children who dread the rod. Fix eyes on the end and receive the peaceable fruit of righteousness—fear of the Lord and a godly life of which the cross is teacher. Peaceable, because adversity alarms with impatient noise until a resigned mind sees the profit.\n\nReformed accent: later fruit belongs to those exercised by it. The cross teaches righteousness; present pain is not the verdict."
+    },
+    {
+      "number": 12,
+      "text": "Therefore lift your drooping hands and strengthen your weak knees,",
+      "arminianNotes": "Wesley: lift up the hands—your own or your brethren’s—that hang down, unable to continue the combat; and feeble knees unable to continue the race.\n\nClassical Arminians hear mutual and personal strengthening after the discipline lesson. Therefore—because the Father loves and trains—lift what hangs down. The race and combat continue by renewed vigor.",
+      "reformedNotes": "Calvin: nothing weakens more than tasting no grace in adversity; knowing God is present even when He afflicts raises us. Not only bear afflictions; do not be slothful in duty. Fear of the cross folds hands; remove that fear and members are ready for God’s will.\n\nReformed reading: consolation that God solicits our welfare in the cross puts new vigor in hands and knees for obedience."
+    },
+    {
+      "number": 13,
+      "text": "and make straight paths for your feet, so that what is lame may not be put out of joint but rather be healed.",
+      "arminianNotes": "Wesley: make straight paths for your own and their feet—remove every hindrance and offence. The lame—weak, scarce able to walk—must not be turned out of the way of faith and holiness, but healed.\n\nClassical Arminians hear communal care: straighten paths so the weak are healed, not dislocated. Endurance includes clearing stumbling blocks for others still in the race.",
+      "reformedNotes": "Calvin: walk prudently in a straight course; fear finds byways. Prepare to endure evils and go straight where the Lord calls. Halting—fluctuating, not sincerely devoted—if unchecked turns far from God; remove it in due time lest alienation follow.\n\nReformed accent: straight paths are obedience according to God’s will without fear’s detours. Healing the lame is better than letting weakness wander into labyrinth."
+    }
+  ]
+}

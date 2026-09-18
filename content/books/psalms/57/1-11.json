@@ -1,0 +1,102 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 57,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "Psalm 57:1–11",
+  "context": "To the choirmaster: according to Do Not Destroy. A Miktam of David, when he fled from Saul, in the cave. Prayer and complaint under storm (vv. 1–6) then steadfast praise (vv. 7–11): refuge under wings; God Most High who fulfills his purpose; shame for the trampler; lions and sharp tongues; exaltation refrain; net and pit rebound; fixed heart, dawn praise, steadfast love to the heavens.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on refuge under God’s wings, shame for the trampler, exaltation of God over earth, and a fixed heart that sings among the nations—so each camp speaks in its own voice beside Psalm 57.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "David begins with prayer and complaint, though not as without hope (vv. 1–6), and concludes with joy and praise (vv. 7–11). Al-taschith—destroy not—some take as a preface containing the sum of the psalm. The cave—Adullam or Engedi. Send forth—will discover mercy and truth by gracious help in pursuance of his promises. Lions—fierce and bloody men; on fire—fire-brands breathing wrath. Excited—glorify thy power, goodness, justice, faithfulness by my deliverance. Fixed—in a stedfast belief of thy promises. My glory—my tongue; Awake—employ all powers of soul and body. The people—Israelites and Heathens as occasion serves.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 57)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The repetition of the prayer proves that David’s grief and apprehension were of no common description. His plea for mercy is his having hoped in God from his innermost affections. The divine protection is compared to the shadow of wings… He will cry to God Most High, who performs whatsoever he has promised and carries forward to perfection the work begun. He shall send from heaven—a signal, miraculous deliverance—and put to shame him who would swallow him up; mercy and truth are the hands by which assistance is extended. Among lions whose tongues are sharp swords he cries, Exalt thyself, O God. His heart is prepared—ready with cheerfulness, opposed to lip-service and sluggishness. He will praise among the peoples; the whole world is full of God’s goodness and truth.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 57)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, till the storms of destruction pass by.",
+      "arminianNotes": "Wesley: Al-taschith—destroy not—sum of the plea; the cave frames urgent mercy. Double “be merciful” and refuge under wings until calamities pass.\n\nArminian pastoral: mercy is begged because the soul actually takes refuge; wings invite trust that must be exercised till the storm passes. Grace shelters those who flee to God, not those who stand aloof.",
+      "reformedNotes": "Calvin: repetition proves uncommon grief; the plea for mercy is hope in God from innermost affections. Shadow of wings—God shelters like a hen; hope lodges under every tempest.\n\nReformed accent: shared—refuge is God’s gift and the soul’s act of trust. Mercy is not earned calm; it is shelter until destruction passes by God’s timing."
+    },
+    {
+      "number": 2,
+      "text": "I cry out to God Most High, to God who fulfills his purpose for me.",
+      "arminianNotes": "Wesley: cry to God most high who performs for the sufferer. Prayer follows refuge; Most High is addressed as the one who finishes what he starts for his servant.\n\nArminian hearing: crying out is the appointed means under pressure. Purpose fulfilled does not cancel the need to cry; grace that completes still summons petition.",
+      "reformedNotes": "Calvin: to hope he adds prayer; he addresses God as who performs whatsoever he promised and perfects the work begun. God never forsakes the workmanship of his hands.\n\nReformed pastoral: shared—Most High fulfills purpose; the cry rests on God’s constancy, not the saint’s resolve alone."
+    },
+    {
+      "number": 3,
+      "text": "He will send from heaven and save me; he will put to shame him who tramples on me. Selah God will send out his steadfast love and his faithfulness!",
+      "arminianNotes": "Wesley: Send forth—will discover mercy and truth by gracious help in pursuance of promises. Shame for the trampler; salvation paired with covenant love.\n\nArminian note: confidence that God will save leaves room for the trampler to be shamed and checked. Shared seriousness—imprecation here is real: trampling invites God’s public reverse, not private revenge.",
+      "reformedNotes": "Calvin: he glories in help as if already seen; send from heaven marks signal deliverance. God strikes enemies with shame when he disappoints them; mercy and truth are the hands of assistance.\n\nReformed accent: shared—shame on the trampler is judicial hope. Steadfast love and faithfulness are God’s sent means, not human leverage.",
+      "keyContrast": "Both take shame on the trampler as serious petition for God’s justice. Arminians typically stress that the check may yet turn the aggressor; Reformed readers typically stress that God himself sends heaven’s rescue and confounds according to mercy and truth."
+    },
+    {
+      "number": 4,
+      "text": "My soul is in the midst of lions; I lie down amid fiery beasts—the children of man, whose teeth are spears and arrows, whose tongues are sharp swords.",
+      "arminianNotes": "Wesley: Lions—fierce and bloody men; on fire—fire-brands breathing wrath and incensing Saul. Teeth and tongue name real human cruelty.\n\nArminian pastoral: lying among lions is honest complaint, not unbelief. Naming spear-teeth and sword-tongues lets prayer be specific; grace does not require pretending the beasts are mild.",
+      "reformedNotes": "Calvin: he insists on enemies’ cruelty as plea for speedier help—lions, inflamed hatred, teeth as spears, tongue as sword. Calumny wounds deeper than steel; God can bridle the false tongue.\n\nReformed note: shared—fiery beasts are children of man under judgment’s eye. Complaint to God is permitted warfare of the weak."
+    },
+    {
+      "number": 5,
+      "text": "Be exalted, O God, above the heavens! Let your glory be over all the earth!",
+      "arminianNotes": "Wesley: Excited—glorify thy power, goodness, justice, faithfulness by my deliverance; above—to the highest degree. Deliverance and doxology are joined.\n\nArminian hope: asking God to be exalted includes asking that rescue display his character. Glory over all the earth is the sufferer’s larger frame, not self alone.",
+      "reformedNotes": "Calvin: when the wicked’s audacity is unrestrained, the conspiracy demands signal manifestation. God, appearing for his people, advances his own glory; opposition to them is opposition to him.\n\nReformed accent: shared—exaltation of God is the refrain that outranks the lions. Glory over earth answers blasphemy and fear together."
+    },
+    {
+      "number": 6,
+      "text": "They set a net for my steps; my soul was bowed down. They dug a pit in my way, but they have fallen into it themselves. Selah",
+      "arminianNotes": "Wesley’s arc: from complaint to the trap’s rebound. Net and pit aimed at the righteous rebound on diggers—moral order under God.\n\nArminian pastoral: bowed soul may still narrate providence’s irony. Shared seriousness—malice digging pits is not a joke; God may let hunters fall into their own works.",
+      "reformedNotes": "Calvin: treachery practiced; soul bowed like a bird under the fowler’s net. They fall into the pit themselves—God’s justice reversing the snare.\n\nReformed pastoral: shared—providence turns the net. Both camps hear judicial seriousness: the pit is real danger and real judgment when diggers fall in.",
+      "keyContrast": "Both treat the rebound of net and pit as God’s serious justice. Arminians typically stress the moral warning that malice may yet be checked and reversed; Reformed readers typically stress that God himself turns the snare on the wicked according to his righteous will."
+    },
+    {
+      "number": 7,
+      "text": "My heart is steadfast, O God, my heart is steadfast! I will sing and make melody!",
+      "arminianNotes": "Wesley: Fixed—in a stedfast belief of thy promises. Double steadfastness turns complaint into song.\n\nArminian note: the fixed heart is belief that must be held and sung. Steadfastness is living trust answering prior fear; melody is obedience of joy.",
+      "reformedNotes": "Calvin: prepared/ready heart—cheerfulness and cordiality opposed to lip-service and sluggishness; or fixed by due meditation. He addresses voluntary sacrifice with sincere fervor.\n\nReformed accent: shared—steadfast heart precedes singing. God-ward fixity, not mood, funds the melody."
+    },
+    {
+      "number": 8,
+      "text": "Awake, my glory! Awake, O harp and lyre! I will awake the dawn!",
+      "arminianNotes": "Wesley: My glory—my tongue, instrument of singing; Awake—employ all powers of soul and body. Dawn is met with praise instruments.\n\nArminian pastoral: waking glory, harp, and lyre is active consecration. Grace that steadies the heart still summons the whole self to praise early.",
+      "reformedNotes": "Calvin: he calls tongue, psaltery, and harp to celebrate God’s name; heart first, mouth second, instruments third to stimulate ardor. One really awakened is unremitting in praise.\n\nReformed note: shared—awake the dawn is zeal, not mere poetry. Praise claims the morning before fear reclaims it."
+    },
+    {
+      "number": 9,
+      "text": "I will give thanks to you, O Lord, among the peoples; I will sing praises to you among the nations.",
+      "arminianNotes": "Wesley: The people—among Israelites and Heathens as occasion serves. Thanks goes public beyond the cave.\n\nArminian hearing: nations and peoples as audience imply praise that invites others. Thanksgiving among the nations is mission-shaped gratitude under deliverance.",
+      "reformedNotes": "Calvin: nations as auditors imply David representing Christ; Paul cites this toward Gentile praise (Rom 15:9). Proclaiming to the deaf would be absurd—Gentiles are brought to knowledge of God.\n\nReformed accent: shared—public thanks among peoples. Covenant praise spills past Israel’s borders by God’s design."
+    },
+    {
+      "number": 10,
+      "text": "For your steadfast love is great to the heavens, your faithfulness to the clouds.",
+      "arminianNotes": "Wesley’s frame: mercy and truth discovered in help. Love to the heavens and faithfulness to the clouds are the reason for worldwide praise.\n\nArminian pastoral: greatness of steadfast love grounds confidence to keep seeking. Faithfulness to the clouds means promises reach as high as need.",
+      "reformedNotes": "Calvin: sum of the song—world full of goodness and truth. Goodness induces God to promise liberally; faithfulness assures he is constant in fulfilling. Order of perfections matters.\n\nReformed note: shared—hesed and faithfulness, not merit, fill the sky. Doxology rests on God’s character spanning heaven and cloud."
+    },
+    {
+      "number": 11,
+      "text": "Be exalted, O God, above the heavens! Let your glory be over all the earth!",
+      "arminianNotes": "Wesley: the refrain returns—glorify by deliverance to the highest degree. Cave prayer ends in earth-wide glory.\n\nArminian hope: repeated exaltation shows praise that must keep asking God to be seen as great. The needy still beg that glory cover the earth.",
+      "reformedNotes": "Calvin: concludes praying God would arise and not suffer glory obscured or wicked audacity intolerable; or hasten Gentile calling and mighty judgments for the nations’ subjection.\n\nReformed accent: shared—final refrain is God exalted, not self secured. Glory over all the earth closes the miktam.",
+      "keyContrast": "Both end with God exalted above the heavens. Arminians typically stress the repeated plea as ongoing praise and petition the delivered must keep offering; Reformed readers typically stress that God arises to vindicate his glory and fulfill the worldwide praise already promised."
+    }
+  ]
+}

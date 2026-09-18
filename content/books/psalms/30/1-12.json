@@ -1,0 +1,111 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 30,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 30:1–12",
+  "context": "A Psalm of David. A song at the dedication of the temple. The psalmist resolves to extol the LORD who has drawn him up and not let foes rejoice; confesses that he cried for help and was healed; names rescue from Sheol and restoration from among those who go down to the pit; summons the saints to sing praises and give thanks to his holy name; teaches that anger is but for a moment and favor for a lifetime, that weeping may tarry for the night but joy comes with the morning; remembers saying in prosperity he would never be moved; admits that by favor his mountain stood strong until the face was hidden and he was dismayed; cries and pleads for mercy; asks what profit there is in death if dust cannot praise or tell of faithfulness; begs hearing, mercy, and help; then celebrates mourning turned to dancing, sackcloth loosed and gladness given, that his glory may sing praise and not be silent—thanks forever.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on extolling the LORD who draws up and heals, saints singing at the memorial of holiness, anger for a moment and joy with the morning, pride in prosperity before the hidden face, the plea that dust cannot praise, and mourning turned to dancing with thanks forever—so each camp speaks in its own voice beside Psalm 30:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "He praises God for delivering him, and exhorts others to praise him, ver. 1–5. Recollects his former security, and his prayer when in trouble, ver. 6–10. And stirs himself up to thankfulness, ver. 11, 12. Song—A psalm to be sung with the voice to an instrument. David—At the dedication of David's house, which was built, 2 Sam. v, 11, and doubtless was dedicated, as God had commanded. Cometh—Speedily and in due season. Mountain—My kingdom: kingdoms are usually called mountains in prophetical writings. Profit—What wilt thou gain by it? The dust—Shall they that are dead celebrate thy goodness in the land of the living? Or, shall my dust praise thee? Sackcloth—Given me occasion to put off that sackcloth, which they used to wear in times of mourning. Girded—With joy, as with a garment, surrounding me on every side. My glory—My tongue.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 30"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As David had been brought, as it were, from the grave to the life-giving air, he promises to extol God's name; it is God who lifts us up with his own hand when plunged into a profound gulf. Healed: though often restricted to sickness, the word may mean any deliverance—restored as from grave and pit. Sing unto Jehovah, ye who are his meek ones: confirmed by one instance he turns to the general truth of God's prompt help to his people. His anger is only for a moment, but life is in his favor; weeping will lodge in the evening, and rejoicing shall come in the morning—affliction may fall as at evening, yet light soon arises; favor continues and goes beyond this transitory life. In my tranquillity I had said, I shall never be moved: foolish and rash security, forgetting mortal condition and setting the heart too much on prosperity; carnal confidence creeps upon the saints when they indulge in prosperity. Of thy good pleasure thou hast established strength to my mountain: stability is not in the nest he formed but in God's free favor alone; thou hast hidden thy face, I have been terrified—medicine to purge perverse confidence. What profit in my blood? Shall the dust praise thee? Death would shut the mouth appointed to declare God's faithfulness. Thou hast turned mourning into dancing, loosed sackcloth, girded with gladness—that my glory (tongue) may sing and not be silent; I will set forth thy praise for ever.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 30"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I will extol you, O LORD, for you have drawn me up and have not let my foes rejoice over me.",
+      "arminianNotes": "I will extol you, O LORD, for you have drawn me up and have not let my foes rejoice over me. Dedication praise begins with personal rescue: drawn up, foes denied their gloating. Wesley's outline opens here—praise for deliverance before the call to the saints.\n\nArminian pastoral: shared—extol because he has already acted. Dedication of house or temple fits thanksgiving after near ruin. Let enemies' failed triumph sharpen gratitude, not bitterness.",
+      "reformedNotes": "Calvin: as one brought from the grave to the life-giving air, he promises to extol God's name. It is God who lifts us up with his own hand when we have been plunged into a profound gulf; our duty is to sing his praises with our tongues. Foes—domestic and foreign—found no matter of rejoicing over him.\n\nReformed pastoral: shared—drawn up names God's hand, not self-rescue. Extol in answer to lift; refuse a silence that would leave enemies the last word."
+    },
+    {
+      "number": 2,
+      "text": "O LORD my God, I cried to you for help, and you have healed me.",
+      "arminianNotes": "O LORD my God, I cried to you for help, and you have healed me. Cry and healing sit together: prayer was not theatrical; healing answers the plea. Dedication song remembers sickness or danger mended by the LORD my God.\n\nArminian pastoral: shared—heal names real mercies felt in body and life. Keep crying to him who hears; do not separate help from the Healer's name.",
+      "reformedNotes": "Calvin: when at the very point of death he directed supplications to God alone and immediately felt he had not done so in vain. Though rapha often means to heal and some restrict it to sickness, it also means to restore or set up again—and may properly mean here any deliverance. Life is endangered in many ways besides disease.\n\nReformed pastoral: shared—cry to God alone; take healing as God's restoring hand. Do not shrink deliverance to one medical frame if the text opens wider rescue.",
+      "keyContrast": "Both hear cry and healing as proof God answered. Arminians typically keep the pastoral accent on healing as lived mercy after prayer—body and danger mended under the name LORD my God. Reformed readers typically hear Calvin's lexical widening: heal/restore may name any deliverance from extreme danger, not sickness alone."
+    },
+    {
+      "number": 3,
+      "text": "O LORD, you have brought up my soul from Sheol; you restored me to life from among those who go down to the pit.",
+      "arminianNotes": "O LORD, you have brought up my soul from Sheol; you restored me to life from among those who go down to the pit. Grave-language magnifies the rescue: as good as dead among pit-goers, then raised to life. Dedication thanks fits such nearness to the end.\n\nArminian pastoral: shared—Sheol and pit are not poetry to soft-pedal. Confess restoration as God's act. Live as one brought up, not as one who barely noticed the brink.",
+      "reformedNotes": "Calvin: he could not sufficiently express the magnitude of the favor unless he compared that darkness to a grave and pit into which he had thrown himself to hide until danger passed. As one restored to life he proclaims marvellous deliverance from present death—sacred history shows how completely he was overwhelmed with despair on every side.\n\nReformed pastoral: shared—brought up from Sheol names despair answered, not stoic calm. Magnify the favor; refuse to flatten pit-language into mild inconvenience."
+    },
+    {
+      "number": 4,
+      "text": "Sing praises to the LORD, O you his saints, and give thanks to his holy name.",
+      "arminianNotes": "Sing praises to the LORD, O you his saints, and give thanks to his holy name. Private deliverance widens into a call: saints must sing and give thanks at the memorial of his holiness. Wesley: praise and exhortation occupy verses 1–5.\n\nArminian pastoral: shared—join the song; holiness remembered is fuel for thanks. Do not keep dedication joy as a private diary only.",
+      "reformedNotes": "Calvin: the better to testify gratitude, David calls all the saints to join; under one class he describes the whole body. Preserved beyond expectation, he includes the general deliverance of the whole church as well as his own. Memorial of his holiness may point toward the tabernacle as memorial of presence, or simply to the name by which God has rendered himself worthy of remembrance.\n\nReformed pastoral: shared—one rescue catechizes the church. Sing as his meek ones; let particular mercy preach God's prompt help to all the godly."
+    },
+    {
+      "number": 5,
+      "text": "For his anger is but for a moment, and his favor is for a lifetime. Weeping may tarry for the night, but joy comes with the morning.",
+      "arminianNotes": "For his anger is but for a moment, and his favor is for a lifetime. Weeping may tarry for the night, but joy comes with the morning. Wesley: Cometh—Speedily and in due season. Night-lodging tears do not cancel morning joy; anger's moment yields to lasting favor.\n\nArminian pastoral: shared—hold both lines without denying either tears or dawn. Wait for joy in due season; do not call God's favor brief because the night felt long.",
+      "reformedNotes": "Calvin: life is opposed to for a moment and signifies long continuance. If God chastises, he mitigates and is soon appeased, while kindness is prolonged. David, though tried almost his whole life, confesses he was lightly afflicted only for a short period. Weeping will lodge in the evening, rejoicing come in the morning—not merely one calendar night, but adversity's darkness followed by timely light. Favor continues beyond the boundaries of this transitory life; those raised by a taste of heavenly life bear chastisements with cheerfulness.\n\nReformed pastoral: shared—moment-anger and lifetime-favor, night-weeping and morning-joy. Weigh mercies heavier than fretting; let evening tears lodge without evicting hope of morning.",
+      "keyContrast": "Both teach brief anger, lasting favor, and joy after night-weeping. Arminians typically stress Wesley's pastoral timing: joy comes speedily and in due season. Reformed readers typically hear Calvin's further frame: favor as long continuance that outweighs chastening, and that reaches beyond this transitory life for those who taste heavenly life."
+    },
+    {
+      "number": 6,
+      "text": "As for me, I said in my prosperity, “I shall never be moved.”",
+      "arminianNotes": "As for me, I said in my prosperity, \"I shall never be moved.\" Wesley's outline: recollection of former security before the prayer in trouble. Prosperity bred a careless vow of unshakable standing—pride before the fall the next verses narrate.\n\nArminian pastoral: shared—name the folly without despair. Dedication honesty includes confessing when ease said what faith should not. Watch prosperity; it softens prayer faster than pain does.",
+      "reformedNotes": "Calvin: confession that he was justly punished for foolish and rash security—forgetting mortal condition and setting his heart too much on prosperity. In tranquillity, when fortune smiled and no danger appeared, his mind sank into deep sleep and he flattered himself that the happy condition would continue. Carnal confidence frequently creeps upon the saints when they indulge in prosperity. Not the pious security that leans on God's promise, but confidence from his own feelings and uncertain prosperity.\n\nReformed pastoral: shared—\"I shall never be moved\" in ease is a snare. Distinguish faith's quiet trust from fleshly certainty; the more bountifully God deals, the more carefully watch against such flatteries.",
+      "keyContrast": "Both treat verse 6 as real pride-before-fall, not a minor aside. Arminians typically hear Wesley's structural confession: former security remembered so thankfulness can be honest after trouble. Reformed readers typically hear Calvin's sharper diagnosis: carnal confidence in tranquillity, sleeping on prosperity apart from God's free favor, justly purged when the face is hidden."
+    },
+    {
+      "number": 7,
+      "text": "By your favor, O LORD, you made my mountain stand strong; you hid your face; I was dismayed.",
+      "arminianNotes": "By your favor, O LORD, you made my mountain stand strong; you hid your face; I was dismayed. Wesley: Mountain—My kingdom: kingdoms are usually called mountains in prophetical writings. Favor built the height; hidden face undid the feeling of strength. Dismay follows when the Face turns away.\n\nArminian pastoral: shared—kingdom-strength was never self-made. Trace standing to favor; treat dismay under a hidden face as call back to prayer, not as proof God is gone forever.",
+      "reformedNotes": "Calvin: difference between confidence founded on God's word and carnal security from presumption. True believers, relying on God, are not neglectful of prayer; David failed here—anchoring on present wealth and tranquillity, not ready to resign blessings into God's hands. Strength established to his mountain means solid support (allusion to Zion admissible); stability was not in the nest he formed but in God's good pleasure alone. Hidden face purged perverse confidence—a marvellous method that darkness opens eyes which broad light of prosperity had blinded.\n\nReformed pastoral: shared—mountain stands by favor; hidden face terrifies to heal pride. Let want and dismay drive you from soothing infatuation back to depending on free grace.",
+      "keyContrast": "Both ascribe the strong mountain to God's favor and dismay to the hidden face. Arminians typically take Wesley's kingdom sense: mountain as royal standing God made strong, then shook by withdrawing nearness. Reformed readers typically stress Calvin's nest-versus-favor fork: stability never in prosperous circumstance but in good pleasure alone, the hidden face medicine against carnal security."
+    },
+    {
+      "number": 8,
+      "text": "To you, O LORD, I cry, and to the Lord I plead for mercy:",
+      "arminianNotes": "To you, O LORD, I cry, and to the Lord I plead for mercy. After dismay, the cure is cry and plea—not stubborn silence. Wesley groups verses 6–10 as security remembered and prayer in trouble.\n\nArminian pastoral: shared—turn from self-assurance to mercy. Double address presses urgency: cry and plead. Pride's sleep ends where prayer wakes.",
+      "reformedNotes": "Calvin: now follows the fruit of chastisement. Previously sleeping and fostering indolence by forgetfulness, he is awakened with fear and begins to cry to God. As iron contracted with rust cannot be used until heated and beaten, so when carnal security masters a man, he cannot give himself cheerfully to prayer until softened by the cross. Chief advantage of afflictions: they make us sensible of wretchedness and stimulate us again to seek God's favor.\n\nReformed pastoral: shared—cry and plead for mercy are the intended fruit of the hidden face. Let the cross soften security into prayer; do not waste dismay on mute sulking."
+    },
+    {
+      "number": 9,
+      "text": "“What profit is there in my death, if I go down to the pit? Will the dust praise you? Will it tell of your faithfulness?”",
+      "arminianNotes": "\"What profit is there in my death, if I go down to the pit? Will the dust praise you? Will it tell of your faithfulness?\" Wesley: Profit—What wilt thou gain by it? The dust—Shall they that are dead celebrate thy goodness in the land of the living? Or, shall my dust praise thee? The argument is God's glory in ongoing praise among the living.\n\nArminian pastoral: shared—plead for life so praise can continue here. Faithfulness wants witnesses who still speak. Ask to live for thanks, not for private ease alone.",
+      "reformedNotes": "Calvin: What profit wilt thou derive from my death? Blood here signifies death. Lifeless body is useless for celebrating God's praises. He mentions truth/faithfulness because an untimely death before the promise of an heir was accomplished would seem unsuitable to God's character. We are born and nourished to be witnesses and heralds of grace; death shuts the mouth for that mutual showing-forth in this world—without denying that the dead in another sense glorify God.\n\nReformed pastoral: shared—dust cannot tell faithfulness in the land of the living as the living must. Argue from God's glory and promise-keeping; seek prolonged life for praise, not mere survival.",
+      "keyContrast": "Both refuse a death that silences praise of God's faithfulness on earth. Arminians typically hear Wesley's plain pastoral question: what does God gain, and can the dead (or my dust) celebrate his goodness among the living? Reformed readers typically hear Calvin's covenantal edge: life prolonged so the tongue can witness grace and so God's truth in his promise is not cut short by untimely silence."
+    },
+    {
+      "number": 10,
+      "text": "Hear, O LORD, and be merciful to me! O LORD, be my helper!",
+      "arminianNotes": "Hear, O LORD, and be merciful to me! O LORD, be my helper! The plea softens into direct petition: hear, mercy, help. Trouble-prayer reaches its simplest form before the turn to dancing.\n\nArminian pastoral: shared—ask help without bargaining flourish. Mercy first, help next. Dedication faith still needs this cry when the face feels hidden.",
+      "reformedNotes": "Calvin: he softens and corrects the former complaint; it would be absurd to expostulate like one who despaired and leave off in a fretful temper. Conceiving new hope, he calls for mercy and help, putting God's favor first, from whom alone he could expect the help implored.\n\nReformed pastoral: shared—move from argument to mercy. Hear and help rest on favor, not on the strength of our reasoning. Hope renews the cry without despair's tone."
+    },
+    {
+      "number": 11,
+      "text": "You have turned for me my mourning into dancing; you have loosed my sackcloth and clothed me with gladness,",
+      "arminianNotes": "You have turned for me my mourning into dancing; you have loosed my sackcloth and clothed me with gladness. Wesley: Sackcloth—Given me occasion to put off that sackcloth, which they used to wear in times of mourning. Girded—With joy, as with a garment, surrounding me on every side. God authors the exchange: mourning to dancing, sackcloth to gladness.\n\nArminian pastoral: shared—receive the turn as gift, not self-improvement. Joy can surround like a garment after real grief. Stir thankfulness as Wesley's outline urges in verses 11–12.",
+      "reformedNotes": "Calvin: he concludes as he began, with thanksgiving. He was not insensible under affliction but mourned; mourning exercised him to repentance—sackcloth marks approaching God as a guilty criminal seeking forgiveness. Dancing is not wanton leaping but sober, holy joy like that when the ark was brought up. Laying aside mourning apparel, he returned to joy by God's grace alone as deliverer. (He doubts restricting the whole danger to a sickbed, since sackcloth suits public humiliation.)\n\nReformed pastoral: shared—God turns mourning to dancing and looses sackcloth. Keep penitence honest and joy holy; ascribe the exchange to the Deliverer, not to time's vague healing."
+    },
+    {
+      "number": 12,
+      "text": "that my glory may sing your praise and not be silent. O LORD my God, I will give thanks to you forever!",
+      "arminianNotes": "that my glory may sing your praise and not be silent. O LORD my God, I will give thanks to you forever! Wesley: My glory—My tongue. Rescue aims at unsilent praise; forever thanks crowns the dedication song.\n\nArminian pastoral: shared—tongue-glory exists to sing, not to boast of mountain-strength. Keep thanks going past the morning of joy. Forever is the fit length for the God who drew you up.",
+      "reformedNotes": "Calvin: he acknowledges the purpose for which God preserved him—that he might spend the rest of his life celebrating God's praises. Glory (kebod) is used metaphorically for the tongue. O Lord, as thou hast preserved me that thy praises may resound from my tongue, I will faithfully discharge this service even unto death. To sing and not be silent is Hebrew amplification: the tongue shall not be mute or deprive God of due praise.\n\nReformed pastoral: shared—preserved in order to praise. Let glory mean the speaking self given back to thanks forever; silence after rescue would rob God of his due.",
+      "keyContrast": "Both end with tongue-glory singing and thanks forever after mourning turns to gladness. Arminians typically stress Wesley's plain gloss and closing stir to thankfulness: my glory is my tongue; keep it from silence. Reformed readers typically stress Calvin's purpose clause: life was spared precisely so praise would resound without mute ingratitude, a service discharged even unto death."
+    }
+  ]
+}

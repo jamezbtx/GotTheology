@@ -1,0 +1,116 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 41,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Psalm 41:1–13",
+  "context": "To the choirmaster. A Psalm of David. Blessed is the one who considers the poor: in the day of trouble the LORD delivers him; protects and keeps him alive; calls him blessed in the land; does not give him up to enemies; sustains him on the sickbed and restores him in illness. Then the singer turns: O LORD, be gracious; heal me, for I have sinned against you. Enemies speak malice—When will he die, and his name perish?—come with empty words while hearts gather iniquity, go out and tell it abroad; whisper together and imagine the worst; say a deadly thing is poured out, he will not rise. Even the close friend in whom he trusted, who ate his bread, has lifted his heel against him—words John 13 applies to Judas against Christ. But you, O LORD, be gracious and raise me up. By this he knows the LORD delights in him: the enemy will not shout in triumph. He is upheld because of integrity and set in the LORD's presence forever. The doxology that closes Book I: Blessed be the LORD, the God of Israel, from everlasting to everlasting! Amen and Amen.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on blessing for those who consider the poor and afflicted, deliverance in the day of trouble, protection and life, sickbed sustained and restored, confession of sin that seeks gracious healing, malice that waits for a name to perish, empty visitors whose hearts heap iniquity, whispered hate that imagines the worst, a deadly thing poured out with no rising, the close friend who ate bread and lifted the heel—shared by Wesley and Calvin as looking to Christ and Judas—gracious raising that the enemy may not triumph, integrity upheld in the LORD's presence forever, and the doubled Amen that closes Book I in praise of Israel's God from everlasting to everlasting—so each camp speaks in its own voice beside Psalm 41:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Make his bed—Give him ease and comfort, which sick men receive by the help of those who turn and stir up their bed, to make it soft and easy for them. Heal—The soul is said to be healed, when it is pardoned and purged. For—For I acknowledge that I have sinned. His heart—Even when he is with me, and pretends hearty affection, his heart is devising mischief against me. Yea—These words were literally fulfilled in David, and yet the Holy Ghost looked farther in them, even to Christ and Judas, in whom they received a fuller accomplishment. Lift up—A phrase implying injury, joined with insolency and contempt; taken from an unruly horse, which kicks at him that owns and feeds him. Requite—Punish them for their wicked practices; which being now a magistrate, he was obliged to do. By this—Because hitherto thou hast supported me, and prolonged my days to the disappointment of their hopes. Settest—Or, hast confirmed me in thy presence, under thine eye and special care: to minister unto thee, as a king over thy people. And in regard of his posterity, the kingdom was established for ever. Amen—Signifies an hearty assent and approbation, and withal an earnest desire of the thing, to which it is annexed. And as the psalms are divided into five books, so each of them is closed with this word; the first here: the second, Psal 72:19, the third, Psal 89:52, the fourth, Psal 106:48, the last in the end of Psal 150:6, the doubling of the word shews the fervency of his spirit, in this work of praising God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 41"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Blessed is he that judgeth wisely of the poor—not bare kindness alone, but considerate candour toward men in adversity; maskil means wise and charitable judgment. Too common an error: to count the afflicted as condemned and reprobate, as Job's friends did; God tries the faithful by adversities for patience, cleansing, humility, example, and contemplation of the divine life. Hope for salvation even in the day of evil, or none who fell into sorrow could rise again. Jehovah will keep him and preserve him in life; bless him upon the earth; not abandon him to enemies' will. Support on the bed of sorrow; turn all his bed in sickness—more correctly, when restored, the sick couch is changed. Have mercy; heal my soul, for I have sinned—confess just displeasure; seek forgiveness before mere outward relief, lest you treat thirst and ignore the fever. Enemies imprecate death and a perished name; pretended friends come to see, speak lies, heap iniquity in the heart, then tell it abroad. All who hate whisper and plot; an evil deed of Belial cleaves; he shall never rise. Even the man of my peace, who eats my bread, has lifted up the heel—treachery of intimates; Christ applies this to Judas (John 13:18); David speaks not as a private person only but as representing Christ, so the church must expect foes without and betrayers within. Have mercy; raise me up, and I will recompense—not fleshly revenge, but a king under God, representing Christ, executing righteous judgment. By this I know I am acceptable: the enemy does not triumph. Uphold in integrity and establish before thy face forever. Blessed be Jehovah, the God of Israel, forever and ever. Amen and Amen—doubled Amen stirs all the godly; this doxology closes the first book of the Psalter.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 41"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Blessed is the one who considers the poor! In the day of trouble the LORD delivers him;",
+      "arminianNotes": "Blessed is the one who considers the poor! In the day of trouble the LORD delivers him; Mercy toward the weak and afflicted is marked for blessing, and deliverance in trouble answers that considering care.\n\nArminian pastoral: shared—consider the poor with real help, not cold glance. Trust the LORD who delivers in the day of trouble; refuse a pity that never acts.",
+      "reformedNotes": "Calvin: Blessed is he that judgeth wisely of the poor—maskil means wise and charitable judgment of men in adversity, not rash condemnation of the afflicted as reprobate. God tries the faithful by adversities for patience, cleansing, humility, and example; hope deliverance even in the day of evil.\n\nReformed pastoral: shared—judge the afflicted with the Spirit's candour. Refuse the error that equates heavy sorrow with God's hatred; hope well of their salvation before the time.",
+      "keyContrast": "Both bless those who rightly regard the poor and afflicted. Arminians typically stress pastoral consideration that pities and helps the weak, with promised deliverance in trouble. Reformed readers typically hear Calvin's maskil: wise, charitable judgment that will not plunge the afflicted into despair as if already reprobate—candour toward chastened saints, not only alms."
+    },
+    {
+      "number": 2,
+      "text": "the LORD protects him and keeps him alive; he is called blessed in the land; you do not give him up to the will of his enemies.",
+      "arminianNotes": "the LORD protects him and keeps him alive; he is called blessed in the land; you do not give him up to the will of his enemies. Protection, life, earthly blessing, and refusal to hand him to enemies' will stack as the LORD's care.\n\nArminian pastoral: shared—ask protection and life from the LORD alone. Do not read enemies' will as final; seek the blessing named in the land under his keeping.",
+      "reformedNotes": "Calvin: Jehovah will keep him and preserve him in life; he shall be blessed upon the earth; thou wilt not abandon him to enemies' will. Though he seemed a dead man, hope of life for himself and the faithful was not extinguished; tokens of favor will yet be seen without excluding hope of a better life after death.\n\nReformed pastoral: shared—hold protection against the verdict of cruel observers. Trace life and blessing to Jehovah's keeping, not to fortune's smile."
+    },
+    {
+      "number": 3,
+      "text": "The LORD sustains him on his sickbed; in his illness you restore him to full health.",
+      "arminianNotes": "The LORD sustains him on his sickbed; in his illness you restore him to full health. Wesley: Make his bed—Give him ease and comfort, which sick men receive by the help of those who turn and stir up their bed, to make it soft and easy for them.\n\nArminian pastoral: shared—ask the LORD to sustain and restore on the sickbed. Receive ease as his nurse-care; refuse despair that illness has no turn toward comfort.",
+      "reformedNotes": "Calvin: Jehovah will support him upon the bed of sorrow; thou hast turned all his bed in his sickness. Not mere arranging of cushions alone—more correctly, when restored to health, the bed that served as a sick couch is changed; present languishing under chastening yields to relief by the same God's hand.\n\nReformed pastoral: shared—endure the sickbed as training, then look for the turned couch of restoration. Trace both sorrow and recovery to him.",
+      "keyContrast": "Both confess the LORD's care on the sickbed. Arminians typically hear Wesley: God gives ease and comfort as those who turn and soften a sick man's bed. Reformed readers typically hear Calvin's preferred sense: the sick couch itself is changed when health returns—restoration, not only nursing comfort during the languishing."
+    },
+    {
+      "number": 4,
+      "text": "As for me, I said, “O LORD, be gracious to me; heal me, for I have sinned against you!”",
+      "arminianNotes": "As for me, I said, “O LORD, be gracious to me; heal me, for I have sinned against you!” Wesley: Heal—The soul is said to be healed, when it is pardoned and purged. For—For I acknowledge that I have sinned.\n\nArminian pastoral: shared—ask grace and healing with open confession. Own the sin that needs pardon and purge; refuse a plea for comfort that will not name the wound.",
+      "reformedNotes": "Calvin: Have mercy upon me; heal my soul, for I have sinned against thee—frank acknowledgment, not flattery that soothes without confession. Seek forgiveness and reconciliation first; outward relief without blotting out sin inverts the order, as a sick man who quenches thirst and ignores the fever.\n\nReformed pastoral: shared—confess just displeasure before asking only for eased circumstances. Link healing of the soul to mercy that pardons.",
+      "keyContrast": "Both join gracious healing to confessed sin. Arminians typically hear Wesley: the soul healed when pardoned and purged, with acknowledged sin as the ground. Reformed readers typically hear Calvin's order: mercy and forgiveness first, lest you treat only outward misery and leave the fever of guilt untouched."
+    },
+    {
+      "number": 5,
+      "text": "My enemies say of me in malice, “When will he die, and his name perish?”",
+      "arminianNotes": "My enemies say of me in malice, “When will he die, and his name perish?” Malice waits not only for death but for the blotting of the name.\n\nArminian pastoral: shared—bring cruel imprecation to God. Do not answer malice with matching wish; ask that he hear what they say of your life and name.",
+      "reformedNotes": "Calvin: enemies imprecate in terms that show cruel hatred—appeased only by destruction accompanied with shame and ignominy, wishing even the remembrance of the name blotted out. The more God's people are cruelly treated, the more he is disposed mercifully to succor them.\n\nReformed pastoral: shared—let their cruelty move you to confidence in God, not to despair. Commend life and name to him when malice wants both gone."
+    },
+    {
+      "number": 6,
+      "text": "And when one comes to see me, he utters empty words, while his heart gathers iniquity; when he goes out, he tells it abroad.",
+      "arminianNotes": "And when one comes to see me, he utters empty words, while his heart gathers iniquity; when he goes out, he tells it abroad. Wesley: His heart—Even when he is with me, and pretends hearty affection, his heart is devising mischief against me.\n\nArminian pastoral: shared—discern empty words that mask devising hearts. Guard what you show false visitors; refuse the flattery that gathers iniquity for later gossip.",
+      "reformedNotes": "Calvin: pretended friends come to see with no design but to speak lies, meanwhile devising deceit, heaping iniquity in store in the heart; gone forth, they manifest hypocrisy. Such masked malice is more to be feared than open enmity.\n\nReformed pastoral: shared—beware the visit that stores gossip. Prefer open foes to secret heapers of iniquity; ask God to expose the empty word."
+    },
+    {
+      "number": 7,
+      "text": "All who hate me whisper together about me; they imagine the worst for me.",
+      "arminianNotes": "All who hate me whisper together about me; they imagine the worst for me. Whispered counsel and imagined worst gather the haters as one plot.\n\nArminian pastoral: shared—name the whisper before God. Do not chase every rumor; ask him to judge imagined evil that never needed proof.",
+      "reformedNotes": "Calvin: both open enemies and deceitful friends take counsel together about destruction; wicked men whisper secret treachery and plot base conspiracies. Hatred here is collective meditation of hurt.\n\nReformed pastoral: shared—expect whispered plots as part of the trial. Fix the mind on God when Satan distracts by secret consultation against you."
+    },
+    {
+      "number": 8,
+      "text": "They say, “A deadly thing is poured out on him; he will not rise again from where he lies.”",
+      "arminianNotes": "They say, “A deadly thing is poured out on him; he will not rise again from where he lies.” Enemies read the affliction as final: poured-out doom, no rising from the place of lying.\n\nArminian pastoral: shared—refuse their verdict that you will never rise. Bring the deadly word they speak to the God who raises; do not adopt their hopeless reading of your bed.",
+      "reformedNotes": "Calvin: an evil deed of Belial cleaves fast—they regard him as shut up under an extraordinary, unexpiable crime, or an incurable malady; he shall never be able to rise. They cut off hope, counting God altogether hostile; yet the servant with a good conscience must not be overthrown by that false judgment.\n\nReformed pastoral: shared—do not let the world's unequal balances define you as God-forsaken. Hold the testimony of conscience when they say you will never rise."
+    },
+    {
+      "number": 9,
+      "text": "Even my close friend in whom I trusted, who ate my bread, has lifted his heel against me.",
+      "arminianNotes": "Even my close friend in whom I trusted, who ate my bread, has lifted his heel against me. Wesley: Yea—These words were literally fulfilled in David, and yet the Holy Ghost looked farther in them, even to Christ and Judas, in whom they received a fuller accomplishment. Lift up—injury joined with insolency and contempt; like an unruly horse that kicks at him who owns and feeds him.\n\nArminian pastoral: shared messianic reading with John 13—both camps hear David and, beyond him, Christ betrayed by the familiar friend. Grieve the lifted heel without inventing a camp quarrel where Wesley and Calvin agree; trust the Lord when bread-companions turn.",
+      "reformedNotes": "Calvin: even the man of my peace, who eats of my bread, has lifted up the heel—treachery of intimates as the height of misery; lifting the heel is disdainful rising against one afflicted and cast down. Christ quotes this of Judas (John 13:18); David speaks not as a private person only but as representing Christ, so the church must expect not only fightings without but fears within.\n\nReformed pastoral: shared messianic reading with John 13—prepare for betrayal from those at the table, after the pattern begun in David and fulfilled in Christ. Refuse despair when intimates kick; belong to the body that shares his trial."
+    },
+    {
+      "number": 10,
+      "text": "But you, O LORD, be gracious to me, and raise me up, that I may repay them!",
+      "arminianNotes": "But you, O LORD, be gracious to me, and raise me up, that I may repay them! Wesley: Requite—Punish them for their wicked practices; which being now a magistrate, he was obliged to do. Grace and raising come first; repayment is magisterial duty, not private spite.\n\nArminian pastoral: shared—ask grace and raising from the LORD. Leave repayment to lawful charge under God; refuse a revenge that skips mercy and usurps the bench.",
+      "reformedNotes": "Calvin: Have mercy; raise me up, and I will recompense—aid sought from God when the world offers only cruelty or secret malice. The seeming harshness of vengeance is checked: David is king appointed by God, representing Christ; not fleshly impulse but the office and the Spirit govern the plea; private hands are tied, and we may ask the heavenly Judge to avenge in calm desire.\n\nReformed pastoral: shared—commend the cause to God when no earthly help remains. Do not cast off the Spirit's rule in desires for justice; seek raising by mercy, not by matching wickedness.",
+      "keyContrast": "Both ask gracious raising before any requital. Arminians typically hear Wesley: repay as a magistrate obliged to punish wicked practices. Reformed readers typically hear Calvin: royal office under God and Christ's person, not private revenge—zeal of the Spirit and the station, with ordinary hands tied and recourse to the heavenly Judge."
+    },
+    {
+      "number": 11,
+      "text": "By this I know that you delight in me: my enemy will not shout in triumph over me.",
+      "arminianNotes": "By this I know that you delight in me: my enemy will not shout in triumph over me. Wesley: By this—Because hitherto thou hast supported me, and prolonged my days to the disappointment of their hopes. Deliverance that silences the enemy's shout becomes a mark of the LORD's delight.\n\nArminian pastoral: shared—read prolonged days against their hopes as favor, not chance. Ask that the enemy not triumph; let supported life confirm that he delights in you.",
+      "reformedNotes": "Calvin: By this I know I have been acceptable—thanksgiving after deliverance; the enemy does not triumph. Not the sole or bare proof of God's love apart from the Word, but a help added to confirm faith; special favor also in David's calling as king among the first-born of earthly kings.\n\nReformed pastoral: shared—let rescue from triumphing foes confirm the Word's promise of favor. Refuse both despair when enemies shout and a faith that trusts experience alone without Scripture."
+    },
+    {
+      "number": 12,
+      "text": "But you have upheld me because of my integrity, and set me in your presence forever.",
+      "arminianNotes": "But you have upheld me because of my integrity, and set me in your presence forever. Wesley: Settest—Or, hast confirmed me in thy presence, under thine eye and special care: to minister unto thee, as a king over thy people. And in regard of his posterity, the kingdom was established for ever.\n\nArminian pastoral: shared—ask to be upheld in integrity under his eye. Seek presence that confirms vocation; refuse a private uprightness that never serves his people.",
+      "reformedNotes": "Calvin: thou wilt uphold me in my integrity and establish me before thy face forever. Not a boast that denies earlier confession of sin, but either soundness preserved by God, or piety that did not turn aside when Satan and wicked men shook faith—patience in the conflict ascribed at once to God's sustaining power, with favor until his servants are kept safe to the end.\n\nReformed pastoral: shared—trace integrity's holding to his uphold, not self. Seek to be set before his face; refuse both despair under insult and pride that forgets who keeps you invincible.",
+      "keyContrast": "Both end upheld in integrity before God's face. Arminians typically hear Wesley: confirmed in his presence under special care to minister as king, with the kingdom established forever in posterity. Reformed readers typically hear Calvin: integrity as God-sustained soundness or unturned piety in the trial—preservation ascribed to his power, not a claim that cancels the earlier confession of sin."
+    },
+    {
+      "number": 13,
+      "text": "Blessed be the LORD, the God of Israel, from everlasting to everlasting! Amen and Amen.",
+      "arminianNotes": "Blessed be the LORD, the God of Israel, from everlasting to everlasting! Amen and Amen. Wesley: Amen—hearty assent and approbation, and earnest desire of the thing annexed. The psalms are divided into five books, each closed with this word; the first here; the doubling shews the fervency of his spirit in praising God.\n\nArminian pastoral: shared doxology closing Book I—both camps bless the God of Israel from everlasting to everlasting. Answer Amen and Amen with fervent assent; refuse a praise that ends the book in silence.",
+      "reformedNotes": "Calvin: Blessed be Jehovah, the God of Israel, forever and ever—thanksgiving confirmed; he is called God of Israel to impress the covenant with the Fathers as the source of deliverance. Amen repeated twice for greater vehemence, that all the godly may be stirred to praise; this ascription closes the first book of the Psalter.\n\nReformed pastoral: shared doxology closing Book I—bless the covenant God of Israel without reserve. Double the Amen; let deliverance issue in praise that belongs to the whole church's book."
+    }
+  ]
+}

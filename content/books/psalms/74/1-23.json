@@ -1,0 +1,172 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 74,
+  "verseStart": 1,
+  "verseEnd": 23,
+  "translation": "ESV",
+  "title": "Psalm 74:1–23",
+  "context": "A Maskil of Asaph. The sanctuary is smashed: why cast off forever? Enemies roar in the meeting place, hack carved work, burn the dwelling, and burn every meeting place of God in the land. No signs, no prophet. Yet God is King from of old who split sea and crushed Leviathan; he is asked to remember the covenant, not forget the life of the poor, and rise against foolish taunt.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the ruined sanctuary, God as King from of old who crushed the sea-monsters, and the plea to remember the covenant—so each camp speaks in its own voice beside Psalm 74.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Smoke—That is, be angry. Sheep—whom thou wast wont to guard and feed as a shepherd. Remember—consider thy relation to them. Heritage—whom thou didst choose and set apart for thyself. Rod—the tribe of Judah, from which the sceptre was not to depart. Purchased—by a mighty hand. Congregation—the people of Israel. Mount Zion—the place of thy special presence. Lift up—destroy them, as men lift up an ax to hew down trees. Carved work—the beautiful works and ornaments of the temple. Sanctuaries—the temple and synagogues. Signs—tokens of God’s presence. Prophet—to tell us how long. How long—shall this desolation continue. King—thou hast been our King, and wilt be so still. Divided—by thy power. Dragons—large fishes or crocodiles. Leviathan—the whale or some other great fish. Meat—to be food for the people of Israel. Day—the sun. Night—the moon and stars. Covenant—made with Abraham. Dark places—of the land, where the enemies exercised their cruelty. Fool—who though he pretend to be wise, yet in truth is a fool. Cause—plead for us. Arise—exert thy power. Foolish—impious and blasphemous.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 74)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The faithful complain that God has cast off his people, that the sanctuary is defiled and burned, that no signs or prophets remain… Yet they recall that God is their King of old, who divided the sea, broke the heads of the dragons, and gave Leviathan for meat… They plead the covenant, the oppression of the poor, and the reproach of the foolish enemy, praying that God would arise and plead his own cause. In extreme desolation faith still argues from God’s former works and from his covenant faithfulness, not from the people’s merit.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 74)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O God, why do you cast us off forever? Why does your anger smoke against the sheep of your pasture?",
+      "arminianNotes": "Wesley: Smoke—be angry; Sheep—whom thou wast wont to guard. Forever and smoking anger feel total.\n\nArminian pastoral: the question is prayer, not atheism. Sheep still address the Shepherd; grace invites the why without licensing despair’s final word.",
+      "reformedNotes": "Calvin: faithful complain God has cast off his people—anger like smoke against the flock. The forever is the wound’s language.\n\nReformed accent: shared—cast-off dread is brought to God. Sheep of pasture remain covenant identity under wrath’s feel."
+    },
+    {
+      "number": 2,
+      "text": "Remember your congregation, which you have purchased of old, which you have redeemed to be the tribe of your heritage! Remember Mount Zion, where you have dwelt.",
+      "arminianNotes": "Wesley: Remember relation; Heritage—chosen; Purchased by mighty hand; Mount Zion—special presence.\n\nArminian note: purchase, redeem, heritage, Zion—history is the plea. Shared: God is asked to remember what he did, while the people still cry remember.",
+      "reformedNotes": "Calvin: remember the congregation purchased of old, redeemed as heritage, Zion where he dwelt. Covenant memory is faith’s argument.\n\nReformed pastoral: shared—purchase and dwelling are God’s acts; merit is not the ground."
+    },
+    {
+      "number": 3,
+      "text": "Direct your steps to the perpetual ruins; the enemy has destroyed everything in the sanctuary!",
+      "arminianNotes": "Wesley: lift/steps toward perpetual ruins; enemy destroyed all in the sanctuary.\n\nArminian hearing: ruins are ‘perpetual’ to the eye—prayer asks God to walk the wreck. Shared seriousness about sacred space violated.",
+      "reformedNotes": "Calvin: perpetual desolations—the enemy has destroyed everything in the sanctuary. God is begged to inspect the ruin.\n\nReformed note: shared—sanctuary wreck is not minimized."
+    },
+    {
+      "number": 4,
+      "text": "Your foes have roared in the midst of your meeting place; they set up their own signs for signs.",
+      "arminianNotes": "Wesley: foes roar in the meeting place; set their signs for signs—pagan markers replace God’s.\n\nArminian pastoral: shared—sacrilege is loud. Roaring in God’s assembly is blasphemy both camps name as such.",
+      "reformedNotes": "Calvin: enemies roar in the assemblies; set up their ensigns for signs—profane triumph inside holy space.\n\nReformed accent: shared outrage at signs displacing God’s."
+    },
+    {
+      "number": 5,
+      "text": "They were like those who swing axes in a forest of trees.",
+      "arminianNotes": "Wesley: Lift up—destroy as men lift ax to hew trees. Temple beauty treated as timber.\n\nArminian note: violence is workmanlike and pitiless. Shared: carved worship space meets lumberjacks.",
+      "reformedNotes": "Calvin: ax-men in a thicket—systematic hacking of holy woodwork.\n\nReformed pastoral: shared—destruction is deliberate craft of hate."
+    },
+    {
+      "number": 6,
+      "text": "And all its carved work they broke down with hatchets and hammers.",
+      "arminianNotes": "Wesley: Carved work—beautiful ornaments of the temple—broken with hatchets and hammers.\n\nArminian hearing: art offered to God is smashed. Shared grief—beauty dedicated is not spared by the foe.",
+      "reformedNotes": "Calvin: carved work broken down—nothing ornate left. Desecration completes robbery.\n\nReformed note: shared—hammers preach contempt for God’s house."
+    },
+    {
+      "number": 7,
+      "text": "They set your sanctuary on fire; they profaned the dwelling place of your name, bringing it down to the ground.",
+      "arminianNotes": "Wesley: sanctuary fired; dwelling of the Name profaned to the ground.\n\nArminian pastoral: Name’s dwelling burned—shared horror. Prayer after arson still addresses the Name.",
+      "reformedNotes": "Calvin: sanctuary set on fire; dwelling place of the name cast to the ground. Profanation is total in appearance.\n\nReformed accent: shared—fire against the Name’s house is assault on God."
+    },
+    {
+      "number": 8,
+      "text": "They said to themselves, “We will utterly subdue them”; they burned all the meeting places of God in the land.",
+      "arminianNotes": "Wesley: Sanctuaries—temple and synagogues burned across the land. Utter subdue is the foe’s intent.\n\nArminian note: shared—every meeting place targeted. Corporate worship’s erasure is the enemy’s strategy.",
+      "reformedNotes": "Calvin: burn all meeting places of God in the land—sweeping policy against worship.\n\nReformed pastoral: shared—subdue-them ideology meets the God who still hears."
+    },
+    {
+      "number": 9,
+      "text": "We do not see our signs; there is no longer any prophet, and there is none among us who knows how long.",
+      "arminianNotes": "Wesley: Signs—tokens of presence; Prophet—to tell how long; How long—desolation’s duration unknown.\n\nArminian pastoral: absence of sign and prophet is confessed honestly. Shared: not knowing how long still leaves room to ask the King of v. 12.",
+      "reformedNotes": "Calvin: no signs; no prophet; none knows how long. Extreme desolation includes prophetic silence.\n\nReformed accent: shared—silence is part of the trial; faith will argue from old works next."
+    },
+    {
+      "number": 10,
+      "text": "How long, O God, is the foe to scoff? Is the enemy to revile your name forever?",
+      "arminianNotes": "Wesley: How long shall desolation and scoff continue? Name reviled forever is intolerable.\n\nArminian hearing: how-long prayer resists forever-scoff. Shared: God’s name, not only Israel’s comfort, is at stake.",
+      "reformedNotes": "Calvin: how long shall the adversary reproach and blaspheme the name forever? The cause is God’s honor.\n\nReformed note: shared—scoff against the Name fuels intercession."
+    },
+    {
+      "number": 11,
+      "text": "Why do you hold back your hand, why do you keep your right hand in your chest?",
+      "arminianNotes": "Wesley: why is the right hand withheld, kept in the bosom—power unused to the eye.\n\nArminian pastoral: bold complaint asks for action. Grace allows why without dethroning God.",
+      "reformedNotes": "Calvin: why withdraw the hand—keep the right hand in the bosom? Faith pleads for the arm once known in Exodus deeds.\n\nReformed accent: shared—anthropomorphism of withheld hand is prayer, not dogma that God cannot act."
+    },
+    {
+      "number": 12,
+      "text": "Yet God my King is from of old, working salvation in the midst of the earth.",
+      "arminianNotes": "Wesley: King—thou hast been our King and wilt be; from of old, working salvation mid-earth.\n\nArminian hope: Yet turns the psalm. Shared confession—God is King from of old; salvation history is the ground of fresh asking.",
+      "reformedNotes": "Calvin: yet God is my King of old, working salvation in the midst of the earth. Memory of kingship steadies complaint.\n\nReformed pastoral: shared—Yet God is the hinge; not yet we."
+    },
+    {
+      "number": 13,
+      "text": "You divided the sea by your might; you broke the heads of the sea monsters on the waters.",
+      "arminianNotes": "Wesley: Divided by power; Dragons—large fishes/crocodiles—heads broken.\n\nArminian note: exodus might recalled. Shared: creation-combat and Red Sea memory underwrite hope in ruin.",
+      "reformedNotes": "Calvin: divided the sea; broke dragons’ heads on the waters—former salvation works.\n\nReformed accent: shared—might once shown is argued back to God."
+    },
+    {
+      "number": 14,
+      "text": "You crushed the heads of Leviathan; you gave him as food for the creatures of the wilderness.",
+      "arminianNotes": "Wesley: Leviathan—whale or great fish; Meat—food (for desert scavengers / people in the figure).\n\nArminian pastoral: crushed chaos-monster becomes food—total victory image. Shared: God, not Israel, crushed Leviathan.",
+      "reformedNotes": "Calvin: Leviathan’s heads broken; given for meat in the wilderness—triumph complete.\n\nReformed note: shared mythic-scale victory language for the King’s past acts."
+    },
+    {
+      "number": 15,
+      "text": "You split open springs and brooks; you dried up ever-flowing streams.",
+      "arminianNotes": "Wesley: springs opened; ever-flowing streams dried—water mastery both ways.\n\nArminian hearing: shared—God commands water for salvation purposes (rock-streams; Jordan/Reed Sea).",
+      "reformedNotes": "Calvin: cleave fountain and flood; dry up mighty rivers—sovereign hydrography of redemption.\n\nReformed pastoral: shared—creation’s water answers its King."
+    },
+    {
+      "number": 16,
+      "text": "Yours is the day, yours also the night; you have established the heavenly lights and the sun.",
+      "arminianNotes": "Wesley: Day—the sun; Night—moon and stars established. Time itself is God’s.\n\nArminian note: shared—day and night ownership rebukes the foe’s ‘forever’ scoff.",
+      "reformedNotes": "Calvin: day and night are his; he prepared light and sun. Cosmic order is covenant God’s.\n\nReformed accent: shared—lights established by the same King who owns Zion’s ruin prayer."
+    },
+    {
+      "number": 17,
+      "text": "You have fixed all the boundaries of the earth; you have made summer and winter.",
+      "arminianNotes": "Wesley: boundaries fixed; summer and winter made. Seasons and borders are gifts.\n\nArminian pastoral: shared providence—geography and calendar confess the Creator while temples burn.",
+      "reformedNotes": "Calvin: set all borders of earth; made summer and winter—fixed orders.\n\nReformed note: shared—ruin of sanctuary does not unmake the Maker of seasons."
+    },
+    {
+      "number": 18,
+      "text": "Remember this, O LORD, how the enemy scoffs, and a foolish people reviles your name.",
+      "arminianNotes": "Wesley: Fool—pretends wisdom, is fool; Name reviled. Remember the scoff.\n\nArminian hearing: foolish people = blasphemers. Shared: remember is plea for God’s honor.",
+      "reformedNotes": "Calvin: remember the enemy’s reproach; foolish people blaspheme the name. Argument from God’s glory.\n\nReformed pastoral: shared—folly of reviling the Name."
+    },
+    {
+      "number": 19,
+      "text": "Do not deliver the soul of your dove to the wild beasts; do not forget the life of your poor forever.",
+      "arminianNotes": "Wesley: dove imagery—fragile congregation; poor’s life not forgotten forever.\n\nArminian pastoral: dove and poor need delivering remembrance. Shared tenderness—God’s poor are not beast-food by decree of the enemy.",
+      "reformedNotes": "Calvin: deliver not the soul of thy turtledove; forget not the life of thy poor forever. Tender names in hard prayer.\n\nReformed accent: shared—dove/poor identity under threat."
+    },
+    {
+      "number": 20,
+      "text": "Have regard for the covenant, for the dark places of the land are full of the habitations of violence.",
+      "arminianNotes": "Wesley: Covenant with Abraham; Dark places—cruelty’s dens across the land.\n\nArminian note: covenant regard is the ask. Shared: violence’s habitations do not erase the covenant; they occasion pleading it.",
+      "reformedNotes": "Calvin: have respect unto the covenant—dark places full of violence’s habitations. Faith argues covenant, not merit.\n\nReformed pastoral: shared—covenant is the legal mercy ground in desolation.",
+      "keyContrast": "Both plead the covenant amid land-wide violence. Arminians typically stress that covenant mercy must still be sought in prayer; Reformed readers typically stress that regard for the covenant rests on God’s faithfulness, not the people’s desert."
+    },
+    {
+      "number": 21,
+      "text": "Let not the downtrodden turn back in shame! Let the poor and needy praise your name!",
+      "arminianNotes": "Wesley: downtrodden not turned back ashamed; poor and needy praising the Name—outcome desired.\n\nArminian hope: shame reversed into praise. Shared: poor praise is the public answer to violence.",
+      "reformedNotes": "Calvin: oppressed not return ashamed; poor and needy praise the name—doxology from the rescued.\n\nReformed note: shared telos—Name praised by the needy."
+    },
+    {
+      "number": 22,
+      "text": "Arise, O God, defend your cause; remember how the foolish scoff at you all the day!",
+      "arminianNotes": "Wesley: Arise—exert power; Cause—plead for us; Foolish—impious blasphemy all day.\n\nArminian pastoral: arise and defend your cause—God’s cause and the people’s overlap. Shared urgency.",
+      "reformedNotes": "Calvin: arise, plead thine own cause; remember foolish reproach all day. God is asked to vindicate himself.\n\nReformed accent: shared—thine own cause centers the plea beyond private revenge."
+    },
+    {
+      "number": 23,
+      "text": "Do not forget the clamor of your foes, the uproar of those who rise up against you, which goes up continually!",
+      "arminianNotes": "Wesley: continual uproar of foes rising against God—do not forget the noise.\n\nArminian note: clamor goes up continually; prayer asks God not to ignore it. Shared: enemies against God, not only against Asaph.",
+      "reformedNotes": "Calvin: forget not the voice of adversaries; tumult of those who rise against God ascends continually. Closing pressure on divine remembrance.\n\nReformed pastoral: shared—continual uproar meets the King from of old (v. 12)."
+    }
+  ]
+}

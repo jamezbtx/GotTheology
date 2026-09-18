@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 119,
+  "verseStart": 65,
+  "verseEnd": 72,
+  "translation": "ESV",
+  "title": "Psalm 119:65–72",
+  "context": "The Teth stanza thanks God for dealing well according to his word, asks good judgment and knowledge, and confesses that affliction checked wandering and taught the statutes. God is good and does good; lies and unfeeling hearts oppose delight in the law; yet affliction is called good, and the law outweighs gold and silver. Both camps bless fatherly correction and prize the word above wealth; they differ on how affliction recovers the wanderer and what “I believe” implies when more light is asked.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on good dealing according to the word, affliction that ends wandering, and the law valued above gold—so each camp speaks in its own voice beside Psalm 119:65–72.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Judgment—Whereby I may rightly discern between truth and falsehood. Knowledge—A spiritual experimental knowledge. Fat—They are stupid and insensible.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 119:66, 70)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "I have really experienced that Thou art true and dost not delude thy servants with empty words. Teach me goodness of taste and knowledge: he asserts he believed God’s commandments—docile and obedient—and pleads for another gift, sound taste and good understanding. Right affection and good understanding are both necessary. Before I was brought low I went astray: we never yield obedience until compelled by chastisements; so long as God deals gently, we break into insolence. Even a prophet required forcible correction. It has been good for me that I was afflicted, that I might learn thy statutes.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 119:65–67, 71)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 65,
+      "text": "You have dealt well with your servant, O Lord, according to your word.",
+      "arminianNotes": "Good dealing according to the word is confessed. Classical Arminians hear gratitude for promise-kept kindness—experience confirming that God does not tease his servants with empty speech.\n\nShared praise: benefits flow along the channel of the word. Thanksgiving fits the servant who has tasted faithfulness.",
+      "reformedNotes": "Calvin: he celebrates God’s faithfulness in performing the grace promised—not a vague “all is for the best,” but experienced truthfulness. Free goodness induces God to deal bountifully, yet we hope for nothing until he binds himself by his word.\n\nReformed accent: well-dealt and according to the word stand together. Promises are the conduit of benefits from the fountain of free goodness."
+    },
+    {
+      "number": 66,
+      "text": "Teach me good judgment and knowledge, for I believe in your commandments.",
+      "arminianNotes": "Wesley: Judgment—Whereby I may rightly discern between truth and falsehood. Knowledge—A spiritual experimental knowledge.\n\nClassical Arminians hear faith that already embraces the commandments asking for discernment and experimental knowledge—docility that wants to grow. Belief is reason to request more light, not a claim to need none.",
+      "reformedNotes": "Calvin: after experiencing God’s faithfulness, he asks to grow in right understanding—taste and knowledge together, sound discretion. He believed the commandments—cheerfully embraced the law—yet that holy zeal made him desire conformity and fear going astray; he pleads for another gift: sound taste and good understanding. Right affection and good understanding are both indispensable; after God frames the heart to obedience, we must ask wisdom to regulate our zeal.\n\nReformed confession: believing is not the end of need. Spirit-wrought docility asks further illuminating grace."
+    },
+    {
+      "number": 67,
+      "text": "Before I was afflicted I went astray, but now I keep your word.",
+      "arminianNotes": "Affliction checked wandering and restored keeping. Classical Arminians hear fatherly discipline that recovers those who stray—correction unto obedience, not cruelty for its own sake.\n\n“Now I keep” is confession of mercy in the rod. Shared pastoral wisdom: pain can be a tutor back to the word.",
+      "reformedNotes": "Calvin: in his own person he describes the wantonness common to all—we never yield obedience until compelled by chastisements; so long as God deals gently, we break into insolence. Even a prophet required forcible means. The flesh is obstreperous; God applies appropriate remedies—poverty, shame, disease, distress, labor—according to our vices. The fruit of chastisement should assuage its bitterness.\n\nReformed accent: affliction is God’s compulsory schooling of hard hearts. Wandering yields when the rod teaches; gentleness alone often leaves us insolent.",
+      "keyContrast": "Both bless affliction that ends wandering and restores keeping of the word, and both refuse a cruel God. Arminians typically hear fatherly correction that recovers stray servants under grace—discipline unto restored obedience. Reformed readers typically hear Calvin’s anthropology: we do not yield until compelled; while God deals gently we break into insolence, so the rod is needful schooling of rebellious flesh."
+    },
+    {
+      "number": 68,
+      "text": "You are good and do good; teach me your statutes.",
+      "arminianNotes": "God’s goodness and good-doing ground the plea to be taught. Classical Arminians hear character and action together—the Good One asked to teach statutes, not merely to increase comforts.\n\nShared aim: progress in the law as the kindness most desired.",
+      "reformedNotes": "Calvin: nearly the same as the close of the prior octave—he beseeches God to exercise goodness not by riches, honors, or pleasures, but by enabling progress in knowing the law. The world asks bounty for fleshly desires; David would be satisfied if God were liberal in this one particular most men disdain.\n\nReformed reading: teach me is the shape goodness takes for the servant. Statute-learning outranks worldly “good dealing.”"
+    },
+    {
+      "number": 69,
+      "text": "The insolent smear me with lies, but with my whole heart I keep your precepts;",
+      "arminianNotes": "Wholeheart keeping continues under smears. Classical Arminians hear integrity that will not trade the precepts for a repaired reputation among liars.\n\nShared fortitude: calumny is no excuse to loosen the heart’s grip on the word.",
+      "reformedNotes": "Calvin: though the wicked put a malignant twist on all he did to turn him from uprightness, his mind remained unaltered. It is severe to be loaded with infamy while innocent; many good people shake when so rewarded. He continues observing the law; the proud—great men inflated with honors—trample as if he were a dead dog. Leave children of the world their reward; our crown is in heaven.\n\nReformed accent: whole-heart precept-keeping under woven lies is invincible constancy. Cast eyes to the heavenly stage."
+    },
+    {
+      "number": 70,
+      "text": "their heart is unfeeling like fat, but I delight in your law.",
+      "arminianNotes": "Wesley: Fat—They are stupid and insensible.\n\nClassical Arminians hear contrast: callous hearts versus delight in the law. Insensibility is refused; pleasure in Scripture is cultivated under grace.",
+      "reformedNotes": "Calvin: their heart is fat as grease—a vice common among despisers; grossness overgrows the heart so they are stupefied and even frenzied in obstinacy. Wonderful is the prophet’s magnanimity who found all delight in the law—as food that refreshed him—which could not be were the heart not cleansed from unhallowed pleasures.\n\nReformed confession: fat insensibility and law-delight are opposed. Delight marks a heart freed for the word’s sweetness."
+    },
+    {
+      "number": 71,
+      "text": "It is good for me that I was afflicted, that I might learn your statutes.",
+      "arminianNotes": "Affliction called good because it taught the statutes. Classical Arminians hear willing after-the-fact praise of the tutor—learning valued above ease.\n\nShared confession: the end of the rod is schooling in God’s word. Taste that fruit to sweeten correction.",
+      "reformedNotes": "Calvin: confirms that it was profitable to be subdued by chastisements and brought to obedience. He confesses he was not exempt from the perverse obstinacy infecting all; otherwise the profit would be pretended. None willingly submits until God softens hardness with the hammer. Taste continually the fruit of corrections that they become sweet.\n\nReformed accent: “good for me” is learned theology of the rod. Affliction’s aim is statute-learning through mortified flesh."
+    },
+    {
+      "number": 72,
+      "text": "The law of your mouth is better to me than thousands of gold and silver pieces.",
+      "arminianNotes": "The law outvalues vast wealth. Classical Arminians hear reordered treasure—Scripture better than thousands of coins.\n\nShared verdict against the world’s immoderate desire of riches. Prefer the mouth of God to the market’s pile.",
+      "reformedNotes": "Calvin: he preferred God’s law to all the world’s riches, whose immoderate desire infatuates most. He does not compare with riches he owned; he affirms the law more precious than a vast inheritance.\n\nReformed confession: law-as-better-than-gold is settled valuation. Desire is catechized away from infatuation toward the word."
+    }
+  ]
+}

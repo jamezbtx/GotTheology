@@ -1,0 +1,145 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 132,
+  "verseStart": 1,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "Psalm 132:1–18",
+  "context": "A Song of Ascents: remembrance of David’s hardships and vow to find a dwelling for the LORD—the ark heard of in Ephrathah and found in the fields of Jaar, then brought to worship at His footstool. Prayer rises for the LORD and the ark of His might, for priests clothed with righteousness and saints shouting for joy, and for the anointed not to be turned away for David’s sake. God answers with a sure oath to David, Zion chosen as His forever rest, abundant provision, priests clothed with salvation, a horn sprouting for David, a lamp for His anointed, enemies shamed, and the crown shining.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on David’s afflictions and vow, the ark’s resting place, the LORD’s oath to David’s house, Zion chosen, and the horn and lamp of the anointed—so each camp speaks in its own voice beside Psalm 132:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Afflictions—all his sufferings for thy sake. Until—until I have raised an house in which the ark may be put. It—of the ark. Ephratah—in the tribe of Ephraim, which was called also Ephratah. Found it—afterwards we found it in Kirjath-jearim, which signifies a city of woods, in the territory whereof the ark was seated for twenty years. Tabernacles—into his temple. Footstool—the ark, is often said to sit between the cherubim, which were above the ark. Rest—into thy resting place, the temple so called, where thou hast now a fixed habitation. The ark—the seat of thy powerful and glorious presence. David’s sake—in regard of thy promises vouchsafed to David. Turn not—cast me not out of thy presence. Of—of me whom thou hast anointed to be king over thy people. Salvation—with thy saving graces and blessings. There—in Jerusalem. To bud—his power and glory to flourish. A lamp—a successor to continue for ever in his family, and particularly one eminent and glorious light, namely, the Messiah.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 132)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "O Jehovah! remember David, and all his affliction. The Church prays that God would perform what he promised to his servant David—not as a private individual, but in favor of all his people—looking entirely to the covenant God made with him. Mention is made of his affliction: the anxious cares, difficulties, and struggles David underwent, and how fervently he desired to build the Temple. He swore to Jehovah; filled with concern for the Ark’s place, he would postpone every other consideration to a dwelling for the Mighty One of Jacob. Jehovah has sworn to David in truth, nor will he turn from it; of the fruit of thy belly will I set upon thy throne. The covenant was perfectly gratuitous as to the promise of a Savior; yet a condition was appended, that God would bless them if they obeyed—while at Christ’s coming there was free performance of what had been freely promised. Jehovah has chosen Zion; he hath desired it for his habitation—not for any excellency in the place, but because such was the will of God. There will I make the horn of David to bud; I have prepared a lamp for my Christ. His enemies will I clothe with shame, and upon him shall his crown flourish.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 132)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Remember, O LORD, in David’s favor, all the hardships he endured,",
+      "arminianNotes": "Remember David in favor—all the hardships he endured for the LORD’s sake. Affliction is laid before God as plea, not as leverage against His character.\n\nClassical Arminians hear a real appeal to covenant kindness. Bring David’s costly zeal to the LORD; hardship borne for His house is not forgotten when you ask for mercy on the anointed line.",
+      "reformedNotes": "Remember David and all his affliction—the Church pleading the covenant sworn for the people’s good, not summoning a dead advocate from the tomb.\n\nReformed accent: remembrance is God’s faithfulness to His own promise. David’s struggles confirm how firmly he trusted the oracle; the plea stands on what God spoke."
+    },
+    {
+      "number": 2,
+      "text": "how he swore to the LORD and vowed to the Mighty One of Jacob,",
+      "arminianNotes": "He swore to the LORD and vowed to the Mighty One of Jacob. Zeal for God’s dwelling takes the shape of a serious vow.\n\nArminian pastoral: vows that match what God has declared agreeable are commendable diligence. Match promise to His will; do not invent oaths that suit only carnal impulse.",
+      "reformedNotes": "Who swore to Jehovah, vowed to the Mighty One of Jacob. Concern for the Ark’s settlement pressed David toward vowed priority for the sanctuary.\n\nReformed note: vow what God has shown agreeable; obedience outranks sacrifice. Rash vows that seize God’s will are presumption, not piety."
+    },
+    {
+      "number": 3,
+      "text": "“I will not enter my house or get into my bed,",
+      "arminianNotes": "I will not enter my house or get into my bed—home comfort deferred until God has a place.\n\nClassical Arminians hear costly, chosen priority. Under grace, put the LORD’s dwelling before private ease; let zeal prove itself in refused self-indulgence.",
+      "reformedNotes": "If I enter my house or go up upon my couch—hyperbole of a heart that cannot rest while the Ark’s place remains unsettled.\n\nReformed accent: sanctuary settlement and kingdom welfare are tied. Anxiety for God’s appointed worship unsettles ordinary comforts until His will is clear."
+    },
+    {
+      "number": 4,
+      "text": "I will not give sleep to my eyes or slumber to my eyelids,",
+      "arminianNotes": "No sleep to eyes or slumber to eyelids until the vow is kept. Restlessness here is holy urgency, not empty insomnia.\n\nArminian hearing: stay awake to the duty God has shown. Refuse a drowsy religion while His house waits; diligence is the vow’s pulse.",
+      "reformedNotes": "Sleep and slumber refused—language of vehement desire, not a literal ban on rest God never required as a law of nature.\n\nReformed pastoral: zeal must stay within obedience. Hyperbole marks intensity; it does not license prescribing times to God or vows He never asked."
+    },
+    {
+      "number": 5,
+      "text": "until I find a place for the LORD, a dwelling place for the Mighty One of Jacob.”",
+      "arminianNotes": "Until I find a place for the LORD—a house raised for the ark. The end of the vow is God’s habitation, not David’s fame.\n\nClassical Arminians press the aim: seek a dwelling for the Mighty One of Jacob. Direct energy to where He has said He will be honored among His people.",
+      "reformedNotes": "Until I find a place for Jehovah, habitations for the Mighty One of Jacob. Fixed presence for defense and government is the longing behind the oath.\n\nReformed comfort: God chooses the place; human zeal seeks what He has appointed. The vow serves His worship, not a shrine of private invention."
+    },
+    {
+      "number": 6,
+      "text": "Behold, we heard of it in Ephrathah; we found it in the fields of Jaar.",
+      "arminianNotes": "Heard of the ark in Ephrathah; found it in the fields of Jaar (Kirjath-jearim, city of woods). Memory tracks the ark’s long sojourn before Zion rest.\n\nArminian pastoral: follow the ark’s story with the people. What was lost to neglect can be found again when hearts turn to seek the LORD’s presence.",
+      "reformedNotes": "We heard of it at Ephrathah; we found it in the fields of the wood. Obscure hearing yields to discovery of the ark God will plant in His chosen rest.\n\nReformed accent: providence guides the search. The people do not invent the ark’s honor; they recover what God had set among them."
+    },
+    {
+      "number": 7,
+      "text": "“Let us go to his dwelling place; let us worship at his footstool!”",
+      "arminianNotes": "Let us go to His dwelling; worship at His footstool—the ark between the cherubim. Corporate invitation replaces private delay.\n\nClassical Arminians urge the summons: go and worship. Footstool piety is nearness without presumption—bow where He has placed His name.",
+      "reformedNotes": "We will go into His habitations; worship at His footstool. Mutual exhortation draws the Lord’s people to the place He chose.\n\nReformed note: common form of going up together. Worship gathers where God has appointed symbols of His presence, not where whim builds altars."
+    },
+    {
+      "number": 8,
+      "text": "Arise, O LORD, and go to your resting place, you and the ark of your might.",
+      "arminianNotes": "Arise, O LORD, to Your resting place—You and the ark of Your might. Prayer asks fixed habitation where His powerful presence rests.\n\nArminian hearing: plead for the LORD to take His rest among His people. The ark is the seat of glorious strength; ask Him to dwell, not merely visit.",
+      "reformedNotes": "Arise, O Jehovah, into Your rest—You and the Ark of Your strength. Words echoing the wilderness journey and temple dedication invite God’s appointed presence.\n\nReformed accent: symbols God ordained are not despised. He fills heaven and earth, yet stoops to honor means that call faith without paralyzing it."
+    },
+    {
+      "number": 9,
+      "text": "Let your priests be clothed with righteousness, and let your saints shout for joy.",
+      "arminianNotes": "Priests clothed with righteousness; saints shouting for joy. Holy ministers and glad people belong together at the resting place.\n\nClassical Arminians hear a petition for moral fitness and public joy. Ask that servants be truly righteous and that the holy ones answer with glad shout.",
+      "reformedNotes": "Let priests be clothed with righteousness, and the meek rejoice. Prayer seeks the beauty of holiness on those who serve at the sanctuary.\n\nReformed pastoral: righteousness as clothing is gift and calling under God’s eye. Joy of the saints answers when worship is ordered by His appointment."
+    },
+    {
+      "number": 10,
+      "text": "For the sake of your servant David, do not turn away the face of your anointed one.",
+      "arminianNotes": "For David’s sake—because of promises vouchsafed to him—do not turn away the anointed’s face. Cast me not from Your presence.\n\nArminian reading: plead the promises God freely gave. The anointed’s acceptance rests on covenant word to David, which hearers may urge in faithful prayer.",
+      "reformedNotes": "For Your servant David’s sake, turn not away the face of Your Christ. Favor is asked because God covenanted with David for the people’s good.\n\nReformed accent: the foundation is in David’s person as figurative mediator pointing to Christ. Prayer rides the promise God swore, not human leverage over God.",
+      "keyContrast": "Both plead for the anointed on the ground of God’s dealings with David. Arminians typically stress urging those vouchsafed promises in real petition so the anointed not be cast away; Reformed readers typically stress the free covenant in David that figuratively teaches Christ’s mediation for the people."
+    },
+    {
+      "number": 11,
+      "text": "The LORD swore to David a sure oath from which he will not turn back: “One of the sons of your body I will set on your throne.",
+      "arminianNotes": "The LORD swore a sure oath He will not reverse: a son of David’s body on the throne. Certainty of word underwrites hope for the house.\n\nClassical Arminians confess the oath’s truthfulness. Trust what God has sworn; the throne promise is reliable for those who take Him at His word.",
+      "reformedNotes": "Jehovah swore in truth and will not turn from it—fruit of the body set on the throne. Free promise, sealed by oath, steadies king and people.\n\nReformed comfort: sacred tenure rests on God’s oracle, not on the insolent grace-claims of worldly thrones. Succession is God’s gift for the Church’s welfare."
+    },
+    {
+      "number": 12,
+      "text": "If your sons keep my covenant and my testimonies that I shall teach them, their sons also forever shall sit on your throne.”",
+      "arminianNotes": "If sons keep covenant and testimonies God teaches, their sons forever sit on the throne. Obedience is named as the path of lasting succession.\n\nArminian hearing: the condition is real. Teachability and covenant-keeping matter; the throne’s continuance is not advertised as carelessness with God’s word.",
+      "reformedNotes": "If sons keep My covenant and testimonies, their children sit forever. Accessories of the covenant carry a condition, yet the promise of the Redeemer stood gratuitous and was freely performed in Christ despite national treachery.\n\nReformed accent: exile showed conditional terms were not empty; Christ showed the free core was inviolable. Obedience is to God’s word, not human inventions.",
+      "keyContrast": "Both read a real “if” about sons keeping covenant and testimonies. Arminians typically stress the live condition—obedience taught and kept as the way succession endures. Reformed readers typically stress a gratuitous promise of the Savior that stood firm in Christ, while accessory blessings ran conditionally and judgment fell when the nation refused God’s word."
+    },
+    {
+      "number": 13,
+      "text": "For the LORD has chosen Zion; he has desired it for his dwelling place:",
+      "arminianNotes": "The LORD has chosen Zion; He has desired it for His dwelling. Election of place explains the oath’s geography of rest.\n\nClassical Arminians affirm God’s free desire. Zion is wanted by Him; worship centers where He has chosen, not where prestige nominates itself.",
+      "reformedNotes": "Jehovah has chosen Zion; He desired it for His habitation—not for the mount’s excellency, but because such was His will.\n\nReformed accent: kingdom and sanctuary are coupled by divine appointment. Choice of Zion displays mere goodness, the same grace that covenanted with David.",
+      "keyContrast": "Both confess that the LORD has chosen and desired Zion for His dwelling. Arminians typically stress God’s free desire as the reason worship gathers there; Reformed readers typically stress sovereign choice without excellency in the mount—mere goodness that also underwrote the Davidic covenant."
+    },
+    {
+      "number": 14,
+      "text": "“This is my resting place forever; here I will dwell, for I have desired it.",
+      "arminianNotes": "This is My resting place forever; here I will dwell, for I have desired it. Desire, not flattery of the hill, grounds the forever rest.\n\nArminian pastoral: rest where God says He rests. Forever dwelling invites confident worship without treating the place as a charm against repentance.",
+      "reformedNotes": "This is My rest forever; here will I dwell, because I have desired it. God takes habitation in the manifestation of His power among worshipers of His appointment.\n\nReformed warning: hypocrites abused the promise as if God owed them favor while they shed innocent blood. In Christ the whole earth becomes enlarged Zion."
+    },
+    {
+      "number": 15,
+      "text": "I will abundantly bless her provisions; I will satisfy her poor with bread.",
+      "arminianNotes": "Abundant blessing on provisions; the poor satisfied with bread. Dwelling presence spills into daily food and care for the needy.\n\nClassical Arminians hear fatherly supply. Expect God’s kindness in ordinary bread; abundance here feeds Zion’s poor, not only her elites.",
+      "reformedNotes": "Blessing I will bless her provision; I will satisfy her poor with bread. Fatherly proofs of presence include food prepared and want relieved.\n\nReformed comfort: ocular tokens of goodness train weak faith upward. Special care may mean enough for the poor rather than swollen surplus for pride."
+    },
+    {
+      "number": 16,
+      "text": "Her priests I will clothe with salvation, and her saints will shout for joy.",
+      "arminianNotes": "Priests clothed with salvation—saving graces and blessings—and saints shouting for joy. God answers the earlier prayer with more than asked.\n\nArminian reading: righteousness sought becomes salvation given. Glad shouting is the fitting public answer when ministers are clad with saving good.",
+      "reformedNotes": "I will clothe her priests with salvation; her merciful ones shout aloud for joy. Beyond righteousness prayed for comes salvation as its consequence under divine protection.\n\nReformed accent: safe happiness of sanctuary servants is God’s clothing. Joy is not manufactured noise; it answers His pledged care."
+    },
+    {
+      "number": 17,
+      "text": "There I will make a horn to sprout for David; I have prepared a lamp for my anointed.",
+      "arminianNotes": "There—in Jerusalem—a horn buds for David; a lamp ordained for the anointed, and especially the Messiah as glorious light.\n\nClassical Arminians confess the sprouting hope. Power flourishes again by God’s act; the lamp points beyond fading kings to the eminent Light prepared.",
+      "reformedNotes": "There I will make David’s horn to bud; I have prepared a lamp for My Christ. Broken horn buds again; the lamp, though sometimes dim, is never wholly quenched until the Sun of righteousness shines.\n\nReformed comfort: restorations after cutting down prove God’s care. Christ is the Branch from the stump; the Church’s light is His.",
+      "keyContrast": "Both see horn and lamp as Davidic hope fulfilled above all in the Messiah. Arminians typically stress the ordained successor and glorious Light as the aim of the promise to be received; Reformed readers typically stress God’s sovereign budding of a trampled horn and an unextinguished lamp until Christ, the Sun, fills the world."
+    },
+    {
+      "number": 18,
+      "text": "His enemies I will clothe with shame, but on him his crown will shine.”",
+      "arminianNotes": "Enemies clothed with shame; on him the crown flourishes. Contrast completes the clothing theme—shame for foes, shining rule for the anointed.\n\nArminian pastoral: expect both vindication and lasting honor from God. Do not envy the foe’s short boast; the crown’s shine is the LORD’s to keep.",
+      "reformedNotes": "Enemies clothed with shame; upon him the crown shall flourish. Outward assault will not cancel inward blessing; foes retire in disgrace while the frail-looking crown lives by secret virtue.\n\nReformed accent: the Church never escapes every assault, yet God pledges unsuccessful enmity. The crown flourishes forever because He says it will."
+    }
+  ]
+}

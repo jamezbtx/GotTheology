@@ -1,0 +1,142 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 88,
+  "verseStart": 1,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "Psalm 88:1–18",
+  "context": "A Song. A Psalm of the Sons of Korah. To the choirmaster: according to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O LORD, God of my salvation, I cry day and night; let my prayer come before you. Soul full of troubles; life near Sheol; counted with those going down to the pit; like the slain forgotten. You lay me in the lowest pit; your wrath lies heavy; waves afflict; acquaintances far; eye wastes; daily call. Will you work wonders for the dead? Kindness in the grave? Wonders in darkness? Yet I cry; morning prayer. Why cast off? Why hide your face? Afflicted from youth; wrath sweeps; terrors destroy; surround like a flood. Lover and friend shun me; companions become darkness.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the God of salvation cried to day and night, a soul full of troubles near the grave, counted with those who go down to the pit, wrath's waves, acquaintances put far, wonders asked for the dead, morning prayer preventing the dawn, the hidden face, terrors from youth, and lover and friend removed into darkness—so each camp speaks in its own voice beside Psalm 88:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Counted—given up by friends for a lost man. Free—well nigh discharged from life's warfare into the society of the dead; Whom—thou seemest to neglect and bury in oblivion. Waves—judgments breaking in furiously like sea waves. Wonders—in raising them to life; To praise thee—in this world? Forgetfulness—the grave where men are forgotten by nearest relations. Prevent—come before dawn. Water—as the sea encompasses one in its midst.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 88"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Although the prophet recites agony without hyperbole, his purpose is to supply the afflicted a form of prayer lest they faint. He names God of my salvation as a bridle against despair and murmuring. Soul filled with troubles; life near the grave; numbered with those who go down to the pit; free among the dead—cut off from life's business. Wrath lies hard; afflicted with all thy waves—yet still lifting heart and prayers. Wilt thou perform a miracle for the dead? Shall loving-kindness be declared in the grave? Wherefore reject my soul and hide thy face? Afflicted from youth; terrors; wraths; encompassed like waters. Lover and friend put far; acquaintance into darkness. The psalm trains perseverance in darkness without charging God foolishly.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 88"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O Lord, God of my salvation, I cry out day and night before you.",
+      "arminianNotes": "O Lord, God of my salvation, I cry out day and night before you. Shared: salvation's God; day-and-night cry before him.\n\nArminian pastoral: even the darkest psalm begins with \"God of my salvation.\" Keep the title when the night does not lift.",
+      "reformedNotes": "Calvin: form of prayer for the afflicted; \"God of my salvation\" bridles excess of sorrow, shuts despair's door, prepares for the cross. Cry and day-night importunity mark earnestness; \"before thee\" is rare—many murmur aside from God.\n\nReformed pastoral: shared—God of salvation; cry day and night before him. Address God; do not only bleed into the air."
+    },
+    {
+      "number": 2,
+      "text": "Let my prayer come before you; incline your ear to my cry!",
+      "arminianNotes": "Let my prayer come before you; incline your ear to my cry! Shared: prayer admitted; ear inclined to the cry.\n\nArminian pastoral: ask access when feelings say the door is shut. Cry is still prayer.",
+      "reformedNotes": "Calvin: let prayer come into thy presence; incline the ear—the same earnestness continues from v. 1.\n\nReformed pastoral: shared—let prayer come; incline the ear. Presence sought is itself faith under pressure."
+    },
+    {
+      "number": 3,
+      "text": "For my soul is full of troubles, and my life draws near to Sheol.",
+      "arminianNotes": "For my soul is full of troubles, and my life draws near to Sheol. Shared: soul saturated; life near the grave.\n\nArminian pastoral: fullness of trouble is honest speech. Nearness to Sheol is not theatrical; it is felt.",
+      "reformedNotes": "Calvin: excuse for the excess of grief—not soft effeminacy but immense accumulation; life not far from the grave.\n\nReformed pastoral: shared—full of troubles; near Sheol. Severity of case justifies lament without canceling piety."
+    },
+    {
+      "number": 4,
+      "text": "I am counted among those who go down to the pit; I am a man who has no strength,",
+      "arminianNotes": "I am counted among those who go down to the pit; I am a man who has no strength, Wesley: Counted—given up by friends for a lost man. Shared: reckoned among the descending; strength gone.\n\nArminian pastoral: friends may write you off; still speak to God. Weakness named is not unbelief named.",
+      "reformedNotes": "Calvin: numbered with those who go down to the pit; as a man with no strength—distresses crushing enough for the strongest.\n\nReformed pastoral: shared—counted with the pit-bound; no strength. Many deaths threaten though breath remains."
+    },
+    {
+      "number": 5,
+      "text": "like one set loose among the dead, like the slain that lie in the grave, like those whom you remember no more, for they are cut off from your hand.",
+      "arminianNotes": "like one set loose among the dead, like the slain that lie in the grave, like those whom you remember no more, for they are cut off from your hand. Wesley: Free—discharged into the dead's society; Whom—thou seemest to neglect. Shared: death-society language; seeming forgottenness.\n\nArminian pastoral: \"seemest\" matters—experience of oblivion is not final theology. Still the God of salvation (v. 1).",
+      "reformedNotes": "Calvin: free among the dead—unfit for life's business, cut off from the world; more grievous than common death. The prophet feels cast from God's care.\n\nReformed pastoral: shared—among the dead; seemingly unremembered; cut off from your hand. Pastoral care holds both the feeling and the earlier title of salvation."
+    },
+    {
+      "number": 6,
+      "text": "You have put me in the depths of the pit, in the regions dark and deep.",
+      "arminianNotes": "You have put me in the depths of the pit, in the regions dark and deep. Shared: Godward agency—laid in lowest darkness.\n\nArminian pastoral: speak the depths to God, not only about God. Dark and deep are prayer's map.",
+      "reformedNotes": "Calvin: lowest pit, darkness, deeps—threefold grave imagery under which the afflicted still turns Godward.\n\nReformed pastoral: shared—you have put me in the depths. Agency confessed without atheism."
+    },
+    {
+      "number": 7,
+      "text": "Your wrath lies heavy upon me, and you overwhelm me with all your waves. Selah",
+      "arminianNotes": "Your wrath lies heavy upon me, and you overwhelm me with all your waves. Selah Wesley: Waves—judgments like sea waves. Shared: heavy wrath; overwhelming waves; Selah.\n\nArminian pastoral: pause at Selah under the waves. Judgments felt as flood still meet a praying soul.",
+      "reformedNotes": "Calvin: wrath lies hard; afflicted with all thy waves—sustaining the whole burden of wrath; yet so dreadful a flood did not prevent lifting heart and prayers.\n\nReformed pastoral: shared—wrath heavy; waves overwhelm. Example: pray under the flood, not only after it."
+    },
+    {
+      "number": 8,
+      "text": "You have caused my companions to shun me; you have made me a horror to them. I am shut in so that I cannot escape;",
+      "arminianNotes": "You have caused my companions to shun me; you have made me a horror to them. I am shut in so that I cannot escape; Shared: social abandonment; shut in.\n\nArminian pastoral: isolation is part of the lament's truth. Horror to acquaintances is spoken before God who can reverse it.",
+      "reformedNotes": "Calvin: acquaintances put far; made an abomination; shut up and cannot come forth—compound misery of sickness, wrath, and loneliness.\n\nReformed pastoral: shared—companions shun; horror; shut in. The God of salvation remains the addressee."
+    },
+    {
+      "number": 9,
+      "text": "my eye grows dim through sorrow. Every day I call upon you, O Lord; I spread out my hands to you.",
+      "arminianNotes": "my eye grows dim through sorrow. Every day I call upon you, O Lord; I spread out my hands to you. Shared: wasted eye; daily call; hands spread.\n\nArminian pastoral: dim eyes and open hands together. Daily calling is the resistance to silence.",
+      "reformedNotes": "Calvin: eye mourns by affliction; called daily; stretched out hands—perseverance of gesture when sight fails.\n\nReformed pastoral: shared—eye dim; call daily; hands spread. Gesture of prayer outlasts emotional brightness."
+    },
+    {
+      "number": 10,
+      "text": "Do you work wonders for the dead? Do the departed rise up to praise you? Selah",
+      "arminianNotes": "Do you work wonders for the dead? Do the departed rise up to praise you? Selah Wesley: Wonders—raising to life; praise—in this world? Shared: rhetorical anguish over praise among the dead; Selah.\n\nArminian pastoral: the questions are plea, not denial of God's power. He wants to praise now among the living.",
+      "reformedNotes": "Calvin: wilt thou perform a miracle for the dead? shall the dead arise to praise?—argument from God's interest in being praised among the living; urgency of present mercy.\n\nReformed pastoral: shared—wonders for the dead? praise from the departed? Hold the plea as hunger for living praise."
+    },
+    {
+      "number": 11,
+      "text": "Is your steadfast love declared in the grave, or your faithfulness in Abaddon?",
+      "arminianNotes": "Is your steadfast love declared in the grave, or your faithfulness in Abaddon? Shared: hesed and faithfulness asked as public praise among the living.\n\nArminian pastoral: love and faithfulness deserve declaration—ask to live to declare them.",
+      "reformedNotes": "Calvin: shall loving-kindness be declared in the grave? truth in destruction?—same urgency: God's attributes seek living witnesses.\n\nReformed pastoral: shared—steadfast love in the grave? faithfulness in Abaddon? The questions press for mercy now."
+    },
+    {
+      "number": 12,
+      "text": "Are your wonders known in the darkness, or your righteousness in the land of forgetfulness?",
+      "arminianNotes": "Are your wonders known in the darkness, or your righteousness in the land of forgetfulness? Wesley: Forgetfulness—grave where nearest relations forget. Shared: darkness and forgetfulness as praise-less land.\n\nArminian pastoral: fear of being forgotten by people intensifies the cry to the God who remembers. Ask for light to know his wonders.",
+      "reformedNotes": "Calvin: wonders in darkness? righteousness in the land of forgetfulness?—continues the living-praise argument.\n\nReformed pastoral: shared—wonders in darkness? righteousness in forgetfulness? Darkness is not celebrated; it is protested in prayer."
+    },
+    {
+      "number": 13,
+      "text": "But I, O Lord, cry to you; in the morning my prayer comes before you.",
+      "arminianNotes": "But I, O Lord, cry to you; in the morning my prayer comes before you. Wesley: Prevent—come before dawn. Shared: \"but\" of persevering cry; morning prayer first.\n\nArminian pastoral: the turn is not mood but motion—still I cry. Beat the sun to the throne.",
+      "reformedNotes": "Calvin: but to thee have I cried; in the morning my prayer prevents thee—return from the dead-questions to actual petition.\n\nReformed pastoral: shared—but I cry; morning prayer before you. Perseverance is the psalm's obedience."
+    },
+    {
+      "number": 14,
+      "text": "O Lord, why do you cast my soul away? Why do you hide your face from me?",
+      "arminianNotes": "O Lord, why do you cast my soul away? Why do you hide your face from me? Shared: why of rejection and hidden face—still addressed to the LORD.\n\nArminian pastoral: why-questions are allowed inside covenant speech. Hidden face is experience; God of salvation remains the You.",
+      "reformedNotes": "Calvin: wherefore reject my soul and hide thy face?—vehement complaint from one who still prays; the form begun in v. 1 guards against charging God with injustice while feeling cast off.\n\nReformed pastoral: shared—why cast away? why hide? Faith asks why without becoming the judge of God.",
+      "keyContrast": "Both refuse to turn Psalm 88 into stoic denial of the darkness or soft denial of God's steadfast character. Arminians typically pastor the why-questions as sincere, permitted lament from a soul that still cries to the God of salvation—hidden face as lived experience, not revoked mercy in principle. Reformed readers typically pastor with Calvin's bridle: the opening \"God of my salvation\" and the persevering morning cry frame the complaint so the afflicted neither faints nor murmurs as judge over God. Shared: darkest lament remains prayer; face-hiding is not atheism."
+    },
+    {
+      "number": 15,
+      "text": "Afflicted and close to death from my youth up, I suffer your terrors; I am helpless.",
+      "arminianNotes": "Afflicted and close to death from my youth up, I suffer your terrors; I am helpless. Shared: lifelong affliction; terrors; helplessness.\n\nArminian pastoral: from-youth suffering is not proof of divine absence. Name helplessness without quitting the cry.",
+      "reformedNotes": "Calvin: afflicted and ready to die from youth; suffered terrors—long duration deepens the trial.\n\nReformed pastoral: shared—afflicted from youth; terrors; helpless. Duration of pain is spoken inside faith."
+    },
+    {
+      "number": 16,
+      "text": "Your wrath has swept over me; your dreadful assaults destroy me.",
+      "arminianNotes": "Your wrath has swept over me; your dreadful assaults destroy me. Shared: sweeping wrath; destroying terrors.\n\nArminian pastoral: wrath-language is biblical honesty. Destruction felt is brought to the destroyer's ear as plea.",
+      "reformedNotes": "Calvin: wraths passed over; terrors cut off—flood language continued; severity named to the God still addressed.\n\nReformed pastoral: shared—wrath swept; assaults destroy. Keep speaking to the You of v. 1."
+    },
+    {
+      "number": 17,
+      "text": "They surround me like a flood all day long; they close in on me together.",
+      "arminianNotes": "They surround me like a flood all day long; they close in on me together. Wesley: Water—as the sea encompasses one in its midst. Shared: all-day flood enclosure.\n\nArminian pastoral: surrounded is not the same as abandoned by the God of salvation. Cry from the middle of the waters.",
+      "reformedNotes": "Calvin: daily encompassed like waters; surrounded together—totalizing pressure of terrors.\n\nReformed pastoral: shared—flood all day; close in together. Enclosure intensifies prayer rather than ending it."
+    },
+    {
+      "number": 18,
+      "text": "You have caused my beloved and my friend to shun me; my companions have become darkness.",
+      "arminianNotes": "You have caused my beloved and my friend to shun me; my companions have become darkness. Shared close: beloved and friend far; darkness as companion—no sunny resolution verse.\n\nArminian pastoral: the psalm ends in darkness without canceling v. 1. Sit with sufferers here; do not force a tidy bow the text refuses.",
+      "reformedNotes": "Calvin: lover and friend put far; acquaintance into darkness—the form of prayer has taught endurance to the end of the complaint; God remains the one who put and who can restore.\n\nReformed pastoral: shared—beloved and friend shun; companions darkness. Fair pastoral care refuses to invent a missing verse of ease; it holds salvation's God with the unfinished night."
+    }
+  ]
+}

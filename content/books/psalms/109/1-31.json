@@ -1,0 +1,223 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 109,
+  "verseStart": 1,
+  "verseEnd": 31,
+  "translation": "ESV",
+  "title": "Psalm 109:1–31",
+  "context": "To the choirmaster. A Psalm of David. An imprecatory lament: the psalmist begs the God of his praise not to be silent while deceitful mouths and causeless hate repay his love with accusation; he gives himself to prayer, then pleads for judicial reciprocity against a cruel accuser—guilt in trial, short days, lost office, cascading household ruin—because the enemy would not show kindness and loved to curse; he turns to ask God to deal for His name’s sake and good steadfast love, confesses poverty and scorn, cries for help that enemies may know it is the LORD’s hand, and ends in thanks, for God stands at the right hand of the needy to save him from those who condemn his soul to death.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on prayer instead of revenge, imprecation under the Spirit without carnal spite, mercy for the name’s sake, and God at the needy one’s right hand—so each camp speaks in its own voice beside Psalm 109:1–31.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named. Both camps take imprecatory speech seriously.",
+    "arminian": [
+      {
+        "quote": "God—the author and matter of all my praises. Adversaries—they requite my love with enmity. A wicked man—who will rule him with rigour and cruelty. Satan—to accuse him; for this was the place and posture of accusers in the Jewish courts. Sin—because it is not from his heart. Delighted not—in desiring and promoting the welfare of others. Garment—which a man wears constantly. That speak evil against my soul—with design to take away my life. Is good—above the mercy of all the creatures. The psalmist flees to prayer, asks just judgment on the merciless, and casts deliverance on the goodness of God’s mercy for His name’s sake.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 109)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "O God of my praise—David entrusts to God the vindication of his innocence when calumny is rampant; be not silent. On account of my love they opposed me; but I gave myself to prayer, not rendering evil for evil. When he forms maledictions he is not instigated by immoderate carnal propensity, nor by zeal without knowledge, nor by private personal considerations; he breathes under the Holy Spirit as God’s messenger. Yet leave room for grace—today’s enemy may become a friend—while the finally cruel deserve just judgment. Undertake for me for thy name’s sake; deliver because thy mercy is good—not for merit. He stands at the right hand of the poor to deliver his soul from those who condemn him to death.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 109)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Be not silent, O God of my praise!",
+      "arminianNotes": "Be not silent, O God of my praise. Wesley: God—the author and matter of all my praises. Silence from God would leave the calumniated without a vindicator.\n\nArminian pastoral: both camps take the cry seriously. The psalmist asks the God he praises to speak. Imprecation later sits inside this appeal to the God of praise—not outside mercy’s frame.",
+      "reformedNotes": "Calvin: O God of my praise—David entrusts to God the vindication of his innocence when calumny is rampant. Be not silent: when the wicked asperse, it would be improper for the witness of innocence to remain silent. He represents Christ and the church under unjust hatred.\n\nReformed accent: shared—appeal to God alone as defender. The imprecatory psalm begins with praise’s God, not with private spite."
+    },
+    {
+      "number": 2,
+      "text": "For wicked and deceitful mouths are opened against me, speaking against me with lying tongues.",
+      "arminianNotes": "Wicked and deceitful mouths opened; lying tongues. The assault is verbal poison—fraud dressed as charge.\n\nArminian hearing: shared lament—lies wound. The righteous may be falsely accused; the answer is still prayer to God, not matching deceit.",
+      "reformedNotes": "Calvin: the mouth of the wicked and of deceit are opened; false tongues surround him so that the ignorant may think the charge plausible.\n\nReformed pastoral: Satan heaps calumny to tarnish the godly. Shared—take lying tongues as real warfare; flee to God, not to counter-lies."
+    },
+    {
+      "number": 3,
+      "text": "They encircle me with words of hate, and attack me without cause.",
+      "arminianNotes": "Words of hate encircle; attack without cause. Wesley’s frame: love repaid with enmity.\n\nArminian pastoral: causeless hatred is named honestly. Both camps refuse to excuse the attackers or to pretend the hurt is unreal.",
+      "reformedNotes": "Calvin: encompassed with words of hatred, fought without cause—harder to endure than a great army. What was prefigured in David is fulfilled in Christ; believers fill up what remains of His afflictions.\n\nReformed accent: shared suffering with Christ under causeless hate. The church is not surprised by verbal siege."
+    },
+    {
+      "number": 4,
+      "text": "In return for my love they accuse me, but I give myself to prayer.",
+      "arminianNotes": "In return for love they accuse; but I give myself to prayer. Wesley: Adversaries—they requite my love with enmity.\n\nArminian pastoral: love met by accusation, answered by prayer. Shared—both camps honor prayer instead of revenge as the first move. Classical Arminians hear a real choice to pray when accused; grace enables, the will still turns to God.",
+      "reformedNotes": "Calvin: on account of my love they opposed me; but I gave myself to prayer—not rendering evil for evil, but committing himself into God’s hand. The Spirit restrains so that the godly betake themselves by prayer to God alone.\n\nReformed accent: prayer is the Spirit’s restraint from revenge. Shared—love repaid with hate is answered at God’s tribunal.",
+      "keyContrast": "Both refuse revenge as the first answer to false accusation and both honor prayer. Arminians typically stress the living turn to prayer when love is repaid with hate. Reformed readers typically stress Calvin’s point that the Spirit restrains the godly so they commit the case to God rather than seize fraudulent means."
+    },
+    {
+      "number": 5,
+      "text": "So they reward me evil for good, and hatred for my love.",
+      "arminianNotes": "Evil for good; hatred for love. The moral inversion is complete—good answered by evil.\n\nArminian pastoral: shared outrage at injustice. The psalm will ask for judicial answer; it does not deny the goodness that was shown.",
+      "reformedNotes": "Calvin: they rendered evil for good and hatred for love. Kindness to enemies makes their hate the more unnatural; Satan’s captivity of hearts is awful.\n\nReformed pastoral: shared—document the wrong before God. The record of good for evil prepares the later appeal for just reward."
+    },
+    {
+      "number": 6,
+      "text": "Appoint a wicked man against him; let an accuser stand at his right hand.",
+      "arminianNotes": "Appoint a wicked man against him; let an accuser stand at his right hand. Wesley: A wicked man—who will rule him with rigour; Satan—to accuse him, as accusers stood in Jewish courts.\n\nArminian pastoral: imprecation begins—read as plea for judicial reciprocity under God, not as a license for personal vendetta. Classical Arminians take the ask seriously: the accuser should meet an accuser, while believers do not turn the psalm into a charm of hate.",
+      "reformedNotes": "Calvin: set a wicked person over him; let the adversary stand at his right hand. David is not driven by carnal spite, selfish interest, or zeal without knowledge; he speaks as God’s messenger under the Spirit. Believers must leave room for grace—today’s enemy may become tomorrow’s friend—yet the finally cruel deserve just judgment.\n\nReformed accent: weigh the three guards Calvin names. Imprecation is serious; it is neither rented cursing nor a shrug that God never judges.",
+      "keyContrast": "Both take the imprecation as serious appeal for just judgment, not as private spite. Arminians typically stress Wesley’s court imagery—rigorous reckoning for the cruel accuser—while refusing to live by curse. Reformed readers typically stress Calvin’s guards: not selfish revenge, not carnal zeal, yet real punishment for the obstinately cruel, with room left for God’s grace to convert."
+    },
+    {
+      "number": 7,
+      "text": "When he is tried, let him come forth guilty; let his prayer be counted as sin!",
+      "arminianNotes": "When tried, let him come forth guilty; let his prayer be counted as sin. Wesley: Sin—because it is not from his heart.\n\nArminian hearing: empty prayer from an unrepentant mouth does not avail. Shared—both camps know God is not mocked by religious words covering cruelty.",
+      "reformedNotes": "Calvin: when judged, let him depart guilty; let his prayer be turned into sin—either before earthly judges who disregard sham pleas, or before God to whom the wicked’s sacrifices are abomination.\n\nReformed accent: hypocritical prayer aggravates guilt. Shared refusal to treat pious talk as cover for oppression."
+    },
+    {
+      "number": 8,
+      "text": "May his days be few; may another take his office!",
+      "arminianNotes": "May his days be few; may another take his office. Cited in Acts 1:20 of Judas.\n\nArminian pastoral: shared—office can be stripped; life is not a blank check for the cruel. Acts reads this line of the betrayer. Both camps receive the apostle’s use.",
+      "reformedNotes": "Calvin: brevity of days as mark of disapprobation; another receives his office. Peter applies this to Judas (Acts 1:20). Temporary evils may touch the godly too, yet God sometimes displays marked judgment on the ungodly.\n\nReformed pastoral: shared apostolic reading toward Judas. The line comforts the church that lofty office without piety will fall."
+    },
+    {
+      "number": 9,
+      "text": "May his children be fatherless and his wife a widow!",
+      "arminianNotes": "May his children be fatherless and his wife a widow. Heavy words—consequences cascading through a household.\n\nArminian pastoral: both camps feel the weight. The psalm targets a persecutor whose cruelty deserves covenant sanctions, not a call for believers to harm families. Classical Arminians stress that such pleas are surrendered to God’s justice, not executed by private hands.",
+      "reformedNotes": "Calvin: the malediction extends to wife and children, depending on the brevity of life already named; Scripture sometimes visits iniquity across generations while never licensing personal cruelty.\n\nReformed accent: leave the severity with God the Judge. Do not soften the text into sentiment, and do not weaponize it for spite."
+    },
+    {
+      "number": 10,
+      "text": "May his children wander about and beg, seeking food far from the ruins they inhabit!",
+      "arminianNotes": "Children wander and beg from ruins. Wesley: Desolate places—into which they fled for fear and shame.\n\nArminian hearing: the picture is desolation after judgment. Shared gravity—poverty here is judicial outcome in the psalm’s plea, not a program for the church to inflict.",
+      "reformedNotes": "Calvin: children wander without settled habitation, beggars seeking food from waste places. The severity matches the magnitude of guilt against the poor and brokenhearted named later.\n\nReformed pastoral: shared—read the cascade as prophetic justice language, then practice mercy toward actual orphans you meet."
+    },
+    {
+      "number": 11,
+      "text": "May the creditor seize all that he has; may strangers plunder the fruits of his toil!",
+      "arminianNotes": "Creditor seize all; strangers plunder his toil. Wesley: Catch—ensnare, by oppression and cunning; stranger—no right to his goods.\n\nArminian pastoral: wealth got or kept in cruelty is not safe. Shared—economic undoing is part of the pleaded judgment.",
+      "reformedNotes": "Calvin: the extortioner seizes all; strangers spoil his labor—poverty overtakes children of one who amassed by wrong.\n\nReformed accent: God can strip unrighteous gain. Shared warning to oppressors who trust their estate."
+    },
+    {
+      "number": 12,
+      "text": "Let there be none to extend kindness to him, nor any to pity his fatherless children!",
+      "arminianNotes": "None to extend kindness; none to pity his fatherless children.\n\nArminian pastoral: the plea asks that the merciless find no mercy—measure for measure. Both camps teach Christians to show kindness widely; this verse is judicial speech about a particular cruel man, not a blank ethic of hardness.",
+      "reformedNotes": "Calvin: none prolonging mercy to him or pitying his fatherless—those who were unmerciful justly find hard hearts around them (cf. Deut). David speaks as God’s messenger, not from private anguish alone.\n\nReformed accent: hardening of others’ pity can be judgment. Shared—do not confuse this plea with a command to withhold mercy from the needy you can help."
+    },
+    {
+      "number": 13,
+      "text": "May his posterity be cut off; may his name be blotted out in the second generation!",
+      "arminianNotes": "Posterity cut off; name blotted in the second generation.\n\nArminian hearing: extinction of the name is ultimate earthly judgment. Both camps take the severity seriously—neither soft on evil nor eager for blood.",
+      "reformedNotes": "Calvin: posterity cut off; name effaced in the next generation—ruin so complete that the house does not rise again. Heavier than brief affliction.\n\nReformed pastoral: tremble at severity; improve it as reverence, not as a script for personal feuds."
+    },
+    {
+      "number": 14,
+      "text": "May the iniquity of his fathers be remembered before the LORD, and let not the sin of his mother be blotted out!",
+      "arminianNotes": "Iniquity of fathers remembered; mother’s sin not blotted out.\n\nArminian pastoral: generational language is biblical and weighty. Personal responsibility (Ezek 18) stands together with corporate patterns of sin. Both camps confess God just.",
+      "reformedNotes": "Calvin: remember the iniquity of fathers and mothers so condemnation is complete—punishing to the third and fourth while mercy runs to a thousand for those who love Him. God prepares vessels; we must not measure His secret judgments by finite minds.\n\nReformed accent: severity that fills with fear. Shared—God is just; sons are not punished as innocent props of a parent’s crime when they themselves walk the same path."
+    },
+    {
+      "number": 15,
+      "text": "Let them be before the LORD continually, that he may cut off the memory of them from the earth!",
+      "arminianNotes": "Let them be before the LORD continually; cut off their memory from the earth.\n\nArminian pastoral: memory cut off is the opposite of the righteous remembrance in Psalm 112. Shared—God’s court keeps the record until judgment lands.",
+      "reformedNotes": "Calvin: let sins stay before Jehovah continually; cut off their memorial from the earth. Vengeance made manifest so the world acquiesces in God’s equity.\n\nReformed pastoral: shared desire that justice be public enough to teach the earth, not merely private satisfaction."
+    },
+    {
+      "number": 16,
+      "text": "For he did not remember to show kindness, but pursued the poor and needy and the brokenhearted, to put them to death.",
+      "arminianNotes": "For he did not remember kindness, but pursued the poor, needy, and brokenhearted to put them to death. The reason clause—cruelty toward the helpless.\n\nArminian pastoral: both camps agree this grounds the imprecations. Hate of the brokenhearted is not a small fault. Neither tradition is indifferent to the poor.",
+      "reformedNotes": "Calvin: he forgot to show mercy; persecuted the afflicted and poor and sorrowful in heart to slay him. Cruelty against the helpless is cowardly; the Spirit denounces heavy punishment for it.\n\nReformed accent: pray for all who trouble you, desire salvation of all, yet freely appeal for God to cut off the finally impenitent. Shared—protect the poor; do not romanticize the oppressor."
+    },
+    {
+      "number": 17,
+      "text": "He loved to curse; let curses come upon him! He did not delight in blessing; may it be far from him!",
+      "arminianNotes": "He loved to curse; let curses come upon him! He did not delight in blessing; may it be far. Wesley: Delighted not—in desiring and promoting others’ welfare.\n\nArminian hearing: what he loved returns. Shared—cursing as habit invites curse; blessing refused is far from him.",
+      "reformedNotes": "Calvin: as he loved cursing, let it come; as he did not delight in blessing, let it be far. Machinations recoil on the head that loved mischief.\n\nReformed pastoral: shared—love of curse summons its own harvest under God."
+    },
+    {
+      "number": 18,
+      "text": "He clothed himself with cursing as his coat; may it soak into his body like water, like oil into his bones!",
+      "arminianNotes": "Clothed with cursing as a coat; soak like water and oil into bones. Wesley: Garment—worn constantly; water in the belly—near death; oil in bones—destroys.\n\nArminian pastoral: curse as clothing becomes inward poison. Shared vividness—do not sanitize the imagery or use it as a spell.",
+      "reformedNotes": "Calvin: clothed with cursing as a garment; let it come as water into bowels and oil into bones—cleaving, enveloping, penetrating.\n\nReformed accent: the wicked man’s chosen coat becomes his judgment. Shared—read as prophetic justice, practice blessing with your own tongue."
+    },
+    {
+      "number": 19,
+      "text": "May it be like a garment that he wraps around him, like a belt that he puts on every day!",
+      "arminianNotes": "Like a garment he wraps; like a belt every day.\n\nArminian hearing: daily, habitual curse-identity. Shared—sin worn as uniform is not a moment’s slip.",
+      "reformedNotes": "Calvin: mantle and girdle continually—cursing as constant dress.\n\nReformed pastoral: habit deepens judgment. Shared warning against making malice one’s everyday belt."
+    },
+    {
+      "number": 20,
+      "text": "May this be the reward of my accusers from the LORD, of those who speak evil against my life!",
+      "arminianNotes": "May this be the reward of my accusers from the LORD, of those who speak evil against my life. Wesley: That speak evil against my soul—with design to take away my life.\n\nArminian pastoral: the reward is from the LORD—not from the psalmist’s knife. Shared handover of vengeance to God (cf. Rom 12). God does pay wages of sin; discernment still guards against rash personal malice.",
+      "reformedNotes": "Calvin: let this be the work/reward from Jehovah of those hostile to me. David did not utter curses unadvisedly but as the Spirit dictated; he depends on God alone when the world frowns.\n\nReformed accent: reward from the LORD. Shared—accusers who seek a life are left to God’s payday.",
+      "keyContrast": "Both locate the reward with the LORD, not with private retaliation. Arminians typically stress handing the case to God’s justice while refusing to live by curse. Reformed readers typically stress Spirit-guided imprecation against the reprobate persecutor, still warning against rash personal malice."
+    },
+    {
+      "number": 21,
+      "text": "But you, O GOD my Lord, deal on my behalf for your name’s sake; because your steadfast love is good, deliver me!",
+      "arminianNotes": "But you, O GOD my Lord, deal on my behalf for your name’s sake; because your steadfast love is good, deliver me. Wesley: Is good—above the mercy of all the creatures.\n\nArminian pastoral: the turn of the psalm—from imprecation to plea on the name and hesed. Shared center: deliverance for God’s name and because mercy is good, not because the speaker is flawless.",
+      "reformedNotes": "Calvin: undertake for me for thy name’s sake; deliver because thy mercy is good. David does not plead merit; free grace and mercy are the ground. Even Christ’s human nature depended on the Father’s good pleasure; how much more we.\n\nReformed accent: name and mercy, not desert. Shared gospel logic inside an imprecatory psalm."
+    },
+    {
+      "number": 22,
+      "text": "For I am poor and needy, and my heart is stricken within me.",
+      "arminianNotes": "Poor and needy; heart stricken within.\n\nArminian pastoral: honesty about weakness. Shared—poverty of spirit and stricken heart are the posture that seeks deliverance.",
+      "reformedNotes": "Calvin: poor and needy; heart wounded within. Outward affliction without humility is useless; God is physician to those who send up sighs, not to the hardened.\n\nReformed pastoral: shared—publish your poverty before God; do not hide the stricken heart."
+    },
+    {
+      "number": 23,
+      "text": "I am gone like a shadow at evening; I am shaken off like a locust.",
+      "arminianNotes": "Gone like a shadow at evening; shaken off like a locust.\n\nArminian hearing: frailty confessed. Shared—life feels brief and driven; that drives prayer, not despair alone.",
+      "reformedNotes": "Calvin: like a shadow when it declines; tossed as the locust—no settled place, incessant persecution.\n\nReformed accent: the church’s unsettled path under trial. Shared comfort that God knows the shadow’s length."
+    },
+    {
+      "number": 24,
+      "text": "My knees are weak through fasting; my body has become gaunt, with no fat.",
+      "arminianNotes": "Knees weak through fasting; body gaunt.\n\nArminian pastoral: embodied grief and discipline. Shared—fasting and gauntness can mark earnest plea, not theatrical holiness.",
+      "reformedNotes": "Calvin: knees feeble through fasting; flesh fails of fatness—sorrow and abstinence, or want in flight.\n\nReformed pastoral: shared realism about the body’s share in lament."
+    },
+    {
+      "number": 25,
+      "text": "I am an object of scorn to my accusers; when they see me, they wag their heads.",
+      "arminianNotes": "Object of scorn; they wag their heads.\n\nArminian hearing: public shame. Shared link to other passion psalms—scorn does not prove God has abandoned the cause.",
+      "reformedNotes": "Calvin: became a reproach; they shake the head—insolence toward the afflicted and toward faith itself.\n\nReformed accent: scorn as temptation; hold the warnings of the law without concluding you are cast off forever."
+    },
+    {
+      "number": 26,
+      "text": "Help me, O LORD my God! Save me according to your steadfast love!",
+      "arminianNotes": "Help me, O LORD my God! Save me according to your steadfast love!\n\nArminian pastoral: bare cry—help and save by hesed. Shared—steadfast love is the measure of salvation asked.",
+      "reformedNotes": "Calvin: help me; save according to thy mercy—repeat the prayer under delay and slander. Desire deliverance that manifests God’s glory, not mere self-safety.\n\nReformed accent: mercy as the rule of help. Shared insistence that God’s hand be seen."
+    },
+    {
+      "number": 27,
+      "text": "Let them know that this is your hand; you, O LORD, have done it!",
+      "arminianNotes": "Let them know this is your hand; you, O LORD, have done it!\n\nArminian pastoral: public theodicy—enemies must recognize God’s act. Shared—salvation that silences boast in human rescue.",
+      "reformedNotes": "Calvin: they shall know this is thy hand—special display so the ungodly cannot open their mouths. Point to God’s hand only if your own mind has recognized it.\n\nReformed pastoral: shared—glory of God in deliverance outranks private relief alone."
+    },
+    {
+      "number": 28,
+      "text": "Let them curse, but you will bless! They arise and are put to shame, but your servant will be glad!",
+      "arminianNotes": "Let them curse, but you will bless! They arise and are put to shame; your servant will be glad.\n\nArminian pastoral: curse versus blessing—God’s blessing outweighs human curse. Shared confidence for the servant who stays under mercy.",
+      "reformedNotes": "Calvin: they shall curse, but thou shalt bless; when they arise they shall be ashamed; thy servant shall rejoice. Relying on grace, David sets their malice at nought.\n\nReformed accent: blessing from God nullifies curse from men. Shared joy of the servant under that blessing."
+    },
+    {
+      "number": 29,
+      "text": "May my accusers be clothed with dishonor; may they be wrapped in their own shame as in a cloak!",
+      "arminianNotes": "Accusers clothed with dishonor; wrapped in their own shame as a cloak.\n\nArminian hearing: shame as garment mirrors the curse-coat of v. 18. Shared poetic justice—dishonor fits those who sought another’s death.",
+      "reformedNotes": "Calvin: adversaries clothed with shame and covered with confusion as a garment.\n\nReformed pastoral: shared—look beyond present lofty airs of the ungodly to the shame God will wrap them in."
+    },
+    {
+      "number": 30,
+      "text": "With my mouth I will give great thanks to the LORD; I will praise him in the midst of the throng.",
+      "arminianNotes": "Great thanks with my mouth; praise in the midst of the throng.\n\nArminian pastoral: vowed public praise after deliverance. Shared—thanksgiving belongs in the assembly, not only in private relief.",
+      "reformedNotes": "Calvin: praise Jehovah greatly with the mouth in the assembly of the great/many—public acknowledgment from the heart’s bottom.\n\nReformed accent: tongue united with heart for mutual edification. Shared return of praise to the throng."
+    },
+    {
+      "number": 31,
+      "text": "For he stands at the right hand of the needy one, to save him from those who condemn his soul to death.",
+      "arminianNotes": "For he stands at the right hand of the needy one, to save him from those who condemn his soul to death.\n\nArminian pastoral: climax—God at the needy’s right hand (contrast the accuser at the wicked’s right hand in v. 6). Shared gospel shape: the needy are saved from soul-condemners. Both camps end in comfort for the poor in spirit, not in celebration of cruelty.",
+      "reformedNotes": "Calvin: God stands at the right hand of the poor to deliver his soul from condemnations—present even when He seemed far. Judges of his life were formidable; God still saved.\n\nReformed comfort: the needy one’s advocate is God Himself. Shared—imprecation’s end is salvation of the condemned innocent, not a hobby of hate.",
+      "keyContrast": "Both end with God at the needy one’s right hand to save from death-dealing condemnation—the structural answer to the accuser at the wicked’s right hand (v. 6). Arminians typically stress the open comfort for every needy one who cries to this God of praise and mercy. Reformed readers typically stress God’s sure defense of His afflicted poor against condemning powers, the same God who justly answers the finally cruel."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 2,
+  "verseStart": 5,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Hebrews 2:5–9",
+  "context": "The world to come is subjected not to angels but to the Son of Man: Psalm 8’s royal human vocation, not yet seen fully under our feet, is already seen in Jesus—made lower than angels for a little while, crowned through death’s suffering, tasting death for everyone by God’s grace.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Psalm 8, Jesus crowned through death, and tasting death for everyone—so each camp speaks in its own voice beside Hebrews 2:5–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "God hath not subjected the world to come—that is, the dispensation of the Messiah—to angels. In this last great dispensation the Son alone presides. What is man—these words concerning dominion were in some sense applicable to Adam; in their complete and highest sense they belong to none but the second Adam. Thou hast made him a little lower than the angels—also applicable to the Son of God. Now this putting all things under him is not done now with regard to man in general. It is done only with regard to Jesus, God-Man, who is now crowned with glory and honour as a reward for his having suffered death. That by the grace of God he might taste death—an expression denoting both the reality of his death and the shortness of its continuance—for every man that ever was or will be born into the world.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 2:5–9)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He again proves that Christ ought to be obeyed; for the Father has conferred on him the sovereignty of the whole world, while the angels are wholly destitute of such an honor. Man was put in possession of the world, but by his defection he deserved the loss of his dominion. God’s bounty belongs not to us until the right lost in Adam be restored by Christ. The dominion mentioned in the Psalm was lost in Adam and must again be restored as a donation; the restoration begins with Christ as the head. The world to come is the renovated world that began at Christ’s kingdom. Though universal subjection does not as yet appear, let us be satisfied that he has passed through death and been exalted to the highest honor; that which is wanting will in its time be completed. By saying for every man, he means that Christ died for us, and that by taking upon him what was due to us he redeemed us from the curse of death. This was done through the grace of God—the infinite love of God who spared not his own Son.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 2:5–9)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 5,
+      "text": "For it was not to angels that God subjected the world to come, of which we are speaking.",
+      "arminianNotes": "Wesley: the world to come—the Messiah’s dispensation—is not subjected to angels. In this last great dispensation the Son alone presides. The greater the salvation and the more glorious the Lord despised, the greater the punishment (linking to 2:1–4).\n\nShared: angelic mediators do not rule the coming world. The Son’s presidency underwrites the warning already given.",
+      "reformedNotes": "Calvin: the Father conferred on Christ sovereignty of the whole world; angels lack that honor. None of the angels should stand in the way of his preeminence who alone possesses supremacy.\n\nReformed accent: the King who governs is the subjected world’s Lord. Obedience to Christ follows from his conferred rule."
+    },
+    {
+      "number": 6,
+      "text": "It has been testified somewhere, “What is man, that you are mindful of him, or the son of man, that you care for him?",
+      "arminianNotes": "Wesley: words concerning dominion were in some sense applicable to Adam; in their complete and highest sense they belong to none but the second Adam. To visit denotes the care of a present God.\n\nShared anthropology/christology: Psalm 8 rises from frail man to the Son of Man.",
+      "reformedNotes": "Calvin: David speaks of mankind’s dignity; yet the words apply to Christ’s person. Man lost dominion in Adam; restoration begins with Christ the head. “One” names the psalmist with honor, not contempt.\n\nReformed accent: lost right in Adam, restored donation in Christ—Psalm 8’s “man” is fulfilled in the Head first."
+    },
+    {
+      "number": 7,
+      "text": "You made him for a little while lower than the angels; you have crowned him with glory and honor,",
+      "arminianNotes": "Wesley: made a little lower than the angels—true of Adam as created, and in a farther sense of the Son. Apostles cite the LXX; it was not their business, writing to Jews who esteemed it, to amend that translation into endless disputes.\n\nShared: humiliation beneath angels is real in the incarnation path. Glory and honor crown the same one lowered.",
+      "reformedNotes": "Calvin: the apostle does not overthrow David’s meaning but bids us consider Christ’s brief abasement and the glory with which he is perpetually crowned—more by allusion than by exact lexical transfer.\n\nReformed accent: humiliation and crown belong to Jesus; the King passed through lowliness into honor."
+    },
+    {
+      "number": 8,
+      "text": "putting everything in subjection under his feet.” Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in subjection to him.",
+      "arminianNotes": "Wesley: putting all things under him implies nothing left out; yet this is not done now regarding man in general.\n\nShared already/not-yet: universal subjection is promised; present experience still waits. The gap drives the eye to Jesus in v. 9.",
+      "reformedNotes": "Calvin: after laying down Christ’s universal dominion, he objects that all things do not yet obey; he answers that we already see glory and honor completed in Christ, and what is wanting will be completed in time. Christ wills that enemies not be subdued till the last day so that we may be tried.\n\nReformed accent: the King who governs delays final subjection for the church’s testing—not from weakness."
+    },
+    {
+      "number": 9,
+      "text": "But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone.",
+      "arminianNotes": "Wesley: we see Jesus crowned with glory and honour as reward for suffering death—made lower than angels who cannot suffer or die. Taste death—reality and shortness of continuance—for every man that ever was or will be born.\n\nArminian accent: “for everyone” / every man is heard extensively—Christ tasted death for all humankind. Grace of God is the fountain; universal sufficiency meets a gospel that must still be believed. Shared: Jesus, not abstract humanity, is what we see crowned.",
+      "reformedNotes": "Calvin: by saying for every man he means Christ died for us, taking what was due to us, redeeming us from death’s curse—not a physician’s mere sip for show. Through the grace of God: redemption’s cause is the Father’s infinite love, sparing not his own Son. Though universal subjection is not yet seen, we see Jesus crowned.\n\nReformed accent: “everyone” is read in the scope of those he represents and redeems—particular love that actually removes the curse—while the verse’s grace is the Father’s. The King who governs crowns the crucified Jesus.",
+      "keyContrast": "Both see Jesus crowned through death by God’s grace. Arminians (Wesley) typically take “taste death for everyone” as for every human being ever born—universal provision that still calls for faith. Reformed readers (Calvin) typically take the phrase as Christ’s real substitution for those he redeems from death’s curse—effectual grace and definite saving intent—without denying the verse’s wide gospel proclamation."
+    }
+  ]
+}

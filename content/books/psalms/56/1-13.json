@@ -1,0 +1,114 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 56,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Psalm 56:1–13",
+  "context": "To the choirmaster: according to The Dove on Far-off Terebinths. A Miktam of David, when the Philistines seized him in Gath. Trampled all day, David confesses fear yet trusts, praises God’s word, asks that tears be kept in God’s bottle, knows God is for him, and vows thank offerings after deliverance to walk in the light of life.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on fear that still trusts, tears kept in God’s bottle, and praise of the word when flesh threatens—so each camp speaks in its own voice beside Psalm 56.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Will praise—I will praise the Lord for his word, for his promises of protection and deliverance, made to his people. Flesh—Infirm and mortal men, called flesh by way of contempt. Wanderings—How I have been hunted from place to place. Put—Regard and pity them. Are they not—But why do I pray to God to do that which he hath already done? Thy vows—I had made vows to express my gratitude, and resolve to perform them. Walk—That I may serve and glorify thee.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 56:4, 8, 12–13)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "In the day that I was afraid, I did put my trust in thee… He acknowledges his weakness, in so far as he was sensible of fear, but denies having yielded to it… Fear and hope may seem opposite… yet… the latter never comes into full sway unless there exists some measure of the former… Put thou my tears into thy bottle… if God bestows such honor upon the tears of his saints, he must number every drop of their blood which is shed… In God I will praise his word… satisfied… by reflecting on the truthfulness of his promises.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 56:3–4, 8)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Be gracious to me, O God, for man tramples on me; all day long an attacker oppresses me;",
+      "arminianNotes": "Be gracious; man tramples; attacker oppresses all day. Title: Philistines seized him in Gath—sheep between wolves. Wesley’s outline: complaint, mercy begged, help against enemies.\n\nArminian pastoral: grace is pleaded because oppression is real. The daily trampling does not cancel the ask; it deepens it.",
+      "reformedNotes": "Calvin: merciful—for man swallows me up; fighting daily oppresses. Indefinite man: whole world combined, no humanity among men, last necessity of divine help. Shaaph = swallow up—insatiable rage.\n\nReformed accent: wretchedness of numerous barbarous adversaries drives to mercy alone. Shared: all-day oppression, plea for grace."
+    },
+    {
+      "number": 2,
+      "text": "my enemies trample on me all day long, for many attack me proudly.",
+      "arminianNotes": "Enemies trample all day; many attack proudly. Pressure multiplies—proud many, not a single foe.\n\nArminian note: naming the proud attack keeps prayer concrete. Grace sustains under majority malice; the oppressed still look up.",
+      "reformedNotes": "Calvin: enemies daily swallow; many fight—O Most High. Mistake to read many fighting with me as angel-helpers here; the verse is complaint throughout.\n\nReformed pastoral: numbers against him magnify need of the Most High. Shared: proud trampling is confessed."
+    },
+    {
+      "number": 3,
+      "text": "When I am afraid, I put my trust in you.",
+      "arminianNotes": "When I am afraid, I put my trust in you. Fear and trust in one breath—not denial of fear.\n\nArminian reading: fear is real; trusting is the grace-enabled turn the believer must make in the day of fear. The verse trains a habit: when afraid → trust.",
+      "reformedNotes": "Calvin: acknowledges weakness—sensible of fear—yet denies having yielded. Dangers distress but do not surrender hope. True proof of faith: resist solicitations of natural fear. Fear and hope not incompatible; hope elevates under dejection.\n\nReformed accent: he feared and yet trusted. Shared: afraid, yet trust.",
+      "keyContrast": "Both hold fear and trust together. Arminians typically stress the grace-enabled turn the believer must make whenever fear rises; Reformed readers typically stress Calvin’s proof of faith—feeling fear yet not yielding, hope rising under dejection by God’s support."
+    },
+    {
+      "number": 4,
+      "text": "In God, whose word I praise, in God I trust; I shall not be afraid. What can flesh do to me?",
+      "arminianNotes": "Wesley: Will praise—praise the Lord for his word, promises of protection and deliverance. Flesh—infirm mortal men, called flesh by way of contempt (Ps 78:39; Isa 31:3). In God I trust; shall not be afraid.\n\nArminian hope: praising the word and refusing flesh-fear are lived responses. Promises are for a people who actually trust and praise.",
+      "reformedNotes": "Calvin: glory in God by praising his word—even if help seem withdrawn, rest on the naked promise. Despise threatenings; contest is between enemies and God. Men termed flesh to show madness of fighting above their strength. Triumph over apprehensions, not absolute absence of fear.\n\nReformed note: limiting God’s power rates the creature above the Creator. Shared: what can flesh do?",
+      "keyContrast": "Both praise God’s word and refuse flesh-fear. Arminians typically stress praising promises and trusting as lived responses God’s people take up; Reformed readers typically stress glorying in the naked word when sensible help is delayed—and refusing to rate man’s power above God’s."
+    },
+    {
+      "number": 5,
+      "text": "All day long they injure my cause; all their thoughts are against me for evil.",
+      "arminianNotes": "All day they injure my cause; thoughts against me for evil. Words twisted; counsel for harm.\n\nArminian pastoral: evil thought-life of enemies is brought to God. The righteous may suffer injured cause without surrendering trust (vv. 3–4).",
+      "reformedNotes": "Calvin: my words vex me / they wrest my words—double complaint: abortive plans and enemies’ united counsels for ruin. Faith overcomes anxiety it cannot wholly remove.\n\nReformed accent: lack of foresight confessed alongside malice of foes. Shared: all-day evil intent."
+    },
+    {
+      "number": 6,
+      "text": "They stir up strife, they lurk; they watch my steps, as they have waited for my life.",
+      "arminianNotes": "Wesley: They gather—after severally employing thoughts against me, meet to compare and execute. Hide—lurk to pry into private actions. Steps—find occasion to reproach. Soul—or life, to take it away. Stir strife; lurk; watch steps.\n\nArminian warning: coordinated ambush is named so vigilance and prayer stay awake. Life is the target; grace does not forbid prudent watchfulness.",
+      "reformedNotes": "Calvin: gather, hide, watch heels—subtile devices to surprise; pressed on every side; nothing would satisfy but his death.\n\nReformed pastoral: implacable hatred explains the pursuit. Shared: lurking watchers wait for life."
+    },
+    {
+      "number": 7,
+      "text": "For their crime will they escape? In wrath cast down the peoples, O God!",
+      "arminianNotes": "Wesley: Escape—shall they secure themselves by injurious and malicious practices? The people—mine enemies. In wrath cast down the peoples.\n\nArminian hearing: rhetorical challenge—crime must not buy escape. Prayer asks wrathful casting down, not private revenge plots.",
+      "reformedNotes": "Calvin: wicked think to escape in iniquity under license; God will cast them down. Plural peoples fortifies mind against fear of arrayed enemies—God’s prerogative to cast down not one nation only but the world.\n\nReformed accent: audacity under assumed immunity meets the anger of God. Shared: no escape by crime."
+    },
+    {
+      "number": 8,
+      "text": "You have kept count of my tossings; put my tears in your bottle. Are they not in your book?",
+      "arminianNotes": "Wesley: Wanderings—how hunted from place to place. Put—regard and pity them. Are they not—why pray God to do what he hath already done? Tossings counted; tears in bottle; book.\n\nArminian pastoral: tears matter to God—ask him to keep them, and trust they are already written. Prayer and assurance meet in one verse.",
+      "reformedNotes": "Calvin: abrupt prayer—consider tears; then declares they are written. Whole life one continued wandering. Put tears in bottle—keep as precious deposit. Faith in providence that numbers hairs (Matt 10:30); if tears honored, blood shed is not erased from God’s register.\n\nReformed comfort: God notices each affliction; otherwise we could not pray thus. Shared: bottle and book hold tears.",
+      "keyContrast": "Both treasure tears before God—bottle and book. Arminians typically hear Wesley’s put/regard alongside assurance God has already noted the wanderings; Reformed readers typically hear Calvin’s providence that records tears as a precious deposit and will not erase the cry of the afflicted."
+    },
+    {
+      "number": 9,
+      "text": "Then my enemies will turn back in the day when I call. This I know, that God is for me.",
+      "arminianNotes": "Then enemies turn back when I call. This I know: God is for me.\n\nArminian hope: calling is the hinge—enemies turn in the day of cry. Knowledge that God is for me steadies the next prayer.",
+      "reformedNotes": "Calvin: boasts victory confidently—specifies the moment of turning back. No sensible evidence but firm reliance on the promise; waits with patience. Does not pray hesitatingly; once at faith, sets devil and host at defiance.\n\nReformed accent: God never frustrates his children’s prayers. Shared: God is for me."
+    },
+    {
+      "number": 10,
+      "text": "In God, whose word I praise, in the LORD, whose word I praise,",
+      "arminianNotes": "In God / in the LORD—whose word I praise (doubled). Praise of the promise again under pressure.\n\nArminian reading: repeating praise of the word is deliberate practice. Gratitude for promises continues while circumstances still pinch.",
+      "reformedNotes": "Calvin: pronoun implied from parallel—repetition emphasizes: though God delay sensible favor and give only the word, glory in it undiminished. Honor the word when deprived of present experience—set seal that God is true.\n\nReformed note: never-failing praise from the naked promise amidst worst trials. Shared: word praised in God and LORD."
+    },
+    {
+      "number": 11,
+      "text": "in God I trust; I shall not be afraid. What can man do to me?",
+      "arminianNotes": "In God I trust; shall not be afraid. What can man do to me? Echo of v. 4 with man for flesh.\n\nArminian pastoral: trust renewed is not redundancy—fear returns, so trust must be taken up again. Man’s power is limited before the God you trust.",
+      "reformedNotes": "Calvin: repetition of hope—men agree God protects, yet distrust under slight temptation. Set God opposite assailants; view mightiest without dismay. Contest is with God when they shake our faith in promised help.\n\nReformed accent: do not measure God’s success by numbers against him. Shared: what can man do?"
+    },
+    {
+      "number": 12,
+      "text": "I must perform my vows to you, O God; I will render thank offerings to you.",
+      "arminianNotes": "Wesley: Thy vows—I had made vows to express gratitude, and resolve to perform them. Thank offerings to render.\n\nArminian hearing: vows of praise are debts of gratitude to keep. Deliverance expected or tasted binds the tongue to thank offerings actually brought.",
+      "reformedNotes": "Calvin: vows of God upon him—bound to pay; thanksgiving as after signal favor. Sacrifices of praise as outward symbols; God values design and spirit, yet David would not neglect Law’s solemn gratitude.\n\nReformed note: obligation contracted when prayers heard—not papist vowing, but promised thanks paid. Shared: perform vows, render thanks."
+    },
+    {
+      "number": 13,
+      "text": "For you have delivered my soul from death, yes, my feet from falling, that I may walk before God in the light of life.",
+      "arminianNotes": "Wesley: Walk—that I may serve and glorify thee. The light—in this life. Delivered soul from death; feet from falling; walk before God in light of life.\n\nArminian hope: rescue aims at walking—service and glory in the land of the living. Grace that delivers also calls for a life before God.",
+      "reformedNotes": "Calvin: life received from God’s hands; destruction inevitable but for miraculous preservation. Kept back when on eve of rushing headlong. Walk in light of the living = enjoy vital light; before God marks the righteous aiming at God versus wicked turning the back.\n\nReformed pastoral: retain recollection of the peril after escape; too ready to forget fears and goodness. Shared: delivered to walk before God."
+    }
+  ]
+}

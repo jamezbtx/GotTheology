@@ -1,0 +1,108 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 6,
+  "verseStart": 9,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Hebrews 6:9–20",
+  "context": "The thunder of the warning turns to pastoral assurance: beloved, better things that belong to salvation; earnestness unto full assurance of hope; God’s oath to Abraham securing the heirs of the promise; hope as a sure anchor entering behind the curtain where Jesus the forerunner has gone as high priest forever.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on better things that belong to salvation, God’s oath and immutable counsel, and hope as an anchor within the veil—so each camp speaks in its own voice beside Hebrews 6:9–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "But, beloved—in this one place he calls them so; he never uses this appellation but in exhorting. We are persuaded of you things that accompany salvation—we are persuaded you are now saved from your sins; and that ye have that faith, love, and holiness, which lead to final salvation. Though we thus speak—to warn you, lest you should fall from your present steadfastness. To the full assurance of hope—which you cannot expect, if you abate your diligence. The full assurance of faith relates to present pardon; the full assurance of hope, to future glory.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 6:9, 11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As the preceding sentences were like thunderbolts, it was needful to mitigate this severity. He testifies that he thus warned them because he had a good hope of them. We hence conclude that not only the reprobate ought to be reproved severely, but also the elect themselves. God, willing more abundantly to show unto the heirs of promise the immutability of his counsel, confirmed it by an oath—so that by two immutable things, in which it was impossible for God to lie, we might have strong consolation. Observe that what is testified in the Gospel is called the counsel of God, that none may doubt this truth proceeds from his inmost thoughts respecting our salvation.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 6:9, 17–18)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 9,
+      "text": "Though we speak in this way, yet in your case, beloved, we feel sure of better things—things that belong to salvation.",
+      "arminianNotes": "Beloved—Wesley notes he uses the name here in exhorting. Persuaded of better things that accompany salvation: now saved from sins, with faith, love, and holiness that lead to final salvation. The warning was spoken lest they fall from present steadfastness.\n\nArminian assurance: real hope for these hearers, not flattery. Better things are present grace that tends toward final salvation—and can still be neglected. The thunder was for their endurance, not a verdict that they are already reprobate.",
+      "reformedNotes": "Calvin: thunderbolts mitigated so encouragement is not crushed. He warned because he hoped well of them—and even the elect need sharp reproof. “Things that accompany salvation” mark a people God has not written off.\n\nReformed assurance: “we feel sure” is pastoral confidence grounded in evidences of grace, coherent with perseverance. The beloved are addressed as those in whom salvation’s companions appear; the warning remains a means God uses for their keeping.",
+      "keyContrast": "Both hear genuine pastoral confidence after a real warning. Wesley: persuaded they now have grace that leads to final salvation—yet warned lest they fall from steadfastness. Calvin: good hope of them as among those who should be reproved as elect; assurance sits with perseverance, not with uncertainty whether God will keep His own."
+    },
+    {
+      "number": 10,
+      "text": "For God is not unjust so as to overlook your work and the love that you have shown for his name in serving the saints, as you still do.",
+      "arminianNotes": "God will not forget their work and labor of love toward His name in serving the saints. Wesley: plain proof of faith and love, which the righteous God will surely reward. Continuance—“as you still do”—matters.\n\nArminian pastoral: love shown is evidence to encourage diligence, not a ladder that purchases election. Keep serving; the same God who notices love also warns against sloth.",
+      "reformedNotes": "Calvin refuses merit: God is not bound as a debtor to works. He forgets not their works because He recognizes Himself and the Spirit’s work in them—righteous as faithful to His free promise. Reward rests on gratuitous mercy, not a claim on God.\n\nReformed comfort: ministry to the saints is love toward the Lord’s name. Perseverance in service is fruit God began and will not overlook—evidence, not currency."
+    },
+    {
+      "number": 11,
+      "text": "And we desire each one of you to show the same earnestness to have the full assurance of hope until the end,",
+      "arminianNotes": "Same diligence unto the full assurance of hope until the end. Wesley: you cannot expect it if you abate your diligence. Full assurance of faith = present pardon; of hope = future glory—both given by the Spirit, not bare opinion, and none can have it for another.\n\nArminian call: assurance of hope is real and conditioned on earnestness unto the end. Neglect dilutes hope; diligence under grace pursues the full assurance the Spirit gives.",
+      "reformedNotes": "Calvin: love has been shown; faith must correspond with full, unwavering certainty before God. Hope here is near faith—true faith always connected with hope. Diligence is required because the goal is not yet reached.\n\nReformed accent: full assurance is settled persuasion that God who cannot lie has spoken. Earnestness is the path along which the Spirit confirms hope; sloth is incompatible with resting in the promise."
+    },
+    {
+      "number": 12,
+      "text": "so that you may not be sluggish, but imitators of those who through faith and patience inherit the promises.",
+      "arminianNotes": "Not sluggish, but imitators of those who through faith and patience inherit the promises. Wesley: the promised rest—paradise. Inheritance comes along the path of enduring faith.\n\nArminian note: sluggishness is the foil to hope’s assurance. The fathers inherited by persevering trust; hearers must copy that patience or risk the fall the warning named.",
+      "reformedNotes": "Calvin: to sloth he opposes imitation of the fathers—especially Abraham—as the clearest mirror of faith. Faith with patience as companion; promises obtained by faith and inheritance, which removes merit and centers adoption.\n\nReformed pastoral: inheriting is the right of adopted heirs. Faith that does not evaporate proves itself by endurance. The promise stands; sluggish hearers are summoned to the same persevering trust God wrought in the patriarchs."
+    },
+    {
+      "number": 13,
+      "text": "For when God made a promise to Abraham, since he had no one greater by whom to swear, he swore by himself,",
+      "arminianNotes": "God swore by Himself—no greater oath possible. Wesley: abundant encouragement; no stronger promise than that made to Abraham and in him to us.\n\nArminian encouragement: the oath shores up faith that must still wait and endure. God’s condescension invites trust; it does not cancel the call to patience.",
+      "reformedNotes": "Calvin: grace is offered in vain unless we receive the promise by faith and constantly cherish it. Abraham hoped against reason because he relied on God’s word; glory is given to God by waiting for what senses do not yet show.\n\nReformed note: the self-oath displays God’s will to confirm what He freely promised. Heirs are secured by God’s act, not by discovering a higher guarantor."
+    },
+    {
+      "number": 14,
+      "text": "saying, “Surely I will bless you and multiply you.”",
+      "arminianNotes": "Genesis 22:17 in brief: blessing and multiplying sure. The content of the oath is sheer gift.\n\nArminian hearing: take the “surely” seriously as ground for hope, and still walk Abraham’s path of patient faith toward what is promised.",
+      "reformedNotes": "The oath’s substance is God’s unilateral blessing. Calvin’s larger point stands: what God swears He performs; human inability does not nullify the word.\n\nReformed accent: multiplication of seed is God’s doing. Believers read their hope inside this sworn blessing fulfilled in Christ."
+    },
+    {
+      "number": 15,
+      "text": "And thus Abraham, having patiently waited, obtained the promise.",
+      "arminianNotes": "Wesley: after he had waited—thirty years—he obtained the promise, Isaac the pledge of all. Patience is not optional décor on faith.\n\nArminian pastoral: obtaining follows waiting. The heirs are encouraged to the same long obedience; assurance grows along endurance, not instead of it.",
+      "reformedNotes": "Calvin stresses the circumstance of time: Abraham waited for what no one thought would come. Patient expectation is how glory is given when God hides and defers.\n\nReformed comfort: the promise was obtained because God is true. Abraham’s wait is exemplar for heirs whose faith God sustains through delay."
+    },
+    {
+      "number": 16,
+      "text": "For people swear by something greater than themselves, and in all their disputes an oath is final for confirmation.",
+      "arminianNotes": "Human oaths end strife by appealing to the greater. Wesley: this shows a religious oath is lawful even under the gospel—otherwise the apostle would not honor it as confirming truth.\n\nArminian note: if man’s oath settles disputes, how much more should God’s self-oath settle the trembling conscience—and still summon holding fast.",
+      "reformedNotes": "Calvin: argument from less to greater. If credit is given to false man when he swears by God’s name, how much more to God who is eternal truth when He swears by Himself?\n\nReformed accent: the custom of oaths is treated as holy and still in use. God’s name carries decisive weight; His self-oath therefore buries doubt for the heirs."
+    },
+    {
+      "number": 17,
+      "text": "So when God desired to show more convincingly to the heirs of the promise the unchangeable character of his purpose, he guaranteed it with an oath,",
+      "arminianNotes": "Wesley: amazing condescension—God acts as if a middle person while He swears. Heirs of promise see the immutability of His counsel confirmed. “Thou that hearest the promise, dost thou not yet believe?”\n\nArminian fork: the oath abundantly encourages enduring faith. Immutable counsel steadies those who have fled for refuge—and still they may neglect the hope set before them. Assurance is strong encouragement, not a license to sloth.",
+      "reformedNotes": "Calvin: God accommodates our slowness; He adds an oath that we might know certainty of His goodwill and not waver. What the Gospel testifies is God’s counsel—His secret purpose respecting salvation before the world’s creation, now proclaimed.\n\nReformed fork: the unchangeable purpose and oath secure the heirs. God swore to render salvation certain. The elect’s hope rests on immutable counsel, not on the fragility of unaided human resolve.",
+      "keyContrast": "Both glory in God’s oath and unchangeable purpose. Wesley presses the condescension as strong consolation for hearers who must still believe and endure, lest they fall from steadfastness. Calvin presses the same oath as proof that God’s counsel toward the heirs is fixed from eternity and cannot fail."
+    },
+    {
+      "number": 18,
+      "text": "so that by two unchangeable things, in which it is impossible for God to lie, we who have fled for refuge might have strong encouragement to hold fast to the hope set before us.",
+      "arminianNotes": "Promise and oath—two unchangeable things; impossible for God to lie. Wesley: strong consolation swallowing doubt and fear; we who have fled after many storms lay hold on Christ and the glory hoped for through Him.\n\nArminian pastoral: fleeing for refuge and holding fast are real acts of faith. The encouragement is strong because God cannot lie—and it aims at holding fast, which can be refused. Hope is set before us to be grasped.",
+      "reformedNotes": "Calvin: God’s word is sure; the oath is overplus on a full measure. We do not truly trust until we forsake every other protection and flee to His sure promise as only safe asylum. Hope here is the promise apprehended by faith.\n\nReformed pastoral: strong consolation belongs to those who have fled. God meets us and sets hope before us; the impossibility of His lying underwrites the hold of the heirs He has sworn to save.",
+      "keyContrast": "Shared: two immutable things, God unable to lie, strong encouragement for refugees who hold the hope. Arminian stress: encouragement to hold fast—a hope that can still be neglected. Reformed stress: consolation resting on God’s unbreakable speech and oath to the heirs He secures."
+    },
+    {
+      "number": 19,
+      "text": "We have this as a sure and steadfast anchor of the soul, a hope that enters into the inner place behind the curtain,",
+      "arminianNotes": "Hope as anchor—sure and steadfast—entering within the veil. Wesley: hope in Christ enters heaven itself and is fixed there; thus he slides back to Christ’s priesthood.\n\nArminian and Reformed agree here on the Christology: the anchor holds because it hooks in the sanctuary where Jesus is. Pastoral difference stays mainly in how warning and assurance relate; on the forerunner’s entry they converge.",
+      "reformedNotes": "Calvin: faith leaning on God’s word is like an anchor in a storm-tossed sea; our hope rises upward to the invisible God. The anchor is safe and firm; it enters the holy place, so faith must not abide in what is seen but penetrate within the veil to Christ alone.\n\nReformed comfort: united to God by His truth, we are beyond shipwreck though storms continue. The soul’s certainty is located behind the curtain—where God has placed our hope."
+    },
+    {
+      "number": 20,
+      "text": "where Jesus has gone as a forerunner on our behalf, having become a high priest forever after the order of Melchizedek.",
+      "arminianNotes": "Wesley: a forerunner is usually less than those who follow—not so here; Christ gone before is infinitely superior. What an honor for believers to have so glorious a forerunner appearing in God’s presence for them.\n\nShared confession: Melchizedek priesthood and forerunner on our behalf. Both camps kneel here. The debates over falling away and perseverance do not split the high priest forever after Melchizedek’s order.",
+      "reformedNotes": "Calvin: as Christ entered heaven, faith must be directed there; He entered not for Himself only but for us, as the high priest bore the tribes within the veil. Access will not be closed against faith joined to Christ. He is our Forerunner—precursor who prepares and pledges our entrance.\n\nShared confession: Jesus, high priest forever after Melchizedek’s order, is the meeting place. Warning and assurance both drive the church to this Priest; on His finished entry Wesley and Calvin speak as one."
+    }
+  ]
+}

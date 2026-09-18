@@ -1,0 +1,96 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 75,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Psalm 75:1–10",
+  "context": "To the choirmaster: according to Do Not Destroy. A Psalm of Asaph. A Song. Thanksgiving because God’s name is near; God speaks of set-time judgment, steady pillars, and a rebuke to boastful horns; not east or west but God puts down and lifts up; the foaming cup waits for the wicked; Asaph will declare forever while horns of the wicked are cut off and the righteous lifted.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on thanks for a near name, set-time equity, the cup in the LORD’s hand, and horns cut off or lifted—so each camp speaks in its own voice beside Psalm 75.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Name—Thy self; God’s name is said to be near, when he doth shew forth his power on our behalf. Wondrous works—Which thou hast wrought for thy people. Receive—The government of the world, as the following verses shew. Congregation—Of the world, of all people. Pillars—The whole frame of the world. Lift not up—Do not speak or act insolently, against God, or against his people. Promotion—The advancement of any person. Comes neither from the east, nor from the west, nor from the south, where deserts were, which he mentions, because deserts were on the south of Canaan. Cup—Of vengeance. Red—Full of mixture, as the next clause explains it. Mixture—Of God’s wrath. Wicked—Of all those who provoke him. Dregs—The worst and most bitter part.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 75)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The faithful give thanks because God’s name is near—he is present to help… God himself declares that he will take the government into his own hand, and judge uprightly at the appointed time… When the earth and its inhabitants are dissolved, it is he who bears up the pillars… Promotion comes neither from the east nor from the west; it is God who putteth down one and setteth up another… In the hand of the Lord there is a cup… the wicked of the earth shall wring them out and drink them… The Psalmist will declare forever and sing praises to the God of Jacob, while all the horns of the wicked are cut off, and the horns of the righteous exalted.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 75)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "We give thanks to you, O God; we give thanks, for your name is near. We recount your wondrous deeds.",
+      "arminianNotes": "Wesley: Name—thy self; God’s name is near when he shows power on our behalf; Wondrous works wrought for his people. Double thanks meet a near name and recounted deeds.\n\nArminian pastoral: thanks and recounting are the congregation’s answerable praise. Grace that draws near still invites the telling; silence would waste the nearness.",
+      "reformedNotes": "Calvin: the faithful give thanks because God’s name is near—he is present to help. Wondrous deeds are remembered as God’s works, not self-made fortune.\n\nReformed accent: shared—nearness of the name grounds thanksgiving. Presence is gift before it is feeling."
+    },
+    {
+      "number": 2,
+      "text": "“At the set time that I appoint I will judge with equity.",
+      "arminianNotes": "Wesley: Receive—the government of the world, as following verses show. God speaks: set time, appointed judgment, equity.\n\nArminian hearing: equity is promised at God’s set time—not ours. Shared confession—judgment is real and timed; hearers must not seize the bench.",
+      "reformedNotes": "Calvin: God declares he will take government into his own hand and judge uprightly at the appointed time. Delay is not abdication; the set time belongs to him.\n\nReformed note: shared—equity is God’s. Impatience for vengeance is rebuked by the appointment."
+    },
+    {
+      "number": 3,
+      "text": "When the earth totters, and all its inhabitants, it is I who keep steady its pillars.” Selah",
+      "arminianNotes": "Wesley: Congregation—of the world; Pillars—the whole frame of the world. When earth and people reel, God steadies the pillars.\n\nArminian pastoral: social and cosmic totter do not cancel divine holding. Faith may still trust the One who keeps pillars steady while answering the call to uprightness.",
+      "reformedNotes": "Calvin: when earth and inhabitants are dissolved, it is he who bears up the pillars. Providence underwrites order; chaos is not final.\n\nReformed accent: shared—God alone steadies. Selah invites pause before the boast is rebuked."
+    },
+    {
+      "number": 4,
+      "text": "I say to the boastful, ‘Do not boast,’ and to the wicked, ‘Do not lift up your horn;",
+      "arminianNotes": "Wesley: Lift not up—do not speak or act insolently against God or his people. Boast and horn-lifting are forbidden speech and posture.\n\nArminian note: the command addresses the wicked as accountable agents. Grace warns; they must still drop the boast.",
+      "reformedNotes": "Calvin hears God silencing arrogant self-exaltation. Horns raised against heaven invite the later cutting-off.\n\nReformed pastoral: shared—do not boast is divine speech. Pride is not a private quirk; it is rebellion against the Judge of v. 2."
+    },
+    {
+      "number": 5,
+      "text": "do not lift up your horn on high, or speak with haughty neck.’”",
+      "arminianNotes": "Wesley continues the insolence theme: horn on high and stiff neck are the same pride in gesture and speech.\n\nArminian hearing: haughty neck can still bow. The warning is mercy before the cup of v. 8.",
+      "reformedNotes": "Calvin: repeated prohibition drives home that proud speech and elevated horn are under sentence. God will not share glory with the stiff-necked.\n\nReformed accent: shared—haughty neck is named to be stopped. Judgment’s set time answers arrogance."
+    },
+    {
+      "number": 6,
+      "text": "For not from the east or from the west and not from the wilderness comes lifting up,",
+      "arminianNotes": "Wesley: Promotion—advancement of any person—comes neither from east nor west nor south (deserts south of Canaan). Directions do not confer exaltation.\n\nArminian pastoral: career and power are not compass-gifts. Seekers of lifting-up must look past geography to God.",
+      "reformedNotes": "Calvin: promotion comes neither from east nor west; human quarters cannot manufacture true exaltation.\n\nReformed note: shared—lifting-up is not climate or chance. The next verse names the source."
+    },
+    {
+      "number": 7,
+      "text": "but it is God who executes judgment, putting down one and lifting up another.",
+      "arminianNotes": "Wesley’s line: God putteth down one and setteth up another. Judgment is personal divine action.\n\nArminian reading: put-down and lift-up are God’s equity at work. Shared—neither camp credits blind fate; both warn against self-made thrones.",
+      "reformedNotes": "Calvin: it is God who putteth down one and setteth up another. Providence rules preferment; boasting is theft of that glory.\n\nReformed accent: shared—execution of judgment is God’s. Humility before swapping seats.",
+      "keyContrast": "Both confess God alone puts down and lifts up. Arminians typically stress accountable response to that governance; Reformed readers typically stress sovereign disposal of ranks that leaves no room for self-promotion."
+    },
+    {
+      "number": 8,
+      "text": "For in the hand of the LORD there is a cup with foaming wine, well mixed, and he pours out from it, and all the wicked of the earth shall drain it down to the dregs.",
+      "arminianNotes": "Wesley: Cup—of vengeance; Red/full of mixture—of God’s wrath; Wicked—who provoke him; Dregs—worst and most bitter part. The cup is poured; the wicked drain it.\n\nArminian pastoral: shared seriousness—wrath’s cup is not metaphor for mood. Provocation meets dregs; the warning aims at turning from wickedness while the pour is announced.",
+      "reformedNotes": "Calvin: in the LORD’s hand a cup… the wicked of the earth shall wring them out and drink. Foaming mixture is judicial wrath fully assigned.\n\nReformed accent: shared—dregs are drained, not sipped politely. God’s hand holds the cup; no wicked escape by geography.",
+      "keyContrast": "Both take the foaming cup as real judgment. Arminians typically hear a severe warning that still summons repentance; Reformed readers typically stress that the wicked appointed to the cup will drain it under God’s hand."
+    },
+    {
+      "number": 9,
+      "text": "But I will declare it forever; I will sing praises to the God of Jacob.",
+      "arminianNotes": "Asaph answers the cup with endless declaration and song to Jacob’s God. Wesley’s thanksgiving frame (v. 1) continues in vow.\n\nArminian note: declare and sing are chosen praise. Grace enables; the psalmist still commits to forever-witness.",
+      "reformedNotes": "Calvin: the Psalmist will declare forever and sing praises to the God of Jacob. Doxology outlasts the wicked’s foam.\n\nReformed pastoral: shared—praise is the righteous response while judgment stands. Jacob’s God is covenant name under threat."
+    },
+    {
+      "number": 10,
+      "text": "All the horns of the wicked I will cut off, but the horns of the righteous shall be lifted up.",
+      "arminianNotes": "Wesley’s trajectory: insolent horns fall; righteous horns rise. Cutting off answers vv. 4–5; lifting answers God’s equity.\n\nArminian hope: shared moral reversal—pride’s horns cut, righteousness exalted. The congregation may trust the outcome without seizing the axe themselves.",
+      "reformedNotes": "Calvin: all horns of the wicked cut off; horns of the righteous exalted. God completes what vv. 6–7 began.\n\nReformed accent: shared—final horn-policy is God’s. Boastful lift meets cut-off; the righteous are lifted by the same Judge.",
+      "keyContrast": "Both expect wicked horns cut off and righteous horns lifted. Arminians typically stress living on the righteous side of that divide by grace; Reformed readers typically stress God’s decisive cutting and lifting as the settled end of pride."
+    }
+  ]
+}

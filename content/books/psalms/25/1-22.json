@@ -1,0 +1,169 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 25,
+  "verseStart": 1,
+  "verseEnd": 22,
+  "translation": "ESV",
+  "title": "Psalm 25:1–22",
+  "context": "A Psalm of David. To you, O LORD, I lift up my soul: trust that will not be put to shame, waiting that will not be disappointed, and a plea to know the LORD’s ways and be taught his paths. Mercy and steadfast love from of old are remembered; the sins of youth are not. The LORD who is good and upright instructs sinners and leads the humble; his paths are steadfast love and faithfulness for those who keep his covenant. For his name’s sake he pardons great guilt; the friendship of the LORD is for those who fear him, and he makes known his covenant. Afflicted and surrounded by foes, the psalmist asks for deliverance, integrity’s preservation, and Israel’s redemption out of all his troubles.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on lifting the soul in trust, waiting without shame, being taught the LORD’s paths, mercy that remembers and forgets, pardon for great guilt, covenant friendship, and Israel’s redemption—so each camp speaks in its own voice beside Psalm 25:1–22.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ashamed—disappointed of my hope. Teach—teach me my duty, and cause me to keep close to it, notwithstanding all temptations. Upright—holy and true, in all his declarations and offers of mercy to sinners. Therefore—he will not be wanting to such poor sinners as I am, but will guide them into the way of life and peace. The meek—such as meekly submit themselves to God, and are desirous to be directed and governed by him. Paths—all the dealings of God with them, yea even those that are afflictive, are done in kindness and faithfulness to them. For—or, though it be great. Possibly he speaks of his sin against Uriah and Bathsheba. Great—or, much or manifold. Chuse—which God appointeth. At ease—Heb. in Good; in the possession and enjoyment of the true good. The land—Canaan; which was given as an earnest of the whole Covenant of Grace, and all its promises. The secret—his love and favour, which is called his secret, because it is known to none but him that enjoyeth it. Will shew—he will make them clearly to understand it, both its duties and its blessings; neither of which ungodly men rightly understand. Pluck—he will deliver me out of all my troubles. Soul—my life. Israel—if thou wilt not help me, yet spare thy people who suffer for my sake, and in my sufferings.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 25)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This psalm consists of meditations mingled with prayers. Distressed by enemies, David first acknowledges that God had justly chastised him for his sins, and therefore prays for forgiveness that he may enjoy assurance of divine favor and obtain deliverance. He implores the aid of the Holy Spirit that, sustained by it, he might continue in the fear of God. He lifts his soul to God alone—not wavering after worldly aid. None who wait on God shall be ashamed. He asks to know the LORD’s ways and be led in truth: Lord, keep thy servant in the firm persuasion of thy promises. Remember not the sins of youth; according to thy compassion remember me—blotting out sin that the wall between God and the sinner may fall. Good and upright is Jehovah; therefore he teaches sinners in the way—preventing grace that renews the corrupt nature and brings wanderers back. He guides the poor whom he has first humbled. All the ways of Jehovah are mercy and truth to those who keep his covenant. For thy name’s sake, pardon mine iniquity, for it is great—free remission from God’s good pleasure alone. The counsel of Jehovah is toward them that fear him, that he may make known his covenant. Integrity and uprightness preserve the one who waits on God. Redeem Israel from all his troubles—the afflictions of the godly are common to the whole body of the faithful.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 25)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "To you, O LORD, I lift up my soul.",
+      "arminianNotes": "Lift up the soul—direct desire and prayer to the LORD alone. The psalm opens with personal address: To you, O LORD.\n\nArminian hearing: shared—soul-lifting is real trust, not theatrical gesture. Grace enables the lift; the hearer must still refuse divided hopes and bring the soul to God.",
+      "reformedNotes": "Calvin: David is not driven hither and thither after the ungodly’s manner, but directs all desires and prayers to God alone. Nothing is more inconsistent with sincere prayer than to waver and gaze about for worldly help while forsaking God.\n\nReformed accent: shared—undivided soul-lift to Jehovah. Hope fixed in God, not ensnared by the world’s allurements."
+    },
+    {
+      "number": 2,
+      "text": "O my God, in you I trust; let me not be put to shame; let not my enemies exult over me.",
+      "arminianNotes": "Wesley: Ashamed—disappointed of my hope. Trust names the wing by which the soul rises; shame would be hope’s collapse before exulting enemies.\n\nArminian pastoral: shared—trust and the plea not to be put to shame belong together. Enemies must not write the last word on the one who trusts. Keep trusting; ask that hope not be disappointed.",
+      "reformedNotes": "Calvin: by trust he confirms the lifting of the soul; faith and hope are the wings by which souls rise above this world to God. He asks not to be put to shame from the ordinary doctrine of Scripture—they who trust in God shall never be ashamed. Enemies are scourges God may restrain.\n\nReformed accent: shared—trust that will not end in shame. Deliverance also checks the pride of enemies who mock God by their prosperity."
+    },
+    {
+      "number": 3,
+      "text": "Indeed, none who wait for you shall be put to shame; they shall be ashamed who are wantonly treacherous.",
+      "arminianNotes": "Wesley: Cause—without any provocation of mine (on the treacherous who should be ashamed). None who wait for the LORD shall be put to shame.\n\nArminian reading: waiting is persevering trust the hearer must continue. Shame falls on wanton treachery, not on those who wait. The promise is pastoral fuel for patient hope—keep waiting; do not switch to treacherous shortcuts.",
+      "reformedNotes": "Calvin: none of those that wait on thee shall be ashamed; the fruit of deliverance extends as an example that revives the children of God and casts down the arrogance of the wicked. Waiting is the property of faith that looks to God and patiently expects the aid he has promised.\n\nReformed accent: waiting is faith’s fixed gaze, secured by promise—not a gamble the soul invents. Shame belongs to those who deal falsely without cause.",
+      "keyContrast": "Both confess that none who wait for the LORD shall be put to shame, and that the wantonly treacherous shall be ashamed. Arminian readers stress waiting as persevering trust the hearer must keep taking up—hope that refuses treacherous shortcuts. Reformed readers, with Calvin, stress waiting as faith’s property under God’s promise: deliverance that revives the godly and confounds the wicked who mock God, not a fragile human hold that finally decides whether shame comes."
+    },
+    {
+      "number": 4,
+      "text": "Make me to know your ways, O LORD; teach me your paths.",
+      "arminianNotes": "Wesley: Teach—teach me my duty, and cause me to keep close to it, notwithstanding all temptations.\n\nArminian pastoral: shared—ask to know his ways and be taught his paths. Grace teaches; the hearer must still receive duty and cling to it when temptation pulls aside. Teachability is prayed for, then practiced.",
+      "reformedNotes": "Calvin: make me to know thy ways—keep thy servant in the firm persuasion of thy promises; do not suffer him to turn aside. Adversities are like mists; even a prophet needs divine instruction lest he take sinful devices and forbidden paths.\n\nReformed accent: shared—God must teach the paths. Teaching steadies the heart under promise so impatience and revenge do not seize the wheel."
+    },
+    {
+      "number": 5,
+      "text": "Lead me in your truth and teach me, for you are the God of my salvation; for you I wait all the day long.",
+      "arminianNotes": "Lead in truth and teach—because he is the God of my salvation; for you I wait all the day long. Waiting and teaching belong in one breath.\n\nArminian hearing: shared—salvation’s God teaches; the hearer waits all day, not for a moment. Teachability and waiting are lived diligence grace enables and the soul must keep.",
+      "reformedNotes": "Calvin: lead me in thy truth and teach me; by calling God the God of his salvation he strengthens hope from benefits already received. All the day—fixed and untiring constancy depending upon God alone. It is the property of faith always to look to God and patiently wait for the aid he has promised.\n\nReformed accent: shared—truth-led teaching under the God of salvation. Waiting all day is faith’s constancy, fed by remembered salvation, not bare grit."
+    },
+    {
+      "number": 6,
+      "text": "Remember your mercy, O LORD, and your steadfast love, for they have been from of old.",
+      "arminianNotes": "Remember mercy and steadfast love—from of old. The plea is not that God invent kindness, but that he act from mercies already his character.\n\nArminian pastoral: shared—mercy older than this crisis. Ask him to remember what he has always been toward his people. Hope rests on steadfast love, not on the psalmist’s recent performance.",
+      "reformedNotes": "Calvin: remember thy tender mercies—David had so lost the sense of mercy that he asks God to remember as if God had forgotten. Yet God cannot deny himself; he has been merciful from the beginning. Though goodness seem buried, it can never be extinguished.\n\nReformed accent: shared—mercy from of old. When God hides his face, fight to present this prayer: he returns to his former manner because mercy is natural to him."
+    },
+    {
+      "number": 7,
+      "text": "Remember not the sins of my youth or my transgressions; according to your steadfast love remember me, for the sake of your goodness, O LORD!",
+      "arminianNotes": "Remember not youth’s sins or transgressions; according to steadfast love remember me, for goodness’ sake. Pardon is pleaded before deliverance is presumed.\n\nArminian reading: shared—free remembrance according to love, not according to the ledger of youth. The hearer must ask this blotting-out; goodness’ sake, not merit, is the ground.",
+      "reformedNotes": "Calvin: sins are a wall between us and God; the right order of prayer begins with forgiveness. He traces sins to childhood—not to claim only light faults, but to bow under the accumulated load. According to thy compassion remember me—two opposite rememberings: wrath’s visit, or fatherly regard when sins are cast into oblivion.\n\nReformed accent: shared—blot out sin for goodness’ sake. Without free pardon there is no hope of favor; affliction drives the godly to seek reconciliation, not merely relief."
+    },
+    {
+      "number": 8,
+      "text": "Good and upright is the LORD; therefore he instructs sinners in the way.",
+      "arminianNotes": "Wesley: Upright—holy and true, in all his declarations and offers of mercy to sinners. Therefore—he will not be wanting to such poor sinners as I am, but will guide them into the way of life and peace.\n\nArminian hearing: the LORD’s goodness means real offers of mercy and real instruction for sinners who will be guided. Grace is held out; poor sinners may come and be taught the way of life.",
+      "reformedNotes": "Calvin: as God is good and upright, he stretches forth his hand to sinners to bring them back. To limit uprightness to the worthy is cold and of little advantage to sinners. Preventing grace: if God do not prevent men by his grace, they shall all utterly perish—calling at first by regenerating the corrupt nature, or bringing back those who have gone astray.\n\nReformed accent: instruction of sinners is God’s initiating mercy that makes the rebellious docile—not a general offer waiting on prior worthiness.",
+      "keyContrast": "Both confess that because the LORD is good and upright he instructs sinners in the way—not the already finished. Arminian readers, with Wesley, hear holy offers of mercy to poor sinners whom he will guide into life and peace if they take the way. Reformed readers, with Calvin, hear preventing grace: God stretches his hand to transgressors and renews corrupt nature so they become teachable—instruction that begins in his initiative, not in sinners who first make themselves worthy pupils."
+    },
+    {
+      "number": 9,
+      "text": "He leads the humble in what is right, and teaches the humble his way.",
+      "arminianNotes": "Wesley: The meek—such as meekly submit themselves to God, and are desirous to be directed and governed by him. Judgment—in the paths of judgment, in the right way.\n\nArminian pastoral: shared—the humble are led and taught. Meekness is a submitted desire to be governed; grace forms it, and the hearer must still yield to direction.",
+      "reformedNotes": "Calvin: he guides the poor—those first humbled, then kindly led. Docility is not found until the naturally proud heart is subdued. God moulds by the cross to humility, then shows himself a wise father guiding through life.\n\nReformed accent: shared—humble taught his way. The order is God’s: first humble, then lead—not self-made meekness climbing into the classroom."
+    },
+    {
+      "number": 10,
+      "text": "All the paths of the LORD are steadfast love and faithfulness, for those who keep his covenant and his testimonies.",
+      "arminianNotes": "Wesley: Paths—all the dealings of God with them, yea even those that are afflictive, are done in kindness and faithfulness to them.\n\nArminian reading: shared—steadfast love and faithfulness mark the LORD’s paths for covenant-keepers. Affliction is not abandonedness; keep covenant and testimonies, and read even hard dealings as kindness.",
+      "reformedNotes": "Calvin: all the ways of Jehovah are mercy and truth to those who keep his covenant—not a description of the law’s sweetness in general, but God’s paternal conduct toward his people. Covenant and testimony comprehend the doctrine by which God enters into covenant with his chosen.\n\nReformed accent: shared—mercy and truth on the paths of those who keep covenant. Experience of that mercy is a treasure of the godly who persevere in his covenant, not of those who flee his presence in prosperity or rage in adversity."
+    },
+    {
+      "number": 11,
+      "text": "For your name’s sake, O LORD, pardon my guilt, for it is great.",
+      "arminianNotes": "Wesley: For—or, though it be great. Possibly he speaks of his sin against Uriah and Bathsheba. Great—or, much or manifold.\n\nArminian hearing: great guilt is not a reason to stop asking—though it be great, pardon for your name’s sake. The penitent brings manifold sin into the open and pleads the name, not self-excuse.",
+      "reformedNotes": "Calvin: for thy name’s sake—God pardons from no other cause than his own good pleasure. Mine iniquity is great or manifold: the burden might deprive of hope, but the infinite glory of thy name will not suffer thee to cast me off. Without free remission we have no reason to expect any reward of our works.\n\nReformed accent: pardon for the name’s sake is free remission grounded in God alone. Great guilt drives to that plea, not to works that reopen the door.",
+      "keyContrast": "Both confess that for the LORD’s name’s sake he pardons guilt though it is great—manifold sin is not hidden, and the name—not the sinner’s worth—is the plea. Arminian readers, with Wesley, hear though it be great as pastoral courage for the penitent who still asks and refuses to minimize the sin. Reformed readers, with Calvin, hear free remission from God’s good pleasure alone: without that pardon no reward of works remains, and the name’s glory—not a restored human claim—keeps the guilty from being cast off."
+    },
+    {
+      "number": 12,
+      "text": "Who is the man who fears the LORD? Him will he instruct in the way that he should choose.",
+      "arminianNotes": "Wesley: Chuse—which God appointeth. The one who fears the LORD is instructed in the way God chooses.\n\nArminian pastoral: shared—fear of the LORD marks the teachable. Instruction is for the God-fearer; the way chosen is the way God appoints, not private invention.",
+      "reformedNotes": "Calvin: who is the man that fears Jehovah?—few are in earnest. Provided they submit with pious docility, God will direct them by the Spirit to choose the right way. This grace is not earned by prior efforts that insinuate into favor; God first teaches transgressors, then still guides the meek.\n\nReformed accent: shared—fear and instruction together. The rare fear of God is itself under grace; teaching continues for those already subdued to learn."
+    },
+    {
+      "number": 13,
+      "text": "His soul shall abide in well-being, and his offspring shall inherit the land.",
+      "arminianNotes": "Wesley: At ease—Heb. in Good; possession and enjoyment of the true good. The land—Canaan; earnest of the whole Covenant of Grace and all its promises.\n\nArminian reading: shared—well-being and inheritance tied to fearing the LORD. Canaan points beyond itself to covenant promise; offspring share the blessing of the God-fearer’s way.",
+      "reformedNotes": "Calvin: his soul shall dwell in good—godliness has promise of this life and the life to come. The godly may be tried, yet in comparison with despisers they are blessed, assured God is present. Seed inheriting the land shows favor continued beyond the servant’s death.\n\nReformed accent: shared—well-being under God’s care and posterity in the land. Blessing is real now insofar as expedient, and death does not erase the God who blesses even others for his servants’ sake."
+    },
+    {
+      "number": 14,
+      "text": "The friendship of the LORD is for those who fear him, and he makes known to them his covenant.",
+      "arminianNotes": "Wesley: The secret—his love and favour, known to none but him that enjoyeth it. Will shew—he will make them clearly to understand it, both its duties and its blessings; neither of which ungodly men rightly understand.\n\nArminian hearing: friendship and covenant knowledge belong to those who fear him. Grace opens the secret; the God-fearer must still receive and walk in duties and blessings the ungodly misread.",
+      "reformedNotes": "Calvin: the counsel of Jehovah toward them that fear him—that he may make known his covenant. The covenant is a secret surpassing human comprehension; yet those who serve with upright desire are brought by the Spirit to that wisdom. Indirect rebuke of those who boast interest in the covenant while resting in the letter without saving fear.\n\nReformed accent: covenant disclosure is God’s gift to those who fear him—not a prize for those who claim the covenant’s label without piety.",
+      "keyContrast": "Both confess that the LORD’s friendship (secret counsel) is for those who fear him, and that he makes known his covenant to them—not to the careless. Arminian readers, with Wesley, hear love and favor enjoyed, with clear understanding of covenant duties and blessings the ungodly do not rightly grasp—knowledge grace gives and the fearer must take up. Reformed readers, with Calvin, hear God’s counsel making the covenant known by the Spirit to those who fear him, while letter-only boasters remain outside that secret—revelation tied to God-given fear, not to self-insinuation into favor."
+    },
+    {
+      "number": 15,
+      "text": "My eyes are ever toward the LORD, for he will pluck my feet out of the net.",
+      "arminianNotes": "Wesley: Pluck—he will deliver me out of all my troubles. Eyes ever toward the LORD—fixed attention that expects rescue from the net.\n\nArminian pastoral: shared—keep looking to the LORD. Deliverance from the net is trusted outcome of that gaze; the hearer must not stare at the trap alone.",
+      "reformedNotes": "Calvin: mine eyes are continually toward Jehovah—persevering faith that encourages prayer. He is emphatic: content with God alone, not gazing around for various methods of escape. Hope associated with desire: he will bring my feet out of the net.\n\nReformed accent: shared—continual eyes on the LORD. Confidence that he alone plucks from the net, not a portfolio of backups."
+    },
+    {
+      "number": 16,
+      "text": "Turn to me and be gracious to me, for I am lonely and afflicted.",
+      "arminianNotes": "Turn to me and be gracious—lonely and afflicted. The plea assumes God may seem turned away; grace is asked as face and favor restored.\n\nArminian hearing: shared—desolation is spoken honestly. Ask him to turn; loneliness does not cancel the right to plead for grace.",
+      "reformedNotes": "Calvin: have respect unto me and pity me—as if God had neglected him before. Alone and poor allude to promises that God is present with the afflicted. Regard from God’s good pleasure opens the hand of help.\n\nReformed accent: shared—turn and be gracious to the solitary poor. God’s promised nearness to the oppressed is the ground of the cry."
+    },
+    {
+      "number": 17,
+      "text": "The troubles of my heart are enlarged; bring me out of my distresses.",
+      "arminianNotes": "Troubles of the heart enlarged—inner anguish, not only outer foes. Bring me out of my distresses.\n\nArminian pastoral: shared—name the flooded heart and ask for exit. Grace does not mock enlarged trouble; pray for rescue from distresses within.",
+      "reformedNotes": "Calvin: weight and number of trials filled the whole heart like a flood. When David’s heart was wholly filled with anguish, we need not wonder if temptation overwhelm us—ask that even at the point of despair God would succor.\n\nReformed accent: shared—enlarged heart-trouble under God’s help. The Spirit sets this complaint so minds may not fail under multitude or weight of afflictions."
+    },
+    {
+      "number": 18,
+      "text": "Consider my affliction and my trouble, and forgive all my sins.",
+      "arminianNotes": "Consider affliction and trouble, and forgive all my sins. Outer pain and inner guilt are brought in one petition.\n\nArminian reading: shared—forgiveness with relief. Do not ask only for eased circumstances; seek pardon for all sins while affliction is considered.",
+      "reformedNotes": "Calvin: to find remedy, David again prays that sins may be pardoned—he cannot expect divine favor unless first reconciled by free pardon. Those who want only bodily deliverance and bury sins are insensible. As often as God afflicts, examine the heart and seek reconciliation.\n\nReformed accent: shared—consider trouble and forgive sins together. So long as sins remain unpardoned, God has just ground of displeasure; relief without pardon is unskilled medicine."
+    },
+    {
+      "number": 19,
+      "text": "Consider how many are my foes, and with what violent hatred they hate me.",
+      "arminianNotes": "Consider how many are my foes, and with what violent hatred they hate me. The psalm does not minimize opposition.\n\nArminian pastoral: shared—count the foes before God. Violent hatred is laid open so the lonely afflicted are not gaslit into silence.",
+      "reformedNotes": "Calvin: number and cruelty of enemies—the more the people of God are oppressed, the more God is inclined to aid. Hatred of violence means cruel, sanguinary hatred; nothing short of death would satisfy them.\n\nReformed accent: shared—many foes, violent hate. Magnitude of danger is itself argument in prayer for the guardian God."
+    },
+    {
+      "number": 20,
+      "text": "Oh, guard my soul, and deliver me! Let me not be put to shame, for I take refuge in you.",
+      "arminianNotes": "Wesley: Soul—my life. Guard, deliver, let me not be put to shame—for I take refuge in you. Refuge and the shame-plea return from v. 2.\n\nArminian hearing: shared—refuge is personal trust. Ask for guarded life and unbroken hope; keep taking refuge rather than switching patrons.",
+      "reformedNotes": "Calvin: preserve my soul and deliver me—extreme danger. That I may not be ashamed: prayer tied to trust in God. Nothing better imparts holy ardor to prayer than sincere testimony that we confide in God; ask him to increase hope when small, awaken it when dormant, confirm when wavering.\n\nReformed accent: shared—guard and deliver the refuge-taker. Shame refused because trust is real; God himself must uphold that hope."
+    },
+    {
+      "number": 21,
+      "text": "May integrity and uprightness preserve me, for I wait for you.",
+      "arminianNotes": "Integrity and uprightness preserve me, for I wait for you. Waiting again—now joined to a plea that character hold under pressure.\n\nArminian pastoral: shared—wait, and ask that integrity not collapse. Grace sustains uprightness; the waiter must still refuse revenge and deceit while hoping in God.",
+      "reformedNotes": "Calvin: integrity and uprightness preserve me—rectitude among men so persecution is unmerited; yet he has thrice confessed just affliction for sin. Saints come humbly for forgiveness and still set forth a good cause. Waiting on God with meek spirit suffers rather than contend unrighteously. Trust in God is essential—justice on our side without depending on his protection is not enough.\n\nReformed accent: shared—integrity with waiting. Upright conduct plus confidence in God’s promised defense—not integrity as self-salvation, nor waiting as excuse for guile."
+    },
+    {
+      "number": 22,
+      "text": "Redeem Israel, O God, out of all his troubles.",
+      "arminianNotes": "Wesley: Israel—if thou wilt not help me, yet spare thy people who suffer for my sake, and in my sufferings.\n\nArminian reading: shared—personal lament widens to the people’s redemption. Ask God to redeem Israel out of all his troubles; private pain is not the only horizon.",
+      "reformedNotes": "Calvin: redeem Israel from all his troubles—domestic oppressors; the Church under hard bondage. He respects not merely his own benefit but the state of the whole realm. Mutual communion requires that every individual unite with others in lamentation before God; afflictions are common to the body of the faithful.\n\nReformed accent: shared—redeem Israel. Private miseries are prayed inside the Church’s public trouble; faith is confirmed when the sufferer knows the wrongs are common to God’s people."
+    }
+  ]
+}

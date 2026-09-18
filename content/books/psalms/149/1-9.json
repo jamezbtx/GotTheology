@@ -1,0 +1,87 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 149,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 149:1–9",
+  "context": "Assembly Hallelujah among the final doxologies: sing a new song in the assembly of the godly; let Israel be glad in the Maker and Zion rejoice in their King with dancing, tambourine, and lyre. The LORD takes pleasure in His people and adorns the humble with salvation. Godly ones exult; high praises in the throat and two-edged sword in hand execute written judgment—honor for all His godly ones. Praise the LORD!",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a new song in the assembly of the godly, joy in Maker and King, the LORD’s pleasure in His people, and the honor of executing the judgment written—so each camp speaks in its own voice beside Psalm 149:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Sing unto the Lord a new song—an excellent song, the best we can possibly pronounce. Congregation of saints—the Israelites, by profession a holy people. Let them remember in their exultations to give all glory to the Lord; for he is the Author of their being and their blessings, and their King. The Lord taketh pleasure in his people: he loves them ardently, and will load them with his benefits, while they are humble and thankful; he will beautify the meek with salvation. Let the high praises of God be in their mouth, and a two-edged sword in their hand—perhaps an allusion to rebuilding Jerusalem’s wall, every one with a weapon. To execute upon them the judgment written—God repeatedly promises such victories to his faithful people; this is the judgment written. This honour have all his saints. The Church’s power is doing good in proportion to holiness; the sword of the word may be understood spiritually.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 149)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Sing ye to Jehovah a new song: his praise is in the congregation of the merciful. The exhortation is addressed to God’s people; singular goodness affords more ample matter of praise. He calls this a new song to distinguish it from daily praise—some rare benefit demanding signal thanksgiving. Let Israel rejoice in his Maker: when adopted to pre-eminency above other nations, this was a species of new creation; God their King that they might be ever governed by his power. Because Jehovah hath taken pleasure in his people; he will glorify the poor unto salvation—entirely of his good pleasure. The high praises of God are in their throat and a two-edged sword in their hand: to execute vengeance—not private resentment, but by commandment of God. To perform the judgment written: he reminds them they execute only what God commanded; God’s children may not execute vengeance but when called. As to the Church collective, the sword now put into our hand is of another kind—that of the word and spirit. This honor is to all his merciful ones.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 149)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Praise the LORD! Sing to the LORD a new song, his praise in the assembly of the godly!",
+      "arminianNotes": "Praise the LORD! Sing to the LORD a new song, His praise in the assembly of the godly! Clarke: new—excellent, the best we can pronounce; congregation of saints—a holy people by calling.\n\nShared doxology: both camps enter the assembly song. Classical Arminians hear a sincere new praise for mercies received.",
+      "reformedNotes": "Calvin: addressed to God’s people; new song marks rare benefit and signal thanksgiving; implied promise that the Church would coalesce again to celebrate in solemn assembly.\n\nReformed accent: restored worship. Shared: new song; assembly of the godly."
+    },
+    {
+      "number": 2,
+      "text": "Let Israel be glad in his Maker; let the children of Zion rejoice in their King!",
+      "arminianNotes": "Let Israel be glad in His Maker; let the children of Zion rejoice in their King! Clarke: give glory to the Author of being and blessings; submit to His authority as King.\n\nShared: Maker and King. Classical Arminians stress glad obedience under grace, not grim fate.",
+      "reformedNotes": "Calvin: Maker and King remind them adoption was a new creation and ongoing governance—family not chosen in vain.\n\nReformed accent: covenant making and ruling. Shared: glad in Maker; rejoice in King."
+    },
+    {
+      "number": 3,
+      "text": "Let them praise his name with dancing, making melody to him with tambourine and lyre!",
+      "arminianNotes": "Let them praise His name with dancing, making melody to Him with tambourine and lyre! Clarke prefers pipe/wind with tabor and harp; bodily and instrumental joy in the Name.\n\nShared festive praise. Both camps allow glad melody without making instrument-lists a theology fork.",
+      "reformedNotes": "Calvin: instruments peculiar to the Church’s infancy—do not foolishly copy the letter while missing restored assemblies and due worship.\n\nReformed accent: ordered joy pointing beyond the shadows. Shared: praise the Name with melody."
+    },
+    {
+      "number": 4,
+      "text": "For the LORD takes pleasure in his people; he adorns the humble with salvation.",
+      "arminianNotes": "For the LORD takes pleasure in His people; He adorns the humble with salvation. Clarke: good will in His people; beautifies the meek with salvation—Jerome: exalt the meek in Jesus.\n\nShared heart of the psalm: divine pleasure and adorned humility. Both camps worship here.",
+      "reformedNotes": "Calvin: ratsah—free favor; entirely of good pleasure He chose this people; He will give new glory of deliverance to the afflicted.\n\nReformed accent: pleasure as free favor. Shared: pleasure in His people; humble adorned with salvation."
+    },
+    {
+      "number": 5,
+      "text": "Let the godly exult in glory; let them sing for joy on their beds.",
+      "arminianNotes": "Let the godly exult in glory; let them sing for joy on their beds. Clarke: gloriously joyful; sing aloud on couches—even festal banquets mingled with divine songs.\n\nShared: rest and praise together. Classical Arminians hear permitted joy, not suspicion of gladness.",
+      "reformedNotes": "Calvin: joy and jubilee mark no common benefit; couches teach daily rest under divine protection after exile’s disruption.\n\nReformed comfort: secure rest. Shared: godly exult; sing on their beds."
+    },
+    {
+      "number": 6,
+      "text": "Let the high praises of God be in their throats and two-edged swords in their hands,",
+      "arminianNotes": "Let the high praises of God be in their throats and two-edged swords in their hands. Clarke: sublime songs; sword perhaps as in Nehemiah—work in one hand, weapon in the other.\n\nShared: praise and readiness. Classical Arminians keep praise primary; any sword stays under God’s command, not private rage.",
+      "reformedNotes": "Calvin: high praises in the throat and two-edged sword—remarkable deliverance furnishing arms not only to ward off but to put enemies to flight.\n\nReformed accent: God-furnished strength. Shared: high praises; two-edged sword."
+    },
+    {
+      "number": 7,
+      "text": "to execute vengeance on the nations and punishments on the peoples,",
+      "arminianNotes": "To execute vengeance on the nations and punishments on the peoples. Clarke: defense if attacked while rebuilding; also against treacherous allies—God enabling.\n\nShared: judgment as God’s cause. Both camps refuse private revenge as the psalm’s license.",
+      "reformedNotes": "Calvin: vengeance not under private resentment but by commandment of God—just judgment, not cruelty. Full scope points beyond faint historical earnests toward Messiah’s day.\n\nReformed accent: commanded justice. Shared: vengeance on nations; punishments on peoples."
+    },
+    {
+      "number": 8,
+      "text": "to bind their kings with chains and their nobles with fetters of iron,",
+      "arminianNotes": "To bind their kings with chains and their nobles with fetters of iron. Clarke: if kings attacked, God would enable defeat and triumph; hyperbole of victory song; later Maccabean echoes possible.\n\nShared poetic victory. Classical Arminians do not turn the line into a charter for the Church as civil empire.",
+      "reformedNotes": "Calvin: amplification—kings and nobles dragged in chains; the low remnant must trust infinite power over worldly obstacles.\n\nReformed accent: faith against appearance. Shared: kings chained; nobles in fetters."
+    },
+    {
+      "number": 9,
+      "text": "to execute on them the judgment written! This is honor for all his godly ones. Praise the LORD!",
+      "arminianNotes": "To execute on them the judgment written! This is honor for all His godly ones. Praise the LORD! Clarke: judgment written—promised victories (e.g. Deut 7); honor of all saints. He rejects the Church seizing civil rule; spiritually, the word’s influence may be meant.\n\nShared close: written judgment; honor for the godly; Hallelujah. Both camps worship in shared praise.",
+      "reformedNotes": "Calvin: judgment written reins passion—execute only what God commanded. For the Church now the sword is word and spirit; honor belongs to all His merciful ones. Hallelujah.\n\nReformed accent: bounded vocation; word-sword. Shared with Clarke: judgment written; honor for the godly; Praise the LORD!"
+    }
+  ]
+}

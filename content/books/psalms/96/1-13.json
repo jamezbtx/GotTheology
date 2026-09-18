@@ -1,0 +1,112 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 96,
+  "verseStart": 1,
+  "verseEnd": 13,
+  "translation": "ESV",
+  "title": "Psalm 96:1–13",
+  "context": "Sing to the Lord a new song, all the earth; bless his name; tell his salvation day by day; declare his glory and marvelous works among the nations. Great is the Lord, feared above all gods—for the peoples' gods are worthless idols, but the Lord made the heavens. Splendor and majesty are before him; strength and beauty in his sanctuary. Families of the peoples, ascribe glory and strength; bring an offering into his courts; worship in the splendor of holiness; tremble, all the earth. Say among the nations, The Lord reigns—the world stands firm; he judges the peoples with equity. Let heavens, earth, sea, field, and forest rejoice before the Lord, for he comes to judge the earth in righteousness and faithfulness.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a new song for all the earth, daily salvation told among the nations, idols exposed, glory ascribed in holy splendor, the Lord reigning, and creation rejoicing at his coming to judge—so each camp speaks in its own voice beside Psalm 96:1–13.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "O sing—upon this new and great occasion, not the removal of the ark, but the coming of the Messiah. Gods—gods of the nations, as the next verse expounds. Before him—in his presence. Beauty—clothed with all gifts and graces needful in God's worship. Reigneth—God hath now set up his kingdom in the world. Established—nations shall by means of it enjoy established and lasting peace. Before—at the presence and approach of their Lord and Maker. Cometh—to set up his throne among all the nations of the earth.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 96"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Sing to Jehovah a new song; sing all the earth—exhorting the whole world; new song for extraordinary mercy, the gospel gathering of the nations. Bless his name; show forth salvation day to day; declare glory among the heathen. Jehovah is great and greatly to be praised; terrible above all gods—for all gods of the nations are vanities, but Jehovah made the heavens. Strength and honor before him; power and glory in his sanctuary. Give glory and strength, assemblies of peoples; bring an offering into his courts; worship in the beauty of the sanctuary; whole earth tremble. Say among the heathen, Jehovah reigns; the world established, shall not be moved; he shall judge peoples in righteousness. Heavens rejoice, earth glad, sea thunder; field joyful; trees of the wood rejoice before Jehovah—for he comes to judge the earth with righteousness and truth. Advent of Christ opens the courts to the nations as one body with the ancient people.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 96"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Oh sing to the Lord a new song; sing to the Lord, all the earth!",
+      "arminianNotes": "Oh sing to the Lord a new song; sing to the Lord, all the earth! Wesley: O sing—upon this new and great occasion, not the ark's removal, but the coming of the Messiah. Shared: new song; all the earth.\n\nArminian pastoral: the occasion is Messianic greatness. All-earth scope matches the newness of the song.",
+      "reformedNotes": "Calvin: sing a new song to Jehovah, all the earth—whole world summoned; new song marks extraordinary mercy when the gospel gathers the nations.\n\nReformed pastoral: shared—new song; all the earth. Universal praise answers unprecedented salvation.",
+      "keyContrast": "Both hear a new song for all the earth. Arminians, with Wesley, typically stress the occasion as the Messiah's coming rather than a mere ark procession. Reformed readers, with Calvin, typically stress the whole world's call and the gospel-era mercy that makes the song \"new.\" Shared: unprecedented praise; earth-wide summons."
+    },
+    {
+      "number": 2,
+      "text": "Sing to the Lord, bless his name; tell of his salvation from day to day.",
+      "arminianNotes": "Sing; bless his name; tell of his salvation from day to day. Shared: blessing the name; daily telling.\n\nArminian pastoral: salvation is news for every day, not a one-time shout. Blessing the name keeps the tongue busy with God.",
+      "reformedNotes": "Calvin: sing; bless his name; show forth his salvation from day to day—continuous publication, not a momentary flash.\n\nReformed pastoral: shared—bless his name; salvation day to day. Persevering witness matches persevering mercy."
+    },
+    {
+      "number": 3,
+      "text": "Declare his glory among the nations, his marvelous works among all the peoples!",
+      "arminianNotes": "Declare his glory among the nations, his marvelous works among all the peoples. Shared: nations; peoples; glory; wonders.\n\nArminian pastoral: missions begin in declaration. Marvels of God are for all peoples' ears.",
+      "reformedNotes": "Calvin: declare his glory among the heathen; his wonders among all people—the nations must hear what Zion already knows.\n\nReformed pastoral: shared—glory among nations; works among peoples. Particular mercy becomes public report."
+    },
+    {
+      "number": 4,
+      "text": "For great is the Lord, and greatly to be praised; he is to be feared above all gods.",
+      "arminianNotes": "Great is the Lord, greatly to be praised; feared above all gods. Wesley: Gods—gods of the nations (v. 5). Shared: greatness; praise; fear above gods.\n\nArminian pastoral: fear relative to rivals. Greatness fuels both praise and holy dread.",
+      "reformedNotes": "Calvin: Jehovah is great and greatly to be praised; terrible above all gods—whatever is or is called deity cannot match him.\n\nReformed pastoral: shared—great; greatly praised; feared above gods. Doxology rests on comparison that ends all rivalry."
+    },
+    {
+      "number": 5,
+      "text": "For all the gods of the peoples are worthless idols, but the Lord made the heavens.",
+      "arminianNotes": "All the gods of the peoples are worthless idols, but the Lord made the heavens. Shared: idols empty; Creator of heavens.\n\nArminian pastoral: worthless is the verdict. Maker of heavens unmasks carved nothings.",
+      "reformedNotes": "Calvin: all gods of the nations are vanities; Jehovah made the heavens—creation unmasks idolatry.\n\nReformed pastoral: shared—worthless idols; Lord made the heavens. Cosmic making is the idol-breaker."
+    },
+    {
+      "number": 6,
+      "text": "Splendor and majesty are before him; strength and beauty are in his sanctuary.",
+      "arminianNotes": "Splendor and majesty before him; strength and beauty in his sanctuary. Wesley: Before him—in his presence. Shared: royal presence; sanctuary glory.\n\nArminian pastoral: beauty is not decoration only—it is God-near. Approach the sanctuary as strength's house.",
+      "reformedNotes": "Calvin: strength and honor before him; power and glory in his sanctuary—presence language for worship's theater.\n\nReformed pastoral: shared—splendor; majesty; strength; beauty. Sanctuary displays what presence holds."
+    },
+    {
+      "number": 7,
+      "text": "Ascribe to the Lord, O families of the peoples, ascribe to the Lord glory and strength!",
+      "arminianNotes": "Ascribe to the Lord, families of the peoples, glory and strength. Shared: family-nations; ascribe glory and strength.\n\nArminian pastoral: peoples come by families. Ascribe means give what is already his.",
+      "reformedNotes": "Calvin: give to Jehovah, assemblies of peoples, glory and strength—Gentiles summoned into the praise once centered in Zion; Christ's advent opens that door.\n\nReformed pastoral: shared—families of peoples; glory and strength. The courts widen without shrinking God's due."
+    },
+    {
+      "number": 8,
+      "text": "Ascribe to the Lord the glory due his name; bring an offering, and come into his courts!",
+      "arminianNotes": "Ascribe the glory due his name; bring an offering; come into his courts. Shared: due glory; offering; courts.\n\nArminian pastoral: due names debt. Offering and entry are glad duty, not bribes.",
+      "reformedNotes": "Calvin: give the glory of his name; bring an offering; come into his courts—worship with gift and near approach.\n\nReformed pastoral: shared—glory due; offering; courts. Name-honor is paid in drawn-near praise."
+    },
+    {
+      "number": 9,
+      "text": "Worship the Lord in the splendor of holiness; tremble before him, all the earth!",
+      "arminianNotes": "Worship in the splendor of holiness; tremble, all the earth. Wesley: Beauty—clothed with gifts and graces needful in God's worship. Shared: holy splendor; earth-tremble.\n\nArminian pastoral: holiness is attire for worshipers. Trembling is reverence, not terror without hope.",
+      "reformedNotes": "Calvin: worship in the beauty of the sanctuary; whole earth tremble before his face—holy beauty and holy fear together.\n\nReformed pastoral: shared—splendor of holiness; tremble, all the earth. Beauty does not cancel awe."
+    },
+    {
+      "number": 10,
+      "text": "Say among the nations, “The Lord reigns! Yes, the world is established; it shall never be moved; he will judge the peoples with equity.”",
+      "arminianNotes": "Say among the nations, The Lord reigns! World established, never moved; he judges peoples with equity. Wesley: Reigneth—God hath now set up his kingdom; Established—nations enjoy lasting peace by it. Shared: reign; established world; equitable judgment.\n\nArminian pastoral: proclaim the reign as present kingdom news. Equity is the nations' hope under his rule.",
+      "reformedNotes": "Calvin: say among the heathen, Jehovah reigns; world established, not moved; he judges peoples in righteousness—reign means righteous government that remakes crooked lives.\n\nReformed pastoral: shared—Lord reigns; world established; judge with equity. Announcement to nations is the Church's errand."
+    },
+    {
+      "number": 11,
+      "text": "Let the heavens be glad, and let the earth rejoice; let the sea roar, and all that fills it;",
+      "arminianNotes": "Let heavens be glad, earth rejoice; sea roar and its fullness. Shared: cosmic gladness; sea's roar as praise.\n\nArminian pastoral: creation joins the choir. Roar can be worship when the King reigns.",
+      "reformedNotes": "Calvin: heavens rejoice, earth glad, sea thunder with its fullness—nature summoned to celebrate the reign.\n\nReformed pastoral: shared—heavens; earth; sea. The reign is too large for human voices alone."
+    },
+    {
+      "number": 12,
+      "text": "let the field exult, and everything in it! Then shall all the trees of the forest sing for joy",
+      "arminianNotes": "Let the field exult and all in it; trees of the forest sing for joy. Shared: field and forest in praise.\n\nArminian pastoral: agriculture and woodland find a voice. Joy is the forest's sermon under the coming Judge.",
+      "reformedNotes": "Calvin: field joyful and all in it; trees of the wood rejoice—creation's lower registers answer the King.\n\nReformed pastoral: shared—field exults; trees sing. Judgment's approach is good news for a renewed world."
+    },
+    {
+      "number": 13,
+      "text": "before the Lord, for he comes, for he comes to judge the earth. He will judge the world in righteousness, and the peoples in his faithfulness.",
+      "arminianNotes": "Before the Lord—he comes to judge the earth; world in righteousness, peoples in faithfulness. Wesley: Before—at presence of Lord and Maker; Cometh—to set up his throne among all nations. Shared: double \"comes\"; righteous, faithful judgment.\n\nArminian pastoral: coming is throne-setting among the nations. Faithfulness is the peoples' comfort in the verdict.",
+      "reformedNotes": "Calvin: before Jehovah—he comes to judge the earth with righteousness and truth. Coming judgment is the reason creation sings.\n\nReformed pastoral: shared—he comes; judge in righteousness and faithfulness. Equity (v. 10) is sworn in again at the close."
+    }
+  ]
+}

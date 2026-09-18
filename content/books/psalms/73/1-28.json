@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 73,
+  "verseStart": 1,
+  "verseEnd": 28,
+  "translation": "ESV",
+  "title": "Psalm 73:1–28",
+  "context": "A Psalm of Asaph. Truly God is good to Israel—to the pure in heart—yet Asaph’s feet almost slipped when he envied the arrogant and the prosperity of the wicked: sleek, untroubled, proud, violent, blasphemous, always at ease. He nearly called clean hands vain under daily rebuke, until the sanctuary of God: there he discerned their end—slippery places, sudden terrors, dream-phantoms. Embittered and beastlike, he is nevertheless held by the right hand, guided by counsel, received to glory; God is his portion forever. Those far from God perish; for him it is good to be near God, the Lord GOD his refuge, that he may tell of all God’s works.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on envy at the wicked’s prosperity, the sanctuary where their end is discerned, God as portion, and the good of nearness to God—so each camp speaks in its own voice beside Psalm 73.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is probable Asaph was the author. He begins with a general principle, confesses his temptation to envy the wicked, then tells how he gained the victory and advantage by it. Clean heart—true Israelites who love God and serve in spirit and truth. Feet almost gone—faith in providence nearly overthrown. In vain—tempted to think religion unprofitable; true religion is cleansing of heart and hands. Until—till he consulted the word of God; in hard cases they resorted to the sanctuary and the oracle therein. Their end—there he learned their prosperity was short. Nevertheless—though he gave just cause to cast him off, kindness continued; held—that faith might not fail. Far from thee perish; go a whoring—those who revolt to wickedness. It is good to draw near to God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 73)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The psalmist, contending against carnal sense, extols God’s goodness, then confesses that the wicked’s wealth and the righteous’ troubles almost disposed him to cast off the fear of God. He reproves his folly in judging from the present only, and shows that if we leave providence to God’s secret purpose, the righteous are not defrauded nor the wicked escape. Until he entered the sanctuaries—the school of God in Word and Spirit—he could not discern their end: not mere death, but judgments delayed yet sure. God holds his right hand; counsel guides; afterward glory. Whom have I in heaven but thee? Flesh and heart fail, but God is strength and portion forever. It is good to draw near to God and trust in the Lord Jehovah, that we may recount all his works.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 73)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Truly God is good to Israel, to those who are pure in heart.",
+      "arminianNotes": "Wesley: Clean heart—true Israelites who love God and serve in spirit and truth. God is good to Israel opens the psalm as confession before complaint.\n\nArminian pastoral: shared—goodness to the pure in heart is affirmed first. Grace invites purity of heart as living response, not a claim that merit earned the good.",
+      "reformedNotes": "Calvin: Yet God is good to Israel—to the right of heart. After agitation, faith breaks out: God is gracious to genuine saints, not every name on the roll.\n\nReformed accent: shared—Israel is limited to the upright in heart; hypocrites are cut off. Providence is confessed against the flesh’s misgiving."
+    },
+    {
+      "number": 2,
+      "text": "But as for me, my feet had almost stumbled, my steps had nearly slipped.",
+      "arminianNotes": "Wesley: Feet almost gone—faith in providence nearly overthrown; steps nearly slipped.\n\nArminian hearing: honesty about near-fall. Shared: saints can almost stumble without God casting them off; the confession itself is already returning.",
+      "reformedNotes": "Calvin: And I—even the well-taught almost slipped. Temptation that affronts God’s honor assails even those schooled in godliness.\n\nReformed pastoral: shared warning—all are in danger of falling unless upheld by God’s hand."
+    },
+    {
+      "number": 3,
+      "text": "For I was envious of the arrogant when I saw the prosperity of the wicked.",
+      "arminianNotes": "Wesley: Envy of the arrogant at the wicked’s prosperity—the temptation named.\n\nArminian note: envy is confessed as sin’s edge, not excused. Shared: prosperity of the wicked wounds faith; grace still calls envy what it is.",
+      "reformedNotes": "Calvin: I envied the foolish when I saw the wicked prosper—temptation to join their way and doubt God’s ordering.\n\nReformed accent: shared—envy of the ungodly is perilous folly opposite the fear of God.",
+      "keyContrast": "Both name envy of the arrogant as the slip’s cause. Arminians typically stress the free turning from envy back toward God; Reformed readers typically stress how close even the godly come without God’s upholding hand."
+    },
+    {
+      "number": 4,
+      "text": "For they have no pangs until death; their bodies are fat and sleek.",
+      "arminianNotes": "Wesley: No bands—they are not dragged to death by sentence they deserve; strength firm.\n\nArminian pastoral: easy death and sleek bodies fuel the scandal. Shared realism—outward ease is not denied.",
+      "reformedNotes": "Calvin: no bands to their death; strength vigorous—they seem exempt from the diseases that bind others to God’s yoke.\n\nReformed note: shared—God sometimes places the wicked on a stage of ease to try faith."
+    },
+    {
+      "number": 5,
+      "text": "They are not in trouble as others are; they are not stricken like the rest of mankind.",
+      "arminianNotes": "Wesley: Not in trouble as other (good) men frequently are; not plagued like others.\n\nArminian hearing: the comparison stings the righteous sufferer. Shared: exemption from common trouble is the temptation’s fuel.",
+      "reformedNotes": "Calvin: not in the trouble common to man—special exemption that looks like privilege.\n\nReformed pastoral: shared—beholding despisers at ease while the godly labor is a sore trial."
+    },
+    {
+      "number": 6,
+      "text": "Therefore pride is their necklace; violence covers them as a garment.",
+      "arminianNotes": "Wesley: Pride as necklace; violence as garment—ornament and clothing of the prosperous wicked.\n\nArminian note: pride and violence worn openly. Shared moral clarity—prosperity without repentance hardens into display.",
+      "reformedNotes": "Calvin: pride compasses as a chain; violence covers as raiment—they glory in audacity; pride is violence’s mother.\n\nReformed accent: shared—abuse of kindness meets divine forbearance that faith must interpret aright."
+    },
+    {
+      "number": 7,
+      "text": "Their eyes swell out through fatness; their hearts overflow with follies.",
+      "arminianNotes": "Wesley: Eyes swelling with fatness; hearts overflowing with follies—pampered excess.\n\nArminian pastoral: abundance without God breeds folly. Shared: fatness of eye images insolent prosperity.",
+      "reformedNotes": "Calvin: eye going out for fatness; thoughts exceeding bounds—glutted prosperity projects pride.\n\nReformed note: shared diagnosis—ease intoxicates until imagination mounts above ordinary bounds."
+    },
+    {
+      "number": 8,
+      "text": "They scoff and speak with malice; loftily they threaten oppression.",
+      "arminianNotes": "Wesley: Speak—boasting of oppressions; loftily threatening.\n\nArminian hearing: malice spoken from height. Shared: oppression is not quiet; it advertises itself.",
+      "reformedNotes": "Calvin: insolent talk of extortion; they speak from on high as if little gods.\n\nReformed pastoral: shared—unbridled speech reveals hearts that forget they are men."
+    },
+    {
+      "number": 9,
+      "text": "They set their mouths against the heavens, and their tongue struts through the earth.",
+      "arminianNotes": "Wesley: Mouth against the heavens—blaspheming God and deriding providence; tongue walking through the earth—liberty to reproach all.\n\nArminian note: heaven and earth both targeted. Shared: strutting tongue is rebellion, not mere manners.",
+      "reformedNotes": "Calvin: mouth set against the heavens; tongue walking through the earth—contumely against God and men.\n\nReformed accent: shared—presumption imagines heaven and earth subject to it."
+    },
+    {
+      "number": 10,
+      "text": "Therefore his people turn back to them, and find no fault in them.",
+      "arminianNotes": "Wesley: Turn—to the wicked company; Waters—full cup of prosperity wrung out as if all blessings poured on them.\n\nArminian pastoral: people drawn toward ease’s cup. Shared grief—prosperity can pull even the visible people aside.",
+      "reformedNotes": "Calvin: his people return hither; waters of a full cup wrung out—many swayed by the temptation, vexed when religion seems to yield no advantage.\n\nReformed note: shared—the scandal of ease can shipwreck or shake those counted among God’s people."
+    },
+    {
+      "number": 11,
+      "text": "And they say, \"How can God know? Is there knowledge in the Most High?\"",
+      "arminianNotes": "Wesley: The wicked (and the tempted) ask whether God knows—knowledge in the Most High doubted.\n\nArminian hearing: atheism of practice voiced as question. Shared: ‘How can God know?’ is the heart’s dark suggestion under envy.",
+      "reformedNotes": "Calvin: How doth God know?—even believers can be shaken to doubt providence when disorder dazzles; they must disburden into God’s bosom.\n\nReformed accent: shared—not only the profane deny care; true believers are tempted unless wonderfully preserved."
+    },
+    {
+      "number": 12,
+      "text": "Behold, these are the wicked; always at ease, they increase in riches.",
+      "arminianNotes": "Wesley: Behold—psalmist summing up: ungodly prosper, increase in riches.\n\nArminian pastoral: the summary presses the ‘why’. Shared: ease and increasing wealth of the wicked is stated without varnish.",
+      "reformedNotes": "Calvin: Behold these ungodly—yet at ease forever, heaping riches; long duration wears the righteous’ patience.\n\nReformed note: shared pictorial envy—wicked cherished while the upright are scourged."
+    },
+    {
+      "number": 13,
+      "text": "All in vain have I kept my heart clean and washed my hands in innocence.",
+      "arminianNotes": "Wesley: In vain—tempted to think religion unprofitable; clean heart and washed hands describe true religion’s parts.\n\nArminian note: cleansing heart and hands is real piety felt as wasted. Shared: the temptation is not against ritual only but against sincere holiness.",
+      "reformedNotes": "Calvin: purified heart and washed hands in vain—daily scourge makes innocence seem unrewarded.\n\nReformed pastoral: shared—purity of heart joined to upright conduct; the complaint is the trial’s language, not final dogma."
+    },
+    {
+      "number": 14,
+      "text": "For all the day long I have been stricken and rebuked every morning.",
+      "arminianNotes": "Wesley: Stricken all day; rebuked every morning—continual chastening while the wicked rest.\n\nArminian pastoral: morning-by-morning rebuke vs. their ease. Shared solidarity with sufferers who keep integrity under stripe.",
+      "reformedNotes": "Calvin: scourged daily; chastisement every morning—no end of calamity for the upright in his feeling.\n\nReformed accent: shared—the contrast with v. 12 fuels the crisis that sanctuary will answer."
+    },
+    {
+      "number": 15,
+      "text": "If I had said, \"I will speak thus,\" I would have betrayed the generation of your children.",
+      "arminianNotes": "Wesley: Offend—speaking thus would grieve, discourage, and tempt God’s children to revolt.\n\nArminian hearing: love for the generation restrains bitter speech. Shared: envy’s conclusion must not be preached to the children.",
+      "reformedNotes": "Calvin: If I speak thus I have transgressed—behold, the generation of thy children remains; God still reserves a people.\n\nReformed note: shared bridle—doubts are not published as settled truth against the church."
+    },
+    {
+      "number": 16,
+      "text": "But when I thought how to understand this, it seemed to me a wearisome task,",
+      "arminianNotes": "Wesley: To know—to find out the reason of this providence; too painful / wearisome.\n\nArminian pastoral: honest weariness before clarity. Shared: unaided reasoning cannot settle the scandal of prosperity.",
+      "reformedNotes": "Calvin: applied mind to know—yet trouble/unprofitable labor until the sanctuaries; carnal reason sinks under the confusion.\n\nReformed accent: shared—natural understanding fails; illumination must come from elsewhere than ourselves."
+    },
+    {
+      "number": 17,
+      "text": "until I went into the sanctuary of God; then I discerned their end.",
+      "arminianNotes": "Wesley: Until—consulted the word of God; sanctuary and oracle in hard cases. Their end—prosperity short.\n\nArminian hope: entering God’s presence and Word turns envy to discernment. Shared hinge—sanctuary clarity, not private cleverness, ends the wearisome task.",
+      "reformedNotes": "Calvin: until I entered the sanctuaries—school of God (Word and Spirit). End = God’s judgments delayed yet sure, not mere exit from life.\n\nReformed pastoral: shared—eyes must be opened; Word given due authority; last day may still await visible punishment.",
+      "keyContrast": "Both locate the turn in the sanctuary. Arminians typically stress freely entering Word and ordinance for clarifying light; Reformed readers typically stress that God must school us—without his Word and Spirit, reason stays blind to the wicked’s true end."
+    },
+    {
+      "number": 18,
+      "text": "Truly you set them in slippery places; you make them fall to ruin.",
+      "arminianNotes": "Wesley: Slippery places; cast down to ruin—footing of the prosperous is ice.\n\nArminian note: after sanctuary, judgment’s footing is seen. Shared: ease was never solid ground.",
+      "reformedNotes": "Calvin: set in slippery places; cast into destruction—short lift so the fall is heavier; secret providence manages what looked random.\n\nReformed accent: shared watchtower view—faith now sees the ice under the wicked’s dance."
+    },
+    {
+      "number": 19,
+      "text": "How they are destroyed in a moment, swept away utterly by terrors!",
+      "arminianNotes": "Wesley: Terrors—God’s dreadful judgments unexpectedly seizing; desolation in a moment.\n\nArminian pastoral: sudden consumption awakens wonder. Shared: moment-destruction answers ‘forever’ ease.",
+      "reformedNotes": "Calvin: destroyed in a moment; consumed with terrors—suddenness corrects our dullness about divine judgment.\n\nReformed note: shared—unlooked-for ruin teaches what prosperity hid."
+    },
+    {
+      "number": 20,
+      "text": "Like a dream when one awakes, O Lord, when you rouse yourself, you despise them as phantoms.",
+      "arminianNotes": "Wesley: Dream on waking; despise their image—felicity a shadow, raised to shame.\n\nArminian hearing: glory exposed as phantom. Shared: waking under God ends the pleasant dream of vain life.",
+      "reformedNotes": "Calvin: dream after awaking; God makes their image despised—outward show is appearance, not substance.\n\nReformed pastoral: shared—illuminated minds are less dazzled; phantoms vanish when God rouses."
+    },
+    {
+      "number": 21,
+      "text": "When my soul was embittered, when I was pricked in heart,",
+      "arminianNotes": "Wesley: Pricked—deeply wounded with disquieting thoughts; heart grieved.\n\nArminian pastoral: confession of embitterment without excuse. Shared: envy left a wound God heals by truth.",
+      "reformedNotes": "Calvin: heart in a ferment; pierced in reins—soured envy and emulation against God’s ways.\n\nReformed accent: shared—believers’ disquiet is sharper because they know God is Judge."
+    },
+    {
+      "number": 22,
+      "text": "I was brutish and ignorant; I was like a beast toward you.",
+      "arminianNotes": "Wesley: Foolish and ignorant; as a beast before God—self-rebuke for brutish reasoning.\n\nArminian note: honesty about folly opens the door to ‘nevertheless.’ Shared: envy made the psalmist beastlike in judgment.",
+      "reformedNotes": "Calvin: foolish, ignorant, as a brute with thee—perverse envy from ignorance; blame on himself, not on providence.\n\nReformed pastoral: shared—when we quarrel with providence, our understanding is the perverse part."
+    },
+    {
+      "number": 23,
+      "text": "Nevertheless, I am continually with you; you hold my right hand.",
+      "arminianNotes": "Wesley: Nevertheless—though just cause to cast off, kindness continued; held—that faith might not fail.\n\nArminian hope: held right hand = sustaining care through the almost-slip. Shared miracle—continual with-ness after beastly folly.",
+      "reformedNotes": "Calvin: nevertheless continually with thee; held my right hand—secret grace kept him from open blasphemy and total apostasy.\n\nReformed accent: shared—God’s fatherly eye and hand uphold when we barely know it."
+    },
+    {
+      "number": 24,
+      "text": "You guide me with your counsel, and afterward you will receive me to glory.",
+      "arminianNotes": "Wesley: Guide with counsel; afterward receive to glory—present leading and final reception.\n\nArminian pastoral: counsel now, glory afterward—path of trust. Shared: guidance is personal and forward-looking.",
+      "reformedNotes": "Calvin: guide with counsel; at length receive into glory—future confidence after restoration; glory spans earthly foretaste to heaven.\n\nReformed note: shared—wisdom from God, not self-reliance, and grace unto glory."
+    },
+    {
+      "number": 25,
+      "text": "Whom have I in heaven but you? And there is nothing on earth that I desire besides you.",
+      "arminianNotes": "Wesley: Heaven and earth—none desired besides God; exclusive satisfaction.\n\nArminian hearing: desire recentered after envy of riches. Shared: God alone fills what prosperity falsely promised.",
+      "reformedNotes": "Calvin: whom in heaven but thee; none on earth besides—satisfied with God alone; unlawful to desire another object beside him.\n\nReformed pastoral: shared—sanctuary profit is exclusive cleaving; creatures must not share the throne of desire."
+    },
+    {
+      "number": 26,
+      "text": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever.",
+      "arminianNotes": "Wesley: Flesh and heart failing; God strength and portion forever—rock when self collapses.\n\nArminian pastoral: portion forever outlasts sleek bodies of vv. 4–12. Shared climax—God himself is the lot of the godly.",
+      "reformedNotes": "Calvin: flesh and heart failed; God strength of heart and portion forever—nothingness without God; portion = abundant sufficiency and perfection of happiness.\n\nReformed accent: shared—cast wholly on God when powers decay; portion language excludes rival trusts.",
+      "keyContrast": "Both confess God as strength and forever portion when flesh fails. Arminians typically stress choosing God as portion over worldly ease; Reformed readers typically stress that only the God who holds and portions us can be our happiness—self has no sufficiency."
+    },
+    {
+      "number": 27,
+      "text": "For behold, those who are far from you shall perish; you put an end to everyone who is unfaithful to you.",
+      "arminianNotes": "Wesley: Far from thee perish; go a whoring—revolt to wickedness, spiritual whoredom.\n\nArminian note: distance and unfaithfulness meet an end. Shared: nearness vs. farness is the moral geography of the psalm’s close.",
+      "reformedNotes": "Calvin: who depart perish; destroyed those who go a whoring—scattering hope among many objects; spiritual adultery vs. exclusive faith.\n\nReformed pastoral: shared—apostates who will not fix on God alone are named adulterers in heart."
+    },
+    {
+      "number": 28,
+      "text": "But for me it is good to be near God; I have made the Lord GOD my refuge, that I may tell of all your works.",
+      "arminianNotes": "Wesley: Good to be near God; Lord GOD as refuge; telling his works—nearness ends envy’s story in praise.\n\nArminian hope: drawing near is good and freely claimed as refuge for witness. Shared telos—nearness, not riches, is the good; testimony follows trust.",
+      "reformedNotes": "Calvin: good to draw near; trust in the Lord Jehovah to recount his works—steadfast communion even if all others wander; confidence fixed so the hand may hold.\n\nReformed accent: shared—gather affections from evil examples; hope in him never wants matter for praise."
+    }
+  ]
+}

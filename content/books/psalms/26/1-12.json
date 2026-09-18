@@ -1,0 +1,107 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 26,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 26:1–12",
+  "context": "Of David. The psalmist asks the LORD to vindicate him for walking in integrity and trusting without wavering; invites God to prove heart and mind; walks by steadfast love and faithfulness; refuses the company of the false and wicked; approaches the altar in innocence with thanksgiving; loves the LORD's house; pleads not to be swept away with the bloodthirsty; renews his integrity while crying for redemption and grace; and stands on level ground to bless the LORD in the great assembly.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on integrity under trial, the LORD's proving of heart and mind, love for God's house, and the cry to redeem and be gracious—so each camp speaks in its own voice beside Psalm 26:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "David professes his integrity; deprecates the doom of the wicked; casts himself upon the mercy of God. Trusted—I have committed my cause and affairs to thee. For—I dare appeal to thee, because thou knowest I have a deep sense of thy loving-kindness, by which I have been led to love and obey thee. Sat—continued with them; I have been so far from an imitation of their wicked courses, that I have avoided their company. Compass—approach to thine altar with my sacrifices; which I could not do with any comfort, if I were conscious of those crimes whereof mine enemies accuse me. Gather not—do not bind me up in the same bundle, or put me into the same accursed condition with them. Standeth—I stand upon a sure and solid foundation, being under the protection of God's promise, and his almighty and watchful providence. Congregations—I will not only privately, but in the assemblies of thy people celebrate thy praise.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 26"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "When destitute of man's aid, have recourse to the judgment-seat of God. David does not simply aver that he had been upright, but that he had constantly proceeded in an upright course without being driven from his purpose. Forced by unjust condemnation, he appeals to God's judgment and brings forward the honest uprightness of his heart—yet had he not been falsely accused, he would have humbly deprecated such examination, knowing he was far from perfection. He preserved integrity by setting the goodness of God before his eyes and confiding in his faithfulness. He hated the assembly of the ungodly, yet ceased not to frequent the temple as the divine commandment required. I will wash my hands in innocence: outward washing alone keeps hypocrites at a greater distance from God. Redeem me—being oppressed he relied only on God; Be merciful to me shows that this deliverance flows from the grace of God as its true source. My foot hath stood in uprightness: he celebrates the grace of God; he knew it was the hand of God alone which enabled him to stand.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 26"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Vindicate me, O LORD, for I have walked in my integrity, and I have trusted in the LORD without wavering.",
+      "arminianNotes": "Vindicate me, O LORD—for I have walked in my integrity, and trusted in the LORD without wavering. Wesley: Trusted—I have committed my cause and affairs to thee. The plea is not bare self-praise; integrity and trust stand together. David dares ask for judgment because his walk and his confidence have been real before God.\n\nArminian pastoral: shared piety—integrity is a true path grace enables and faith keeps. The appeal is to the LORD who knows the walk. Do not hear \"integrity\" as a claim that needs no mercy; the psalm will end casting itself on redeeming grace. Here the fork is only how tightly integrity is tied to ongoing trust and to the mercy still sought.",
+      "reformedNotes": "Calvin: when destitute of man's aid, have recourse to God's judgment-seat. David does not simply say he had been upright, but that he had constantly proceeded in uprightness without being driven from his purpose, however powerful the devices against him. Integrity here is perseverance in the right path under assault.\n\nReformed pastoral: shared—vindication is asked of God, not seized by retaliation. Trust without wavering is the soul's stay while integrity is kept. Calvin will later say deliverance flows from grace; already the walk is framed as remaining firm under God's care, not as earning the verdict by unaided virtue.",
+      "keyContrast": "Both treat integrity and trust as real piety under God's eye, not empty boasting. Arminians typically stress the living walk and committed cause Wesley names—integrity joined to trust, still open to the mercy the psalm later seeks. Reformed readers typically stress Calvin's point that uprightness was constantly kept under assault by God's help, so the plea for vindication already rests on divine care rather than on self-made desert."
+    },
+    {
+      "number": 2,
+      "text": "Prove me, O LORD, and try me; test my heart and my mind.",
+      "arminianNotes": "Prove me, O LORD, and try me; test my heart and my mind. The invitation is bold: not only outer conduct but the inner life is offered to God's search. Shared piety—both camps welcome a God who tries the heart.\n\nArminian pastoral: the prayer is sincere self-opening, not bravado. Grace that leads to love and obedience (as Wesley says at v. 3) also dares this proving. Do not soften the request into a formality; the psalmist wants truth in the inward parts brought to light.",
+      "reformedNotes": "Calvin: David clears himself not only of outward sins but glories in uprightness of heart—forced by calumny to assert his rectitude. Had he not been unjustly condemned, he would have humbly deprecated such examination, knowing he was far from perfection. The wickedness of enemies emboldened the appeal.\n\nReformed pastoral: shared—God's proving reaches reins and heart. The confidence is not careless self-flattery; Calvin insists David had honestly searched himself before standing so boldly. Prove me is piety under fire, not perfectionism."
+    },
+    {
+      "number": 3,
+      "text": "For your steadfast love is before my eyes, and I walk in your faithfulness.",
+      "arminianNotes": "For your steadfast love is before my eyes, and I walk in your faithfulness. Wesley: For—I dare appeal to thee, because thou knowest I have a deep sense of thy loving-kindness, by which I have been led to love and obey thee. Steadfast love in view leads the walk; obedience is love's fruit.\n\nArminian pastoral: shared ground—hesed before the eyes, not mere willpower. The walk in faithfulness is response to known mercy. Pastoral comfort: keep steadfast love before you, and the path of integrity is not walked alone.",
+      "reformedNotes": "Calvin: he preserved his course by setting God's goodness before his eyes and confiding in his faithfulness—persuaded God would not forsake his faithful people. Had he not relied on God's goodness, he could not have constantly kept integrity amid severe assaults. Children of God, hoping in the Lord's word, are not driven to mischievous practices.\n\nReformed pastoral: shared—steadfast love and faithfulness are the guide. Integrity is maintained because God is trusted as protector, not because the heart is self-sufficient. Fix the eyes on his goodness; then the walk holds."
+    },
+    {
+      "number": 4,
+      "text": "I do not sit with men of falsehood, nor do I consort with hypocrites.",
+      "arminianNotes": "I do not sit with men of falsehood, nor consort with hypocrites. Wesley: Sat—continued with them. I have been so far from an imitation of their wicked courses, that I have avoided their company. Vain—false and deceitful persons. Separation here is moral, not proud isolation from God's people.\n\nArminian pastoral: shared—refuse the counsel and fellowship of deceit. Love for neighbors is not the same as sitting with falsehood. Keep company that does not train the heart in hypocrisy.",
+      "reformedNotes": "Calvin: sitting and walking denote sharing in counsel and fellowship in working (as in Psalm 1). David denies intercourse with vain and deceitful men. The best remedy to withdraw from the wicked is to fix the eyes on God's goodness; those who walk trusting God's protection will not imitate their deceit.\n\nReformed pastoral: shared—integrity includes refusing false company. Faith that looks to God's promises is opposed to crooked counsel. Prudence under the Spirit is not craftiness; it is holy distance from dissembling."
+    },
+    {
+      "number": 5,
+      "text": "I hate the assembly of evildoers, and I will not sit with the wicked.",
+      "arminianNotes": "I hate the assembly of evildoers, and I will not sit with the wicked. Loathing of evil company continues the refusal of v. 4. Shared piety—hatred here is of evil doing and corrupting fellowship, not a license for cruelty toward persons.\n\nArminian pastoral: love the sinner as neighbor; do not make the assembly of evildoers your council. The psalm's next move is toward the altar and God's house—holy separation serves worship, not schism for its own sake.",
+      "reformedNotes": "Calvin: he fled their company with loathing; he warred not so much with their persons as with their evil doings. Yet he shunned the wicked without forsaking the congregation of God. Many err by withdrawing from the whole assembly when they see evil mingled with good—a preciseness that drove old schisms. David moderated his zeal: separating from the ungodly, he ceased not to frequent the temple.\n\nReformed pastoral: shared—hate the assembly of evildoers; do not abandon God's gathered worship. Communion with God and sacred things retained David in the temple even when the wicked flaunted themselves."
+    },
+    {
+      "number": 6,
+      "text": "I wash my hands in innocence and go around your altar, O LORD,",
+      "arminianNotes": "I wash my hands in innocence and go around your altar, O LORD. Wesley: Compass—approach to thine altar with my sacrifices; which I could not do with any comfort, if I were conscious of those crimes whereof mine enemies accuse me. Innocent hands and altar approach belong together.\n\nArminian pastoral: shared—outer rite without inward integrity brings no comfort. Come to the altar with a clear conscience toward the charges of enemies, and with thanksgiving ready (v. 7). Grace does not make washing a show; it makes approach honest.",
+      "reformedNotes": "Calvin: David distinguishes himself from hypocrites who thronged the sanctuary. He alludes to the washing rite: God meant the outward sign to remind of inward pollution and encourage repentance. Outward washing alone keeps hypocrites farther from God. \"In innocence\" mocks empty washings that gather more pollution.\n\nReformed pastoral: shared—true worshipers wash in moral purity, not in ceremony alone. High place in the church and crowded rites do not equal devotion. Celebrate outward profession without substituting rite for true devotion."
+    },
+    {
+      "number": 7,
+      "text": "proclaiming thanksgiving aloud, and telling all your wondrous deeds.",
+      "arminianNotes": "Proclaiming thanksgiving aloud, and telling all your wondrous deeds. The altar circuit (v. 6) aims at praise: voice and testimony. Shared piety—worship that washes in innocence also speaks God's wonders.\n\nArminian pastoral: thanksgiving is not private only; it is published. Tell what God has done so others hear. Integrity before the altar flowers into audible gratitude, not silent self-satisfaction.",
+      "reformedNotes": "Calvin: David referred sacrifices to their proper use, which hypocrites were far from doing. He came into the sanctuary to set forth the praise of God's name. The ultimate design of the sacrifices was to celebrate God's goodness; he calls the help wondrous because God had aided him in no ordinary way.\n\nReformed pastoral: shared—true sacrifice includes thanksgiving and witness. Do not thrust into God's presence with pomp of dissimulation; come to make his praise heard and his works known."
+    },
+    {
+      "number": 8,
+      "text": "O LORD, I love the habitation of your house and the place where your glory dwells.",
+      "arminianNotes": "O LORD, I love the habitation of your house and the place where your glory dwells. Wesley: House—thy sanctuary and worship. Honour—thy glorious and gracious presence. Love for the place is love for the Presence who meets his people there.\n\nArminian pastoral: shared—affection for gathered worship is mark of integrity, not mere aesthetic. The glory that dwells is God's gracious nearness. Desire the house because you desire him.",
+      "reformedNotes": "Calvin: he came not carelessly but with serious devotion. The pious resort to sacred assemblies not for vain ostentation but because, bent on seeking God, they love the helps he affords there. David feared enemies might deprive him of the ordinary means of instruction; he felt need of the Church's discipline and order.\n\nReformed pastoral: shared—love the habitation of God's house. Pride that despises public means as unnecessary is rebuked by David's anxiety to keep them. Where God's glory is set forth in his appointed helps, the faithful long to be."
+    },
+    {
+      "number": 9,
+      "text": "Do not sweep my soul away with sinners, nor my life with bloodthirsty men,",
+      "arminianNotes": "Do not sweep my soul away with sinners, nor my life with bloodthirsty men. Wesley: Gather not—do not bind me up in the same bundle, or put me into the same accursed condition with them. The plea separates his end from theirs without denying his need of mercy.\n\nArminian pastoral: shared—deprecation of the wicked's doom is holy fear, not presumption. Love for God's house (v. 8) becomes prayer not to share the sinners' fate. Ask to be kept distinct in judgment as you have sought to be distinct in walk.",
+      "reformedNotes": "Calvin: having affirmed innocence, he prays again for defense. God allows this freedom so his people may correct their anxieties. David set before his eyes the righteous judgment that will not mingle good and bad without distinction. \"Bloodthirsty\" amplifies: many wicked harden into cruelty in time.\n\nReformed pastoral: shared—plead not to be gathered with the wicked. The Spirit dictates such prayers so the faithful may assure themselves God still sits in inquisition on every case. Fear of shared doom drives deeper trust, not despair."
+    },
+    {
+      "number": 10,
+      "text": "in whose hands are evil devices, and whose right hands are full of bribes.",
+      "arminianNotes": "In whose hands are evil devices, and whose right hands are full of bribes. The bloodthirsty of v. 9 are further marked by craft and corruption. Shared piety—integrity refuses both violence and purchased injustice.\n\nArminian pastoral: bribes and evil devices name a public wickedness the righteous must not join. Keep hands clean not only of blood but of bought verdicts. The contrast prepares v. 11's renewed walk and cry for grace.",
+      "reformedNotes": "Calvin: maliciousness is inward stratagem executed by the hands. \"Right hands full of bribes\" points especially to nobles and judges who sold justice. Those who delight in gifts can scarcely do other than sell themselves to iniquity; gifts blind the wise and pervert the righteous.\n\nReformed pastoral: shared—name the corruption without envy. David saw sudden wealth by gifts yet was not seduced (v. 11). Integrity means preferring God's providence to the profits of bribery."
+    },
+    {
+      "number": 11,
+      "text": "But as for me, I shall walk in my integrity; redeem me, and be gracious to me.",
+      "arminianNotes": "But as for me, I shall walk in my integrity; redeem me, and be gracious to me. Wesley's outline: he casts himself upon the mercy of God. Integrity is renewed as resolve—and immediately joined to pleas for redemption and grace. The walk does not replace mercy; it accompanies the cry for it.\n\nArminian pastoral: shared piety at the fork—keep walking uprightly, and ask to be redeemed. Grace is not postponed until integrity fails; it is sought while integrity is vowed. Do not hear \"I shall walk\" as a claim that needs no \"be gracious to me.\"",
+      "reformedNotes": "Calvin: in the midst of temptations he held his way; no allurements to imitate the suddenly rich induced him. He ascribes more to God's providence than to evil practices. Redeem me—oppressed, he relied only on God. Be merciful to me shows that deliverance flows from the grace of God as its true source.\n\nReformed pastoral: shared—integrity continued and mercy requested belong together. The vow to walk uprightly is not the price of redemption; grace is the source of the deliverance sought. Hold the path, and plead mercy as the ground of help.",
+      "keyContrast": "Both join continued integrity to a plea for redeeming grace—neither treats upright walking as a substitute for mercy. Arminians typically hear Wesley's movement: profession of integrity that then casts itself on God's mercy, grace sought as the needy walk on. Reformed readers typically hear Calvin's accent: integrity held because providence was preferred to corrupt gain, and \"be merciful\" names grace as the true source of the redemption asked."
+    },
+    {
+      "number": 12,
+      "text": "My foot stands on level ground; in the great assembly I will bless the LORD.",
+      "arminianNotes": "My foot stands on level ground; in the great assembly I will bless the LORD. Wesley: Standeth—I stand upon a sure and solid foundation, being under the protection of God's promise, and his almighty and watchful providence. Congregations—I will not only privately, but in the assemblies of thy people celebrate thy praise.\n\nArminian pastoral: shared—level ground is security under promise, not self-confidence. Public blessing answers private trust. Stand firm by providence; then bless the LORD among his people.",
+      "reformedNotes": "Calvin: he celebrates God's grace toward him and vows gratitude. By metaphor he says he was preserved in safety; knowing it was God's hand alone that enabled him to stand, he turns to praise—not only in private but in public, that the assemblies may be witnesses. Every one should publicly celebrate experience of grace as an example to others to confide in God.\n\nReformed pastoral: shared—standing is gift; blessing is response. The great assembly hears what providence has done. Foot on level ground becomes mouth full of the LORD's praise."
+    }
+  ]
+}

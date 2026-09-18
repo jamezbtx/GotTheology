@@ -1,0 +1,152 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 51,
+  "verseStart": 1,
+  "verseEnd": 19,
+  "translation": "ESV",
+  "title": "Psalm 51:1–19",
+  "context": "To the choirmaster. A Psalm of David, when Nathan the prophet went to him after Bathsheba. The king pleads for mercy, confesses native and actual sin, asks for a clean heart and the Spirit’s presence, and widens the prayer to Zion.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on mercy that blots out, a clean heart created, and a contrite spirit God will not despise—so each camp speaks in its own voice beside Psalm 51.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Create—Work in me an holy frame of heart, whereby my inward filth may be purged away. Right—Heb. firm or constant, that my resolution may be fixed and unmoveable. Spirit—Temper or disposition of soul. The joy—The comfortable sense of thy saving grace, promised and vouchsafed to me, both for my present and everlasting salvation. Free—Or, ingenuous, or liberal, or princely… a spirit, which may free me from the bondage of sin, and enable me chearfully to run the way of God's precepts.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 51:10, 12)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Create in me a clean heart, O God! In the previous part of the psalm David has been praying for pardon. He now requests that the grace of the Spirit… might be restored to him… By employing the term create, he expresses his persuasion that nothing less than a miracle could effect his reformation, and emphatically declares that repentance is the gift of God. The Sophists grant the necessity of the aids of the Spirit… but by assigning a middle place to the free will of man, they rob God of a great part of his glory.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 51:10)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions.",
+      "arminianNotes": "Have mercy—according to steadfast love and abundant mercy blot out transgressions. Wesley heard lovingkindness and the multitude of tender mercies as the ground of the plea after Nathan exposed David. The king does not bargain; he begs blot-out.\n\nArminian pastoral: mercy is real and must be sought. Grace that can blot also summons confession. David’s aggravated sin does not cancel the invitation to ask; it deepens the need for rich mercy received.",
+      "reformedNotes": "Calvin: David begins by praying for pardon with unwonted earnestness—ordinary kindness would not suffice for so great a sinner. He piles loving-kindness and multitude of compassions because the stain felt deep.\n\nReformed pastoral: pardon is God’s work according to His compassions, not David’s worth. The plea rests on who God is. Shared: blot out is needed; neither camp softens Bathsheba’s aftermath.",
+      "keyContrast": "Both plead rich mercy to blot out. Arminians typically stress sincere petition that must still be made; Reformed readers typically stress that only the multitude of God’s compassions can cover such guilt."
+    },
+    {
+      "number": 2,
+      "text": "Wash me thoroughly from my iniquity, and cleanse me from my sin!",
+      "arminianNotes": "Wash thoroughly; cleanse from sin. Wesley: cleanse me a leprous creature by grace and by the blood signified in ceremonial washings. Filth is inward; washing must go through.\n\nArminian note: the request is earnest cooperation with grace that washes. David does not scrub himself into pardon; he asks God to wash—and means it.",
+      "reformedNotes": "Calvin: multiply to wash me—the stain felt deep, needing multiplied washing. Sin pollutes; remission is aptly compared to washing. The more aggravated the sin, the more earnest the desire for deliverance from terror of conscience.\n\nReformed accent: God alone washes. Shared: thorough cleansing, not a light rinse."
+    },
+    {
+      "number": 3,
+      "text": "For I know my transgressions, and my sin is ever before me.",
+      "arminianNotes": "I know my transgressions; my sin is ever before me. Wesley: acknowledge—confession that keeps the sin in view rather than burying it. Honesty before God is the doorway of mercy.\n\nArminian pastoral: knowledge here is owning, not mere data. Grace enables confession that can still be refused in self-excuse.",
+      "reformedNotes": "Calvin: he is subjected to constant anguish that only reconciliation relieves. Prayer did not proceed from dissimulation; many praise grace who never felt bitterness of divine displeasure. He knows inwardly with keenest anguish.\n\nReformed note: true penitents are wounded and restless until mercy is assured. Shared: sin before the eyes; no shrug."
+    },
+    {
+      "number": 4,
+      "text": "Against you, you only, have I sinned and done what is evil in your sight, so that you may be justified in your words and blameless in your judgment.",
+      "arminianNotes": "Against you, you only, have I sinned—evil in your sight—so you may be justified. Wesley: comparatively: nothing more grievous than sin against God; severities will glorify His justice, not blemish it.\n\nArminian weight: guilt before the Judge is primary even when neighbors were wronged. The confession does not erase Uriah; it ranks the offense rightly.",
+      "reformedNotes": "Calvin: whether the world pardons or not, God is the Judge; conscience hails him to that bar. Cited in Romans 3: God’s righteousness stands even in human sin. David charges himself and justifies God.\n\nReformed pastoral: acquittal among men cannot quiet an accusing conscience. Shared: God justified in judgment."
+    },
+    {
+      "number": 5,
+      "text": "Behold, I was brought forth in iniquity, and in sin did my mother conceive me.",
+      "arminianNotes": "Brought forth in iniquity; conceived in sin. Wesley: the filthy stream leads to a corrupt fountain—this crime the fruit of a vile nature still ready to sin as occasion offers.\n\nArminian reading: original corruption is real and aggravates guilt; it does not excuse the adultery. Nature’s bent is confessed so that grace’s need is plain.",
+      "reformedNotes": "Calvin: not one sin only—born in iniquity, nature entirely depraved. He aggravates guilt, not excuses it. Against Pelagius: sin is hereditary disease, not mere imitation. Corruption extends to every part of the soul.\n\nReformed accent: original sin is confessed to deepen need of new creation. Shared: we are not blank slates.",
+      "keyContrast": "Both confess native corruption behind the crime. Arminians typically stress that inherited bent still leaves the act responsible and grace resistible in response; Reformed readers typically stress total native depravity that only sovereign grace can remake."
+    },
+    {
+      "number": 6,
+      "text": "Behold, you delight in truth in the inward being, and you teach me wisdom in the secret heart.",
+      "arminianNotes": "Truth in the inward being; wisdom in the secret heart. Wesley: uprightness God requires; original corruption and actual sin both contradict that holy will and the knowledge written in the heart.\n\nArminian note: God teaches wisdom inwardly—truth is not only outward law. The heart can be taught; neglect of that teaching worsens the fall.",
+      "reformedNotes": "Calvin: God desires truth in the inward parts—secret as well as gross sins displease Him. David cannot plead ignorance; wisdom was closely brought home. Privilege aggravated the offense.\n\nReformed pastoral: inward truth is God’s delight and gift. Shared: heart-deep honesty, not costume piety."
+    },
+    {
+      "number": 7,
+      "text": "Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow.",
+      "arminianNotes": "Purge with hyssop; wash—whiter than snow. Wesley: as lepers were purified by appointed rites, cleanse me by grace and by Christ’s blood those rites signified.\n\nArminian hope: cleansing is real and available to the contrite who ask. Ceremonial shadow points to blood that actually cleanses.",
+      "reformedNotes": "Calvin: he alludes to legal rites as seals of grace, not trust in the symbol. He asks God to accomplish what the rites signified. The Spirit sprinkles the conscience with Christ’s blood.\n\nReformed accent: atonement is God’s application of Christ’s satisfaction. Shared: whiter than snow is gift."
+    },
+    {
+      "number": 8,
+      "text": "Let me hear joy and gladness; let the bones that you have broken rejoice.",
+      "arminianNotes": "Joy and gladness; bones you have broken rejoice. Wesley: by the Spirit seal pardon on the conscience; the wounded heart comforted.\n\nArminian pastoral: joy is restoration of sensed grace, sought and received. Broken bones name real discipline that mercy can reverse into praise.",
+      "reformedNotes": "Calvin: joy of the Lord reanimates; it comes by hearing the word that pardons. No solid peace except reposing on God’s promises. Bones broken = extreme grief under displeasure.\n\nReformed note: assurance grows as God speaks peace. Shared: joy after fracture."
+    },
+    {
+      "number": 9,
+      "text": "Hide your face from my sins, and blot out all my iniquities.",
+      "arminianNotes": "Hide your face from my sins; blot out all iniquities. Parallel to v. 1—pardon reiterated. Wesley’s silence on the verse still fits the blot-out theme: remove the record from sight.\n\nArminian plea: hide and blot are requests faith keeps making until peace settles. Grace invites the ask.",
+      "reformedNotes": "Calvin: hide face from sins = pardoning; blot out explains it. Justification as God’s voluntary forgetting of iniquities. Reiteration shows depth of anxiety for a hard-won favor.\n\nReformed pastoral: gratuitous pardon cleanses. Shared: no leftover ledger with God."
+    },
+    {
+      "number": 10,
+      "text": "Create in me a clean heart, O God, and renew a right spirit within me.",
+      "arminianNotes": "Create a clean heart; renew a right spirit. Wesley: work an holy frame that purges inward filth; firm, constant resolution; temper of soul fixed and unmoveable.\n\nArminian reading: create names God’s work; renew names a spirit that must be kept steadfast. Grace that creates also calls for a fixed will cooperating with the Spirit.",
+      "reformedNotes": "Calvin: he moves from pardon to sanctification. Create expresses that nothing less than a miracle reforms; repentance is God’s gift. Sophists who leave a middle free will rob God of glory. Renew a right spirit—restoration after fall is still creation-grace.\n\nReformed accent: clean heart is new creation, not self-rehab. Shared: God must make the heart clean.",
+      "keyContrast": "Both ask God to create a clean heart. Arminians typically hear creating grace that renews a spirit the believer must keep steadfast; Reformed readers typically hear new-creation grace that leaves no middle free will to share the glory."
+    },
+    {
+      "number": 11,
+      "text": "Cast me not away from your presence, and take not your Holy Spirit from me.",
+      "arminianNotes": "Cast me not away; take not your Holy Spirit from me. Fear of exile from presence after gross fall. Wesley leaves the verse terse; the plea is retention of the Spirit’s presence.\n\nArminian pastoral: the Spirit can be grieved and the sense of presence lost; the prayer treats that loss as real danger for a believer who has fallen hard.",
+      "reformedNotes": "Calvin: Spirit not altogether taken—gifts obscured, not reprobate mind. Elect may fear loss yet hold that grace is incorruptible seed. Against those who say mortal sin alienates the elect entirely.\n\nReformed comfort: cast-away language is the saint’s fear; perseverance holds underneath. Shared: dread of Spirit withdrawn is holy.",
+      "keyContrast": "Both fear loss of God’s presence after sin. Arminians typically treat the danger as real for a true believer who may finally fall; Reformed readers typically treat the fear as means while denying final loss of the Spirit in the elect."
+    },
+    {
+      "number": 12,
+      "text": "Restore to me the joy of your salvation, and uphold me with a willing spirit.",
+      "arminianNotes": "Restore joy of salvation; uphold with willing spirit. Wesley: comfortable sense of saving grace; free/ingenuous spirit opposed to base servile spirit in his wicked practices—freedom from bondage of sin to run God’s precepts.\n\nArminian hope: joy restored and a willing spirit upheld—grace that frees for cheerful obedience, not forced drudgery.",
+      "reformedNotes": "Calvin: grief remains until peace with God. Free spirit = free and cheerful, not enslaved by guilt; some hear princely courage for kingship. Either way, divine grace alone recovers it.\n\nReformed accent: joy of salvation is restored gift. Shared: willing spirit is not self-generated pep."
+    },
+    {
+      "number": 13,
+      "text": "Then I will teach transgressors your ways, and sinners will return to you.",
+      "arminianNotes": "Then teach transgressors; sinners return. Mercy received becomes mission. Wesley’s economy: restored joy overflows into teaching that others may convert.\n\nArminian pastoral: teaching and return are real aims—grace that saved David aims at others’ turning, which they must still do.",
+      "reformedNotes": "Calvin: gratitude constrains helping others into the same grace. He speaks sanguinely of converting others; we forget God can crown such attempts.\n\nReformed note: recovered saints become instruments. Shared: pardon fuels witness."
+    },
+    {
+      "number": 14,
+      "text": "Deliver me from bloodguiltiness, O God, O God of my salvation, and my tongue will sing aloud of your righteousness.",
+      "arminianNotes": "Deliver from bloodguiltiness; tongue sings righteousness. Wesley: righteousness = clemency and goodness. Bloodguilt names Uriah and more.\n\nArminian plea: deliverance from blood-guilt is begged from the God of salvation; praise follows mercy received.",
+      "reformedNotes": "Calvin: bloods may mean capital guilt/death-sentence felt; he celebrates God’s righteousness as faithfulness to promise and help. O God of my salvation—trembling yet trusting.\n\nReformed pastoral: only mercy clears murder’s stain before heaven. Shared: bloodguilt is not minimized."
+    },
+    {
+      "number": 15,
+      "text": "O Lord, open my lips, and my mouth will declare your praise.",
+      "arminianNotes": "Open my lips; mouth declares praise. Wesley: lips shut with shame and grief. Praise needs God to open what shame closed.\n\nArminian note: praise is enabled response—God opens; the mouth then actually declares.",
+      "reformedNotes": "Calvin: God afford matter of praise; mouth shut until pardon extends. New song after mercy—not mere eloquence tips.\n\nReformed accent: praise is answer to grace. Shared: shame-closed lips need God."
+    },
+    {
+      "number": 16,
+      "text": "For you will not delight in sacrifice, or I would give it; you will not be pleased with a burnt offering.",
+      "arminianNotes": "You will not delight in sacrifice—or I would give it. Wesley: not absolute denial of sacrifice, but these crimes not expiated by any ritual offering.\n\nArminian reading: no bargain of bulls for adultery and murder; mercy and contrition, not payment theater.",
+      "reformedNotes": "Calvin: confidence of pardon though he brings no compensation—relies on riches of mercy. Against those who treat sacrifices as purchase price; rites point to Christ, not self-redemption.\n\nReformed accent: gratuitous reconciliation. Shared: burnt offering cannot buy this clean."
+    },
+    {
+      "number": 17,
+      "text": "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.",
+      "arminianNotes": "Broken spirit; contrite heart God will not despise. Wesley: more value than many sacrifices.\n\nArminian pastoral: contrition is the offering God receives—real humility that can be presented or withheld; grace softens what pride resists.",
+      "reformedNotes": "Calvin: sacrifices of God = broken spirit enough without pretended satisfaction. Broken spirit emptied of vain-glorious confidence; contrite heart has no dealings on exchange. Does not exclude faith; shuts out merit.\n\nReformed note: penitence is not a wage but the empty hand. Shared: God does not despise the crushed heart.",
+      "keyContrast": "Both prize a broken, contrite heart over ritual. Arminians typically stress sincere contrition grace enables and requires; Reformed readers typically stress contrition as emptied of merit, resting on free mercy alone."
+    },
+    {
+      "number": 18,
+      "text": "Do good to Zion in your good pleasure; build up the walls of Jerusalem;",
+      "arminianNotes": "Do good to Zion; build Jerusalem’s walls. Wesley: free rich mercy; perfect the city and especially the temple despite my sins.\n\nArminian note: personal pardon widens into prayer for the people—David’s fall must not ruin Zion; he intercedes.",
+      "reformedNotes": "Calvin: from private prayer to the Church—he had nearly ruined it by his fall. Restores by free good pleasure, not others’ righteousness. God builds the spiritual temple.\n\nReformed accent: Church’s standing is God’s good pleasure. Shared: Zion on the penitent’s lips."
+    },
+    {
+      "number": 19,
+      "text": "then will you delight in right sacrifices, in burnt offerings and whole burnt offerings; then bulls will be offered on your altar.",
+      "arminianNotes": "Then right sacrifices; bulls on the altar. Wesley: then God pleased with sacrifices of righteousness. Order: mercy and contrition first; public worship gladly follows.\n\nArminian hope: restored fellowship renews right offering—not bribes, but grateful obedience in the assembly.",
+      "reformedNotes": "Calvin: sacrifices of righteousness = warrantable, according to commandment, with reference to their proper end. Not empty form. Thanksgiving joins heart disposition to solemn worship.\n\nReformed pastoral: accepted offerings flow from prior mercy. Shared: altar after blot-out."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 84,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 84:1–12",
+  "context": "To the choirmaster: according to The Gittith. A Psalm of the Sons of Korah. How lovely is the LORD of hosts' dwelling; the soul longs and faints for his courts; heart and flesh sing for joy to the living God. Even sparrow and swallow nest near the altars. Blessed are those who dwell in his house, ever praising; blessed those whose strength is in him, highways to Zion in the heart. Through Baca they make springs; they go from strength to strength and appear in Zion. Hear, O God of Jacob; behold our shield; look on your anointed. A day in the courts beats a thousand elsewhere; better a doorkeeper in God's house than tents of wickedness. The LORD God is sun and shield; he withholds no good from the upright. Blessed is the one who trusts in the LORD of hosts.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on lovely tabernacles, longing for the courts, nests at the altars, blessing on dwellers and pilgrims, Baca turned to springs, strength to strength in Zion, the anointed's face, one day in the courts, sun and shield, and trust in the LORD of hosts—so each camp speaks in its own voice beside Psalm 84:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "They—That constantly abide in thy house; priests and Levites, or other devout Jews there perpetually, as Anna. They will—Continually employed in that blessed work. Whose strength—Who trusteth in thee as his only strength. Thy ways—Blessed are they whose hearts are set upon Zion and their journey thither. Baca—A dry valley in the way to Jerusalem, put for all places of like nature. Make a well—They dig little pits or wells for relief. The rain—God recompenses diligence with blessing, sending rain. They go—They grow stronger and stronger. Appeareth—Blessed fruit of their long journey. Look—Cast a favourable eye toward him. Anointed—Of me, who though a vile sinner, am thine anointed king. Than dwell—In the greatest glory and plenty. A sun—To enlighten, quicken, direct, and comfort. Shield—To save from all enemies. Grace—His favour, better than life. Glory—Honour from God here, and eternal glory.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 84"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David complains of being deprived of access to the Church—to profess faith, improve in godliness, and worship. Tabernacles are not first the kingdom of heaven here, but the sanctuary he lacks; God appointed holy assemblies for sojourners. Blessed who dwell in thy house—true worshippers offer praise from the heart, unlike hypocrites of outward ceremony. Blessed whose strength is in thee—lean with the whole heart upon God; ways in their hearts: highest ambition to have God as guide and draw near. Through the valley of weeping they make a fountain; from strength to strength until God is seen in Zion. Look upon the face of thy Anointed—David encourages himself by the royal anointing, yet knowing his kingdom a shadow of something more illustrious. Better one day in thy courts than a thousand; Jehovah is sun and shield; grace and glory; no good withheld from those who walk uprightly; blessed who trusts in thee.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 84"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "How lovely is your dwelling place, O LORD of hosts!",
+      "arminianNotes": "How lovely is your dwelling place, O LORD of hosts! Shared: loveliness of God's dwelling under the name LORD of hosts.\n\nArminian pastoral: Wesley has no extra lemma; amiability of the tabernacles is plain. Love the place where God hosts his people.",
+      "reformedNotes": "Calvin: David laments deprivation of access to the sanctuary; some wrongly make tabernacles only heaven—he was debarred from holy assemblies God appointed for sojourners who know their infirmity.\n\nReformed pastoral: shared—lovely dwelling of the LORD of hosts. Long for the Church's courts as helps God gave, not as empty show."
+    },
+    {
+      "number": 2,
+      "text": "My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God.",
+      "arminianNotes": "My soul longs, yes, faints for the courts of the LORD; my heart and flesh sing for joy to the living God. Shared: soul, heart, and flesh together desire the living God's courts.\n\nArminian pastoral: longing that faints is embodied piety. Sing for joy even while still approaching.",
+      "reformedNotes": "Calvin: soul longeth and fainteth after the courts; heart and flesh leap for joy toward the living God—desire aimed at worship and progress in faith, not mere sightseeing.\n\nReformed pastoral: shared—longing for the courts; joy to the living God. Whole-person desire marks true pilgrims."
+    },
+    {
+      "number": 3,
+      "text": "Even the sparrow finds a home, and the swallow a nest for herself, where she may lay her young, at your altars, O LORD of hosts, my King and my God.",
+      "arminianNotes": "Even the sparrow finds a home, and the swallow a nest for herself, where she may lay her young, at your altars, O LORD of hosts, my King and my God. Shared: birds nest near altars; the exile envies their nearness; God is King and God.\n\nArminian pastoral: sparrow and swallow shame the banished worshiper. My King and my God—covenant address from outside the courts.",
+      "reformedNotes": "Calvin: sparrow and swallow find house and nest at thine altars; he would rather relinquish the world than remain excluded; My King and my God—life bitter when cast off from the territory of the Holy Land.\n\nReformed pastoral: shared—nests at the altars; my King and my God. Nearness to worship outweighs safe retreats elsewhere."
+    },
+    {
+      "number": 4,
+      "text": "Blessed are those who dwell in your house, ever singing your praise! Selah",
+      "arminianNotes": "Blessed are those who dwell in your house, ever singing your praise! Selah Wesley: They—who constantly abide; priests, Levites, or devout Jews perpetually there; They will—continually employed in praise. Shared: dwelling issues in continual praise; Selah.\n\nArminian pastoral: blessing on abiding praisers. Desire their station; join the song when you can.",
+      "reformedNotes": "Calvin: Blessed who dwell in thy house—true worshippers offer the sacrifice of praise from the heart, relying on grace; distinguished from hypocrites of outward ceremony.\n\nReformed pastoral: shared—dwell and ever sing. Heart praise, not empty attendance."
+    },
+    {
+      "number": 5,
+      "text": "Blessed are those whose strength is in you, in whose heart are the highways to Zion.",
+      "arminianNotes": "Blessed are those whose strength is in you, in whose heart are the highways to Zion. Wesley: Whose strength—who trusteth in thee as only strength; Thy ways—hearts set on Zion and the journey thither. Shared: strength in God; highways to Zion in the heart.\n\nArminian pastoral: blessing expands from dwellers to pilgrims. Carry the road to Zion inside.",
+      "reformedNotes": "Calvin: Blessed whose strength is in thee—lean with whole heart upon God; pride laid in the dust; borrow strength by prayer. Ways in their hearts: highest ambition to have God as guide and draw near—not mere ceremony.\n\nReformed pastoral: shared—strength in God; highways in the heart. Progress in faith is the end of desiring the sanctuary."
+    },
+    {
+      "number": 6,
+      "text": "As they go through the Valley of Baca they make it a place of springs; the early rain also covers it with pools.",
+      "arminianNotes": "As they go through the Valley of Baca they make it a place of springs; the early rain also covers it with pools. Wesley: Baca—dry valley toward Jerusalem; Make a well—dig pits for relief; The rain—God recompenses diligence with rain. Shared: dry Baca becomes springs by pilgrim labor and God's rain.\n\nArminian pastoral: weep-valley turned to water. Dig and pray; expect rain that fills what diligence starts.",
+      "reformedNotes": "Calvin: passing through the valley of weeping they make it a fountain; rain covers the cisterns—pilgrims transform affliction's path under God's gift.\n\nReformed pastoral: shared—Baca to springs. Tears and early rain together mark the road to Zion."
+    },
+    {
+      "number": 7,
+      "text": "They go from strength to strength; each one appears before God in Zion.",
+      "arminianNotes": "They go from strength to strength; each one appears before God in Zion. Wesley: They go—grow stronger and stronger; Appeareth—fruit of the long journey. Shared: increasing strength until appearance before God in Zion.\n\nArminian pastoral: strength to strength is pilgrimage math. The goal is appearing before God, not tourism.",
+      "reformedNotes": "Calvin: from strength to strength; the God of gods will be seen in Zion—advancement until vision of God in the appointed place.\n\nReformed pastoral: shared—strength to strength; appear in Zion. Persevering approach ends in God's presence."
+    },
+    {
+      "number": 8,
+      "text": "O LORD God of hosts, hear my prayer; give ear, O God of Jacob! Selah",
+      "arminianNotes": "O LORD God of hosts, hear my prayer; give ear, O God of Jacob! Selah Shared: prayer to LORD of hosts and God of Jacob; Selah.\n\nArminian pastoral: hosts and Jacob—power and covenant in one address. Ask hearing; rest at Selah.",
+      "reformedNotes": "Calvin: David directs wishes to God rather than tormenting himself inwardly; not ostentatious zeal with cold heart. Hear my prayer; God of Jacob—associate with true believers under protection.\n\nReformed pastoral: shared—hear; God of Jacob. Prayer is the pilgrim's wisdom when cut off from ease of access."
+    },
+    {
+      "number": 9,
+      "text": "Behold our shield, O God; look on the face of your anointed!",
+      "arminianNotes": "Behold our shield, O God; look on the face of your anointed! Wesley: Look—favourable eye; Anointed—of me, though a vile sinner, thine anointed king. Shared: God as shield; the anointed's face pleaded.\n\nArminian pastoral: Wesley hears the praying king own both sin and anointing. Plead mercy on the anointed without self-righteousness.",
+      "reformedNotes": "Calvin: Our shield—ranks himself with the Church; Look upon the face of thy Anointed—royal anointing by Samuel encourages hope; yet his kingdom is shadow and type of something more illustrious.\n\nReformed pastoral: shared—shield; look on the anointed. David's plea opens toward the greater Anointed while remaining historically royal.",
+      "keyContrast": "Both plead God's favor through the anointed under the Church's shield. Arminians typically stress Wesley's personal lemma—the praying king, a vile sinner yet God's anointed, asking a favorable look. Reformed readers typically stress Calvin's further move—the historical anointing is real, yet David's kingdom is type of a more illustrious reign—so the face of the anointed finally points beyond David. Shared piety: no confidence in flesh alone."
+    },
+    {
+      "number": 10,
+      "text": "For a day in your courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness.",
+      "arminianNotes": "For a day in your courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness. Wesley: Than dwell—in the greatest glory and plenty. Shared: one day in courts outweighs a thousand; doorkeeper beats wicked tents.\n\nArminian pastoral: threshold of God's house outranks luxurious wickedness. Prefer low holy place to high unholy plenty.",
+      "reformedNotes": "Calvin: better one day in thy courts than a thousand elsewhere; rather door-keeper in God's house than dwell in tents of wickedness—exclusion from worship is worse than lowly station inside.\n\nReformed pastoral: shared—day in courts; doorkeeper over wicked tents. Value nearness to God above comfort with the ungodly."
+    },
+    {
+      "number": 11,
+      "text": "For the LORD God is a sun and shield; the LORD bestows favor and honor. No good thing does he withhold from those who walk uprightly.",
+      "arminianNotes": "For the LORD God is a sun and shield; the LORD bestows favor and honor. No good thing does he withhold from those who walk uprightly. Wesley: Sun—enlighten, quicken, direct, comfort; Shield—save from enemies; Grace—favour better than life; Glory—honour here and eternal glory. Shared: sun, shield, favor/grace, honor/glory; no good withheld from the upright.\n\nArminian pastoral: attributes of God fund the preference of v. 10. Walk uprightly; expect good he does not withhold.",
+      "reformedNotes": "Calvin: Jehovah God is sun and shield; will give grace and glory; withhold no good from those who walk uprightly. Provision for body and soul under fatherly care, without lulling hearts asleep on earth.\n\nReformed pastoral: shared—sun and shield; grace and glory; no good withheld. Upright walking receives what God names good."
+    },
+    {
+      "number": 12,
+      "text": "O LORD of hosts, blessed is the one who trusts in you!",
+      "arminianNotes": "O LORD of hosts, blessed is the one who trusts in you! Shared close: blessing rests on trust in the LORD of hosts.\n\nArminian pastoral: hosts above, trust below. End the pilgrimage psalm on confidence, not on the building alone.",
+      "reformedNotes": "Calvin: O Jehovah of Hosts! blessed is the man who trusteth in thee—closes with trust as the blessed posture.\n\nReformed pastoral: shared—blessed who trusts. The lovely courts serve the God who is trusted."
+    }
+  ]
+}

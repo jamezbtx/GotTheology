@@ -1,0 +1,348 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 89,
+  "verseStart": 1,
+  "verseEnd": 52,
+  "translation": "ESV",
+  "title": "Psalm 89:1–52",
+  "context": "A Maskil of Ethan the Ezrahite. I will sing of the steadfast love of the Lord forever and make known his faithfulness to all generations. Steadfast love built up forever; faithfulness established in the heavens. Covenant with the chosen; sworn to David—offspring and throne for all generations. Heavens praise wonders; none like the Lord among the holy ones; God of hosts mighty, faithfulness all around; sea ruled; Rahab crushed; heavens and earth his; Tabor and Hermon praise; righteousness and justice the foundation of the throne; hesed and faithfulness go before him. Blessed who know the festal shout. Of old in vision: David found, anointed, hand established; foes crushed; firstborn highest of kings; covenant firm; offspring forever as days of heaven; if children forsake—rod and stripes, yet steadfast love not removed, faithfulness not false, oath by holiness. But now cast off and rejected; covenant renounced in appearance; crown defiled in dust; walls breached; foes exalted; throne cast down; days of youth cut short. How long will you hide? Remember short time; where is steadfast love of old sworn to David? Servants mocked; footsteps of the anointed scorned. Blessed be the Lord forever! Amen and Amen.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Ethan the Ezrahite singing steadfast love and faithfulness, the Davidic covenant sworn and built forever, cosmic praise of wonders and holy fear, the anointed found and firstborn of kings, rod for forsaking children yet hesed not removed, then the lament that the crown is cast down and walls breached, how-long prayer, and Amen blessing—so each camp speaks in its own voice beside Psalm 89:1–52.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Sing—prefaces lest complainers of present miseries argue ingratitude for former mercies. Faithfulness—whatsoever hath befallen us proceeded not from thy unfaithfulness. Establish—as firmly and durably as the heavens. Chosen—David, chosen to the kingdom. Build up—perpetuate the kingdom to thy posterity; promised upon condition, and literally accomplished in Christ. Heavens—inhabitants of heaven. Feared—reverence; saints—the society of angels. Rahab—Egypt. Tabor and Hermon—parts of Canaan; rejoice by thy favour. Joyful sound—presence and ordinances; walk under influences of favour. First-born—in some sort David, properly Christ. Forever—throne forever; only in Christ. Witness—the rainbow, Gen 9:12,16. But—having declared certainty, he now humbly expostulates. Youth—flourishing estate of David's kingdom short beyond his next successor. Short—time of our king and kingdom; wherefore made us and him for so little purpose? Anointed—kings of Judah, or the Messiah whose coming the heathen mocked. Blessed—let enemies reproach Messiah-promises; I will bless and encourage myself with them.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 89"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Opens with mercies and covenant to fortify faith against temptation from begun decay: sing mercies even when severity is felt; mercy built forever, truth as stable as the heavens. God himself speaks—covenant with David his chosen by free election, his servant by lawful call; throne forever verified in Christ for the Church's common good. Heavens praise wonders to magnify the covenant's holiness; none among sons of the gods like Jehovah; terrible in the assembly; faithfulness round about him. Sea ruled; Rahab/Egypt crushed; heavens and earth his; Tabor and Hermon rejoice; righteousness and judgment the place of his throne; mercy and truth go before his face. Blessed who know the joyful sound and walk in the light of his countenance; he is the glory of their strength; shield and king from the Holy One. Vision to the godly: help laid on the mighty, David found and anointed; hand established; foes broken; firstborn higher than kings; mercy kept forever; seed as days of heaven. If children forsake—rod and stripes in fatherly moderation, yet loving-kindness not withdrawn nor faithfulness failed; covenant not broken though they break; sworn once by holiness; seed and throne as sun and moon—fulfilled in Christ. But cast off—complaint of appearance, not a charge of falsehood; unburdening before God that faith may hold the promise; walls breached, crown defiled, how long wilt thou hide? Remember short time; where are former mercies sworn to David? Reproach of servants; footsteps of the Anointed mocked. Blessed be Jehovah forever—praise closing the grief.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 89"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I will sing of the steadfast love of the Lord, forever; with my mouth I will make known your faithfulness to all generations.",
+      "arminianNotes": "I will sing of the steadfast love of the Lord, forever; with my mouth I will make known your faithfulness to all generations. Wesley: Sing—prefaces lest complainers of present miseries argue ingratitude for former mercies. Faithfulness—whatsoever befell us proceeded not from thy unfaithfulness. Shared: hesed sung forever; faithfulness made known across generations.\n\nArminian pastoral: Ethan starts with mercy-song before the crown falls (vv. 38–45). Praise first is not denial of pain; it frames the lament.",
+      "reformedNotes": "Calvin: opens with mercies and covenant to fortify faith against temptation from begun decay; mercies plural—abundance against felt severity. Shared: sing when tokens hide.\n\nReformed pastoral: shared—hesed forever; faithfulness to all generations. Break through despairing thoughts at prayer's outset by singing what God has sworn."
+    },
+    {
+      "number": 2,
+      "text": "For I said, \"Steadfast love will be built up forever; in the heavens you will establish your faithfulness.\"",
+      "arminianNotes": "For I said, \"Steadfast love will be built up forever; in the heavens you will establish your faithfulness.\" Wesley: Establish—as firmly and durably as the heavens. Shared: hesed built; faithfulness fixed like the sky.\n\nArminian pastoral: \"I said\" is heart-fixed hope under chastisement. Build mercy as an everlasting structure when sight fails.",
+      "reformedNotes": "Calvin: \"I have said\"—hope of loving-kindness fixed despite severe chastisement; erect in the heart that everlasting building of mercy; truth as stable as the heavens.\n\nReformed pastoral: shared—built forever; established in the heavens. Fatherly affection continues even in anger."
+    },
+    {
+      "number": 3,
+      "text": "You have said, \"I have made a covenant with my chosen one; I have sworn to David my servant:",
+      "arminianNotes": "You have said, \"I have made a covenant with my chosen one; I have sworn to David my servant: Wesley: Chosen—with David, chosen to the kingdom. Shared: God's own speech; covenant and oath to David.\n\nArminian pastoral: the \"You have said\" is stronger than our guess. Cling to the sworn word, not to mood.",
+      "reformedNotes": "Calvin: God himself speaks—more forcible than the prophet alone; covenant with chosen David by free election; servant by royal call, not self-thrust.\n\nReformed pastoral: shared—covenant with the chosen; sworn to David. Election and call ground the throne-promise."
+    },
+    {
+      "number": 4,
+      "text": "'I will establish your offspring forever, and build your throne for all generations.'\" Selah",
+      "arminianNotes": "I will establish your offspring forever, and build your throne for all generations. Selah. Wesley: Build up—perpetuate the kingdom to thy posterity; promised upon condition, and literally accomplished in Christ. Shared: offspring and throne forever; Selah.\n\nArminian pastoral: pause on forever. Historic line and Christ fulfillment belong in one hearing—hold both without splitting the psalm.",
+      "reformedNotes": "Calvin: seed and throne forever—partly successors, strictly verified only in Christ for the Church's common good.\n\nReformed pastoral: shared—offspring forever; throne for all generations. Perpetuity is Christ's before it is any earthly court.",
+      "keyContrast": "Both hear God's oath establishing David's offspring and throne forever, and both locate the fullest permanence in Christ. Arminians typically note Wesley's lemma that the kingdom was promised upon condition and literally accomplished in Christ—historical Davidic line under real terms, Christ the literal fulfillment. Reformed readers typically stress Calvin's free election of David and the irrevocable divine voice: perpetuity belongs to the Mediator for the Church's good, not to human desert. Shared: hesed and faithfulness undergird the throne-word; holy fear before the God who swears."
+    },
+    {
+      "number": 5,
+      "text": "Let the heavens praise your wonders, O Lord, your faithfulness in the assembly of the holy ones!",
+      "arminianNotes": "Let the heavens praise your wonders, O Lord, your faithfulness in the assembly of the holy ones! Wesley: Heavens—inhabitants of heaven; Faithfulness—shall be praised. Shared: cosmic praise of wonders and faithfulness among the holy.\n\nArminian pastoral: covenant praise widens to heaven's choir. Wonders and faithfulness are not private only.",
+      "reformedNotes": "Calvin: from word to works—wonders especially in preserving the Church; truth celebrated in the congregation of the saints.\n\nReformed pastoral: shared—heavens praise; faithfulness in the holy assembly. Magnify the covenant by magnifying the God who keeps it."
+    },
+    {
+      "number": 6,
+      "text": "For who in the skies can be compared to the Lord? Who among the heavenly beings is like the Lord,",
+      "arminianNotes": "For who in the skies can be compared to the Lord? Who among the heavenly beings is like the Lord, Wesley: Among—the highest angels. Shared: no peer in the skies or among heavenly beings.\n\nArminian pastoral: incomparability is holy fear's first lesson. Do not forge companion gods from bright spirits.",
+      "reformedNotes": "Calvin: who in the clouds compared to Jehovah? Among sons of the gods (angels) none like him—admiration must not multiply deities.\n\nReformed pastoral: shared—none comparable; none like the Lord. Angels remain servants; God alone is God."
+    },
+    {
+      "number": 7,
+      "text": "a God greatly to be feared in the council of the holy ones, and awesome above all who are around him?",
+      "arminianNotes": "a God greatly to be feared in the council of the holy ones, and awesome above all who are around him? Wesley: Feared—reverence; Saints—society of angels; All that—encompass his throne. Shared: holy fear in the council; awesome above those around him.\n\nArminian pastoral: fear of reverence, not panic superstition. The council itself fears—so should we.",
+      "reformedNotes": "Calvin: very terrible in the assembly of the saints; angels as around him like body-guards—keep them in their rank.\n\nReformed pastoral: shared—greatly to be feared; awesome above all around him. Holy fear is shared piety."
+    },
+    {
+      "number": 8,
+      "text": "O Lord God of hosts, who is mighty as you are, O Lord, with your faithfulness all around you?",
+      "arminianNotes": "O Lord God of hosts, who is mighty as you are, O Lord, with your faithfulness all around you? Wesley: Round thee—like a girdle; appears in all words and works. Shared: Hosts' God; unmatched might; faithfulness encircling.\n\nArminian pastoral: faithfulness as girdle—steady on every side. Approach with fear and with trust.",
+      "reformedNotes": "Calvin: who is a strong God as thou? Truth round about—steadfast in promises before and behind, right and left.\n\nReformed pastoral: shared—mighty as you are; faithfulness all around. Fear without being barred from approach."
+    },
+    {
+      "number": 9,
+      "text": "You rule the raging of the sea; when its waves rise, you still them.",
+      "arminianNotes": "You rule the raging of the sea; when its waves rise, you still them. Shared: rule over raging sea; rising waves stilled.\n\nArminian pastoral: stilling is the Lord's act. Chaos waters answer his word.",
+      "reformedNotes": "Calvin: read with v. 10—often of the Red Sea divided for the chosen tribes; past help grounds present confidence.\n\nReformed pastoral: shared—rule the sea; still the waves. Exodus-shaped power serves the Church's hope."
+    },
+    {
+      "number": 10,
+      "text": "You crushed Rahab like a carcass; you scattered your enemies with your mighty arm.",
+      "arminianNotes": "You crushed Rahab like a carcass; you scattered your enemies with your mighty arm. Wesley: Rahab—Egypt. Shared: Rahab/Egypt crushed; enemies scattered by the mighty arm.\n\nArminian pastoral: Egypt as carcass is history of grace, not myth theater. Remember scattering when foes rise.",
+      "reformedNotes": "Calvin: Egypt overthrown as a wounded man; arm of strength—mode of acting always similar when wisdom requires.\n\nReformed pastoral: shared—Rahab crushed; enemies scattered. Past deliverance trains trust for present assault."
+    },
+    {
+      "number": 11,
+      "text": "The heavens are yours; the earth also is yours; the world and all that is in it, you have founded them.",
+      "arminianNotes": "The heavens are yours; the earth also is yours; the world and all that is in it, you have founded them. Shared: heavens, earth, world and fullness—his by founding.\n\nArminian pastoral: ownership follows creation. Nothing in the theater is ownerless chance.",
+      "reformedNotes": "Calvin: creator who also presides—absurd to think heavens revolve by chance or earth by random will.\n\nReformed pastoral: shared—heavens yours; earth yours; you founded them. Providence continues creation's claim."
+    },
+    {
+      "number": 12,
+      "text": "The north and the south, you have created them; Tabor and Hermon joyously praise your name.",
+      "arminianNotes": "The north and the south, you have created them; Tabor and Hermon joyously praise your name. Wesley: Tabor/Hermon—parts of Canaan within and beyond Jordan; Rejoice—fruitful by thy favour. Shared: compass points and mountains praise.\n\nArminian pastoral: local mountains joy by favour. Land prosperity is gift-speech, not nature's boast.",
+      "reformedNotes": "Calvin: north, south, Tabor, Hermon—common speech: no part of the fabric fails to honor the Creator.\n\nReformed pastoral: shared—created them; joyously praise your name. Geography itself is summoned to doxology."
+    },
+    {
+      "number": 13,
+      "text": "You have a mighty arm; strong is your hand, high your right hand.",
+      "arminianNotes": "You have a mighty arm; strong is your hand, high your right hand. Shared: mighty arm; strong hand; exalted right hand.\n\nArminian pastoral: power language fuels prayer later when the sword's edge is turned (v. 43).",
+      "reformedNotes": "Calvin: arm furnished with power; hand with strength; right hand exalted—to encourage the godly, not empty spectacle.\n\nReformed pastoral: shared—mighty arm; strong hand; high right hand. Strength celebrated for faith's sake."
+    },
+    {
+      "number": 14,
+      "text": "Righteousness and justice are the foundation of your throne; steadfast love and faithfulness go before you.",
+      "arminianNotes": "Righteousness and justice are the foundation of your throne; steadfast love and faithfulness go before you. Wesley: Justice and judgment—justice in judging. Shared: righteousness/justice under the throne; hesed and faithfulness as forerunners.\n\nArminian pastoral: throne ornaments are moral, not purple. Hesed and faithfulness process before his face.",
+      "reformedNotes": "Calvin: righteousness and judgment pillars of the throne; mercy and truth as pursuivants—God's own sufficient splendor.\n\nReformed pastoral: shared—foundation of the throne; hesed and faithfulness go before. Fix faith on these attributes."
+    },
+    {
+      "number": 15,
+      "text": "Blessed are the people who know the festal shout, who walk, O Lord, in the light of your face,",
+      "arminianNotes": "Blessed are the people who know the festal shout, who walk, O Lord, in the light of your face, Wesley: Know—enjoy presence and ordinances called by trumpets; Walk—under comfortable favour. Shared: blessed knowers of the shout; walk in face-light.\n\nArminian pastoral: festal shout is public worship joy. Walk in light—favour felt, not merely claimed.",
+      "reformedNotes": "Calvin: blessed who know the joyful sound—special privilege to taste paternal goodness and walk in light of countenance.\n\nReformed pastoral: shared—know the festal shout; walk in the light of your face. Happiness is knowing God as Father."
+    },
+    {
+      "number": 16,
+      "text": "who exult in your name all the day and in your righteousness are exalted.",
+      "arminianNotes": "who exult in your name all the day and in your righteousness are exalted. Wesley: Name—knowledge and remembrance of infinite power and goodness. Shared: day-long exultation in the Name; exaltation in his righteousness.\n\nArminian pastoral: all-day joy is Name-centered. Righteousness lifts; self-horn does not.",
+      "reformedNotes": "Calvin: rejoice in his name; glory in his righteousness—abundant ground; daily marks steadfast perseverance.\n\nReformed pastoral: shared—exult in your name; exalted in your righteousness. True magnanimity leans on grace alone."
+    },
+    {
+      "number": 17,
+      "text": "For you are the glory of their strength; by your favor our horn is exalted.",
+      "arminianNotes": "For you are the glory of their strength; by your favor our horn is exalted. Wesley: The glory—to thee alone belongs glory of valiant achievements. Shared: God the glory of strength; favour exalts the horn.\n\nArminian pastoral: give God the glory of every win. Favour, not muscle, lifts the horn.",
+      "reformedNotes": "Calvin: glory of their strength—always sustained by present aid; exaltation depends on good pleasure alone.\n\nReformed pastoral: shared—glory of their strength; by your favor our horn. Yield him the praise of preservation."
+    },
+    {
+      "number": 18,
+      "text": "For our shield belongs to the Lord, our king to the Holy One of Israel.",
+      "arminianNotes": "For our shield belongs to the Lord, our king to the Holy One of Israel. Shared: shield of the Lord; king belonging to the Holy One.\n\nArminian pastoral: defense and kingship are his gifts. Holy One of Israel owns the throne-story.",
+      "reformedNotes": "Calvin: king metaphorically a buckler—defense from God; applies properly to Christ the guardian of our welfare.\n\nReformed pastoral: shared—shield belongs to the Lord; our king to the Holy One. Temporal shadow points to Christ."
+    },
+    {
+      "number": 19,
+      "text": "Of old you spoke in a vision to your godly one, and said: \"I have granted help to one who is mighty; I have exalted one chosen from the people.",
+      "arminianNotes": "Of old you spoke in a vision to your godly one, and said: \"I have granted help to one who is mighty; I have exalted one chosen from the people. Wesley: Vision—usual prophetic mode; Holy one—prophets, especially Samuel and Nathan; Laid help—provided for my people upon a person of courage and wisdom. Shared: old vision; help on the mighty; chosen from the people.\n\nArminian pastoral: help is granted, not seized. Chosen from the people—low origin, high call.",
+      "reformedNotes": "Calvin: then/long since God spoke; help on the mighty whom he endued; exalted one chosen—free will of God, low estate before the hand stretched out.\n\nReformed pastoral: shared—spoke in vision; help to one mighty; exalted one chosen. Divine appointment distinguishes this throne."
+    },
+    {
+      "number": 20,
+      "text": "I have found David, my servant; with my holy oil I have anointed him,",
+      "arminianNotes": "I have found David, my servant; with my holy oil I have anointed him, Shared: found David; holy oil anointing.\n\nArminian pastoral: \"found\" is grace language. Anointing ratifies the servant-king.",
+      "reformedNotes": "Calvin: found—free goodness preventing; servant by call; holy oil the cause of elevation, not David's policy.\n\nReformed pastoral: shared—found David; anointed with holy oil. God found him; he did not climb alone."
+    },
+    {
+      "number": 21,
+      "text": "so that my hand shall be established with him; my arm also shall strengthen him.",
+      "arminianNotes": "so that my hand shall be established with him; my arm also shall strengthen him. Shared: hand established with him; arm strengthens.\n\nArminian pastoral: ongoing strength, not one-day crowning. The arm stays with the anointed.",
+      "reformedNotes": "Calvin: guardian of the kingdom he founded—does not abandon works but carries them to completion.\n\nReformed pastoral: shared—hand established; arm shall strengthen. Founder remains protector."
+    },
+    {
+      "number": 22,
+      "text": "The enemy shall not outwit him; the wicked shall not humble him.",
+      "arminianNotes": "The enemy shall not outwit him; the wicked shall not humble him. Wesley: Exact—not conquer or make tributary. Shared: enemy not outwitting; wicked not humbling.\n\nArminian pastoral: promise of protection amid real foes. Outwitting fails against the Lord's hand.",
+      "reformedNotes": "Calvin: enemy shall not exact; son of iniquity not afflict—throne secured though not without enemies.\n\nReformed pastoral: shared—enemy shall not outwit; wicked shall not humble. Root remains until Christ establishes fully."
+    },
+    {
+      "number": 23,
+      "text": "I will crush his foes before him and strike down those who hate him.",
+      "arminianNotes": "I will crush his foes before him and strike down those who hate him. Shared: foes crushed before him; haters struck down.\n\nArminian pastoral: God fights in front of the king. Hatred of the anointed meets divine stroke.",
+      "reformedNotes": "Calvin: break oppressors before his face; strike haters—divine opposition to those who rise against the throne.\n\nReformed pastoral: shared—crush foes; strike down haters. The Lord's \"I will\" is the battle line."
+    },
+    {
+      "number": 24,
+      "text": "My faithfulness and my steadfast love shall be with him, and in my name shall his horn be exalted.",
+      "arminianNotes": "My faithfulness and my steadfast love shall be with him, and in my name shall his horn be exalted. Shared: faithfulness and hesed with him; horn exalted in the Name.\n\nArminian pastoral: presence of hesed and faithfulness is the king's true wealth. Name exaltation, not self-brand.",
+      "reformedNotes": "Calvin: truth and mercy continue without intermission; horn—glory and power—flourishes by grace for David and Christ's Church.\n\nReformed pastoral: shared—faithfulness and steadfast love with him; horn exalted in my name. Grace from first to last."
+    },
+    {
+      "number": 25,
+      "text": "I will set his hand on the sea and his right hand on the rivers.",
+      "arminianNotes": "I will set his hand on the sea and his right hand on the rivers. Wesley: Set—establish dominion; sea—Mediterranean; rivers—Euphrates branches; uttermost bounds of the land. Shared: hand on sea; right hand on rivers.\n\nArminian pastoral: wide dominion is gift-map. Bounds of promise, not endless appetite.",
+      "reformedNotes": "Calvin: extent of kingdom from sea to Euphrates—promise through Moses fulfilled in David's time as type.\n\nReformed pastoral: shared—hand on the sea; right hand on the rivers. Scope of rule under God's \"I will.\""
+    },
+    {
+      "number": 26,
+      "text": "He shall cry to me, 'You are my Father, my God, and the Rock of my salvation.'",
+      "arminianNotes": "He shall cry to me, 'You are my Father, my God, and the Rock of my salvation.' Shared: cry—Father, my God, Rock of salvation.\n\nArminian pastoral: sonship speech is prayer. Rock of salvation is the cry's ground.",
+      "reformedNotes": "Calvin: chief excellence—accounted Son of God in a special sense; ground of Hebrews 1:5 superiority.\n\nReformed pastoral: shared—You are my Father; my God; Rock of my salvation. Filial cry marks the true king."
+    },
+    {
+      "number": 27,
+      "text": "And I will make him the firstborn, the highest of the kings of the earth.",
+      "arminianNotes": "And I will make him the firstborn, the highest of the kings of the earth. Wesley: First-born—son with privileges; in some sort David, properly Christ; Higher—more fully in the Messiah. Shared: firstborn; highest of earth-kings.\n\nArminian pastoral: firstborn privilege peaks in Christ. David sketches; Messiah fills.",
+      "reformedNotes": "Calvin: first-born higher than kings—honor transcending men and angels in the person Christ represents.\n\nReformed pastoral: shared—firstborn; highest of the kings of the earth. Rank is God's making."
+    },
+    {
+      "number": 28,
+      "text": "My steadfast love I will keep for him forever, and my covenant will stand firm for him.",
+      "arminianNotes": "My steadfast love I will keep for him forever, and my covenant will stand firm for him. Shared: hesed kept forever; covenant firm for him.\n\nArminian pastoral: keep and stand firm—God's verbs. Firmness is promised, not wished.",
+      "reformedNotes": "Calvin: mercy first, then covenant—gratuitous cause; always merciful that the covenant never fail.\n\nReformed pastoral: shared—steadfast love forever; covenant stand firm. Inviolability rests on God's good pleasure."
+    },
+    {
+      "number": 29,
+      "text": "I will establish his offspring forever and his throne as the days of the heavens.",
+      "arminianNotes": "I will establish his offspring forever and his throne as the days of the heavens. Wesley: Forever—sit on the throne forever; accomplished only in Christ. Shared: offspring forever; throne as heaven's days.\n\nArminian pastoral: heaven-days duration outruns every court. Only Christ bears forever strictly.",
+      "reformedNotes": "Calvin: seed forever; throne as days of heaven—everlasting duration found in Christ alone.\n\nReformed pastoral: shared—offspring forever; throne as the days of the heavens. Perpetuity names the Mediator."
+    },
+    {
+      "number": 30,
+      "text": "If his children forsake my law and do not walk according to my rules,",
+      "arminianNotes": "If his children forsake my law and do not walk according to my rules, Shared: real if—children may forsake law and miss his rules.\n\nArminian pastoral: covenant honesty names forsaking. No soft fiction that sons never stray.",
+      "reformedNotes": "Calvin: posterity will fall—unless infinite mercy pardons, no article of covenant would stand; not total extinction of godliness always, but real revolt needing pardon.\n\nReformed pastoral: shared—if children forsake. Adoption does not erase the flesh's falls."
+    },
+    {
+      "number": 31,
+      "text": "if they violate my statutes and do not keep my commandments,",
+      "arminianNotes": "if they violate my statutes and do not keep my commandments, Shared: violate statutes; not keep commandments—heinous terms on purpose.\n\nArminian pastoral: stacked \"ifs\" cover aggravated breach. Severity of words teaches hate of sin.",
+      "reformedNotes": "Calvin: odious terms—forsake, violate, not walk, not keep—even heinous sins in view; patience extended far.\n\nReformed pastoral: shared—violate statutes; not keep commandments. Lenity named without baiting liberty."
+    },
+    {
+      "number": 32,
+      "text": "then I will punish their transgression with the rod and their iniquity with stripes,",
+      "arminianNotes": "then I will punish their transgression with the rod and their iniquity with stripes, Shared: then—rod for transgression; stripes for iniquity.\n\nArminian pastoral: \"then\" is moral sequence. Rod is real; cheap grace is not the text.",
+      "reformedNotes": "Calvin: does not promise escape unpunished—that would encourage sin; chastises with fatherly moderation (2 Sam 7:14).\n\nReformed pastoral: shared—punish with the rod; iniquity with stripes. Medicine, not bare vengeance."
+    },
+    {
+      "number": 33,
+      "text": "but I will not remove from him my steadfast love or be false to my faithfulness.",
+      "arminianNotes": "but I will not remove from him my steadfast love or be false to my faithfulness. Shared: but—hesed not removed from him; faithfulness not falsified.\n\nArminian pastoral: the \"but\" saves hope under the rod. Love stays with the line even when stripes fall.",
+      "reformedNotes": "Calvin: loving-kindness not withdrawn from him—shift of person points to Christ the Head; faithfulness shall not fail; covenant effectual despite human inconstancy.\n\nReformed pastoral: shared—will not remove steadfast love; not be false to faithfulness. Rod and surety together.",
+      "keyContrast": "Both refuse to cancel the rod or the hesed: forsaking children are visited with stripes, yet steadfast love is not removed from the anointed line. Arminians typically pastor the discipline as real moral consequence within a covenant that still holds by God's faithfulness—rod without final divorce. Reformed readers typically stress Calvin's fatherly moderation and the shift to \"from him\": pardon and perseverance flow through the sure Head so the Church is not consumed. Shared: discipline and surety belong together; no open denial of wrath, no erasure of the oath."
+    },
+    {
+      "number": 34,
+      "text": "I will not violate my covenant or alter the word that went forth from my lips.",
+      "arminianNotes": "I will not violate my covenant or alter the word that went forth from my lips. Shared: God will not violate or alter his outgoing word.\n\nArminian pastoral: he will not requite breach with breach. His lips' word outlasts ours.",
+      "reformedNotes": "Calvin: will not break though they break—blots out sins; founded on immutability of his nature.\n\nReformed pastoral: shared—will not violate my covenant; not alter the word. Fix eyes on the covenant when moods quarrel."
+    },
+    {
+      "number": 35,
+      "text": "Once for all I have sworn by my holiness; I will not lie to David.",
+      "arminianNotes": "Once for all I have sworn by my holiness; I will not lie to David. Shared: once-for-all oath by holiness; no lie to David.\n\nArminian pastoral: \"once\" seals irrevocability. Holiness is the oath's weight.",
+      "reformedNotes": "Calvin: once—irrevocable; sworn by holiness (sanctuary-accommodated); compassion for our distrust.\n\nReformed pastoral: shared—sworn by my holiness; will not lie to David. Oath added so faith may rest."
+    },
+    {
+      "number": 36,
+      "text": "His offspring shall endure forever, his throne as long as the sun before me.",
+      "arminianNotes": "His offspring shall endure forever, his throne as long as the sun before me. Shared: offspring forever; throne as the sun before him.\n\nArminian pastoral: sun-duration language. When earthly thrones shake, the simile still points past them.",
+      "reformedNotes": "Calvin: sun as witness—more stable than lower elements; cannot be limited to David when throne was shaken; fulfilled in Christ.\n\nReformed pastoral: shared—endure forever; throne as long as the sun. Promise outlives Rehoboam-scale losses."
+    },
+    {
+      "number": 37,
+      "text": "Like the moon it shall be established forever, a faithful witness in the skies.\" Selah",
+      "arminianNotes": "Like the moon it shall be established forever, a faithful witness in the skies.\" Selah Wesley: Witness—the rainbow, Gen 9:12,16. Shared: moon-forever; faithful witness in the skies; Selah.\n\nArminian pastoral: Wesley hears rainbow-covenant echo. Sky-witness means God stakes permanence publicly.",
+      "reformedNotes": "Calvin: established as the moon; faithful witness in heaven—steadfast token; full sense in the Branch from Jesse.\n\nReformed pastoral: shared—like the moon forever; faithful witness in the skies. Selah before the \"But now.\""
+    },
+    {
+      "number": 38,
+      "text": "But now you have cast off and rejected; you are full of wrath against your anointed.",
+      "arminianNotes": "But now you have cast off and rejected; you are full of wrath against your anointed. Wesley: But—having declared certainty, he now humbly expostulates. Shared: but now—cast off, rejected; wrath against the anointed.\n\nArminian pastoral: the turn is honest prayer, not atheism. Certainty of promise funds the protest.",
+      "reformedNotes": "Calvin: complains that prophecy seemed to fail—not charging falsehood; unburdens to resist distrust; anger against the anointed as reason of change in appearance.\n\nReformed pastoral: shared—cast off and rejected; wrath against your anointed. Lament inside faith, not against the oath."
+    },
+    {
+      "number": 39,
+      "text": "You have renounced the covenant with your servant; you have defiled his crown in the dust.",
+      "arminianNotes": "You have renounced the covenant with your servant; you have defiled his crown in the dust. Shared: covenant seeming renounced; crown defiled in dust.\n\nArminian pastoral: dust-crown is the scandal. Plead it without rewriting vv. 1–37 as fiction.",
+      "reformedNotes": "Calvin: made covenant to cease—to appearance; does not attribute forgetfulness to God; presents temptation so God may succor; crown cast to earth.\n\nReformed pastoral: shared—renounced the covenant (in appearance); crown in the dust. Infirmity speaks; faith still holds the chosen king.",
+      "keyContrast": "Both keep the whole arc: verses 1–37's sure covenant must interpret verses 38–45's ruin, not the reverse. Arminians typically follow Wesley's \"But\": after declaring certainty, Ethan humbly expostulates—present voiding of the crown is lived contradiction pleaded before God, not a theory that God lied. Reformed readers typically follow Calvin: the complaint speaks according to appearance and infirmity while faith remains convinced the chosen king cannot finally be rejected; unburdening before God resists despair. Shared: crown in the dust does not erase sworn hesed; holy fear and lament pray the promise back into view."
+    },
+    {
+      "number": 40,
+      "text": "You have breached all his walls; you have laid his strongholds in ruins.",
+      "arminianNotes": "You have breached all his walls; you have laid his strongholds in ruins. Shared: walls breached; strongholds ruined—God acknowledged as actor.\n\nArminian pastoral: hedge language—kingdom exposed. Name God as the one who breached, then ask him to rebuild.",
+      "reformedNotes": "Calvin: prophet ascribes razing to God—men could not destroy what God set up had anger not kindled.\n\nReformed pastoral: shared—breached walls; strongholds in ruins. Sanctified feeling traces calamity to divine anger."
+    },
+    {
+      "number": 41,
+      "text": "All who pass by plunder him; he has become the scorn of his neighbors.",
+      "arminianNotes": "All who pass by plunder him; he has become the scorn of his neighbors. Shared: passers-by plunder; scorn of neighbors.\n\nArminian pastoral: open field after broken hedges. Neighbor-scorn wounds the anointed's honor.",
+      "reformedNotes": "Calvin: exposed as prey; reproach to neighbors—railings that \"Is this God's excellent king?\" recoil on God.\n\nReformed pastoral: shared—plunder him; scorn of his neighbors. Mockery of the anointed is God's concern."
+    },
+    {
+      "number": 42,
+      "text": "You have exalted the right hand of his foes; you have made all his enemies rejoice.",
+      "arminianNotes": "You have exalted the right hand of his foes; you have made all his enemies rejoice. Shared: foes' right hand exalted; enemies made to rejoice.\n\nArminian pastoral: God took the enemy's side in the drama of judgment. Their joy is part of the plea.",
+      "reformedNotes": "Calvin: God took part with oppressors—courage and faintness are his; kingdom reduced only when anger incensed.\n\nReformed pastoral: shared—exalted foes' right hand; made enemies rejoice. Machinations succeed only under forsaking."
+    },
+    {
+      "number": 43,
+      "text": "You have also turned back the edge of his sword, and you have not made him stand in battle.",
+      "arminianNotes": "You have also turned back the edge of his sword, and you have not made him stand in battle. Shared: sword-edge turned; not made to stand in battle.\n\nArminian pastoral: blunt blade and failed stand—military shame under wrath. Ask for edge restored.",
+      "reformedNotes": "Calvin: blunted edge; not made to stand—further evidences of being forsaken in war.\n\nReformed pastoral: shared—turned back the edge; not made him stand. Battle failure is read theologically here."
+    },
+    {
+      "number": 44,
+      "text": "You have made his splendor to cease and cast his throne to the ground.",
+      "arminianNotes": "You have made his splendor to cease and cast his throne to the ground. Shared: splendor ceased; throne cast to the ground.\n\nArminian pastoral: glory extinguished; seat overturned. Hold this with sun-and-moon oaths above.",
+      "reformedNotes": "Calvin: effaced splendor; throne to the ground—confused spectacle that still drives the saint to the promise.\n\nReformed pastoral: shared—splendor to cease; throne to the ground. Apparent discrepancy fuels bold appeal, not atheism."
+    },
+    {
+      "number": 45,
+      "text": "You have cut short the days of his youth; you have covered him with shame. Selah",
+      "arminianNotes": "You have cut short the days of his youth; you have covered him with shame. Selah Wesley: Youth—flourishing estate of David's kingdom short, not beyond next successor. Shared: youth cut short; covered with shame; Selah.\n\nArminian pastoral: kingdom aged before maturity. Shame-covering is public; Selah before \"How long.\"",
+      "reformedNotes": "Calvin: kingdom compared to a life—waxed old before complete blossom; shortened youth; shame covered.\n\nReformed pastoral: shared—cut short the days of his youth; covered with shame. Brief bloom under judgment."
+    },
+    {
+      "number": 46,
+      "text": "How long, O Lord? Will you hide yourself forever? How long will your wrath burn like fire?",
+      "arminianNotes": "How long, O Lord? Will you hide yourself forever? How long will your wrath burn like fire? Shared: how long—hide forever? wrath burn like fire?\n\nArminian pastoral: prayer replaces mere complaint. Hiding and fire-wrath are pleaded for an end.",
+      "reformedNotes": "Calvin: turns to prayer—proof complaint was joined to faith; how long forever denotes continued calamity; afflictions from sins as scourges.\n\nReformed pastoral: shared—how long; hide forever; wrath like fire. Ask the face; confess wrath's link to sin."
+    },
+    {
+      "number": 47,
+      "text": "Remember how short my time is! For what vanity you have created all the children of man!",
+      "arminianNotes": "Remember how short my time is! For what vanity you have created all the children of man! Wesley: Short—time of king and kingdom; Wherefore—made us and him for so little purpose after solemn covenant? Shared: short time remembered; vanity of humankind.\n\nArminian pastoral: brief reign under oath feels like vanity. Plead the disproportion without charging God as cruel designer.",
+      "reformedNotes": "Calvin: brevity of life—if no taste of goodness, creation seems in vain; yet complaint has excess needing pardon; life not profitless if Father-love is tasted.\n\nReformed pastoral: shared—remember short time; vanity of the children of man. Mortality sharpens the ask for mercy now."
+    },
+    {
+      "number": 48,
+      "text": "What man can live and never see death? Who can deliver his soul from the power of Sheol? Selah",
+      "arminianNotes": "What man can live and never see death? Who can deliver his soul from the power of Sheol? Selah Wesley: What man—all mortal and miserable; kings and people die; therefore do not increase affliction. Shared: none escapes death; none self-delivers from Sheol; Selah.\n\nArminian pastoral: mortality levels kings. Ask God not to pile affliction on the already dying.",
+      "reformedNotes": "Calvin: what man (geber/strong) shall not see death?—no exemption; deliverance from the grave's hand is not human.\n\nReformed pastoral: shared—live and never see death? deliver from Sheol? Death's universality humbles the plea."
+    },
+    {
+      "number": 49,
+      "text": "Lord, where is your steadfast love of old, which by your faithfulness you swore to David?",
+      "arminianNotes": "Lord, where is your steadfast love of old, which by your faithfulness you swore to David? Shared: where—hesed of old; sworn to David in faithfulness.\n\nArminian pastoral: \"where\" is covenant memory, not amnesia of God. Old mercies argue present hope.",
+      "reformedNotes": "Calvin: former mercies—God cannot be unlike himself; sworn in truth; same ground of liberality for posterity.\n\nReformed pastoral: shared—steadfast love of old; swore to David by faithfulness. Unchangeable God is the argument."
+    },
+    {
+      "number": 50,
+      "text": "Remember, O Lord, how your servants are mocked, and how I bear in my heart the insults of all the many nations,",
+      "arminianNotes": "Remember, O Lord, how your servants are mocked, and how I bear in my heart the insults of all the many nations, Wesley: How I—we thy servants; king and people as one. Shared: remember servants' mockery; insults borne in the bosom.\n\nArminian pastoral: collective \"I\"—king and people. Bosom-borne scorn is intimate pain.",
+      "reformedNotes": "Calvin: reproach of servants moves God; insults in the bosom—vomited on the children of God; plural to singular stirs each to pray.\n\nReformed pastoral: shared—servants mocked; insults in my heart. Derision of faith is God's business to repress."
+    },
+    {
+      "number": 51,
+      "text": "with which your enemies mock, O Lord, with which they mock the footsteps of your anointed.",
+      "arminianNotes": "with which your enemies mock, O Lord, with which they mock the footsteps of your anointed. Wesley: Anointed—kings of Judah, or Messiah whose expected coming heathens mocked; footsteps—ways or his coming. Shared: enemies mock the Lord; mock the anointed's footsteps.\n\nArminian pastoral: mockery of footsteps hits God's Messiah-hope. Plead the insult as against him.",
+      "reformedNotes": "Calvin: enemies of the people are enemies of God; footsteps of Messiah—coming derided as fable; railings against simplicity of faith.\n\nReformed pastoral: shared—enemies mock; mock the footsteps of your anointed. Maintain your own cause, O Lord."
+    },
+    {
+      "number": 52,
+      "text": "Blessed be the Lord forever! Amen and Amen.",
+      "arminianNotes": "Blessed be the Lord forever! Amen and Amen. Wesley: Blessed—let enemies reproach Messiah-promises; I will bless and encourage myself with them. Shared close: bless the Lord forever; double Amen.\n\nArminian pastoral: doxology after dust-crown. Blessing is resistance to scorn and self-encouragement in the promises.",
+      "reformedNotes": "Calvin: not a scribe's tack-on—praise after free complaint assuages grief; Amen and Amen; hope of deliverance kept alive.\n\nReformed pastoral: shared—Blessed be the Lord forever! Amen and Amen. Whole arc ends in blessing, not in canceled hesed."
+    }
+  ]
+}

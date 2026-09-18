@@ -1,0 +1,107 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 143,
+  "verseStart": 1,
+  "verseEnd": 12,
+  "translation": "ESV",
+  "title": "Psalm 143:1–12",
+  "context": "A Psalm of David: he asks the LORD to hear prayer and pleas for mercy—answered in faithfulness and righteousness—yet not to enter into judgment with His servant, for no one living is righteous before Him. The enemy has pursued, crushed, and darkened his life; spirit faints and heart is appalled. He remembers days of old, meditates on God’s works, stretches out hands, and thirsts like parched land. He seeks a quick answer, morning steadfast love, the way he should go, deliverance and refuge, teaching to do God’s will, the good Spirit on level ground, life preserved for the name’s sake, and steadfast love cutting off adversaries—for he is God’s servant.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on mercy without courtroom condemnation, a fainting spirit that still remembers God, thirst like parched land, and the good Spirit leading on level ground—so each camp speaks in its own voice beside Psalm 143:1–12.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "The psalmist prays for mercy, and deprecates judgment; this is the last of the seven Psalms styled penitential. In thy faithfulness answer me—Thou hast promised to support me in my difficulties, and, though my children should forsake me, never to withdraw thy loving-kindness from me. Enter not into judgment—Do not come into court, either as a Witness against me, or as a Judge, else I am ruined; for thou hast seen all my ways that they are evil, and thy justice requires thee to punish me. Nor can any soul that has ever lived be justified in the sight of thy justice and righteousness. I remember the days of old—Thou hast often helped me; I will therefore trust in thee. As a thirsty land—Parched and burned by the sun, longs for rain, so does my thirsty soul for the living God. Teach me to do thy will—to be found doing the will of God is the only safe state for man. Thy Spirit is good—the Author of every good desire and holy purpose; let it lead me by its continued inspirations and counsels into the land of uprightness.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 143)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Although the enemies with whom David had to contend were wicked, and their persecution as unjust as it was cruel, David recognized the just judgment of God in it all, and seeks to conciliate his favor by humbly supplicating pardon. Under the term justice, or righteousness, we are not to suppose that he speaks of merit, or hire, but of that goodness of God which leads him to defend his people. To the same effect does he speak of God’s truth or faithfulness; for the best proof he can give of his faithfulness is in not forsaking those whom he has promised to help. Enter not into judgment: while those to whom David was opposed were wicked men, and he was perfectly conscious of the rectitude of his cause as regarded them, he freely acknowledged his sin before God as a condemned suppliant. If David found refuge nowhere else than in prayer for pardon, who is there amongst us who would presume to come before God trusting in his own righteousness and integrity? He declares that there is none amongst men who could be just before God were he called to plead his cause. God can only show favor to us in our approaches by throwing aside the character of a judge, and reconciling us to himself in a gratuitous remission of our sins. All human righteousnesses, accordingly, go for nothing, when we come to his tribunal.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 143)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Hear my prayer, O LORD; give ear to my pleas for mercy! In your faithfulness answer me, in your righteousness!",
+      "arminianNotes": "Hear my prayer; give ear to pleas for mercy; answer in faithfulness and righteousness. Clarke: Thou hast promised support—undertake for me.\n\nClassical Arminians plead mercy on God’s own faithfulness. Righteousness here is not the servant’s wage claim but God’s character answering prayer.",
+      "reformedNotes": "Calvin: oppression must have been extreme for such earnest lament; righteousness is that goodness by which God defends His people, and faithfulness is not forsaking those He promised to help.\n\nReformed comfort: prayer leans on what God is—just and true in mercy—not on the servant’s hire. Shared: hear; answer in faithfulness and righteousness."
+    },
+    {
+      "number": 2,
+      "text": "Enter not into judgment with your servant, for no one living is righteous before you.",
+      "arminianNotes": "Enter not into judgment—Clarke: do not come into court as Witness or Judge, else I am ruined; no soul that has lived can be justified before thy justice.\n\nArminian hearing: the plea is real humility before strict justice. Grace enables the cry; the servant does not swagger into court on personal perfection.",
+      "reformedNotes": "Calvin: though enemies were wicked and his cause right toward them, he acknowledges sin before God as a condemned suppliant. None among men is just before God if called to plead; favor comes by gratuitous remission, not by surviving scrutiny.\n\nReformed accent: all human righteousnesses go for nothing at His tribunal. Shared: no one living is righteous before You.",
+      "keyContrast": "Both confess that no one living is righteous before the LORD and that the servant must plead not to enter judgment. Arminians, with Clarke, typically stress the ruined case under strict justice and the need to flee to mercy rather than courtroom merit. Reformed readers, with Calvin, typically stress gratuitous remission—God setting aside the Judge’s role toward those who cast themselves on pardon, not a partial righteousness that can endure His scrutiny."
+    },
+    {
+      "number": 3,
+      "text": "For the enemy has pursued my soul; he has crushed my life to the ground; he has made me sit in darkness like those long dead.",
+      "arminianNotes": "Enemy pursued, crushed, darkened—like those long dead. Clarke: dark places may picture caves or even tombs of refuge.\n\nArminian pastoral: name the persecution without pretending strength. Hopelessness in man’s eye is still an argument in prayer, not a reason to quit.",
+      "reformedNotes": "Calvin’s frame: cruelty of enemies is complained of even while God is remembered. Darkness like the long dead marks extremity.\n\nReformed note: unjust persecution does not cancel the need to seek God; the lament still travels toward pardon and help. Shared: pursued, crushed, darkened."
+    },
+    {
+      "number": 4,
+      "text": "Therefore my spirit faints within me; my heart within me is appalled.",
+      "arminianNotes": "Spirit faints; heart appalled. Clarke: deeply depressed, utterly destitute of comfort—no companion of sorrows.\n\nBoth camps: faintness is confessed honestly. Classical Arminians refuse stoic denial; the heart’s desolation is brought to God.",
+      "reformedNotes": "Calvin’s psalm moves from faint affliction to remembered God. Appalled heart is not unbelief’s last word when prayer continues.\n\nReformed pastoral: admit the faint spirit; then remember, meditate, and stretch hands. Shared: spirit faints; heart appalled."
+    },
+    {
+      "number": 5,
+      "text": "I remember the days of old; I meditate on all that you have done; I ponder the work of your hands.",
+      "arminianNotes": "Remember days of old; meditate on what You have done; ponder Your hands’ work. Clarke: Thou hast often helped—therefore I will trust.\n\nArminian practice: memory fuels trust. Past mercies are rehearsed so present thirst does not erase God’s track record.",
+      "reformedNotes": "Calvin: amidst affliction he still remembered God. Meditation on works is how a fainting spirit recovers its bearings.\n\nReformed accent: remembering is faith’s discipline under rod and rescue alike. Shared: remember; meditate; ponder."
+    },
+    {
+      "number": 6,
+      "text": "I stretch out my hands to you; my soul thirsts for you like a parched land. Selah",
+      "arminianNotes": "Hands stretched; soul thirsts like parched land. Clarke: distress extends hands for succor; the land longs for rain—so the soul for the living God.\n\nShared: thirst for God Himself. Classical Arminians urge this eager reaching—grace awakens desire that still stretches toward Him.",
+      "reformedNotes": "Calvin’s movement: after memory comes open thirst. The object is God, not merely escape techniques.\n\nReformed comfort: parched-land thirst is pious, not theatrical. Shared: stretch out hands; thirst for You."
+    },
+    {
+      "number": 7,
+      "text": "Answer me quickly, O LORD! My spirit fails! Hide not your face from me, lest I be like those who go down to the pit.",
+      "arminianNotes": "Answer quickly—spirit fails; hide not Your face, lest I be like those going down to the pit. Clarke: make haste—a few hours and the case may be irretrievable.\n\nArminian urgency: delay can feel fatal. Asking for speed is faith’s honesty, not unbelief’s demand.",
+      "reformedNotes": "Calvin: grief is great; the pit threatens when the face is hidden. Quick answer is sought from the God who promised help.\n\nReformed note: haste in prayer matches extremity, not distrust of providence. Shared: answer quickly; hide not Your face."
+    },
+    {
+      "number": 8,
+      "text": "Let me hear in the morning of your steadfast love, for in you I trust. Make me know the way I should go, for to you I lift up my soul.",
+      "arminianNotes": "Morning steadfast love; I trust; make me know the way, for I lift my soul to You. Clarke: perhaps offered by night—show the path when every road seems owned by foes.\n\nClassical Arminians ask guidance they mean to walk. Trust lifts the soul; the way is sought, not invented.",
+      "reformedNotes": "Calvin’s larger aim includes guidance so life may be devoted to God’s fear. Morning love and known way answer trust.\n\nReformed accent: the known way is God’s directing mercy. Shared: steadfast love; trust; make me know the way."
+    },
+    {
+      "number": 9,
+      "text": "Deliver me from my enemies, O LORD! I have fled to you for refuge!",
+      "arminianNotes": "Deliver me; I have fled to You for refuge. Clarke: hide me that enemies seeking life may not find me.\n\nShared: refuge is the LORD. Arminian pastoral: flee—do not negotiate with pursuers as if self-help were enough.",
+      "reformedNotes": "Calvin: deliverance is sought from the God who defends His people in righteousness and faithfulness.\n\nReformed comfort: flight to God is the condemned suppliant’s wisdom. Shared: deliver me; fled for refuge."
+    },
+    {
+      "number": 10,
+      "text": "Teach me to do your will, for you are my God! Let your good Spirit lead me on level ground!",
+      "arminianNotes": "Teach me to do Your will—You are my God; let Your good Spirit lead on level ground. Clarke: doing God’s pleasure is the only safe state; the Spirit is Author of good desire—lead by continued inspirations into upright land.\n\nArminian accent: teachableness and Spirit-led obedience the servant must actually take up. Level ground is walked under good leading, not claimed as autonomous virtue.",
+      "reformedNotes": "Calvin’s summary seeks restoration and the Spirit’s guidance so the remainder of life is devoted to God’s fear. The good Spirit’s leading is God’s own work toward an upright path.\n\nReformed accent: Spirit-led obedience is gift for a people God keeps—not a ladder of self-wrought perfection. Shared: teach me; Your Spirit is good; lead on level ground.",
+      "keyContrast": "Both ask to be taught God’s will and led by His good Spirit on level ground. Arminians, with Clarke, typically stress Spirit-wrought desire and counsel the hearer must follow into upright living. Reformed readers, with Calvin, typically stress that such leading is God’s restoring guidance of a pardoned servant—life devoted to His fear—not a claim that the will is already whole enough to walk alone."
+    },
+    {
+      "number": 11,
+      "text": "For your name's sake, O LORD, preserve my life! In your righteousness bring my soul out of trouble!",
+      "arminianNotes": "For Your name’s sake preserve my life; in Your righteousness bring my soul out of trouble. Clarke: I am as a dead man—quicken me.\n\nArminian plea: life and exit from trouble rest on His name and righteousness, not on the servant’s leverage.",
+      "reformedNotes": "Calvin: righteousness is God’s defending goodness, not the servant’s merit. Name’s sake and righteousness answer the plea.\n\nReformed accent: preservation for the name glorifies the God who remits and defends. Shared: name’s sake; righteousness; out of trouble."
+    },
+    {
+      "number": 12,
+      "text": "And in your steadfast love you will cut off my enemies, and you will destroy all the adversaries of my soul, for I am your servant.",
+      "arminianNotes": "In steadfast love cut off enemies and destroy soul-adversaries—for I am Your servant. Clarke: mercy to me and the kingdom; I will love and serve Thee.\n\nShared: servant identity under steadfast love. Classical Arminians hear loyal service as the posture of the delivered—not private revenge dressed as piety.",
+      "reformedNotes": "Calvin: wicked enemies and unjust cruelty are real; yet the servant seeks God’s mercy-dealing rather than self-justifying war.\n\nReformed note: steadfast love executes the servant’s cause. Shared: steadfast love; adversaries destroyed; I am Your servant."
+    }
+  ]
+}

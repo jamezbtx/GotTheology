@@ -1,0 +1,83 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 101,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 101:1–8",
+  "context": "A Psalm of David, composed between the promise of the kingdom and his possession of it: he vows to sing of steadfast love and justice, walk with integrity in his house, refuse worthless and perverse company, destroy the secret slanderer and the arrogant, favor the faithful who walk blameless, shut deceit from his dwelling, and morning by morning cut off the wicked from the city of the LORD.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a king's vow of mercy and justice, integrity of heart, and the morning purge of the wicked from the city of the LORD—so each camp speaks in its own voice beside Psalm 101:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "This psalm was composed by David between the time of God's promising the kingdom to him and his actual possession of it. I will sing—I will praise thee, O Lord, for thy mercy and justice, which thou hast so eminently discovered in the government of the world, and of thy people; and I will make it my care to imitate thee herein. I will manage all my affairs with wisdom and integrity. When—God is often said in scripture to come to men, when he fulfills a promise to them. House—in my court and family, as well as in my public administrations. Depart—shall be turned out of my court. Know—not own nor countenance. Early—speedily; as soon as I am seated in the throne.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 101)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David was not as yet put in possession of the kingdom, but having been already created king by the appointment of God, he prepares himself for exercising the government in the best manner, and engages by a solemn vow to be God's faithful servant. To sing of mercy and of judgment is to declare that he would be a just and an upright king. He acknowledges that it was by the favor of God that he was appointed to so distinguished an office. He comprehends princely virtues under mercy and judgment. He protests that he will not be like other kings who are intoxicated with dignity, but will behave himself prudently in a perfect way. He will not set a wicked thing before his eyes; the perverse heart shall depart from him. Early will he destroy all the wicked of the land, that he may cut off the workers of iniquity from the city of Jehovah. As the kingdom of David was only a faint image of the kingdom of Christ, we ought to set Christ before our view, who will at length separate the sheep from the goats.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 101)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I will sing of steadfast love and justice; to you, O LORD, I will make music.",
+      "arminianNotes": "Wesley: I will praise thee, O Lord, for thy mercy and justice, which thou hast so eminently discovered in the government of the world and of thy people; and I will make it my care to imitate thee herein. The song is praise and imitation together—steadfast love and justice held up as the pattern of rule.\n\nArminian hearing: David freely vows before the throne is fully his. Mercy and justice are God's first; the king's music is a living resolve to copy them. Grace enables the vow; the singer still must sing and then walk what he sings.",
+      "reformedNotes": "Calvin: to sing of mercy and of judgment is equivalent to declaring in solemn terms that he would be a just and an upright king. Unto thee, O Jehovah, will I sing psalms: he acknowledges that it was by the favor of God that he was appointed to so distinguished an office. He comprehends all princely virtues under these two particulars, mercy and judgment.\n\nReformed accent: the song is first thanksgiving for a calling God gave, then a vow shaped by that gift. Mercy and justice are not private taste; they are the King's own virtues under which David will rule."
+    },
+    {
+      "number": 2,
+      "text": "I will ponder the way that is blameless. Oh when will you come to me? I will walk with integrity of heart within my house;",
+      "arminianNotes": "Wesley: I will manage all my affairs with wisdom and integrity. When—God is often said in scripture to come to men, when he fulfills a promise to them. House—in my court and family, as well as in my public administrations. Integrity begins at home before it fills a palace.\n\nArminian pastoral: the blameless way is pondered and then walked. The cry \"when will you come\" is longing for the promise's fulfillment, not despair of agency. Private integrity is the rehearsal for public rule; grace enables, the king must still walk.",
+      "reformedNotes": "Calvin: I will behave myself prudently in a perfect way. Almost all kings are intoxicated with the splendors of royalty; David protests he will look warily to himself. Wisdom consists in uprightness, not in wicked devices. Till thou comest to me: although he continued a private person, he did not cease to follow after uprightness—setting the midst of his house against palaces and public buildings.\n\nReformed accent: the vow is already practiced in the private house under God's appointment. Self-control under rising power is rare grace; the perfect way is integrity God requires of the king he has named.",
+      "keyContrast": "Both hear a real vow of blameless integrity while David still waits for the kingdom. Arminians typically stress grace-enabled resolve the king must actually ponder and walk in house and court. Reformed readers typically stress that God already appointed him king, so the prudence and integrity are the faithful exercise of a calling given, not a self-made ladder into power."
+    },
+    {
+      "number": 3,
+      "text": "I will not set before my eyes anything that is worthless. I hate the work of those who fall away; it shall not cling to me.",
+      "arminianNotes": "Worthless things will not be set before the eyes; the work of those who fall away is hated and must not cling. Wesley's particulars of the vow begin here: what the eyes entertain becomes the court's climate.\n\nArminian reading: refusal is an act of the will under grace. Hate of apostasy's work is moral, not theatrical. The danger is clinging—evil that sticks if not shut out. Keep the eyes; the heart follows.",
+      "reformedNotes": "Calvin: to set a wicked thing before one's eyes is to purpose wickedness. He declares he will turn away from all wickedness; no man can be a just punisher of wrong who does not abhor it with all his heart. He will never have any share in wicked defections from the path of rectitude.\n\nReformed accent: the king's eyes are a public office. Hatred of falling away is the prerequisite of judgment; consent to worthless things unfits the sword."
+    },
+    {
+      "number": 4,
+      "text": "A perverse heart shall be far from me; I will know nothing of evil.",
+      "arminianNotes": "Wesley: Depart—shall be turned out of my court. Know—not own nor countenance. The perverse heart is expelled; evil is neither owned nor winked at.\n\nArminian hearing: distance from perversity is a lived policy. \"Know nothing of evil\" is refusal to countenance it, not pretended ignorance. The court is cleaned by choices that can still be resisted or kept.",
+      "reformedNotes": "Calvin: he protests he will be free from all perfidiousness and wickedness—he will keep himself from wrongdoing and will not even know what it is to do wrong to his neighbors. The second clause expounds the first: I will not know evil.\n\nReformed accent: purity of the ruler's heart is not optional decoration. Knowing evil here is owning and practicing it; the king under God renounces both."
+    },
+    {
+      "number": 5,
+      "text": "Whoever slanders his neighbor secretly I will destroy. Whoever has a haughty look and an arrogant heart I will not endure.",
+      "arminianNotes": "Secret slander and haughty arrogance will not be endured. David's vow now names concrete vices that poison a people: whispered ruin and proud eyes.\n\nArminian pastoral: destroy and not endure are judicial acts of a king, not private vengeance. The hearer who is not a king still learns to refuse the tongue and the look. Grace schools the will against both.",
+      "reformedNotes": "Calvin: he speaks of the duty of a king armed with the sword. Detraction and pride are offensive to all good men, but not all have the right to cut them off. David, placed on the royal throne, received a sword from God's hand. Secret slander is ambush and poison. The proud are lofty of eyes and wide of heart—never satisfied unless they swallow the world. Good order requires princes to repress pride.\n\nReformed accent: office and calling bound his hands until God gave the sword; then justice must not sleep. Gentleness is required of God's children; the king's endurance of arrogance would betray the simple."
+    },
+    {
+      "number": 6,
+      "text": "I will look with favor on the faithful in the land, that they may dwell with me; he who walks in the way that is blameless shall minister to me.",
+      "arminianNotes": "Favor falls on the faithful; the blameless walker shall minister. The positive half of the vow matches the refusals: whom he will keep near is as important as whom he will cut off.\n\nArminian reading: faithfulness and the blameless way are real paths people walk under enabling grace. Preferring such company is a choice of court and conscience. The king's table catechizes the land.",
+      "reformedNotes": "Calvin: a wise prince makes the faithful of the land his intimate friends and takes as servants those distinguished for personal worth. Though a prince be the best of men, if his officers are corrupt his subjects gain little. Servants are the hands of a prince; avaricious or fraudulent hands overthrow good determinations. He speaks of the faithful first, because talents without fidelity never rightly execute judgment.\n\nReformed accent: God cares who stands near the throne. Preferring the faithful is how a king serves the people's peace under providence."
+    },
+    {
+      "number": 7,
+      "text": "No one who practices deceit shall dwell in my house; no one who utters lies shall continue before my eyes.",
+      "arminianNotes": "Deceit shall not dwell; lies shall not continue before his eyes. The house and the gaze stay clean. Wesley's \"know—not own nor countenance\" still governs the door.\n\nArminian pastoral: dwelling and continuing are permissions a ruler grants or refuses. Truthfulness is not optional polish; it is the condition of nearness. Keep the house; the kingdom follows the household.",
+      "reformedNotes": "Calvin: this may cover magistrates and household servants; having spoken of officers generally, he now speaks of those near the king's person. When chief counselors are deceitful, they become a source of all corruptions and a banner of licentiousness. Authority that cannot hold under the domestic roof is of little worth in state affairs.\n\nReformed accent: the king's house is the seedbed of public justice. Lies before his eyes would train a nation to lie."
+    },
+    {
+      "number": 8,
+      "text": "Morning by morning I will destroy all the wicked in the land, cutting off all the evildoers from the city of the LORD.",
+      "arminianNotes": "Wesley: Early—speedily; as soon as I am seated in the throne. Morning by morning names prompt, repeated justice, not a single show of force. The city of the LORD is to be kept from evildoers.\n\nArminian hearing: the vow aims at a holy city under a king who acts. Speed and perseverance matter; delay trains wickedness. Classical Arminians still refuse to make this verse a blank check for cruelty—justice must be real and measured, yet not asleep.",
+      "reformedNotes": "Calvin: he will endeavor to purge the land from infamous persons. Early, in the plural mornings, denotes unremitted exertion. If princes are supine, they never seasonably remedy evils; they must oppose beginnings. Strictness not carried to excess is pleasing to God; cruel kindness that gives loose reins to the wicked is not. As David's kingdom was a faint image of Christ's, set Christ before your view—he will call hypocrites to account and separate sheep from goats; if he tarries, think of that morning which will suddenly dawn.\n\nReformed accent and shared christology: the morning purge of the city of the LORD finds its fullness in Christ's kingdom. Both camps may confess the Son's final cutting off of evildoers without turning the verse into a modern political weapon.",
+      "keyContrast": "Both confess a king's duty to cut off the wicked from the city of the LORD, and both may see David's throne as imaging Christ's. Arminians typically hear a grace-enabled, resistible resolve to practice prompt justice when the throne is given. Reformed readers typically hear a calling already appointed by God, whose morning justice foreshadows Christ's effectual judgment, not a bare human program of reform."
+    }
+  ]
+}

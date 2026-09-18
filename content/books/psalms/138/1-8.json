@@ -1,0 +1,83 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 138,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 138:1–8",
+  "context": "A Psalm of David: wholehearted thanks before the gods, worship toward the holy temple for steadfast love and faithfulness, and the claim that God has exalted His name and His word. Answered prayer strengthens the soul; kings will thank the LORD for the words of His mouth and sing of His ways. Though high, He regards the lowly; in trouble He preserves, opposes enemies’ wrath, and fulfills His purpose—steadfast love forever, with the plea not to forsake the work of His hands.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on wholehearted praise, magnified word, answered cry, regard for the lowly, and the LORD finishing His work—so each camp speaks in its own voice beside Psalm 138:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "The gods—Before kings and princes. Temple—Where the ark was; he was not permitted to enter into it. Magnified—For thou hast glorified thy word or promise unto me more than any other of thy glorious perfections. The kings—A prophecy of the calling of the Gentiles. Hear—The gospel preached among them. The ways—His wonderful counsel and gracious providences. Perfect—Will finish the great work of my deliverance. Forsake not—Or, do not give over, the work of my salvation, which is thus far advanced, not by any human help, but by thy power and providence.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 138)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David, remembering singular help and the experience of God’s faithfulness and goodness, stirs himself to gratitude and from known faithfulness anticipates continuance of mercy. I will praise thee with my whole heart—sincerity, not empty words; before the angels (or eminent assembly) he will sing. He singles out mercy and truth: nothing more stimulates thanksgiving than free mercy, and we cannot taste it lively otherwise than through the word. Thou hast magnified thy name above all things by thy word—God’s name exalted by faithfully performing free promises. In the day I cried thou answeredst—escape was not fortuitous; prayer discovers His goodness. Though Jehovah is high, He regards the lowly; distance does not prevent His fatherly care. Should I walk in the midst of trouble, thou wilt revive me—faith sees life in the midst of death. Jehovah will perform for me: His mercy is everlasting; He will not forsake the works of His hands. What He has begun He will perfect; betake yourself to prayer that indolence may not bar the stream of His goodness.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 138)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I give you thanks, O LORD, with my whole heart; before the gods I sing your praise;",
+      "arminianNotes": "Wesley: before the gods—kings and princes. Whole-heart thanks refuses double speech.\n\nArminian pastoral: praise is public and sincere. Give thanks where the powerful can hear; lip-service without the heart is not this verse.",
+      "reformedNotes": "Calvin: whole heart means sincere, not double; praise of a public kind before angels (or an honored assembly) as in a heavenly theater.\n\nReformed accent: gratitude rises from distinguishing mercies. Hypocrisy empties thanks; sincerity matches the God who helped."
+    },
+    {
+      "number": 2,
+      "text": "I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness, for you have exalted above all things your name and your word.",
+      "arminianNotes": "Wesley: temple—toward the ark he could not enter; magnified—God glorified His promise above other perfections toward the psalmist.\n\nArminian reading: steadfast love and faithfulness call for thanks. Trust the word God has exalted; bowed worship answers promise kept.",
+      "reformedNotes": "Calvin: mercy and truth coupled—goodness tasted through the word; God’s name exalted by performing free promises, awakening dull hearts.\n\nReformed note: outward symbol draws the mind up; the heart still worships spiritually. Word and name rise together in faithful fulfillment."
+    },
+    {
+      "number": 3,
+      "text": "On the day I called, you answered me; my strength of soul you increased.",
+      "arminianNotes": "Answered calling increases soul-strength. Prayer met with help is not luck.\n\nArminian pastoral: keep calling. God sincerely answers; inward fortitude is mercy received, then to be used in further trust.",
+      "reformedNotes": "Calvin: commonly God stirs prayer by His Spirit then crowns it; increased strength in the soul proves the escape was His answer.\n\nReformed accent: answered prayer near-discovers goodness. Weak and afflicted, the saint is multiplied with spiritual strength from God."
+    },
+    {
+      "number": 4,
+      "text": "All the kings of the earth shall give you thanks, O LORD, for they have heard the words of your mouth,",
+      "arminianNotes": "Wesley: kings—prophecy of Gentile calling; hear—the gospel among them.\n\nArminian hearing: the LORD’s words are meant to be heard widely. Thanksgiving among kings answers revelation sincerely offered to the nations.",
+      "reformedNotes": "Calvin: report of God’s preserving word spreads; even kings hear that David was kept because God had commanded his anointing—illustrating goodness beyond Israel’s circle.\n\nReformed note: the mouth of the LORD publishes what makes rulers give thanks. Fame of promise-keeping serves His glory among the nations."
+    },
+    {
+      "number": 5,
+      "text": "and they shall sing of the ways of the LORD, for great is the glory of the LORD.",
+      "arminianNotes": "Wesley: ways—wonderful counsel and gracious providences. Glory great enough to set kings singing.\n\nArminian pastoral: sing the LORD’s ways, not only private wins. His counsel and kindness are public theme for grateful mouths.",
+      "reformedNotes": "Calvin: let them sing of Jehovah’s ways; great is His glory—the spread of praise matches the greatness of the God who spoke and saved.\n\nReformed accent: ways of the LORD are matter for song because His glory is great. Gentile lips join what His word has made known."
+    },
+    {
+      "number": 6,
+      "text": "For though the LORD is high, he regards the lowly, but the haughty he knows from afar.",
+      "arminianNotes": "High, yet He regards the lowly; the haughty He knows only from afar. Condescension invites the humble; pride finds distance.\n\nArminian reading: approach in lowliness. God’s height does not cancel His regard for those who bow; haughtiness still meets His knowing scrutiny.",
+      "reformedNotes": "Calvin: greatness does not prevent respect to the poor; highly exalted, He still notices what seems far off—fatherly care without losing reverence for majesty.\n\nReformed comfort: do not let divine majesty erase goodness, nor mercy erase awe. The high God governs the lowly near; He is not an Epicurean absentee.",
+      "keyContrast": "Both confess that the high LORD regards the lowly and knows the haughty from afar. Arminian readers typically stress the pastoral invitation: humble yourselves and find real regard. Reformed readers typically stress providence—God’s exalted glory never cancels His near government of the poor, nor His distant disdain of proud self-exaltation."
+    },
+    {
+      "number": 7,
+      "text": "Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the wrath of my enemies, and your right hand delivers me.",
+      "arminianNotes": "In mid-trouble He preserves; His hand against enemies’ wrath; right hand delivers. Trouble is real; so is rescue.\n\nArminian pastoral: walk through trouble calling on Him. Preservation and deliverance are gifts to trust and seek, not grounds for denial of danger.",
+      "reformedNotes": "Calvin: faith’s office is to see life in the midst of death; God revives, stretches His hand against wrath, and saves by an invincible right hand.\n\nReformed accent: believers are not promised a path beyond all arrows, but a Preserver in the conflict. One foot toward the grave still flees under His wings."
+    },
+    {
+      "number": 8,
+      "text": "The LORD will fulfill his purpose for me; your steadfast love, O LORD, endures forever. Do not forsake the work of your hands.",
+      "arminianNotes": "Wesley: perfect—finish the great work of deliverance; forsake not—do not give over salvation advanced by His power, not human help.\n\nArminian reading: ask Him to complete what He began. Steadfast love forever grounds hope; the plea refuses presumption and passivity alike.",
+      "reformedNotes": "Calvin: Jehovah will perform for me—mercy everlasting; He does not leave His work unfinished. What free grace began, unchangeable goodness carries on; pray so indolence does not bar the stream.\n\nReformed accent: confidence that He perfects salvation strengthens prayer rather than breeding sloth. Gifts and calling without repentance (Rom 11:29) meet the cry, Do not forsake Your handiwork.",
+      "keyContrast": "Both hear the LORD fulfilling purpose and enduring love, with a real plea not to forsake His work. Arminian readers, with Wesley, typically stress finishing deliverance/salvation already advanced by God’s power as something the believer must keep seeking. Reformed readers, with Calvin, typically stress God’s unchangeable mercy completing what He began—assurance that fuels prayer, not human self-finish."
+    }
+  ]
+}

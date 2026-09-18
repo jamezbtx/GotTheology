@@ -60,6 +60,26 @@
       "why": "Who has measured the waters; the Creator of the ends of the earth does not faint."
     },
     {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 147,
+      "verseStart": 1,
+      "verseEnd": 20,
+      "title": "Psalm 147:1–20",
+      "href": "/bible/psalms/147/1-20.html",
+      "why": "Great is our Lord, and abundant in power—his understanding is beyond measure."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 33,
+      "verseStart": 1,
+      "verseEnd": 22,
+      "title": "Psalm 33:1–22",
+      "href": "/bible/psalms/33/1-22.html",
+      "why": "By the word of the Lord the heavens were made—he spoke, and it came to be."
+    },
+    {
       "book": "Genesis",
       "bookSlug": "genesis",
       "chapter": 1,

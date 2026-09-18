@@ -1,0 +1,65 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 43,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "ESV",
+  "title": "Psalm 43:1–5",
+  "context": "Vindicate me, O God, and defend my cause against an ungodly people; from the deceitful and unjust man deliver me. For you are the God in whom I take refuge; why have you rejected me? Why go mourning under the enemy's oppression? Send out your light and your truth; let them lead me and bring me to your holy hill and to your dwelling. Then I will go to the altar of God, to God my exceeding joy, and praise you with the lyre, O God, my God. The shared refrain with Psalm 42 closes: Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the plea that God vindicate and defend a cause against an ungodly people and the deceitful unjust man, the God of refuge questioned in rejection and mourning under enemy oppression, the cry that light and truth be sent out to lead to the holy hill and dwelling, the vow to go to the altar of God as exceeding joy with lyre praise to God my God, and the shared hope refrain with Psalm 42 that rebukes a cast-down soul to hope again and praise him as salvation and God—so each camp speaks in its own voice beside Psalm 43:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Nation—So he calls the company of his enemies for their great numbers. Man—Probably Achitophel or Absalom. Send out—That is, actually discover them. Truth—Thy favour, or the light of thy countenance, and the truth of thy promises made to me; or the true-light, the illumination of thy spirit, and the direction of thy gracious providence, whereby I may be led in the right way, to thy holy hill. Hill—Of Zion, the place of God's presence and worship.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 43"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Judge me, O God, and plead my cause—to undertake defense; he submits himself to examination that, integrity proved, God may grant aid. By the unmerciful nation, the whole company of cruel enemies; the deceitful and wicked man is rather singular for plural than Saul alone. Thou art the God of my strength—he sets experienced power as a shield, yet complains of mourning as if abandoned; enemies harm only as the Lord permits. Send forth thy light and thy truth—light denotes favor; adversities obscure God's face, but blessing is serene light of life. He adds truth because he expected this light from the promises; send forth thy light as token and testimony of thy truth, that thou art faithful. Let them lead me to thy holy hill—chief joy is liberty for sanctuary worship; though spoiled of wife, goods, and house, temple desire almost forgot all else. I will go to the altar of God, to God the joy of my rejoicing—solemn thanksgiving, peace-offerings for deliverance that filled the heart with uncommon joy. The fifth verse is treated as in the preceding psalm: hope in God; I shall yet praise him, the help of my countenance and my God.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 43"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Vindicate me, O God, and defend my cause against an ungodly people, from the deceitful and unjust man deliver me!",
+      "arminianNotes": "Vindicate me, O God, and defend my cause against an ungodly people, from the deceitful and unjust man deliver me! Wesley: Nation—So he calls the company of his enemies for their great numbers. Man—Probably Achitophel or Absalom.\n\nArminian pastoral: shared—bring the cause to God for vindication. Name the unjust opposition without taking vengeance into your own hand; refuse a silence that never asks him to defend.",
+      "reformedNotes": "Calvin: Judge and plead my cause—undertake the defense; he first submits to God's examination so that, integrity proved, aid may follow. God promises help to the miserable and guiltless wrongfully afflicted; it is vain to expect him to avenge injuries unless our integrity induces him to favor us against adversaries. Unmerciful nation names the cruel company; deceitful man is likely singular for plural.\n\nReformed pastoral: shared—commit the cause to God's judgment. Seek vindication that can stand his scrutiny; refuse a plea that will not be examined.",
+      "keyContrast": "Both ask God to vindicate and defend against cruel foes. Arminians typically hear Wesley: nation as the numerous company of enemies; the deceitful man probably Achitophel or Absalom. Reformed readers typically hear Calvin: judgment that first proves integrity, then aids—help pledged to the guiltless wronged, with nation as the unmerciful company and singular man as plural speech."
+    },
+    {
+      "number": 2,
+      "text": "For you are the God in whom I take refuge; why have you rejected me? Why do I go about mourning because of the oppression of the enemy?",
+      "arminianNotes": "For you are the God in whom I take refuge; why have you rejected me? Why do I go about mourning because of the oppression of the enemy? Refuge and rejection meet in one address—he still names God as the place of trust while asking why he seems cast off.\n\nArminian pastoral: shared—hold refuge and Why together. Mourning under oppression may speak freely to him; refuse a despair that stops calling him the God in whom you take refuge.",
+      "reformedNotes": "Calvin: God of my strength—experienced power set as a shield against temptation, yet life spent in mourning as if abandoned. Enemies have no power except as the Lord permits; he asks how they prevail while he is under God's guardianship, and from that gathers courage to plead for favor again manifested.\n\nReformed pastoral: shared—treat oppression as under God's permission, not rival sovereignty. Ask Why without dropping the shield of his strength; refuse both numb resignation and a reading that makes foes ultimate."
+    },
+    {
+      "number": 3,
+      "text": "Send out your light and your truth; let them lead me; let them bring me to your holy hill and to your dwelling!",
+      "arminianNotes": "Send out your light and your truth; let them lead me; let them bring me to your holy hill and to your dwelling! Wesley: Send out—actually discover them. Truth—Thy favour, or the light of thy countenance, and the truth of thy promises made to me; or the true-light, the illumination of thy spirit, and the direction of thy gracious providence, whereby I may be led in the right way, to thy holy hill. Hill—Of Zion, the place of God's presence and worship.\n\nArminian pastoral: shared—ask him to send out light and truth that actually lead. Seek Zion's presence and worship; refuse a guidance that never arrives at his dwelling.",
+      "reformedNotes": "Calvin: light denotes favor—adversities obscure God's face; blessing is serene light of life. He adds truth because he expected this light from the promises; unbelievers may desire favor yet not raise eyes to his light unless the word lifts them. Send forth thy light as token and testimony of thy truth—faithful and free from deceit in the promises. Word is faith's foundation; experienced help confirms word and faith. Lead me to thy holy hill—chief end of deliverance is liberty for sanctuary worship.\n\nReformed pastoral: shared—seek favor as light bound to God's truth and promises. Let the word raise the eyes; refuse earthbound desire for ease that never asks to be led to his hill.",
+      "keyContrast": "Both plead for light and truth that lead to God's holy hill. Arminians typically hear Wesley: favor and promise-truth, or Spirit's illumination and gracious providence discovering the right way to Zion. Reformed readers typically hear Calvin: light as token of paternal favor proving God's truthfulness in the promises—word as foundation, experience confirming faith, sanctuary worship as the chief end of deliverance."
+    },
+    {
+      "number": 4,
+      "text": "Then I will go to the altar of God, to God my exceeding joy, and I will praise you with the lyre, O God, my God.",
+      "arminianNotes": "Then I will go to the altar of God, to God my exceeding joy, and I will praise you with the lyre, O God, my God. Arrival at the altar is not bare ritual—God himself is exceeding joy, named twice as my God in lyre praise.\n\nArminian pastoral: shared—aim deliverance at joyful worship. Praise him at the altar as your exceeding joy; refuse a rescue story that never returns to God my God.",
+      "reformedNotes": "Calvin: I will go to the altar—solemn sacrifice in thanksgiving, peace-offerings as token of gratitude, not only daily ordinary service. God of my joy / joy of my rejoicing—delivered from sorrow and restored to joy, he will openly acknowledge so great a benefit; the doubled joy names uncommon gladness when God restored him contrary to all expectation.\n\nReformed pastoral: shared—answer hoped deliverance with vowed thanksgiving. Make God himself the joy of rejoicing; refuse gratitude that stops at recovered comforts and never reaches the altar."
+    },
+    {
+      "number": 5,
+      "text": "Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God.",
+      "arminianNotes": "Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God. The shared refrain with Psalm 42 returns: rebuke, hope, and certainty of renewed praise to the God who is salvation.\n\nArminian pastoral: shared closing hope with both camps—answer turmoil again with Hope in God. Praise will return; he remains my salvation and my God.",
+      "reformedNotes": "Calvin: as in the preceding psalm—hope in God; I shall yet praise him who is the help of my countenance and my God. Temptation may renew the same conflict; courage must not fail. Helps of countenance name God himself as visible defender and salvation.\n\nReformed pastoral: shared closing hope with both camps—return to the refrain when the assault returns. Hold him as salvation and God; refuse despair that treats one quieted hour as the last battle needed."
+    }
+  ]
+}

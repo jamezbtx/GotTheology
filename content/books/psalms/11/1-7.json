@@ -1,0 +1,77 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 11,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Psalm 11:1–7",
+  "context": "Psalm 11 answers panic with refuge: David refuses counsel to flee like a bird to the mountain while the wicked bend the bow, fit the arrow, and shoot in the dark at the upright in heart. If the foundations are destroyed, what can the righteous do?—yet the LORD is in his holy temple; his throne is in heaven; his eyes see and his eyelids test the children of man. He tests the righteous, but his soul hates the wicked and the lover of violence. Coals, fire and sulfur, and a scorching wind are the portion of their cup. For the LORD is righteous; he loves righteous deeds; the upright shall behold his face.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on refuge against the counsel to flee, foundations shaken, the heavenly throne that sees and tests, hatred of violence, and the portion of the wicked’s cup—so each camp speaks in its own voice beside Psalm 11:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Ye—mine enemies. For lo—David having directed his speech to his enemies, now turns it to God, and pours out before him his complaints. Ready—they lay designs for my destruction and make all things ready to execute them. Foundations—piety, justice, fidelity, and mercy, which are the pillars or foundations of a state or kingdom. What—the condition of all righteous men will be desperate. Temple—in heaven; evidence of his glorious majesty, sovereign power and dominion over all, and accurate inspection into all men and their actions. Throne—where he sits to examine all causes, and to give righteous sentence according to every man’s works. Try—he throughly discerns all men, their most inward and secret actions: therefore he sees and will reward my innocency, and will discover and defeat their secret designs. Trieth—he chastens even righteous persons, yet still he loves them, and therefore will in due time deliver them. But as for the wicked, God hates them, and will severely punish them. Rain—send them plentifully, swiftly, and suddenly. Snares—grievous plagues which surprize the wicked when they least expect them, hold them fast, and destroy them. Horrible tempests—dreadful judgments in allusion to Sodom; he seems to speak not so much of present calamities as of eternal punishments. This—is their portion, and as it were the meat and drink appointed them by God.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 11)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This psalm consists of two parts: David recounts severe assaults of temptation under Saul’s persecution, then congratulates himself on deliverance and magnifies God’s righteousness in governing the world. In Jehovah do I put my trust: how then say ye to my soul, Flee ye into your mountain as a bird? When all strove to drive him to despair, fortified by faith he leaned on the promises and obtained victory through faith and an upright conscience. He opposes perverse advice with the shield of trust in God. The ungodly bend the bow and shoot secretly; there was no hiding place their darts could not reach. The foundations are destroyed—he was, in the world’s eyes, utterly overthrown; What hath the righteous one done? asserts innocence and hope that God is on the side of a just cause. Jehovah is in the palace of his holiness; his throne is in heaven—not an idle couch, but a judgment-seat; his eyes behold and his eyelids consider the children of men. He approves the righteous and hates the ungodly and him who loves iniquity—not an idle spectator. He will rain upon the ungodly snares, fire and brimstone, and a storm of whirlwinds: the portion of their cup. For the righteous Jehovah loveth righteousness; his countenance approveth the upright—those who, depending upon the grace of God, sincerely follow after righteousness shall be safe under his protection.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 11)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "In the LORD I take refuge; how can you say to my soul, \"Flee like a bird to your mountain,\"",
+      "arminianNotes": "Wesley: Ye—mine enemies. The opening sets trust against counsel to flee as a bird to the mountain.\n\nArminian hearing: refuge is a live act of trust that refuses despair’s advice. Grace enables the stand; the hearer must still say no to flight that abandons the LORD’s keeping. Panic counsel is not wisdom because danger is real—danger is answered by refuge, not by surrendering the soul to fear.",
+      "reformedNotes": "Calvin: when all strove to drive him to despair, fortified by faith he leaned on the promises of God. The advice Flee ye tended only to utter despair; yielding would shake faith. Though often forced to wander like a fearful bird, he never alienated himself from the people of God or slipped from the call and promises.\n\nReformed accent: the shield is trust in Jehovah’s promise, not a mountain hideout. Stay at the post of faith so the promises do not slip away—even when the world treats you as a lost limb.",
+      "keyContrast": "Both confess that the right answer to “Flee like a bird” is refuge in the LORD, not despair’s exile. Arminian readers stress a responsible refusal of panic counsel—grace enables trust the hearer must still take up. Reformed readers, with Calvin, stress faith fortified by the promises so one does not yield to advice that would shake confidence and alienate the soul from God’s call and people."
+    },
+    {
+      "number": 2,
+      "text": "for behold, the wicked bend the bow; they have fitted their arrow to the string to shoot in the dark at the upright in heart;",
+      "arminianNotes": "Wesley: For lo—David turns from enemies to God and pours out complaints. Ready—they lay designs for destruction and make all things ready to execute them.\n\nArminian pastoral: bent bow and fitted arrow are chosen designs against the upright in heart. Name the plot before God; uprightness of heart is not naïveté—it is the target malice aims at in the dark.",
+      "reformedNotes": "Calvin: not only danger but exposure to death itself—wherever he hid, escape from enemies’ hands seemed impossible. Shoot secretly: no place so hidden that their darts did not penetrate; death followed as inseparable attendant.\n\nReformed accent: the description heightens the grace of later deliverance. Human caves cannot outrun arrows God alone can stop."
+    },
+    {
+      "number": 3,
+      "text": "if the foundations are destroyed, what can the righteous do?\"",
+      "arminianNotes": "Wesley: Foundations—piety, justice, fidelity, and mercy, the pillars of a state or kingdom. What—the condition of all righteous men will be desperate.\n\nArminian hearing: when public pillars of piety and justice collapse, the righteous feel cornered. The cry is pastoral honesty, not unbelief—bring the desperate question to the God who still sits above ruined foundations.",
+      "reformedNotes": "Calvin: foundations agrees with the scope—straits so shut that preservation seemed hopeless. Metaphor from buildings: when foundations are undermined, all falls. In the world’s eyes he was utterly overthrown. What hath the righteous one done?—asserts innocence, comforts by good conscience, and hopes God favors a just cause.\n\nReformed comfort: felt overthrow is not the last word; innocence under God still has an Advocate when every earthly footing looks gone."
+    },
+    {
+      "number": 4,
+      "text": "The LORD is in his holy temple; the LORD's throne is in heaven; his eyes see, his eyelids test the children of man.",
+      "arminianNotes": "Wesley: Temple—in heaven; majesty, sovereign dominion, and accurate inspection of all men and actions. Throne—where he examines all causes and gives righteous sentence according to every man’s works. Try—he throughly discerns inward and secret actions; he will reward innocency and defeat secret designs.\n\nArminian reading: heaven’s throne means real inspection and real sentence. Live as those whose secret deeds are already before the Judge who rewards and defeats according to truth.",
+      "reformedNotes": "Calvin: destitute of human aid, he borrows light from heaven. Implied contrast of heaven and earth—when justice is trodden under foot, God sits in heaven perfect and unchanged. Not merely dwelling there, but reigning from a royal judgment-seat. Epicurus would spread God a couch to sleep; faith erects a throne. When judgments are suspended, lean on this: he beholds from heaven.\n\nReformed accent: providence is not idle repose. The temple and throne assure that confusion below has a Judge above who has not abandoned the order he established."
+    },
+    {
+      "number": 5,
+      "text": "The LORD tests the righteous, but his soul hates the wicked and the one who loves violence.",
+      "arminianNotes": "Wesley: Trieth—he chastens even righteous persons, yet still he loves them, and therefore will in due time deliver them. But as for the wicked, God hates them, and will severely punish them.\n\nArminian pastoral: testing of the righteous is fatherly chastening that does not cancel love or final deliverance. Hatred of the violent is moral and certain. Endure the trial without reading it as abandonment; flee the love of violence God hates.",
+      "reformedNotes": "Calvin: God distinguishes righteous and unrighteous so as to show he is not an idle spectator—he approves the righteous and hates the wicked. Bachan may mean examine, but here: he inquires into every cause so as to distinguish. He hates those set on injury; to keep his appointed mutual order among men he must be enemy of the troublesome wicked. Their love of iniquity gains nothing by self-flattery.\n\nReformed accent: testing is judicial discrimination from the throne, not bare curiosity. Love of violence meets God’s settled hatred; approval of the righteous is the Judge at work.",
+      "keyContrast": "Both confess that the LORD tests the righteous and that his soul hates the wicked who love violence. Arminian readers, with Wesley, hear testing as chastening that still loves and will in due time deliver the righteous. Reformed readers, with Calvin, hear testing as the Judge’s approving discrimination—God not an idle spectator but one who distinguishes causes and hates injury so his moral order among men stands."
+    },
+    {
+      "number": 6,
+      "text": "Let him rain coals on the wicked; fire and sulfur and a scorching wind shall be the portion of their cup.",
+      "arminianNotes": "Wesley: Rain—plentifully, swiftly, suddenly. Snares—grievous judgments that surprize, hold fast, and destroy. Horrible tempests—Sodom’s pattern; not so much present calamities as eternal punishments. This—their portion, meat and drink appointed by God.\n\nArminian warning: the cup is appointed, not accidental weather. Sudden judgment answers sudden arrogance. Do not envy the wicked’s calm before the rain—their portion is already named.",
+      "reformedNotes": "Calvin: though God delay, the hour of vengeance will assuredly come. Punishments compared to rain—sudden storm when weather seemed serene; when they say Peace and safety, sudden destruction. Allusion to Sodom; snares first entangle escape, then fire and brimstone. Portion of their cup: God as householder distributing each his allowance—they must drink to the dregs.\n\nReformed accent: delay is not cancellation. The tribunal remains; hatred of the wicked is armed with power and will not prove ineffectual."
+    },
+    {
+      "number": 7,
+      "text": "For the LORD is righteous; he loves righteous deeds; the upright shall behold his face.",
+      "arminianNotes": "The close grounds hope in God’s character: he is righteous and loves righteous deeds; the upright shall behold his face.\n\nArminian reading: righteousness loved is righteousness to be done. Beholding his face is the promised end for the upright who walk what God loves—grace enables the deeds; the hearer must still pursue them toward that vision.",
+      "reformedNotes": "Calvin: from God’s office he will punish the wicked; from God’s nature he will defend the good. Being righteous, he must love righteousness, or deny himself. Cold to conceive righteousness in God without concluding he graciously owns what is his and shows it in governing the world. His countenance approveth the upright—special care, protection, perfect safety. Scope: all who, depending upon the grace of God, sincerely follow after righteousness shall be safe under his protection.\n\nReformed comfort: the upright are safe because God owns his own and keeps them—not because history rewards virtue by chance."
+    }
+  ]
+}

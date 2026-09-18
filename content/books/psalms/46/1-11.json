@@ -1,0 +1,103 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 46,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "Psalm 46:1–11",
+  "context": "To the choirmaster. Of the Sons of Korah. According to Alamoth. A Song. God is our refuge and strength, a very present help in trouble. Therefore we will not fear though the earth give way, though the mountains be moved into the heart of the sea, though its waters roar and foam, though the mountains tremble at its swelling. Selah. There is a river whose streams make glad the city of God, the holy habitation of the Most High. God is in the midst of her; she shall not be moved; God will help her when morning dawns. The nations rage, the kingdoms totter; he utters his voice, the earth melts. The LORD of hosts is with us; the God of Jacob is our fortress. Selah. Come, behold the works of the LORD, how he has brought desolations on the earth. He makes wars cease to the end of the earth; he breaks the bow and shatters the spear; he burns the chariots with fire. Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth! The LORD of hosts is with us; the God of Jacob is our fortress. Selah.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God as refuge and strength and a very present help in trouble, fear refused though earth give way and mountains slide into the sea, roaring waters and trembling peaks, the river whose streams make glad the city of God and the holy habitation of the Most High, God in her midst so she shall not be moved and help at morning's dawn, nations raging and kingdoms tottering until his voice melts the earth, the refrain that the LORD of hosts is with us and the God of Jacob is our fortress, the call to behold the LORD's desolations, wars made to cease to the end of the earth with bow broken, spear shattered, and chariots burned, Be still and know that I am God with exaltation among the nations and in the earth, and the closing return of the with-us fortress refrain—so each camp speaks in its own voice beside Psalm 46:1–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Though—Though there should be nothing but confusion, and desolations round about us: which are often expressed by such metaphors. A river—This may design the gracious presence, and blessing of the Lord, which is frequently described under the name of waters. Make glad—Shall not barely preserve it from danger, but give great occasion for rejoicing and thanksgiving. The city—Jerusalem, the place where God's holy tabernacle is settled. Raged—Against God, and against his people. Uttered—He spake to them in his wrath. The earth—The inhabitants of the earth were consumed. Desolations—Among those who were vexatious to God's people. To cease—He hath settled as in a firm and well-grounded peace. The land—Of Israel: from one end of it to the other. The bow—The bows and spears, and chariots of their enemies. Be still—Stir no more against my people. God—The only true and almighty God; your gods are but dumb and impotent idols. Exalted—I will make myself glorious by my great and wonderful works.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 46"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "God is our refuge and strength: found an exceeding help in tribulations—sufficient to protect his own; comes seasonably as often as afflictions press; special care distinguishing the chosen from the heathen; privilege of adoption. Therefore we will not fear though earth be moved and mountains fall into the midst of the sea—not that the godly are destitute of feeling, but they are never overwhelmed; confidence of faith, not insensibility. Though waters roar and rage, mountains shaken with the swelling—yet the city of God enjoys comfort by her small streams; Shiloah against Nile and Euphrates; grace alone sufficient independent of the world's help; they who commit themselves to God repose though exposed. God in the midst of her; she shall not be moved; help at the dawn of morning—daily, seasonably; all hope depends on his presence. Peoples raged, kingdoms moved; he uttered his voice, the earth melted—notable deliverance; voice as will and command from the promises. Jehovah of armies with us; God of Jacob our fortress—immeasurable power joined to fatherly love in the covenant; without adoption, power only inspires dread. Come, consider the works of Jehovah—desolations and wars made to cease; look for peace from him when the world is in uproar. Be still and know that I am God—addressed to enemies who injure the saints as if fighting mere men; restrain turbulent affections; yield Israel’s God the glory; power not enclosed in Judea. The refrain returns: Jehovah of armies with us; the God of Jacob our fortress.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 46"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "God is our refuge and strength, a very present help in trouble.",
+      "arminianNotes": "God is our refuge and strength, a very present help in trouble. Shared with both camps: God himself is refuge and strength—help present when trouble presses, not a distant theory.\n\nArminian pastoral: shared—flee to God as refuge and draw strength from him in present trouble. Refuse every substitute fortress that cannot help when the crash comes.",
+      "reformedNotes": "Calvin: God is our refuge and strength: he is found an exceeding help in tribulations—able to protect his own and giving ground to expect it; comes seasonably as often as afflictions press; special care for the Church, distinguishing the chosen from the heathen by the privilege of adoption.\n\nReformed pastoral: shared—rest in God alone as refuge and strength when trouble is present. Refuse gazing around for other helps; hold the special care promised to his people."
+    },
+    {
+      "number": 2,
+      "text": "Therefore we will not fear though the earth give way, though the mountains be moved into the heart of the sea,",
+      "arminianNotes": "Therefore we will not fear though the earth give way, though the mountains be moved into the heart of the sea, Wesley: Though—Though there should be nothing but confusion, and desolations round about us: which are often expressed by such metaphors. Therefore-fearlessness under total upheaval.\n\nArminian pastoral: shared—let refuge in God cancel panic when the ground itself seems gone. Refuse a calm that only lasts while mountains stand.",
+      "reformedNotes": "Calvin: Therefore we will not fear—true proof of hope: when heavens seem to fall, earth to remove, mountains torn from foundations, we nevertheless preserve calmness. Not that the godly are exempt from all solicitude as if destitute of feeling—great difference between insensibility and the confidence of faith; they are never overwhelmed with terror but gather courage to allay fear.\n\nReformed pastoral: shared—hold fearlessness as faith's inference from God's help, not as numbness. Refuse both panic and a stoic mask that never needs the refuge."
+    },
+    {
+      "number": 3,
+      "text": "though its waters roar and foam, though the mountains tremble at its swelling. Selah",
+      "arminianNotes": "though its waters roar and foam, though the mountains tremble at its swelling. Selah. Roar, foam, and trembling peaks complete the picture of chaos that still cannot force fear on those whose refuge is God.\n\nArminian pastoral: shared—hear the swell and still refuse fear. Pause at Selah; refuse a faith that only sings in still water.",
+      "reformedNotes": "Calvin: Though the waters roar and rage tempestuously, mountains shaken with the swelling—even in dreadful tumults the holy city enjoys comfort by her small streams; faith tested in severe conflicts; victory of faith when hell seems opened; help promised more than balances evils that inspire fear.\n\nReformed pastoral: shared—let roaring seas drive you to the promised help, not to despair. Refuse a courage that jests at death without God's protection."
+    },
+    {
+      "number": 4,
+      "text": "There is a river whose streams make glad the city of God, the holy habitation of the Most High.",
+      "arminianNotes": "There is a river whose streams make glad the city of God, the holy habitation of the Most High. Wesley: A river—This may design the gracious presence, and blessing of the Lord, which is frequently described under the name of waters. Make glad—Shall not barely preserve it from danger, but give great occasion for rejoicing and thanksgiving. The city—Jerusalem, the place where God's holy tabernacle is settled.\n\nArminian pastoral: shared—receive the river as God's gracious presence that gladdens, not bare survival. Seek gladness in the city where he dwells; refuse a safety that never rejoices.",
+      "reformedNotes": "Calvin: Streams of her river shall make glad the city of God—small streams afford abundant rejoicing though the world be destroyed; alludes to Shiloah through Jerusalem; rebukes confidence fortified by earthly seas; Isaiah 8:6—despising Shiloah while longing for Nile and Euphrates; grace alone sufficient independent of the world's help; secret gentle streams give more tranquillity than the whole power of the world gathered for aid.\n\nReformed pastoral: shared—prefer God's gentle stream to the world's deep rivers. Rest the Church's gladness on his presence; refuse defenses that drown the very island they claim to guard.",
+      "keyContrast": "Both hear a river that makes glad the city of God under the Most High. Arminians typically hear Wesley: the river as the Lord's gracious presence and blessing under the figure of waters—not bare preservation but occasion for rejoicing; Jerusalem where the tabernacle is settled. Reformed readers typically hear Calvin: Shiloah's small streams against worldly seas—grace alone versus confidence in Nile and Euphrates; gentle help more tranquil than the world's gathered power."
+    },
+    {
+      "number": 5,
+      "text": "God is in the midst of her; she shall not be moved; God will help her when morning dawns.",
+      "arminianNotes": "God is in the midst of her; she shall not be moved; God will help her when morning dawns. Midst-presence means the city shall not be moved; help arrives with the morning.\n\nArminian pastoral: shared—count God's midst as the reason she stands. Wait for morning help; refuse a stillness that never expects him to act.",
+      "reformedNotes": "Calvin: God is in the midst of her; she shall not be moved—feminine: the holy city shall not be shaken because God dwells there and is always ready to help. Dawn of the morning denotes daily, as soon as the sun rises; if we desire his protection we must be concerned that he dwell among us; he may not hasten to our importunity, yet he comes seasonably—he that keeps Israel neither slumbers nor sleeps.\n\nReformed pastoral: shared—seek his dwelling among us as the ground of unmoved security. Trust seasonable morning help; refuse both frantic haste and a presence-neglect that still demands rescue."
+    },
+    {
+      "number": 6,
+      "text": "The nations rage, the kingdoms totter; he utters his voice, the earth melts.",
+      "arminianNotes": "The nations rage, the kingdoms totter; he utters his voice, the earth melts. Wesley (on the rage and utterance): Raged—Against God, and against his people. Uttered—He spake to them in his wrath. The earth—The inhabitants of the earth were consumed. Rage and totter meet one melting voice.\n\nArminian pastoral: shared—fear the voice that melts earth more than the rage of nations. Refuse a politics that never reckons with his wrath.",
+      "reformedNotes": "Calvin: Peoples raged, kingdoms were moved; he uttered his voice, the earth melted—experience confirming impregnable protection; notable deliverance in which enemies came with a dreadful host and vanished at God's voice; voice signifies will or command, with an eye to the promises; though the whole world rise up, they can be brought to nought in a moment when God shows himself favorable.\n\nReformed pastoral: shared—read raging nations under the voice that melts earth. Rest on promised command, not on matching the world's fury; refuse despair when kingdoms totter around the Church.",
+      "keyContrast": "Both hear nations raging and earth melting at God's uttered voice. Arminians typically hear Wesley: rage against God and his people; he spoke in wrath; earth's inhabitants consumed. Reformed readers typically hear Calvin: a notable deliverance proving impregnable care—voice as will and command tied to the promises, enemies vanishing when God favors his Church."
+    },
+    {
+      "number": 7,
+      "text": "The LORD of hosts is with us; the God of Jacob is our fortress. Selah",
+      "arminianNotes": "The LORD of hosts is with us; the God of Jacob is our fortress. Selah. Shared refrain: hosts' power and Jacob's God named as present fortress for his people.\n\nArminian pastoral: shared—claim the with-us fortress in the God of Jacob. Refuse a courage that never needs his hosts or his covenant name.",
+      "reformedNotes": "Calvin: Jehovah of armies is with us; the God of Jacob is our fortress—apply infinite power by believing we are embraced in fatherly love; adoption separates Israel from the common condition of the nations; without that, the description of power only inspires dread; confident boasting arises because God has chosen us; hold together immeasurable power (God of armies) and fatherly love manifested in his word (God of Jacob).\n\nReformed pastoral: shared—join hosts' might to Jacob's covenant care. Defy enemies only as those adopted under both titles; refuse a bare power-God who is never Father to his flock.",
+      "keyContrast": "Both confess the LORD of hosts with us and the God of Jacob as fortress. Arminians typically hear the refrain as present help against those who rage at God and his people. Reformed readers typically hear Calvin: God of armies plus God of Jacob—power must be joined to adoptive fatherly love, or divine power only terrifies."
+    },
+    {
+      "number": 8,
+      "text": "Come, behold the works of the LORD, how he has brought desolations on the earth.",
+      "arminianNotes": "Come, behold the works of the LORD, how he has brought desolations on the earth. Wesley: Desolations—Among those who were vexatious to God's people. Behold what he has done to vexers.\n\nArminian pastoral: shared—come and look at the LORD's works, including desolations on the Church's foes. Refuse indifference that never beholds what he has already done.",
+      "reformedNotes": "Calvin: Come ye, consider the works of Jehovah—history of deliverance to establish persuasion of stable promises; rebukes indifference and ingratitude; many ascribe to fortune or industry or second causes what proceeds from him alone; sets desolations and marvellous devastations before minds otherwise dull.\n\nReformed pastoral: shared—consider the LORD's desolating works as fuel for future trust. Refuse fortune-talk and self-credit; open eyes to what strengthens faith."
+    },
+    {
+      "number": 9,
+      "text": "He makes wars cease to the end of the earth; he breaks the bow and shatters the spear; he burns the chariots with fire.",
+      "arminianNotes": "He makes wars cease to the end of the earth; he breaks the bow and shatters the spear; he burns the chariots with fire. Wesley: To cease—He hath settled as in a firm and well-grounded peace. The land—Of Israel: from one end of it to the other. The bow—The bows and spears, and chariots of their enemies. Wars cease under broken weapons and burned chariots.\n\nArminian pastoral: shared—trace firm peace to God's breaking of enemy arms. Seek well-grounded peace from him; refuse a peace that leaves the bow intact.",
+      "reformedNotes": "Calvin: He maketh battles to cease even to the end of the earth; breaketh the bow, cutteth the spear, burneth the chariots—from particular help to general expectation; God adorned with these titles that we should look for peace from him even when the whole world is in uproar; often he quelled tumults in Judea and deprived enemies of courage.\n\nReformed pastoral: shared—expect war-ceasing from God when the world rages. Look to him for peace beyond one battlefield; refuse despair that treats broken bows as chance.",
+      "keyContrast": "Both hear God making wars cease with bow, spear, and chariots destroyed. Arminians typically hear Wesley: firm well-grounded peace for the land of Israel from end to end; enemies' bows, spears, and chariots. Reformed readers typically hear Calvin: particular deliverance teaching a general hope—look for peace from God even when the whole world is in uproar."
+    },
+    {
+      "number": 10,
+      "text": "“Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!”",
+      "arminianNotes": "“Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!” Wesley: Be still—Stir no more against my people. God—The only true and almighty God; your gods are but dumb and impotent idols. Exalted—I will make myself glorious by my great and wonderful works. Shared with the Reformed: Be still is God's word that stops hostile stirring and demands knowledge of the true God who will be exalted.\n\nArminian pastoral: shared with both camps—be still before the only true God; drop the fight against his people. Know him, not dumb idols; refuse a stillness that never yields exaltation to him among the nations.",
+      "reformedNotes": "Calvin: Be still, and know that I am God—discourse turned to enemies who indulge mischief as if they warred only against men; God himself speaking; bid them be still that anger may be appeased and they perceive they fight against God; restrain turbulent affections; yield the God of Israel the glory; if they act like madmen, his power is not enclosed within Judea—he will be exalted among the nations and in the earth. Shared with Wesley: Be still stops the assault on the saints and forces recognition of the true God.\n\nReformed pastoral: shared with both camps—hear Be still as God's rebuke to those who wound his people. Know that he is God; refuse a war against the Church that pretends it never touches him."
+    },
+    {
+      "number": 11,
+      "text": "The LORD of hosts is with us; the God of Jacob is our fortress. Selah",
+      "arminianNotes": "The LORD of hosts is with us; the God of Jacob is our fortress. Selah. Shared closing with both camps: the refrain returns—hosts with us, Jacob's God our fortress—after Be still and the promise of worldwide exaltation.\n\nArminian pastoral: shared closing with both camps—end where the psalm ends: with us and fortress. Carry the refrain into the next trouble; refuse a song that forgets the with-us name after the battle pauses.",
+      "reformedNotes": "Calvin: The refrain returns—Jehovah of armies with us; the God of Jacob our fortress—God has more than enough weapons and strength to preserve the Church he has adopted; power and fatherly covenant care still the last word after enemies are told to be still.\n\nReformed pastoral: shared closing with both camps—rest again in hosts-with-us and Jacob's fortress. Hold adoption under both titles after Be still; refuse a finale that leaves the Church unsheltered."
+    }
+  ]
+}

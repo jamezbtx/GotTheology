@@ -1,0 +1,100 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 63,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "ESV",
+  "title": "Psalm 63:1–11",
+  "context": "A Psalm of David, when he was in the wilderness of Judah. The king seeks God earnestly in drought of soul and body; remembers the sanctuary's power and glory; praises steadfast love better than life; finds night meditation and the shadow of God's wings; clings while God's right hand upholds; and trusts that destroyers will fall while the king rejoices and liars' mouths are stopped.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on thirst for God in the wilderness, steadfast love better than life, night meditation under His wings, and the king's joy when liars are silenced—so each camp speaks in its own voice beside Psalm 63:1–11.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "My God—in a special and peculiar manner. Early—with the first dawn of the day; or, with my first waking thoughts. Thirsteth—after the enjoyment of thee in the sanctuary, as it follows. Sanctuary—where thou art graciously present, and where I can enjoy thee. Better—is more satisfying to me, than the longest and happiest life; or than the life itself which I so earnestly desire. Bless—praise and celebrate thy name. Soul—my soul shall be satisfied with thy love and favour, as with the most delicious and plentiful feasts. Watches—the night is divided into several watches. Help—when I was ready to perish. Followeth—is close to me, and supports me. Shall go—into the grave, and into hell. Portion—they shall be slain, and left unburied. The king—David. Swear—that worship and serve him. Stopped—shall be put to silence.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 63"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David, driven into the wilderness, does not complain of the want of food and drink, but of being shut out from the house of God; his soul thirsted for God. He preferred the sight of God's power and glory in the sanctuary to all the pleasures of the world. Because thy lovingkindness is better than life—he would rather die than live without the sense of God's favor. He resolves to praise God as long as he lives, and finds his soul satisfied as with marrow and fatness when he remembers God upon his bed. He clings to God, and is upheld by God's right hand—so that perseverance is ascribed both to our clinging and to God's upholding. The destruction of the wicked and the joy of the king close the psalm: God will vindicate his servant and stop the mouths of liars.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 63"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O God, you are my God; earnestly I seek you; my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water.",
+      "arminianNotes": "O God, you are my God; earnestly I seek you—soul thirsts, flesh faints, as in a dry land. Wesley: My God—in a special and peculiar manner. Early—with the first dawn; Thirsteth—after the enjoyment of thee in the sanctuary. Exile sharpens desire for God Himself, not merely for relief.\n\nArminian pastoral: shared piety—seek God first when the land is dry. Grace awakens thirst; the seeker must still come earnestly. Do not settle for lesser waters when the soul and flesh cry for the living God.",
+      "reformedNotes": "Calvin: David, driven into the wilderness, does not complain first of food and drink but of being shut out from God's house; his soul thirsted for God. The dry land images the want of God's felt presence more than mere geography.\n\nReformed pastoral: shared—earnest seeking is the mark of true religion under pressure. God is already \"my God\" by covenant; the thirst is for enjoyment of what faith already claims. Providence that drives into wilderness can deepen desire."
+    },
+    {
+      "number": 2,
+      "text": "So I have looked upon you in the sanctuary, beholding your power and glory.",
+      "arminianNotes": "So I have looked upon you in the sanctuary, beholding your power and glory. Wesley: Sanctuary—where thou art graciously present. Memory of worship feeds present faith when the body is far from Zion.\n\nArminian pastoral: shared—behold power and glory in gathered worship, then carry that sight into drought. Past means of grace become present comfort. Love the sanctuary because you love the Presence there.",
+      "reformedNotes": "Calvin: he preferred the sight of God's power and glory in the sanctuary to all worldly pleasures. Looking upon God there is not curiosity but the soul's true feast.\n\nReformed pastoral: shared—ordinary means matter. God reveals power and glory where He has set His name. Remembered sanctuary steadies the wilderness heart under the same God."
+    },
+    {
+      "number": 3,
+      "text": "Because your steadfast love is better than life, my lips will praise you.",
+      "arminianNotes": "Because your steadfast love is better than life, my lips will praise you. Wesley: Better—more satisfying than the longest and happiest life; or than life itself. Hesed outranks survival; praise follows that valuation.\n\nArminian pastoral: shared ground—steadfast love is the supreme good. Choose praise over clinging to mere length of days. When love is better than life, lips learn to bless rather than only to beg.",
+      "reformedNotes": "Calvin: Because thy lovingkindness is better than life—he would rather die than live without the sense of God's favor. Life without God's love is no true life.\n\nReformed pastoral: shared—rank God's hesed above breath itself. The comparison is not hyperbole for rhetoric's sake; it is the piety that prefers God to preservation on any other terms."
+    },
+    {
+      "number": 4,
+      "text": "So I will bless you as long as I live; in your name I will lift up my hands.",
+      "arminianNotes": "So I will bless you as long as I live; in your name I will lift up my hands. Wesley: Bless—praise and celebrate thy name. Lifelong resolve answers lifelong love; lifted hands are prayer and surrender.\n\nArminian pastoral: shared—vow of continuous praise. Grace that shows steadfast love invites a life of blessing God, not a moment's enthusiasm. Lift hands in His name while life lasts.",
+      "reformedNotes": "Calvin notes the resolve to praise as long as he lives—gratitude is not postponed until circumstances improve. Wilderness does not cancel doxology.\n\nReformed pastoral: shared—bless God now, in the dry land. The name in which hands are lifted is the covenant name already trusted. Persevering praise is fruit of known mercy."
+    },
+    {
+      "number": 5,
+      "text": "My soul will be satisfied as with fat and rich food, and my mouth will praise you with joyful lips,",
+      "arminianNotes": "My soul will be satisfied as with fat and rich food, and my mouth will praise with joyful lips. Wesley: Soul—shall be satisfied with thy love and favour, as with the most delicious and plentiful feasts. God Himself is the banquet.\n\nArminian pastoral: shared—satisfaction is spiritual feast, not denial of need. Joyful lips flow from a filled soul. Seek the rich food of God's favor more than the world's table.",
+      "reformedNotes": "Calvin: the soul is satisfied as with marrow and fatness when God is enjoyed—spiritual delight outdoes bodily luxury. Praise is the natural speech of the satisfied.\n\nReformed pastoral: shared—God fills what the wilderness empties. Fat and rich food is metaphor for abundance of divine favor. Mouth and soul agree in joy."
+    },
+    {
+      "number": 6,
+      "text": "when I remember you upon my bed, and meditate on you in the watches of the night;",
+      "arminianNotes": "When I remember you upon my bed, and meditate on you in the watches of the night. Wesley: Watches—the night is divided into several watches. Sleepless hours become holy hours by remembrance and meditation.\n\nArminian pastoral: shared—redeem the night watches. Anxiety on the bed can be turned to meditation. Practice remembering God when the mind would otherwise race.",
+      "reformedNotes": "Calvin stresses night remembrance as the mark of a heart occupied with God when outward helps are removed. Meditation fills the silence of exile.\n\nReformed pastoral: shared—bed and watches belong to God. Insomnia under trial need not be wasted; the Spirit can turn it into communion. Remember, then meditate."
+    },
+    {
+      "number": 7,
+      "text": "for you have been my help, and in the shadow of your wings I will sing for joy.",
+      "arminianNotes": "For you have been my help, and in the shadow of your wings I will sing for joy. Wesley: Help—when I was ready to perish. Past help grounds present song under the wings.\n\nArminian pastoral: shared comfort—sheltering wings and joyful song. Grace that helped before invites trust and singing now. Hide under His wings and let joy answer fear.",
+      "reformedNotes": "Calvin: experience of past help teaches the psalmist to sing under God's wings—protection imaged as a bird sheltering its young. Joy is reasonable where help has been proven.\n\nReformed pastoral: shared—rehearse deliverances. The shadow of wings is not escape from reality but safety in God amid reality. Sing because He has been help."
+    },
+    {
+      "number": 8,
+      "text": "My soul clings to you; your right hand upholds me.",
+      "arminianNotes": "My soul clings to you; your right hand upholds me. Wesley: Followeth hard—is close to me, and supports me. Clinging and upholding meet: the soul's adhesion and God's strong hand.\n\nArminian pastoral: the believer must cling—grace enables a real holding fast that can be neglected or pursued. Yet the same verse names God's upholding right hand; perseverance is never bare self-effort.",
+      "reformedNotes": "Calvin: he clings to God and is upheld by God's right hand—perseverance is ascribed both to our following hard after God and to God's upholding. Neither side of the verse cancels the other.\n\nReformed pastoral: shared double agency—cling, and know you are held. The right hand is almighty; the clinging is sincere. Comfort rests finally on the upholder, while duty still says cling.",
+      "keyContrast": "Both confess clinging and divine upholding together. Arminians typically stress the soul's real, grace-enabled adhesion that the believer must actively keep; Reformed readers typically stress that God's right hand effectually upholds, so clinging itself is sustained by that hand."
+    },
+    {
+      "number": 9,
+      "text": "But those who seek to destroy my life shall go down into the depths of the earth;",
+      "arminianNotes": "But those who seek to destroy my life shall go down into the depths of the earth. Wesley: Shall go—into the grave, and into hell. The thirst for God does not deny judgment on destroyers.\n\nArminian pastoral: shared—God will deal with those who hunt the godly. Hope for justice without taking vengeance into your own hand. Depths await those who seek to destroy the life God shelters.",
+      "reformedNotes": "Calvin: the destruction of the wicked closes the contrast—God will not leave His servant to the will of destroyers. Depths of the earth mark their appointed end.\n\nReformed pastoral: shared—trust God's judgment. The wilderness exile is temporary; the end of the violent is sure. Leave the depths to God's verdict."
+    },
+    {
+      "number": 10,
+      "text": "they shall be given over to the power of the sword; they shall be a portion for jackals.",
+      "arminianNotes": "They shall be given over to the power of the sword; they shall be a portion for jackals. Wesley: Portion—they shall be slain, and left unburied. Shameful end answers murderous intent.\n\nArminian pastoral: shared sobriety—do not envy the wicked's present power. The sword and the scavengers image a disgraceful finish. Fear God more than those who wield the sword for a time.",
+      "reformedNotes": "Calvin reads the sword and jackals as the shameful overthrow of those who plotted the king's ruin—divine recompense in history and beyond.\n\nReformed pastoral: shared—God's providence includes judicial ends. Portion for jackals is poetic justice against those who would make the righteous a prey."
+    },
+    {
+      "number": 11,
+      "text": "But the king shall rejoice in God; all who swear by him shall exult, for the mouths of liars will be stopped.",
+      "arminianNotes": "But the king shall rejoice in God; all who swear by him shall exult, for the mouths of liars will be stopped. Wesley: The king—David. Swear—that worship and serve him. Stopped—shall be put to silence. Royal joy and truthful worship stand when lies fall silent.\n\nArminian pastoral: shared hope—rejoice in God, not merely in restored circumstance. Those who swear by Him (true allegiance) will exult. Liars' mouths stop under God's vindication; keep speaking truth until then.",
+      "reformedNotes": "Calvin: the joy of the king and of those who swear by God closes the psalm—God will vindicate His servant and stop liars' mouths. The king's rejoicing is in God Himself.\n\nReformed pastoral: shared—final joy is theocentric. Allegiance sworn to God will be publicly honored. Wait for the silencing of lies by the God who hears the wilderness cry."
+    }
+  ]
+}

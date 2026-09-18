@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 119,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 119:1–8",
+  "context": "Psalm 119 opens with the Aleph stanza: an eight-verse acrostic blessing on those whose way is blameless and who walk in the Lord’s law. The singer moves from beatitude to petition—longing that his own ways may be steadfast in keeping God’s statutes—and ends with a vow to keep them joined to a plea not to be utterly forsaken. Both camps hear Scripture’s call to wholehearted obedience and delight; they differ on how such a walk is given and sustained.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the blessed walk in God’s law, the prayer for steadfast ways, and the plea not to be forsaken—so each camp speaks in its own voice beside Psalm 119:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Respect—a due respect, which implies hearty affection, diligent study, and constant practice. To all—so as not to allow myself in any known sin, or in the neglect of any known duty. When—when by thy good spirit I shall be more fitly instructed in the meaning of thy word. Forsake me not—for then I shall fall into the foulest sins.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 119:6–8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "When uprightness is demanded of the children of God, they do not lose the gracious remission of their sins, in which their salvation alone consists. While the servants of God are happy, they still need to take refuge in his mercy, because their uprightness is not complete. In this manner are they who faithfully observe the law of God said to be truly happy; and thus is fulfilled that which is declared in Psalm 32:2, Blessed are they to whom God imputeth not sins. Our main desire ought to be for an understanding wisely regulated by the law of God, and also for a docile and obedient heart—the obtuseness of our understanding and the perversity of our hearts constantly need the direction of his Spirit.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 119:1, 5)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Blessed are those whose way is blameless, who walk in the law of the Lord!",
+      "arminianNotes": "Wesley does not pause here. The Aleph beatitude opens the psalm: blessed are those whose way is blameless, who walk in the Lord’s law. Classical Arminians hear a sincere, public blessing on the path God sets before seekers—not a closed museum of elect names, and not a wage earned by native strength.\n\nPrevenient grace enables the walk; blamelessness is not Pelagian perfection. The calling is real for those who seek him with the whole heart (v. 2). Do not invent an antinomian gospel that shrugs at walking in the law; do not invent a legalism that buys the blessing.",
+      "reformedNotes": "Calvin: the prophet sets forth the paradox of true happiness—men wander by-paths while the Spirit declares blessing on uprightness in the way, walking in the law of Jehovah. When uprightness is demanded, the children of God do not lose the gracious remission of sins; their uprightness is not complete, so they take refuge in mercy. Thus is fulfilled Psalm 32:2—blessed are they to whom God imputeth not sins.\n\nReformed accent: the blessed walk is the life of those God has claimed; happiness is not found by free inventing of paths. Law-walking and imputed forgiveness belong together. Do not read blameless as angelic perfection required before mercy.",
+      "keyContrast": "Both refuse Pelagian self-made blamelessness and both honor walking in God’s law. Arminians typically hear a sincere beatitude open to those who, by prevenient grace, seek and walk. Reformed readers typically hear Calvin’s pairing of faithful observance with refuge in mercy and non-imputation—blessedness for the servants God keeps, not a ladder climbed by native strength."
+    },
+    {
+      "number": 2,
+      "text": "Blessed are those who keep his testimonies, who seek him with their whole heart,",
+      "arminianNotes": "Wesley does not pause here. Blessed are those who keep his testimonies and seek him with the whole heart. Classical Arminians hear wholehearted seeking as a real summons grace enables—God is not satisfied with empty ceremony.\n\nKeeping testimonies and seeking God belong together: sincere affection, not bare externalism. The blessing invites hearers to seek; it does not shrink “whole heart” into a prior secret membership merely announced.",
+      "reformedNotes": "Calvin: God is by no means satisfied with mere external service; he demands the sincere and honest affection of the heart. Blessed are not the self-wise or the fantastically holy, but those who dedicate themselves to God’s covenant and yield obedience to his law.\n\nReformed reading: whole-heart seeking is the fruit of a heart God claims. Testimonies kept are covenant fidelity, not a costume of religion. Externalism is refused; so is a heart left to its own devices."
+    },
+    {
+      "number": 3,
+      "text": "who also do no wrong, but walk in his ways!",
+      "arminianNotes": "Wesley does not pause here. Those who walk in his ways also do no wrong. Classical Arminians hear a pastoral description of the life grace aims at—not a claim that the regenerate never stumble, but a refusal of willful wandering.\n\nThe path is God’s ways, not our inventions. Do not caricature either camp as soft on sin; the stanza presses real obedience under grace.",
+      "reformedNotes": "Calvin: those who follow God as guide do not work iniquity—an admitted truth meant to teach that life must be under God’s direction, and that we must attend his doctrine carefully. Those instructed in the law cannot plead ignorance when they fall; willful blindness is exposed.\n\nReformed accent: walking in his ways is safety from going astray. The common admission must become careful practice. God’s voice fortifies against Satan’s snares."
+    },
+    {
+      "number": 4,
+      "text": "You have commanded your precepts to be kept diligently.",
+      "arminianNotes": "Wesley does not pause here. God has commanded his precepts to be kept diligently. Classical Arminians hear a real command with pastoral weight—diligence is expected, and grace is sought for the keeping (vv. 5–8).\n\nThe command is not softened into suggestion. Hearers are summoned to careful obedience; prayer for steadfast ways follows at once.",
+      "reformedNotes": "Calvin: God demands a rigid observance of the law; he will not suffer contemners to escape with impunity. Speaking to God in the second person places him before our eyes as Judge.\n\nReformed confession: diligent keeping is commanded, not optional. Terror of contempt drives the next verse’s wish for directed ways. The Judge who commands is also the God whose Spirit must direct."
+    },
+    {
+      "number": 5,
+      "text": "Oh that my ways may be steadfast in keeping your statutes!",
+      "arminianNotes": "Wesley does not pause here. The singer longs that his ways may be steadfast in keeping God’s statutes. Classical Arminians hear sincere prayer for persevering obedience—grace enabling what the command requires.\n\nThis is not despair of the beatitude, but honest petition. Steadfast keeping is asked of God; it is not presumed as native power.",
+      "reformedNotes": "Calvin: although God plainly instructs us in his law, the obtuseness of our understanding and the perversity of our hearts constantly need the direction of his Spirit. Our main desire ought to be for an understanding wisely regulated by the law, and for a docile and obedient heart.\n\nReformed accent: “Oh that” is Spirit-dependent prayer. Directed ways are gift, not self-steering. The law is clear; the heart still needs directing."
+    },
+    {
+      "number": 6,
+      "text": "Then I shall not be put to shame, having my eyes fixed on all your commandments.",
+      "arminianNotes": "Wesley: Respect—a due respect, which implies hearty affection, diligent study, and constant practice. To all—so as not to allow myself in any known sin, or in the neglect of any known duty.\n\nClassical Arminians hear freedom from shame as the fruit of a conscientious, universal respect for God’s commands—eyes fixed on all, not a selective obedience. Affection, study, and practice belong together under grace.",
+      "reformedNotes": "Calvin: if a man carefully observe the law, he need not fear regret for what he has done. “Respect” means we must not be influenced by our own designs or carnal reason, but determine that those who turn not aside from God’s commandments are in the right path. They may not escape the world’s censure, yet they shall not be ashamed before God and the angels. He says all thy precepts—utmost vigilance is needed.\n\nReformed reading: shame is averted by a good conscience under the whole law, not by public applause. Celestial approval steadies where worldly opinion would fail."
+    },
+    {
+      "number": 7,
+      "text": "I will praise you with an upright heart, when I learn your righteous rules.",
+      "arminianNotes": "Wesley: When—when by thy good spirit I shall be more fitly instructed in the meaning of thy word.\n\nClassical Arminians hear praise flowing from Spirit-taught learning. An upright heart praises as it is instructed—not hypocrisy of the lips alone. The good Spirit makes the singer fit to understand and then to praise.",
+      "reformedNotes": "Calvin: it is a singular loving-kindness if a person has made considerable proficiency in God’s law; thanksgiving is the token. None will praise God unfeignedly but he who has molded his life into subjection. It is vain to praise with mouth if we dishonor him by life; genuine piety’s fruit is celebrating God’s praises without hypocrisy.\n\nReformed accent: learned judgments of righteousness and upright praise are bound together. Instruction is gift; praise without obedience is empty."
+    },
+    {
+      "number": 8,
+      "text": "I will keep your statutes; do not utterly forsake me!",
+      "arminianNotes": "Wesley: Forsake me not—for then I shall fall into the foulest sins.\n\nClassical Arminians hear vow and plea together: intention to keep, and honest fear of falling if God withdraws. Grace is not optional scaffolding; without God’s presence the singer knows he cannot stand. Do not invent a self-sufficient keeper of statutes.",
+      "reformedNotes": "Calvin: he avers intention to observe the law, yet conscious of weakness prays that God would not deprive him of grace. “Forsake” may mean withdrawing the Spirit or permitting adversity as if forsaken; the latter fits the context—trial of faith is not refused, but a protracted hiding of favor is dreaded lest faith fail.\n\nReformed confession: keeping statutes and pleading against forsaking are one piety. Weakness is confessed; perseverance is asked of God."
+    }
+  ]
+}

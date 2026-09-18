@@ -1,0 +1,97 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 141,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Psalm 141:1–10",
+  "context": "A Psalm of David: urgent calling on the LORD that prayer be counted as incense and lifted hands as the evening sacrifice. He asks a guard over mouth and heart against evil company and its delicacies, welcomes righteous rebuke as kindness and oil, and—amid scattered bones and laid traps—keeps eyes toward God his Lord for refuge, that the wicked fall into their own nets while he passes safely.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on prayer as incense, a guarded mouth and heart, welcome rebuke, and refuge that lets the wicked fall into their own nets—so each camp speaks in its own voice beside Psalm 141:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Incline not—Suffer it not to be inclined. Heart—Keep me not only from wicked speeches, but from all evil motions of my heart. Dainties—The pleasures or advantages which they gain by their wickedness. Smite—By reproofs. Break—Not hurt, but heal and greatly refresh me. Calamities—In the calamities of those righteous persons who reproved him. When they came into such calamities as those wherein he was involved he would pity them and pray for them. Judges—The chief of mine enemies. Overthrown—Or, cast down headlong by thine exemplary vengeance. Hear—Hearken unto my counsels and offers which now they despise. Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth wood upon the earth.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 141)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "O Jehovah! I have cried unto thee. From such an exordium it is evident that David was laboring under no small trial. He teaches us by his example to make application immediately to God, and not be tempted, as wicked men are, to renounce prayer. Let my prayer be counted as incense: the prayers of God’s people were according to his own appointment sanctified through incense and sacrifices, and David depended upon this promise. Set a watch upon my mouth: he prays that his tongue might be restrained from uttering any word out of joint, and that his heart be kept back from every mischievous device. If God do not watch over our heart and tongue, there will be no bounds to words and thoughts of a sinful kind—so rare a gift of the Spirit is moderation in language. It need not seem absurd to speak of God inclining our hearts to evil, since these are in his hand, to turn them whithersoever he willeth; not that he prompts evil desires, but according to his secret judgments he gives over the wicked to Satan’s tyranny. Let the righteous smite me: he would much rather be awakened by the severe rod of reproof than be seduced through pleasing falsehoods. By noticing this feature in reproof, David would distinguish that which rises from sincere affection from invectives from hatred. My eyes are toward you: faith makes us collected when our senses would otherwise be confounded. Keep me from the trap; let the wicked fall into their own nets, while I pass by safely—God makes the devices of the wicked to recoil upon their own heads.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 141)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O LORD, I call upon you; hasten to me! Give ear to my voice when I call to you!",
+      "arminianNotes": "O LORD, I call; hasten; give ear when I call. Urgency marks a soul that values His presence.\n\nClassical Arminians urge fervent asking. Those who prize gracious nearness will not pray coldly—call and keep calling.",
+      "reformedNotes": "I have cried unto You; hasten; give ear. Trial teaches immediate application to God, not other resources.\n\nReformed accent: the ungodly howl or renounce prayer; faith cries to Jehovah first and insists on help."
+    },
+    {
+      "number": 2,
+      "text": "Let my prayer be counted as incense before you, and the lifting up of my hands as the evening sacrifice!",
+      "arminianNotes": "Prayer counted as incense; hands lifted as the evening sacrifice. Spiritual offering stands where altar smoke once rose.\n\nArminian pastoral: present prayer and self-dedication. Through the Savior’s mediation, such worship is acceptable—draw near with lifted hands.",
+      "reformedNotes": "Prayer as incense; lifting of hands as evening sacrifice. Appointed symbols taught that prayer is sweet before God.\n\nReformed comfort: David leans on the promise tied to incense and offering. Faith uses the helps God ordained, not empty invention."
+    },
+    {
+      "number": 3,
+      "text": "Set a guard, O LORD, over my mouth; keep watch over the door of my lips!",
+      "arminianNotes": "Set a guard over my mouth; watch the door of my lips. Speech needs divine sentry.\n\nClassical Arminians pray this practically. Under provocation, ask grace to shut the door—tongue sins are real dangers in an evil world.",
+      "reformedNotes": "Set a watch upon my mouth; keep the door of my lips. Resentment under injury tempts unjust words.\n\nReformed accent: the tongue slips unless continually watched by God. Moderation in language is a rare gift of the Spirit.",
+      "keyContrast": "Both ask God to restrain the mouth. Arminians typically stress grace-enabled vigilance the believer must seek and practice under provocation; Reformed readers typically stress that without God’s continual watch there is no bound to sinful speech—restraint itself is Spirit-gift."
+    },
+    {
+      "number": 4,
+      "text": "Do not let my heart incline to any evil, to busy myself with wicked deeds in company with men who work iniquity, and let me not eat of their delicacies!",
+      "arminianNotes": "Do not let my heart incline to evil, wicked deeds, or their delicacies. Heart, company, and pleasure are all refused.\n\nArminian reading: suffer the heart not to incline. Pray against evil motions and the sweets of sin; grace turns desire away from iniquity’s feast.",
+      "reformedNotes": "Incline not my heart to an evil thing; keep me from working iniquity with them and from their delicacies.\n\nReformed accent: heart and tongue need the Spirit’s secret restraints. God holds hearts to turn them; He does not author evil desire, yet by judgment may give the wicked over—while the saint pleads not to feast on sin’s prosperity.",
+      "keyContrast": "Both refuse heart-inclination to evil and the delicacies of the wicked. Arminians typically emphasize asking God to keep the heart from inclining and to turn desire from sin’s sweets; Reformed readers, with Calvin, emphasize that hearts are in God’s hand and that only the Spirit’s restraints bound inward devices—while blame for sin remains on human corruption."
+    },
+    {
+      "number": 5,
+      "text": "Let a righteous man strike me—it is a kindness; let him rebuke me—it is oil for my head; let my head not refuse it. Yet my prayer is continually against their evil deeds.",
+      "arminianNotes": "Righteous strike and rebuke are kindness and oil—do not refuse them; yet prayer continues against evil deeds.\n\nClassical Arminians welcome corrective love. Prefer cutting reproof that heals over flattery that ruins; pity and pray when the righteous suffer.",
+      "reformedNotes": "Let the righteous smite in mercy; reproof is ointment that will not hurt the head—better than seducing flatteries.\n\nReformed accent: flee the oil of the wicked’s praise; receive brotherly severity as kindness. Satan tempts by allurement and mutual flattery.",
+      "keyContrast": "Both prize righteous rebuke over flattery. Arminians typically stress a willing, grace-taught preference for healing reproof; Reformed readers typically stress docility that flees seducing praise and receives even severe admonition as mercy from affection."
+    },
+    {
+      "number": 6,
+      "text": "When their judges are thrown over the cliff, then they shall hear my words, for they are pleasant.",
+      "arminianNotes": "When judges are thrown over the cliff, they hear pleasant words once despised. Judgment opens ears.\n\nArminian pastoral: exemplary overthrow can humble leaders. Words refused in pride may yet be heeded when God casts down.",
+      "reformedNotes": "When judges are cast down from rocky height, the misled hear pleasant words.\n\nReformed note: blame rests on leaders who inflamed error; their fall may recover the simple to patience for truth."
+    },
+    {
+      "number": 7,
+      "text": "As when one plows and breaks up the earth, so shall our bones be scattered at the mouth of Sheol.",
+      "arminianNotes": "Bones scattered at Sheol’s mouth like plowed earth. The image is extreme distress and near-death.\n\nClassical Arminians do not soften the groan. Bring even bone-deep calamity to God; the psalm teaches prayer in wreck, not denial of pain.",
+      "reformedNotes": "Bones broken and scattered at Sheol’s mouth—treated worse than common death.\n\nReformed comfort: even when the expression fits—bones scattered—keep hoping for life and deliverance. Faith has known deliveries from deaths oft."
+    },
+    {
+      "number": 8,
+      "text": "But my eyes are toward you, O GOD, my Lord; in you I seek refuge; leave me not defenseless!",
+      "arminianNotes": "Eyes toward You, O GOD, my Lord; refuge sought; leave me not defenseless. Gaze and shelter replace despair.\n\nArminian pastoral: in all times and places, cleave to the Lord. Keep seeking refuge; ask not to be poured out without defense.",
+      "reformedNotes": "Eyes toward You, O GOD, my Lord; refuge in You; leave me not defenseless. Faith stays collected when senses confound.\n\nReformed accent: torn as a corpse yet crying—double miracle if mind holds persuasion of not perishing. Fix the eye on Jehovah.",
+      "keyContrast": "Both fix eyes on God for refuge and defense. Arminians typically stress continual cleaving and seeking; Reformed readers typically stress faith that remains composed under overwhelming difficulty by God’s preserving grip."
+    },
+    {
+      "number": 9,
+      "text": "Keep me from the trap that they have laid for me and from the snares of evildoers!",
+      "arminianNotes": "Keep me from laid trap and snares of evildoers. Escape is asked, not assumed by cleverness.\n\nClassical Arminians pray for rescue from Satan’s and sinners’ snares. Entreat preservation; do not toy with the net.",
+      "reformedNotes": "Keep me from their trap and the snares of workers of iniquity. He owns himself shut up unless a higher hand frees him.\n\nReformed comfort: issues from death belong to God. Delay may make deliverance more signal."
+    },
+    {
+      "number": 10,
+      "text": "Let the wicked fall into their own nets, while I pass by safely.",
+      "arminianNotes": "Let the wicked fall into their own nets; let me pass safely. Harm watch, harm catch—while the innocent escapes.\n\nArminian pastoral: ask God to turn snares on their makers. Pass by in safety as His gift, not as luck.",
+      "reformedNotes": "Let them fall together into their own nets while I pass safely. Devices recoil on the crafty by God’s hand.\n\nReformed accent: escape is impossible by combined force unless God overthrows the array. Hold them till the saint passes."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 2,
+  "verseStart": 1,
+  "verseEnd": 4,
+  "translation": "ESV",
+  "title": "Hebrews 2:1–4",
+  "context": "Because the Son is greater than angels, the hearers must pay closer attention lest they drift: if the angel-mediated word was firm with just penalties, neglect of so great a salvation—declared by the Lord, attested by hearers, and witnessed by God with signs, wonders, miracles, and Spirit-gifts—leaves no escape.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on drifting, neglect, and so great a salvation—so each camp speaks in its own voice beside Hebrews 2:1–4.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Lest we should let them slip—as water out of a leaky vessel. So the Greek word properly signifies. In giving the law, God spoke by angels; but in proclaiming the gospel, by his Son. Steadfast—firm and valid. Every transgression—commission of sin. Every disobedience—omission of duty. How shall we escape, if we neglect so great a salvation—a deliverance from so great wickedness and misery, into so great holiness and happiness. This was first spoken of by Him who is the Lord—of angels as well as men. And was confirmed to us—of this age, even every article of it. By them that had heard him—and had been themselves also both eye-witnesses and ministers of the word. By signs and wonders—while he lived. And various miracles and distributions of the Holy Ghost—miraculous gifts, distributed after his exaltation. According to his will—not theirs who received them.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 2:1–4)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "He now declares what he had before in view by comparing Christ with angels: to secure the highest authority to his doctrine. If the Law given through angels could not have been received with contempt, and if its transgression was visited with severe punishment, what is to happen to the despisers of that gospel which has the Son of God as its author and was confirmed by so many miracles? The higher the dignity of Christ than that of angels, the more reverence is due to the Gospel than to the Law. Not only the rejection of the Gospel, but also its neglect, deserves the heaviest punishment, on account of the greatness of the grace which it offers; hence he says, so great a salvation. In proportion to the greatness of Christ will be the severity of God’s vengeance on all the despisers of his Gospel. As the Lord would not have men otherwise saved than by the Gospel, so when that is neglected the whole salvation of God is rejected. God also bearing them witness: miracles serve to establish the Gospel; they who do not reverently receive the Gospel recommended by such testimonies disregard not only the word of God, but also his works.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 2:1–4)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Therefore we must pay much closer attention to what we have heard, lest we drift away from it.",
+      "arminianNotes": "Wesley: lest we should let them slip—as water out of a leaky vessel. The gospel can leak from inattentive hearers. “Pay much closer attention” is a real pastoral charge, not theater.\n\nClassical Arminians take drifting as a live danger for those who have truly heard. Enabling grace does not make heed automatic; the leaky vessel must be watched. Shared with Reformed readers: the Son’s superiority raises the stakes of attention.",
+      "reformedNotes": "Calvin: to give heed and to let slip are opposites—an attentive mind is like a vessel holding water; a roving and indolent mind is like a vessel with holes. The comparison with angels was to secure the highest authority to Christ’s doctrine.\n\nReformed accent: the King who governs speaks a word that demands reverence. Drift exposes careless hearing; the warning is real pastoral speech to the church, not a fake scare.",
+      "keyContrast": "Both treat drifting as a real danger under a greater word. Arminians typically stress that those who have heard can still leak the gospel by neglect—heed must be actively paid. Reformed readers typically stress the same urgency from Christ’s superior authority, while locating durable holding of the word in the Spirit’s effectual work among the King’s people—without turning the warning into empty theater."
+    },
+    {
+      "number": 2,
+      "text": "For since the message declared by angels proved to be reliable, and every transgression or disobedience received a just retribution,",
+      "arminianNotes": "Wesley: in giving the law, God spoke by angels; in proclaiming the gospel, by his Son. Steadfast—firm and valid. Every transgression (commission) and disobedience (omission) received just recompense.\n\nArminian reading: lesser light already carried real sanctions. How much more the Son’s word. Justice is not bluff; the a fortiori argument only works if penalties were real then and remain serious now.",
+      "reformedNotes": "Calvin: the word was firm—of authority; God required it to be believed. Firmness means authority; what is added about punishment explains it. Doctrine of which God shows himself the avenger is by no means unimportant.\n\nReformed accent: the angelic word’s firmness displays the King’s justice. The greater gospel does not soften holiness; it heightens accountability."
+    },
+    {
+      "number": 3,
+      "text": "how shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard,",
+      "arminianNotes": "Wesley: so great a salvation—deliverance from so great wickedness and misery into so great holiness and happiness. How shall we escape if we neglect it? First spoken by the Lord; confirmed to us by those who heard him.\n\nArminian hinge: neglect is possible for addressees of the gospel. “We” includes the writer and hearers under a real warning. Escape language is not fake; salvation can be neglected. Classical Arminians refuse both cheap presumption and despair—great salvation must be heeded.",
+      "reformedNotes": "Calvin: not only rejection but neglect deserves the heaviest punishment because of the greatness of the grace offered. When the gospel is neglected, the whole salvation of God is rejected; for it is God’s power unto salvation to those who believe. This encomium is also a wonderful support to faith: a sure salvation is conveyed by the word.\n\nReformed accent: so great salvation is metonymy for the gospel doctrine; neglecting it is rejecting God’s saving power. The warning unmasks contempt; it does not teach that Christ’s sheep are finally lost while he fails to keep them—yet the word to the congregation remains sharp.",
+      "keyContrast": "Both refuse to empty “how shall we escape if we neglect.” Arminians typically take neglect as a live possibility for real hearers of the gospel—great salvation that must be received and not drifted from. Reformed readers typically take the warning as deadly serious congregational speech while holding that God’s sure salvation in the gospel is not finally overturned by human leakiness in the elect—effectual grace and real warnings together."
+    },
+    {
+      "number": 4,
+      "text": "while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will.",
+      "arminianNotes": "Wesley: signs and wonders while he lived; various miracles and distributions of the Holy Ghost after his exaltation—according to his will, not theirs who received them.\n\nShared: God attested the message. Gifts serve the gospel’s confirmation. Arminians note “his will”—sovereign distribution—without reading away the human call to heed the attested word.",
+      "reformedNotes": "Calvin: the Lord proved his approbation of their preaching by miracles as by a solemn subscription. Signs, wonders, and miracles amplify importance; distributions of the Spirit adorned the doctrine. “According to his will” reminds us miracles could be ascribed to God alone and were wrought to seal the gospel’s truth.\n\nReformed accent: the King who governs seals his word by his own will. Attestation heightens guilt for neglect; it does not transfer authorship from God to the church’s inventiveness."
+    }
+  ]
+}

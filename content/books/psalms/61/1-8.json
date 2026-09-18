@@ -1,0 +1,83 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 61,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 61:1–8",
+  "context": "To the choirmaster: with stringed instruments. Of David. From the end of the earth with a faint heart David cries for the rock higher than he; God has been refuge and strong tower; he longs to dwell in the tent and under the wings, recalls heard vows and the heritage of those who fear the name, prays for the king’s prolonged life under steadfast love and faithfulness, and vows perpetual praise.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on cry and faint heart, the higher rock, refuge and tower, tent and wings, heritage of God-fearers, the king’s years, and vows performed in praise—so each camp speaks in its own voice beside Psalm 61.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Cry—my earnest prayer. End of the earth—a place far distant from thy house and people, or from Jerusalem. Faint—overwhelmed with calamities. Rock—a place of refuge and security. Higher than I—where I cannot climb without thy help. Refuge—protector. Strong tower—against which the enemy cannot prevail. Dwell—as in a place of safety and delight. Tent—thy tabernacle. Shelter of thy wings—thy gracious and powerful protection. Heard my vows—accepted my prayers and promises. Heritage—the blessings promised to them. Prolong—the life. King—David himself, or the Messiah. Steadfast love and faithfulness—thy mercy and truth. Sing—praise thee. Perform my vows—pay what I have vowed in my distress.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 61:1–8)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David, as if cast to the end of the earth and faint in heart, cries that God would lead him to a rock higher than himself… He recalls that God has been his refuge and a strong tower against the enemy, and therefore longs to dwell in God’s tent forever under the shelter of his wings… God has heard his vows and given the heritage of those who fear his name… He prays that the king’s life be prolonged and that mercy and truth watch over him, vowing perpetual praise as he performs his vows day by day.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 61)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Hear my cry, O God, listen to my prayer;",
+      "arminianNotes": "Wesley: Cry—my earnest prayer. Twin verbs (hear / listen) press urgency without cleverness.\n\nArminian pastoral: cry and prayer are means grace appoints. The faint may still ask to be heard; listening God is sought, not presumed silent forever.",
+      "reformedNotes": "Calvin: David opens with earnest cry that God would hear and attend. Prayer’s first move is to the Listener.\n\nReformed accent: shared—cry is not unbelief. Hearing is begged because only God can answer the distance and faintness that follow."
+    },
+    {
+      "number": 2,
+      "text": "from the end of the earth I call to you when my heart is faint. Lead me to the rock that is higher than I,",
+      "arminianNotes": "Wesley: End of the earth—far from thy house; Faint—overwhelmed; Rock—refuge; Higher than I—where I cannot climb without thy help. Distance and faintness seek a rock above self.\n\nArminian hope: lead me keeps the will engaged. The higher rock is reached by being led; grace does not erase the call from the ends of the earth.",
+      "reformedNotes": "Calvin: cast as to the end of the earth with faint heart, he asks to be led to a rock higher than himself—safety above his reach.\n\nReformed pastoral: shared—higher than I confesses inability. Leading is God’s; the rock is not self-ascent.",
+      "keyContrast": "Both hear faint-hearted distance crying for a higher rock. Arminians typically stress lead me as ongoing responsive seeking; Reformed readers typically stress that the rock above self is reached only by God’s leading, not climbing."
+    },
+    {
+      "number": 3,
+      "text": "for you have been my refuge, a strong tower against the enemy.",
+      "arminianNotes": "Wesley: Refuge—protector; Strong tower—against which the enemy cannot prevail. Past mercy grounds present plea.\n\nArminian note: you have been invites continued trust. Experience of refuge becomes reason to seek the rock again.",
+      "reformedNotes": "Calvin: God has been refuge and strong tower against the enemy—past faithfulness argues for present leading.\n\nReformed accent: shared—tower is God’s character remembered. Memory of protection fuels new petition."
+    },
+    {
+      "number": 4,
+      "text": "Let me dwell in your tent forever! Let me take refuge under the shelter of your wings! Selah",
+      "arminianNotes": "Wesley: Dwell—as in safety and delight; Tent—thy tabernacle; Shelter of thy wings—gracious and powerful protection. Forever names lasting nearness.\n\nArminian pastoral: dwell and take refuge are sought postures. Grace invites abiding under wings, not a moment’s visit only.",
+      "reformedNotes": "Calvin: he longs to dwell in God’s tent forever under the shelter of his wings—communion and protection joined.\n\nReformed note: shared—tent and wings are God’s hospitality. Forever is faith’s desire for unbroken refuge."
+    },
+    {
+      "number": 5,
+      "text": "For you, O God, have heard my vows; you have given me the heritage of those who fear your name.",
+      "arminianNotes": "Wesley: Heard my vows—accepted prayers and promises; Heritage—blessings promised to them that fear thy name. Vow and gift meet.\n\nArminian hearing: heard vows imply vows were made and kept in seeking. Heritage belongs with those who fear—living reverence marks the heirs.",
+      "reformedNotes": "Calvin: God has heard his vows and given the heritage of those who fear his name—acceptance and allotted blessing from God.\n\nReformed accent: shared—heritage is given, not seized. Fear of the name defines the line of heirs."
+    },
+    {
+      "number": 6,
+      "text": "Prolong the life of the king; may his years endure to all generations!",
+      "arminianNotes": "Wesley: Prolong—the life; King—David himself, or the Messiah. Royal years asked to span generations.\n\nArminian pastoral: prayer for the king’s life is intercession with public stakes. Shared—longevity sought under God, not magic.",
+      "reformedNotes": "Calvin: he prays that the king’s life be prolonged to all generations—stability of the throne under God’s care.\n\nReformed note: shared—king’s years rest on divine prolonging. The petition serves God’s purpose in the anointed."
+    },
+    {
+      "number": 7,
+      "text": "May he be enthroned forever before God; appoint steadfast love and faithfulness to watch over him!",
+      "arminianNotes": "Wesley: Steadfast love and faithfulness—thy mercy and truth appointed as guards. Throne forever needs mercy and truth on watch.\n\nArminian hope: appoint keeps asking God to set love and faithfulness as guardians. The king’s forever is under those attributes, not bare power.",
+      "reformedNotes": "Calvin: mercy and truth are to watch over the king enthroned forever before God—divine attributes as sentinels.\n\nReformed accent: shared—hesed and faithfulness, not human intrigue, secure the throne. Forever before God is theological seating.",
+      "keyContrast": "Both want the king guarded by steadfast love and faithfulness. Arminians typically stress ongoing appointment sought in prayer; Reformed readers typically stress that those perfections of God alone keep the throne forever."
+    },
+    {
+      "number": 8,
+      "text": "So will I ever sing praises to your name, as I perform my vows day after day.",
+      "arminianNotes": "Wesley: Sing—praise thee; Perform my vows—pay what I vowed in distress, day after day. Praise and vow-keeping close the psalm.\n\nArminian pastoral: day after day is persevering obedience. Grace that heard vows expects performed vows and continual song—means of grateful fidelity.",
+      "reformedNotes": "Calvin: he vows perpetual praise as he performs his vows day by day—gratitude answering heard prayer.\n\nReformed note: shared—song and vow flow from mercy received. Ever sing is the redeemed rhythm under the Name."
+    }
+  ]
+}

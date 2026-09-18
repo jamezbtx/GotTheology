@@ -50,6 +50,26 @@
   "keyContrast": "Both confess that God does not change in being or character, and both read relenting texts as a change of dealing rather than a mutable essence. Prayer is not wasted. Any remaining fork is whether an unchanging counsel includes resistible grace, not whether God is still becoming.",
   "scripture": [
     {
+      "book": "Hebrews",
+      "bookSlug": "hebrews",
+      "chapter": 13,
+      "verseStart": 7,
+      "verseEnd": 17,
+      "title": "Hebrews 13:7–17",
+      "href": "/bible/hebrews/13/7-17.html",
+      "why": "Jesus Christ is the same yesterday and today and forever."
+    },
+    {
+      "book": "Psalms",
+      "bookSlug": "psalms",
+      "chapter": 102,
+      "verseStart": 1,
+      "verseEnd": 28,
+      "title": "Psalm 102:1–28",
+      "href": "/bible/psalms/102/1-28.html",
+      "why": "You are the same, and your years have no end—the heavens change; you remain."
+    },
+    {
       "book": "Romans",
       "bookSlug": "romans",
       "chapter": 11,

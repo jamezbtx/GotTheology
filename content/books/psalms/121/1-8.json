@@ -1,0 +1,84 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 121,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Psalm 121:1–8",
+  "context": "A Song of Ascents of trust: the pilgrim lifts eyes to the hills and asks where help comes from, then confesses the Maker of heaven and earth as Keeper. The LORD neither slumbers nor sleeps; He is shade, guard from evil, and watcher of going out and coming in—forevermore. Zion’s road is held by God’s vigilance, not by the traveler’s nerve alone.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on help from the Maker of heaven and earth, the Keeper who neither slumbers nor sleeps, and going out and coming in kept forevermore—so each camp speaks in its own voice beside Psalm 121:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "My help cometh from the Lord—there is no help for me but in my God; and I expect it from no other quarter. He will not suffer thy foot to be moved—the foundation, God’s infinite power and goodness, on which thou standest, cannot be moved. He that keepeth Israel—the Divine Being represents himself as a watchman, who takes care of the city and its inhabitants during the night-watches; and who is never overtaken with slumbering or sleepiness. The Lord shall preserve thee from all evil—spiritual and corporeal, natural and moral. Thy going out and thy coming in—night and day, in all thy business and undertakings; and this through the whole course of thy life: for evermore. Now that thou hast put thy whole trust and confidence in God, he will be thy continual portion and defence in all places, in all times, in life and in eternity.",
+        "cite": "Adam Clarke",
+        "source": "Commentary on the Bible (on Psalm 121)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Psalmist, to encourage true believers confidently to trust in the aid of God, first affirms that to whatever quarter we turn our eyes it is impossible to find salvation anywhere else; and, in the second place, extols in lofty terms the fatherly care of God in defending his faithful ones. By the mountains, the Prophet means whatever is great or excellent in the world; the lesson he teaches is that we ought to account all such favor as nothing. God is exhibited to the faithful as their guardian, that they may rest with assured confidence on his providence. To persuade true believers that God has a special care of each of them, he brings forward the promise made to the whole people, and declares God to be the guardian of his Church. God will be the continual guide of his people, so that stretching out his hand to them he will conduct them from the beginning even to the end.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 121)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I lift up my eyes to the hills. From where does my help come?",
+      "arminianNotes": "Eyes lift to the hills with an open question: where does my help come from? Pilgrimage begins with honest looking and asking before the answer is sung aloud.\n\nClassical Arminians welcome the question as faith seeking its true source. Hills may tempt false trusts; the next verse will answer—help must be received as from the LORD alone.",
+      "reformedNotes": "Lifted eyes and a searching question set the scene. The hills are seen; help’s origin is not yet named, so the heart is taught to ask rightly on the road.\n\nReformed accent: the question is catechetical. God will supply the answer so that the pilgrim’s gaze settles on the Maker, not on sacred geography as a rival help."
+    },
+    {
+      "number": 2,
+      "text": "My help comes from the LORD, who made heaven and earth.",
+      "arminianNotes": "Help comes from the LORD—Maker of heaven and earth. Creation itself grounds confidence for every step of the dusty road to Zion.\n\nArminian pastoral: turn from lesser hills to the Creator. Trust is a living reliance on the One who freely made all things and still invites pilgrims to seek His help.",
+      "reformedNotes": "The LORD who made heaven and earth is help. Creator power underwrites pilgrim safety from first ascent to last return homeward.\n\nReformed comfort: the same will that spoke worlds into being keeps travelers. Help is not borrowed from creation; it comes from creation’s Lord alone."
+    },
+    {
+      "number": 3,
+      "text": "He will not let your foot be moved; he who keeps you will not slumber.",
+      "arminianNotes": "Your foot will not be moved; the Keeper will not slumber. Promise meets the pilgrim’s next step with waking, personal care.\n\nClassical Arminians hear a real pledge that calls for continued walking in trust. God’s waking care encourages perseverance; we do not treat His keeping as license for careless feet.",
+      "reformedNotes": "He will not let your foot be moved; the Keeper does not slumber. Stability on the ascent is God’s gift, not self-secured balance on loose stones.\n\nReformed note: preservation is active and tireless. The pilgrim stands because God keeps—not because vigilance is shared in equal measure between God and creature.",
+      "keyContrast": "Both confess a God who keeps without slumber. Arminians typically stress a real keeping that pilgrims must still walk under in faith; Reformed readers typically stress God’s effectual preservation that will not let the foot of His own be finally moved."
+    },
+    {
+      "number": 4,
+      "text": "Behold, he who keeps Israel will neither slumber nor sleep.",
+      "arminianNotes": "Behold: Israel’s Keeper neither slumbers nor sleeps. Corporate care widens the personal promise already given to the lone traveler.\n\nArminian reading: the God of the people remains alert for every pilgrim within the people. Rest in His watchfulness; answer with grateful obedience on the road.",
+      "reformedNotes": "Israel’s Keeper neither slumbers nor sleeps. The nation’s Guardian is never off duty while His people climb toward Zion’s courts.\n\nReformed pastoral: sleep belongs to creatures; watching belongs to God. The church’s safety is His continuous custody, night and day alike without fail."
+    },
+    {
+      "number": 5,
+      "text": "The LORD is your keeper; the LORD is your shade on your right hand.",
+      "arminianNotes": "Twice “the LORD”: Keeper and shade at the right hand. Near protection for the dusty road, not distant theory about bare providence.\n\nClassical Arminians stress personal nearness you may trust and thank. Shade invites the weary to stay close rather than wander into unprotected heat.",
+      "reformedNotes": "Keeper and shade on the right hand—covenant nearness named twice over. The LORD Himself is the covering beside the pilgrim’s steps.\n\nReformed accent: shade is His presence, not a technique we invent for hard miles. He stations Himself where the traveler’s need is closest."
+    },
+    {
+      "number": 6,
+      "text": "The sun shall not strike you by day, nor the moon by night.",
+      "arminianNotes": "Day sun and night moon will not strike. Whole-day dangers are named so whole-day trust may answer on every stage of the ascent.\n\nArminian pastoral: fear neither glare nor gloom as ultimate powers. Bring each watch of the journey to the God who shades both heat and haunted night.",
+      "reformedNotes": "Sun by day, moon by night—total coverage against striking harm. Time itself cannot outflank the Keeper of Israel on the road.\n\nReformed comfort: no hour is God-forsaken for His people. Day and night remain His servants, not independent threats along the ascent."
+    },
+    {
+      "number": 7,
+      "text": "The LORD will keep you from all evil; he will keep your life.",
+      "arminianNotes": "Keep from all evil; keep your life. The double “keep” is comprehensive pastoral hope for every stage of the pilgrim ascent.\n\nClassical Arminians receive this as a true promise to be held by living faith. God’s keeping is sincere and strong; pilgrims still cling to Him, refusing evil’s invitations.",
+      "reformedNotes": "From all evil He will keep you; He will keep your life. Evil’s reach stops where His custody of His people firmly stands.\n\nReformed reading: “all evil” does not deny every hardship on the road, but denies evil’s final triumph over those He keeps. Life is held in His hand.",
+      "keyContrast": "Both trust the LORD to keep from evil and to keep life. Arminians typically emphasize a keeping that continues as the pilgrim abides in faith; Reformed readers typically emphasize God’s invincible custody of His people’s life unto the end."
+    },
+    {
+      "number": 8,
+      "text": "The LORD will keep your going out and your coming in from this time forth and forevermore.",
+      "arminianNotes": "Going out and coming in—every transit—kept from now forevermore. Ordinary movements sit under blessing on the pilgrim way to Zion.\n\nArminian pastoral: entrust errands and returns to Him. Forevermore invites lifelong trust renewed daily, not a shrug that diligence no longer matters under grace.",
+      "reformedNotes": "Going out and coming in kept from this time forth and forevermore. The whole of life’s traffic is under the LORD’s tireless watch.\n\nReformed comfort: forevermore is God’s span, not ours. The Ascents song ends in a custody that outlasts the road and the traveler’s strength.",
+      "keyContrast": "Both hear lifelong, even everlasting, keeping of going out and coming in. Arminians typically stress ongoing trust across life’s movements; Reformed readers typically stress God’s irreversible promise to keep His people forevermore."
+    }
+  ]
+}

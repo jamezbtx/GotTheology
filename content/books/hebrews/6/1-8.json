@@ -1,0 +1,83 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 6,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "ESV",
+  "title": "Hebrews 6:1–8",
+  "context": "After rebuking dullness of hearing, the writer presses past elementary foundations toward maturity—and then speaks the sharpest warning in the letter: those enlightened who fall away cannot be restored again to repentance. Land that drinks rain either bears a useful crop or thorns for burning.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the impossibility of renewing apostates and the fork between real falling away and temporary taste—so each camp speaks in its own voice beside Hebrews 6:1–8.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "It is impossible for those who were once enlightened—with the light of the glorious love of God in Christ. And have tasted the heavenly gift—remission of sins, sweeter than honey and the honeycomb. And been made partakers of the Holy Ghost—of the witness and the fruit of the Spirit. And have fallen away—here is not a supposition, but a plain relation of fact. The apostle describes those who have cast away both the power and the form of godliness; who have lost both their faith, hope, and love, and that wilfully. Of these wilful total apostates he declares, it is impossible to renew them again to repentance (though they were renewed once).",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 6:4–6)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The knot of the question is in the word, fall away. The Apostle speaks not here of theft, or murder, or adultery; but he refers to a total defection from the Gospel, when a sinner entirely renounces his grace. God favors none but the elect alone with the Spirit of regeneration; yet he may grant the reprobate also some taste of his grace, irradiate their minds with some sparks of his light, and in some sort engrave his word on their hearts. There is therefore some knowledge even in the reprobate, which afterwards vanishes away. When any one rises up again after falling, we may conclude that he had not been guilty of this defection, however grievously he may have sinned.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 6:4–6)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God,",
+      "arminianNotes": "“Therefore” picks up the rebuke of milk-drinkers: leave the elementary doctrine and go on to maturity. Wesley: saying no more of these for the present—not forgetting them, but refusing to stall forever on first things. Repentance from dead works and faith toward God remain the foundation; the call is to build.\n\nArminian pastoral weight: growth is grace-enabled and sincerely required. Believers who linger in rudiments risk the dullness already named. Maturity is not optional polish; it is the path along which steadfastness is kept—or lost.",
+      "reformedNotes": "Calvin: leave first principles not by forgetting them, but by refusing to remain always engaged in laying the foundation. The house must rise. Elementary doctrine is for catechumens; the goal is progress God Himself permits and produces.\n\nReformed accent: going on to maturity is the fruit of a living faith God has planted. The foundation stands; the elect are pressed forward by the same grace that began them. Stagnation is dangerous precisely because warnings are real means in the path of perseverance."
+    },
+    {
+      "number": 2,
+      "text": "and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment.",
+      "arminianNotes": "Washings, laying on of hands, resurrection, eternal judgment—the catechetical cluster. These are not discarded; they are foundations already laid. Wesley ties them to baptism, the gift of the Spirit, and irreversible judgment.\n\nArminian note: knowing first things is not the same as living in their power. Instruction without progress leaves the hearer vulnerable when the hard word of verses 4–6 arrives.",
+      "reformedNotes": "Calvin reads this as the Church’s common catechism—repentance, faith, baptismal doctrine, resurrection, judgment—taught once to the newly consecrated. To turn back to them as if starting over is to retrograde.\n\nReformed pastoral: the basics remain true forever; circling them without building is spiritual childhood prolonged. God means His people to move from milk to solid food under the same gospel."
+    },
+    {
+      "number": 3,
+      "text": "And this we will do if God permits.",
+      "arminianNotes": "Progress depends on God’s permitting. Wesley: we will go on to perfection, and so much the more diligently because of what follows. Human resolve is real; divine leave is decisive.\n\nArminian reading: the “if” is not fatalism. It summons earnest going-on while confessing that advance is gift. Neglect of diligence under this mercy is the danger the warning will name.",
+      "reformedNotes": "Calvin: a dreadful denunciation follows; the Apostle fulminates lest they indulge supineness. Progress in the course is the special gift of God—not something a man bounds into whenever he pleases.\n\nReformed comfort and fear together: God permits the advance He commands. The elect are not self-made mature; yet the warning that follows is aimed to shake security and keep the flock watchful."
+    },
+    {
+      "number": 4,
+      "text": "For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit,",
+      "arminianNotes": "Enlightened, tasted the heavenly gift, shared in the Holy Spirit—Wesley hears real light of God’s love in Christ, remission sweeter than honey, and the witness and fruit of the Spirit. These are not empty labels for almost-Christians; they describe those who had truly tasted grace.\n\nClassical Arminian fork: a genuine participant in these blessings can still fall away totally. The warning is pastoral precisely because the privileges were real. Softening “shared in the Holy Spirit” into mere external contact undercuts Wesley’s reading and the force of the text.",
+      "reformedNotes": "Calvin grants strong language: illumination, taste of the heavenly gift, participation of the Spirit. Yet he will not concede that the reprobate received the Spirit of regeneration proper to the elect. God may give sparks of light and some taste of goodness that later vanish—temporal faith without deep root.\n\nReformed fork: the warning is real as a means; those who finally fall show they were never sealed as sons. The elect are kept; temporary professors may be deeply moved and still not born of God. Do not soften the terror—use it to drive self-examination and diligence.",
+      "keyContrast": "Both refuse to treat enlightenment and Spirit-sharing as trivial. Wesley reads these as real renewing grace from which one may wilfully and totally fall; Calvin reads a genuine but non-regenerating taste that the reprobate may receive and later lose, while the elect cannot finally fall."
+    },
+    {
+      "number": 5,
+      "text": "and have tasted the goodness of the word of God and the powers of the age to come,",
+      "arminianNotes": "Taste of the good word and the powers of the age to come. Wesley: relish and delight in the word; every one tastes these who has a hope full of immortality. The comparison is birth: seeing light, tasting nourishment, partaking of the world to come.\n\nArminian weight: this is experiential Christianity, not bare profession. Those who have known the word’s sweetness and eschatological power are the very ones warned—because apostasy after such taste is the tragedy in view.",
+      "reformedNotes": "Calvin: the Gospel is a sweet testimony of God’s love; by faith we are admitted as it were into the kingdom of heaven and see blessed immortality. The names signalize true knowledge of the Gospel—yet still, for some, a knowledge that can vanish.\n\nReformed accent: tasting is not the same as being kept by the Father’s gift to the Son. The verse heightens the warning’s severity without granting that every taster was elect. Privilege intensifies guilt when the fall is final."
+    },
+    {
+      "number": 6,
+      "text": "and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt.",
+      "arminianNotes": "Fallen away—Wesley: not a mere supposition but a plain relation of fact. Wilful total apostates who cast away faith, hope, and love cannot be renewed again to repentance, though they were renewed once. They crucify the Son afresh and put Him to open shame.\n\nClassical Arminian insistence: the impossibility is real. This is not hypothetical theater for people who never believed. After enlightenment and sharing the Spirit, final apostasy leaves no path back to the foundation. The warning must stay sharp: a true believer can finally fall away.",
+      "reformedNotes": "Calvin: total defection from the Gospel—not ordinary sins. Such apostates never truly feel repentance again; deprived of the Spirit and given to a reprobate mind, they rush headlong. If someone rises after a grievous fall, that itself shows they had not committed this whole falling away.\n\nReformed insistence: impossible renewal describes the hardened apostate, typically the non-elect who only tasted. The elect cannot finally fall; God uses this thunderbolt as a means so that they fear, watch, and endure. Neither camp should blunt the word “impossible.”",
+      "keyContrast": "Main fork: Wesley—wilful total apostasy after real renewal, with no renewing again to repentance. Calvin—total Gospel-defection of those who had only temporary taste; the elect are preserved, and recovery itself proves the fall was not this final apostasy. Both keep the warning terrifying and refuse Novatian hardness toward ordinary penitents."
+    },
+    {
+      "number": 7,
+      "text": "For land that has drunk the rain that often falls on it, and produces a crop useful to those for whose sake it is cultivated, receives a blessing from God.",
+      "arminianNotes": "Rain often falls; useful crop; blessing from God. The image assumes real irrigation—gospel privilege repeatedly given. Fruit answers cultivation.\n\nArminian pastoral: those who drink the rain must bring forth. Grace received is meant to produce a crop; the same rain that blesses can, in the next verse, leave land near cursing if thorns answer instead.",
+      "reformedNotes": "Calvin: as earth must germinate seed promptly for harvest, so hearers must let the word strike root without delay. Those who receive the seed into the heart and bring genuine shoots will progress to ripe fruit by God’s blessing.\n\nReformed note: blessing on fruitful land is God’s work in soil He makes fertile. The simile exhorts glad embrace of the word and distinguishes reprobate ground by what grows—without denying that rain was truly poured."
+    },
+    {
+      "number": 8,
+      "text": "But if it bears thorns and thistles, it is worthless and near to being cursed, and its end is to be burned.",
+      "arminianNotes": "Thorns and thistles: rejected land, near cursing, end burned. Wesley: no more labor bestowed; whose end is to be burned—as Jerusalem was shortly after. Privilege without fruit ends in judgment.\n\nArminian close: the warning of 4–6 is not abstract. Land that drank rain and bore only thorns images apostasy’s outcome. Take the burning seriously; go on to maturity while the rain still falls.",
+      "reformedNotes": "Calvin: earth that after culture and irrigation brings only thorns affords no hope of harvest; the husbandman’s remedy is to burn the weeds. Those who destroy the gospel seed by indifference or corrupt affection show themselves reprobates from whom no harvest can be expected.\n\nReformed close: the burn is real; so is the distinction of soils. Warnings separate and preserve. Fruitless professors under much rain are near curse—yet the beloved addressed next are not written off as already ash."
+    }
+  ]
+}

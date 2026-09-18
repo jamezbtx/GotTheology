@@ -1,0 +1,155 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 66,
+  "verseStart": 1,
+  "verseEnd": 20,
+  "translation": "ESV",
+  "title": "Psalm 66:1–20",
+  "context": "To the choirmaster. A Song. A Psalm. All the earth is summoned to shout and make God's praise glorious; His awesome deeds make enemies cringe and the earth worship; Exodus memory and forever rule warn the rebellious; peoples bless the God who kept souls alive through refining tests, nets, and fire and water into abundance; the psalmist pays trouble-vows with offerings, tells God-fearers what God did for his soul, and blesses God for hearing prayer without removing steadfast love.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on worldwide praise, refining trials, vows paid after trouble, and prayer heard when iniquity is not cherished—so each camp speaks in its own voice beside Psalm 66:1–20.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "All the earth—all nations. Name—his glorious perfections. Say—to God, and of him. Worship—shall worship. Come—and behold. Sea—the Red sea. River—Jordan. Behold—looks upon all their ways. Peoples—ye Gentiles. Holdeth—keeps and preserves. Tried—as silver is refined. Net—of troubles. Ride—tyrannize over us. Fire and water—extreme dangers. Burnt-offerings—in token of my gratitude. Opened—uttered. Offer—costly and acceptable sacrifices. Fear—reverence and serve. Mouth—with my voice. Regarded—loved and cherished. Verily—truly. Turned—away from me.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 66"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "All the earth is called to shout and make God's praise glorious. Men must say how terrible His works are; enemies submit; all the earth shall worship. Come and see His deeds toward the children of men—He turned the sea to dry land. He rules forever and beholds the nations. Peoples must bless the God who holds our soul in life. He proved us as silver, brought us into the net, yet into a wealthy place. Vows made in trouble are paid with offerings; those who fear God must hear what He has done for the soul. If iniquity is regarded in the heart, the Lord will not hear; but verily He has heard, and blessed be God who has not turned away prayer or mercy.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 66"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Shout for joy to God, all the earth;",
+      "arminianNotes": "Shout for joy to God, all the earth. Wesley: All the earth—all nations. Universal summons opens the song.\n\nArminian pastoral: shared—join the earth's shout. Joy to God is not private property of one people; all the earth is addressed.",
+      "reformedNotes": "Calvin: all the earth is called to shout—Gentile inclusion already sounded. Joy is owed to God for His works.\n\nReformed pastoral: shared catholic call. The earth's joy is commanded because God's deeds deserve it."
+    },
+    {
+      "number": 2,
+      "text": "sing the glory of his name; give to him glorious praise!",
+      "arminianNotes": "Sing the glory of his name; give to him glorious praise! Wesley: Name—his glorious perfections. Praise must match the glory named.\n\nArminian pastoral: shared—sing His name's glory. Let praise be glorious, not grudging; the Name summons worthy song.",
+      "reformedNotes": "Calvin: sing forth the honor of His name—make His praise glorious. Doxology is the fitting response to revealed glory.\n\nReformed pastoral: shared—glorify the Name aloud. Half-hearted praise misrepresents the God named."
+    },
+    {
+      "number": 3,
+      "text": "Say to God, \"How awesome are your deeds! So great is your power that your enemies come cringing to you.",
+      "arminianNotes": "Say to God, \"How awesome are your deeds! So great is your power that your enemies come cringing to you.\" Wesley: Say—to God, and of him. Cringing enemies prove power.\n\nArminian pastoral: shared—speak theology to God: awesome deeds, great power. Enemies' forced submission warns the rebellious heart to yield willingly.",
+      "reformedNotes": "Calvin: men must address God concerning His terrible works; enemies submit feignedly under constraining power.\n\nReformed pastoral: shared—power that makes enemies cringe invites willing worship from the faithful."
+    },
+    {
+      "number": 4,
+      "text": "All the earth worships you and sings praises to you; they sing praises to your name.\" Selah",
+      "arminianNotes": "All the earth worships you and sings praises to you; they sing praises to your name. Selah. Wesley: Worship—shall worship. Prophetic certainty of worldwide praise.\n\nArminian pastoral: shared hope—earth will worship. Labor and pray toward that end; sing now as firstfruits of the nations' song.",
+      "reformedNotes": "Calvin: all the earth shall worship—certainty of God's universal praise. Selah invites pause over the promise.\n\nReformed pastoral: shared—mission rests on God's purpose that the earth sing His name."
+    },
+    {
+      "number": 5,
+      "text": "Come and see what God has done: he is awesome in his deeds toward the children of man.",
+      "arminianNotes": "Come and see what God has done: he is awesome in his deeds toward the children of man. Wesley: Come—and behold. Invitation to observe providence.\n\nArminian pastoral: shared—come and see. Faith looks at deeds; invite others to behold what God has done for humankind.",
+      "reformedNotes": "Calvin: Come and see—the works of God toward the children of men are terrible and worthy of contemplation.\n\nReformed pastoral: shared evidential piety. God's deeds toward mankind are public enough to summon spectators."
+    },
+    {
+      "number": 6,
+      "text": "He turned the sea into dry land; they passed through the river on foot. There did we rejoice in him,",
+      "arminianNotes": "He turned the sea into dry land; they passed through the river on foot. There did we rejoice in him. Wesley: Sea—the Red sea. River—Jordan. Exodus memory fuels present joy.\n\nArminian pastoral: shared—rehearse Red Sea and Jordan. Corporate \"we\" rejoices in old deliverances as present warrant for trust.",
+      "reformedNotes": "Calvin: He turned the sea into dry land; they went through the flood on foot—Exodus and Jordan prove awesome deeds. There we rejoiced.\n\nReformed pastoral: shared covenant memory. Past crossings ground present praise; identity is \"we\" who rejoiced in Him."
+    },
+    {
+      "number": 7,
+      "text": "who rules by his might forever, whose eyes keep watch on the nations—let not the rebellious exalt themselves. Selah",
+      "arminianNotes": "Who rules by his might forever, whose eyes keep watch on the nations—let not the rebellious exalt themselves. Selah. Wesley: Behold—looks upon all their ways. Forever rule checks rebel pride.\n\nArminian pastoral: shared warning—do not exalt yourself under the Eye that watches nations. Forever might outlasts every revolt.",
+      "reformedNotes": "Calvin: He rules by His power forever; His eyes behold the nations—rebellious must not exalt themselves. Surveillance of nations is comfort and threat.\n\nReformed pastoral: shared—providence is perpetual. Rebel self-exaltation is folly before the forever King."
+    },
+    {
+      "number": 8,
+      "text": "Bless our God, O peoples; let the sound of his praise be heard,",
+      "arminianNotes": "Bless our God, O peoples; let the sound of his praise be heard. Wesley: Peoples—ye Gentiles. Nations bless \"our\" God—Israel's God made known.\n\nArminian pastoral: shared mission—call peoples to bless. Make His praise audible; silence is not neutrality.",
+      "reformedNotes": "Calvin: O bless our God, ye people—Gentiles summoned to audible praise. \"Our God\" becomes the nations' confession.\n\nReformed pastoral: shared—sound of praise must be heard. Peoples are addressed because election of Israel aimed at wider blessing."
+    },
+    {
+      "number": 9,
+      "text": "who has kept our soul among the living and has not let our feet slip.",
+      "arminianNotes": "Who has kept our soul among the living and has not let our feet slip. Wesley: Holdeth—keeps and preserves. Living souls and steady feet are gifts.\n\nArminian pastoral: shared gratitude—held among the living, feet not slipping. Acknowledge holding grace; walk carefully in answer.",
+      "reformedNotes": "Calvin: He holdeth our soul in life and suffereth not our feet to be moved—preservation is continual.\n\nReformed pastoral: shared—life and stability are held by God. Slippery paths do not finally cast down those He keeps."
+    },
+    {
+      "number": 10,
+      "text": "For you, O God, have tested us; you have tried us as silver is tried.",
+      "arminianNotes": "For you, O God, have tested us; you have tried us as silver is tried. Wesley: Tried—as silver is refined. Testing is refining, not pointless pain.\n\nArminian pastoral: shared—trials refine. Yield to the Refiner; silver's beauty comes through fire you must not refuse.",
+      "reformedNotes": "Calvin: Thou, O God, hast proved us as silver is tried—affliction is God's furnace for purifying His people.\n\nReformed pastoral: shared metallurgy of grace. The Refiner's fire is purposeful; He does not abandon the silver in the heat.",
+      "keyContrast": "Both take testing as refining like silver, not as meaningless cruelty. Arminians typically stress the believer's call to yield in the furnace so refining is not resisted; Reformed readers typically stress that God effectually proves His people in the fire He appoints, purifying those He will not cast away."
+    },
+    {
+      "number": 11,
+      "text": "You brought us into the net; you laid a crushing burden on our backs;",
+      "arminianNotes": "You brought us into the net; you laid a crushing burden on our backs. Wesley: Net—of troubles. Affliction is ascribed to God's bringing.\n\nArminian pastoral: shared hard truth—God brought into the net. Honesty about His hand in hardship deepens trust rather than atheism.",
+      "reformedNotes": "Calvin: Thou broughtest us into the net and laidst affliction upon our loins—God is author of the trial as well as of the issue.\n\nReformed pastoral: shared—sovereignty in the net. Crushing burden is not outside His rule; that fact comforts when men also oppress (v. 12)."
+    },
+    {
+      "number": 12,
+      "text": "you let men ride over our heads; we went through fire and through water; yet you have brought us out to a place of abundance.",
+      "arminianNotes": "You let men ride over our heads; we went through fire and through water; yet you have brought us out to a place of abundance. Wesley: Ride—tyrannize over us. Fire and water—extreme dangers. Yet—abundance after extremity.\n\nArminian pastoral: shared arc—through fire and water into abundance. Hold \"yet\" in the middle of riding oppressors; God brings out.",
+      "reformedNotes": "Calvin: men rode over our heads; we went through fire and water; yet Thou broughtest us into a wealthy place—deliverance crowns the ordeal.\n\nReformed pastoral: shared—extremity is not the last word. Abundance is God's exit from the path He led through."
+    },
+    {
+      "number": 13,
+      "text": "I will come into your house with burnt offerings; I will perform my vows to you,",
+      "arminianNotes": "I will come into your house with burnt offerings; I will perform my vows to you. Wesley: Burnt-offerings—in token of my gratitude. House and vows answer deliverance.\n\nArminian pastoral: shared—pay what you promised. Gratitude takes bodily form in worship and kept vows.",
+      "reformedNotes": "Calvin: I will go into Thy house with burnt offerings and pay Thee my vows—private deliverance becomes public worship.\n\nReformed pastoral: shared—vows in trouble must be paid in peace. Enter the house with offerings, not excuses."
+    },
+    {
+      "number": 14,
+      "text": "that which my lips uttered and my mouth promised when I was in trouble.",
+      "arminianNotes": "That which my lips uttered and my mouth promised when I was in trouble. Wesley: Opened—uttered. Trouble-born vows bind in ease.\n\nArminian pastoral: shared integrity—remember what your mouth opened in distress. Keep promises made under pressure when relief comes.",
+      "reformedNotes": "Calvin: which my lips have uttered when I was in trouble—vows made in anguish are not to be forgotten in prosperity.\n\nReformed pastoral: shared—God records trouble-vows. Faithfulness after rescue honors the Hearer of prayer."
+    },
+    {
+      "number": 15,
+      "text": "I will offer to you burnt offerings of fattened animals, with the smoke of the sacrifice of rams; I will make an offering of bulls and goats. Selah",
+      "arminianNotes": "I will offer to you burnt offerings of fattened animals... bulls and goats. Selah. Wesley: Offer—costly and acceptable sacrifices. Costly thanks fit great deliverance.\n\nArminian pastoral: shared—give worthily. Fatlings and incense of praise answer abundance; stingy thanks misread mercy.",
+      "reformedNotes": "Calvin: burnt sacrifices of fatlings with incense of rams—liberal offerings express felt mercy. Selah marks the resolve.\n\nReformed pastoral: shared—generosity in worship mirrors God's generosity in rescue."
+    },
+    {
+      "number": 16,
+      "text": "Come and hear, all you who fear God, and I will tell what he has done for my soul.",
+      "arminianNotes": "Come and hear, all you who fear God, and I will tell what he has done for my soul. Wesley: Fear—reverence and serve. Testimony is for God-fearers.\n\nArminian pastoral: shared—tell your soul's story. Come-and-hear evangelism among those who fear God strengthens the congregation.",
+      "reformedNotes": "Calvin: Come and hear, all ye that fear God—I will declare what He hath done for my soul. Personal mercy becomes communal instruction.\n\nReformed pastoral: shared witness. God-fearers are the apt audience; declaration glorifies the Doer."
+    },
+    {
+      "number": 17,
+      "text": "I cried to him with my mouth, and high praise was on my tongue.",
+      "arminianNotes": "I cried to him with my mouth, and high praise was on my tongue. Wesley: Mouth—with my voice. Cry and praise can share one tongue.\n\nArminian pastoral: shared—cry and exalt together. Petition that already praises trains the heart for v. 19's listening God.",
+      "reformedNotes": "Calvin: I cried unto Him with my mouth and He was extolled with my tongue—prayer and praise intertwined.\n\nReformed pastoral: shared—the praying tongue is also the praising tongue. Cry without forgetting exaltation."
+    },
+    {
+      "number": 18,
+      "text": "If I had cherished iniquity in my heart, the Lord would not have listened.",
+      "arminianNotes": "If I had cherished iniquity in my heart, the Lord would not have listened. Wesley: Regarded—loved and cherished. Heart-cherished sin blocks audience.\n\nArminian pastoral: cherished iniquity is a real barrier—the Lord would not have listened. Shared warning: do not hug sin and claim open ears in heaven. Grace convicts so the heart may release what it regarded.",
+      "reformedNotes": "Calvin: if I regard iniquity in my heart, the Lord will not hear—hypocrisy voids prayer. God requires integrity of affection, not mere words.\n\nReformed pastoral: shared—heart idolatry silences prayer's claim. The heard petitioner of vv. 19–20 is one whom grace has turned from regarding iniquity.",
+      "keyContrast": "Both warn that cherishing iniquity in the heart means the Lord would not listen. Arminians typically stress a genuine, resistible condition—release cherished sin under grace so prayer may be heard; Reformed readers typically stress that God denies audience to the hypocritical heart and effectually grants hearing to those He turns from regarding iniquity."
+    },
+    {
+      "number": 19,
+      "text": "But truly God has listened; he has attended to the voice of my prayer.",
+      "arminianNotes": "But truly God has listened; he has attended to the voice of my prayer. Wesley: Verily—truly. Attended listening answers honest cry.\n\nArminian pastoral: shared assurance—God has listened. Let \"truly\" steady weak faith; attended prayer is not imagination.",
+      "reformedNotes": "Calvin: but verily God hath heard—He attended to the voice of prayer. Certainty follows the cleared heart of v. 18.\n\nReformed pastoral: shared—verily heard. Divine attention is the privilege of upright petition."
+    },
+    {
+      "number": 20,
+      "text": "Blessed be God, because he has not rejected my prayer or removed his steadfast love from me!",
+      "arminianNotes": "Blessed be God, because he has not rejected my prayer or removed his steadfast love from me! Wesley: Turned—away from me. Hesed retained closes the psalm.\n\nArminian pastoral: shared doxology—bless God for unrejected prayer and unremoved love. End in blessing, not in self-congratulation.",
+      "reformedNotes": "Calvin: Blessed be God who hath not turned away my prayer nor His mercy from me—prayer answered and hesed kept are twin gifts.\n\nReformed pastoral: shared—mercy not removed is the deeper gift beneath answered prayer. Bless God for both."
+    }
+  ]
+}

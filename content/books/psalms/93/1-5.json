@@ -1,0 +1,64 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 93,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "ESV",
+  "title": "Psalm 93:1–5",
+  "context": "The LORD reigns, robed in majesty and strength; the world is established, never moved. His throne is established from of old; he is from everlasting. Floods lift up voice and roaring; yet mightier than many waters and sea waves is the LORD on high. His decrees are very trustworthy; holiness befits his house forevermore.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the LORD reigning clothed in majesty and strength, the world established, the everlasting throne, floods lifting their voice, the LORD mightier than many waters, sure testimonies, and holiness befitting his house forever—so each camp speaks in its own voice beside Psalm 93:1–5.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Clothed—majesty and strength he always had, shown to all peoples; Moved—he will overrule confusions so they end in the Messiah’s unmovable kingdom. Floods—enemies of thy kingdom. Testimonies—promises as well as precepts, witnesses of his will; especially precious promises of the Messiah’s kingdom. Holiness—it befits thy people to be holy in approaching thee.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 93"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Jehovah hath reigned; clothed with majesty and strength; established the world—it shall not be moved. Few oppose this shield to hostile powers though all admit in word that God reigns. Creation attests providence. Thy throne stable from everlasting—as God is eternal, so always invested with power. Floods lift voice—assaults on the Church or literal seas; the LORD on high is mightier. Testimonies singularly true; holiness the glory of thy house for length of days.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 93"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "The Lord reigns; he is robed in majesty; the Lord is robed; he has put on strength as his belt. Yes, the world is established; it shall never be moved.",
+      "arminianNotes": "The Lord reigns; he is robed in majesty; the Lord is robed; he has put on strength as his belt. Yes, the world is established; it shall never be moved. Wesley: Clothed—shown majesty; Moved—confusions overruled toward Messiah’s unmovable kingdom. Shared: reign; majesty; strength; world established unmoved.\n\nArminian pastoral: confess the reign aloud. Stability of the world serves hope for the unshakable kingdom.",
+      "reformedNotes": "Calvin: Jehovah hath reigned; clothed with majesty and strength; established the world. All admit he reigns in word; few use this as shield against the world’s assaults. Creation itself attests he will not abandon the world.\n\nReformed pastoral: shared—LORD reigns; robed; world established. Invest him with the power that belongs to him against trembling.",
+      "keyContrast": "Both confess \"The LORD reigns\" with majesty, strength, and an established world. Arminians typically stress Wesley’s forward lemma: confusions overruled toward the Messiah’s kingdom that cannot be moved. Reformed readers typically stress Calvin’s present shield: few truly oppose God’s reign to hostile powers; creation proves ongoing providence, and God may sooner cease to be than cease to govern. Shared: royal majesty now; hope that what he establishes will not finally fail."
+    },
+    {
+      "number": 2,
+      "text": "Your throne is established from of old; you are from everlasting.",
+      "arminianNotes": "Your throne is established from of old; you are from everlasting. Shared: ancient throne; everlasting being.\n\nArminian pastoral: eternity underwrites the reign of v. 1. Old throne, living King.",
+      "reformedNotes": "Calvin: throne stable from everlasting—as eternal in essence, so always invested with governing power; God may sooner cease to be than leave his throne.\n\nReformed pastoral: shared—throne from of old; from everlasting. Eternity of rule matches eternity of being."
+    },
+    {
+      "number": 3,
+      "text": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their roaring.",
+      "arminianNotes": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their roaring. Wesley: Floods—enemies of thy kingdom. Shared: triple flood-lift of voice and roar.\n\nArminian pastoral: name the roar without granting it sovereignty. Enemies can shout; they are still \"O LORD\" addressed.",
+      "reformedNotes": "Calvin: floods lifted voice—whether Church’s foes or literal seas; noise is real; the next verse answers it.\n\nReformed pastoral: shared—floods lifted; voice; roaring. Chaos makes noise under the King’s ear."
+    },
+    {
+      "number": 4,
+      "text": "Mightier than the thunders of many waters, mightier than the waves of the sea, the Lord on high is mighty!",
+      "arminianNotes": "Mightier than the thunders of many waters, mightier than the waves of the sea, the Lord on high is mighty! Shared: comparative might—LORD above waters.\n\nArminian pastoral: mightier is the sermon after the roar. High and mighty answers flood propaganda.",
+      "reformedNotes": "Calvin: waves terrible by noise of great waters; Jehovah mighty above—superiority settled.\n\nReformed pastoral: shared—mightier than many waters; LORD on high mighty. Reign (v. 1) is tested and vindicated at the flood line."
+    },
+    {
+      "number": 5,
+      "text": "Your decrees are very trustworthy; holiness befits your house, O Lord, forevermore.",
+      "arminianNotes": "Your decrees are very trustworthy; holiness befits your house, O Lord, forevermore. Wesley: Testimonies—promises and precepts; Messianic promises; Holiness—befits thy people approaching. Shared close: sure decrees; holiness fitting the house forever.\n\nArminian pastoral: trust the testimonies; wear holiness in his house. Forevermore matches everlasting (v. 2).",
+      "reformedNotes": "Calvin: testimonies singularly true; holiness the glory of thy house for length of days—sure word and consecrated dwelling under the reigning LORD.\n\nReformed pastoral: shared—decrees trustworthy; holiness befits your house forever. Royal power ends in sure word and holy habitation."
+    }
+  ]
+}

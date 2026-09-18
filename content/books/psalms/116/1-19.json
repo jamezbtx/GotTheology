@@ -1,0 +1,149 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 116,
+  "verseStart": 1,
+  "verseEnd": 19,
+  "translation": "ESV",
+  "title": "Psalm 116:1–19",
+  "context": "Egyptian Hallel thanksgiving: love for the Lord because He heard pleas for mercy; death's snares and Sheol's pangs drive a cry for deliverance. The Lord is gracious, righteous, merciful; He preserves the simple and deals bountifully. Delivered from death, tears, and stumbling, the psalmist walks before the Lord, renders the cup of salvation, pays vows among the people, confesses that precious in the Lord's sight is the death of His saints, and offers thanksgiving in Jerusalem's courts.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on love that answers heard prayer, deliverance from death and tears, and vows paid in the courts of the Lord—so each camp speaks in its own voice beside Psalm 116:1–19.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "I love the Lord, because he hath heard my voice. Because he hath inclined his ear—therefore will I call upon him as long as I live. The sorrows of death compassed me—then called I upon the name of the Lord. Gracious is the Lord, and righteous; yea, our God is merciful. Return unto thy rest, O my soul. What shall I render unto the Lord for all his benefits? I will take the cup of salvation. Precious in the sight of the Lord is the death of his saints. O Lord, truly I am thy servant; thou hast loosed my bonds.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 116)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The prophet testifies his love to God as the fruit of experienced deliverance. God inclined His ear—an act of fatherly condescension. When compassed by the snares of death, he fled to prayer. God is gracious, just, and merciful; He preserves the simple who distrust their own wisdom. The soul is invited back to rest because God has dealt bountifully. The cup of salvation and public vows answer benefits received. The death of the saints is precious to God—He does not cast them off as worthless. Loosed bonds become lifelong service and thanksgiving in the courts of His house.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Psalm 116)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "I love the Lord, because he has heard my voice and my pleas for mercy.",
+      "arminianNotes": "I love the Lord, because He has heard my voice and my pleas for mercy. Wesley: I love the Lord, because He hath heard my voice. Love answers heard prayer.\n\nClassical Arminians: mercy sincerely pleaded for is sincerely heard; love is the freed heart's response, not a coerced motion only.",
+      "reformedNotes": "Calvin: the prophet testifies his love to God as the fruit of experienced deliverance. Hearing is God's prior kindness; love follows grace.\n\nReformed accent: we love because He first dealt mercifully. Shared: I love the Lord, because He has heard."
+    },
+    {
+      "number": 2,
+      "text": "Because he inclined his ear to me, therefore I will call on him as long as I live.",
+      "arminianNotes": "Because He inclined His ear to me, therefore I will call on Him as long as I live. Wesley: inclined His ear—therefore will I call as long as I live. Past hearing funds lifelong prayer.\n\nArminian pastoral: the ear of God invites continued calling; prayer is not exhausted by one answer.",
+      "reformedNotes": "Calvin: God inclined His ear—an act of fatherly condescension. Lifelong calling is the fit return.\n\nShared: inclined His ear; call as long as I live."
+    },
+    {
+      "number": 3,
+      "text": "The snares of death encompassed me; the pangs of Sheol laid hold on me; I suffered distress and anguish.",
+      "arminianNotes": "Snares of death, pangs of Sheol, distress and anguish. The psalm does not minimize peril.\n\nBoth camps: real mortal danger drives the cry. Shared honesty about anguish.",
+      "reformedNotes": "Calvin: when compassed by the snares of death, the need of prayer is felt. Sheol's grip is not poetic fluff.\n\nShared: snares of death encompassed me."
+    },
+    {
+      "number": 4,
+      "text": "Then I called on the name of the Lord: “O Lord, I pray, deliver my soul!”",
+      "arminianNotes": "Then I called on the name of the Lord: \"O Lord, I pray, deliver my soul!\" Wesley: then called I upon the name of the Lord. \"Then\" marks prayer as the turning.\n\nClassical Arminians: calling is a real act under assisting grace—the soul truly asks, and God truly delivers those who call.",
+      "reformedNotes": "Calvin: he fled to prayer—the name of the Lord as refuge. Deliverance of the soul is requested from the only Helper.\n\nReformed accent: prayer itself arises as God draws the distressed. Shared: O Lord, deliver my soul!",
+      "keyContrast": "Both confess that deliverance is sought by calling on the Lord's name. Arminians typically hear a graciously enabled, resistible cry that God sincerely answers. Reformed readers typically hear prayer as the Spirit-wrought flight of the saints, effectual in those God delivers according to His purpose."
+    },
+    {
+      "number": 5,
+      "text": "Gracious is the Lord, and righteous; our God is merciful.",
+      "arminianNotes": "Gracious is the Lord, and righteous; our God is merciful. Wesley: gracious, righteous, merciful—attributes held together.\n\nBoth camps: grace does not cancel righteousness; mercy does not deny justice.",
+      "reformedNotes": "Calvin: God is gracious, just, and merciful—names that steady the delivered soul.\n\nShared: gracious, righteous, merciful."
+    },
+    {
+      "number": 6,
+      "text": "The Lord preserves the simple; when I was brought low, he saved me.",
+      "arminianNotes": "The Lord preserves the simple; when I was brought low, He saved me. Simple means undoing self-wisdom—lowliness that receives help.\n\nArminian comfort: brought low is not disqualifying; it is where saving help meets us.",
+      "reformedNotes": "Calvin: He preserves the simple who distrust their own wisdom. Being brought low precedes being saved.\n\nShared: preserves the simple; He saved me."
+    },
+    {
+      "number": 7,
+      "text": "Return, O my soul, to your rest; for the Lord has dealt bountifully with you.",
+      "arminianNotes": "Return, O my soul, to your rest; for the Lord has dealt bountifully with you. Wesley: Return unto thy rest, O my soul. Rest is commanded self-talk under bounty.\n\nBoth camps: rest is found in God's dealing, not in stoic numbness.",
+      "reformedNotes": "Calvin: the soul is invited back to rest because God has dealt bountifully. Rest is theological, not merely emotional.\n\nShared: Return to your rest; dealt bountifully."
+    },
+    {
+      "number": 8,
+      "text": "For you have delivered my soul from death, my eyes from tears, my feet from stumbling;",
+      "arminianNotes": "Delivered soul from death, eyes from tears, feet from stumbling. Triple mercy—life, comfort, steadiness.\n\nBoth camps: full-orbed deliverance. Shared thanksgiving.",
+      "reformedNotes": "Calvin traces benefits from death to tears to stumbling—complete rescue by God's hand.\n\nShared: delivered from death, tears, stumbling."
+    },
+    {
+      "number": 9,
+      "text": "I will walk before the Lord in the land of the living.",
+      "arminianNotes": "I will walk before the Lord in the land of the living. Deliverance aims at lived communion, not mere survival.\n\nArminian pastoral: walking before the Lord is willing obedience in public life.",
+      "reformedNotes": "Calvin: the delivered walk before God in the land of the living—consecrated existence under His eye.\n\nShared: walk before the Lord in the land of the living."
+    },
+    {
+      "number": 10,
+      "text": "I believed, even when I spoke: “I am greatly afflicted”;",
+      "arminianNotes": "I believed, even when I spoke: \"I am greatly afflicted.\" Faith and honest affliction speech are not enemies.\n\nBoth camps: believing can confess pain without unbelief's final word.",
+      "reformedNotes": "Calvin allows that faith speaks affliction plainly while still believing. Complaint is not always apostasy.\n\nShared: I believed, even when afflicted."
+    },
+    {
+      "number": 11,
+      "text": "I said in my alarm, “All mankind are liars.”",
+      "arminianNotes": "I said in my alarm, \"All mankind are liars.\" Panic can overspeak; yet human help truly fails compared with God.\n\nArminian pastoral: alarm needs correcting by return to trust (vv. 7–9), not denial that people disappoint.",
+      "reformedNotes": "Calvin: in alarm he pronounced all men liars—hyperbole of distress that still teaches not to make flesh our trust.\n\nShared: in alarm; all mankind are liars."
+    },
+    {
+      "number": 12,
+      "text": "What shall I render to the Lord for all his benefits to me?",
+      "arminianNotes": "What shall I render to the Lord for all His benefits to me? Wesley: What shall I render for all His benefits? Gratitude asks for a fitting return.\n\nBoth camps: benefits cannot be paid as wage; they can be answered with worship.",
+      "reformedNotes": "Calvin: the question of rendering drives to vowed praise, not to merit. Benefits silence boasting.\n\nShared: What shall I render for all His benefits?"
+    },
+    {
+      "number": 13,
+      "text": "I will lift up the cup of salvation and call on the name of the Lord,",
+      "arminianNotes": "I will lift up the cup of salvation and call on the name of the Lord. Wesley: I will take the cup of salvation. Thanksgiving drink-offering posture—receiving while calling.\n\nBoth camps: salvation's cup is lifted in dependence, not self-congratulation.",
+      "reformedNotes": "Calvin: the cup of salvation and calling on the name answer benefits received. Praise is the return.\n\nShared: cup of salvation; call on the name."
+    },
+    {
+      "number": 14,
+      "text": "I will pay my vows to the Lord in the presence of all his people.",
+      "arminianNotes": "I will pay my vows to the Lord in the presence of all His people. Public fidelity—private mercy becomes congregational witness.\n\nArminian pastoral: vows paid are free devotion kept, not bargains that purchase grace.",
+      "reformedNotes": "Calvin stresses public vows among the people—thanksgiving that edifies the Church.\n\nShared: pay my vows in the presence of all His people."
+    },
+    {
+      "number": 15,
+      "text": "Precious in the sight of the Lord is the death of his saints.",
+      "arminianNotes": "Precious in the sight of the Lord is the death of His saints. Wesley: Precious in the sight of the Lord is the death of His saints. Saints are not disposable to God.\n\nClassical Arminians: every believer's death is dear to the Father who sincerely loved them in life and receives them in death.",
+      "reformedNotes": "Calvin: the death of the saints is precious to God—He does not cast them off as worthless. Their end is watched with care.\n\nReformed comfort: preciousness secured in covenant election. Shared: precious is the death of His saints.",
+      "keyContrast": "Both confess that the death of the Lord's saints is precious in His sight. Arminians typically hear the Father's sincere care for every believer who dies in the Lord. Reformed readers typically hear that preciousness as covenant certainty for the elect saints whose times are appointed in God's counsel."
+    },
+    {
+      "number": 16,
+      "text": "O Lord, I am your servant; I am your servant, the son of your maidservant. You have loosed my bonds.",
+      "arminianNotes": "O Lord, I am Your servant, son of Your maidservant; You have loosed my bonds. Wesley: truly I am Thy servant; Thou hast loosed my bonds. Freedom serves.\n\nArminian reading: loosed bonds enable willing service—liberty for obedience, not license.",
+      "reformedNotes": "Calvin: loosed bonds become lifelong service. Servant identity is gift and claim together.\n\nShared: I am Your servant; You have loosed my bonds."
+    },
+    {
+      "number": 17,
+      "text": "I will offer to you the sacrifice of thanksgiving and call on the name of the Lord.",
+      "arminianNotes": "I will offer the sacrifice of thanksgiving and call on the name of the Lord. Thanks is sacrifice—costly praise.\n\nBoth camps: thanksgiving and calling remain paired.",
+      "reformedNotes": "Calvin: thanksgiving sacrifice and the Name belong together in the restored worshiper's life.\n\nShared: sacrifice of thanksgiving; call on the name."
+    },
+    {
+      "number": 18,
+      "text": "I will pay my vows to the Lord in the presence of all his people,",
+      "arminianNotes": "I will pay my vows to the Lord in the presence of all His people—refrain reinforcing public gratitude.\n\nBoth camps: repetition is zeal, not filler.",
+      "reformedNotes": "Calvin's public-vow theme returns: the congregation is the theater of paid promises.\n\nShared: pay my vows in the presence of all His people."
+    },
+    {
+      "number": 19,
+      "text": "in the courts of the house of the Lord, in your midst, O Jerusalem. Praise the Lord!",
+      "arminianNotes": "In the courts of the house of the Lord, in Your midst, O Jerusalem. Praise the Lord! Located praise—Zion's courts, then Hallelujah.\n\nBoth camps: deliverance ends in corporate worship. Classical Arminians hear a willing choir in Jerusalem's midst.",
+      "reformedNotes": "Calvin closes in the courts of the Lord's house—praise localized where God set His name, and Hallelujah as the fit seal.\n\nShared: courts of the house of the Lord; Praise the Lord!"
+    }
+  ]
+}

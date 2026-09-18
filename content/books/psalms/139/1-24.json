@@ -1,0 +1,180 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 139,
+  "verseStart": 1,
+  "verseEnd": 24,
+  "translation": "ESV",
+  "title": "Psalm 139:1–24",
+  "context": "To the choirmaster. A Psalm of David. The LORD has searched and known the psalmist—sitting, rising, thoughts from afar, path and lying down, words before the tongue, hemmed in by His hand; such knowledge is too wonderful. No flight from Spirit or presence—heaven, Sheol, wings of the morning, uttermost sea, darkness as light. He formed inward parts in the womb; fearfully and wonderfully made; unformed substance and days written in His book. Precious, vast thoughts; then holy distance from the wicked, hatred of those who hate the LORD, and the closing plea: search me, try me, see if any grievous way, and lead in the way everlasting.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on searching knowledge, inescapable presence, formation in the womb, precious thoughts, and the plea to be led in the everlasting way—so each camp speaks in its own voice beside Psalm 139:1–24.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "Afar off—Thou knowest what my thoughts will be in such and such circumstances, long before I know it, yea from all eternity. Compassest—Thou discernest every step I take. Beset me—With thy all-seeing providence; laid thine hand—Thou keepest me in thy sight and under thy power. I cannot—Apprehend in what manner thou dost so presently know all things. Hell—If I could hide myself in the lowest parts of the earth. Wings—If I should flee from east to west. Imperfect—When I was first conceived. Book—In thy counsel and providence, by which thou didst contrive and effect this great work according to that model which thou hadst appointed. Thoughts—Thy counsels on my behalf; thou didst not only form me at first, but ever since, thy thoughts have been employed for me. Perfect hatred—See the difference between the Jewish and the Christian spirit!",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 139)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "David lays bare his heart, convinced he cannot deceive God: nothing escapes His notice—downsitting, uprising, thought afar off. God is not confined to heaven indifferent to human concerns; however far we are, He is never far from us. There is not a word on the tongue but He knows it altogether; shut up behind and before, held under inspection. Such knowledge rises prodigiously above us—do not measure God’s knowledge by your own. Whither shall I go from thy Spirit?—no subterfuge eludes His eye; heaven or sepulcher, wings of the morning or uttermost sea, His hand leads and holds. Darkness is as light with Him. He possessed the reins and covered us in the womb—fashioned wonderfully, so praise breaks forth. Thine eyes saw my shapelessness; all written in thy book. How precious thy thoughts—matchless providence beyond man’s judgment. Search me, O God—saints depend on free grace yet submit sincerely to His bar; lead me in the way everlasting, watching over His servant to the end.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 139)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O LORD, you have searched me and known me!",
+      "arminianNotes": "Searched and known—thorough acquaintance of soul and conduct before the LORD.\n\nArminian pastoral: come openly. You are already known; hiding is futile, and honesty before the Searcher is the path of life.",
+      "reformedNotes": "Calvin: no success by dissimulation; the innermost heart is laid bare because nothing escapes His notice.\n\nReformed accent: omniscience ends hypocrisy’s refuge. The psalm begins in voluntary exposure to the God who already sees."
+    },
+    {
+      "number": 2,
+      "text": "You know when I sit down and when I rise up; you discern my thoughts from afar.",
+      "arminianNotes": "Wesley: afar off—He knows what thoughts will be in given circumstances long before we know them, even from eternity.\n\nArminian reading: classic foreknowledge comforts and warns. God truly knows future thoughts without our needing to deny creaturely contingency in prayer and obedience.",
+      "reformedNotes": "Calvin: He watches every motion; “afar off” means He is never distant Epicurean deity—most remote objects are near to Him.\n\nReformed accent: exhaustive knowledge is personal presence, not bare prediction. Sitting and rising already lie open to the LORD who governs life.",
+      "keyContrast": "Both confess that God discerns thoughts from afar. Arminian readers, with Wesley, typically hear eternal foreknowledge of what we will think in given circumstances. Reformed readers, with Calvin, typically hear God’s near, non-absent knowing of all that is ours—His comprehensive acquaintance as Lord, not a spectator locked out of the world."
+    },
+    {
+      "number": 3,
+      "text": "You search out my path and my lying down and are acquainted with all my ways.",
+      "arminianNotes": "Wesley: compassest—every step discerned, as watches round a siege. All ways are known.\n\nArminian pastoral: path and rest alike are before Him. Walk and lie down as one already accompanied by holy acquaintance.",
+      "reformedNotes": "Calvin: He besieges or winnows the path—brings the unknown to light; ways are familiar to Him.\n\nReformed note: daily conduct is sifted before God. Acquaintance with all ways leaves no neutral corridor outside His gaze."
+    },
+    {
+      "number": 4,
+      "text": "Even before a word is on my tongue, behold, O LORD, you know it altogether.",
+      "arminianNotes": "Before speech forms, He knows the whole. Words do not inform God; they reveal us.\n\nArminian hearing: guard the tongue by remembering prior knowledge. Prayer and speech answer a God who already understands.",
+      "reformedNotes": "Calvin: whether He knows before formation or despite silence, the heart’s recesses stand present; He is independent of words.\n\nReformed accent: omniscience outruns utterance. Behold—innermost spirit is already before the LORD."
+    },
+    {
+      "number": 5,
+      "text": "You hem me in, behind and before, and lay your hand upon me.",
+      "arminianNotes": "Wesley: beset with all-seeing providence; hand keeps us in His sight and under His power.\n\nArminian pastoral: constraint can be mercy. Hemmed in by God is safer than open to self-deception.",
+      "reformedNotes": "Calvin: shut up behind and before—no escape quarter; His hand holds men under inspection so they cannot move a hair without His knowledge.\n\nReformed comfort: the hedge is surveillance of love and lordship, not bare trap. Flight from God is already enclosed."
+    },
+    {
+      "number": 6,
+      "text": "Such knowledge is too wonderful for me; it is high; I cannot attain it.",
+      "arminianNotes": "Wesley: we cannot apprehend the manner of His present knowledge of all things.\n\nArminian reading: wonder, do not shrink God to your measure. Adoration fits where comprehension fails.",
+      "reformedNotes": "Calvin: do not measure God’s knowledge by your own; it rises above with neither bound nor measure—contemplate with conscious weakness.\n\nReformed accent: true piety confesses height. Presumption that God’s knowing equals ours is condemned here."
+    },
+    {
+      "number": 7,
+      "text": "Where shall I go from your Spirit? Or where shall I flee from your presence?",
+      "arminianNotes": "No going, no fleeing—Spirit and presence everywhere. Omnipresence ends the fantasy of a God-free zone.\n\nArminian pastoral: stop fleeing; start seeking. The question is meant to turn runners into worshipers.",
+      "reformedNotes": "Calvin: Spirit here of understanding/knowledge; face as inspection—no place-change escapes His eye.\n\nReformed note: the point is inescapable observation more than abstract immensity alone. Hide, and you are found."
+    },
+    {
+      "number": 8,
+      "text": "If I ascend to heaven, you are there! If I make my bed in Sheol, you are there!",
+      "arminianNotes": "Wesley: hell—lowest parts of the earth if one could hide there—still God.\n\nArminian hearing: height and depth alike are His. Comfort for the low; warning for the secret sinner.",
+      "reformedNotes": "Calvin: fly to heaven or lurk in the lowest abysses—all naked before God.\n\nReformed accent: Sheol is no blind spot. The LORD’s there-ness spans the extremes we invent for escape."
+    },
+    {
+      "number": 9,
+      "text": "If I take the wings of the morning and dwell in the uttermost parts of the sea,",
+      "arminianNotes": "Wesley: wings—flee east to west; sea as western border. Speed cannot outrun Him.\n\nArminian pastoral: distance is not deliverance from God. Travel with the knowledge that He arrives first.",
+      "reformedNotes": "Calvin: morning’s wings—swift as dawn’s radiance across the world; still no recess beyond divine reach.\n\nReformed note: Lucifer-swift flight fails. Geography is not asylum from the LORD."
+    },
+    {
+      "number": 10,
+      "text": "even there your hand shall lead me, and your right hand shall hold me.",
+      "arminianNotes": "Even there—lead and hold. Presence is not only detective; it is guidance and grasp.\n\nArminian reading: receive leading. The God you cannot flee is the God who may hold and guide the willing heart.",
+      "reformedNotes": "Calvin: hand as power—easy to arrest and draw back the fugitive; even there He leads and holds.\n\nReformed comfort: omnipresence serves shepherding, not mere chase. Right hand both restrains and sustains."
+    },
+    {
+      "number": 11,
+      "text": "If I say, “Surely the darkness shall cover me, and the light about me be night,”",
+      "arminianNotes": "Imagined cover of night fails as strategy. Saying it does not make darkness a cloak.\n\nArminian pastoral: confess the dodge. We often hope dimness hides sin; the psalm names that hope to kill it.",
+      "reformedNotes": "Calvin: after flight fails, the heart tries darkness for a short respite—still hopeless before God.\n\nReformed accent: verbal schemes (“Surely…”) expose how hard we find open presence. The verse unmasks the wish."
+    },
+    {
+      "number": 12,
+      "text": "even the darkness is not dark to you; the night is bright as the day, for darkness is as light with you.",
+      "arminianNotes": "Darkness not dark; night bright as day to Him. No veil works.\n\nArminian hearing: live in the light you cannot extinguish. Integrity is wiser than secrecy.",
+      "reformedNotes": "Calvin: God sees in deepest dark as at noon; we grant omniscience in words then mock Him as if veiled—David refutes that infatuation.\n\nReformed note: light and dark are alike to Him. Shame before people without reverence before God is the folly corrected here."
+    },
+    {
+      "number": 13,
+      "text": "For you formed my inward parts; you knitted me together in my mother’s womb.",
+      "arminianNotes": "Formed and knitted in the womb—Maker’s claim on the secret self.\n\nArminian pastoral: body and inward life are gifts from His hands. Thank the Former; treat life as wrought by God.",
+      "reformedNotes": "Calvin: He possessed the reins—king at the center; He who fashioned in the womb saw us as in midday.\n\nReformed accent: formation grounds knowledge. The God who knit inward parts already owns the heart’s windings."
+    },
+    {
+      "number": 14,
+      "text": "I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.",
+      "arminianNotes": "Fearfully and wonderfully made—praise rises; soul knows the wonder well.\n\nArminian reading: let knowledge become thanksgiving. Wonder without praise is incomplete; praise without humility misses “fearfully.”",
+      "reformedNotes": "Calvin: fashioned in a manner exciting fear and admiration—break forth into praises; true view of works ends in wonder, not presumptuous comprehension.\n\nReformed comfort: carnal security forgets how singularly we were made. Adoring attention, not mastery, is the fitting “knowing.”"
+    },
+    {
+      "number": 15,
+      "text": "My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth.",
+      "arminianNotes": "Frame not hidden in secret making—woven as embroidery in earth’s depths (womb’s dark).\n\nArminian pastoral: secrecy of origin was never secrecy from God. Hidden development still lay open to Him.",
+      "reformedNotes": "Calvin: unlike artisans who need light, God fashions the most perfect work in the dark womb; weave/embroidery amplifies inconceivable skill.\n\nReformed note: if He made you perfectly unseen, He knows you once born. Complexity of the body preaches His craft."
+    },
+    {
+      "number": 16,
+      "text": "Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them.",
+      "arminianNotes": "Wesley: imperfect—at first conception; book—counsel and providence contriving the work by the appointed model. Days known and ordered under His care.\n\nArminian reading: unformed life already seen; days written as foreknown under wise providence. Classical Arminians confess real foreknowledge and purpose without collapsing creaturely history into fatalism.",
+      "reformedNotes": "Calvin: known as shapeless mass—much more now; all registered in His book. Members (or days) formed progressively yet never outside His prior knowledge and providence.\n\nReformed accent: the book figure marks perfect divine knowing and ordering. What unfolds in time was not hidden from the God who writes and forms.",
+      "keyContrast": "Both confess that God’s eyes saw unformed substance and that days/members stand written before Him. Arminian readers, with Wesley, typically stress counsel, providence, and eternal foreknowledge according to His appointed model—days known without denying lived contingency. Reformed readers typically stress decretive, book-sure providence: what is formed in time was already encompassed by God’s comprehensive purpose and knowledge, so nothing in our origin or days escapes His sovereign authorship."
+    },
+    {
+      "number": 17,
+      "text": "How precious to me are your thoughts, O God! How vast is the sum of them!",
+      "arminianNotes": "Wesley: thoughts—counsels on my behalf, employed since conception. Precious and vast.\n\nArminian pastoral: treasure His thoughts toward you. Vast sum invites trust and humility, not anxiety that God has run out of care.",
+      "reformedNotes": "Calvin: precious thoughts of matchless providence beyond man’s judgment; aggregates overwhelm the mind unto trembling humility.\n\nReformed accent: providence’s wisdom is to be prized, not neglected. Exclamation should drive us to His tribunal, not to evasion."
+    },
+    {
+      "number": 18,
+      "text": "If I would count them, they are more than the sand. I awake, and I am still with you.",
+      "arminianNotes": "Wesley: counsels and works on my behalf constantly enter the mind; awake—still with Him.\n\nArminian hearing: morning renews awareness of nearness. Counting fails; companionship remains.",
+      "reformedNotes": "Calvin: hidden counsels more than sand; every waking finds fresh matter for admiring His wisdom—still with Him.\n\nReformed comfort: you do not exhaust God by numbering. Awaking into continued presence is the saint’s ordinary miracle."
+    },
+    {
+      "number": 19,
+      "text": "Oh that you would slay the wicked, O God! O men of blood, depart from me!",
+      "arminianNotes": "Desire that God deal with the wicked; bloody men told to depart. Separation from violence belongs with love of God’s holiness.\n\nArminian pastoral: ask God to judge; refuse fellowship with bloodshed. Zeal against wickedness is not a substitute for personal holiness.",
+      "reformedNotes": "Calvin: not mere wish-fulfillment gloating; judgments teach the elect to withdraw from the ungodly’s society and confirm integrity before God’s bar.\n\nReformed note: when God slays the wicked, saints learn righteousness. “Depart” guards communion as well as safety."
+    },
+    {
+      "number": 20,
+      "text": "They speak against you with malicious intent; your enemies take your name in vain.",
+      "arminianNotes": "Malicious speech against God; enemies misuse His name. The quarrel is theological before it is personal.\n\nArminian reading: name the blasphemy. Loyalty to God includes grief when His name is emptied or attacked.",
+      "reformedNotes": "Calvin: spared wicked grow to open contempt of their Judge; arrogant lifting of self against God is enmity.\n\nReformed accent: enemies of God speak wickedly without disguise. Taking the name emptily pairs with proud revolt."
+    },
+    {
+      "number": 21,
+      "text": "Do I not hate those who hate you, O LORD? And do I not loathe those who rise up against you?",
+      "arminianNotes": "Hate and loathe aimed at haters of the LORD and rebels against Him—zeal for His honor.\n\nArminian pastoral: read with Wesley’s caution on spirit: Christian love of enemies still refuses neutrality when God is hated. Hate the revolt; seek the person’s good.",
+      "reformedNotes": "Calvin: attachment to godliness must generate abhorrence of what despises God; silent indifference betrays His glory.\n\nReformed accent: zeal for the LORD’s house contends for His name. Private wrongs stir us easily; outrage at God’s dishonor should not lag."
+    },
+    {
+      "number": 22,
+      "text": "I hate them with complete hatred; I count them my enemies.",
+      "arminianNotes": "Wesley flags the difference of spirit under the gospel. Complete hatred of what hates God must be held with Christ’s command to love enemies as persons.\n\nArminian pastoral: perfect hatred of enmity against God is not a charter for cruelty. Count God’s cause dear; still pray and do good to foes of your own.",
+      "reformedNotes": "Calvin: perfection of hatred means no common cause with despisers; yet hatred directed to sins rather than persons—seek peace and reclaim where possible, resist only as they are enemies of God.\n\nReformed note: fervent zeal renounces flattery of those who draw divine displeasure, without denying duties of neighbor-love."
+    },
+    {
+      "number": 23,
+      "text": "Search me, O God, and know my heart! Try me and know my thoughts!",
+      "arminianNotes": "Invite the search already true—heart and thoughts opened for trial. Confidence without claim of sinlessness.\n\nArminian pastoral: ask for exposure. Willing search is repentance’s ally; resist the urge to manage what God sees.",
+      "reformedNotes": "Calvin: bold submission to God’s bar from sincere religion, yet saints still depend only on free grace and groan under sin.\n\nReformed accent: integrity is not perfectionism. Try me assumes grace holds the one who asks."
+    },
+    {
+      "number": 24,
+      "text": "And see if there be any grievous way in me, and lead me in the way everlasting!",
+      "arminianNotes": "See any grievous way; lead in the everlasting way. Detection aims at direction.\n\nArminian reading: want both cleansing path and lasting guidance. Keep asking to be led; the everlasting way is walked under ongoing mercy.",
+      "reformedNotes": "Calvin: not self-imprecation unto doom but plea for leading to the end of the course; God watch over the servant He has already shown kindness.\n\nReformed comfort: grievous way uncovered is mercy if it ends in being led. Persevering guidance matches the God who does not forsake His work.",
+      "keyContrast": "Both end with open search and a plea to be led in the everlasting way. Arminian readers typically stress ongoing willing exposure and continued seeking of guidance along that way. Reformed readers typically stress free-grace integrity that still begs God to finish leading His servant—search and lead as the Lord’s persevering care, not self-salvage."
+    }
+  ]
+}

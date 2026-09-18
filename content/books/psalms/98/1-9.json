@@ -1,0 +1,88 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 98,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 98:1–9",
+  "context": "A Psalm. Sing to the Lord a new song—he has done marvelous things; his right hand and holy arm have worked salvation. He has made known his salvation and revealed his righteousness to the nations; he has remembered steadfast love and faithfulness to Israel; all the ends of the earth have seen the salvation of our God. Make a joyful noise, all the earth; break forth in joyous song. Sing with lyre and melody; with trumpets and horn make a joyful noise before the King, the Lord. Let sea and world roar; rivers clap; hills sing for joy together before the Lord, for he comes to judge the earth—he will judge the world with righteousness and the peoples with equity.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on a new song for marvelous salvation by God's own arm, righteousness shown to the nations, covenant love remembered, earth's joyful noise before the King, and creation clapping as he comes to judge with equity—so each camp speaks in its own voice beside Psalm 98:1–9.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Salvation—the redemption of the world by the Messiah, long kept as a secret among the Jews, and not thoroughly known even by most of them. Righteousness—his faithfulness in accomplishing this great promise.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 98"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Sing to Jehovah a new song—for he has done marvelous things; his right hand and arm of holiness have gotten him the victory. Jehovah has made known his salvation; revealed his righteousness in the sight of the heathen. He has remembered his goodness and truth toward the house of Israel; all ends of the earth have seen the salvation of our God. New song marks extraordinary, not common, praise—God procured salvation not by ordinary means but by his own arm, himself the author of a singular deliverance. Exult, all the earth; sing with harp and voice of psalm; trumpets and cornet before Jehovah the King. Let sea roar and its fullness; world and dwellers; floods clap hands; hills joyful together before Jehovah—for he comes to judge the earth with righteousness and equity.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 98"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Oh sing to the Lord a new song, for he has done marvelous things! His right hand and his holy arm have worked salvation for him.",
+      "arminianNotes": "Sing a new song—marvelous things; right hand and holy arm worked salvation. Shared: new song; marvelous deeds; God's own arm.\n\nArminian pastoral: marvels justify newness. Salvation by his arm keeps human boasting out.",
+      "reformedNotes": "Calvin: new song for marvelous things; his own right hand and holy arm got the victory—not by ordinary means; God himself author of singular salvation. Isaiah 59:16 echoes the arm alone.\n\nReformed pastoral: shared—new song; marvelous; holy arm. Extraordinary mercy demands extraordinary praise."
+    },
+    {
+      "number": 2,
+      "text": "The Lord has made known his salvation; he has revealed his righteousness in the sight of the nations.",
+      "arminianNotes": "The Lord has made known his salvation; revealed his righteousness in the sight of the nations. Wesley: Salvation—world's redemption by the Messiah, long a secret among the Jews; Righteousness—faithfulness in keeping this great promise. Shared: publicly known salvation; righteousness before nations.\n\nArminian pastoral: what was reserved is now shown. Nations see faithfulness kept in Messianic redemption.",
+      "reformedNotes": "Calvin: Jehovah made known his salvation; revealed righteousness in the heathen's sight—open publication of saving righteousness beyond Israel.\n\nReformed pastoral: shared—made known; revealed to nations. Hidden mercy becomes international news.",
+      "keyContrast": "Both celebrate salvation made known and righteousness revealed to the nations. Arminians, with Wesley, typically stress Messianic redemption once largely reserved among Israel and now shown in promise-keeping faithfulness. Reformed readers, with Calvin, typically stress God's own arm publishing saving righteousness openly before the heathen. Shared: public gospel; nations see."
+    },
+    {
+      "number": 3,
+      "text": "He has remembered his steadfast love and faithfulness to the house of Israel. All the ends of the earth have seen the salvation of our God.",
+      "arminianNotes": "He remembered steadfast love and faithfulness to Israel; all ends of the earth have seen our God's salvation. Shared: covenant memory; earth-wide sight.\n\nArminian pastoral: Israel remembered; earth sees. Particular love becomes universal vision.",
+      "reformedNotes": "Calvin: he remembered goodness and truth toward Israel; all ends of the earth seen the salvation of our God—covenant fidelity overflowed to the world's edges.\n\nReformed pastoral: shared—remembered love and faithfulness; ends of the earth see. Zion's mercy is not Zion's private stash forever."
+    },
+    {
+      "number": 4,
+      "text": "Make a joyful noise to the Lord, all the earth; break forth into joyous song and sing praises!",
+      "arminianNotes": "Joyful noise, all the earth; break forth into joyous song and sing praises. Shared: all-earth noise; break forth; praises.\n\nArminian pastoral: restraint yields to outbreak. All the earth is the choir roll.",
+      "reformedNotes": "Calvin: exult before Jehovah, all the earth; make a loud noise, rejoice, sing praise—volume matches marvel.\n\nReformed pastoral: shared—joyful noise; all the earth; break forth. Quiet gratitude is good; this verse asks more."
+    },
+    {
+      "number": 5,
+      "text": "Sing praises to the Lord with the lyre, with the lyre and the sound of melody!",
+      "arminianNotes": "Sing praises with the lyre, with lyre and sound of melody. Shared: lyre; melody.\n\nArminian pastoral: instruments serve the Name. Melody is theology sung.",
+      "reformedNotes": "Calvin: sing to Jehovah with the harp, with harp and voice of a psalm—ordered music under the King.\n\nReformed pastoral: shared—lyre; melody. Crafted praise answers crafted salvation (v. 1)."
+    },
+    {
+      "number": 6,
+      "text": "With trumpets and the sound of the horn make a joyful noise before the King, the Lord!",
+      "arminianNotes": "With trumpets and horn make a joyful noise before the King, the Lord. Shared: brass before the King.\n\nArminian pastoral: King titles the Lord. Noise is court ceremony for the true Sovereign.",
+      "reformedNotes": "Calvin: with trumpets and sound of cornet sing before Jehovah the King—royal acclaim.\n\nReformed pastoral: shared—trumpets; horn; before the King. Worship is audience with reigning majesty."
+    },
+    {
+      "number": 7,
+      "text": "Let the sea roar, and all that fills it; the world and those who dwell in it!",
+      "arminianNotes": "Let the sea roar and its fullness; the world and its dwellers. Shared: sea and inhabited world.\n\nArminian pastoral: roar is invited praise. Dwellers and depths share one summons.",
+      "reformedNotes": "Calvin: let the sea roar and its fullness; the world and those who dwell therein—creation and population together.\n\nReformed pastoral: shared—sea roar; world and dwellers. No province of earth is mute by permission."
+    },
+    {
+      "number": 8,
+      "text": "Let the rivers clap their hands; let the hills sing for joy together",
+      "arminianNotes": "Let rivers clap; hills sing for joy together. Shared: clapping rivers; singing hills.\n\nArminian pastoral: metaphor teaches gladness of the order. Nature rehearses the verdict's goodness.",
+      "reformedNotes": "Calvin: floods clap hands; hills joyful together—figures of united celebration.\n\nReformed pastoral: shared—rivers clap; hills sing together. Equity's approach (v. 9) makes landscape cheer."
+    },
+    {
+      "number": 9,
+      "text": "before the Lord, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity.",
+      "arminianNotes": "Before the Lord—he comes to judge the earth; world with righteousness, peoples with equity. Shared: coming Judge; righteousness; equity.\n\nArminian pastoral: judgment is the song's why. Equity means fair dealing for peoples—hope, not dread only, for those who love his reign.",
+      "reformedNotes": "Calvin: before Jehovah—he comes to judge the earth with righteousness and equity. Coming judgment is creation's cue to rejoice.\n\nReformed pastoral: shared—comes to judge; righteousness; equity. Closing note matches Psalm 96:13's faithful judgment."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 9,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "ESV",
+  "title": "Hebrews 9:1–10",
+  "context": "The writer turns from the new covenant promise to the earthly sanctuary itself: its furniture, its daily and yearly worship, and the Holy Spirit's testimony that the way into the holy places was not yet opened. Gifts and sacrifices under that arrangement could not perfect the conscience; they dealt with food, drink, and washings until the time of reformation.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the earthly sanctuary, its regulations for the body, and the Spirit's indication that the way into the holy places was not yet opened—so each camp speaks in its own voice beside Hebrews 9:1–10.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "The first covenant had ordinances of outward worship, and a worldly—a visible, material sanctuary, or tabernacle. The Holy Ghost evidently showing—by this token—that the way into the holiest—into heaven—was not made manifest while the first tabernacle, and its service, were still subsisting. Which tabernacle, with all its furniture and services, is a figure of good things to come which cannot perfect the worshipper as to his conscience—so that he should be no longer conscious of the guilt or power of sin. They could not so perfect him with all their train of precepts relating to meats and drinks, and carnal, external ordinances; and were therefore imposed only till the time of reformation—till Christ came.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Heb 9:1–10)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Under the old covenant there was a specific form of divine worship peculiarly adapted to that time. He calls it a worldly sanctuary, because there was no heavenly truth or reality in those rites; an effigy is a different thing from the reality. The very form of the ancient tabernacle reminded the Jews that they were to look for something else. That tabernacle was a figure for the time then present; the gifts and sacrifices could not make the worshipper perfect as pertaining to the conscience—they did not reach the soul so as to confer true holiness. All these rites were of the flesh, earthly symbols that did not contain perfect holiness in themselves. They were imposed until the time of reformation; the new covenant succeeded the old as a reformation.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Heb 9:1–10)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now even the first covenant had regulations for worship and an earthly place of holiness.",
+      "arminianNotes": "Even the first covenant had regulations for worship and an earthly place of holiness. Wesley: ordinances of outward worship, and a worldly—visible, material—sanctuary or tabernacle. Of this sanctuary the apostle treats in vv. 2–5; of those ordinances, in vv. 6–10.\n\nBoth camps begin here together: the old covenant really had a God-appointed cultus. Classical Arminians hear no scorn for Moses, only the frank admission that the sanctuary was earthly and the regulations outward. The contrast coming is not culture war but cultus fulfillment—earthly tent toward heavenly reality.",
+      "reformedNotes": "Calvin: after speaking of the abrogation of the old covenant, he refers specially to the ceremonies. Under the old covenant there was a specific form of divine worship annexed to it, consisting of sacrifices, ablutions, and other symbols, together with the sanctuary. He calls it worldly because there was no heavenly truth or reality in those rites as such.\n\nReformed confession: the first covenant's worship was real, God-given, and temporary. \"Earthly\" names its sphere and limitation, not a pagan invention. Both camps refuse to despise the shadow while insisting the shadow is not the substance."
+    },
+    {
+      "number": 2,
+      "text": "For a tent was prepared, the first section, in which were the lampstand and the table and the bread of the Presence. It is called the Holy Place.",
+      "arminianNotes": "A tent was prepared—the first section—with lampstand, table, and bread of the Presence; it is called the Holy Place. Wesley: the outward tabernacle; the shewbread shown continually before God; this candlestick and bread seem to have typified the light and life more largely dispensed under the gospel by Him who is the Light of the world and the Bread of life.\n\nArminian pastoral: the furniture is typology pointing to Christ, not a ladder of works. Both camps can preach the lamp and the bread as gospel shadows without inventing a fight over the extent of the atonement in a verse about sanctuary layout.",
+      "reformedNotes": "Calvin: as the Apostle touches lightly on the structure of the tabernacle, so we need not be detained beyond the subject. In the first sanctuary contiguous to the court were the candlestick and the table of shewbread; he calls this place the holies.\n\nReformed accent: the description is sober. The Holy Place is the middle chamber of a threefold arrangement—court, sanctuary, holy of holies—preparing the contrast with Christ's greater tent. Furniture catechizes; it does not justify."
+    },
+    {
+      "number": 3,
+      "text": "Behind the second curtain was a second section called the Most Holy Place,",
+      "arminianNotes": "Behind the second curtain was a second section called the Most Holy Place. Wesley: the second veil divided the holy place from the most holy, as the first veil did the holy place from the courts.\n\nShared truth: access is graded and restricted under the first covenant. The double veil is the Spirit's visual theology. Classical Arminians and Reformed alike hear that heaven's nearness was not yet openly granted to the people in the way the gospel will grant it.",
+      "reformedNotes": "Calvin: after the first sanctuary is mentioned the most secret place, the holy of holies, still more remote from the view of the people, and even hid from the priests who ministered in the first sanctuary. As by a veil the sanctuary was closed to the people, so another veil kept the priests from the holy of holies.\n\nReformed pastoral: distance is pedagogical. God was teaching Israel—and us—that nearness on our terms is impossible. The Most Holy Place awaits the once-for-all entry of a better high priest."
+    },
+    {
+      "number": 4,
+      "text": "having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden urn holding the manna, and Aaron's staff that budded, and the tablets of the covenant.",
+      "arminianNotes": "Having the golden altar of incense and the ark of the covenant covered with gold, with the urn of manna, Aaron's staff that budded, and the tablets of the covenant. Wesley: the golden censer used by the high priest only on the great day of atonement; the ark so called from the tables of the covenant; manna the monument of God's care; Aaron's rod the monument of the regular priesthood; the tables the most venerable monument of all.\n\nBoth camps: these are monuments of grace and order under the first covenant, not instruments that cleanse the conscience. Arminian hearing stays with the typology—care, priesthood, law—fulfilled in Christ rather than contested as a soteriological weapon.",
+      "reformedNotes": "Calvin: there was the altar of incense or fumigation, then the ark of the covenant with its covering, the cherubim, the golden pot of manna, Aaron's rod, and the two tables. Apparent tensions with 1 Kings 8:9 about what lay in the ark are resolved by noting different arrangements in tabernacle and temple eras.\n\nReformed accent: the Apostle describes, then refuses curious over-reading. The holy things testify to covenant, provision, and priesthood—all pointing beyond themselves. We need not force limited-atonement debates onto inventory of the ark."
+    },
+    {
+      "number": 5,
+      "text": "Above it were the cherubim of glory overshadowing the mercy seat. Of these things we cannot now speak in detail.",
+      "arminianNotes": "Above it were the cherubim of glory overshadowing the mercy seat. Of these things we cannot now speak in detail. Wesley: over which the glory of God used to appear; with outspread wings shadowing the mercy-seat—a lid of gold covering the ark.\n\nPastoral: the mercy seat is where blood meets glory—already a gospel silhouette. Both camps refuse to digress into speculation when the argument drives toward conscience and access. \"We cannot now speak in detail\" is apostolic restraint we should imitate.",
+      "reformedNotes": "Calvin: as nothing can satisfy curious men, the apostle cuts off every occasion for refinements unsuitable to his purpose. To philosophize beyond just limits is not only useless but dangerous. Discretion and sobriety ought to be observed, lest we seek to be wise above what God has been pleased to reveal.\n\nReformed pastoral: the mercy seat matters; endless allegory does not. Hold the cherubim and the propitiatory cover as witnesses to atoning nearness, then follow the argument to Christ's blood."
+    },
+    {
+      "number": 6,
+      "text": "These preparations having thus been made, the priests go regularly into the first section, performing their ritual duties,",
+      "arminianNotes": "These preparations having been made, the priests go regularly into the first section, performing their ritual duties. Wesley: always—every day—accomplishing their services: lighting the lamps, changing the shewbread, burning incense, and sprinkling the blood of the sin offerings.\n\nShared: regularity is the point. Daily ministry in the first section never opens the second. Classical Arminians hear a merciful but incomplete system—real duties, real limits—awaiting the high priest who enters once for all.",
+      "reformedNotes": "Calvin: omitting other things, he handles the chief point: the priests who performed sacred rites entered the first tabernacle daily, but the chief priest entered the holy of holies only yearly with the appointed sacrifice. The very form of the ancient tabernacle reminded the Jews that they were to look for something else.\n\nReformed accent: daily access to the first section is not gospel freedom. It is the standing reminder that the way into God's presence remained closed under that arrangement."
+    },
+    {
+      "number": 7,
+      "text": "but into the second only the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people.",
+      "arminianNotes": "Into the second only the high priest goes, once a year, and not without blood, which he offers for himself and for the unintentional sins of the people. Wesley: errors—that is, sins of ignorance, to which only those atonements extended.\n\nBoth camps: blood is required even for the yearly entry; the high priest needs covering for himself. Arminian pastoral: the limits of Day-of-Atonement blood (\"errors\") already confess the insufficiency of animal sacrifice for the whole burden of sin—driving us to Christ's better blood, not to a fight about the camps' later atonement theories.",
+      "reformedNotes": "Calvin: into the second went the high priest alone once every year, not without blood, which he offered for himself and for the errors of the people. The word includes more than bare ignorance; no sin is free from error, for men are entangled in Satan's deceptions. Yet the yearly, bloody, solitary entry is the hinge of the argument.\n\nReformed confession: restricted access plus repeated blood equals a system that cannot be final. The type is holy; the antitype must be better—once, and with blood not another's."
+    },
+    {
+      "number": 8,
+      "text": "By this the Holy Spirit indicates that the way into the holy places is not yet opened as long as the first section is still standing",
+      "arminianNotes": "By this the Holy Spirit indicates that the way into the holy places is not yet opened as long as the first section is still standing. Wesley: the Holy Ghost evidently showing by this token that the way into the holiest—into heaven—was not made manifest while the first tabernacle and its service were still subsisting and remaining in force.\n\nShared glory: the Spirit Himself interprets the architecture. Classical Arminians hear a sincere pedagogy—God showing Israel and the church that heaven's way awaited clearer revelation in Christ. The standing first section is a closed door with a holy purpose.",
+      "reformedNotes": "Calvin: the Holy Ghost this signifying, that the way into the holiest was not yet made manifest while the first tabernacle was yet standing. While the tabernacle under the Law was standing, the sanctuary was closed up; only through that being removed could the way be open to the kingdom of God. Foolishly did they act who, retaining the shadows, willfully obstructed their own way.\n\nReformed accent: the Spirit's indication is doctrinal, not merely emotional. Access to God on gospel terms requires the end of the first section's standing force—fulfilled when Christ opens the way by His own blood."
+    },
+    {
+      "number": 9,
+      "text": "(which is symbolic for the present age). According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper,",
+      "arminianNotes": "Which is symbolic for the present age. According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper. Wesley: the tabernacle with all its furniture and services is a figure of good things to come which cannot perfect the worshipper—neither priest nor offerer—as to his conscience, so that he should be no longer conscious of the guilt or power of sin. Observe, the temple was as yet standing.\n\nBoth camps: conscience is the issue. Animal gifts cannot perfect it. Arminian pastoral: the gospel that will perfect the conscience is sincerely held out in Christ; the old arrangement was never meant to be the last word for the guilty heart.",
+      "reformedNotes": "Calvin: which was a figure for the time then present, in which gifts and sacrifices were offered that could not make the worshipper perfect as pertaining to the conscience—they did not reach the soul so as to confer true holiness. All these rites were of the flesh; earthly symbols that led the faithful by the hand to Christ, that they might obtain from him what was wanting in the symbols.\n\nReformed confession: the conscience is not perfected by cultus repetition. The symbols were true testimonies, yet they did not contain or convey the holiness they signified. Christ alone perfects the conscience."
+    },
+    {
+      "number": 10,
+      "text": "but deal only with food and drink and various washings, regulations for the body imposed until the time of reformation.",
+      "arminianNotes": "But deal only with food and drink and various washings, regulations for the body imposed until the time of reformation. Wesley: they could not so perfect him with all their train of precepts relating to meats and drinks and carnal, external ordinances; and were therefore imposed only till the time of reformation—till Christ came.\n\nShared: \"until\" is mercy. The regulations for the body had a sunset clause. Classical Arminians preach reformation as Christ's coming that opens conscience-cleansing worship—not as permission to invent a new sacrificial system, and not as a limited-vs-general atonement quarrel in a verse about food, drink, and washings.",
+      "reformedNotes": "Calvin: which stood only in meats and drinks and divers washings and carnal ordinances, imposed until the time of reformation. He alludes to Jeremiah's new-covenant promise; the new covenant succeeded the old as a reformation. By these trifling observances a more certain opinion may be formed how far short the Law was of the perfection of the Gospel.\n\nReformed pastoral: reformation is eschatological arrival, not endless revision. When Christ comes, body-regulations yield to conscience-purifying blood. Both camps stand here against returning to shadow as if substance had not appeared."
+    }
+  ]
+}

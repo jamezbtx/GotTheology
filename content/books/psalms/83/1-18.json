@@ -1,0 +1,142 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 83,
+  "verseStart": 1,
+  "verseEnd": 18,
+  "translation": "ESV",
+  "title": "Psalm 83:1–18",
+  "context": "A Song. A Psalm of Asaph. O God, do not keep silence—enemies make an uproar, crafty plans against his people and treasured ones, conspiring to wipe out Israel's name. Edom, Ishmaelites, Moab, Hagrites, Gebal, Ammon, Amalek, Philistia, Tyre, and Asshur join as the strong arm of Lot's children. Do to them as to Midian, Sisera, and Jabin; make nobles like Oreb and Zeeb, princes like Zebah and Zalmunna, who seized God's pastures. Make them whirling dust and chaff; pursue with tempest; fill faces with shame that they may seek the LORD's name—yet put to shame forever and perish in disgrace, that men may know the LORD alone is Most High over all the earth.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on God's silence broken by prayer, uproar of enemies, craft against treasured ones, the confederacy that would erase Israel's name, Midian and Sisera remembered, whirling dust and shame that seeks the Name, and the Most High known over all the earth—so each camp speaks in its own voice beside Psalm 83:1–18.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Hidden ones—Thy people of Israel, called God's hidden or secret ones, to intimate the respect God has to them as his peculiar treasure. The tabernacles—The people dwelling in them. Ishmaelites—Posterity of Ishmael; others supposed Hagarens from grandmother Hagar. Gebal—An Arabian people on the southern border of Canaan. Of Lot—Moab and Ammon. A wheel—Whereas they promise themselves a sure possession, let them be like a wheel, unstable and soon removed. The mountains—Woods upon the mountains, which in hot countries burn with irresistible violence. May seek—May own and worship thee as the only true God. That men may know that thou, whose name alone is JEHOVAH, art the most high over all the earth.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 83"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Composed amid dreadful wars—Ammonites and Moabites mustering distant forces against Judea; a prayer full of earnestness: Hold not thy peace; keep not silence; be not still—if God intends succor, haste is needed. Enemies tumultuous; they hate God and lift the head. Crafty design against thy people and hidden ones—God's treasured flock. Come, cut them off from being a nation; erase Israel's name—conspiracy against God himself. Do to them as to Midian, Sisera, Jabin—remember miracles that rescued poor sheep from wolves. Make them like a whirling ball and stubble; pursue with tempest. Fill faces with shame that they may seek thy name—not true repentance, but forced slavish submission like Pharaoh, that fury may be restrained; let them be ashamed and perish, that they may know Jehovah alone is Most High over all the earth.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 83"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "O God, do not keep silence; do not hold your peace or be still, O God!",
+      "arminianNotes": "O God, do not keep silence; do not hold your peace or be still, O God! Shared: threefold plea against divine silence in the face of assault.\n\nArminian pastoral: Wesley has no separate lemma; the urgency is plain. Ask God to speak and act—silence here is not indifference forever, but the felt delay the church may name in prayer.",
+      "reformedNotes": "Calvin: in great danger the nation and king are in deepest distress; repetition—hold not thy peace, keep not silence, be not still—intimates that if God intends succor he must make haste. Wait patiently when he delays; yet he condescends to infirmity that cries for speed.\n\nReformed pastoral: shared—do not keep silence. Earnest prayer under conspiracy is faith, not unbelief."
+    },
+    {
+      "number": 2,
+      "text": "For behold, your enemies make an uproar; those who hate you have raised their heads.",
+      "arminianNotes": "For behold, your enemies make an uproar; those who hate you have raised their heads. Shared: the uproar is against God; lifted heads mark insolent hatred of him.\n\nArminian pastoral: name the tumult as enmity toward God, not only toward us. Behold is the psalmist pointing heavenward.",
+      "reformedNotes": "Calvin: enemies are tumultuous; those who hate thee have lifted up the head. The quarrel is framed as hatred of God himself.\n\nReformed pastoral: shared—uproar and raised heads. The Church's foes are counted God's enemies when they aim at his people."
+    },
+    {
+      "number": 3,
+      "text": "They lay crafty plans against your people; they consult together against your treasured ones.",
+      "arminianNotes": "They lay crafty plans against your people; they consult together against your treasured ones. Wesley: Hidden ones—Israel, God's secret ones, his peculiar treasure. Shared: craft and consultation target the treasured people.\n\nArminian pastoral: \"treasured\" / hidden ones marks God's valuing care. Crafty counsel is answered by prayer, not matching cunning alone.",
+      "reformedNotes": "Calvin: crafty design against thy people and consulted against thy hidden ones—God's flock kept as his treasure.\n\nReformed pastoral: shared—craft against treasured ones. The Church's hiddenness is preciousness, not abandonment."
+    },
+    {
+      "number": 4,
+      "text": "They say, “Come, let us wipe them out as a nation; let the name of Israel be remembered no more!”",
+      "arminianNotes": "They say, “Come, let us wipe them out as a nation; let the name of Israel be remembered no more!” Shared: the plot is national erasure—name and memory destroyed.\n\nArminian pastoral: genocide of the name is blasphemy against the God who named Israel. Cry the intent without caricaturing every neighbor as Midian.",
+      "reformedNotes": "Calvin: Come, cut them off from being a nation; let Israel's name be no more remembered—the design is extinction of the people of God.\n\nReformed pastoral: shared—wipe out the nation and name. Historic confederacy language; pray protection of the remnant God named."
+    },
+    {
+      "number": 5,
+      "text": "For they conspire with one accord; against you they make a covenant—",
+      "arminianNotes": "For they conspire with one accord; against you they make a covenant— Shared: one-accord conspiracy is covenanted enmity against God.\n\nArminian pastoral: \"against you\" locates the league. Human covenants against God do not bind heaven.",
+      "reformedNotes": "Calvin: consulted together with one consent; confederate against thee—the war on Israel is war on God.\n\nReformed pastoral: shared—conspiracy and covenant against God. Accord among enemies does not outvote the LORD."
+    },
+    {
+      "number": 6,
+      "text": "the tents of Edom and the Ishmaelites, Moab and the Hagrites,",
+      "arminianNotes": "the tents of Edom and the Ishmaelites, Moab and the Hagrites, Wesley: tabernacles—people dwelling in them; Ishmaelites—posterity of Ishmael; Hagarens from Hagar. Shared: named peoples around Israel form the list.\n\nArminian pastoral: historic neighbors named—read the map, not a modern scorecard. The psalm catalogs a real coalition.",
+      "reformedNotes": "Calvin: the long list of enemies who conspired supports reading the psalm in a setting of multiplied hosts against Judea.\n\nReformed pastoral: shared—Edom, Ishmaelites, Moab, Hagrites. Specific names ground the prayer in history."
+    },
+    {
+      "number": 7,
+      "text": "Gebal and Ammon and Amalek, Philistia with the inhabitants of Tyre;",
+      "arminianNotes": "Gebal and Ammon and Amalek, Philistia with the inhabitants of Tyre; Wesley: Gebal—Arabian people on Canaan's southern border. Shared: the ring of foes widens—Gebal, Ammon, Amalek, Philistia, Tyre.\n\nArminian pastoral: keep the geography. Many borders, one assault on God's people.",
+      "reformedNotes": "Calvin: distant and near peoples mustered until Judea was well-nigh overwhelmed.\n\nReformed pastoral: shared—Gebal through Tyre. Multitude of foes is reason for prayer, not despair."
+    },
+    {
+      "number": 8,
+      "text": "Asshur also has joined them; they are the strong arm of the children of Lot. Selah",
+      "arminianNotes": "Asshur also has joined them; they are the strong arm of the children of Lot. Selah Wesley: Of Lot—Moab and Ammon. Shared: Asshur strengthens Lot's children; Selah.\n\nArminian pastoral: the \"strong arm\" is borrowed muscle for Moab and Ammon's cause. Pause at Selah before asking God to answer as of old.",
+      "reformedNotes": "Calvin: Asshur joined; they have helped the children of Lot. The coalition's power is confessed before God.\n\nReformed pastoral: shared—Asshur as strong arm of Lot's children. Name the help enemies receive; still appeal to God."
+    },
+    {
+      "number": 9,
+      "text": "Do to them as you did to Midian, as to Sisera and Jabin at the river Kishon,",
+      "arminianNotes": "Do to them as you did to Midian, as to Sisera and Jabin at the river Kishon, Shared: imprecation appeals to remembered victories—Midian, Sisera, Jabin—not to private invention of cruelty.\n\nArminian pastoral: ask God to do again what he has done in deliverance history. Fair reading: patterned justice, not bloodlust for its own sake.",
+      "reformedNotes": "Calvin: Do to them as to Midian, Sisera, Jabin—faithful call to remembrance occasions when God relieved his people at the last extremity; he who put enemies to flight and rescued sheep from wolves can do so again.\n\nReformed pastoral: shared—Midian and Kishon as precedent. Imprecation here is memory-fueled plea for the Church's deliverance."
+    },
+    {
+      "number": 10,
+      "text": "who were destroyed at En-dor, who became dung for the ground.",
+      "arminianNotes": "who were destroyed at En-dor, who became dung for the ground. Shared: historic ruin at En-dor—enemies as dung for the ground—is the measure recalled.\n\nArminian pastoral: stark image of total overthrow. Remember God's past judgments without gloating in the flesh.",
+      "reformedNotes": "Calvin: they perished at Endor; became manure for the earth—miracle of old deliverance rehearsed to strengthen present hope.\n\nReformed pastoral: shared—destroyed at En-dor. Past judgment fuels present prayer for succor."
+    },
+    {
+      "number": 11,
+      "text": "Make their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,",
+      "arminianNotes": "Make their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna, Shared: named Midianite leaders become the template for nobles and princes.\n\nArminian pastoral: Oreb, Zeeb, Zebah, Zalmunna—ask for leadership collapse like Gideon's day. Target is oppressive command, prayed under God.",
+      "reformedNotes": "Calvin: Make princes like Oreb and Zeeb, Zebah and Zalmunna—Gideon's victories remembered; God needs no vast army to overthrow proud captains.\n\nReformed pastoral: shared—nobles and princes like Midian's chiefs. Pray the LORD, not the sword-arm of revenge, to empty their ranks."
+    },
+    {
+      "number": 12,
+      "text": "who said, “Let us take possession for ourselves of the pastures of God.”",
+      "arminianNotes": "who said, “Let us take possession for ourselves of the pastures of God.” Shared: the crime includes seizing God's pastures as private spoil.\n\nArminian pastoral: pastures of God—holy inheritance treated as loot. The taunt justifies the plea.",
+      "reformedNotes": "Calvin: Who said, Let us take possession of the habitations of God—sacrilegious claim on what God allotted his people.\n\nReformed pastoral: shared—seizing God's pastures. Enmity against the Church is robbery of what God named his."
+    },
+    {
+      "number": 13,
+      "text": "O my God, make them like whirling dust, like chaff before the wind.",
+      "arminianNotes": "O my God, make them like whirling dust, like chaff before the wind. Wesley: A wheel—unstable and soon removed, though they promise sure possession. Shared: instability images—wheel, whirling dust, chaff—answer proud permanence.\n\nArminian pastoral: \"O my God\" personalizes the plea. Ask for their plans to spin away like chaff—not for cartoon cruelty.",
+      "reformedNotes": "Calvin: Make them like a whirling ball and stubble before the wind—ungodly inflated with pride must be laid prostrate and put to shame before pride abates.\n\nReformed pastoral: shared—whirling dust and chaff. Pride of destroyers is met by God-made instability."
+    },
+    {
+      "number": 14,
+      "text": "As fire consumes the forest, as the flame sets the mountains ablaze,",
+      "arminianNotes": "As fire consumes the forest, as the flame sets the mountains ablaze, Wesley: mountains—woods on mountains that burn with irresistible violence in hot countries. Shared: fire and flame figures for overwhelming pursuit.\n\nArminian pastoral: natural violence of brushfire images divine chase. Keep the metaphor as prayer, not a manual.",
+      "reformedNotes": "Calvin: as fire burns a forest and flame kindles the mountains—images of irresistible judgment pursuing the proud.\n\nReformed pastoral: shared—forest fire and blazing mountains. God may pursue as tempest follows flame."
+    },
+    {
+      "number": 15,
+      "text": "so may you pursue them with your tempest and terrify them with your hurricane!",
+      "arminianNotes": "so may you pursue them with your tempest and terrify them with your hurricane! Shared: tempest and hurricane are God's, asked as pursuit and terror.\n\nArminian pastoral: may you pursue—optative prayer. Terror here aims to stop erasure of Israel, under God's storm.",
+      "reformedNotes": "Calvin: pursue with thy tempest; terrify with thy whirlwind—pride of Church-destroyers answered by God's storm.\n\nReformed pastoral: shared—tempest and hurricane. Fair imprecation: both camps hear zeal for God's people, not a caricature of sadism."
+    },
+    {
+      "number": 16,
+      "text": "Fill their faces with shame, that they may seek your name, O LORD.",
+      "arminianNotes": "Fill their faces with shame, that they may seek your name, O LORD. Wesley: May seek—May own and worship thee as the only true God. Shared: shame is means; seeking the Name is the stated end.\n\nArminian pastoral: Wesley hears possible owning and worship. Pray shame that turns faces toward the LORD—without pretending every foe will love him.",
+      "reformedNotes": "Calvin: Fill faces with shame that they may seek thy name—not true repentance or genuine conversion, but forced slavish submission like Pharaoh; the wicked briefly give glory then return to madness. Desire is that stripes compel acknowledgment so fury is restrained.\n\nReformed pastoral: shared—shame unto seeking the Name. Calvin hedges: temporary forced confession, not saving change—read with v. 17.",
+      "keyContrast": "Both refuse to read the imprecation as a blank check for private hatred: shame is asked so God's name is honored. Arminians typically stress Wesley's lemma—shame that they may own and worship the LORD as only true God—keeping room for acknowledgment that glorifies him. Reformed readers typically stress Calvin's caution—seeking here may be forced and slavish like Pharaoh, restraining fury rather than proving true repentance—especially beside the forever shame of v. 17. Fair both sides: holy zeal for the Name, no caricature of either camp."
+    },
+    {
+      "number": 17,
+      "text": "Let them be put to shame and dismayed forever; let them perish in disgrace,",
+      "arminianNotes": "Let them be put to shame and dismayed forever; let them perish in disgrace, Shared: forever shame, dismay, and disgraceful perishing are prayed against those bent on wiping out Israel.\n\nArminian pastoral: forever marks settled judgment on persistent destroyers. Hold this with v. 16's seeking—without softening judicial language into sentiment, and without enjoying ruin.",
+      "reformedNotes": "Calvin: ashamed and terrified perpetually; confounded and perish—would not fit if v. 16 were a prayer for their true repentance; reprobate often chastised yet incorrigible.\n\nReformed pastoral: shared—forever shame and perish in disgrace. Judicial finality against those who will not cease destroying the Church."
+    },
+    {
+      "number": 18,
+      "text": "that they may know that you alone, whose name is the LORD, are the Most High over all the earth.",
+      "arminianNotes": "that they may know that you alone, whose name is the LORD, are the Most High over all the earth. Shared close: knowledge of Jehovah alone as Most High over all the earth is the goal of the whole plea.\n\nArminian pastoral: attributes and covenant Name—LORD / JEHOVAH—stand over every coalition. The end is knowledge of God, not Israel’s bragging rights.",
+      "reformedNotes": "Calvin: let them know that thou, thy name Jehovah, thou alone art Most High over all the earth. Judgment serves the confession of God's unique supremacy.\n\nReformed pastoral: shared—know the LORD alone, Most High over all the earth. Imprecation ends in theology: God's Name above the nations."
+    }
+  ]
+}

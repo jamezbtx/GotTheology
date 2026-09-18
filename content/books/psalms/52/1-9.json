@@ -1,0 +1,90 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 52,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "ESV",
+  "title": "Psalm 52:1–9",
+  "context": "To the choirmaster. A Maskil of David, when Doeg the Edomite came and told Saul, “David has come to the house of Ahimelech.” David confronts the boasting tongue that loves evil, trusts God’s coming judgment on the deceitful, and sets himself as a green olive tree trusting steadfast love forever.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on boasting mischief, God’s enduring goodness, and the green olive that trusts mercy forever—so each camp speaks in its own voice beside Psalm 52.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Continually—God is continually doing good: thou art continually doing mischief. O mighty—He speaks ironically. O valiant captain! To kill a few weak and unarmed persons. Deviseth—Expresses what thy wicked mind had devised. Deceitfully—Doeg pretended only to vindicate himself from disloyalty, but he really intended to expose the priests to the king's fury. Pluck thee—Violently and suddenly from thy house and lands. Root—Though thou seemest to have taken deep root, yet God shall pluck thee up by the very roots. Fear—Reverence God's just judgment. The house—In God's church, or among his people. Thou hast—Destroyed mine and thine implacable enemies, and established me in the throne, of which I am no less assured, than if it were already done. I will continue in thy way, placing my whole confidence in thy power and goodness, and faithfulness.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 52)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Why boastest thou of thy wickedness? The success which crowned the treachery of Doeg must have tended considerably to stagger David's faith; and he seems to have adopted the strain of holy defiance with which the psalm commences, in order to arm himself more effectually against this temptation. He begins by charging Doeg with an aggravation of his guilt, in boasting of the power which he had acquired by an act of consummate villany… Any triumph which may be obtained by violence, treachery, or other unjustifiable means, is short-lived… They make no account of that providence which God exerts over his own children. David, in the exercise of a holy confidence, challenges such proud boasters with dishonoring the goodness of God.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 52:1)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Why do you boast of evil, O mighty man? The steadfast love of God endures all the day.",
+      "arminianNotes": "Why boast of evil, O mighty man?—while God’s steadfast love endures all the day. Wesley: Continually—God is continually doing good; thou art continually doing mischief. O mighty—ironic: O valiant captain! to kill a few weak and unarmed persons.\n\nArminian pastoral: the boast is exposed as empty beside God’s ongoing goodness. Grace that endures all day still summons the hearer to stop glorying in mischief; Doeg’s choice to boast is real guilt, not fate.",
+      "reformedNotes": "Calvin: Doeg’s success staggered faith; David arms himself with holy defiance. The aggravation is boasting in power won by consummate villainy. Triumph by violence and treachery is short-lived; such men despise providence over God’s children.\n\nReformed accent: David’s confidence challenges proud boasters who dishonor God’s goodness. Shared: God’s hesed outlasts the mighty man’s day.",
+      "keyContrast": "Both set Doeg’s boast against God’s enduring goodness. Arminians typically stress the ironic rebuke and the call to quit glorying in mischief under a goodness still offered; Reformed readers typically stress holy defiance that rests on providence already set against short-lived wicked triumph."
+    },
+    {
+      "number": 2,
+      "text": "Your tongue plots destruction, like a sharp razor, you worker of deceit.",
+      "arminianNotes": "Tongue plots destruction—sharp razor—worker of deceit. Wesley: Deviseth—expresses what the wicked mind had devised. Deceitfully—Doeg pretended loyalty while intending to expose the priests to Saul’s fury.\n\nArminian note: words are chosen instruments. The tongue can be refused or used; deceit here is deliberate craft, not a slip.",
+      "reformedNotes": "Calvin: David does not vent revenge for its own sake; he charges Doeg before God to strengthen hope. The farther enemies proceed in iniquity, the more they provoke the Lord’s anger. The razor cuts subtly; the tongue works deceit before victims know the wound.\n\nReformed pastoral: plot and deceit are laid before the Judge. Shared: a destructive tongue is no small sin."
+    },
+    {
+      "number": 3,
+      "text": "You love evil more than good, and lying more than speaking what is right. Selah",
+      "arminianNotes": "Love evil more than good; lying more than what is right. Selah. Preference of evil is named as love—affection bent the wrong way.\n\nArminian hearing: love can be disordered and must be turned. The verse exposes a will that prefers lie to right speech; grace confronts that preference and calls for repentance.",
+      "reformedNotes": "Calvin groups this with the razor-tongue charge: Doeg’s moral taste is inverted—evil over good, lie over righteousness. The indictment deepens certainty that God will not leave such love unjudged.\n\nReformed accent: corrupted love proves the need of divine judgment, not mere advice. Shared: loving the lie is worse than a single false word."
+    },
+    {
+      "number": 4,
+      "text": "You love all words that devour, O deceitful tongue.",
+      "arminianNotes": "Love all devouring words, O deceitful tongue. Speech that eats the innocent is cherished, not accidental.\n\nArminian pastoral: stop loving devouring words. The tongue is addressed as responsible; grace enables truth-telling where deceit was loved.",
+      "reformedNotes": "Calvin: balang as hiding/swallowing—Doeg’s words draw back like a swallowing tongue and devour the unsuspecting. David dwells on the extremity of the crime to encourage hope of deliverance.\n\nReformed note: God sees the devouring speech. Shared: deceitful words destroy people."
+    },
+    {
+      "number": 5,
+      "text": "But God will break you down forever; he will snatch and tear you from your tent; he will uproot you from the land of the living. Selah",
+      "arminianNotes": "God will break down forever—snatch, tear from tent, uproot from the land of the living. Wesley: Pluck—violently and suddenly from house and lands. Root—though seeming deep-rooted, God plucks up root and branch.\n\nArminian warning: judgment is sure for unrepentant treachery. The verbs pile finality; Doeg’s present tent is no refuge against God.",
+      "reformedNotes": "Calvin: object in dwelling on guilt was to prove certainty of approaching doom—for David’s comfort more than Doeg’s alarm. God will not let treachery pass unpunished though he connive for a time.\n\nReformed accent: judgment is God’s settled answer to boastful evil. Shared: forever break-down, not a slap on the wrist.",
+      "keyContrast": "Both confess God’s decisive uprooting of the deceitful. Arminians typically press the warning that such judgment falls on those who persist in treachery; Reformed readers typically stress that the oracle comforts faith by asserting providence that will not finally spare Doeg."
+    },
+    {
+      "number": 6,
+      "text": "The righteous shall see and fear, and shall laugh at him, saying,",
+      "arminianNotes": "Righteous see, fear, and laugh. Wesley: Fear—reverence God’s just judgment. Seeing judgment produces holy awe, then scorn of the fallen boaster.\n\nArminian note: the righteous respond—they see and fear. Judgment catechizes the watching church.",
+      "reformedNotes": "Calvin: another reason to expect Doeg’s ruin—it will promote religion in the Lord’s people and display divine justice. The righteous especially “see,” because the sight refreshes faith and teaches patience under insolence.\n\nReformed pastoral: fear here is reverence, not panic. Shared: judgment is meant to be witnessed and weighed."
+    },
+    {
+      "number": 7,
+      "text": "“See the man who would not make God his refuge, but trusted in the abundance of his riches and sought refuge in his own destruction!”",
+      "arminianNotes": "See the man who would not make God his refuge—trusted riches—sought refuge in his own destruction. The moral of the fall is misplaced trust.\n\nArminian pastoral: refuse Doeg’s pattern. Make God refuge; do not lean on abundance. The choice of refuge is live and consequential.",
+      "reformedNotes": "Calvin: not a narrow proverb about Doeg only—the people of God learn patience under insolence and to beware similarly infatuated confidence. The man who would not make God his strength trusted riches and strengthened himself in wickedness.\n\nReformed accent: false refuge is exposed by providence. Shared: riches are a lethal substitute for God."
+    },
+    {
+      "number": 8,
+      "text": "But I am like a green olive tree in the house of God. I trust in the steadfast love of God forever and ever.",
+      "arminianNotes": "Green olive in God’s house; trust steadfast love forever. Wesley: The house—in God’s church, or among his people. Contrast with the uprooted wicked: planted life among the faithful.\n\nArminian reading: trust is personal and ongoing—“I trust.” Planted in the house, the believer keeps relying on hesed forever.",
+      "reformedNotes": "Calvin: though David looked withered, by faith he compares himself to a green olive in coming prosperity. Destruction of Doeg alone would not suffice; hope rests in God’s goodness forever. Flourishing is God’s gift in his house, not self-made greenery.\n\nReformed comfort: olive-life is confidence in divine goodness amid affliction. Shared: forever trust versus rooted-up wickedness.",
+      "keyContrast": "Both set the green olive’s trust against Doeg’s uprooting. Arminians typically stress the believer’s continual act of trusting steadfast love in God’s house; Reformed readers typically stress faith’s God-given confidence that flourishes by divine goodness despite present withering."
+    },
+    {
+      "number": 9,
+      "text": "I will thank you forever, because you have done it. I will wait for your name, for it is good, in the presence of the godly.",
+      "arminianNotes": "Thank forever—because you have done it; wait for your name—good—among the godly. Wesley: Thou hast—destroyed enemies and established me, of which I am as sure as if already done. Continue in thy way, whole confidence in power, goodness, faithfulness. Before—in presence of thy saints.\n\nArminian pastoral: gratitude and waiting are practiced before the saints. Assurance of what God has done fuels forever thanks.",
+      "reformedNotes": "Calvin: sincere thanksgiving names the work as God’s—few who praise with lips seriously reflect that benefits come from his hand. God will not frustrate his people’s expectations; his name is sweet to the meek ones.\n\nReformed accent: praise confesses divine agency; waiting rests on the goodness of the name. Shared: forever thanks in the congregation."
+    }
+  ]
+}

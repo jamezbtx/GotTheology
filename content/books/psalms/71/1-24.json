@@ -1,0 +1,179 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 71,
+  "verseStart": 1,
+  "verseEnd": 24,
+  "translation": "ESV",
+  "title": "Psalm 71:1–24",
+  "context": "An aged believer’s plea: refuge and rock from youth through gray hairs; enemies say God has forsaken him; he asks not to be cast off in old age, vows endless praise of mighty deeds, and looks to be revived to tell the next generation—tongue talking of God’s righteousness all the day.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on lifelong trust from youth to gray hairs, the fear of being cast off in old age, and praise that teaches the next generation—so each camp speaks in its own voice beside Psalm 71.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Confounded—ashamed of their vain hopes. Strong habitation—a rock of habitation, where I may safely and continually dwell. Given charge—commanded and by effectual care ordered. From my youth—from my earliest days. Marvelous—wonderful both for variety and greatness. Cast me not off—do not reject me. Old age—when I am most feeble. Forsaken—so they persuade themselves. God of my praise—the object and matter of my praise. Will hope—I will still hope. Go—walk on in my course. With the harp—I will praise thee with musical instruments. My soul—which thou hast delivered. Tongue—my tongue shall be continually employed in celebrating thy righteousness.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 71)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Psalmist, now advanced in years, flees to God as his rock and fortress, recalling that God has been his trust from youth and even from the womb… He prays that God would not cast him off in the time of old age, when his strength fails, especially as enemies conclude that God has forsaken him… He vows to proclaim God’s wondrous deeds to the next generation and to talk of his righteousness all the day. Faith in old age rests on a long memory of grace and on God’s righteousness, not on remaining bodily strength.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 71)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "In you, O LORD, do I take refuge; let me never be put to shame!",
+      "arminianNotes": "Wesley: Confounded—ashamed of vain hopes. Refuge in the LORD; never-shame is the ask.\n\nArminian pastoral: taking refuge is active trust. Grace invites the flight; the believer must still hide in God rather than in self.",
+      "reformedNotes": "Calvin: flees to God as refuge; prays never to be ashamed. Old-age faith begins where all faith begins—in God.\n\nReformed accent: shared—refuge first. Shame’s threat is answered by where one hides."
+    },
+    {
+      "number": 2,
+      "text": "In your righteousness deliver me and rescue me; incline your ear to me, and save me!",
+      "arminianNotes": "Wesley: deliverance asked in God’s righteousness; ear inclined; save.\n\nArminian note: righteousness here is God’s faithful saving character. Shared: rescue is begged, not earned by the aged saint’s résumé.",
+      "reformedNotes": "Calvin: deliver in thy righteousness—rescue grounded in God’s right dealing and promise.\n\nReformed pastoral: shared—ear incline and save are mercy’s verbs."
+    },
+    {
+      "number": 3,
+      "text": "Be to me a rock of refuge, to which I may continually come; you have given the command to save me, for you are my rock and my fortress.",
+      "arminianNotes": "Wesley: Strong habitation—rock where I may safely continually dwell; Given charge—commanded care to save.\n\nArminian hope: continually come—access is ongoing. Shared: rock and fortress are God’s; the saint keeps coming.",
+      "reformedNotes": "Calvin: rock of habitation to which he may continually resort; God has commanded salvation. Fortress titles pile up.\n\nReformed note: shared—continual coming rests on commanded care."
+    },
+    {
+      "number": 4,
+      "text": "Rescue me, O my God, from the hand of the wicked, from the grasp of the unjust and cruel man.",
+      "arminianNotes": "Wesley: rescue from wicked, unjust, cruel grasp. Enemies are named by character.\n\nArminian pastoral: specific evils drive specific prayer. Shared seriousness about cruel hands.",
+      "reformedNotes": "Calvin: deliver from the wicked’s hand, from unjust and cruel. God is my God in the plea.\n\nReformed accent: shared—cruelty is not imagined; it is prayed against."
+    },
+    {
+      "number": 5,
+      "text": "For you, O Lord, are my hope, my trust, O LORD, from my youth.",
+      "arminianNotes": "Wesley: From my youth—earliest days. Hope and trust are lifelong habits named.\n\nArminian note: youth-trust remembered. Shared: early faith is gift to be continued, not a phase to outgrow.",
+      "reformedNotes": "Calvin: trust from youth—long memory of grace. Hope is the Lord himself.\n\nReformed pastoral: shared biography of trust underwriting old-age plea."
+    },
+    {
+      "number": 6,
+      "text": "Upon you I have leaned from before my birth; you are he who took me from my mother’s womb. My praise is continually of you.",
+      "arminianNotes": "Wesley: prenatal lean; took from womb; praise continual. Dependence pre-dates memory.\n\nArminian hearing: shared—life from the womb is God’s taking. Praise continual is the fitting answer; it must still be offered.",
+      "reformedNotes": "Calvin: leaned from the womb; he that took him from his mother’s bowels. Continual praise.\n\nReformed accent: shared—existence itself is borrowed from God."
+    },
+    {
+      "number": 7,
+      "text": "I have been as a portent to many, but you are my strong refuge.",
+      "arminianNotes": "Wesley: Marvelous—wonderful as a sign to many; yet God is strong refuge.\n\nArminian pastoral: being a ‘portent’ can mean startling suffering or signal grace. Shared: refuge holds when public gaze is heavy.",
+      "reformedNotes": "Calvin: as a wonder unto many—his trials made him a spectacle; God remains strong refuge.\n\nReformed note: shared—spectacle-life still hides in God."
+    },
+    {
+      "number": 8,
+      "text": "My mouth is filled with your praise, and with your glory all the day.",
+      "arminianNotes": "Wesley: mouth filled with praise and glory all day—speech occupation.\n\nArminian note: filled mouth is chosen doxology. Grace fills; the mouth still speaks glory.",
+      "reformedNotes": "Calvin: mouth filled with praise and honor all the day. Old lips busy with God.\n\nReformed pastoral: shared—all-day glory speech."
+    },
+    {
+      "number": 9,
+      "text": "Do not cast me off in the time of old age; forsake me not when my strength is spent.",
+      "arminianNotes": "Wesley: Cast me not off—do not reject; Old age—when most feeble. Strength spent is the crisis.\n\nArminian pastoral: fear of cast-off in weakness is real prayer. Shared: aging saints may ask this without shame; grace meets spent strength.",
+      "reformedNotes": "Calvin: cast me not off in old age; forsake not when strength fails. Enemies will soon say God forsook him—hence the urgency.\n\nReformed accent: shared—spent strength is argument for nearness, not proof of abandonment.",
+      "keyContrast": "Both plead not to be cast off when strength fails. Arminians typically stress that the aging believer must keep seeking refuge; Reformed readers typically stress God’s lifelong care that does not track bodily vigor."
+    },
+    {
+      "number": 10,
+      "text": "For my enemies speak concerning me; those who watch for my life consult together",
+      "arminianNotes": "Wesley: enemies talk; life-watchers consult. Conspiracy around the frail.\n\nArminian hearing: shared—watchers for life are cruel. Prayer names the consult.",
+      "reformedNotes": "Calvin: enemies speak against him; they that watch for his soul take counsel together.\n\nReformed note: shared—consultation of predators around the weak."
+    },
+    {
+      "number": 11,
+      "text": "and say, “God has forsaken him; pursue and seize him, for there is none to deliver him.”",
+      "arminianNotes": "Wesley: Forsaken—so they persuade themselves; none to deliver—their verdict.\n\nArminian pastoral: the lie ‘God has forsaken’ must be answered by v. 9’s prayer. Shared: enemies theologize falsely to justify chase.",
+      "reformedNotes": "Calvin: they say God has forsaken him—pursue; none to deliver. Blasphemous pastoral diagnosis from foes.\n\nReformed accent: shared—forsaken-talk is enemy propaganda, not God’s last word."
+    },
+    {
+      "number": 12,
+      "text": "O God, be not far from me; O my God, make haste to help me!",
+      "arminianNotes": "Wesley: nearness and haste begged—echo of Psalm 70’s urgency.\n\nArminian note: be-not-far and make-haste are twin asks. Grace invites urgent nearness-seeking.",
+      "reformedNotes": "Calvin: be not far; make haste to help. Distance feared; speed desired.\n\nReformed pastoral: shared—my God personalizes the haste."
+    },
+    {
+      "number": 13,
+      "text": "May my accusers be put to shame and consumed; with scorn and disgrace may they be covered who seek my hurt!",
+      "arminianNotes": "Wesley: shame, consume, scorn, disgrace on hurt-seekers. Imprecation measured to malice.\n\nArminian hearing: shared seriousness—accusers covered with scorn. Not a grin; a justice plea.",
+      "reformedNotes": "Calvin: ashamed and consumed; covered with reproach and dishonor who seek hurt.\n\nReformed note: shared—hurt-seekers meet judicial shame."
+    },
+    {
+      "number": 14,
+      "text": "But I will hope continually and will praise you yet more and more.",
+      "arminianNotes": "Wesley: Will hope—still; praise yet more and more. Hope and escalating praise.\n\nArminian pastoral: continually hope is resolve under grace. Shared: more-and-more praise is the But against v. 11’s lie.",
+      "reformedNotes": "Calvin: but I will hope continually; praise more and more. Faith’s counter-speech.\n\nReformed accent: shared—hope continual is gift exercised."
+    },
+    {
+      "number": 15,
+      "text": "My mouth will tell of your righteous acts, of your deeds of salvation all the day, for their number is past my knowledge.",
+      "arminianNotes": "Wesley: tell righteousness and salvation all day; number past knowledge—uncountable deeds.\n\nArminian note: telling is witness. Shared: past-knowledge abundance silences self-credit.",
+      "reformedNotes": "Calvin: mouth tells righteousness and salvation all day; numbers beyond counting.\n\nReformed pastoral: shared—inexhaustible deeds fuel inexhaustible speech."
+    },
+    {
+      "number": 16,
+      "text": "With the mighty deeds of the Lord GOD I will come; I will remind them of your righteousness, yours alone.",
+      "arminianNotes": "Wesley: Go—walk on; remind of righteousness, yours alone. Solo credit to God.\n\nArminian hearing: come with mighty deeds—enter life’s scenes carrying God’s acts. Shared: righteousness yours alone blocks boasting.",
+      "reformedNotes": "Calvin: go in the strength of the Lord GOD; make mention of thy righteousness, even of thine only.\n\nReformed accent: shared monergism of righteousness mentioned—thine only."
+    },
+    {
+      "number": 17,
+      "text": "O God, from my youth you have taught me, and I still proclaim your wondrous deeds.",
+      "arminianNotes": "Wesley: taught from youth; still proclaim wondrous deeds. Pedagogy and proclamation linked.\n\nArminian pastoral: taught-yet-proclaim—learning becomes speech. Shared: lifelong curriculum of wonders.",
+      "reformedNotes": "Calvin: taught from youth; hitherto declared wondrous works. Continuity of disciple-witness.\n\nReformed note: shared—God the teacher from youth."
+    },
+    {
+      "number": 18,
+      "text": "So even to old age and gray hairs, O God, do not forsake me, until I proclaim your might to another generation, your power to all those to come.",
+      "arminianNotes": "Wesley: gray hairs plea; until he proclaims might to another generation. Purpose clause: teaching the next.\n\nArminian hope: forsake-not until witness reaches the next generation. Shared mission in old age—power told to those to come.",
+      "reformedNotes": "Calvin: to old age and gray hairs forsake not—until he declares strength to the next generation.\n\nReformed pastoral: shared—longevity for proclamation, not for ego.",
+      "keyContrast": "Both tie gray-hair perseverance to proclaiming God’s might to the next generation. Arminians typically stress the aged saint’s ongoing duty to tell; Reformed readers typically stress God’s non-forsaking that enables that witness."
+    },
+    {
+      "number": 19,
+      "text": "Your righteousness, O God, reaches the high heavens. You who have done great things, O God, who is like you?",
+      "arminianNotes": "Wesley: righteousness to high heavens; great things; who is like you—incomparability.\n\nArminian note: shared doxology—none like God. Great things done ground the who-is-like.",
+      "reformedNotes": "Calvin: righteousness very high; great things done; who is like unto thee?\n\nReformed accent: shared—incomparability of the God of great things."
+    },
+    {
+      "number": 20,
+      "text": "You who have made me see many troubles and calamities will revive me again; from the depths of the earth you will bring me up again.",
+      "arminianNotes": "Wesley: many troubles seen; revive again; bring up from depths—restoration hope.\n\nArminian pastoral: God who showed troubles also revives. Shared: depths are not final; bring-up-again is trusted.",
+      "reformedNotes": "Calvin: shown many and sore troubles—shall quicken again; bring up from depths of the earth.\n\nReformed note: shared—same God of trouble and revival."
+    },
+    {
+      "number": 21,
+      "text": "You will increase my greatness and comfort me again.",
+      "arminianNotes": "Wesley: increase greatness; comfort again—renewed consolation.\n\nArminian hearing: comfort again matches revive again. Shared: comfort is God’s to give the gray-haired.",
+      "reformedNotes": "Calvin: increase greatness; comfort on every side. Restoration language.\n\nReformed pastoral: shared—comfort again after calamity."
+    },
+    {
+      "number": 22,
+      "text": "I will also praise you with the harp for your faithfulness, O my God; I will sing praises to you with the lyre, O Holy One of Israel.",
+      "arminianNotes": "Wesley: With the harp—musical praise for faithfulness; Holy One of Israel named.\n\nArminian note: instruments join vow. Shared: faithfulness and holiness are the themes sung.",
+      "reformedNotes": "Calvin: praise with psaltery for truth; sing with harp, O Holy One of Israel.\n\nReformed accent: shared—Holy One receives lyre and harp."
+    },
+    {
+      "number": 23,
+      "text": "My lips will shout for joy, when I sing praises to you; my soul also, which you have redeemed.",
+      "arminianNotes": "Wesley: My soul—which thou hast delivered—lips shout; redeemed soul sings.\n\nArminian pastoral: redeemed soul’s joy is personal. Shared: redemption fuels shouting lips.",
+      "reformedNotes": "Calvin: lips shout; soul which thou hast redeemed. Whole person in praise.\n\nReformed note: shared—redeemed soul is the singer’s identity."
+    },
+    {
+      "number": 24,
+      "text": "And my tongue will talk of your righteous help all the day long, for they have been put to shame and disappointed who sought to do me hurt.",
+      "arminianNotes": "Wesley: Tongue continually celebrating righteousness; enemies shamed who sought hurt.\n\nArminian hope: all-day talk of righteous help. Shared ending—hurt-seekers disappointed; tongue occupied with God.",
+      "reformedNotes": "Calvin: tongue talks of righteousness all day; they are ashamed who sought hurt. Close matches opening shame-theme.\n\nReformed pastoral: shared—shame flipped from the refugee (v. 1) onto the hunters."
+    }
+  ]
+}

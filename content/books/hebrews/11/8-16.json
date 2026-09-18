@@ -1,0 +1,88 @@
+{
+  "book": "Hebrews",
+  "bookSlug": "hebrews",
+  "chapter": 11,
+  "verseStart": 8,
+  "verseEnd": 16,
+  "translation": "ESV",
+  "title": "Hebrews 11:8–16",
+  "context": "The catalog turns to Abraham: called, he obeyed and went out not knowing where he was going; he sojourned in the land of promise as a foreigner with Isaac and Jacob. He looked to the city with foundations whose designer and builder is God. Sarah received power to conceive; from one as good as dead came innumerable descendants. These all died in faith, seeking a heavenly homeland—and God is not ashamed to be called their God.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on Abraham’s obedience, the sojourning heirs, Sarah’s faith, and the heavenly country—so each camp speaks in its own voice beside Hebrews 11:8–16.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went. By faith he sojourned in the land of promise—as a sojourner with Isaac and Jacob, the joint heirs of the same promise. He looked for a city which hath foundations, whose builder and former is God. These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth. But they desire a better country, that is, an heavenly—this is a full convincing proof that the patriarchs had a revelation and a promise of eternal glory in heaven. Therefore God is not ashamed to be called their God: seeing he hath prepared for them a city worthy of God to give.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the New Testament (on Hebrews 11:8–10, 13, 16)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "Faith was the cause why Abraham immediately obeyed God when commanded to remove from his own country; and through the same faith he went on without wavering even to the end. By promptness in obeying, and by perseverance, was Abraham’s faith most clearly proved. He looked forward to heaven: this was indeed to see things invisible. Though God gave to the fathers only a taste of that grace which is largely poured on us, and showed them at a distance only an obscure representation of Christ, yet they were satisfied and never fell away from their faith: how much greater reason then have we at this day to persevere? Wherefore God is not ashamed to be called their God: it is a singular honor when God attaches his name to them. This privilege depends also on faith; for when the holy fathers aspired to a celestial country, God on the other hand counted them as citizens. There is no place for us among God’s children, except we renounce the world, and there will be for us no inheritance in heaven, except we become pilgrims on earth.",
+        "cite": "John Calvin",
+        "source": "Commentary on Hebrews (on Hebrews 11:8, 10, 13, 16)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 8,
+      "text": "By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.",
+      "arminianNotes": "Wesley points to Genesis 12: Abraham obeyed when called and went out not knowing whither. Faith answers God’s call with real going, before the map is clear.\n\nClassical Arminians hear a sincere call that Abraham obeyed—model for hearers who must likewise trust and go. Not knowing where is not irrationalism; it is trust in the Caller. Do not invent an Abraham who negotiated terms before moving.",
+      "reformedNotes": "Calvin: faith caused him immediately to obey; through the same faith he went on without wavering to the end. Promptness and perseverance proved his faith. One of faith’s chief things is not to move a step except God’s word shows the way.\n\nReformed accent: the call is God’s oracle; obedience is faith’s fruit. He embraced the promise and hastened as though sent to take possession—yet without knowing the place, that faith might be exercised."
+    },
+    {
+      "number": 9,
+      "text": "By faith he went to live in the land of promise, as in a foreign land, living in tents with Isaac and Jacob, heirs with him of the same promise.",
+      "arminianNotes": "Wesley: he sojourned in the land of promise, dwelling in tents as a sojourner with Isaac and Jacob, joint heirs of the same promise—having all the same interest therein. Isaac did not receive this inheritance from Abraham, nor Jacob from Isaac, but all of them from God.\n\nClassical Arminians hear shared heirship by the same promise trusted. Tent-living is the posture of faith that has not yet seized the fullness. The heirs model patient trust for later hearers.",
+      "reformedNotes": "Calvin: to be a sojourner seemed contrary to what had been promised; that Abraham courageously sustained this trial proceeded from faith alone. He makes Isaac and Jacob companions because they sojourned alike and yet failed not in their faith, however long God delayed; by the shield of faith they repelled assaults of doubt and unbelief.\n\nReformed reading: delay is trial; perseverance in the tent is faith’s victory, not a temporary enthusiasm that may as well quit."
+    },
+    {
+      "number": 10,
+      "text": "For he was looking forward to the city that has foundations, whose designer and builder is God.",
+      "arminianNotes": "Wesley: he looked for a city which hath foundations—whereas a tent has none—whose builder and former is God, the sole contriver, former, and finisher.\n\nClassical Arminians hear hope directed beyond Canaan to God’s own city. Looking forward sustains obedience in the meantime. The designer is God; the pilgrim does not invent the destination.",
+      "reformedNotes": "Calvin: he ascribes their patience to faith because they looked forward to heaven—to see things invisible. He calls heaven a city that has foundations because of its perpetuity; in the world there is nothing but what is transitory. All weariness is relieved by expectation, so we ought never to be weary in following God.\n\nReformed accent: the city’s foundations match the nature of God its founder. Patience is faith’s sight of the invisible city."
+    },
+    {
+      "number": 11,
+      "text": "By faith Sarah herself received power to conceive, even when she was past the age, since she considered him faithful who had promised.",
+      "arminianNotes": "Wesley: Sarah also herself—though at first she laughed at the promise—received strength. Faith judged Him faithful who had promised.\n\nClassical Arminians hear that initial laughter does not cancel later faith: she considered Him faithful. Past-age power is God’s answer to promise-trust. Women as well as men belong inside this catalog of faith.",
+      "reformedNotes": "Calvin: her faith was blended with unbelief; but as she cast aside her unbelief when reproved, her faith is acknowledged and commended. When our faith in some things wavers, it ceases not to be approved of God, provided we indulge not the spirit of unbelief. Sarah’s faith was this—that she counted God true to His word, to what He had promised. There is no faith without God’s word; true faith hears God speaking and rests on His promise.\n\nReformed confession: promise-faith, not implicit vagueness. God performed the miracle as fruit of faith that laid hold on His power."
+    },
+    {
+      "number": 12,
+      "text": "Therefore from one man, and him as good as dead, were born descendants as many as the stars of heaven and as many as the innumerable grains of sand by the seashore.",
+      "arminianNotes": "Wesley: as it were dead—till his strength was supernaturally restored, which continued for many years after. From impossibility God brought innumerable offspring.\n\nClassical Arminians hear the promise’s fruit as encouragement: God keeps what He swore. The innumerable sand and stars answer faith in the Promiser, not biological optimism.",
+      "reformedNotes": "Calvin: sooner might oil be expected to flow from a stone than a nation from them; yet an innumerable multitude sprang from them. Whatever the Jews are is to be ascribed to the faith of Abraham and Sarah; they cannot retain their position in any other way than by faith.\n\nReformed accent: national pride without faith is empty. Descent is gift through promise-faith, not flesh alone."
+    },
+    {
+      "number": 13,
+      "text": "These all died in faith, not having received the things promised, but having seen them and greeted them from afar, and having acknowledged that they were strangers and exiles on the earth.",
+      "arminianNotes": "Wesley: all these—mentioned in the prior examples—died in faith. In death faith acts most vigorously. Not having received the promised blessings, they embraced them as one does a dear friend when he meets him, and confessed they were strangers and pilgrims.\n\nClassical Arminians hear dying in faith as the persevering posture every hearer is called to: see, greet, embrace, confess exile. Do not treat these only as specimens of an already-fixed list; they model how sincere believers finish.",
+      "reformedNotes": "Calvin: though God gave the fathers only a taste of grace largely poured on us, and showed Christ at a distance obscurely, yet they were satisfied and never fell away from their faith—how much greater reason have we to persevere? They hailed the promises afar off and confessed they were strangers; their minds were raised above the heavens.\n\nReformed accent: dying in faith without falling away is the fathers’ approved perseverance. Greater light makes our weariness the more inexcusable.",
+      "keyContrast": "Both call the church to die in faith as strangers who greet the promises from afar, and both refuse a this-world settlement as the patriarchs’ hope. Arminians typically hear these deaths as models for sincere hearers who must likewise see, embrace, and finish in faith. Reformed readers typically hear Calvin’s never-fell-away patriarchs as those God kept by faith—greater gospel light now making our perseverance the more urgent, not a faith that may as well quit mid-pilgrimage."
+    },
+    {
+      "number": 14,
+      "text": "For people who speak thus make it clear that they are seeking a homeland.",
+      "arminianNotes": "Wesley: they who speak thus show plainly that they seek their own country—that they keep in view, and long for, their native home.\n\nClassical Arminians hear seeking as active longing. Confession of exile proves the search for homeland. Pastoral force: say such things, and seek.",
+      "reformedNotes": "Calvin: by speaking thus they openly showed they had a better country in heaven; as they were pilgrims here, they had a country and abiding habitation elsewhere.\n\nReformed reading: speech reveals the heart’s homeland. Pilgrim confession is evidence of heavenly citizenship God has given."
+    },
+    {
+      "number": 15,
+      "text": "If they had been thinking of that land from which they had gone out, they would have had opportunity to return.",
+      "arminianNotes": "Wesley: if they had been mindful of their earthly country, Ur of the Chaldeans, they might have easily returned.\n\nClassical Arminians hear a warning: opportunity to return is real; mindfulness of the old land would have pulled them back. Faith keeps looking forward, not rehearsing exit ramps.",
+      "reformedNotes": "Calvin: though they called themselves strangers, they did not think of Mesopotamia; if they had desired to return, they might have done so—but they willingly banished themselves and disowned it. By another country they meant that beyond this world.\n\nReformed accent: true faith renounces the old country; nostalgia for Ur is unbelief’s pull, not pilgrim wisdom."
+    },
+    {
+      "number": 16,
+      "text": "But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared for them a city.",
+      "arminianNotes": "Wesley: they desire a better country, that is, an heavenly—full convincing proof the patriarchs had a revelation and promise of eternal glory in heaven. Therefore God is not ashamed to be called their God, seeing He hath prepared for them a city worthy of God to give.\n\nClassical Arminians hear God’s unashamed name attached to those who desire the heavenly country. Prepared city is gift; desire is the pilgrim’s real longing. Invitation stands for hearers who will likewise desire and endure.",
+      "reformedNotes": "Calvin: referring to “I am the God of Abraham, Isaac, and Jacob”—singular honor when God attaches His name to them. This privilege depends on faith; when the fathers aspired to a celestial country, God counted them as citizens. No place among God’s children except we renounce the world; no heavenly inheritance except we become pilgrims on earth. He who so speaks is not the God of the dead, but of the living.\n\nReformed confession: God is not ashamed because He has made them His; the prepared city seals their citizenship. Pilgrim desire and divine naming belong together by faith."
+    }
+  ]
+}

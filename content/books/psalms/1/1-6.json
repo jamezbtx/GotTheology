@@ -1,0 +1,71 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "ESV",
+  "title": "Psalm 1:1–6",
+  "context": "Psalm 1 opens the Psalter as a gateway: the blessed person refuses the counsel, path, and seat of the wicked, delights in the LORD’s law day and night, and stands like a tree by streams—while the wicked are chaff that judgment will not spare, for the LORD knows the way of the righteous, but the way of the wicked will perish.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on blessedness, delight in the law, and the LORD’s knowledge of two ways—so each camp speaks in its own voice beside Psalm 1:1–6.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "This psalm was put first as a preface to all the rest, as a powerful persuasive to the serious study of the whole book, and of the rest of the holy scripture, taken from that blessedness which attends upon the study and practice of it. It shews us the holiness and happiness of a good man, the sinfulness and misery of a wicked man, and the ground and reason of both. Blessed—the Hebrew words are very emphatical: O the blessedness of that man! Counsel—that doth not lead his life according to their counsel. Standeth—a more settled abode; seat—constant and resolved perseverance in wicked courses. Divers observe a gradation: standing more than walking, sitting more than standing; sinners worse than the ungodly, and the scornful the worst of sinners. Day and night—not seldom and slightly, but diligently and constantly. Knoweth—he approves, loves, and delights in them, and therefore will recompence them. Perish—all their designs and courses shall come to nothing, and they shall perish with them.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 1)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This Psalm was placed at the beginning by way of preface, inculcating upon all the godly the duty of meditating upon the law of God. They are blessed who apply their hearts to the pursuit of heavenly wisdom; the profane despisers of God, though for a time they reckon themselves happy, shall at length have a most miserable end. It is impossible for any one to apply his mind to meditation upon God’s laws who has not first withdrawn from the society of the ungodly. The first step to living well is to renounce their company. Forced or servile obedience is not at all acceptable to God; those only are worthy students of the law who come to it with a cheerful mind. The children of God constantly flourish, watered with the secret influences of divine grace. The ungodly shall be like chaff when the Lord drives them with the blast of his wrath. Jehovah knoweth the way of the righteous: it is the peculiar office of God to defend them; he is the certain avenger of wickedness. Instead of being deceived by imaginary felicity, have ever before your eyes the providence of God, who settles the affairs of the world and brings order out of confusion.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 1)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;",
+      "arminianNotes": "Wesley: Blessed—O the blessedness of that man! Counsel—that doth not lead his life according to their counsel or manner of living. Standeth—a more settled abode; seat—constant and resolved perseverance in wicked courses. Scornful—those who make a mock of sin and scoff at goodness. Divers observe a gradation: standing more than walking, sitting more than standing; sinners worse than the ungodly, and the scornful the worst of sinners.\n\nArminian hearing: blessedness is real for the one who refuses the slide into wicked company. The verse names choices that deepen—walk, stand, sit—so the warning is pastoral, not theatrical. Grace enables separation; the hearer must still refuse the counsel, the way, and the seat.",
+      "reformedNotes": "Calvin: the righteous should be confirmed by knowing that all without God’s blessing are miserable, and that God is favorable to none but those who zealously devote themselves to divine truth. It is impossible to apply the mind to God’s laws without first withdrawing from the ungodly. Walking, standing, sitting mark how Satan leads step by step from evil counsel to open transgression and obstinate sitting.\n\nReformed accent: the world is fraught with deadly corruption; the first step to living well is to renounce ungodly company. Separation is not optional hygiene around a neutral path—it is how God keeps a people for the study of his law."
+    },
+    {
+      "number": 2,
+      "text": "but his delight is in the law of the LORD, and on his law he meditates day and night.",
+      "arminianNotes": "Wesley: Day and night—not seldom and slightly, but diligently and constantly. The positive half of blessedness is delight and meditation in the LORD’s law, not merely avoiding bad company.\n\nArminian reading: delight is grace-worked affection that still must be practiced. Meditation is a lived diligence—day and night—not a momentary spark. The law is to be loved and kept; forced or empty religion is not the blessed life this verse describes.",
+      "reformedNotes": "Calvin: godliness is designated by the study of the law; God is only rightly served when his law is obeyed. The standard is taken from the Word, not framed by private judgment. Under “law” as head is comprehended the whole of Scripture. Forced or servile obedience is not acceptable; those only are worthy students who come with a cheerful mind. From love of the law proceeds constant meditation.\n\nReformed accent: delight is not inventing religion; it is cheerful submission to God’s speech. The blessed are those God favors in the pursuit of heavenly wisdom—watered for meditation, not left to invent a law of their own.",
+      "keyContrast": "Both confess that blessedness includes real delight and day-and-night meditation in the LORD’s law, not bare avoidance of sinners. Arminian readers stress grace-enabled affection and diligence the hearer must actually take up and keep. Reformed readers stress that God is favorable to those who devote themselves to his Word, and that cheerful study—not forced servility—is the fruit of his blessing on the godly."
+    },
+    {
+      "number": 3,
+      "text": "He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.",
+      "arminianNotes": "Wesley: his happiness is not short and transitory, but like trees continually green and flourishing. Fruit in season and an unwithered leaf picture lasting blessedness tied to delight in the law.\n\nArminian pastoral: planted near water, the righteous bear fruit that lasts. Prosperity here is the flourishing of a life rooted in the law, not a blank check for every scheme. Stay by the streams—keep meditating—and expect fruit in its season.",
+      "reformedNotes": "Calvin: those who fear God are happy not with empty gladness but because they are in a desirable condition—like a tree well watered, not one that soon withers in barren soil. The children of God constantly flourish, watered with the secret influences of divine grace, so that whatever befalls them is conducive to their salvation. Fruit in season means full maturity, not precocious show without perfection.\n\nReformed comfort: the blessing of God alone preserves any in a prosperous condition. The tree’s life is secret grace, not bare human grit beside a dry ditch."
+    },
+    {
+      "number": 4,
+      "text": "The wicked are not so, but are like chaff that the wind drives away.",
+      "arminianNotes": "Wesley: Ungodly—their condition is far different. Chaff—they are restless and unquiet; their seeming felicity has no firm foundation, but quickly vanishes and flees away as chaff before the wind.\n\nArminian warning: prosperity without delight in the law is weightless. The contrast is moral and practical—rooted obedience versus driven emptiness—not a puzzle about genres. Flee the seat of scoffers before you become chaff.",
+      "reformedNotes": "Calvin: not reckoning a withering tree strong enough, he debases the ungodly as chaff. He does not keep his eye on their short boast but ponders the destruction that awaits. Although they live prosperously now, by and by the Lord shall drive them with the blast of his wrath. Contemplate with the eye of faith what seems incredible: the high ungodly man will be refuse when God casts him down.\n\nReformed accent: present height does not rewrite the end. Providence, not chance wind, drives the chaff when God chooses."
+    },
+    {
+      "number": 5,
+      "text": "Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous;",
+      "arminianNotes": "Wesley: Not stand—not endure the trial. Judgment—in the great and general judgment of the world. Sinners will not hold a place in the congregation of the righteous when that trial comes.\n\nArminian hearing: judgment is real, public, and moral. The wicked’s present swagger does not survive the trial. The congregation of the righteous is a company one must belong to by a righteous way—not a club the unrepentant can crash at the end.",
+      "reformedNotes": "Calvin: a happy life depends on a good conscience; the ungodly fall from the happiness they fancied. They may revel while disorder reigns, as robbers in caves beyond justice—but when order is restored they are deprived of their pleasures. The Lord distinguishes righteous and wicked even now only partially; we must look higher to the assembly of the righteous and wait for the day when Christ separates sheep from goats.\n\nReformed accent: judgment is God’s settling of the world. Present confusion does not cancel the congregation of the righteous or the verdict that the wicked will not stand."
+    },
+    {
+      "number": 6,
+      "text": "for the LORD knows the way of the righteous, but the way of the wicked will perish.",
+      "arminianNotes": "Wesley: Knoweth—he approves, loves, and delights in them, and therefore will recompence them. Perish—all their designs and courses shall come to nothing, and they shall perish with them.\n\nArminian reading: the LORD’s knowing is approving love tied to the righteous way they walk. Recompense answers that way; the wicked’s way perishes with them. The fork of two ways remains live until judgment—delight and meditation are not stage scenery.",
+      "reformedNotes": "Calvin: God is the Judge of the world; therefore it cannot but be well with the upright, while terrible destruction impends over the ungodly. Outwardly the servants of God may derive no advantage from uprightness, but it is God’s peculiar office to defend them under his protection. He is the certain avenger of wickedness though he seem to take no notice for a time. Have before your eyes the providence of God, who settles the affairs of the world and brings order out of confusion.\n\nReformed accent: “knows” is covenant care and judicial certainty. The righteous way is safe because God defends it; the wicked way perishes because God avenges—not because history randomly balances.",
+      "keyContrast": "Both confess that the LORD knows the way of the righteous and that the way of the wicked will perish. Arminian readers, with Wesley, hear knowing as approving love that will recompense those who walk the righteous way. Reformed readers, with Calvin, hear knowing as the Judge’s providential defense of the upright and certain vengeance on the wicked—God settling the world’s confusion, not a recompense that finally hangs on an uncertain human hold."
+    }
+  ]
+}

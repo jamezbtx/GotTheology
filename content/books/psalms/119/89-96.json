@@ -1,0 +1,82 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 119,
+  "verseStart": 89,
+  "verseEnd": 96,
+  "translation": "ESV",
+  "title": "Psalm 119:89–96",
+  "context": "The Lamedh stanza lifts the eyes to a word fixed forever in the heavens, faithfulness to all generations, and a world that stands by God’s appointment. Delight in the law preserved the singer from perishing; precepts quicken; belonging to God grounds the plea to be saved; the wicked wait to destroy, yet testimonies are considered; earthly perfection has a limit, but the commandment is exceedingly broad. Both camps rest salvation’s certainty on God’s unchanging word; they differ on how “I am yours; save me, for I have sought” relates grace and seeking.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the word settled in heaven, delight that saves from perishing, and the commandment broader than all earthly perfection—so each camp speaks in its own voice beside Psalm 119:89–96.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "In heaven—With thee in thy heavenly habitation. They—The heaven and the earth. Ordinances—As thou hast appointed. For—All things are subject to thy power and pleasure. Perfection—Of the greatest and most perfect enjoyments in this world. Commandment—Thy word. Broad—Large for extent and continuance: useful to all; of everlasting truth; it will never deceive those who trust it, as worldly things will.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Ps 119:89, 91, 96)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "As we see nothing constant upon earth, he elevates our minds to heaven, that they may fix their anchor there. Salvation shut up in God’s word is not subject to change as earthly things are. Had not thy law been my delight, I would have perished—no other solace in adversity but reposing upon the word. I am thine, save me: he takes encouragement from being God’s own; this honor proceeds solely from free adoption. When he affirms he sought the commandments, that also depended upon the Divine calling.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms (on Ps 119:89, 92, 94)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 89,
+      "text": "Forever, O Lord, your word is firmly fixed in the heavens.",
+      "arminianNotes": "Wesley: In heaven—With thee in thy heavenly habitation.\n\nClassical Arminians hear the word’s stability above earthly flux—safe ground for hope. Shared confession: what God has spoken does not drift with the world’s weather.",
+      "reformedNotes": "Calvin: elevates minds to heaven to fix their anchor there—not proving God’s truth merely from the heavens’ state, but allotting to God’s truth a habitation subject to no changes. Salvation shut up in God’s word is anchored in a safe haven. Isaiah’s grass and flower (1 Peter 1:24) teach that certainty of salvation is sought in the word, not settled on the world.\n\nReformed accent: forever-fixed word outranks fluctuating earth. Faith pierces to heaven’s stability."
+    },
+    {
+      "number": 90,
+      "text": "Your faithfulness endures to all generations; you have established the earth, and it stands fast.",
+      "arminianNotes": "Faithfulness to all generations; earth established and standing. Classical Arminians hear covenant reliability spanning ages—comfort for sojourners who pass quickly.\n\nShared sight: creation’s standing mirrors, faintly, the God who keeps faith.",
+      "reformedNotes": "Calvin: though the faithful live briefly as strangers, their life is not perishable—begotten of incorruptible seed. Though we must pierce by faith into heaven, bright testimonies of God’s truth shine on earth: the earth continues as established. Two things agree: steadfastness of the word is not judged by the world’s flux; yet men are ungrateful if they ignore constancy in the world’s framework.\n\nReformed reading: faithfulness endured and earth standing catechize trust. Creation serves the word’s witness without replacing it."
+    },
+    {
+      "number": 91,
+      "text": "By your appointment they stand this day, for all things are your servants.",
+      "arminianNotes": "Wesley: They—The heaven and the earth. Ordinances—As thou hast appointed. For—All things are subject to thy power and pleasure.\n\nClassical Arminians hear creaturely service under God’s appointment—order that invites trust. Shared doctrine: nothing stands free of his command.",
+      "reformedNotes": "Calvin: whole order of nature depends solely on God’s commandment. Judgments allude to the law—rectitude displayed in every part of God’s procedure. Men are perverse when by unbelief they shake the faithfulness on which all creatures repose. All elements are God’s servants—more than ready obedience: air and waters continue by secret command.\n\nReformed accent: appointment and servanthood of all things confirm the word. External works may gradually lead to persuasion of heavenly doctrine."
+    },
+    {
+      "number": 92,
+      "text": "If your law had not been my delight, I would have perished in my affliction.",
+      "arminianNotes": "Delight in the law kept the singer from perishing. Classical Arminians hear Scripture as life-preserving joy under affliction—not a hobby for calm days.\n\nShared testimony: without delight in the word, affliction swallows. Treasure the law before the storm.",
+      "reformedNotes": "Calvin: he would have been undone had he not sought consolation from the law. He speaks from experience—no other solace or remedy for adversity but reposing on God’s word and embracing grace and assurance of salvation offered in it. The same word that dwells in heaven resounds on earth yet retains celestial nature—not subject to the world’s changes. Consolation from the Law in desperate circumstances was as life to him.\n\nReformed confession: law-delight is survival grace in affliction. The heavenly word keeps when earth unravels."
+    },
+    {
+      "number": 93,
+      "text": "I will never forget your precepts, for by them you have given me life.",
+      "arminianNotes": "Precepts remembered because they quickened. Classical Arminians hear gratitude that fuels memory—life received through the word binds the heart to keep remembering.\n\nShared warning: we easily let life-giving truth slip; then sadness lengthens.",
+      "reformedNotes": "Calvin: thanksgiving—as the law preserved him, he engages never to forget. He admonishes how necessary to cherish remembrance of the Divine Law; though we have found its life-giving power, we easily let it pass from memory, and God may leave us long to languish.\n\nReformed accent: quickened-by-precepts grounds never-forgetting. Memory is piety’s discipline after rescue."
+    },
+    {
+      "number": 94,
+      "text": "I am yours; save me, for I have sought your precepts.",
+      "arminianNotes": "Belonging and seeking ground the plea to be saved. Classical Arminians hear sincere relationship language: I am yours—and I have sought your precepts—so save. Seeking is real evidence of a heart turned toward God under grace; the plea is not purchase but petition.\n\nDo not invent merit that obligates God; do not erase seeking as empty show.",
+      "reformedNotes": "Calvin: encouragement from being one of God’s own stamp. He proves he is God’s by keeping commandments—yet not boasting merit as men do. He brings forward unmerited grace alone; no man by efforts acquires the honor of being under God’s protection—it proceeds solely from free adoption. The blessing conferred is argument that God not forsake work commenced. Seeking the commandments depended upon the Divine calling; he did not apply his mind to them before he was called and received into the household.\n\nReformed confession: “I am yours” is adoption’s gift; seeking is fruit of calling. Save me continues what grace began.",
+      "keyContrast": "Both plead “I am yours; save me” and both refuse to treat seeking as a wage that buys God. Arminians typically hear belonging confessed and seeking as sincere, grace-enabled evidence accompanying the plea. Reformed readers typically hear Calvin’s order: free adoption first; seeking the precepts depends on divine calling—the honor of being God’s is unmerited, and the plea asks God not to forsake his own work."
+    },
+    {
+      "number": 95,
+      "text": "The wicked lie in wait to destroy me, but I consider your testimonies.",
+      "arminianNotes": "Destruction waited for; testimonies considered. Classical Arminians hear attention to Scripture under threat—mind stayed on the word when violence plots.\n\nShared virtue: do not let panic replace considering God’s testimonies.",
+      "reformedNotes": "Calvin: need of being saved—wicked sought to destroy him; yet he set his mind on the law. Great virtue: when assailed, to rest contented with God’s promises alone. To consider testimonies is to apply minds to the word that sustains against assaults, allays fears, and restrains perverse counsels.\n\nReformed accent: waiting destroyers meet considered testimonies. Promise-contentment under conspiracy marks godliness."
+    },
+    {
+      "number": 96,
+      "text": "I have seen a limit to all perfection, but your commandment is exceedingly broad.",
+      "arminianNotes": "Wesley: Perfection—Of the greatest and most perfect enjoyments in this world. Commandment—Thy word. Broad—Large for extent and continuance: useful to all; everlasting truth; it will never deceive those who trust it, as worldly things will, but will make men happy here and forever.\n\nClassical Arminians hear the word outlasting and outwidening every earthly “perfect” thing. Shared valuation: limit on creaturely perfection; breadth in God’s commandment.",
+      "reformedNotes": "Calvin: nothing under heaven so perfect and stable as not to have an end; the Divine word alone possesses amplitude surpassing all bounds. After considering all things especially those of greatest perfection, he found them nothing compared with God’s word—soon ended, whereas the word stands in its eternity. Broad: though one mount above heavens or descend to depths, one will not reach farther than God’s truth conducts.\n\nReformed confession: end of all perfection; exceeding breadth of the commandment. Minds must cease enclosing themselves in the world’s narrow limits."
+    }
+  ]
+}

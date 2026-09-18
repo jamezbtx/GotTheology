@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 102,
+  "verseStart": 1,
+  "verseEnd": 28,
+  "translation": "ESV",
+  "title": "Psalm 102:1–28",
+  "context": "A prayer of one afflicted, when he is faint and pours out his complaint before the LORD: days like smoke, bones like a furnace, loneliness and taunts under God's indignation—then the turn to the LORD enthroned forever, the appointed time to pity Zion, nations fearing his glory, a record for a people yet to be created, and the unchanging Creator whose years have no end, so that the children of his servants dwell secure. Verses 25–27 are applied to the Son in Hebrews 1.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on an afflicted cry, the appointed time to pity Zion, and the unchanging LORD whose years do not fail—so each camp speaks in its own voice beside Psalm 102:1–28.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "This psalm contains a prayer for the use of all true Israelites, in the name and behalf of the church of Israel. It seems to have been composed in the time of their captivity, and near the end of it. An hearth—heated or burnt by the coals. Skin—my flesh being quite consumed. A pelican—a solitary and mournful bird. Bread—dust and ashes are as familiar as eating bread. Lifted me—as a man lifts a thing high that he may cast it down with greater force. Remembrance—thy name, Jehovah, memorial unto all generations. The set time—the end of those seventy years which thou hast fixed. This wonderful deliverance shall be carefully recorded. Looked—from heaven. To loose—to release his poor captives out of Babylon, and from the chains of sin and eternal destruction. When the Gentiles shall gather themselves to the Jews and join in the worship of the true God. Do not wholly destroy thy people Israel before they come to full possession of thy promises, especially of that fundamental promise of the Messiah. Though the heavens and earth perish, yet we rest assured that our children shall enjoy a happy restitution.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament (on Psalm 102)"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "This prayer seems to have been dictated to the faithful when they were languishing in captivity in Babylon. They bewail their afflictions, plead for the restoration of the holy city, and draw consolation from the eternity of God. God is eternal, and therefore he will have compassion upon Zion—the time appointed according to his good pleasure is come. The good deserts of men are entirely out of the question; he traces the cause solely to the free goodness of God. Of old thou laidst the foundation of the earth; they shall perish, but thou shalt endure; but thou art the same, and thy years shall not fail. The Apostle applies these words to Christ in Hebrews 1, in proof of his deity. The children of thy servants shall dwell, and their seed shall be established before thee—not because the Church is a mere part of the human race, but because God has raised it above the revolutions of the world by his word.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Book of Psalms (on Psalm 102)"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "Hear my prayer, O LORD; let my cry come to you!",
+      "arminianNotes": "Hear my prayer; let my cry come. The title names one afflicted who pours out complaint before the LORD. Wesley: a prayer for true Israelites on behalf of the church, near the end of captivity.\n\nArminian hearing: real distress, real petition. The cry is to be uttered; God invites the overwhelmed to speak. Grace stirs prayer; the afflicted must still cry.",
+      "reformedNotes": "Calvin: this earnestness shows the words were not for the careless. The captive Jews testify severe distress and an ardent desire for alleviation. The Holy Spirit stirs prayer for the common welfare of the Church; scarcely one in a hundred is affected as he ought by the Church's calamities.\n\nReformed accent: the cry is Spirit-taught liturgy for a people, not a light mouth-habit. Heart and tongue help each other when grief shuts us up."
+    },
+    {
+      "number": 2,
+      "text": "Do not hide your face from me in the day of my distress! Incline your ear to me; answer me speedily in the day when I call!",
+      "arminianNotes": "Do not hide your face; incline your ear; answer speedily. The day of distress is named twice—face and ear sought with urgency.\n\nArminian pastoral: speed is the plea of the faint, not a denial of God's wisdom. Classical Arminians pray as those who may truly be heard; the face may feel hidden while the promise still stands.",
+      "reformedNotes": "Calvin: after nearly seventy years it might seem God had forever turned away his favor; yet they are commanded in extreme affliction to have recourse to prayer. God permits us to lay open our infirmities without reserve and patiently bears with our foolishness—inviting the weak to approach familiarly.\n\nReformed comfort: the seeming hidden face does not cancel the covenant command to call. Tenderness is providence, not permission for irreverence."
+    },
+    {
+      "number": 3,
+      "text": "For my days pass away like smoke, and my bones burn like a furnace.",
+      "arminianNotes": "Wesley: An hearth—an hearth is heated or burnt by the coals which are laid upon it. Days like smoke; bones like a furnace—body and time both wasting.\n\nArminian reading: complaint is honest physiology under grief. The verse names felt wasting before God and asks for mercy.",
+      "reformedNotes": "Calvin treats these verses as the Church's and the sufferer's shared language of languishing. Smoke and furnace picture a life nearly spent under captivity's weight.\n\nReformed accent: the complaint is recorded so the faint may pray it. Frailty is not hidden from the eternal King who will answer."
+    },
+    {
+      "number": 4,
+      "text": "My heart is struck down like grass and has withered; I forget to eat my bread.",
+      "arminianNotes": "Heart struck down like grass; bread forgotten. Grief reaches appetite and cheer. Wesley's later note on ashes as bread (v. 9) already begins in this withering.\n\nArminian pastoral: depression's symptoms are not unbelief by default. Pour them out; then hold the turn of v. 12 when it comes.",
+      "reformedNotes": "The heart withers like grass; even necessary bread is forgotten. Calvin's frame: such language belongs to those distressed for the desolate Church, not to the light-hearted.\n\nReformed pastoral: God receives this honesty. The grass image will return when steadfast love is set against human frailty."
+    },
+    {
+      "number": 5,
+      "text": "Because of my loud groaning my bones cling to my flesh.",
+      "arminianNotes": "Wesley: Skin—my flesh being quite consumed. Loud groaning has wasted him to bone and clinging flesh.\n\nArminian hearing: the body keeps the score of unanswered days. The psalm does not scold the groan; it carries it to God.",
+      "reformedNotes": "Groaning reduces him to skin and bone. Calvin: when shut up by grief, the gate is not shut against prayer—then is a proper season to pour out the heart before God.\n\nReformed accent: extremity is invitation, not exile from the throne of grace."
+    },
+    {
+      "number": 6,
+      "text": "I am like a desert owl of the wilderness, like an owl of the waste places;",
+      "arminianNotes": "Wesley: A pelican—is a solitary and mournful bird. Wilderness and waste places picture isolation.\n\nArminian reading: loneliness is named without romance. The afflicted may feel cast to the wastes while still belonging to Zion's hope.",
+      "reformedNotes": "Solitary birds of desert and ruin: the sufferer is cut off from ordinary company. Calvin's title stress: this form is for those shut up and pouring out meditation before Jehovah.\n\nReformed comfort: isolation does not erase election's people; it drives them to the God who builds Zion."
+    },
+    {
+      "number": 7,
+      "text": "I lie awake; I am like a lonely sparrow on the housetop.",
+      "arminianNotes": "Sleepless; a lonely sparrow on the housetop. Wakefulness and exposure join the owl's solitude.\n\nArminian pastoral: night watches become prayer watches. The housetop sparrow is seen and unsheltered—still heard by the LORD of v. 1.",
+      "reformedNotes": "Lying awake in lonely exposure. Shared with Wesley: the image is mournful solitude under the LORD's ear.\n\nReformed accent: the Church in exile may feel housetop-naked; the memorial of God's name (v. 12) will answer."
+    },
+    {
+      "number": 8,
+      "text": "All the day my enemies taunt me; those who deride me use my name for a curse.",
+      "arminianNotes": "All-day taunts; the name used for a curse. Social shame compounds bodily wasting.\n\nArminian hearing: enemies are real agents. Their mockery does not prove God absent; it proves the need of the cry.",
+      "reformedNotes": "Enemies taunt and make the name a curse. Calvin's setting: Babylon's weight on a people who must still pray for Zion.\n\nReformed accent: derision is inside providence that will yet favor Zion at the appointed time—not chance cruelty alone."
+    },
+    {
+      "number": 9,
+      "text": "For I eat ashes like bread and mingle tears with my drink,",
+      "arminianNotes": "Wesley: Bread—dust and ashes are as familiar to me as the eating of my bread; I cover my head with them; I sit, yea, lie down in them, as mourners often did. Tears mix with drink.\n\nArminian pastoral: mourning rites become daily fare. The verse legitimizes grief's diet before God.",
+      "reformedNotes": "Ashes for bread; tears in the cup. The Church's sorrow is liturgical as well as personal.\n\nReformed reading: such mourning looks toward pity on Zion's stones and dust (v. 14), not toward despair as a final word."
+    },
+    {
+      "number": 10,
+      "text": "because of your indignation and anger; for you have taken me up and thrown me down.",
+      "arminianNotes": "Wesley: Lifted me—as a man lifts up a thing as high as he can, that he may cast it to the ground with greater force. Indignation and anger are confessed as God's.\n\nArminian sovereignty: the Most High's anger is real; so is the prayer that seeks mercy. Human agency in sin and the nations' agency in oppression stand under that rule without erasing second causes.",
+      "reformedNotes": "The cause is God's indignation: taken up and thrown down. Calvin elsewhere: captivity is judgment, yet the covenant people are taught to plead mercy from God's free goodness, not from their deserts.\n\nReformed accent: effectual discipline, not bare permission. The same God who threw down will arise and pity Zion.",
+      "keyContrast": "Both confess that the throw-down is the LORD's indignation, not mere bad luck. Arminians typically hold real human and imperial agency under that rule—governed without making every choice a puppet-string. Reformed readers typically hear effectual judgment inside the covenant story: God actually took up and threw down, and the same decree holds the appointed mercy of the verses that follow."
+    },
+    {
+      "number": 11,
+      "text": "My days are like an evening shadow; I wither away like grass.",
+      "arminianNotes": "Evening shadow; grass withering—time nearly gone. The complaint section (vv. 1–11) closes in frailty.\n\nArminian hearing: feel the shortness honestly; then turn. The next verse's \"But you\" is the hinge of hope, not a denial of the shadow.",
+      "reformedNotes": "Days as evening shadow; grass again. Calvin will set this frailty against God's eternity so the Church may not despond.\n\nReformed comfort: human withering is the dark backdrop for \"thou, O LORD, art enthroned forever.\""
+    },
+    {
+      "number": 12,
+      "text": "But you, O LORD, are enthroned forever; you are remembered throughout all generations.",
+      "arminianNotes": "Wesley: Remembrance—thy name, Jehovah, which is called by this very word, God's remembrance, or memorial, and that unto all generations, Exodus 3:15. The turn: forever enthroned over withering days.\n\nArminian reading: God's everlasting memorial grounds prayer. The afflicted cling to who God is when their own days smoke away.",
+      "reformedNotes": "Calvin: calling to remembrance the promises—especially \"I will dwell in the midst of you\"—he represents the godly, though languishing, as partakers of the celestial glory in which God dwells. The memorial is the gracious covenant that begets confidence of mutual relationship.\n\nReformed accent: eternity helps because God has bound himself by word to his people—not as abstract metaphysics alone."
+    },
+    {
+      "number": 13,
+      "text": "You will arise and have pity on Zion; it is the time to favor her; the appointed time has come.",
+      "arminianNotes": "Wesley: The set time—the end of those seventy years which thou hast fixed. Pity and favor arrive on an appointed clock God named.\n\nArminian hearing: prophecy invites prayer, not passivity. The set time is fixed; the people still plead. Mercy is sincerely sought as the captivity nears its end.",
+      "reformedNotes": "Calvin: God is eternal, therefore he will have compassion upon Zion. He sets forth divine mercy as cause—good deserts of men entirely out of the question; free goodness alone. The appointed time refers to Jeremiah's seventy years. Although the time was fixed, the prophet does not cease from prayer; promises do not obscure grace.\n\nReformed accent: the moed is God's good pleasure and promise; prayer uses the promise as argument, tracing safety to mercy alone.",
+      "keyContrast": "Both confess an appointed time to pity Zion fixed by God and pleaded in prayer. Arminians typically emphasize that the set promise sincerely invites the people's cry and hope as captivity ends. Reformed readers typically emphasize free goodness as sole cause—deserts out of the question—while the fixed word stirs confident petition without making mercy hang on human worth."
+    },
+    {
+      "number": 14,
+      "text": "For your servants hold her stones dear and have pity on her dust.",
+      "arminianNotes": "Servants love Zion's stones and pity her dust. Attachment to ruins is covenant affection, not archaeology.\n\nArminian pastoral: love the Church in her brokenness. Prefer her dust to pagan splendor; keep praying for favor.",
+      "reformedNotes": "Calvin: not to be restricted to Cyrus and Darius. God's people alone are his servants who aim to obey his will. The deformed ruins are still the stones of Zion; the faithful's attachment continued when only hideous desolation was seen. The sadder the desolation, the less ought affections to be alienated.\n\nReformed accent: love of the rubble is love of God's consecrated place and promised restoration."
+    },
+    {
+      "number": 15,
+      "text": "Nations will fear the name of the LORD, and all the kings of the earth will fear your glory.",
+      "arminianNotes": "Nations and kings will fear the name and glory. Restoration spills outward into the earth's reverence.\n\nArminian missionary hope: the true God's glory is for the nations' fear and worship, matching Wesley's later note on Gentiles gathering (v. 22).",
+      "reformedNotes": "Calvin's arc: deliverance leads to kings and nations in subjection to God. The rebuilding of Zion is not a private ethnic comfort only.\n\nReformed accent: God's glory publicly vindicated among the nations when he builds Zion."
+    },
+    {
+      "number": 16,
+      "text": "For the LORD builds up Zion; he appears in his glory;",
+      "arminianNotes": "The LORD builds; he appears in glory. Human builders serve; the builder is the LORD.\n\nArminian reading: glory's appearing answers the hidden face of v. 2. Pray for building; credit God when stones rise.",
+      "reformedNotes": "The LORD himself builds Zion and appears in his glory. Calvin: arising is God making his majesty apparent in the external act while remaining immutable.\n\nReformed comfort: Zion's rise is God's work displayed, the mercy of which vv. 13–14 pleaded."
+    },
+    {
+      "number": 17,
+      "text": "he regards the prayer of the destitute and does not despise their prayer.",
+      "arminianNotes": "He regards and does not despise the destitute's prayer. The cry of vv. 1–2 is answered in principle here.\n\nArminian pastoral: destitution is not a disqualification. Bring the faint prayer; it is not despised.",
+      "reformedNotes": "God regards the prayer of the destitute. Calvin's opening: the Spirit dictates this form so the shut-up may still pour out meditation before Jehovah.\n\nReformed accent: the destitute are heard because of covenant mercy, not because poverty purchases favor."
+    },
+    {
+      "number": 18,
+      "text": "Let this be recorded for a generation to come, so that a people yet to be created may praise the LORD:",
+      "arminianNotes": "Wesley: This—this wonderful deliverance shall be carefully recorded by thy people. A people yet to be created will praise.\n\nArminian hearing: praise spans generations. Record mercy so the unborn church may sing; evangelism and memory belong together.",
+      "reformedNotes": "Let it be written for a future generation and a people yet created. Calvin stresses encouraging greater care for the Church's welfare and confidence from God's word.\n\nReformed accent: providence writes history for praise; the future people are God's to create and keep."
+    },
+    {
+      "number": 19,
+      "text": "that he looked down from his holy height; from heaven the LORD looked at the earth,",
+      "arminianNotes": "Wesley: Looked—from heaven. Holy height to earth: transcendence that still sees.\n\nArminian reading: heaven's look is attentive mercy. The God enthroned forever (v. 12) is not distant in care.",
+      "reformedNotes": "From his holy height the LORD looked at the earth. The look precedes loosing prisoners (v. 20).\n\nReformed accent: divine survey is the prelude to redemption acts, not bare observation."
+    },
+    {
+      "number": 20,
+      "text": "to hear the groans of the prisoners, to set free those who were doomed to die,",
+      "arminianNotes": "Wesley: To loose—to release his poor captives out of Babylon, and from the chains of sin and eternal destruction. Double freedom: exile and deeper bondage.\n\nArminian gospel: groans heard; the doomed set free. The release is sincerely for captives who cry; both temporal and eternal loosing are in view.",
+      "reformedNotes": "To hear prisoners' groans and loose those appointed to death. Calvin's captivity frame: God restores temple and city and frees his people according to promise.\n\nReformed accent: the loosing is God's effectual pity on Zion's prisoners, the fruit of the appointed time."
+    },
+    {
+      "number": 21,
+      "text": "that they may declare in Zion the name of the LORD, and in Jerusalem his praise,",
+      "arminianNotes": "Wesley: To declare—that they might publish the name and praises of God in his church. Freedom's end is praise in Zion.\n\nArminian pastoral: salvation aims at declaration. Freed mouths fill Jerusalem with the name.",
+      "reformedNotes": "Declaration of the name and praise in Zion and Jerusalem. Restoration serves worship.\n\nReformed reading: the Church's public praise is why prisoners are loosed—God's glory in the midst of his people."
+    },
+    {
+      "number": 22,
+      "text": "when peoples gather together, and kingdoms, to worship the LORD.",
+      "arminianNotes": "Wesley: When—when the Gentiles shall gather themselves to the Jews, and join with them in the worship of the true God. Peoples and kingdoms assemble.\n\nArminian missionary: one worship for Jew and Gentile. The gathering is real hope for the nations' true praise.",
+      "reformedNotes": "Peoples and kingdoms gather to worship. Calvin: the poem beseeches God to bring kings and nations in subjection to himself.\n\nReformed accent: Zion's rebuilding has a catholic horizon—the nations' worship under the one LORD."
+    },
+    {
+      "number": 23,
+      "text": "He has broken my strength in midcourse; he has shortened my days.",
+      "arminianNotes": "Wesley: He—God. The way—in the midst of the course of our lives. Some think the psalmist speaks of the whole commonwealth as of one man. Strength broken midcourse; days shortened.\n\nArminian hearing: personal and corporate frailty intertwine. The plea that follows seeks life until promises ripen—especially the Messiah.",
+      "reformedNotes": "Calvin: the manifestation of Christ was the goal of the race; they complain of being afflicted in midcourse. Days shortened as they looked to the fullness of time at Christ's revealing. They do not find fault as if God deceived; they strengthen hope of a favorable issue.\n\nReformed accent: midcourse is measured toward the Messiah's day; captivity felt like a violent shortening of that life."
+    },
+    {
+      "number": 24,
+      "text": "\"O my God,\" I say, \"take me not away in the midst of my days—you whose years endure throughout all generations!\"",
+      "arminianNotes": "Wesley: Do not wholly destroy thy people Israel. In the midst—before they come to a full possession of thy promises and especially of that fundamental promise of the Messiah. Thy years—though we die, yet thou art the everlasting God.\n\nArminian christology (shared): the fundamental promise of the Messiah anchors the plea. Keep a people until the Christ is possessed in fullness of promise.",
+      "reformedNotes": "Calvin: cut me not off in the midst of my days—the Church's perfect age arrives at Christ's coming. They plead the covenant that God would maintain them until he renewed the world under the Anointed. His years from generation to generation ground confidence because he is eternal in his word as well as essence.\n\nReformed and shared: the midst of days is before the Messianic fullness; God's everlasting years secure the plea."
+    },
+    {
+      "number": 25,
+      "text": "Of old you laid the foundation of the earth, and the heavens are the work of your hands.",
+      "arminianNotes": "Of old: earth founded; heavens the work of your hands. Creator address in the afflicted's mouth.\n\nShared christology: Hebrews 1:10–12 applies this to the Son. Wesley's Messiah-promise (v. 24) meets the apostolic reading—both camps confess the Creator spoken of here as the eternal Christ.",
+      "reformedNotes": "Calvin: compared with God the whole world is a form that vanishes; yet the Church is upheld by his word. Hebrews 1 applies these verses to Christ—Jehovah, Creator, eternal and immutable—proof of his essential divinity.\n\nShared with Arminians: apostolic christology stands. The hands that founded earth are the Son's; camps agree here against Arian subtraction."
+    },
+    {
+      "number": 26,
+      "text": "They will perish, but you will remain; they will all wear out like a garment. You will change them like a robe, and they will pass away,",
+      "arminianNotes": "Wesley: Perish—as to their present nature and use. Heavens and earth wear out; God remains. Change like a robe.\n\nShared christology: Hebrews cites the wearing out and remaining of the Son. Creation's mortality underlines the Savior's permanence both camps preach.",
+      "reformedNotes": "Calvin: heavens shall perish—subject to corruption through the fall, and so renewed as to warrant saying they perish. Seek stability nowhere but in God. The apostolic use in Hebrews identifies this remaining One as Christ.\n\nReformed and shared: mutable creation, immutable Christ. The Church's hope is not the garment of the cosmos but the One who changes it."
+    },
+    {
+      "number": 27,
+      "text": "but you are the same, and your years have no end.",
+      "arminianNotes": "You are the same; years have no end. Immutability comforts the midcourse cry.\n\nShared christology: \"thou art the same\" is read of Christ in Hebrews 1 and echoes in Hebrews 13:8. Both camps refuse a mutable redeemer.",
+      "reformedNotes": "Calvin: But thou art He—the Eternal, necessarily eternal, unchangeable and imperishable. Years shall not fail. Applied to Christ: eternity and immutability ascribed to him who is called Jehovah.\n\nShared confession: the sameness of God is the sameness of the Son. Affliction's answer is an unchanging Christ."
+    },
+    {
+      "number": 28,
+      "text": "The children of your servants shall dwell secure; their offspring shall be established before you.",
+      "arminianNotes": "Wesley: Continue—though the heavens and earth perish, yet we rest assured that our children, and their children after them, shall enjoy an happy restitution to, and settlement in their own land. Security of offspring after cosmic wearing.\n\nArminian reading: promise to servants' children invites faith and obedience across generations. Restitution is trusted; children must still walk as servants' seed, not presume on blood alone.",
+      "reformedNotes": "Calvin: he asks the Church's preservation not as a mere part of the human race but because God raised it above the world's revolutions. Dwell means an abiding inheritance. Seed means not all descendants without exception—many degenerate—but those who do not turn aside from their parents' faith. The covenant extends to future ages; cast the anchor of faith in heaven.\n\nReformed accent: establishment before God's face is holy union and electing faithfulness, not bare biology.",
+      "keyContrast": "Both confess that servants' children will dwell when heavens wear out, and both read vv. 25–27 of Christ with Hebrews. Arminians typically hear a sincere multigenerational promise of restitution that children must receive and keep as living servants. Reformed readers typically hear God establishing the Church's seed by covenant—true offspring being those who do not turn from the faith—secured by the immutable Christ rather than by an unbroken human hold alone."
+    }
+  ]
+}

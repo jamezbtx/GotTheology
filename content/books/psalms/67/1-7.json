@@ -1,0 +1,75 @@
+{
+  "book": "Psalms",
+  "bookSlug": "psalms",
+  "chapter": 67,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "ESV",
+  "title": "Psalm 67:1–7",
+  "context": "To the choirmaster: with stringed instruments. A Psalm. A Song. Israel asks the Aaronic grace of shining face so that God's way and saving power may be known among all nations; the peoples and nations are summoned to praise, gladness, and joy under equitable judgment and guidance; earth yields increase; and blessing on \"us\" aims at holy fear to the ends of the earth.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Historic words on the shining face for the sake of the nations, universal praise, and blessing that ends in worldwide fear of God—so each camp speaks in its own voice beside Psalm 67:1–7.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Merciful—as thou wast to Israel in the wilderness. Face shine—show us thy favour. Way—thy counsel and gracious providence. Saving health—thy salvation. People—all nations. Glad—in the experience of thy grace. Judge—govern. Increase—fruits of the earth. Fear—worship and serve him.",
+        "cite": "John Wesley",
+        "source": "Explanatory Notes upon the Old Testament, Psalm 67"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "God be merciful and bless us and cause His face to shine—that His way may be known upon earth and His saving health among all nations. Let the people praise Him, all the people; let the nations be glad, for He judges righteously and governs the nations. The earth yields her increase; God our God shall bless us, and all the ends of the earth shall fear Him.",
+        "cite": "John Calvin",
+        "source": "Commentary on the Psalms, Psalm 67"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 1,
+      "text": "May God be gracious to us and bless us and make his face to shine upon us, Selah",
+      "arminianNotes": "May God be gracious to us and bless us and make his face to shine upon us. Wesley: Merciful—as thou wast to Israel in the wilderness. Face shine—show us thy favour. Aaronic blessing adapted for the people.\n\nArminian pastoral: shared—ask grace, blessing, shining face. The priestly formula becomes congregational prayer; seek favor that overflows beyond yourselves.",
+      "reformedNotes": "Calvin: God be merciful and bless us and cause His face to shine—the Church borrows Aaron's blessing. Favor is asked not for selfish ends alone.\n\nReformed pastoral: shared—shine upon us is covenant mercy. Selah pauses over requested grace before the missionary purpose of v. 2."
+    },
+    {
+      "number": 2,
+      "text": "that your way may be known on earth, your saving power among all nations.",
+      "arminianNotes": "That your way may be known on earth, your saving power among all nations. Wesley: Way—thy counsel and gracious providence. Saving health—thy salvation. Blessing on us aims at knowledge among nations.\n\nArminian pastoral: shared mission—grace received is grace to be known. Pray for blessing so the earth's peoples learn God's way and saving power.",
+      "reformedNotes": "Calvin: that Thy way may be known upon earth and Thy saving health among all nations—Israel's blessing serves worldwide revelation.\n\nReformed pastoral: shared—election of the blessed people aims at the nations' knowledge. Saving health is not hoarded."
+    },
+    {
+      "number": 3,
+      "text": "Let the peoples praise you, O God; let all the peoples praise you!",
+      "arminianNotes": "Let the peoples praise you, O God; let all the peoples praise you! Wesley: People—all nations. Double plea for universal praise.\n\nArminian pastoral: shared—urge all peoples to praise. Repeat the cry until it becomes the earth's habit; evangelism loves this refrain.",
+      "reformedNotes": "Calvin: let the people praise Thee—all the people. The psalm will not rest with a partial choir.\n\nReformed pastoral: shared catholic doxology. All peoples are summoned because God's way is for all nations (v. 2)."
+    },
+    {
+      "number": 4,
+      "text": "Let the nations be glad and sing for joy, for you judge the peoples with equity and guide the nations upon earth. Selah",
+      "arminianNotes": "Let the nations be glad and sing for joy, for you judge the peoples with equity and guide the nations upon earth. Wesley: Glad—in the experience of thy grace. Judge—govern. Equity and guidance make nations sing.\n\nArminian pastoral: shared—gladness under just rule. Nations may rejoice in God's equitable judgment and guidance; pray for rulers and peoples to come under that joy.",
+      "reformedNotes": "Calvin: O let the nations be glad—He shall judge the people righteously and govern the nations. Joy rests on righteous government from God.\n\nReformed pastoral: shared—equity is ground of song. Guide the nations is pastoral sovereignty over history."
+    },
+    {
+      "number": 5,
+      "text": "Let the peoples praise you, O God; let all the peoples praise you!",
+      "arminianNotes": "Let the peoples praise you, O God; let all the peoples praise you! Wesley repeats the chorus. Refrain drives the point home.\n\nArminian pastoral: shared—sing it again. Persistence in missionary praise matches persistence in prayer for shining favor.",
+      "reformedNotes": "Calvin returns to the same petition—praise from all people is the psalm's heartbeat.\n\nReformed pastoral: shared—repetition is theology. All peoples again; no nation left outside the summons."
+    },
+    {
+      "number": 6,
+      "text": "The earth has yielded its increase; God, our God, shall bless us.",
+      "arminianNotes": "The earth has yielded its increase; God, our God, shall bless us. Wesley: Increase—fruits of the earth. Harvest confirms \"our God\" will bless.\n\nArminian pastoral: shared gratitude—yielded increase points to further blessing. Read providence in fields as pledge of \"shall bless.\"",
+      "reformedNotes": "Calvin: then shall the earth yield her increase; God, even our God, shall bless us—fruitfulness accompanies favor.\n\nReformed pastoral: shared—material increase under spiritual blessing. \"Our God\" claims covenant nearness."
+    },
+    {
+      "number": 7,
+      "text": "God shall bless us; let all the ends of the earth fear him!",
+      "arminianNotes": "God shall bless us; let all the ends of the earth fear him! Wesley: Fear—worship and serve him. Blessing on the Church ends in worldwide fear of God.\n\nArminian pastoral: shared finale—blessed people, fearing ends of the earth. Receive blessing so that distant lands learn holy fear; do not stop at \"us.\"",
+      "reformedNotes": "Calvin: God shall bless us, and all the ends of the earth shall fear Him—blessing issued, reverence global.\n\nReformed pastoral: shared—fear at the ends is the goal of blessing at the center. Doxological mission closes the song."
+    }
+  ]
+}
