@@ -2,8 +2,8 @@
   "kind": "doctrine",
   "slug": "regeneration",
   "title": "Regeneration",
-  "summary": "The Spirit makes the dead alive in Christ—both camps preach a real new birth, not mere turning over a new leaf; they part over whether that birth can be resisted, and whether it precedes faith or is given with it.",
-  "context": "Regeneration is new birth: God raising a person from spiritual death. Jesus tells Nicodemus he must be born from above; Paul says we were dead in trespasses and God made us alive; Titus names the washing of regeneration and renewal of the Holy Spirit. The shared confession is that fallen people need a work God does in us, not only a message we approve. The fork is the mode: irresistible new creation, or a birth bound up with a grace that can be refused.",
+  "summary": "The Spirit makes the dead alive in Christ—both camps preach a new birth, not mere turning over a new leaf; they part over whether that birth can be resisted, and whether it precedes faith or is given with it.",
+  "context": "Regeneration is new birth: God raising a person from spiritual death. Jesus tells Nicodemus he must be born from above; Paul says we were dead in trespasses and God made us alive; Titus names the washing of regeneration and renewing by the Holy Spirit. The shared confession is that fallen people need a work God does in us, not only a message we approve. The fork is the mode: irresistible new creation, or a birth bound up with a grace that can be refused.",
   "showVoices": true,
   "voices": {
     "eyebrow": "From the tradition",
@@ -45,9 +45,9 @@
       }
     ]
   },
-  "arminianNotes": "Wesley’s New Birth is as supernatural as anything in Dort: almighty Spirit, created anew, raised from the death of sin. Arminians are not preaching self-improvement. They locate the birth with justification in time—God’s work for us and in us together—and they refuse a mode of grace that cannot be resisted.\n\nPreventing (prevenient) grace is the Arminian account of how a dead sinner can believe. God takes the initiative; the Spirit convicts, enlightens, and enables. Nicodemus is told he must be born from above, and the gospel is still a command and an invitation. The will, restored enough to respond, may yield or refuse.\n\nJohn 3 and Ephesians 2 are therefore not denied as texts of divine action. They are denied as texts of irresistible action. “You he made alive” is God’s mercy; “whoever believes” remains a real address. Pastoral Arminian preaching presses urgency: do not resist the Spirit who is already at work.",
+  "arminianNotes": "Wesley’s New Birth is as supernatural as anything in Dort: almighty Spirit, created anew, raised from the death of sin. Arminians are not preaching self-improvement. They locate the birth with justification in time—God’s work for us and in us together—and they refuse a mode of grace that cannot be resisted.\n\nPreventing (prevenient) grace is the Arminian account of how a dead sinner can believe. God takes the initiative; the Spirit convicts, enlightens, and enables. Nicodemus is told he must be born from above, and the gospel is still a command and an invitation. The will, restored enough to respond, may yield or refuse.\n\nJohn 3 and Ephesians 2 are therefore not denied as texts of divine action. They are denied as texts of irresistible action. “You he made alive” is God’s mercy; “whoever believes” remains an earnest address. Pastoral Arminian preaching presses urgency: do not resist the Spirit who is already at work.",
   "reformedNotes": "Dort calls regeneration a raising from the dead that God works “without our aid”—not because the person is a stone afterward, but because the spiritually dead do not cooperate in their first coming to life. Moral suasion (argument, example, appeal) is not enough. The Spirit supernaturally gives a new heart, and that heart believes.\n\nOn this reading, new birth precedes faith in the order of nature (if not always in our awareness). “No one can come unless the Father draws” is effectual drawing. The same God who commands also creates the response. Dead in trespasses is more than wounded; it is inability that grace overcomes, not merely assists.\n\nPastoral Reformed preaching uses this for humility (you did not raise yourself) and hope (God can raise the most unlikely). It should not be heard as making evangelism pointless: the Spirit uses the Word. The fork is whether the decisive moment is a new heart that cannot finally refuse, or an enabled will that still can.",
-  "keyContrast": "Both preach a Spirit-wrought new creation. Arminians typically bind new birth to resistible, enabling grace and to faith as a real response; the Reformed typically treat regeneration as an effectual, supernatural raising that produces faith rather than waiting on it.",
+  "keyContrast": "Both preach a Spirit-wrought new creation. Arminians typically bind new birth to resistible, enabling grace and to faith as a response; the Reformed typically treat regeneration as an effectual, supernatural raising that produces faith rather than waiting on it.",
   "scripture": [
     {
       "book": "Isaiah",
@@ -57,7 +57,7 @@
       "verseEnd": 13,
       "title": "Isaiah 55:1–13",
       "href": "/bible/isaiah/55/1-13.html",
-      "why": "Come, everyone who thirsts, come to the waters—an invitation to life."
+      "why": "Come, everyone who thirsts, to the waters—an invitation to life."
     },
     {
       "book": "Hebrews",
@@ -67,7 +67,7 @@
       "verseEnd": 13,
       "title": "Hebrews 8:1–13",
       "href": "/bible/hebrews/8/1-13.html",
-      "why": "A new covenant: I will put my laws into their minds and write them on their hearts."
+      "why": "A new covenant: I will put my laws into their mind; I will also write them on their hearts."
     },
     {
       "book": "Psalms",
@@ -77,7 +77,7 @@
       "verseEnd": 19,
       "title": "Psalm 51:1–19",
       "href": "/bible/psalms/51/1-19.html",
-      "why": "Create in me a clean heart, O God, and renew a right spirit within me."
+      "why": "Create in me a clean heart, O God. Renew a right spirit within me."
     },
     {
       "book": "John",
@@ -87,7 +87,7 @@
       "verseEnd": 21,
       "title": "John 3:1–21",
       "href": "/bible/john/3/1-21.html",
-      "why": "You must be born again—born of water and the Spirit."
+      "why": "You must all be born anew—born of water and Spirit."
     },
     {
       "book": "Ephesians",
@@ -107,7 +107,7 @@
       "verseEnd": 8,
       "title": "Titus 3:1–8",
       "href": "/bible/titus/3/1-8.html",
-      "why": "The washing of regeneration and renewal of the Holy Spirit."
+      "why": "The washing of regeneration and renewing by the Holy Spirit."
     },
     {
       "book": "John",
@@ -157,7 +157,7 @@
       "verseEnd": 10,
       "title": "1 John 3:1–10",
       "href": "/bible/1-john/3/1-10.html",
-      "why": "No one born of God makes a practice of sinning."
+      "why": "Whoever is born of God doesn’t commit sin."
     },
     {
       "book": "1 John",
@@ -167,7 +167,7 @@
       "verseEnd": 12,
       "title": "1 John 5:1–12",
       "href": "/bible/1-john/5/1-12.html",
-      "why": "Everyone who believes that Jesus is the Christ has been born of God."
+      "why": "Whoever believes that Jesus is the Christ has been born of God."
     }
   ]
 }

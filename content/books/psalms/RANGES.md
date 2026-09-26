@@ -1,7 +1,7 @@
-# Psalms ESV verse ranges
+# Psalms verse ranges
 
 Paths: `content/books/psalms/<ch>/<start>-<end>.json` (hyphen in filenames; en-dash in display titles).
-ESV / standard Protestant verse numbering (superscriptions not counted as verses).
+Standard Protestant verse numbering (superscriptions not counted as verses).
 
 **Total planned ranges: 171** (149 whole psalms + 22 stanzas for Psalm 119).
 

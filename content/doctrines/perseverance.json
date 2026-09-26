@@ -2,7 +2,7 @@
   "kind": "doctrine",
   "slug": "perseverance",
   "title": "Perseverance",
-  "summary": "Those in Christ are called to abide, and God is faithful—both camps take the warnings and the promises as real; they part over whether a true believer can finally fall away.",
+  "summary": "Those in Christ are called to abide, and God is faithful—both camps take the warnings and the promises seriously; they part over whether a true believer can finally fall away.",
   "context": "Perseverance names the question: will those who have believed be kept to the end? Jesus speaks of branches in the vine that are cut off, of sheep who will never perish, of disciples who walk away. Paul endures “for the sake of the elect,” quotes a trustworthy saying about dying and living with Christ, and names Demas who loved this present world. Arminian and Reformed readers both refuse cheap grace. They disagree whether the warnings describe the ruin of the truly regenerate, or the means by which God keeps his own.",
   "showVoices": true,
   "voices": {
@@ -45,8 +45,8 @@
       }
     ]
   },
-  "arminianNotes": "Wesley reads the vine, Hebrews, and “shipwreck of faith” as speaking of real believers. If Scripture warns the righteous that turning away means death, the warning is not a charade. Abiding is a living relation, not a stamp applied once. The Remonstrance itself was cautious: Article V left the question to further study. Later Arminians, and Wesley with them, concluded that falling is possible.\n\nThis is not a claim that God is unfaithful. It is a claim that grace remains resistible after conversion. The Spirit keeps those who continue to believe; he does not make apostasy metaphysically impossible. John 10’s “never perish” is heard as the safety of those who hear and follow, not as a guarantee irrespective of later unbelief.\n\nPastoral Arminian preaching uses the warnings as warnings. Comfort is real for those who abide. Demas is a sobering name, not a proof that he was “never of us.” The fork is whether the New Testament’s severe texts describe the regenerate or only the almost-regenerate.",
-  "reformedNotes": "Dort’s Fifth Head is more careful than slogans. Left to themselves, the converted would fall. God is faithful: he confirms and preserves. With respect to us, ruin is possible; with respect to God’s counsel, promise, and call, it is not. Westminster says the same in shorter form: those accepted, called, and sanctified shall certainly persevere.\n\nWarnings, on this reading, are one of the means of preservation. The sheep hear; they follow; they are kept. Those who go out “were not of us.” John 10 and John 6 (“I will raise him up”) are taken as Christ’s own pledge, not as a description of a class that might empty out. Temporary faith is real as experience and false as root.\n\nPastoral Reformed preaching can still be severe against presumption. Perseverance is of the saints, not of the careless. Assurance is looking to Christ’s hold, not to our grip. The fork is whether a person born of God can finally be unborn.",
+  "arminianNotes": "Wesley reads the vine, Hebrews, and “shipwreck of faith” as speaking of true believers. If Scripture warns the righteous that turning away means death, the warning is not a charade. Abiding is a living relation, not a stamp applied once. The Remonstrance itself was cautious: Article V left the question to further study. Later Arminians, and Wesley with them, concluded that falling is possible.\n\nThis is not a claim that God is unfaithful. It is a claim that grace remains resistible after conversion. The Spirit keeps those who continue to believe; he does not make apostasy metaphysically impossible. John 10’s “never perish” is heard as the safety of those who hear and follow, not as a guarantee irrespective of later unbelief.\n\nPastoral Arminian preaching uses the warnings as warnings. Comfort is serious for those who abide. Demas is a sobering name, not a proof that he was “never of us.” The fork is whether the New Testament’s severe texts describe the regenerate or only the almost-regenerate.",
+  "reformedNotes": "Dort’s Fifth Head is more careful than slogans. Left to themselves, the converted would fall. God is faithful: he confirms and preserves. With respect to us, ruin is possible; with respect to God’s counsel, promise, and call, it is not. Westminster says the same in shorter form: those accepted, called, and sanctified shall certainly persevere.\n\nWarnings, on this reading, are one of the means of preservation. The sheep hear; they follow; they are kept. Those who go out “were not of us.” John 10 and John 6 (“I will raise him up”) are taken as Christ’s own pledge, not as a description of a class that might empty out. Temporary faith is true as experience and false as root.\n\nPastoral Reformed preaching can still be severe against presumption. Perseverance is of the saints, not of the careless. Assurance is looking to Christ’s hold, not to our grip. The fork is whether a person born of God can finally be unborn.",
   "keyContrast": "Arminians typically teach that a truly regenerate believer may finally fall by ceasing to believe; the Reformed typically teach that those whom God has accepted and called will be preserved—warnings included as means—so that apostasy proves a faith that was not saving.",
   "scripture": [
     {
@@ -57,7 +57,7 @@
       "verseEnd": 13,
       "title": "Isaiah 46:1–13",
       "href": "/bible/isaiah/46/1-13.html",
-      "why": "Even to your old age I am he; I will carry you and will save."
+      "why": "Even to old age I am he; I will carry you and will save."
     },
     {
       "book": "Hebrews",
@@ -67,7 +67,7 @@
       "verseEnd": 39,
       "title": "Hebrews 10:32–39",
       "href": "/bible/hebrews/10/32-39.html",
-      "why": "You have need of endurance; we are not of those who shrink back but of those who have faith."
+      "why": "You need endurance; we are not of those who shrink back but of those who have faith."
     },
     {
       "book": "Hebrews",
@@ -107,7 +107,7 @@
       "verseEnd": 42,
       "title": "John 10:22–42",
       "href": "/bible/john/10/22-42.html",
-      "why": "I give them eternal life, and they will never perish; no one will snatch them out of my hand."
+      "why": "I give eternal life to them. They will never perish; no one will snatch them out of my hand."
     },
     {
       "book": "John",
@@ -117,7 +117,7 @@
       "verseEnd": 40,
       "title": "John 6:22–40",
       "href": "/bible/john/6/22-40.html",
-      "why": "Whoever comes I will never cast out; I will raise him up on the last day."
+      "why": "Whoever comes I will in no way throw out; I will raise him up at the last day."
     },
     {
       "book": "John",
@@ -137,7 +137,7 @@
       "verseEnd": 15,
       "title": "2 Timothy 4:9–15",
       "href": "/bible/2-timothy/4/9-15.html",
-      "why": "Demas, in love with this present world, has deserted Paul."
+      "why": "Demas left me, having loved this present world, has deserted Paul."
     },
     {
       "book": "Romans",
@@ -147,7 +147,7 @@
       "verseEnd": 30,
       "title": "Romans 8:18–30",
       "href": "/bible/romans/8/18-30.html",
-      "why": "Those he justified he also glorified—the golden chain."
+      "why": "Those he justified, those he also glorified—the golden chain."
     },
     {
       "book": "1 John",
@@ -167,7 +167,7 @@
       "verseEnd": 27,
       "title": "1 John 2:18–27",
       "href": "/bible/1-john/2/18-27.html",
-      "why": "They went out from us, but they were not of us."
+      "why": "They went out from us, but they didn’t belong to us."
     },
     {
       "book": "Romans",
@@ -177,7 +177,7 @@
       "verseEnd": 39,
       "title": "Romans 8:31–39",
       "href": "/bible/romans/8/31-39.html",
-      "why": "Nothing shall separate us from the love of God in Christ Jesus."
+      "why": "Nothing shall separate us from the love of Is in Christ Jesus."
     },
     {
       "book": "Daniel",

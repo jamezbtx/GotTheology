@@ -45,8 +45,8 @@
       }
     ]
   },
-  "arminianNotes": "Classical Arminians do not deny election. They deny that it is an unconditional selection of some individuals irrespective of faith. Arminius ordered God’s decrees so that Christ is appointed Savior first, then the condition of faith, then sufficient means, and only then the naming of particular persons—on the basis of foreseen, grace-enabled believing and persevering.\n\n“In Christ” is often read corporately: the Son is the Elect One, and those joined to him by a real (enabled, not coerced) faith share his chosen status. Wesley’s “free in all and free for all” insists that the offer is sincere. Preventing grace restores the ability to respond; it does not irresistibly determine who will.\n\nPastoral weight falls on assurance that God is not playing favorites by secret exclusion, and on the warning that unbelief is a genuine refusal, not a script already written without us. Election, on this reading, magnifies mercy that seeks and enables, not a decree that bypasses the will.",
-  "reformedNotes": "Reformed confession treats election as personal, eternal, and unconditional. Before creation the Father set his love on a people in the Son—not because he foresaw their faith, but so that they would believe. Faith is the fruit of election, not its cause. The Canons of Dort locate the choice “out of mere grace” in a fallen race where none were worthier than the rest.\n\n“In Christ” names the sphere and Mediator of the choice: the elect are given to the Son, called, justified, sanctified, and finally glorified. Calvin’s language of a double decree is stark; later Reformed writers often speak with more pastoral reserve about reprobation, yet they still refuse to make foreseen faith the ground of God’s choice.\n\nPastoral weight falls on humility and comfort. If the deciding love is God’s, then assurance does not rest on the quality of our choosing, and praise—“to the praise of his glorious grace”—is the fitting end. The same writers insist this is not license: holiness is the appointed purpose of the choosing.",
+  "arminianNotes": "Classical Arminians do not deny election. They deny that it is an unconditional selection of some individuals irrespective of faith. Arminius ordered God’s decrees so that Christ is appointed Savior first, then the condition of faith, then sufficient means, and only then the naming of particular persons—on the basis of foreseen, grace-enabled believing and persevering.\n\n“In Christ” is often read corporately: the Son is the Elect One, and those joined to him by a true (enabled, not coerced) faith share his chosen status. Wesley’s “free in all and free for all” insists that the offer is sincere. Preventing grace restores the ability to respond; it does not irresistibly determine who will.\n\nPastoral weight falls on assurance that God is not playing favorites by secret exclusion, and on the warning that unbelief is a refusal, not a script already written without us. Election, on this reading, magnifies mercy that seeks and enables, not a decree that bypasses the will.",
+  "reformedNotes": "Reformed confession treats election as personal, eternal, and unconditional. Before creation the Father set his love on a people in the Son—not because he foresaw their faith, but so that they would believe. Faith grows from election, not its cause. The Canons of Dort locate the choice “out of mere grace” in a fallen race where none were worthier than the rest.\n\n“In Christ” names the sphere and Mediator of the choice: the elect are given to the Son, called, justified, sanctified, and finally glorified. Calvin’s language of a double decree is stark; later Reformed writers often speak with more pastoral reserve about reprobation, yet they still refuse to make foreseen faith the ground of God’s choice.\n\nPastoral weight falls on humility and comfort. If the deciding love is God’s, then assurance does not rest on the quality of our choosing, and praise—“to the praise of his glorious grace”—is the fitting end. The same writers insist this is not license: holiness is the appointed purpose of the choosing.",
   "keyContrast": "Arminian readings typically make foreseen, grace-enabled faith (or entry into the elect body in Christ) the difference between the chosen and the rest; Reformed readings make God’s unconditional choice the difference, with faith as the effectual result.",
   "scripture": [
     {
@@ -67,7 +67,7 @@
       "verseEnd": 7,
       "title": "Isaiah 49:1–7",
       "href": "/bible/isaiah/49/1-7.html",
-      "why": "The Lord called me from the womb; formed me to be his servant."
+      "why": "The LORD has called me from the womb; formed me to be his servant."
     },
     {
       "book": "Hebrews",
@@ -77,7 +77,7 @@
       "verseEnd": 18,
       "title": "Hebrews 2:10–18",
       "href": "/bible/hebrews/2/10-18.html",
-      "why": "Bringing many sons to glory—the pioneer of their salvation made perfect through suffering."
+      "why": "Bringing many children to glory—the pioneer of their salvation made perfect through suffering."
     },
     {
       "book": "Ephesians",
@@ -107,7 +107,7 @@
       "verseEnd": 40,
       "title": "John 6:22–40",
       "href": "/bible/john/6/22-40.html",
-      "why": "All that the Father gives the Son will come; whoever comes he will never cast out."
+      "why": "All those whom the Father gives the Son will come; whoever comes he will in no way throw out."
     },
     {
       "book": "John",
@@ -127,7 +127,7 @@
       "verseEnd": 13,
       "title": "2 Timothy 2:8–13",
       "href": "/bible/2-timothy/2/8-13.html",
-      "why": "I endure everything for the sake of the elect, that they also may obtain salvation."
+      "why": "I endure all things for the chosen ones sake, that they also may obtain salvation."
     },
     {
       "book": "Titus",
@@ -137,7 +137,7 @@
       "verseEnd": 4,
       "title": "Titus 1:1–4",
       "href": "/bible/titus/1/1-4.html",
-      "why": "Paul a servant “for the sake of the faith of God’s elect.”"
+      "why": "Paul a servant “according to the faith of God’s chosen ones.”"
     },
     {
       "book": "Matthew",
@@ -157,7 +157,7 @@
       "verseEnd": 34,
       "title": "Genesis 25:19–34",
       "href": "/bible/genesis/25/19-34.html",
-      "why": "The twins in Rebekah’s womb—the older shall serve the younger."
+      "why": "The twins in Rebekah’s womb—the elder will serve the younger."
     },
     {
       "book": "Romans",
@@ -167,7 +167,7 @@
       "verseEnd": 30,
       "title": "Romans 8:18–30",
       "href": "/bible/romans/8/18-30.html",
-      "why": "Those he predestined he also called, justified, glorified."
+      "why": "Those he predestined, those he also called, justified, glorified."
     },
     {
       "book": "Romans",
@@ -187,7 +187,7 @@
       "verseEnd": 13,
       "title": "Romans 9:1–13",
       "href": "/bible/romans/9/1-13.html",
-      "why": "Jacob I loved, Esau I hated—God’s purpose of election."
+      "why": "Jacob I loved, Esau I hated—The purpose of God according to election."
     }
   ]
 }

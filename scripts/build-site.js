@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { execSync } from "node:child_process";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -15,6 +16,51 @@ const ATTRIBUTES_OUT = path.join(PUBLIC, "attributes");
 const VOICES_PATH = path.join(CONTENT, "voices.json");
 const YEAR = new Date().getFullYear();
 const SITE_ORIGIN = "https://got-theology.com";
+const ADSENSE_SCRIPT =
+  '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>';
+const SCRIPTURE_NOTICE = "Scripture quotations are from the World English Bible (WEB), public domain.";
+const DEFAULT_TRANSLATION = "WEB";
+let LIVE_BOOKS_LABEL = "More books";
+const TODAY = new Date().toLocaleDateString("en-CA"); // YYYY-MM-DD in local time
+
+// Last-modified date (YYYY-MM-DD) per repo path, from git history; uncommitted edits count as today.
+let GIT_DATES = null;
+function gitDates() {
+  if (GIT_DATES) return GIT_DATES;
+  GIT_DATES = new Map();
+  try {
+    const log = execSync("git log --format=@%cs --name-only", { cwd: ROOT, encoding: "utf8", maxBuffer: 64 * 1024 * 1024 });
+    let date = null;
+    for (const line of log.split("\n")) {
+      if (line.startsWith("@")) date = line.slice(1);
+      else if (line && date && !GIT_DATES.has(line)) GIT_DATES.set(line, date);
+    }
+    const status = execSync("git status --porcelain", { cwd: ROOT, encoding: "utf8", maxBuffer: 64 * 1024 * 1024 });
+    for (const line of status.split("\n")) {
+      const f = line.slice(3).trim();
+      if (f) GIT_DATES.set(f, TODAY);
+    }
+  } catch (err) {
+    console.warn("  note: git dates unavailable; sitemap lastmod uses today");
+  }
+  return GIT_DATES;
+}
+function lastmodFor(files) {
+  const dates = gitDates();
+  let best = null;
+  for (const f of files) {
+    const rel = path.relative(ROOT, f).split(path.sep).join("/");
+    const d = dates.get(rel) || TODAY;
+    if (!best || d > best) best = d;
+  }
+  return best || TODAY;
+}
+
+function joinList(names) {
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return names[0] + " and " + names[1];
+  return names.slice(0, -1).join(", ") + ", and " + names[names.length - 1];
+}
 
 
 const CANONICAL_BOOKS = [
@@ -129,7 +175,7 @@ function verseFileStem(verseStart, verseEnd) {
 
 
 function passageUrl(bookSlug, chapter, verseStart, verseEnd) {
-  return "/bible/" + bookSlug + "/" + chapter + "/" + verseFileStem(verseStart, verseEnd) + ".html";
+  return "/bible/" + bookSlug + "/" + chapter + "/" + verseFileStem(verseStart, verseEnd);
 }
 
 const DOCTRINE_ORDER = ["election", "atonement", "justification", "regeneration", "perseverance"];
@@ -148,7 +194,18 @@ function topicFolder(kind) {
 }
 
 function topicUrl(kind, slug) {
-  return "/" + topicFolder(kind) + "/" + slug + ".html";
+  return "/" + topicFolder(kind) + "/" + slug;
+}
+
+// Pretty URL -> file on disk (Netlify serves /x/y from /x/y.html).
+function urlToFile(url) {
+  const rel = url.replace(/^\//, "");
+  if (!rel || rel.endsWith("/")) return path.join(PUBLIC, rel, "index.html");
+  return path.join(PUBLIC, rel + ".html");
+}
+
+function stripHtmlExt(href) {
+  return String(href || "").replace(/\/index\.html(#|$)/, "/$1").replace(/\.html(#|$)/, "$1");
 }
 
 function topicHubUrl(kind) {
@@ -174,10 +231,12 @@ function shouldSkipChips(data) {
 function primaryNavHtml(opts) {
   const extra = opts && opts.extra ? opts.extra : "";
   return (
-    '        <a href="/index.html">Home</a>\n' +
+    '        <a href="/">Home</a>\n' +
     '        <a href="/bible/">Bible</a>\n' +
     '        <a href="/doctrines/">Doctrines</a>\n' +
-    '        <a href="/index.html#perspectives">Perspectives</a>\n' +
+    '        <a href="/#perspectives">Perspectives</a>\n' +
+    '        <a href="/about">About</a>\n' +
+    '        <a href="/contact">Contact</a>\n' +
     extra +
     '        <a href="/bible/" class="btn btn-primary btn-nav nav-cta">Browse Bible</a>'
   );
@@ -185,14 +244,24 @@ function primaryNavHtml(opts) {
 
 function footerNavHtml() {
   return (
-    '          <a href="/index.html">Home</a>\n' +
+    '          <a href="/">Home</a>\n' +
     '          <a href="/bible/">Bible</a>\n' +
     '          <a href="/doctrines/">Doctrines</a>\n' +
-    '          <a href="/index.html#perspectives">Perspectives</a>\n' +
-    '          <a href="mailto:info.got.theology@gmail.com">Contact</a>\n' +
-    '          <a href="/privacy.html">Privacy</a>\n' +
-    '          <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>\n' +
-    '          <a href="/index.html#updates">Updates</a>'
+    '          <a href="/about">About</a>\n' +
+    '          <a href="/contact">Contact</a>\n' +
+    '          <a href="/privacy">Privacy</a>\n' +
+    '          <a href="/terms">Terms</a>\n' +
+    '          <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>'
+  );
+}
+
+function footerBottomHtml(label) {
+  return (
+    '      <div class="footer-bottom">\n' +
+    "        <span>\u00a9 " + YEAR + " Got-Theology.com. All rights reserved.</span>\n" +
+    '        <span class="scripture-notice">' + escapeHtml(SCRIPTURE_NOTICE) + "</span>\n" +
+    (label ? "        <span>" + escapeHtml(label) + "</span>\n" : "") +
+    "      </div>"
   );
 }
 
@@ -346,7 +415,7 @@ function renderPassagePage(data, opts) {
   const chapter = data.chapter;
   const verseStart = data.verseStart;
   const verseEnd = data.verseEnd;
-  const translation = data.translation || "ESV";
+  const translation = data.translation || DEFAULT_TRANSLATION;
   const context = data.context || "";
   const verses = data.verses;
   const eyebrow = data.eyebrow || "Passage";
@@ -402,12 +471,12 @@ function renderPassagePage(data, opts) {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/assets/gottheology.css" />
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>
+  ${ADSENSE_SCRIPT}
 </head>
 <body>
   <header class="site-header">
     <div class="container nav">
-      <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>
+      <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>
       <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
           <path d="M4 7h16M4 12h16M4 17h16"/>
@@ -475,9 +544,9 @@ ${voicesHtml}
       <div class="reader">
         <div class="cta-box">
           <p class="eyebrow" style="color: var(--gold-soft);">Keep reading</p>
-          <h2 id="cta-heading">Genesis, Isaiah, Daniel, Matthew, John, Romans, Ephesians, Colossians, 1–2 Timothy, Titus, and 1–3 John are live</h2>
+          <h2 id="cta-heading">${escapeHtml(LIVE_BOOKS_LABEL)} are live</h2>
           <p>Browse verse-by-verse notes\u2014Arminian and Reformed, side by side\u2014kept fair and close to the text.</p>
-          <a href="/bible/index.html" class="btn btn-gold">Browse the Bible</a>
+          <a href="/bible/" class="btn btn-gold">Browse the Bible</a>
         </div>
       </div>
     </section>
@@ -487,17 +556,14 @@ ${voicesHtml}
     <div class="container">
       <div class="footer-inner">
         <div class="footer-brand">
-          <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>
+          <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>
           <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>
         </div>
         <nav class="footer-links" aria-label="Footer">
 ${footerNavHtml()}
         </nav>
       </div>
-      <div class="footer-bottom">
-        <span>\u00a9 ${YEAR} Got-Theology.com. All rights reserved.</span>
-        <span>${escapeHtml(pageTitle)}</span>
-      </div>
+${footerBottomHtml(pageTitle)}
     </div>
   </footer>
 
@@ -648,6 +714,10 @@ function loadTopicDir(dir, expectedKind) {
       throw new Error(rel + ": invalid JSON (" + err.message + ")");
     }
     if (!data.kind) data.kind = expectedKind;
+    if (Array.isArray(data.scripture)) {
+      data.scripture = data.scripture.map((x) => (x && x.href ? { ...x, href: stripHtmlExt(x.href) } : x));
+    }
+    data._source = full;
     if (!data.slug) data.slug = path.basename(name, ".json");
     validateTopic(data, rel);
     if (data.kind !== expectedKind) {
@@ -772,12 +842,12 @@ function renderTopicPage(data, opts) {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/assets/gottheology.css" />
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>
+  ${ADSENSE_SCRIPT}
 </head>
 <body>
   <header class="site-header">
     <div class="container nav">
-      <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>
+      <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>
       <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
           <path d="M4 7h16M4 12h16M4 17h16"/>
@@ -839,17 +909,14 @@ ${voicesHtml}
     <div class="container">
       <div class="footer-inner">
         <div class="footer-brand">
-          <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>
+          <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>
           <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>
         </div>
         <nav class="footer-links" aria-label="Footer">
 ${footerNavHtml()}
         </nav>
       </div>
-      <div class="footer-bottom">
-        <span>\u00a9 ${YEAR} Got-Theology.com. All rights reserved.</span>
-        <span>${escapeHtml(pageTitle)}</span>
-      </div>
+${footerBottomHtml(pageTitle)}
     </div>
   </footer>
 
@@ -898,16 +965,16 @@ function renderTopicHub(kind, items, otherItems) {
       '        <h2 id="key-passages-heading">Read in the text</h2>\n' +
       '        <p class="topic-hub-passages-lede">Open Isaiah, Psalms, Hebrews, and related passages that shape these doctrines\u2014then return to the notes above.</p>\n' +
       '        <ul class="passage-list">\n' +
-      '            <li><a href="/bible/isaiah/53/1-12.html"><span class="ref">Isaiah 53:1\u201312</span><span class="meta">Suffering servant\u2014atonement and substitution.</span></a></li>\n' +
-      '            <li><a href="/bible/isaiah/6/1-13.html"><span class="ref">Isaiah 6:1\u201313</span><span class="meta">Holy, holy, holy\u2014the call and the cleansing.</span></a></li>\n' +
-      '            <li><a href="/bible/isaiah/42/1-9.html"><span class="ref">Isaiah 42:1\u20139</span><span class="meta">My chosen servant\u2014election and the nations.</span></a></li>\n' +
-      '            <li><a href="/bible/isaiah/55/1-13.html"><span class="ref">Isaiah 55:1\u201313</span><span class="meta">Come to the waters\u2014invitation and new life.</span></a></li>\n' +
-      '            <li><a href="/bible/isaiah/46/1-13.html"><span class="ref">Isaiah 46:1\u201313</span><span class="meta">I will carry you\u2014God\u2019s preserving purpose.</span></a></li>\n' +
-      '            <li><a href="/bible/daniel/4/28-37.html"><span class="ref">Daniel 4:28\u201337</span><span class="meta">The Most High rules\u2014sovereignty beside the throne.</span></a></li>\n' +
-      '            <li><a href="/bible/psalms/22/1-31.html"><span class="ref">Psalm 22:1\u201331</span><span class="meta">Forsaken cry and gathered praise\u2014cross-shaped lament.</span></a></li>\n' +
-      '            <li><a href="/bible/psalms/51/1-19.html"><span class="ref">Psalm 51:1\u201319</span><span class="meta">Create in me a clean heart\u2014confession and new life.</span></a></li>\n' +
-      '            <li><a href="/bible/hebrews/9/11-22.html"><span class="ref">Hebrews 9:11\u201322</span><span class="meta">Better sacrifice\u2014blood of the covenant.</span></a></li>\n' +
-      '            <li><a href="/bible/hebrews/10/32-39.html"><span class="ref">Hebrews 10:32\u201339</span><span class="meta">Need of endurance\u2014not of those who shrink back.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/53/1-12"><span class="ref">Isaiah 53:1\u201312</span><span class="meta">Suffering servant\u2014atonement and substitution.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/6/1-13"><span class="ref">Isaiah 6:1\u201313</span><span class="meta">Holy, holy, holy\u2014the call and the cleansing.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/42/1-9"><span class="ref">Isaiah 42:1\u20139</span><span class="meta">My chosen servant\u2014election and the nations.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/55/1-13"><span class="ref">Isaiah 55:1\u201313</span><span class="meta">Come to the waters\u2014invitation and new life.</span></a></li>\n' +
+      '            <li><a href="/bible/isaiah/46/1-13"><span class="ref">Isaiah 46:1\u201313</span><span class="meta">I will carry you\u2014God\u2019s preserving purpose.</span></a></li>\n' +
+      '            <li><a href="/bible/daniel/4/28-37"><span class="ref">Daniel 4:28\u201337</span><span class="meta">The Most High rules\u2014sovereignty beside the throne.</span></a></li>\n' +
+      '            <li><a href="/bible/psalms/22/1-31"><span class="ref">Psalm 22:1\u201331</span><span class="meta">Forsaken cry and gathered praise\u2014cross-shaped lament.</span></a></li>\n' +
+      '            <li><a href="/bible/psalms/51/1-19"><span class="ref">Psalm 51:1\u201319</span><span class="meta">Create in me a clean heart\u2014confession and new life.</span></a></li>\n' +
+      '            <li><a href="/bible/hebrews/9/11-22"><span class="ref">Hebrews 9:11\u201322</span><span class="meta">Better sacrifice\u2014blood of the covenant.</span></a></li>\n' +
+      '            <li><a href="/bible/hebrews/10/32-39"><span class="ref">Hebrews 10:32\u201339</span><span class="meta">Need of endurance\u2014not of those who shrink back.</span></a></li>\n' +
       "        </ul>\n" +
       '        <p class="topic-hub-alt" style="margin-top:1rem">Browse <a href="/bible/isaiah/">Isaiah</a> \u00b7 <a href="/bible/psalms/">Psalms</a> \u00b7 <a href="/bible/hebrews/">Hebrews</a> \u00b7 <a href="/attributes/">Attributes of God</a></p>\n' +
       "      </section>\n";
@@ -955,7 +1022,7 @@ function writeTopics(topics, passages) {
   for (const t of topics.all) {
     const scripture = filterLiveScripture(t.scripture, live);
     const html = renderTopicPage(t, { scripture, siteVoices });
-    const outPath = path.join(PUBLIC, topicUrl(t.kind, t.slug).replace(/^\//, ""));
+    const outPath = urlToFile(topicUrl(t.kind, t.slug));
     ensureDir(path.dirname(outPath));
     fs.writeFileSync(outPath, html, "utf8");
     console.log("  wrote " + path.relative(ROOT, outPath));
@@ -1024,12 +1091,14 @@ function renderBrowseDocument(opts) {
     '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />',
     '  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />',
     '  <link rel="stylesheet" href="/assets/gottheology.css" />',
-    '  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>',
+    // Navigation/index/legal pages stay ad-free; only opt-in pages load AdSense.
+    opts.ads ? "  " + ADSENSE_SCRIPT : null,
+    opts.robots ? '  <meta name="robots" content="' + escapeHtml(opts.robots) + '" />' : null,
     "</head>",
     "<body>",
     '  <header class="site-header">',
     '    <div class="container nav">',
-    '      <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>',
+    '      <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>',
     '      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">',
     '        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">',
     '          <path d="M4 7h16M4 12h16M4 17h16"/>',
@@ -1047,24 +1116,21 @@ function renderBrowseDocument(opts) {
     '    <div class="container">',
     '      <div class="footer-inner">',
     '        <div class="footer-brand">',
-    '          <a href="/index.html" class="wordmark">Got<span>-Theology</span>.com</a>',
+    '          <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>',
     "          <p>Verse-by-verse theology from the Bible\u2014Arminian and Reformed, side by side. Free to read, supported by ads.</p>",
     "        </div>",
     '        <nav class="footer-links" aria-label="Footer">',
     footerNavHtml(),
     "        </nav>",
     "      </div>",
-    '      <div class="footer-bottom">',
-    "        <span>\u00a9 " + YEAR + " Got-Theology.com. All rights reserved.</span>",
-    "        <span>" + escapeHtml(footerLabel) + "</span>",
-    "      </div>",
+    footerBottomHtml(footerLabel),
     "    </div>",
     "  </footer>",
     navToggleScript(),
   ];
   if (extraScripts.length) parts.push(extraScripts.join("\n"));
   parts.push("</body>", "</html>", "");
-  return parts.join("\n");
+  return parts.filter((p) => p !== null).join("\n");
 }
 
 function renderPassageListItems(items) {
@@ -1093,24 +1159,15 @@ function renderBibleIndex(passages) {
   const bySlug = groupPassagesBySlug(passages);
 
   function renderBookTile(book) {
-    const items = bySlug.get(book.slug) || [];
-    const live = items.length > 0;
-    if (live) {
-      return (
-        '<a class="book-tile book-tile--live" href="' +
-        escapeHtml(bookHubPath(book.slug)) +
-        '">' +
-        escapeHtml(book.name) +
-        "</a>"
-      );
-    }
     return (
-      '<span class="book-tile book-tile--soon">' +
-      '<span class="book-tile-name">' +
+      '<a class="book-tile book-tile--live" href="' +
+      escapeHtml(bookHubPath(book.slug)) +
+      '">' +
       escapeHtml(book.name) +
-      '</span><span class="book-tile-status">Coming</span></span>'
+      "</a>"
     );
   }
+  const isLive = (b) => (bySlug.get(b.slug) || []).length > 0;
 
   function renderTestament(id, title, books) {
     const tiles = books.map(renderBookTile).join("\n          ");
@@ -1129,8 +1186,8 @@ function renderBibleIndex(passages) {
     );
   }
 
-  const ot = CANONICAL_BOOKS.filter((b) => b.testament === "ot");
-  const nt = CANONICAL_BOOKS.filter((b) => b.testament === "nt");
+  const ot = CANONICAL_BOOKS.filter((b) => b.testament === "ot" && isLive(b));
+  const nt = CANONICAL_BOOKS.filter((b) => b.testament === "nt" && isLive(b));
   const catalog =
     '      <nav class="canon-jump" aria-label="Testament">\n' +
     '        <a href="#old-testament">Old Testament</a>\n' +
@@ -1138,7 +1195,8 @@ function renderBibleIndex(passages) {
     "      </nav>\n      " +
     renderTestament("old-testament", "Old Testament", ot) +
     "\n      " +
-    renderTestament("new-testament", "New Testament", nt);
+    renderTestament("new-testament", "New Testament", nt) +
+    '\n      <p class="catalog-more">More books are on the way.</p>';
 
   const body =
     '    <div class="reader">\n' +
@@ -1182,7 +1240,7 @@ function renderBookHub(book, items) {
 
   const body =
     '    <div class="reader">\n' +
-    '      <p class="browse-crumbs"><a href="/bible/index.html">Bible</a></p>\n' +
+    '      <p class="browse-crumbs"><a href="/bible/">Bible</a></p>\n' +
     '      <div class="page-intro page-intro--hub">\n' +
     '        <p class="eyebrow">Book</p>\n' +
     "        <h1>" +
@@ -1212,7 +1270,7 @@ function renderChapterHub(book, chapter, items) {
   const lis = renderPassageListItems(items);
   const body =
     '    <div class="reader">\n' +
-    '      <p class="browse-crumbs"><a href="/bible/index.html">Bible</a> \u00b7 <a href="' +
+    '      <p class="browse-crumbs"><a href="/bible/">Bible</a> \u00b7 <a href="' +
     escapeHtml(bookHubPath(book.slug)) +
     '">' +
     escapeHtml(book.name) +
@@ -1257,33 +1315,41 @@ function writeRobotsTxt() {
   console.log("  wrote " + path.relative(ROOT, outPath));
 }
 
-function writeSitemap(passages, topics) {
+function writeSitemap(passages, topics, extraPages) {
   const bySlug = groupPassagesBySlug(passages);
-  const urls = ["/", "/bible/", "/doctrines/", "/attributes/"];
+  const allSources = passages.map((p) => p.source);
+  const topicSources = topics && topics.all ? topics.all.map((t) => t._source) : [];
+  const entries = [
+    ["/", [path.join(PUBLIC, "index.html")]],
+    ["/bible/", allSources],
+    ["/doctrines/", topicSources],
+    ["/attributes/", topicSources],
+  ];
   for (const book of CANONICAL_BOOKS) {
     const items = bySlug.get(book.slug);
     if (!items || !items.length) continue;
-    urls.push(bookHubPath(book.slug));
+    entries.push([bookHubPath(book.slug), items.map((p) => p.source)]);
     const byChapter = groupByChapter(items);
-    for (const ch of byChapter.keys()) {
-      urls.push(chapterHubPath(book.slug, ch));
+    for (const [ch, chItems] of byChapter) {
+      entries.push([chapterHubPath(book.slug, ch), chItems.map((p) => p.source)]);
     }
   }
-  for (const p of passages) urls.push(p.url);
+  for (const p of passages) entries.push([p.url, [p.source]]);
   if (topics && topics.all) {
-    for (const t of topics.all) urls.push(topicUrl(t.kind, t.slug));
+    for (const t of topics.all) entries.push([topicUrl(t.kind, t.slug), [t._source]]);
   }
+  for (const pg of extraPages || []) entries.push([pg.url, [path.join(ROOT, "scripts", "build-site.js")]]);
 
   const seen = new Set();
   const unique = [];
-  for (const u of urls) {
+  for (const [u, srcs] of entries) {
     const abs = absoluteUrl(u);
     if (seen.has(abs)) continue;
     seen.add(abs);
-    unique.push(abs);
+    unique.push({ loc: abs, lastmod: lastmodFor(srcs.filter(Boolean)) });
   }
   const urlEntries = unique
-    .map((loc) => "  <url>\n    <loc>" + escapeHtml(loc) + "</loc>\n  </url>")
+    .map((e) => "  <url>\n    <loc>" + escapeHtml(e.loc) + "</loc>\n    <lastmod>" + e.lastmod + "</lastmod>\n  </url>")
     .join("\n");
   const xml =
     '<?xml version="1.0" encoding="UTF-8"?>\n' +
@@ -1328,6 +1394,170 @@ function writeBookAndChapterHubs(passages) {
   return { bookCount, chapterCount };
 }
 
+// ---------- Static pages: About, Contact, Privacy, Terms ----------
+const CONTACT_EMAIL = "info.got.theology@gmail.com";
+const POLICY_UPDATED = "September 25, 2026";
+
+function staticPageBody(eyebrow, title, lede, sectionsHtml) {
+  return (
+    '    <div class="reader static-page">\n' +
+    '      <div class="page-intro">\n' +
+    '        <p class="eyebrow">' + escapeHtml(eyebrow) + "</p>\n" +
+    "        <h1>" + escapeHtml(title) + "</h1>\n" +
+    (lede ? "        <p>" + lede + "</p>\n" : "") +
+    "      </div>\n" +
+    '      <div class="prose">\n' +
+    sectionsHtml +
+    "\n      </div>\n" +
+    "    </div>"
+  );
+}
+
+const MAIL = '<a href="mailto:' + CONTACT_EMAIL + '">' + CONTACT_EMAIL + "</a>";
+
+const STATIC_PAGES = [
+  {
+    url: "/about",
+    title: "About GotTheology",
+    description:
+      "Who runs Got-Theology.com and why: free verse-by-verse Bible commentary with Arminian and Reformed readings side by side, fair to both.",
+    eyebrow: "About",
+    lede: "Free verse-by-verse Bible commentary with Arminian and Reformed readings side by side\u2014fair to both, close to the text.",
+    html: `        <h2>Who runs GotTheology</h2>
+        <p>Got-Theology.com is run by James Burgess from the Tyler, Texas area. It started from a simple frustration: most commentaries tell you what one tradition thinks, and you have to go hunting to hear the other side in its own words.</p>
+
+        <h2>The mission</h2>
+        <p>GotTheology walks through books of the Bible passage by passage and verse by verse. Every verse carries two short notes, one Arminian and one Reformed, set side by side so you can compare them directly. Where the traditions agree, we say so. Where they differ, we name the difference plainly and try to state each view the way its best teachers would.</p>
+        <p>The goal is understanding, not scorekeeping. We want Wesleyans to be able to recognize their own view in the Arminian column, Calvinists to recognize theirs in the Reformed column, and every reader to leave with a clearer view of the text itself.</p>
+
+        <h2>Editorial approach</h2>
+        <ul>
+          <li><strong>The verse comes first.</strong> Each page shows the Scripture text before any commentary. Scripture quotations are from the World English Bible (WEB), a public-domain modern English translation.</li>
+          <li><strong>Historic voices.</strong> Notes draw on historic sources from both traditions, especially John Wesley\u2019s <em>Explanatory Notes</em> and John Calvin\u2019s commentaries, with other classic writers where helpful. Quotations are attributed to their authors.</li>
+          <li><strong>Human editorial review.</strong> Every passage is reviewed and edited before it is published, checking that each column is fair to its tradition and faithful to the verse.</li>
+          <li><strong>Corrections welcome.</strong> If a note misrepresents a tradition or misreads a verse, please tell us at ${MAIL}. We fix errors.</li>
+        </ul>
+
+        <h2>Free and ad-supported</h2>
+        <p>Everything on GotTheology is free to read. There are no subscriptions or paywalls. The site is supported by advertising; ads never influence the content of the notes. See our <a href="/privacy">Privacy Policy</a> for how advertising cookies work.</p>
+
+        <h2>Get in touch</h2>
+        <p>Requests for the next book, questions, and corrections are all welcome. Visit the <a href="/contact">contact page</a> or email ${MAIL}.</p>`,
+  },
+  {
+    url: "/contact",
+    title: "Contact",
+    description: "Contact Got-Theology.com with questions, corrections, or requests for the next book or passage.",
+    eyebrow: "Contact",
+    lede: "Questions, corrections, or a request for the next book\u2014we read every message.",
+    html: `        <h2>Email</h2>
+        <p>The best way to reach us is email: ${MAIL}. We usually reply within a few days.</p>
+
+        <h2>What to write about</h2>
+        <ul>
+          <li><strong>Corrections.</strong> If a note misstates the Arminian or Reformed view, or misreads a verse, tell us the page and what is wrong.</li>
+          <li><strong>Requests.</strong> Tell us which book or passage you would like next.</li>
+          <li><strong>Updates.</strong> Ask to be told when new books are published. We will not share or sell your address.</li>
+          <li><strong>Advertising or privacy questions.</strong> See the <a href="/privacy">Privacy Policy</a>, or email us.</li>
+        </ul>
+
+        <h2>Elsewhere</h2>
+        <p>Follow new passages on X: <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>.</p>
+
+        <p><a class="btn btn-primary" href="mailto:${CONTACT_EMAIL}?subject=Got-Theology.com%20contact">Email ${CONTACT_EMAIL}</a></p>`,
+  },
+  {
+    url: "/privacy",
+    title: "Privacy Policy",
+    description: "How Got-Theology.com uses cookies, advertising (Google AdSense), and analytics, and how to opt out.",
+    eyebrow: "Legal",
+    lede: "Last updated " + POLICY_UPDATED + ".",
+    html: `        <p>Got-Theology.com (\u201cGotTheology,\u201d \u201cwe\u201d) is a free, ad-supported Bible commentary site. This policy explains what information is collected when you visit and how you can control it. Questions: ${MAIL}.</p>
+
+        <h2>Information we collect</h2>
+        <p>We do not require accounts, and we do not ask for your name or payment details. We receive:</p>
+        <ul>
+          <li><strong>Server and analytics data.</strong> Our host, Netlify, records standard request data (such as pages requested, approximate location derived from IP address, browser type, and referring page) to operate the site and provide aggregate traffic statistics. We use this only in aggregate to understand which pages are read.</li>
+          <li><strong>Email you send us.</strong> If you email us, we use your address and message to reply and, if you ask, to send occasional update notes. We do not sell or share your address.</li>
+          <li><strong>Cookies from advertising partners.</strong> Described below.</li>
+        </ul>
+
+        <h2>Advertising and cookies</h2>
+        <p>We use Google AdSense to show ads. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website and to other websites.</p>
+        <p>Google\u2019s use of advertising cookies, including the DoubleClick cookie, enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the Internet. Cookies and similar technologies may also be used to measure ad performance and to limit how often you see an ad.</p>
+        <p>Other third-party vendors or ad networks may also serve ads on this site, and they may use cookies, web beacons, or similar technologies for the same purposes.</p>
+        <ul>
+          <li>You can opt out of personalized advertising from Google by visiting <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google Ads Settings</a>.</li>
+          <li>You can opt out of some third-party vendors\u2019 use of cookies for personalized advertising at <a href="https://www.aboutads.info/choices/" target="_blank" rel="noopener noreferrer">www.aboutads.info</a> (or <a href="https://www.youronlinechoices.eu/" target="_blank" rel="noopener noreferrer">youronlinechoices.eu</a> in Europe).</li>
+          <li>Learn how Google uses information from sites that use its services at <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">policies.google.com/technologies/partner-sites</a>, and see Google\u2019s <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">advertising policies</a>.</li>
+          <li>You can also block or delete cookies in your browser settings. Ads may still appear, but they will be less relevant.</li>
+        </ul>
+
+        <h2>Visitors in the EEA, UK, and Switzerland</h2>
+        <p>If you visit from the European Economic Area, the United Kingdom, or Switzerland, you will be asked for consent, through a Google-certified consent message, before cookies are used for personalized advertising. You can decline, and you can change or withdraw your choice at any time using the privacy settings link shown with that message. Where you decline, Google may show non-personalized ads, which use cookies only for purposes such as frequency capping, fraud prevention, and aggregate reporting.</p>
+
+        <h2>U.S. state privacy rights</h2>
+        <p>We do not sell personal information in exchange for money. Some U.S. state laws treat personalized advertising as \u201csharing\u201d or \u201ctargeted advertising\u201d; you can opt out using the Google Ads Settings and aboutads.info links above, or by enabling Global Privacy Control in your browser where supported.</p>
+
+        <h2>Children</h2>
+        <p>This site is intended for a general audience and is not directed to children under 13. We do not knowingly collect personal information from children.</p>
+
+        <h2>Scripture and content</h2>
+        <p>Scripture quotations are from the World English Bible (WEB), which is in the public domain. Commentary is our own editorial work; historic quotations are attributed to their authors.</p>
+
+        <h2>Changes</h2>
+        <p>We may update this policy as the site changes. The date at the top shows the latest revision.</p>
+
+        <h2>Contact</h2>
+        <p>Email ${MAIL} with any privacy question or request.</p>`,
+  },
+  {
+    url: "/terms",
+    title: "Terms of Use",
+    description: "Terms of use for Got-Theology.com.",
+    eyebrow: "Legal",
+    lede: "Last updated " + POLICY_UPDATED + ".",
+    html: `        <p>By using Got-Theology.com you agree to these terms. If you do not agree, please do not use the site.</p>
+
+        <h2>Use of the site</h2>
+        <p>The site is free for personal, church, and educational reading. You may quote short excerpts of our commentary with attribution and a link to the page. Please do not republish substantial portions of the site or scrape it in bulk without permission.</p>
+
+        <h2>Scripture</h2>
+        <p>Scripture quotations are from the World English Bible (WEB), which is in the public domain. \u201cWorld English Bible\u201d is a trademark of eBible.org.</p>
+
+        <h2>Nature of the content</h2>
+        <p>Commentary on this site is pastoral and educational. It summarizes Arminian and Reformed readings as fairly as we can, but it is not a substitute for reading primary sources, confessions, or trusted teachers, and it is not professional advice of any kind.</p>
+
+        <h2>Advertising and third-party links</h2>
+        <p>The site is supported by ads served by third parties such as Google, and it links to other websites. We are not responsible for the content or practices of advertisers or linked sites. See our <a href="/privacy">Privacy Policy</a>.</p>
+
+        <h2>No warranty</h2>
+        <p>The site is provided \u201cas is,\u201d without warranties of any kind. To the fullest extent permitted by law, GotTheology is not liable for any damages arising from use of the site.</p>
+
+        <h2>Changes and contact</h2>
+        <p>We may update these terms; the date above shows the latest revision. Questions: ${MAIL}.</p>`,
+  },
+];
+
+function writeStaticPages() {
+  const written = [];
+  for (const pg of STATIC_PAGES) {
+    const html = renderBrowseDocument({
+      title: pg.title,
+      description: pg.description,
+      canonicalPath: pg.url,
+      mainClass: "bible-index static",
+      footerLabel: pg.title,
+      body: staticPageBody(pg.eyebrow, pg.title, pg.lede, pg.html),
+    });
+    const outPath = urlToFile(pg.url);
+    fs.writeFileSync(outPath, html, "utf8");
+    console.log("  wrote " + path.relative(ROOT, outPath));
+    written.push({ url: pg.url });
+  }
+  return written;
+}
+
 function main() {
   ensureDir(path.join(PUBLIC, "assets"));
   if (!fs.existsSync(path.join(PUBLIC, "assets", "gottheology.css"))) {
@@ -1361,6 +1591,8 @@ function main() {
   );
 
   const files = findPassageFiles(BOOKS_DIR).sort();
+  const liveSlugs = new Set(files.map((f) => path.relative(BOOKS_DIR, f).split(path.sep)[0]));
+  LIVE_BOOKS_LABEL = joinList(CANONICAL_BOOKS.filter((b) => liveSlugs.has(b.slug)).map((b) => b.name));
   const passages = [];
   let sampleAliasHtml = null;
 
@@ -1387,7 +1619,7 @@ function main() {
     else voices = siteVoices;
 
     const url = passageUrl(data.bookSlug, data.chapter, data.verseStart, data.verseEnd);
-    const outPath = path.join(PUBLIC, url.replace(/^\//, ""));
+    const outPath = urlToFile(url);
     ensureDir(path.dirname(outPath));
 
     const topicChips = chipsForPassage(data, chipIndex);
@@ -1408,10 +1640,11 @@ function main() {
       chapter: Number(data.chapter),
       verseStart: data.verseStart,
       verseEnd: data.verseEnd,
-      translation: data.translation || "ESV",
+      translation: data.translation || DEFAULT_TRANSLATION,
       title,
       context: data.context || "",
       url,
+      source: file,
       text: buildSearchText({ ...data, title }),
     });
 
@@ -1459,8 +1692,9 @@ function main() {
     console.warn("  note: no Ephesians 1:3-6; left public/verse.html unchanged");
   }
 
+  const staticPages = writeStaticPages();
   writeRobotsTxt();
-  writeSitemap(passages, topics);
+  writeSitemap(passages, topics, staticPages);
 
   console.log(
     "Done. " +

@@ -1,4 +1,4 @@
-# Hebrews ESV verse ranges
+# Hebrews verse ranges
 
 Paths: `content/books/hebrews/<ch>/<start>-<end>.json` (hyphen in filenames; en-dash in display titles).
 

@@ -45,8 +45,8 @@
       }
     ]
   },
-  "arminianNotes": "Arminius will not surrender omniscience to later open theism. God understands all that is, will be, has been, can be, or might be on any hypothesis—including future contingents—and he understands them by one infinite intuition, not by waiting to see. The certainty of that knowledge rests on the infinity of God’s essence, not on an unchangeable will that makes every act necessary.\n\nThe Arminian fork is causal, not cognitive. “Things do not exist because God knows them”; he knows them because they are future. Middle knowledge, which Arminius reports from the schools, is one historic way of saying God knows what would follow if this or that were laid down, without that knowledge itself authoring the creature’s choice. Romans 8’s “foreknew” is heard as personal acquaintance that precedes predestination, not as a decree wearing a milder name.\n\nPastoral Arminian notes keep prayer from becoming theater: the Father already knows, and still bids us ask. They also keep judgment honest—1 John 3’s God who is greater than our hearts and knows everything. No classical Arminian needs God to be ignorant in order for the invitation to be sincere.",
-  "reformedNotes": "Westminster’s two sentences are the Reformed hinge. Knowledge is infinite, infallible, and independent of the creature: nothing is uncertain to God. And yet he has not decreed because he foresaw. Foreknowledge is not the ground of the decree; the decree is not a response to a future God merely watches. Calvin’s Christ in John 2 needs no testimony about man. He knows the heart.\n\nOn this reading, Romans 8’s chain and Romans 11’s depth are one counsel. God knows all possible conditions, as WCF 3.2 grants; he does not wait on them. Daniel 2’s God who reveals mysteries is the same God who numbers the hairs and who will judge in righteousness—which he could not do if anything were dark to him.\n\nPastoral Reformed notes use omniscience for both fear and rest. Nothing is hidden, so hypocrisy is a bad investment; nothing is hidden, so the church is not finally a surprise to its Lord. The fork with Arminians is not whether God knows the future, but whether that knowledge is independent of creaturely choice in such a way that the decree, not the future act, is first.",
+  "arminianNotes": "Arminius will not surrender God’s omniscience. God understands all that is, will be, has been, can be, or might be on any hypothesis—including future contingents—and he understands them by one infinite intuition, not by waiting to see. The certainty of that knowledge rests on the infinity of God’s essence, not on an unchangeable will that makes every act necessary.\n\nThe Arminian fork is causal, not cognitive. “Things do not exist because God knows them”; he knows them because they are future. Middle knowledge, which Arminius reports from the schools, is one historic way of saying God knows what would follow if this or that were laid down, without that knowledge itself authoring the creature’s choice. Romans 8’s “foreknew” is heard as personal acquaintance that precedes predestination, not as a decree wearing a milder name.\n\nPastoral Arminian notes keep prayer from becoming theater: the Father already knows, and still bids us ask. They also keep judgment honest—1 John 3’s God who is greater than our hearts and knows everything. No classical Arminian needs God to be ignorant in order for the invitation to be sincere.",
+  "reformedNotes": "Westminster’s two sentences are the Reformed hinge. Knowledge is infinite, infallible, and independent of the creature: nothing is uncertain to God. And yet he has not decreed because he foresaw. Foreknowledge is not the ground of the decree; the decree is not a response to a future God merely watches. Calvin’s Christ in John 2 needs no testimony about man. He knows the heart.\n\nOn this reading, Romans 8’s chain and Romans 11’s depth are one counsel. God knows all possible conditions, as WCF 3.2 grants; he does not wait on them. Daniel 2’s God who reveals mysteries is the very God who numbers the hairs and who will judge in righteousness—which he could not do if anything were dark to him.\n\nPastoral Reformed notes use omniscience for both fear and rest. Nothing is hidden, so hypocrisy is a bad investment; nothing is hidden, so the church is not finally a surprise to its Lord. The fork with Arminians is not whether God knows the future, but whether that knowledge is independent of creaturely choice in such a way that the decree, not the future act, is first.",
   "keyContrast": "Both confess that God knows all things, including future free acts; classical Arminians are not open theists. Arminians typically deny that knowledge itself causes those acts (sometimes via middle knowledge); the Reformed typically deny that God decreed because he foresaw, locating certainty in a counsel independent of the creature.",
   "scripture": [
     {
@@ -57,7 +57,7 @@
       "verseEnd": 24,
       "title": "Psalm 139:1–24",
       "href": "/bible/psalms/139/1-24.html",
-      "why": "O Lord, you have searched me and known me—before a word is on my tongue."
+      "why": "O LORD, you have searched me, and you know me—before a word on my tongue."
     },
     {
       "book": "John",
@@ -67,7 +67,7 @@
       "verseEnd": 25,
       "title": "John 2:13–25",
       "href": "/bible/john/2/13-25.html",
-      "why": "He knew all people and needed no one to bear witness about man."
+      "why": "He knew everyone, and because he didn’t need for anyone to testify concerning man."
     },
     {
       "book": "Matthew",
@@ -77,7 +77,7 @@
       "verseEnd": 15,
       "title": "Matthew 6:5–15",
       "href": "/bible/matthew/6/5-15.html",
-      "why": "Your Father knows what you need before you ask him."
+      "why": "Your Father knows what things you need before you ask him."
     },
     {
       "book": "Romans",
@@ -97,7 +97,7 @@
       "verseEnd": 36,
       "title": "Romans 11:25–36",
       "href": "/bible/romans/11/25-36.html",
-      "why": "Oh, the depth of the riches and wisdom and knowledge of God!"
+      "why": "Oh the depth of the riches both of the wisdom and the knowledge of God!"
     },
     {
       "book": "1 John",
@@ -107,7 +107,7 @@
       "verseEnd": 24,
       "title": "1 John 3:11–24",
       "href": "/bible/1-john/3/11-24.html",
-      "why": "God is greater than our heart, and he knows everything."
+      "why": "God is greater than our heart, and knows everything."
     },
     {
       "book": "Daniel",
@@ -117,7 +117,7 @@
       "verseEnd": 30,
       "title": "Daniel 2:17–30",
       "href": "/bible/daniel/2/17-30.html",
-      "why": "There is a God in heaven who reveals mysteries—wisdom and might are his."
+      "why": "There is a God in heaven who reveals secrets—wisdom and might are his."
     },
     {
       "book": "John",
@@ -127,7 +127,7 @@
       "verseEnd": 15,
       "title": "John 16:1–15",
       "href": "/bible/john/16/1-15.html",
-      "why": "The Spirit of truth will declare to you the things that are to come."
+      "why": "The Spirit of truth will declare to you things that are to come."
     }
   ]
 }

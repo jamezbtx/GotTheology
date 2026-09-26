@@ -2,8 +2,8 @@
   "kind": "doctrine",
   "slug": "atonement",
   "title": "Atonement",
-  "summary": "Christ died as a real sacrifice for sin—both camps preach a cross of infinite worth; they part over whether the Father intended that death for every person or for the elect in particular.",
-  "context": "Atonement is the work by which the death of Jesus deals with guilt. Scripture calls him the Lamb who takes away the sin of the world, a ransom, a propitiation, the one who lays down his life for the sheep. Arminian and Reformed teachers agree the cross is substitutionary in some real sense and that no one is saved apart from it. They disagree about the design: a sufficient provision for all, applied to believers, or a particular redemption that infallibly secures a people.",
+  "summary": "Christ died as a sacrifice for sin—both camps preach a cross of infinite worth; they part over whether the Father intended that death for every person or for the elect in particular.",
+  "context": "Atonement is the work by which the death of Jesus deals with guilt. Scripture calls him the Lamb who takes away the sin of the world, a ransom, a propitiation, the one who lays down his life for the sheep. Arminian and Reformed teachers agree the cross is substitutionary in some sense and that no one is saved apart from it. They disagree about the design: a sufficient provision for all, applied to believers, or a particular redemption that infallibly secures a people.",
   "showVoices": true,
   "voices": {
     "eyebrow": "From the tradition",
@@ -45,9 +45,9 @@
       }
     ]
   },
-  "arminianNotes": "Arminian teaching starts from the texts that sound universal: Christ tasted death for every man; he is the propitiation for the sins of the whole world; God wants all to be saved and to come to the knowledge of the truth. The Remonstrance holds both halves together: the Son obtained redemption for all, and no one enjoys it except the believer.\n\nWatson’s “remissible” is the key pastoral word. The cross really makes forgiveness available; it does not, by itself, make every person forgiven. Application is by faith—itself the gift of preventing grace, yet resistible. A sincere gospel offer to every hearer is therefore not a bluff.\n\nThis is not a thin “possibility” that leaves the cross uncertain. Classical Arminians preach a finished sacrifice of infinite worth. What they refuse is a design that, from eternity, withholds that sacrifice’s saving intent from the non-elect. The fork is intent and application, not whether Jesus’ blood is enough.",
+  "arminianNotes": "Arminian teaching starts from the texts that sound universal: Christ tasted death for every man; he is the atoning sacrifice for the sins of the whole world; God desires all people to be saved and come to full knowledge of the truth. The Remonstrance holds both halves together: the Son obtained redemption for all, and no one enjoys it except the believer.\n\nWatson’s “remissible” is the key pastoral word. The cross makes forgiveness available; it does not, by itself, make every person forgiven. Application is by faith—itself the gift of preventing grace, yet resistible. A sincere gospel offer to every hearer is therefore not a bluff.\n\nThis is not a thin “possibility” that leaves the cross uncertain. Classical Arminians preach a finished sacrifice of infinite worth. What they refuse is a design that, from eternity, withholds that sacrifice’s saving intent from the non-elect. The fork is intent and application, not whether Jesus’ blood is enough.",
   "reformedNotes": "Reformed teaching often grants the infinite sufficiency of the death (Dort II.3) and then asks a further question: what did the Father actually intend the death to accomplish? If Christ made a satisfaction for all in the same sense, they argue, all would be saved. Particular redemption says the cross did not merely make salvation possible; it secured a people.\n\n“For the sheep,” “for the church,” “those you gave me” are read as naming the intended beneficiaries. Faith itself is purchased and bestowed, so the atonement cannot finally fail for those it was designed to save. Spurgeon’s bridge image is rhetorical, but the claim is doctrinal: an atonement limited in extent, unlimited in effect.\n\nPastoral Reformed preaching still calls all people to Christ. Many Reformed writers distinguish the sufficient worth of the death, the free offer of the gospel, and the particular design of the covenant. Fair reading keeps those distinctions in view rather than hearing only “Christ did not die for you.”",
-  "keyContrast": "Arminians typically teach a universal provision (every person’s sins remissible) applied by resistible, enabling grace through faith; the Reformed typically teach a particular design that infallibly obtains faith and salvation for the elect, while still confessing the infinite worth of the death and a real gospel offer.",
+  "keyContrast": "Arminians typically teach a universal provision (every person’s sins remissible) applied by resistible, enabling grace through faith; the Reformed typically teach a particular design that infallibly obtains faith and salvation for the elect, while still confessing the infinite worth of the death and a gospel offer.",
   "scripture": [
     {
       "book": "Isaiah",
@@ -77,7 +77,7 @@
       "verseEnd": 22,
       "title": "Hebrews 9:11–22",
       "href": "/bible/hebrews/9/11-22.html",
-      "why": "Better sacrifice: blood of the covenant; without the shedding of blood there is no forgiveness."
+      "why": "Better sacrifice: blood of the covenant; apart from shedding of blood there is no forgiveness."
     },
     {
       "book": "1 Timothy",
@@ -97,7 +97,7 @@
       "verseEnd": 15,
       "title": "Titus 2:11–15",
       "href": "/bible/titus/2/11-15.html",
-      "why": "The grace of God has appeared, bringing salvation for all people."
+      "why": "The grace of God has appeared, bringing salvation to all men."
     },
     {
       "book": "John",
@@ -127,7 +127,7 @@
       "verseEnd": 16,
       "title": "1 Timothy 4:6–16",
       "href": "/bible/1-timothy/4/6-16.html",
-      "why": "The living God is the Savior of all people, especially of those who believe."
+      "why": "The living God is the Savior of all men, especially of those who believe."
     },
     {
       "book": "John",
@@ -157,7 +157,7 @@
       "verseEnd": 6,
       "title": "1 John 2:1–6",
       "href": "/bible/1-john/2/1-6.html",
-      "why": "He is the propitiation for our sins, and not for ours only but also for the whole world."
+      "why": "He is the atoning sacrifice for our sins, and not for ours only, but also for the whole world."
     },
     {
       "book": "Romans",
@@ -167,7 +167,7 @@
       "verseEnd": 31,
       "title": "Romans 3:21–31",
       "href": "/bible/romans/3/21-31.html",
-      "why": "God put forward Christ as a propitiation by his blood, to be received by faith."
+      "why": "God set Christ forth as an atoning sacrifice through faith in his blood."
     },
     {
       "book": "Romans",
@@ -177,7 +177,7 @@
       "verseEnd": 11,
       "title": "Romans 5:1–11",
       "href": "/bible/romans/5/1-11.html",
-      "why": "While we were still sinners, Christ died for us."
+      "why": "While we were yet sinners, Christ died for us."
     },
     {
       "book": "Romans",
@@ -187,7 +187,7 @@
       "verseEnd": 21,
       "title": "Romans 5:12–21",
       "href": "/bible/romans/5/12-21.html",
-      "why": "As one trespass led to condemnation, one act of righteousness leads to justification and life."
+      "why": "As one trespass led to condemnation, one act of righteousness, all men were justified to life."
     }
   ]
 }

@@ -538,17 +538,20 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
 
     /* —— Footer —— */
 
-    /* —— Ad slots (placeholders until network code is wired) —— */
+    /* —— Ad slots: collapse to nothing until an ad actually fills —— */
     .ad-slot {
       width: min(100% - 2.5rem, var(--max, 1120px));
-      margin: 2.25rem auto;
+      margin: 0 auto;
       text-align: center;
     }
     .ad-slot.ad-slot-narrow {
       width: min(100% - 2.5rem, 880px);
     }
+    .ad-slot:has(ins.adsbygoogle[data-ad-status="filled"]) {
+      margin: 2.25rem auto;
+    }
     .ad-label {
-      display: block;
+      display: none;
       font-size: 0.68rem;
       font-weight: 600;
       letter-spacing: 0.14em;
@@ -557,29 +560,17 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
       margin-bottom: 0.45rem;
       opacity: 0.75;
     }
-    .ad-frame {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 90px;
-      padding: 1rem 1.25rem;
-      border: 1px dashed rgba(15, 28, 46, 0.18);
-      border-radius: 12px;
-      background: rgba(15, 28, 46, 0.03);
-      color: var(--ink-muted);
-      font-size: 0.92rem;
-      line-height: 1.45;
-    }
-    .ad-frame:has(ins.adsbygoogle) {
-      border-style: solid;
-      border-color: rgba(15, 28, 46, 0.08);
-      background: transparent;
+    .ad-slot:has(ins.adsbygoogle[data-ad-status="filled"]) .ad-label { display: block; }
+    .ad-frame,
+    .ad-frame--leader,
+    .ad-frame--rect {
+      display: block;
+      min-height: 0;
       padding: 0;
+      border: 0;
+      background: transparent;
     }
     ins.adsbygoogle[data-ad-status="unfilled"] { display: none !important; }
-    .ad-frame strong { color: var(--ink-soft); font-weight: 600; }
-    .ad-frame--leader { min-height: 90px; }
-    .ad-frame--rect { min-height: 250px; max-width: 300px; margin-inline: auto; }
 
     .site-footer {
       border-top: 1px solid var(--border);
@@ -1191,3 +1182,14 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
   max-width: 38rem;
   margin: -0.25rem 0 0.85rem;
 }
+
+    /* —— About / Contact / Privacy / Terms —— */
+    .static-page .prose { max-width: 720px; margin: 0 auto 3rem; line-height: 1.7; }
+    .static-page .prose h2 { font-size: 1.45rem; margin: 2rem 0 0.6rem; }
+    .static-page .prose p,
+    .static-page .prose li { color: var(--ink-soft, inherit); }
+    .static-page .prose ul { padding-left: 1.25rem; margin: 0.5rem 0 1rem; }
+    .static-page .prose li { margin-bottom: 0.45rem; }
+    .static-page .prose a:not(.btn) { text-decoration: underline; text-underline-offset: 2px; }
+    .catalog-more { text-align: center; margin: 1.5rem 0 0; color: var(--ink-muted); font-size: 0.95rem; }
+    .footer-bottom .scripture-notice { flex-basis: 100%; order: 3; }

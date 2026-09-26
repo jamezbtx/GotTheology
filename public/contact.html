@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <title>Contact — GotTheology</title>
+  <meta name="description" content="Contact Got-Theology.com with questions, corrections, or requests for the next book or passage." />
+  <link rel="canonical" href="https://got-theology.com/contact" />
+  <meta property="og:title" content="Contact — GotTheology" />
+  <meta property="og:description" content="Contact Got-Theology.com with questions, corrections, or requests for the next book or passage." />
+  <meta property="og:url" content="https://got-theology.com/contact" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="GotTheology" />
+  <meta property="og:image" content="https://got-theology.com/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Got-Theology.com — Arminian and Reformed, side by side" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://got-theology.com/og-image.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/gottheology.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" id="navToggle">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16"/>
+        </svg>
+      </button>
+      <nav class="nav-links" id="navLinks" aria-label="Primary">
+        <a href="/">Home</a>
+        <a href="/bible/">Bible</a>
+        <a href="/doctrines/">Doctrines</a>
+        <a href="/#perspectives">Perspectives</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+        <a href="/bible/" class="btn btn-primary btn-nav nav-cta">Browse Bible</a>
+      </nav>
+    </div>
+  </header>
+  <main class="bible-index static">
+    <div class="reader static-page">
+      <div class="page-intro">
+        <p class="eyebrow">Contact</p>
+        <h1>Contact</h1>
+        <p>Questions, corrections, or a request for the next book—we read every message.</p>
+      </div>
+      <div class="prose">
+        <h2>Email</h2>
+        <p>The best way to reach us is email: <a href="mailto:info.got.theology@gmail.com">info.got.theology@gmail.com</a>. We usually reply within a few days.</p>
+
+        <h2>What to write about</h2>
+        <ul>
+          <li><strong>Corrections.</strong> If a note misstates the Arminian or Reformed view, or misreads a verse, tell us the page and what is wrong.</li>
+          <li><strong>Requests.</strong> Tell us which book or passage you would like next.</li>
+          <li><strong>Updates.</strong> Ask to be told when new books are published. We will not share or sell your address.</li>
+          <li><strong>Advertising or privacy questions.</strong> See the <a href="/privacy">Privacy Policy</a>, or email us.</li>
+        </ul>
+
+        <h2>Elsewhere</h2>
+        <p>Follow new passages on X: <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>.</p>
+
+        <p><a class="btn btn-primary" href="mailto:info.got.theology@gmail.com?subject=Got-Theology.com%20contact">Email info.got.theology@gmail.com</a></p>
+      </div>
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <a href="/" class="wordmark">Got<span>-Theology</span>.com</a>
+          <p>Verse-by-verse theology from the Bible—Arminian and Reformed, side by side. Free to read, supported by ads.</p>
+        </div>
+        <nav class="footer-links" aria-label="Footer">
+          <a href="/">Home</a>
+          <a href="/bible/">Bible</a>
+          <a href="/doctrines/">Doctrines</a>
+          <a href="/about">About</a>
+          <a href="/contact">Contact</a>
+          <a href="/privacy">Privacy</a>
+          <a href="/terms">Terms</a>
+          <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 Got-Theology.com. All rights reserved.</span>
+        <span class="scripture-notice">Scripture quotations are from the World English Bible (WEB), public domain.</span>
+        <span>Contact</span>
+      </div>
+    </div>
+  </footer>
+  <script>
+    (function () {
+      var toggle = document.getElementById("navToggle");
+      var links = document.getElementById("navLinks");
+      var header = document.querySelector(".site-header");
+      if (!toggle || !links) return;
+      toggle.addEventListener("click", function () {
+        var open = links.classList.toggle("open");
+        toggle.setAttribute("aria-expanded", open ? "true" : "false");
+        header.classList.toggle("is-open", open);
+      });
+      links.querySelectorAll("a").forEach(function (a) {
+        a.addEventListener("click", function () {
+          links.classList.remove("open");
+          header.classList.remove("is-open");
+          toggle.setAttribute("aria-expanded", "false");
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
