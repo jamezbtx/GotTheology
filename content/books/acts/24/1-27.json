@@ -1,0 +1,169 @@
+{
+  "book": "Acts",
+  "bookSlug": "acts",
+  "chapter": 24,
+  "verseStart": 1,
+  "verseEnd": 27,
+  "translation": "WEB",
+  "title": "Acts 24:1–27",
+  "context": "Five days later the high priest and the orator Tertullus accuse Paul before Felix of being a troublemaker, a ringleader of the Nazarene sect, and a temple profaner. Paul answers that he came to worship, caused no disturbance, and serves the God of his fathers according to the Way, believing the Law and Prophets and hoping in the resurrection of the just and unjust, striving always for a clear conscience. Felix, well informed about the Way, postpones the case. Later he and Drusilla hear Paul speak about faith in Christ, and when Paul reasons about righteousness, self-control, and the coming judgment, Felix becomes afraid and sends him away. Hoping for a bribe, Felix keeps Paul in custody for two years.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul.",
+      "arminianNotes": "Five days later the high priest Ananias comes to Caesarea with elders and a professional orator named Tertullus. The council hires an advocate who knows Roman courtroom style.",
+      "reformedNotes": "The speed of their arrival shows how determined the leadership is to see Paul condemned."
+    },
+    {
+      "number": 2,
+      "text": "When he was called, Tertullus began to accuse him, saying, “Seeing that by you we enjoy much peace, and that prosperity is coming to this nation by your foresight,",
+      "arminianNotes": "Tertullus opens with flattery, thanking Felix for great peace and reforms. Felix’s rule was in fact marked by brutal suppression of unrest.",
+      "reformedNotes": "The captatio benevolentiae, or bid for the judge’s goodwill, was standard rhetoric. Luke lets its emptiness speak for itself."
+    },
+    {
+      "number": 3,
+      "text": "we accept it in all ways and in all places, most excellent Felix, with all thankfulness.",
+      "arminianNotes": "“We accept it in all ways and in all places, most excellent Felix, with all thankfulness.” The praise grows more lavish.",
+      "reformedNotes": "Luke preserves the flattery so readers can contrast it with Paul’s plain, respectful opening in verse 10."
+    },
+    {
+      "number": 4,
+      "text": "But that I don’t delay you, I entreat you to bear with us and hear a few words.",
+      "arminianNotes": "Tertullus promises to be brief and asks for the governor’s patience.",
+      "reformedNotes": "The promise of brevity is itself a rhetorical convention."
+    },
+    {
+      "number": 5,
+      "text": "For we have found this man to be a plague, an instigator of insurrections among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes.",
+      "arminianNotes": "He calls Paul a plague, a stirrer of riots among Jews throughout the world, and a ringleader of the sect of the Nazarenes. The charge of sedition was the most dangerous one under Roman law.",
+      "reformedNotes": "“Nazarenes” is the only time Christians are called this in the New Testament. The label ties them to the despised town of their Lord."
+    },
+    {
+      "number": 6,
+      "text": "He even tried to profane the temple, and we arrested him.",
+      "arminianNotes": "He adds that Paul tried to profane the temple and that they seized him. The WEB omits verse 7 and part of verse 6, which later manuscripts expand with a complaint against Lysias.",
+      "reformedNotes": "The temple charge moves from “brought Greeks in” (21:28) to “tried to,” a quiet admission that they had no proof."
+    },
+    {
+      "number": 8,
+      "text": "By examining him yourself you may ascertain all these things of which we accuse him.”",
+      "arminianNotes": "Tertullus says Felix can examine Paul himself to confirm these things.",
+      "reformedNotes": "Inviting examination of the accused, rather than offering witnesses, exposes the weakness of the case."
+    },
+    {
+      "number": 9,
+      "text": "The Jews also joined in the attack, affirming that these things were so.",
+      "arminianNotes": "The Jewish delegation joins in, asserting that the charges are true.",
+      "reformedNotes": "Agreement among accusers is not evidence. Mosaic law required witnesses, which they never produce."
+    },
+    {
+      "number": 10,
+      "text": "When the governor had beckoned to him to speak, Paul answered, “Because I know that you have been a judge of this nation for many years, I cheerfully make my defense,",
+      "arminianNotes": "Paul answers cheerfully, noting that Felix has judged the nation for many years. His courtesy is real but brief and free of flattery.",
+      "reformedNotes": "Paul’s confidence comes from a clear conscience and a sure promise (23:11), not from rhetorical skill."
+    },
+    {
+      "number": 11,
+      "text": "seeing that you can verify that it is not more than twelve days since I went up to worship at Jerusalem.",
+      "arminianNotes": "It has been no more than twelve days since he went up to Jerusalem to worship. The timeline leaves little room for organizing sedition.",
+      "reformedNotes": "Paul gives Felix checkable facts, inviting the governor to verify rather than trust."
+    },
+    {
+      "number": 12,
+      "text": "In the temple they didn’t find me disputing with anyone or stirring up a crowd, either in the synagogues or in the city.",
+      "arminianNotes": "No one found him arguing in the temple or stirring up a crowd in synagogues or the city.",
+      "reformedNotes": "Paul answers the sedition charge directly: there is no evidence of any disturbance he caused."
+    },
+    {
+      "number": 13,
+      "text": "Nor can they prove to you the things of which they now accuse me.",
+      "arminianNotes": "They cannot prove any of their accusations.",
+      "reformedNotes": "Paul’s defense rests on a basic principle of justice that Roman law shared: charges require proof."
+    },
+    {
+      "number": 14,
+      "text": "But this I confess to you, that according to the Way, which they call a sect, so I serve the God of our fathers, believing all things which are according to the law, and which are written in the prophets;",
+      "arminianNotes": "Paul confesses that he worships the God of their fathers according to the Way, which they call a sect, believing everything in the Law and the Prophets. He claims continuity with Israel rather than departure from it.",
+      "reformedNotes": "Reformed theology has drawn on this verse for the unity of the covenant: the Way is not a new religion but Israel’s faith fulfilled in its Messiah."
+    },
+    {
+      "number": 15,
+      "text": "having hope toward God, which these also themselves look for, that there will be a resurrection of the dead, both of the just and unjust.",
+      "arminianNotes": "He shares their hope in God that there will be a resurrection of both the just and the unjust. This is Paul’s only explicit mention of the resurrection of the wicked.",
+      "reformedNotes": "Both traditions affirm a general resurrection to judgment, as in Daniel 12:2 and John 5:28–29. Paul places himself within mainstream Jewish expectation."
+    },
+    {
+      "number": 16,
+      "text": "In this I also practice always having a conscience void of offense toward God and men.",
+      "arminianNotes": "Because of this hope, he strives always to keep a clear conscience before God and people. Wesleyan writers have prized this as an example of disciplined holiness flowing from future hope.",
+      "reformedNotes": "Reformed writers read the effort as the fruit of faith, not a means of standing before God. Hope of judgment shapes daily conduct."
+    },
+    {
+      "number": 17,
+      "text": "Now after some years, I came to bring gifts for the needy to my nation, and offerings;",
+      "arminianNotes": "After several years he came to bring alms and offerings to his nation. This is Acts’ only reference to the collection Paul organized among the Gentile churches (Romans 15:25–28).",
+      "reformedNotes": "The gift he brought for the poor in Jerusalem is the opposite of a threat to the nation."
+    },
+    {
+      "number": 18,
+      "text": "amid which certain Jews from Asia found me purified in the temple, not with a mob, nor with turmoil.",
+      "arminianNotes": "While doing this, he was found ritually purified in the temple, with no crowd and no uproar.",
+      "reformedNotes": "Paul turns the temple charge around: he was engaged in an act of Jewish piety when seized."
+    },
+    {
+      "number": 19,
+      "text": "They ought to have been here before you and to make accusation if they had anything against me.",
+      "arminianNotes": "The Jews from Asia who saw him should be present to accuse him if they had anything.",
+      "reformedNotes": "Roman law penalized accusers who abandoned their charges. The absence of the original witnesses is a serious flaw."
+    },
+    {
+      "number": 20,
+      "text": "Or else let these men themselves say what injustice they found in me when I stood before the council,",
+      "arminianNotes": "Or let those present say what wrong they found when he stood before the council.",
+      "reformedNotes": "Paul challenges the delegation to name a crime from the hearing they themselves attended."
+    },
+    {
+      "number": 21,
+      "text": "unless it is for this one thing that I cried standing among them, ‘Concerning the resurrection of the dead I am being judged before you today!’”",
+      "arminianNotes": "Unless, he says, it is the one statement he shouted: that he is on trial for the resurrection of the dead.",
+      "reformedNotes": "Paul brings the issue back to its theological center. If that is his crime, it is a matter of Jewish doctrine, not Roman law."
+    },
+    {
+      "number": 22,
+      "text": "But Felix, having more exact knowledge concerning the Way, deferred them, saying, “When Lysias, the commanding officer, comes down, I will decide your case.”",
+      "arminianNotes": "Felix, who had fairly accurate knowledge of the Way, adjourns the case, saying he will decide when Lysias comes. Lysias never appears in the record again.",
+      "reformedNotes": "Felix’s postponement is a political evasion. Luke presents it as one more delay that keeps Paul alive and on course for Rome."
+    },
+    {
+      "number": 23,
+      "text": "He ordered the centurion that Paul should be kept in custody and should have some privileges, and not to forbid any of his friends to serve him or to visit him.",
+      "arminianNotes": "Felix orders Paul kept in custody but with some liberty, and his friends are allowed to care for him.",
+      "reformedNotes": "Lenient custody let Luke and others stay near Paul, which may explain the detail in the following chapters."
+    },
+    {
+      "number": 24,
+      "text": "After some days, Felix came with Drusilla his wife, who was a Jewess, and sent for Paul and heard him concerning the faith in Christ Jesus.",
+      "arminianNotes": "Days later Felix comes with Drusilla, his Jewish wife, and sends for Paul to hear about faith in Christ Jesus. Drusilla, daughter of Herod Agrippa I, had left her first husband to marry Felix.",
+      "reformedNotes": "A governor and a Herodian princess sit as an audience for the gospel. Paul’s chains become a pulpit."
+    },
+    {
+      "number": 25,
+      "text": "As he reasoned about righteousness, self-control, and the judgment to come, Felix was terrified, and answered, “Go your way for this time, and when it is convenient for me, I will summon you.”",
+      "arminianNotes": "Paul reasons about righteousness, self-control, and the judgment to come, and Felix, terrified, says, “Go away for now; when I have a convenient time I will call you.” Arminian preachers have often used this verse to warn against delaying repentance, since Felix chose postponement.",
+      "reformedNotes": "Reformed preachers make a similar point from another angle: conviction under the word is not the same as conversion, and fear without faith leaves the heart unchanged. The topics Paul chose fit Felix and Drusilla’s own lives."
+    },
+    {
+      "number": 26,
+      "text": "Meanwhile, he also hoped that money would be given to him by Paul, that he might release him. Therefore also he sent for him more often and talked with him.",
+      "arminianNotes": "Felix also hopes Paul will offer him money, so he sends for him often. He keeps listening while waiting for a bribe.",
+      "reformedNotes": "Repeated hearing did not soften a heart set on gain. Luke offers this as a sober example of exposure without response."
+    },
+    {
+      "number": 27,
+      "text": "But when two years were fulfilled, Felix was succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix left Paul in bonds.",
+      "arminianNotes": "After two years Porcius Festus succeeds Felix, who leaves Paul in prison as a favor to the Jews. Felix was recalled to Rome around AD 59 after mishandling riots in Caesarea.",
+      "reformedNotes": "Two years of unjust confinement are summarized in a sentence. During this time Luke may have gathered the material for his Gospel."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "book": "2 Peter",
+  "bookSlug": "2-peter",
+  "chapter": 2,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "WEB",
+  "title": "2 Peter 2:1–10",
+  "context": "As false prophets once rose in Israel, false teachers will rise among the church, secretly introducing destructive heresies and even denying the Master who bought them. Many will follow their immoral ways, and greed will drive them to exploit believers. Peter points to God’s past judgments on sinning angels, the ancient world in the flood, and Sodom and Gomorrah, and to his rescue of Noah and Lot, as proof that the Lord knows how to deliver the godly and to hold the unrighteous for judgment.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction.",
+      "arminianNotes": "The false teachers deny “the Master who bought them.” Arminian readers take this as evidence that Christ’s redemption was provided even for people who finally perish. Christ paid for them, and they reject him.",
+      "reformedNotes": "Reformed readers respond in several ways. Some take “bought” to describe the teachers’ own claim or the church’s view of them as members; others see an echo of Deuteronomy 32:6, where God “bought” Israel as a nation. On either reading, they hold that the verse does not overturn particular redemption."
+    },
+    {
+      "number": 2,
+      "text": "Many will follow their immoral ways, and as a result, the way of the truth will be maligned.",
+      "arminianNotes": "Many will follow their sensual ways, and the way of truth will be slandered. Arminian commentators see real people led astray by bad examples.",
+      "reformedNotes": "Reformed commentators see the damage false teaching does to the church’s witness before the world."
+    },
+    {
+      "number": 3,
+      "text": "In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber.",
+      "arminianNotes": "Greed drives them to exploit believers with made-up words. Arminian readers note that their judgment is not idle, even if it seems delayed.",
+      "reformedNotes": "Reformed readers see God’s sentence against them as long settled and certain, however slow it may appear."
+    },
+    {
+      "number": 4,
+      "text": "For if God didn’t spare angels when they sinned, but cast them down to Tartarus, and committed them to pits of darkness to be reserved for judgment;",
+      "arminianNotes": "God did not spare angels who sinned but cast them into Tartarus to await judgment. Arminian writers note that even created beings of great power were held responsible for their rebellion.",
+      "reformedNotes": "Reformed writers see this as the first of three examples showing God’s justice reaches every rank of creature."
+    },
+    {
+      "number": 5,
+      "text": "and didn’t spare the ancient world, but preserved Noah with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly,",
+      "arminianNotes": "God did not spare the ancient world but preserved Noah, a preacher of righteousness. Arminian interpreters notice that Noah preached to his generation, which means they had a call to repent.",
+      "reformedNotes": "Reformed interpreters see God preserving a remnant by grace in the midst of universal judgment."
+    },
+    {
+      "number": 6,
+      "text": "and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, having made them an example to those who would live in an ungodly way,",
+      "arminianNotes": "Sodom and Gomorrah were reduced to ashes as an example to the ungodly. Arminian expositors see a warning meant to lead people to change course.",
+      "reformedNotes": "Reformed expositors see the cities as a lasting sign of God’s just wrath against sin."
+    },
+    {
+      "number": 7,
+      "text": "and delivered righteous Lot, who was very distressed by the lustful life of the wicked",
+      "arminianNotes": "God rescued righteous Lot, who was distressed by the conduct of the wicked. Arminian readers find comfort that even a flawed believer like Lot was delivered.",
+      "reformedNotes": "Reformed readers note that Lot is called righteous despite his failures, which they see as an example of God reckoning his people righteous by grace."
+    },
+    {
+      "number": 8,
+      "text": "(for that righteous man dwelling among them was tormented in his righteous soul from day to day with seeing and hearing lawless deeds),",
+      "arminianNotes": "Lot’s righteous soul was tormented by what he saw and heard. Arminian commentators observe that righteousness shows itself in grief over evil.",
+      "reformedNotes": "Reformed commentators see the inner sign of regeneration: sin troubles those whom God has renewed."
+    },
+    {
+      "number": 9,
+      "text": "then the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment,",
+      "arminianNotes": "The Lord knows how to rescue the godly and hold the unrighteous for judgment. Arminian readers take this as assurance that God sees and acts, even when his timing is hidden.",
+      "reformedNotes": "Reformed readers see God’s sovereign care in both directions, keeping his people and reserving judgment for the wicked."
+    },
+    {
+      "number": 10,
+      "text": "but chiefly those who walk after the flesh in the lust of defilement and despise authority. Daring, self-willed, they are not afraid to speak evil of dignitaries,",
+      "arminianNotes": "Peter singles out those who indulge the flesh and despise authority, bold enough to slander glorious beings. Arminian writers see arrogance as the root of the false teachers’ error.",
+      "reformedNotes": "Reformed writers see self-will refusing every authority above it, including God’s."
+    }
+  ]
+}

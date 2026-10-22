@@ -1,0 +1,85 @@
+{
+  "book": "2 Peter",
+  "bookSlug": "2-peter",
+  "chapter": 2,
+  "verseStart": 11,
+  "verseEnd": 22,
+  "translation": "WEB",
+  "title": "2 Peter 2:11–22",
+  "context": "Peter describes the false teachers in vivid terms: they slander what they do not understand, revel in pleasure, are full of adultery and greed, and follow the path of Balaam. They are waterless springs and mists driven by a storm, promising freedom while enslaved to corruption. Those who have escaped the world’s defilements through knowing Christ and then become entangled again end up worse off than before, like a dog returning to its vomit.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 11,
+      "text": "whereas angels, though greater in might and power, don’t bring a slanderous judgment against them before the Lord.",
+      "arminianNotes": "Angels, though greater in power, do not bring slanderous accusations before the Lord. Arminian readers see humility as the proper response even toward evil powers.",
+      "reformedNotes": "Reformed readers see the false teachers condemned by comparison with the restraint of angels."
+    },
+    {
+      "number": 12,
+      "text": "But these, as unreasoning creatures, born natural animals to be taken and destroyed, speaking evil in matters about which they are ignorant, will in their destroying surely be destroyed,",
+      "arminianNotes": "Like unreasoning animals, they slander what they do not understand and will be destroyed. Arminian commentators see people who have chosen to live by instinct rather than reason and conscience.",
+      "reformedNotes": "Reformed commentators see the moral blindness that comes from rejecting God’s truth."
+    },
+    {
+      "number": 13,
+      "text": "receiving the wages of unrighteousness; people who count it pleasure to revel in the daytime, spots and defects, reveling in their deceit while they feast with you;",
+      "arminianNotes": "They count it pleasure to revel in daylight and are blots at the church’s feasts. Arminian expositors note that the harm happens inside the fellowship.",
+      "reformedNotes": "Reformed expositors see the danger of false members who share the church’s table without sharing its faith."
+    },
+    {
+      "number": 14,
+      "text": "having eyes full of adultery, and who can’t cease from sin, enticing unsettled souls, having a heart trained in greed, accursed children!",
+      "arminianNotes": "Their eyes are full of adultery, they cannot stop sinning, and they entice unstable souls. Arminian readers see a habit of sin that has become bondage through repeated choices.",
+      "reformedNotes": "Reformed readers see a heart trained in greed, a picture of human nature left to its own course."
+    },
+    {
+      "number": 15,
+      "text": "Forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the wages of wrongdoing;",
+      "arminianNotes": "They have left the right way and followed Balaam, who loved the wages of wrongdoing. Arminian interpreters note that “forsaking the right way” implies they were once on it.",
+      "reformedNotes": "Reformed interpreters see Balaam as a prophet who spoke truth without loving it, a warning about gifts without grace."
+    },
+    {
+      "number": 16,
+      "text": "but he was rebuked for his own disobedience. A speechless donkey spoke with a man’s voice and stopped the madness of the prophet.",
+      "arminianNotes": "A donkey rebuked Balaam’s madness. Arminian writers find the irony pointed: an animal saw more clearly than the prophet.",
+      "reformedNotes": "Reformed writers see God restraining Balaam by any means he chose."
+    },
+    {
+      "number": 17,
+      "text": "These are wells without water, clouds driven by a storm, for whom the blackness of darkness has been reserved forever.",
+      "arminianNotes": "They are waterless springs and mists driven by a storm. Arminian readers see empty promises that disappoint those who come to them for refreshment.",
+      "reformedNotes": "Reformed readers see teachers without the life of the Spirit, for whom deep darkness is reserved."
+    },
+    {
+      "number": 18,
+      "text": "For, uttering great swelling words of emptiness, they entice in the lusts of the flesh, by licentiousness, those who are indeed escaping from those who live in error;",
+      "arminianNotes": "With boastful words they lure those who are barely escaping from error. Arminian expositors see young believers in danger, which shows that turning back is possible.",
+      "reformedNotes": "Reformed expositors see new converts and seekers as the targets, and they stress the duty of the church to guard them."
+    },
+    {
+      "number": 19,
+      "text": "promising them liberty, while they themselves are bondservants of corruption; for a man is brought into bondage by whoever overcomes him.",
+      "arminianNotes": "They promise freedom while they are slaves of corruption. Arminian commentators observe that whatever overcomes a person becomes their master.",
+      "reformedNotes": "Reformed commentators connect this with Jesus’ words that everyone who sins is a slave of sin (John 8:34)."
+    },
+    {
+      "number": 20,
+      "text": "For if, after they have escaped the defilement of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in it and overcome, the last state has become worse for them than the first.",
+      "arminianNotes": "Some have escaped the world’s defilements through the knowledge of Jesus Christ, then are entangled again and overcome. Arminian readers see this as describing people who were truly saved and later fell away, ending worse than before.",
+      "reformedNotes": "Reformed readers usually take this as describing people who made an outward break with sin through knowing about Christ, without being regenerated. Their escape was real in conduct but not in heart, which is why they return."
+    },
+    {
+      "number": 21,
+      "text": "For it would be better for them not to have known the way of righteousness, than after knowing it, to turn back from the holy commandment delivered to them.",
+      "arminianNotes": "It would have been better never to know the way of righteousness than to turn back from it. Arminian interpreters see a solemn warning that apostasy is possible and its consequences are grave.",
+      "reformedNotes": "Reformed interpreters see the greater guilt of those who knew the truth and rejected it, and they read the warning as one of the means God uses to keep his people."
+    },
+    {
+      "number": 22,
+      "text": "But it has happened to them according to the true proverb, “The dog turns to his own vomit again,” and “the sow that has washed to wallowing in the mire.”",
+      "arminianNotes": "The dog returns to its vomit and the washed sow to the mud. Arminian readers see a person who was truly cleansed but went back to former ways.",
+      "reformedNotes": "Reformed readers note that the dog and the sow never changed their nature; they were only washed outwardly. For many in the Reformed tradition, the proverb shows these people were never made new."
+    }
+  ]
+}

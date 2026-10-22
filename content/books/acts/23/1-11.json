@@ -1,0 +1,79 @@
+{
+  "book": "Acts",
+  "bookSlug": "acts",
+  "chapter": 23,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "WEB",
+  "title": "Acts 23:1–11",
+  "context": "Before the council Paul declares that he has lived in all good conscience before God, and the high priest Ananias orders him struck. Paul rebukes him as a whitewashed wall, then apologizes when told he is the high priest. Seeing the council divided between Sadducees and Pharisees, Paul declares he is on trial for the hope of the resurrection, and the dispute grows so violent that the commander removes him. That night the Lord stands by Paul and tells him to take courage, for as he has testified in Jerusalem, he must also testify in Rome.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, looking steadfastly at the council, said, “Brothers, I have lived before God in all good conscience until today.”",
+      "arminianNotes": "Paul looks straight at the council and says he has lived before God in all good conscience to this day. Even his persecuting years were sincere, though he later calls them ignorance (1 Timothy 1:13).",
+      "reformedNotes": "A clear conscience is not the same as innocence before God. Paul elsewhere says, “I know nothing against myself, yet I am not justified by this” (1 Corinthians 4:4)."
+    },
+    {
+      "number": 2,
+      "text": "The high priest, Ananias, commanded those who stood by him to strike him on the mouth.",
+      "arminianNotes": "The high priest Ananias, son of Nedebaeus, known from Josephus for greed and violence, orders those near Paul to strike him on the mouth.",
+      "reformedNotes": "The blow recalls Jesus being struck before Annas (John 18:22). The court breaks its own law before any testimony is heard."
+    },
+    {
+      "number": 3,
+      "text": "Then Paul said to him, “God will strike you, you whitewashed wall! Do you sit to judge me according to the law, and command me to be struck contrary to the law?”",
+      "arminianNotes": "Paul fires back: “God will strike you, you whitewashed wall!” The judge sits to judge by the law yet orders a blow against the law. Ananias was assassinated about a decade later.",
+      "reformedNotes": "“Whitewashed wall” echoes Ezekiel 13:10–15 and Jesus’ “whitewashed tombs” (Matthew 23:27), an image of a sound surface hiding decay."
+    },
+    {
+      "number": 4,
+      "text": "Those who stood by said, “Do you malign God’s high priest?”",
+      "arminianNotes": "Bystanders object: “Do you insult God’s high priest?” They defend the office, not the man.",
+      "reformedNotes": "The challenge raises a fair question about respect for office even when its holder acts unjustly."
+    },
+    {
+      "number": 5,
+      "text": "Paul said, “I didn’t know, brothers, that he was high priest. For it is written, ‘You shall not speak evil of a ruler of your people.’”",
+      "arminianNotes": "Paul says he did not know it was the high priest, and quotes Exodus 22:28, “You shall not speak evil of a ruler of your people.” Some think poor eyesight or an informal session explains it; others hear irony.",
+      "reformedNotes": "Whatever the reason, Paul submits his words to Scripture at once. The law binds even a provoked apostle."
+    },
+    {
+      "number": 6,
+      "text": "But when Paul perceived that the one part were Sadducees and the other Pharisees, he cried out in the council, “Men and brothers, I am a Pharisee, a son of Pharisees. Concerning the hope and resurrection of the dead I am being judged!”",
+      "arminianNotes": "Seeing Sadducees and Pharisees in the room, Paul cries out that he is a Pharisee, a son of Pharisees, on trial for the hope of the resurrection of the dead.",
+      "reformedNotes": "This is not a mere tactic. The resurrection of Jesus is exactly the hope Paul preaches, and it is the point where Pharisees and Sadducees divided."
+    },
+    {
+      "number": 7,
+      "text": "When he had said this, an argument arose between the Pharisees and Sadducees, and the crowd was divided.",
+      "arminianNotes": "The statement splits the council, and the assembly divides along party lines.",
+      "reformedNotes": "God uses the council’s own doctrinal quarrel to protect his servant."
+    },
+    {
+      "number": 8,
+      "text": "For the Sadducees say that there is no resurrection, nor angel, nor spirit; but the Pharisees confess all of these.",
+      "arminianNotes": "Luke explains: Sadducees deny resurrection, angels, and spirits; Pharisees affirm all three.",
+      "reformedNotes": "The note helps Gentile readers follow the scene and shows how central the resurrection was to the dispute."
+    },
+    {
+      "number": 9,
+      "text": "A great clamor arose, and some of the scribes of the Pharisees’ part stood up, and contended, saying, “We find no evil in this man. But if a spirit or angel has spoken to him, let’s not fight against God!”",
+      "arminianNotes": "Some Pharisee scribes declare they find nothing wrong with Paul and suggest a spirit or angel may have spoken to him.",
+      "reformedNotes": "The concession echoes Gamaliel’s caution in 5:39. Pharisees again become unlikely defenders."
+    },
+    {
+      "number": 10,
+      "text": "When a great argument arose, the commanding officer, fearing that Paul would be torn in pieces by them, commanded the soldiers to go down and take him by force from among them and bring him into the barracks.",
+      "arminianNotes": "The dispute turns violent, and the commander, fearing Paul will be torn apart, has soldiers pull him out and take him back to the barracks.",
+      "reformedNotes": "For the second time in two days, Roman troops rescue Paul from his own people."
+    },
+    {
+      "number": 11,
+      "text": "The following night, the Lord stood by him and said, “Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.”",
+      "arminianNotes": "The next night the Lord stands by Paul: “Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.” Discouragement is met with personal presence.",
+      "reformedNotes": "The word “must” (dei) marks God’s fixed purpose. From this point everything, from plots to shipwreck, will be read in light of this promise that Paul will reach Rome."
+    }
+  ]
+}

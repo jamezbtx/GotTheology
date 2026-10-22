@@ -1,0 +1,79 @@
+{
+  "book": "Acts",
+  "bookSlug": "acts",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "WEB",
+  "title": "Acts 1:1–11",
+  "context": "Luke opens his second volume to Theophilus by recalling the first, which told what Jesus began to do and teach. For forty days the risen Jesus showed himself alive and spoke about God’s kingdom, then told the apostles to wait in Jerusalem for the Holy Spirit. When they asked about restoring the kingdom to Israel, he turned them to their mission as witnesses from Jerusalem to the ends of the earth. He was taken up into a cloud, and two men in white promised that he would return in the same way.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The first book I wrote, Theophilus, concerned all that Jesus began both to do and to teach,",
+      "arminianNotes": "Luke’s first book covered what Jesus “began” to do and teach, which implies that Acts tells what he continues to do through his people. Arminian readers see the church invited to take part in Christ’s ongoing work.",
+      "reformedNotes": "Reformed readers see the risen Christ still acting as Lord, now from heaven, through his Spirit and his word."
+    },
+    {
+      "number": 2,
+      "text": "until the day in which he was received up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen.",
+      "arminianNotes": "Jesus gave commands through the Holy Spirit to the apostles “whom he had chosen.” Arminian interpreters read this choice as selection for an office and mission rather than election to salvation.",
+      "reformedNotes": "Reformed interpreters agree the choice here is to apostleship, and they see in it the same sovereign initiative by which Christ calls his people."
+    },
+    {
+      "number": 3,
+      "text": "To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days and speaking about God’s Kingdom.",
+      "arminianNotes": "Jesus gave many convincing proofs over forty days. Arminian commentators see faith resting on evidence offered to the senses, inviting a reasonable response.",
+      "reformedNotes": "Reformed commentators see the resurrection established as a historical fact before the apostles were sent to proclaim it."
+    },
+    {
+      "number": 4,
+      "text": "Being assembled together with them, he commanded them, “Don’t depart from Jerusalem, but wait for the promise of the Father, which you heard from me.",
+      "arminianNotes": "The disciples must wait in Jerusalem for the Father’s promise. Arminian readers see obedience in waiting, since the mission depends on power they cannot supply themselves.",
+      "reformedNotes": "Reformed readers see the promise of the Spirit as part of the Father’s plan, given at the time he had appointed."
+    },
+    {
+      "number": 5,
+      "text": "For John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.”",
+      "arminianNotes": "John baptized with water, but they will be baptized in the Holy Spirit. Many Wesleyan and Holiness interpreters have connected this with a distinct work of the Spirit after conversion, while other Arminians see it as the Spirit’s coming at conversion.",
+      "reformedNotes": "Reformed interpreters generally see Spirit baptism as the gift every believer receives at conversion, uniting them to Christ, with Pentecost as the unrepeatable opening of the new age."
+    },
+    {
+      "number": 6,
+      "text": "Therefore, when they had come together, they asked him, “Lord, are you now restoring the kingdom to Israel?”",
+      "arminianNotes": "The disciples ask whether Jesus will now restore the kingdom to Israel. Arminian readers note that their hope was still partly national and earthly.",
+      "reformedNotes": "Reformed readers see a question Jesus does not reject outright but redirects, since the kingdom will come in ways they do not yet grasp."
+    },
+    {
+      "number": 7,
+      "text": "He said to them, “It isn’t for you to know times or seasons which the Father has set within his own authority.",
+      "arminianNotes": "The Father has set times and seasons by his own authority. Arminian expositors take this as a check on speculation about dates.",
+      "reformedNotes": "Reformed expositors see the times of history fixed in God’s decree, which believers need not know in order to obey."
+    },
+    {
+      "number": 8,
+      "text": "But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.”",
+      "arminianNotes": "They will receive power when the Spirit comes and be witnesses to the ends of the earth. Arminian readers find in this command the worldwide reach of the gospel offer, which matches God’s desire to save all peoples.",
+      "reformedNotes": "This verse outlines the whole book of Acts. Reformed readers see the Spirit empowering the church to gather Christ’s people from every nation."
+    },
+    {
+      "number": 9,
+      "text": "When he had said these things, as they were looking, he was taken up, and a cloud received him out of their sight.",
+      "arminianNotes": "Jesus is taken up and a cloud hides him. Arminian commentators see the ascension as the moment Christ entered his heavenly ministry for the church.",
+      "reformedNotes": "Reformed commentators see the cloud as a sign of God’s glory and stress that Christ now reigns bodily at the Father’s right hand."
+    },
+    {
+      "number": 10,
+      "text": "While they were looking steadfastly into the sky as he went, behold, two men stood by them in white clothing,",
+      "arminianNotes": "Two men in white clothing stand beside the disciples. Arminian readers recognize the same kind of messengers who appeared at the empty tomb.",
+      "reformedNotes": "Reformed readers see heaven itself confirming what has just happened."
+    },
+    {
+      "number": 11,
+      "text": "who also said, “You men of Galilee, why do you stand looking into the sky? This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky.”",
+      "arminianNotes": "This same Jesus will return as they saw him go. Arminian expositors take the promise as a call to active service, not idle gazing.",
+      "reformedNotes": "Reformed expositors stress the personal, visible return of Christ, which is the blessed hope of the church."
+    }
+  ]
+}

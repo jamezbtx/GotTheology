@@ -1,0 +1,61 @@
+{
+  "book": "2 Peter",
+  "bookSlug": "2-peter",
+  "chapter": 3,
+  "verseStart": 11,
+  "verseEnd": 18,
+  "translation": "WEB",
+  "title": "2 Peter 3:11–18",
+  "context": "Since all these things will be dissolved, believers should live holy and godly lives as they wait for and hasten the day of God, looking for new heavens and a new earth where righteousness dwells. They should be found at peace and blameless, counting the Lord’s patience as salvation, as Paul also wrote, though some twist his hard sayings. Peter warns them not to be carried away and to grow in the grace and knowledge of Jesus Christ.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 11,
+      "text": "Therefore, since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness,",
+      "arminianNotes": "Because everything will be dissolved, believers should live in holiness and godliness. Arminian readers see future hope shaping present conduct.",
+      "reformedNotes": "Reformed readers see sanctification as the natural response to the certainty of the coming judgment."
+    },
+    {
+      "number": 12,
+      "text": "looking for and earnestly desiring the coming of the day of God, which will cause the burning heavens to be dissolved, and the elements will melt with fervent heat?",
+      "arminianNotes": "Believers look for and earnestly desire the coming of the day of God. Arminian interpreters often note that the phrase can mean “hastening” the day, suggesting that holy living and evangelism matter to its timing.",
+      "reformedNotes": "Reformed interpreters generally read the phrase as eager longing. The day’s timing remains in God’s hands, though the church’s prayers and mission are part of how he fulfills it."
+    },
+    {
+      "number": 13,
+      "text": "But, according to his promise, we look for new heavens and a new earth, in which righteousness dwells.",
+      "arminianNotes": "According to his promise, believers look for new heavens and a new earth where righteousness dwells. Arminian commentators see the goal of salvation as a renewed creation.",
+      "reformedNotes": "Reformed commentators see the new creation as the fulfillment of God’s promise, the home of a righteousness that will never be undone."
+    },
+    {
+      "number": 14,
+      "text": "Therefore, beloved, seeing that you look for these things, be diligent to be found in peace, without defect and blameless in his sight.",
+      "arminianNotes": "They should be diligent to be found in peace, spotless and blameless. Arminian expositors see the call to holiness as essential preparation for meeting Christ.",
+      "reformedNotes": "Reformed expositors see blamelessness as the product of Christ’s work, pursued by believers in grateful obedience."
+    },
+    {
+      "number": 15,
+      "text": "Regard the patience of our Lord as salvation; even as our beloved brother Paul also, according to the wisdom given to him, wrote to you,",
+      "arminianNotes": "The Lord’s patience means salvation, as Paul also wrote. Arminian readers connect this with verse 9: the delay exists so that more people can be saved.",
+      "reformedNotes": "Reformed readers agree that the delay serves salvation, as God gathers his people through the gospel."
+    },
+    {
+      "number": 16,
+      "text": "as also in all of his letters, speaking in them of these things. In those, there are some things that are hard to understand, which the ignorant and unsettled twist, as they also do to the other Scriptures, to their own destruction.",
+      "arminianNotes": "Paul’s letters contain some things hard to understand, which the ignorant and unstable twist to their destruction. Arminian writers often note that this warning fits debates about Paul’s teaching on election and grace.",
+      "reformedNotes": "Reformed writers see Paul’s letters recognized as Scripture, and they warn that misreading them leads to ruin."
+    },
+    {
+      "number": 17,
+      "text": "You therefore, beloved, knowing these things beforehand, beware, lest being carried away with the error of the wicked, you fall from your own steadfastness.",
+      "arminianNotes": "Believers should beware lest they be carried away and fall from their own stability. Arminian interpreters see a genuine danger of falling for those who are presently steadfast.",
+      "reformedNotes": "Reformed interpreters see the warning as a means God uses to preserve his people. A fall from stability is possible, though not a final fall from grace."
+    },
+    {
+      "number": 18,
+      "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.",
+      "arminianNotes": "Peter ends with a call to grow in grace and knowledge, and gives glory to Christ forever. Arminian readers see growth as the best protection against falling.",
+      "reformedNotes": "Reformed readers note that glory is given to Christ, which affirms his deity. Grace is both the source and the sphere of believers’ growth."
+    }
+  ]
+}

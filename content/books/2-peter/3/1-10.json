@@ -1,0 +1,73 @@
+{
+  "book": "2 Peter",
+  "bookSlug": "2-peter",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "WEB",
+  "title": "2 Peter 3:1–10",
+  "context": "Peter writes his second letter to stir up their minds to remember the prophets and the apostles’ command. Scoffers will come mocking the promise of Christ’s return, claiming nothing has changed since creation. Peter replies that they forget God’s word created the world and judged it by water, and the same word has reserved the present world for fire. With the Lord a day is like a thousand years; he is not slow but patient, not wishing that any should perish but that all should come to repentance. The day of the Lord will come like a thief.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you",
+      "arminianNotes": "This is Peter’s second letter, written to stir up a sincere mind. Arminian readers see sincere believers who need reminders to stay faithful.",
+      "reformedNotes": "Reformed readers see pastoral repetition as an ordinary means of grace."
+    },
+    {
+      "number": 2,
+      "text": "that you should remember the words which were spoken before by the holy prophets and the commandment of us, the apostles of the Lord and Savior,",
+      "arminianNotes": "They should remember the prophets’ words and the command of the apostles. Arminian commentators see the Old and New Testament witness standing together.",
+      "reformedNotes": "Reformed commentators note that apostolic teaching is placed beside the prophets as authoritative Scripture."
+    },
+    {
+      "number": 3,
+      "text": "knowing this first, that in the last days mockers will come, walking after their own lusts",
+      "arminianNotes": "Scoffers will come in the last days, following their own desires. Arminian expositors see doubt about Christ’s return rooted in a desire to live without accountability.",
+      "reformedNotes": "Reformed expositors see the last days as the whole period between Christ’s first and second comings, in which such mockery is expected."
+    },
+    {
+      "number": 4,
+      "text": "and saying, “Where is the promise of his coming? For, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.”",
+      "arminianNotes": "They ask, “Where is the promise of his coming?” and claim everything continues as it always has. Arminian readers see a worldview that excludes God’s intervention.",
+      "reformedNotes": "Reformed readers see a denial of God’s active rule over history."
+    },
+    {
+      "number": 5,
+      "text": "For they willfully forget that there were heavens from of old, and an earth formed out of water and amid water by the word of God,",
+      "arminianNotes": "They deliberately forget that God’s word made the heavens and earth. Arminian interpreters stress that their ignorance is willful, not innocent.",
+      "reformedNotes": "Reformed interpreters see the creating word as the same word that governs and judges."
+    },
+    {
+      "number": 6,
+      "text": "by which means the world that existed then, being overflowed with water, perished.",
+      "arminianNotes": "The world of that time was destroyed by water. Arminian writers see the flood as proof that the world has not always continued unchanged.",
+      "reformedNotes": "Reformed writers see the flood as a pattern of the final judgment."
+    },
+    {
+      "number": 7,
+      "text": "But the heavens that exist now and the earth, by the same word have been stored up for fire, being reserved against the day of judgment and destruction of ungodly men.",
+      "arminianNotes": "The present heavens and earth are reserved for fire on the day of judgment. Arminian readers see a coming judgment that should lead people to repent while there is time.",
+      "reformedNotes": "Reformed readers see the world held by God’s word until the appointed day."
+    },
+    {
+      "number": 8,
+      "text": "But don’t forget this one thing, beloved, that one day is with the Lord as a thousand years, and a thousand years as one day.",
+      "arminianNotes": "With the Lord one day is as a thousand years and a thousand years as a day. Arminian commentators see God’s perspective on time, which makes the apparent delay meaningless.",
+      "reformedNotes": "Reformed commentators see God’s eternity: he is not bound by time and his purposes are never late."
+    },
+    {
+      "number": 9,
+      "text": "The Lord is not slow concerning his promise, as some count slowness; but he is patient with us, not wishing that anyone should perish, but that all should come to repentance.",
+      "arminianNotes": "The Lord is patient, “not wishing that anyone should perish, but that all should come to repentance.” Arminian readers take this as a plain statement of God’s desire to save every person. The delay of Christ’s return gives everyone time to repent, and those who perish do so against God’s wish.",
+      "reformedNotes": "Reformed readers note that Peter is writing to believers and says God is patient “with us.” Many take “anyone” and “all” to mean all of God’s people, so the delay continues until every one of the elect has come to repentance. Others in the tradition distinguish God’s revealed desire that all repent from his decree of who will be saved."
+    },
+    {
+      "number": 10,
+      "text": "But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat; and the earth and the works that are in it will be burned up.",
+      "arminianNotes": "The day of the Lord will come like a thief. Arminian expositors see the suddenness as a reason to stay ready.",
+      "reformedNotes": "Reformed expositors see the earth and its works laid bare before God, when everything hidden is exposed."
+    }
+  ]
+}

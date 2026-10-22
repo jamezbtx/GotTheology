@@ -1,0 +1,67 @@
+{
+  "book": "Acts",
+  "bookSlug": "acts",
+  "chapter": 22,
+  "verseStart": 22,
+  "verseEnd": 30,
+  "translation": "WEB",
+  "title": "Acts 22:22–30",
+  "context": "At the word “Gentiles,” the crowd erupts, demanding Paul’s death, throwing off cloaks and flinging dust into the air. The commander orders Paul brought into the barracks and examined by flogging, but as they stretch him out, Paul asks the centurion whether it is lawful to flog an uncondemned Roman citizen. Alarmed, the commander, who had bought his own citizenship at great price, learns that Paul was born a citizen, and the interrogators withdraw. The next day the commander releases Paul’s bonds and brings him before the chief priests and the council to learn the charges.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 22,
+      "text": "They listened to him until he said that; then they lifted up their voice and said, “Rid the earth of this fellow, for he isn’t fit to live!”",
+      "arminianNotes": "The crowd listens until the word “Gentiles,” then shouts that such a man is not fit to live. Paul’s conversion story they could hear; God’s welcome to the nations they could not.",
+      "reformedNotes": "The offense is not Paul’s personal story but grace extended beyond Israel, the same point that provoked Nazareth in Luke 4:25–29."
+    },
+    {
+      "number": 23,
+      "text": "As they cried out, threw off their cloaks, and threw dust into the air,",
+      "arminianNotes": "They shout, throw off their cloaks, and fling dust into the air, signs of outrage and perhaps of treating his words as blasphemy.",
+      "reformedNotes": "Luke paints the scene without comment. Rage has replaced listening."
+    },
+    {
+      "number": 24,
+      "text": "the commanding officer commanded him to be brought into the barracks, ordering him to be examined by scourging, that he might know for what crime they shouted against him like that.",
+      "arminianNotes": "The commander, who probably understood little of the Aramaic speech, orders Paul taken inside and examined by scourging to learn why they were shouting.",
+      "reformedNotes": "Roman scourging with the flagellum could maim or kill. Interrogation by torture was standard for non-citizens."
+    },
+    {
+      "number": 25,
+      "text": "When they had tied him up with straps, Paul asked the centurion who stood by, “Is it lawful for you to scourge a man who is a Roman, and not found guilty?”",
+      "arminianNotes": "As they stretch him out with thongs, Paul asks the centurion whether it is lawful to scourge a Roman citizen who has not been condemned. Roman law, including the Porcian and Julian laws, forbade it.",
+      "reformedNotes": "Paul uses the protections of citizenship rather than seeking suffering for its own sake. Reformed ethics has drawn on this to affirm a believer’s right to appeal to just laws."
+    },
+    {
+      "number": 26,
+      "text": "When the centurion heard it, he went to the commanding officer and told him, “Watch what you are about to do, for this man is a Roman!”",
+      "arminianNotes": "The centurion alerts the commander: “This man is a Roman.” A single question has changed Paul’s legal position.",
+      "reformedNotes": "The officer’s quick reaction shows how serious it was to violate a citizen’s rights."
+    },
+    {
+      "number": 27,
+      "text": "The commanding officer came and asked him, “Tell me, are you a Roman?” He said, “Yes.”",
+      "arminianNotes": "The commander comes to ask Paul directly, and Paul confirms it.",
+      "reformedNotes": "Claims of citizenship were rarely false because lying about it was a capital crime."
+    },
+    {
+      "number": 28,
+      "text": "The commanding officer answered, “I bought my citizenship for a great price.” Paul said, “But I was born a Roman.”",
+      "arminianNotes": "The commander, Claudius Lysias, admits he bought his citizenship at great price; Paul was born a citizen. Under Claudius citizenship was often obtained through bribes.",
+      "reformedNotes": "Paul’s birth status outranks his captor’s purchased one. Luke enjoys the irony."
+    },
+    {
+      "number": 29,
+      "text": "Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him.",
+      "arminianNotes": "The interrogators withdraw at once, and the commander is afraid because he has already had a citizen bound.",
+      "reformedNotes": "Fear of breaking Roman law restrains violence that justice alone would not have stopped."
+    },
+    {
+      "number": 30,
+      "text": "But on the next day, desiring to know the truth about why he was accused by the Jews, he freed him from the bonds and commanded the chief priests and all the council to come together, and brought Paul down and set him before them.",
+      "arminianNotes": "The next day, still wanting to know the real charge, the commander releases Paul and orders the chief priests and the Sanhedrin to assemble.",
+      "reformedNotes": "Paul now stands before the same council that tried Jesus and Stephen. Luke keeps the parallels in view."
+    }
+  ]
+}

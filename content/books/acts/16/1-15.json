@@ -1,0 +1,103 @@
+{
+  "book": "Acts",
+  "bookSlug": "acts",
+  "chapter": 16,
+  "verseStart": 1,
+  "verseEnd": 15,
+  "translation": "WEB",
+  "title": "Acts 16:1–15",
+  "context": "At Lystra Paul takes Timothy, whose mother is Jewish and father Greek, and circumcises him because of the Jews in the area. They deliver the council’s decisions, and the churches grow. The Spirit prevents them from preaching in Asia and Bithynia, and at Troas Paul sees a vision of a Macedonian man pleading for help. They sail to Philippi, and on the Sabbath at the riverside they speak to women gathered for prayer. Lydia, a seller of purple cloth who worships God, listens, and the Lord opens her heart to respond to Paul’s message. She and her household are baptized, and she urges them to stay at her house.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "He came to Derbe and Lystra; and behold, a certain disciple was there, named Timothy, the son of a Jewess who believed, but his father was a Greek.",
+      "arminianNotes": "Paul meets Timothy, son of a believing Jewish woman and a Greek father. Arminian readers see a young believer formed by his mother’s faith.",
+      "reformedNotes": "Reformed readers see God raising up the next generation, and they note 2 Timothy 1:5 on his family’s faith."
+    },
+    {
+      "number": 2,
+      "text": "The brothers who were at Lystra and Iconium gave a good testimony about him.",
+      "arminianNotes": "The brothers in Lystra and Iconium speak well of him. Arminian commentators see a good reputation as a qualification.",
+      "reformedNotes": "Reformed commentators see church testimony as part of the calling to ministry."
+    },
+    {
+      "number": 3,
+      "text": "Paul wanted to have him go out with him, and he took and circumcised him because of the Jews who were in those parts, for they all knew that his father was a Greek.",
+      "arminianNotes": "Paul circumcises Timothy because of the Jews in the area. Arminian readers see a practical step for mission, not a requirement for salvation.",
+      "reformedNotes": "Reformed readers see liberty used for the sake of others, consistent with 1 Corinthians 9:20."
+    },
+    {
+      "number": 4,
+      "text": "As they went on their way through the cities, they delivered the decrees to them to keep which had been ordained by the apostles and elders who were at Jerusalem.",
+      "arminianNotes": "They deliver the decisions of the Jerusalem council. Arminian expositors see the churches united by shared guidance.",
+      "reformedNotes": "Reformed expositors see the authority of the council received by the churches."
+    },
+    {
+      "number": 5,
+      "text": "So the assemblies were strengthened in the faith, and increased in number daily.",
+      "arminianNotes": "The churches are strengthened in faith and grow daily. Arminian readers see growth in both depth and numbers.",
+      "reformedNotes": "Reformed readers see God establishing his people."
+    },
+    {
+      "number": 6,
+      "text": "When they had gone through the region of Phrygia and Galatia, they were forbidden by the Holy Spirit to speak the word in Asia.",
+      "arminianNotes": "The Spirit forbids them to speak the word in Asia. Arminian commentators see that timing matters, since Asia hears the gospel later.",
+      "reformedNotes": "Reformed commentators see the Spirit sovereignly directing where the word goes and when."
+    },
+    {
+      "number": 7,
+      "text": "When they had come opposite Mysia, they tried to go into Bithynia, but the Spirit didn’t allow them.",
+      "arminianNotes": "They try to enter Bithynia, but the Spirit of Jesus does not allow them. Arminian readers see guidance through closed doors.",
+      "reformedNotes": "Reformed readers note the Spirit is called “the Spirit of Jesus,” a hint of the Trinity."
+    },
+    {
+      "number": 8,
+      "text": "Passing by Mysia, they came down to Troas.",
+      "arminianNotes": "They come down to Troas. Arminian expositors see the team waiting for direction.",
+      "reformedNotes": "Reformed expositors see God leading by closing doors before opening one."
+    },
+    {
+      "number": 9,
+      "text": "A vision appeared to Paul in the night. There was a man of Macedonia standing, begging him and saying, “Come over into Macedonia and help us.”",
+      "arminianNotes": "Paul sees a man of Macedonia begging for help. Arminian readers see the need of people calling for the gospel.",
+      "reformedNotes": "Reformed readers see God’s call to a new field."
+    },
+    {
+      "number": 10,
+      "text": "When he had seen the vision, immediately we sought to go out to Macedonia, concluding that the Lord had called us to preach the Good News to them.",
+      "arminianNotes": "They conclude that God has called them to Macedonia. Arminian commentators note the first “we,” suggesting Luke joins the team.",
+      "reformedNotes": "Reformed commentators see the church discerning God’s will together."
+    },
+    {
+      "number": 11,
+      "text": "Setting sail therefore from Troas, we made a straight course to Samothrace, and the day following to Neapolis;",
+      "arminianNotes": "They sail straight to Samothrace and Neapolis. Arminian readers see favorable winds and swift travel.",
+      "reformedNotes": "Reformed readers see providence speeding the journey."
+    },
+    {
+      "number": 12,
+      "text": "and from there to Philippi, which is a city of Macedonia, the foremost of the district, a Roman colony. We were staying some days in this city.",
+      "arminianNotes": "They come to Philippi, a Roman colony. Arminian expositors see the gospel entering Europe.",
+      "reformedNotes": "Reformed expositors see a strategic city chosen by God."
+    },
+    {
+      "number": 13,
+      "text": "On the Sabbath day we went outside of the city by a riverside, where we supposed there was a place of prayer, and we sat down and spoke to the women who had come together.",
+      "arminianNotes": "On the Sabbath they find women praying by the river. Arminian readers see Paul going where seekers gather.",
+      "reformedNotes": "Reformed readers see God preparing a place of prayer."
+    },
+    {
+      "number": 14,
+      "text": "A certain woman named Lydia, a seller of purple, of the city of Thyatira, one who worshiped God, heard us. The Lord opened her heart to listen to the things which were spoken by Paul.",
+      "arminianNotes": "Lydia, a worshiper of God, listens, and “the Lord opened her heart” to give heed to Paul’s words. Arminian readers see God’s gracious work opening her heart, which she did not resist, and they note she was already seeking God. Opening is not the same as forcing.",
+      "reformedNotes": "Reformed readers see a clear example of God acting first: the Lord opened her heart, and as a result she attended to the message. Faith follows the divine opening rather than producing it."
+    },
+    {
+      "number": 15,
+      "text": "When she and her household were baptized, she begged us, saying, “If you have judged me to be faithful to the Lord, come into my house and stay.” So she persuaded us.",
+      "arminianNotes": "She and her household are baptized, and she insists they stay at her house. Arminian commentators see her faith expressed in hospitality.",
+      "reformedNotes": "Reformed commentators see a household baptism, which paedobaptists cite as consistent with covenant practice."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "book": "Acts",
+  "bookSlug": "acts",
+  "chapter": 18,
+  "verseStart": 18,
+  "verseEnd": 28,
+  "translation": "WEB",
+  "title": "Acts 18:18–28",
+  "context": "Paul stays in Corinth for a while, cuts his hair at Cenchreae because of a vow, and sails with Priscilla and Aquila to Ephesus, where he reasons briefly in the synagogue and promises to return if God wills. He travels to Caesarea, Jerusalem, and Antioch, then strengthens the disciples in Galatia and Phrygia. Meanwhile Apollos, an eloquent Alexandrian who knows only John’s baptism, teaches accurately about Jesus in Ephesus; Priscilla and Aquila explain the way of God more accurately to him, and he goes to Achaia, where he greatly helps believers and refutes opponents from the Scriptures.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 18,
+      "text": "Paul, having stayed after this many more days, took his leave of the brothers, and sailed from there for Syria, together with Priscilla and Aquila. He shaved his head in Cenchreae, for he had a vow.",
+      "arminianNotes": "Paul cuts his hair at Cenchreae because of a vow. Arminian readers see Paul keeping Jewish practices as personal devotion.",
+      "reformedNotes": "Reformed readers see freedom to observe customs that do not compromise the gospel."
+    },
+    {
+      "number": 19,
+      "text": "He came to Ephesus, and he left them there; but he himself entered into the synagogue and reasoned with the Jews.",
+      "arminianNotes": "He reaches Ephesus and reasons in the synagogue. Arminian commentators see a brief first visit to a major city.",
+      "reformedNotes": "Reformed commentators see seed sown for later harvest."
+    },
+    {
+      "number": 20,
+      "text": "When they asked him to stay with them a longer time, he declined;",
+      "arminianNotes": "They ask him to stay longer, but he declines. Arminian readers see openness he cannot yet meet.",
+      "reformedNotes": "Reformed readers see God’s timing for the work in Ephesus."
+    },
+    {
+      "number": 21,
+      "text": "but taking his leave of them, he said, “I must by all means keep this coming feast in Jerusalem, but I will return again to you if God wills.” Then he set sail from Ephesus.",
+      "arminianNotes": "He promises to return “if God wills.” Arminian expositors see humility about future plans.",
+      "reformedNotes": "Reformed expositors see submission to God’s providence, as James 4:15 counsels."
+    },
+    {
+      "number": 22,
+      "text": "When he had landed at Caesarea, he went up and greeted the assembly, and went down to Antioch.",
+      "arminianNotes": "He lands at Caesarea, greets the church, and goes to Antioch. Arminian readers see connections maintained.",
+      "reformedNotes": "Reformed readers see the unity of the churches."
+    },
+    {
+      "number": 23,
+      "text": "Having spent some time there, he departed and went through the region of Galatia and Phrygia, in order, establishing all the disciples.",
+      "arminianNotes": "He travels through Galatia and Phrygia strengthening the disciples. Arminian commentators see care for perseverance.",
+      "reformedNotes": "Reformed commentators see ongoing pastoral nurture."
+    },
+    {
+      "number": 24,
+      "text": "Now a certain Jew named Apollos, an Alexandrian by race, an eloquent man, came to Ephesus. He was mighty in the Scriptures.",
+      "arminianNotes": "Apollos, eloquent and mighty in the Scriptures, comes to Ephesus. Arminian readers see gifts ready for God’s use.",
+      "reformedNotes": "Reformed readers see God raising up another teacher."
+    },
+    {
+      "number": 25,
+      "text": "This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught accurately the things concerning Jesus, although he knew only the baptism of John.",
+      "arminianNotes": "He was fervent and taught accurately about Jesus, knowing only John’s baptism. Arminian expositors see sincere faith with incomplete knowledge.",
+      "reformedNotes": "Reformed expositors see the importance of fuller instruction."
+    },
+    {
+      "number": 26,
+      "text": "He began to speak boldly in the synagogue. But when Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately.",
+      "arminianNotes": "Priscilla and Aquila take him aside and explain the way of God more accurately. Arminian readers see gentle correction in private.",
+      "reformedNotes": "Reformed readers see the value of sound doctrine taught by mature believers."
+    },
+    {
+      "number": 27,
+      "text": "When he had determined to pass over into Achaia, the brothers encouraged him; and wrote to the disciples to receive him. When he had come, he greatly helped those who had believed through grace;",
+      "arminianNotes": "He goes to Achaia and greatly helps those who believed through grace. Arminian commentators see Apollos serving those who had come to faith.",
+      "reformedNotes": "Reformed commentators note the phrase “believed through grace” and see faith as the fruit of grace."
+    },
+    {
+      "number": 28,
+      "text": "for he powerfully refuted the Jews, publicly showing by the Scriptures that Jesus was the Christ.",
+      "arminianNotes": "He powerfully refutes the Jews, showing from Scripture that Jesus is the Christ. Arminian readers see reasoned argument from the Bible.",
+      "reformedNotes": "Reformed readers see Scripture as the decisive authority in debate."
+    }
+  ]
+}

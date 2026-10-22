@@ -1,0 +1,79 @@
+{
+  "book": "2 Peter",
+  "bookSlug": "2-peter",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "WEB",
+  "title": "2 Peter 1:1–11",
+  "context": "Peter greets believers who share the same precious faith through the righteousness of Jesus Christ, God and Savior. God’s power has already supplied everything needed for life and godliness, and through his promises believers share in the divine nature. Peter therefore calls them to add virtue upon virtue, from faith to love, and to make their calling and election sure, so that they will receive a rich welcome into Christ’s eternal kingdom.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ:",
+      "arminianNotes": "Peter writes to people who have “obtained” a faith equal in value to the apostles’ own. Arminian readers stress that this faith is received as a gift and exercised by the believer, and that ordinary Christians stand on the same footing as apostles.",
+      "reformedNotes": "The word “obtained” suggests something allotted, as by lot. Reformed readers take this to mean faith is assigned by God, and they note that the verse calls Jesus “our God and Savior,” a strong statement of his deity."
+    },
+    {
+      "number": 2,
+      "text": "Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord,",
+      "arminianNotes": "Grace and peace grow through the knowledge of God and of Jesus. Arminian interpreters see a relationship that deepens as believers keep coming to know him.",
+      "reformedNotes": "Reformed interpreters note that the knowledge in view is personal acquaintance with God, the means by which he multiplies grace in those he has called."
+    },
+    {
+      "number": 3,
+      "text": "seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue,",
+      "arminianNotes": "God’s power has given everything needed for life and godliness. Arminian commentators read this as full provision: no believer lacks the resources to live faithfully, so failure cannot be blamed on God.",
+      "reformedNotes": "Reformed commentators emphasize that God called believers by his own glory and virtue. The initiative lies wholly with him, and godly living is the result of his call."
+    },
+    {
+      "number": 4,
+      "text": "by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust.",
+      "arminianNotes": "Through God’s promises believers become partakers of the divine nature, having escaped the world’s corruption. Arminian readers, following Wesley’s emphasis on holiness, see here a genuine transformation of character that God intends to bring to maturity.",
+      "reformedNotes": "Reformed readers understand sharing in the divine nature as union with Christ and renewal by the Spirit, never as becoming God in essence. The escape from corruption is already accomplished in principle."
+    },
+    {
+      "number": 5,
+      "text": "Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge;",
+      "arminianNotes": "“Adding on your part all diligence” makes human effort explicit. Arminian expositors treat the list that follows as the believer’s responsibility, carried out in cooperation with grace.",
+      "reformedNotes": "Reformed expositors agree that effort is required but point out that it builds on faith already given. Diligence is the response of those whom God has equipped, as verse 3 said."
+    },
+    {
+      "number": 6,
+      "text": "and in knowledge, self-control; and in self-control, perseverance; and in perseverance, godliness;",
+      "arminianNotes": "Knowledge leads to self-control, self-control to perseverance, and perseverance to godliness. Arminian writers see a growing chain of virtues, each one strengthening the next.",
+      "reformedNotes": "Reformed writers see the same chain as sanctification, the gradual work in which the Spirit conforms believers to Christ through their own disciplined effort."
+    },
+    {
+      "number": 7,
+      "text": "and in godliness, brotherly affection; and in brotherly affection, love.",
+      "arminianNotes": "The list ends with brotherly affection and love. Arminian readers find in love the goal of the whole Christian life, the mark of perfection Wesley preached.",
+      "reformedNotes": "Reformed readers see love as the crown of the virtues, the fulfilling of the law that grows from faith."
+    },
+    {
+      "number": 8,
+      "text": "For if these things are yours and abound, they make you to not be idle or unfruitful in the knowledge of our Lord Jesus Christ.",
+      "arminianNotes": "If these qualities abound, believers will not be idle or unfruitful. Arminian interpreters take the conditional seriously: fruitfulness depends on whether believers keep growing.",
+      "reformedNotes": "Reformed interpreters see fruitfulness as the normal outcome of true knowledge of Christ. Where the qualities are absent, the reality of that knowledge comes into question."
+    },
+    {
+      "number": 9,
+      "text": "For he who lacks these things is blind, seeing only what is near, having forgotten the cleansing from his old sins.",
+      "arminianNotes": "Whoever lacks these qualities is shortsighted and has forgotten the cleansing from past sins. Arminian commentators see a believer who was truly cleansed but is now drifting, which shows the danger is genuine.",
+      "reformedNotes": "Reformed commentators often read this as describing a professing believer who has lost sight of grace. The forgetfulness is spiritual blindness that calls for self-examination."
+    },
+    {
+      "number": 10,
+      "text": "Therefore, brothers, be more diligent to make your calling and election sure. For if you do these things, you will never stumble.",
+      "arminianNotes": "“Be more diligent to make your calling and election sure.” Arminian readers see election here as something believers confirm by persevering in faith and virtue. The promise that they will never stumble is tied to “if you do these things,” so it depends on continued faithfulness.",
+      "reformedNotes": "Reformed readers hold that election is fixed in God’s purpose and cannot be made more certain in itself. What believers make sure is their own assurance of it, as the fruit of the Spirit gives evidence that God’s call was effective."
+    },
+    {
+      "number": 11,
+      "text": "For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ.",
+      "arminianNotes": "A rich entrance into the eternal kingdom awaits those who grow in these virtues. Arminian expositors see a reward that follows from faithful perseverance.",
+      "reformedNotes": "Reformed expositors stress that the entrance is “supplied” to believers. The welcome into the kingdom is God’s generous gift, even when it is given to those who have labored."
+    }
+  ]
+}
