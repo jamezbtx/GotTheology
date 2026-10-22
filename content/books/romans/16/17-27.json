@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "Romans 16:17–27",
   "context": "Paul warns the Romans to watch those who cause divisions contrary to the doctrine they have been taught, promises that the God of peace will quickly crush Satan under their feet, sends greetings from his company, and closes with a doxology to the only wise God through Jesus Christ, who has now disclosed to every nation the mystery kept hidden for ages, so that they may believe and obey. (Verse 24, a grace benediction, is found in later manuscripts and printed in the WEB. The WEB places the closing doxology at 14:24–26, following the Majority Text; it is shown here as 16:25–27.)",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On watching those who cause divisions, the God of peace crushing Satan, and the doxology of the revealed mystery, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Now to him who is able—The last words of this epistle exactly answer the first, Romans 1:1–5: in particular, concerning the power of God, the gospel, Jesus Christ, the scriptures, the obedience of faith, all nations. To establish you—Both Jews and gentiles. According to the revelation of the mystery—Of the calling of the gentiles, which, as plainly as it was foretold in the Prophets, was still hid from many even of the believing Jews. Made known to all nations—Not barely that they might know, but enjoy it also, through obeying the faith.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Rom 16:25–26)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "By adding, that God was able to confirm the Romans, he made them more certain of their final perseverance. And that they might acquiesce more fully in his power, he adds, that a testimony is borne to it in the gospel. Here you see, that the gospel not only promises to us present grace, but also brings to us an assurance of that grace which is to endure for ever; for God declares in it that he is our Father, not only at present, but that he will be so to the end. He again refers to the end, mentioned at the beginning of the first chapter, for which the gospel is to be preached,—that God may lead all nations to the obedience of faith.",
-        "cite": "John Calvin",
-        "source": "Commentary on Romans (on Rom 16:25–26)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 17,

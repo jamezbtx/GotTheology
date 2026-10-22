@@ -1,0 +1,62 @@
+{
+  "book": "Revelation",
+  "bookSlug": "revelation",
+  "chapter": 7,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "WEB",
+  "title": "Revelation 7:1–8",
+  "context": "Four angels hold back the winds of judgment until the servants of God are sealed on their foreheads. John hears the number of the sealed: 144,000, twelve thousand from each tribe of Israel.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "After this, I saw four angels standing at the four corners of the earth, holding the four winds of the earth, so that no wind would blow on the earth, or on the sea, or on any tree.",
+      "arminianNotes": "The winds are held back, a pause before judgment. Arminian readers see God’s care for his people before trouble comes.",
+      "reformedNotes": "Reformed readers see judgment restrained until God has secured his own."
+    },
+    {
+      "number": 2,
+      "text": "I saw another angel ascend from the sunrise, having the seal of the living God. He cried with a loud voice to the four angels to whom it was given to harm the earth and the sea,",
+      "arminianNotes": "An angel comes with the seal of the living God. A seal marks ownership and protection.",
+      "reformedNotes": "Reformed readers see God marking those who are his."
+    },
+    {
+      "number": 3,
+      "text": "saying, “Don’t harm the earth, the sea, or the trees, until we have sealed the bondservants of our God on their foreheads!”",
+      "arminianNotes": "God’s servants are sealed before harm comes. Arminian readers see protection for those who belong to God, without assuming they are spared all suffering.",
+      "reformedNotes": "Reformed readers see the seal as a picture of God’s preserving grace, often linked with the Spirit’s sealing (Ephesians 1:13). The sealed are kept through judgment.",
+      "keyContrast": "Both see the seal as God’s mark of protection. Reformed readers often connect it with the Spirit’s sealing and the certainty of perseverance. Arminian readers see protection for God’s faithful servants while maintaining that faith must continue."
+    },
+    {
+      "number": 4,
+      "text": "I heard the number of those who were sealed, one hundred forty-four thousand, sealed out of every tribe of the children of Israel:",
+      "arminianNotes": "The 144,000 are identified in different ways: ethnic Israel in the end times (a common futurist and dispensational reading), Jewish believers, or the whole church as the new Israel. Many note that John hears a number in verse 4 and sees a multitude in verse 9.",
+      "reformedNotes": "Reformed readers usually take the 144,000 as a symbolic number for the complete people of God, the same group John then sees as a multitude. Others in the tradition see a future conversion of Israel."
+    },
+    {
+      "number": 5,
+      "text": "of the tribe of Judah twelve thousand were sealed, of the tribe of Reuben twelve thousand, of the tribe of Gad twelve thousand,",
+      "arminianNotes": "Judah comes first, the tribe of the Messiah.",
+      "reformedNotes": "Reformed readers note that Judah leads because Christ is the Lion of Judah."
+    },
+    {
+      "number": 6,
+      "text": "of the tribe of Asher twelve thousand, of the tribe of Naphtali twelve thousand, of the tribe of Manasseh twelve thousand,",
+      "arminianNotes": "The tribal list varies from Old Testament lists.",
+      "reformedNotes": "Reformed readers note the list is stylized and arranged around the Messiah."
+    },
+    {
+      "number": 7,
+      "text": "of the tribe of Simeon twelve thousand, of the tribe of Levi twelve thousand, of the tribe of Issachar twelve thousand,",
+      "arminianNotes": "Levi is included as a tribe here, unlike some lists, which may suggest the whole people are priests.",
+      "reformedNotes": "Reformed readers see the inclusion of Levi as consistent with the priesthood of all God’s people."
+    },
+    {
+      "number": 8,
+      "text": "of the tribe of Zebulun twelve thousand, of the tribe of Joseph twelve thousand, and of the tribe of Benjamin twelve thousand were sealed.",
+      "arminianNotes": "Dan is missing and Joseph and Manasseh both appear. Interpreters suggest Dan’s link with idolatry (Judges 18) as a reason, though the text does not say.",
+      "reformedNotes": "Reformed readers note the same suggestion and avoid building doctrine on the omission."
+    }
+  ]
+}

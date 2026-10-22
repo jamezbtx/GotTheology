@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 19:17–30",
   "context": "Jesus goes out, bearing his cross, to Golgotha and is crucified between two others. Pilate's trilingual title stands. Soldiers divide garments and cast lots for the tunic. The women and the beloved disciple are given to one another. Knowing all is finished, Jesus thirsts, receives sour wine, says It is finished, and gives up his spirit.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On the cross where he said It is finished, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "It is finished—My suffering: the purchase of man's redemption. He delivered up his spirit—To God. Bearing his cross—Not the whole cross (for that was too large and heavy), but the transverse beam of it, to which his hands were afterward fastened.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 19:17, 30)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "This word well deserves our attention; for it shows that the whole accomplishment of our salvation, and all the parts of it, are contained in his death. The meaning is that every thing which contributes to the salvation of men is to be found in Christ, and ought not to be sought anywhere else—that the perfection of salvation is contained in him. We must look for righteousness through the satisfaction made by Christ. In no other way could our guilt be removed than by the Son of God becoming a curse for us.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 19:17, 30)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 17,
@@ -113,7 +93,7 @@
       "text": "When Jesus therefore had received the vinegar, he said, “It is finished!” Then he bowed his head and gave up his spirit.",
       "arminianNotes": "Wesley: It is finished—My suffering: the purchase of man's redemption. He delivered up his spirit to God. Classical Arminians take tetelestai as a completed price, sufficient for the world. The suffering that buys mankind is done; it is applied to believers who receive the purchased redemption, not automatically credited to every person without faith.\n\nFinished does not mean everyone is already saved, nor that the cross was only a gesture. The purchase is true and worldwide in provision. Whoever believes has the finished work applied. Unbelief does not prove the price was never meant for them; it proves they will not have the Redeemer who bought them. No extra Mass, merit, or self-atonement can add to a purchase he has already called finished.",
       "reformedNotes": "Calvin: this word shows that the whole accomplishment of our salvation, and all the parts of it, are contained in his death. Everything which contributes to the salvation of men is to be found in Christ—the perfection of salvation is contained in him. He contrasts his death with ancient sacrifices: now the true salvation is exhibited. If we assent to this word, we ought to be satisfied with his death alone.\n\nFinished is not a potential waiting on our ratification. The work actually saves those the Father gave to the Son (John 17:2, 6, 9). He bowed his head and gave up his spirit as the one who had authority to lay it down. The elect's debt is not left half-paid; it is paid. Faith receives a salvation already accomplished for those given to him, rather than activating a mere possibility. Calvin also hears comfort for believers who die with Christ: they commit the soul to a God who will not suffer to perish what he has undertaken to preserve.",
-      "keyContrast": "HIGH CONTRAST—do not flatten It is finished. Both affirm: the suffering is complete; no further sacrifice of Christ is needed; salvation is not a human add-on. Classical Arminians, with Wesley's “purchase of man's redemption,” take the finished work as sufficient for the world and applied to believers who receive it. Reformed readers, with Calvin's “whole accomplishment of our salvation contained in his death,” take the finished work as actually saving those given to the Son—definite, effectual atonement, not a general possibility left idle. Fairness: Arminians are not saying the cross is incomplete pending our effort; Reformed readers are not saying the invitation “whoever believes” is a feint. They differ on whether finished means a worldwide sufficient purchase personally applied by faith, or a complete salvation accomplished for the given people the Son actually redeems."
+      "keyContrast": "Both traditions read “It is finished” with care. Both affirm: the suffering is complete; no further sacrifice of Christ is needed; salvation is not a human add-on. Classical Arminians, with Wesley's “purchase of man's redemption,” take the finished work as sufficient for the world and applied to believers who receive it. Reformed readers, with Calvin's “whole accomplishment of our salvation contained in his death,” take the finished work as actually saving those given to the Son—definite, effectual atonement, not a general possibility left idle. Fairness: Arminians are not saying the cross is incomplete pending our effort; Reformed readers are not saying the invitation “whoever believes” is a feint. They differ on whether finished means a worldwide sufficient purchase personally applied by faith, or a complete salvation accomplished for the given people the Son actually redeems."
     }
   ]
 }

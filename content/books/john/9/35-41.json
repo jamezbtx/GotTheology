@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 9:35–41",
   "context": "After the healed man is thrown out of the synagogue, Jesus seeks him out and reveals himself as the Son of Man, and the man believes and worships. Jesus then declares that he came so the blind might see and those who claim to see might become blind. The Pharisees’ question, ‘Are we also blind?’, exposes the sin of refusing light while claiming to have it.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On Jesus finding the cast-out man, the confession “Lord, I believe,” and judgment on those who say they see, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Having found him—For he had sought him. Who is he, that I may believe?—This implies some degree of faith already. He was ready to receive whatever Jesus said. For judgment am I come into the world—That is, the consequence of my coming will be, that by the just judgment of God, while the blind in body and soul receive their sight, they who boast they see, will be given up to still greater blindness than before. If ye had been blind—Invincibly ignorant; if ye had not had so many means of knowing: ye would have had no sin—Comparatively to what ye have now. But now ye say—Ye yourselves acknowledge, Ye see, therefore your sin remaineth—Without excuse, without remedy.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 9:35–41)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "Christ now meets him, when he is no longer in the temple, but wandering hither and hither; receives and embraces him, when he is cast out by the priests; raises him up from the ground, and offers to him life, when he has received the sentence of death… It is true that we are all born blind… If you would acknowledge your disease, it would not be altogether incurable; but now because you think that you are in perfect health, you continue in a desperate state… When a blind man is desirous to obtain deliverance, God is ready to assist him; but they who, insensible to their diseases, despise the grace of God, are incurable.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 9:35, 41)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 35,

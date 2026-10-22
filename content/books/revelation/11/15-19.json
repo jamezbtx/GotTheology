@@ -1,0 +1,43 @@
+{
+  "book": "Revelation",
+  "bookSlug": "revelation",
+  "chapter": 11,
+  "verseStart": 15,
+  "verseEnd": 19,
+  "translation": "WEB",
+  "title": "Revelation 11:15–19",
+  "context": "The seventh trumpet sounds, and heaven proclaims that the kingdom of the world has become the kingdom of our Lord and of his Christ, who will reign forever. The elders worship God for taking his great power and reigning, for the time of judgment and reward has come. God’s temple in heaven opens, and the ark of his covenant is seen.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 15,
+      "text": "The seventh angel sounded, and great voices in heaven followed, saying, “The kingdom of the world has become the Kingdom of our Lord and of his Christ. He will reign forever and ever!”",
+      "arminianNotes": "The kingdom of the world has become the kingdom of the Lord and his Christ. Arminian readers see the final victory toward which history moves.",
+      "reformedNotes": "Reformed readers see the consummation of Christ’s reign, which is already real and will be fully revealed."
+    },
+    {
+      "number": 16,
+      "text": "The twenty-four elders, who sit on their thrones before God’s throne, fell on their faces and worshiped God,",
+      "arminianNotes": "The elders fall on their faces in worship.",
+      "reformedNotes": "Reformed readers see heaven celebrating God’s reign."
+    },
+    {
+      "number": 17,
+      "text": "saying: “We give you thanks, Lord God, the Almighty, the one who is and who was, because you have taken your great power and reigned.",
+      "arminianNotes": "God is no longer called “the one who is to come,” because he has come. He has taken his power and begun to reign.",
+      "reformedNotes": "Reformed readers see God’s sovereignty openly displayed at the end."
+    },
+    {
+      "number": 18,
+      "text": "The nations were angry, and your wrath came, as did the time for the dead to be judged, and to give your bondservants the prophets, their reward, as well as to the saints and those who fear your name, to the small and the great, and to destroy those who destroy the earth.”",
+      "arminianNotes": "The nations raged, and the time has come to judge the dead, reward God’s servants, and destroy those who destroy the earth. Arminian readers see judgment that rewards faithfulness and punishes rebellion.",
+      "reformedNotes": "Reformed readers see God’s justice and grace both fully revealed, with reward given to his servants by grace."
+    },
+    {
+      "number": 19,
+      "text": "God’s temple that is in heaven was opened, and the ark of the Lord’s covenant was seen in his temple. Lightnings, sounds, thunders, an earthquake, and great hail followed.",
+      "arminianNotes": "The ark of the covenant is seen in the heavenly temple, a sign of God’s presence and covenant faithfulness.",
+      "reformedNotes": "Reformed readers see God’s covenant faithfulness at the center of heaven."
+    }
+  ]
+}

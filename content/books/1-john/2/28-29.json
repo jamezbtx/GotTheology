@@ -1,0 +1,47 @@
+{
+  "book": "1 John",
+  "bookSlug": "1-john",
+  "chapter": 2,
+  "verseStart": 28,
+  "verseEnd": 29,
+  "translation": "WEB",
+  "title": "1 John 2:28–29",
+  "context": "John gathers the whole church again as little children and repeats the charge of verse 27: remain in him. The reason looks forward to Christ’s appearing, when those who remain will have boldness instead of shame. Verse 29 then opens the next movement of the letter. Because God is righteous, a life that practices righteousness shows the family likeness of those born of him.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "Two confessional statements on the question this passage presses: what it means to remain in Christ until he appears.",
+    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "arminian": [
+      {
+        "quote": "Those who are incorporated into Christ by a true faith, and have thereby become partakers of his life-giving Spirit, have thereby full power to strive against Satan, sin, the world, and their own flesh, and to win the victory; it being well understood that it is ever through the assisting grace of the Holy Ghost… But whether they are capable, through negligence, of forsaking again the first beginnings of their life in Christ… that must be more particularly determined out of the Holy Scripture, before we ourselves can teach it with the full persuasion of our minds.",
+        "cite": "The Remonstrance (1610)",
+        "source": "Article 5"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "They whom God hath accepted in his Beloved, effectually called, and sanctified by his Spirit, can neither totally nor finally fall away from the state of grace, but shall certainly persevere therein to the end, and be eternally saved.",
+        "cite": "Westminster Confession of Faith (1646)",
+        "source": "Chapter 17.1, Of the Perseverance of the Saints"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 28,
+      "text": "Now, little children, remain in him, that when he appears, we may have boldness and not be ashamed before him at his coming.",
+      "arminianNotes": "Having addressed fathers, young men, and children in turn, John now speaks to the whole church at once. The command to remain in him picks up the promise at the end of verse 27, so what the anointing secures is also what believers are told to do. Wesley read the charge as an address to all in general, and Arminian readers take the command at face value: remaining is something believers can neglect, which is why it is urged.\n\nThe appearing of Christ gives the command its weight. Boldness at his coming belongs to those who continue in him, and shame is the prospect John wants his readers to avoid. John includes himself in the “we,” so the warning is pastoral rather than accusing, but Arminian interpreters hold that it describes a possible outcome and not only a hypothetical one.",
+      "reformedNotes": "Reformed readers note that verse 27 has just said the anointing remains in them and teaches them to remain in him. The command of verse 28 therefore rests on a gift already given. God preserves his people, and he does so through means, including apostolic exhortations like this one. The command is the way perseverance is worked out, not a sign that its outcome is uncertain.\n\nThe appearing of Christ is a motive for diligence, and John wants believers to meet their Lord with confidence. Calvin observed that the fruit of perseverance is boldness before Christ when he comes. Those who are truly born of God will heed the call to remain, and the warning helps expose those who, like the people of verse 19, were never of us.",
+      "keyContrast": "Both traditions read “remain in him” as a command that matters. Arminian readers take it to imply that a believer can fail to remain, so the shame John warns about is a live possibility. Reformed readers take the command as the means by which God keeps those whom the anointing already indwells, so true believers will remain, and the warning serves that end."
+    },
+    {
+      "number": 29,
+      "text": "If you know that he is righteous, you know that everyone who practices righteousness has been born of him.",
+      "arminianNotes": "John reasons from the character of God to the character of his children. If he is righteous, those born of him will practice righteousness. Wesley glossed “born of him” as being a child of God, and Arminian readers press the verse against any assurance that rests on a past experience while the present life contradicts it.\n\nArminian readers stress that new birth produces a changed life through the Spirit’s grace, with which the believer cooperates. Practicing righteousness is the evidence of the new birth, not its cause. The verse also prepares for the sharp contrasts of chapter 3 between the children of God and the children of the devil.",
+      "reformedNotes": "The grammar matters to Reformed interpreters. The one who practices righteousness “has been born” of him, so new birth comes first and righteous living follows from it. Regeneration is God’s work, and a righteous life is its fruit and sign. John is not teaching that righteousness earns new birth; he is giving believers a way to recognize it.\n\nThis gives the verse a place in the doctrine of assurance. Believers may look at the settled direction of their lives as evidence of God’s prior work, while resting their confidence on Christ and not on their own record. The verse opens the theme of being born of God, which John develops through chapters 3 to 5.",
+      "keyContrast": "Both traditions agree that righteous living is the evidence of new birth and not its cause. Reformed readers stress the order of the tenses: regeneration comes first and produces the change. Arminian readers agree that grace is first, and they also emphasize the believer’s continuing response to it."
+    }
+  ]
+}

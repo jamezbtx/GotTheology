@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 7:25–36",
   "context": "Jerusalemites wonder that the sought man teaches openly. They “know where he comes from,” so he cannot be the Christ. He cries that they do not know the One who sent him; they seek to arrest him, but his hour has not come, and many believe because of the signs. Officers are sent. He says he goes to the Sender: they will seek and not find; where he is they cannot come. They joke about the Dispersion.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "What older interpreters in each camp said about a Christ whose origin they think they know, and on seeking him too late.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Then cried Jesus—With a loud and earnest voice. Do ye both know me, and know whence I am?—Ye do indeed know whence I am as a man. But ye know not my Divine nature, nor that I am sent from God. I am from him—By eternal generation: and he hath sent me—His mission follows from his generation. … Ye shall seek me—Whom ye now despise. These words are, as it were, the text which is commented upon in this and the following chapter. Where I am—Christ’s so frequently saying while on earth, where I am, when he spake of his being in heaven, intimates his perpetual presence there in his Divine nature: though his going thither was a future thing, with regard to his human nature.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 7:28–34)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "My presence, which is now irksome and intolerable to you, will last for a short time; but ere long you shall seek me in vain, for, far removed from you, not only by my body, but also by my power, I shall behold from heaven your destruction. … When they seek him, they do not seek him; for unbelief and obstinacy—by shutting up their hearts, as it were—hinders them from approaching to God. … God usually punishes the contempt of his grace in the reprobate, so that … they complain, and cry, and howl, but without reaping any advantage. … Hence let us learn that we ought to receive Christ without delay, while he is still present with us, that the opportunity of enjoying him may not pass away from us; for if the door be once shut, it will be vain for us to try to open it.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 7:33–34)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 25,

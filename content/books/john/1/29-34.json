@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 1:29–34",
   "context": "The next day John sees Jesus and announces the Lamb who takes away the sin of the world, testifies to the Spirit remaining on him, and declares that this is the Son of God.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On the Lamb who takes away the sin of the world, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Behold the Lamb — Innocent; to be offered up; prophesied of by Isaiah, typified by the paschal lamb, and by the daily sacrifice: The Lamb of God — Whom God gave, approves, accepts of; who taketh away — Atoneth for; the sin — That is, all the sins: of the world — Of all mankind. Sin and the world are of equal extent.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 1:29)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "Behold the Lamb of God. The principal office of Christ is briefly but clearly stated; that he takes away the sins of the world by the sacrifice of his death, and reconciles men to God. There are other favors, indeed, which Christ bestows upon us, but this is the chief favor, and the rest depend on it.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 1:29)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 29,

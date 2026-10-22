@@ -6,72 +6,50 @@
   "verseEnd": 7,
   "translation": "WEB",
   "title": "Romans 13:1–7",
-  "context": "Paul turns from the church’s life together to public order: every person is to be in subjection to the higher authorities, which exist as God’s institution. The magistrate is God’s servant for good, bearing the sword against wrongdoing. Subjection is a matter of conscience, not mere fear; taxes, revenue, respect, and honor are to be paid as what is owed. The tone matches the pastoral reminders of Titus 3:1 and 1 Timothy 2:1–2: a quiet, godly life under civil order—not a blank check for tyranny.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Arminian and Reformed writers of the past on subjection to governing authorities, the magistrate as God’s servant for good, and obedience for conscience’ sake, in their own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "St. Paul, writing to the Romans, whose city was the seat of the empire, speaks largely of obedience to magistrates: and this was also, in effect, a public apology for the Christian religion. Let every soul be subject to the supreme powers—An admonition peculiarly needful for the Jews. They are all from God, who constituted all in general, and permits each in particular by his providence. The powers that be are appointed by God—It might be rendered, are subordinate to, or, orderly disposed under, God; implying, that they are God's deputies or vicegerents and consequently, their authority being, in effect, his, demands our conscientious obedience.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Rom 13:1)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "The reason why we ought to be subject to magistrates is, because they are constituted by God's ordination. For since it pleases God thus to govern the world, he who attempts to invert the order of God, and thus to resist God himself, despises his power; since to despise the providence of him who is the founder of civil power, is to carry on war with him. Understand further, that powers are from God, not as pestilence, and famine, and wars, and other visitations for sin, are said to be from him; but because he has appointed them for the legitimate and just government of the world. For though tyrannies and unjust exercise of power, as they are full of disorder, are not an ordained government; yet the right of government is ordained by God for the wellbeing of mankind.",
-        "cite": "John Calvin",
-        "source": "Commentary on Romans (on Rom 13:1)"
-      }
-    ]
-  },
+  "context": "Paul instructs believers to submit to governing authorities, because there is no authority except from God. Rulers are God’s servants to restrain evil and commend good, so believers should obey for conscience’s sake, pay taxes, and give honor and respect where due. The passage has shaped Christian political thought for centuries. The questions it raises, such as the limits of obedience and the right to resist tyranny, cut across both traditions rather than dividing them. Each still brings its own emphasis.",
+  "showVoices": false,
   "verses": [
     {
       "number": 1,
       "text": "Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God.",
-      "arminianNotes": "Paul’s first word to Rome about the empire is pastoral, not revolutionary: Let every soul be in subjection to the higher authorities. Wesley hears a public apology for the Christian religion and an admonition the Jews especially needed. Power and powers alike are from God, who “constituted all in general, and permits each in particular by his providence.” They are God’s deputies; their authority, being in effect His, “demands our conscientious obedience.”\n\nSubjection is a duty, the same family of charge as Titus 3:1 and the prayers of 1 Timothy 2:1–2. It is not a blank check for tyranny. Wesley’s “permits each in particular” already refuses to baptize every abuse as God’s holy will. The church seeks a quiet, godly life under order so the gospel can be lived and spoken, and not a gospel that looks like rebellion.",
-      "reformedNotes": "Calvin: we ought to be subject because magistrates are constituted by God’s ordination. To invert that order is to resist God and carry on war with the founder of civil power. Powers are from God not as pestilence and famine are, but because He appointed them “for the legitimate and just government of the world.” Tyrannies and unjust exercise of power “are not an ordained government”; yet “the right of government is ordained by God for the wellbeing of mankind.”\n\nGod so governs the world. Particular rulers have not ascended by their own power; they were placed by the Lord’s hand. That is why every soul is named—no clerical exemption. Calvin’s own distinction already blocks a blank check for tyranny: unjust power is disorder, not the ordinance. Honor the right of government as useful to men, the same civic gentleness Titus is told to remind.",
-      "keyContrast": "Both take governing authority as from God and require conscientious subjection, not a baptized tyranny. Arminians typically follow Wesley: God constituted government in general and permits each ruler in particular by providence. Calvin’s heirs generally follow Calvin: this ruler is placed by the Lord’s hand for legitimate government, while tyranny itself is not the ordinance."
+      "arminianNotes": "Everyone must submit to governing authorities, since all authority comes from God. Arminian readers see God establishing government as an institution for human good, without endorsing every ruler’s actions.",
+      "reformedNotes": "Reformed readers see God’s providence in the appointment of rulers. Calvin taught that even unjust rulers hold office under God’s sovereignty."
     },
     {
       "number": 2,
       "text": "Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment.",
-      "arminianNotes": "“He who resists the authority withstands the ordinance of God.” Wesley qualifies: “in any other manner than the laws of the community direct.” Condemnation comes “not only from the magistrate, but from God also.” Sedition is not Christian liberty.\n\nLawful appeal, petition, and the community’s own legal paths are not the same as shaking off the yoke. The gospel does not license private revolt. Where a ruler commands what God forbids, God is still to be obeyed first—yet Romans 13 will not let a pressured church treat ordinary government as the enemy by default.",
-      "reformedNotes": "Calvin: no one resists God but to his own ruin. “Judgment” is not only the magistrate’s penalty but “the vengeance of God, however it may at length be executed.” Those who contend with God in this will not be unpunished.\n\nIt belongs not to a private individual to strip authority from the one the Lord has set over us (Calvin at v. 5). The church’s witness is not anarchy. Bad rulers do not erase the ordinance. The same people who pray for kings (1 Tim 2:2) do not seize the sword God assigned to the magistrate.",
-      "keyContrast": "Both warn that resisting the authorities is not a small civic preference. Arminians typically keep Wesley’s legal-channel qualification: what Paul condemns is resistance “in any other manner than the laws of the community direct.” Reformed commentators underline that a private person may not take away the authority God has set in place, and that judgment includes God’s own vengeance."
+      "arminianNotes": "Whoever resists the authority resists what God has appointed. Arminian readers note that this describes government acting within its purpose, and that the apostles disobeyed when told to stop preaching (Acts 5:29).",
+      "reformedNotes": "Reformed readers affirm the duty of submission while developing a doctrine of lawful resistance. Later Reformed writers argued that lower magistrates may resist tyranny."
     },
     {
       "number": 3,
       "text": "For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority,",
-      "arminianNotes": "Rulers are, “in the general, notwithstanding some particular exceptions,” a terror to evil works, not to good (Wesley). Do that which is good, and you receive approval. The ordinary Christian life under government is goodness, not panic.\n\nThis is how a quiet and godly life (1 Tim 2:2) looks in public. “Some particular exceptions” keeps the verse honest: a ruler may fail this description. Paul still directs the church toward good conduct, not toward treating the state as a stage for rage.",
-      "reformedNotes": "Calvin commends obedience on the ground of utility: God designed magistrates to provide tranquillity for the good and restrain the wicked; without that, “all things would come to an entire confusion.” Disliking the magistrate when we are doing good is a bad sign. He speaks of the native duty of the office, “from which however they who hold power often degenerate.”\n\nHonor the good appointment even when people in it degenerate. The church’s good conduct is still the path to a life that need not fear the power. Public order is a mercy for ordinary people, not a banner for a faction."
+      "arminianNotes": "Rulers are a terror to evil conduct, not to good. Arminian readers see Paul describing government’s proper purpose, which provides a standard by which rulers can be judged.",
+      "reformedNotes": "Reformed readers see the restraint of evil as one of God’s gifts of common grace to the world, preserving order so the gospel can spread."
     },
     {
       "number": 4,
       "text": "for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil.",
-      "arminianNotes": "“He is a servant of God to you for good.” That purpose clause is the pastoral brake. Wesley: the sword is “the instrument of capital punishment, which God authorizes him to inflict.” The office is service, not self-enthronement.\n\n“For good” refuses both anarchy and tyranny. The magistrate is a servant of God, not a god. Taxes and honor in the next verses fund that public good. The church can be subject without pretending every use of the sword is righteous.",
-      "reformedNotes": "Calvin: magistrates “are not to rule for their own interest, but for the public good; nor are they endued with unbridled power, but what is restricted to the wellbeing of their subjects; in short, they are responsible to God and to men.” The sword is not empty show; the magistrate is “an executioner of God’s wrath.” Private people are reminded they are defended against the wicked through this divine goodness.\n\nUnbridled power is exactly what Calvin denies the office. Servant, restricted, accountable—then also armed. Christians do not take personal revenge (Rom 12); they leave civic vengeance to the servant God armed. That is order for the good."
+      "arminianNotes": "The ruler is God’s servant for your good and bears the sword to punish wrongdoing. Arminian readers see government as an agent of God’s justice in a fallen world.",
+      "reformedNotes": "Reformed readers see the magistrate as a minister of God. The Westminster Confession grounds the civil authority’s right to punish evildoers partly in this verse."
     },
     {
       "number": 5,
       "text": "Therefore you need to be in subjection, not only because of the wrath, but also for conscience’ sake.",
-      "arminianNotes": "Subjection is “not only for fear of wrath”—punishment from man—“but also for conscience' sake. Out of obedience to God” (Wesley). Fear of getting caught is not enough; the believer’s conscience answers to God.\n\nConscience here is not a private veto of every law. It is why we obey when we could get away with contempt. It is also why we cannot call evil good when a ruler commands what God forbids. Titus 3:1’s reminder and 1 Timothy 2’s prayers for kings live in the same conscience: a people who will not make the gospel look like rebellion, and will not sell the conscience to the state.",
-      "reformedNotes": "Calvin: obey not only because we cannot resist with impunity, but willingly, “as conscience through God's word thus binds us.” Even if the magistrate were disarmed, despising him would still be wrong. Then the crucial fence: “This whole discourse is concerning civil government; it is therefore to no purpose that they who would exercise dominion over consciences do hence attempt to establish their sacrilegious tyranny.”\n\nRomans 13 is not a tool for binding consciences in the church as if the pastor were Caesar. Civil subjection is no pretense; clerical tyranny over the conscience is a misuse of the text. God binds the conscience to honor civil order. He does not hand that conscience to anyone who wants it."
+      "arminianNotes": "Submit not only to avoid punishment but for conscience’s sake. Arminian readers stress the believer’s free, conscientious obedience as part of living a holy life.",
+      "reformedNotes": "Reformed readers see conscience bound by God’s ordinance. Obedience to rulers becomes part of obedience to God."
     },
     {
       "number": 6,
       "text": "For this reason you also pay taxes, for they are servants of God’s service, continually doing this very thing.",
-      "arminianNotes": "“For this cause”—because they are ministers of God for the public good—“pay ye tribute also.” “This very thing” is “the public good” (Wesley). Taxes are not a grudging tip to an enemy; they are part of conscientious subjection.\n\nPaying taxes is ordinary holiness, the civic twin of praying for kings so that a peaceful life may flourish. The money is for the public good the office exists to serve. That still is not a blank check for every levy a tyrant dreams up; it is Paul’s reason for the ordinary tribute of a subject people.",
-      "reformedNotes": "Calvin: if magistrates must defend the peace of the good and resist the wicked, they need means. “Tributes then are justly paid to support such necessary expenses.” What they receive “is as it were public property, and not to be spent in the gratification of private indulgence.” Paul appoints tribute so that “kings may be furnished with means to defend their subjects.”\n\nTax-paying is worship’s neighbor, not its rival—service acceptable to God because the office is His. Rulers are reminded the purse is public. Subjects are reminded the purse is owed. Neither contempt nor luxury is the Christian use of this verse."
+      "arminianNotes": "Pay taxes, because authorities are God’s servants. Arminian readers draw from this that ordinary civic duties are part of faithful Christian living.",
+      "reformedNotes": "Reformed readers see paying taxes as a way of honoring God’s order. It echoes Jesus’ teaching about giving Caesar what belongs to Caesar."
     },
     {
       "number": 7,
       "text": "Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, then customs; if respect, then respect; if honor, then honor.",
-      "arminianNotes": "Pay to all what is owed: taxes, revenue, respect, honor. Wesley: tribute on persons or estates; custom on goods exported or imported; fear is obedience; honor is reverence. “All these are due to the supreme power.”\n\nOwed keeps the tone from flattery. We pay what is due, not a cult of personality. Honor the office as God’s deputy; do not confuse that with baptizing a ruler’s sins. The same people who honor also pray for kings (1 Tim 2:2) because rulers can do much good or much harm.",
-      "reformedNotes": "Calvin summarizes the duties: esteem and honor, obedience to edicts, laws, and judgments, payment of tributes and customs. Fear means obedience. We obey “not because we are constrained, but because it is a service acceptable to God; for he will have them not only to be feared, but also honored by a voluntary respect.”\n\nVoluntary honor is the conscience of v. 5 made public. The church does not wait to be coerced into basic civic dues. Quiet, godly, dignified life under order is the fruit, not a campaign speech."
+      "arminianNotes": "Give everyone what you owe: taxes, revenue, respect, and honor. Arminian readers see Christian integrity reaching every relationship, including those with the state.",
+      "reformedNotes": "Reformed readers see each person’s due as part of God’s ordered world. The verse leads into Paul’s point that the one debt never paid off is love (13:8)."
     }
   ]
 }

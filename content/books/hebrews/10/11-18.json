@@ -6,77 +6,57 @@
   "verseEnd": 18,
   "translation": "WEB",
   "title": "Hebrews 10:11–18",
-  "context": "Priests stand daily offering the same sacrifices that can never take away sins; Christ offered a single sacrifice for sins and sat down at God's right hand. By that one offering he has perfected forever those who are being sanctified, and the Spirit testifies from Jeremiah: God will remember their sins and lawless deeds no more—so where there is forgiveness, there is no more offering for sin.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Older voices from both traditions on Hebrews 10:11–18.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Every priest standeth—as a servant in an humble posture. But he—the virtue of whose one sacrifice remains for ever—sat down as a son, in majesty and honour. He hath perfected them for ever—that is, has done all that was needful in order to their full reconciliation with God. The apostle winds up his argument concerning the excellency and perfection of the priesthood and sacrifice of Christ, describing the new covenant as now completely ratified, and all the blessings of it secured to us by the one offering of Christ, which renders all other expiatory sacrifices, and any repetition of his own, utterly needless.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Hebrews 10:11–18)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "The practice of daily sacrificing is inconsistent with and wholly foreign to the priesthood of Christ. By one offering he hath perfected for ever them that are sanctified; he includes all the children of God, and reminds us that the grace of sanctification is sought elsewhere in vain. He takes his stand on these words: Their iniquities will I remember no more; and hence he concludes that there is no more need of a sacrifice since sins are blotted out. God does not now remember sins, because an expiation has been made once for all.",
-        "cite": "John Calvin",
-        "source": "Commentary on Hebrews (on Hebrews 10:11–18)"
-      }
-    ]
-  },
+  "context": "The writer contrasts the standing priests of the old covenant, offering the same sacrifices daily, with Christ, who offered one sacrifice for sins for all time and sat down at God’s right hand. By that single offering he has perfected forever those who are being sanctified. The Holy Spirit confirms it through Jeremiah’s new covenant promise: God will write his laws on hearts and remember sins no more. Where there is forgiveness, there is no longer any offering for sin. Verse 14 is a key text for the Reformed doctrine of definite atonement and is read differently by Arminians.",
+  "showVoices": false,
   "verses": [
     {
       "number": 11,
       "text": "Every priest indeed stands day by day serving and offering often the same sacrifices, which can never take away sins,",
-      "arminianNotes": "Every priest stands daily, offering often the same sacrifices that can never take away sins. Wesley: every priest standeth as a servant in an humble posture.\n\nBoth camps: standing is unfinished work. The daily service is not diligence praised but inability exposed. Arminians and Reformed together refuse to treat repetition as a path to perfection; only Christ's single offering takes away sins.",
-      "reformedNotes": "Calvin: the conclusion of the whole argument—daily sacrificing is inconsistent with and wholly foreign to the priesthood of Christ; after his coming the Levitical priests were deposed from their office.\n\nWhen Christ's priesthood is set up, the other falls. The same sacrifices that can never take away sins are not a second gospel; they are the shadow's last word about its own limit."
+      "arminianNotes": "Every priest stands daily offering the same sacrifices, which can never take away sins. Arminian readers see the futility of the old system, which Christ’s work replaces.",
+      "reformedNotes": "Reformed readers see the standing priests as a picture of unfinished work, in contrast with Christ, who sits."
     },
     {
       "number": 12,
       "text": "but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God,",
-      "arminianNotes": "But he, when he had offered one sacrifice for sins forever, sat down on the right hand of God. Wesley: the virtue of whose one sacrifice remains for ever; he sat down as a son, in majesty and honour.\n\nSitting means the priestly work of offering is finished. The finished sacrifice is the ground of a sincere gospel; we do not re-offer Christ, we receive him by faith.",
-      "reformedNotes": "Calvin: lest men imagine Christ idle in heaven, he sat down at God's right hand—his dominion and power. He will not suffer the efficacy of his death to be destroyed or buried; he lives that by his power he may fill heaven and earth.\n\nOne sacrifice for all time, then session. The cross is not incomplete; the throne is not unemployed. Intercession and reign continue; expiatory offering does not."
+      "arminianNotes": "Christ offered one sacrifice for sins for all time and sat down at God’s right hand. Arminian readers see the completeness of Christ’s offering, which leaves nothing to add.",
+      "reformedNotes": "Reformed readers see Christ sitting down as the sign that atonement is finished and accepted by the Father."
     },
     {
       "number": 13,
       "text": "from that time waiting until his enemies are made the footstool of his feet.",
-      "arminianNotes": "Waiting until his enemies are made a footstool—Psalm 110. The finished offering does not nullify the coming victory; it secures it.\n\nBoth camps urge patience under the session of Christ. Enemies remain for a time; the seated Priest-King will have them underfoot. Faith waits without inventing another sacrifice.",
-      "reformedNotes": "Calvin: this state continues until Christ lays prostrate all his enemies. If our faith seeks Christ sitting on God's right hand, we shall enjoy the fruit of his victory when Satan, sin, death, and the world are vanquished.\n\nWaiting is not uncertainty about the offering; it is certainty about the reign. The footstool promise keeps hope forward-looking after the once-for-all cross."
+      "arminianNotes": "He waits until his enemies are made a footstool for his feet. Arminian readers see Christ’s present reign moving toward final victory.",
+      "reformedNotes": "Reformed readers see the certainty of Christ’s triumph, which flows from his finished work."
     },
     {
       "number": 14,
       "text": "For by one offering he has perfected forever those who are being sanctified.",
-      "arminianNotes": "For by one offering he has perfected forever those who are being sanctified. Wesley: he hath perfected them for ever—has done all that was needful in order to their full reconciliation with God.\n\nSingle offering; perfected for all time; ongoing \"being sanctified.\" Arminian readers hear perfection as full reconciliation accomplished in the cross for those who believe, while sanctification continues as they abide; the offering is not repeated.",
-      "reformedNotes": "Calvin prefers \"consecrated\" or \"perfected\": all the saints find a full consecration in the one offering of Christ. \"Them who are sanctified\" includes all the children of God; the grace of sanctification is sought elsewhere in vain.\n\nPerfected for all time is definitive for those in Christ; \"being sanctified\" is the ongoing work in the same people. The single offering actually perfects; it does not merely make perfection possible and then wait on an independent will.",
-      "keyContrast": "Both confess that by one offering Christ has perfected forever those who are being sanctified—fulfillment of the old worship, not a second altar. Arminians hear the perfected reconciliation as sincerely accomplished in Christ and applied to those who believe and continue in him. Calvinists typically hear a definitive consecration of the children of God by that one offering, with ongoing sanctification in the same elect people."
+      "arminianNotes": "By a single offering he has perfected for all time those who are being sanctified. Arminian readers see the perfecting as the provision Christ made, applied to those who are being sanctified as they continue in faith.",
+      "reformedNotes": "Reformed readers see the verse as strong evidence that Christ’s death actually secures the eternal perfection of a definite people. Those for whom he died are perfected forever.",
+      "keyContrast": "Both affirm that Christ’s single offering is complete. Arminian readers see it perfecting those who receive and continue in its benefits. Reformed readers see it as actually and permanently securing the salvation of those for whom it was made."
     },
     {
       "number": 15,
       "text": "The Holy Spirit also testifies to us, for after saying,",
-      "arminianNotes": "The Holy Spirit also testifies to us. Wesley: in this and the following verses the apostle winds up his argument; he repeats Jeremiah, describing the new covenant as completely ratified and all its blessings secured by the one offering of Christ.\n\nBoth camps: the Spirit's witness in Scripture seals the argument. The new covenant is not a human upgrade; it is God's sworn mercy proved by the finished sacrifice.",
-      "reformedNotes": "Calvin: this testimony from Jeremiah is not adduced superfluously. He now stands on the remission words to conclude there is no more need of a sacrifice since sins are blotted out.\n\nSpirit-breathed Scripture interprets the cross. The witness is to us—the church that reads Jeremiah fulfilled in Christ's blood."
+      "arminianNotes": "The Holy Spirit also bears witness to us. Arminian readers see the Spirit confirming the new covenant to believers through Scripture.",
+      "reformedNotes": "Reformed readers see the Spirit as the author of Scripture, testifying to the finished work of Christ."
     },
     {
       "number": 16,
       "text": "“This is the covenant that I will make with them after those days,” says the Lord, “I will put my laws on their heart, I will also write them on their mind;” then he says,",
-      "arminianNotes": "This is the covenant: laws on hearts, written on minds. Interior writing, not only exterior tablets.\n\nThe new covenant renews the people so they love God's will. Both camps refuse a grace that leaves the heart untouched. The writing is God's act; the response is living obedience enabled by that grace.",
-      "reformedNotes": "Calvin notes the Jeremiah quotation returns with the heart-and-mind writing, then presses the remission clause as the hinge for \"no more offering.\"\n\nGod writes his laws within. The covenant people are remade. This interior work accompanies the once-for-all forgiveness that ends sacrificial repetition."
+      "arminianNotes": "“I will put my laws on their hearts and write them on their minds.” Arminian readers see the Spirit’s inward work enabling real obedience.",
+      "reformedNotes": "Reformed readers see the new covenant as God’s sovereign promise to renew the hearts of his people."
     },
     {
       "number": 17,
       "text": "“I will remember their sins and their iniquities no more.”",
-      "arminianNotes": "I will remember their sins and their iniquities no more. Wesley: all the blessings of the new covenant secured by the one offering, rendering other expiatory sacrifices and any repetition of his own utterly needless.\n\nCommon ground: forgiveness, not divine amnesia as carelessness. God chooses not to recall against us what the blood has covered. Wesleyan Arminians hear this mercy held out in the gospel to all who repent and believe.",
-      "reformedNotes": "Calvin: God does not now remember sins, because an expiation has been made once for all; otherwise the Prophet's promise of the New Testament benefit would be to no purpose.\n\nNon-remembrance rests on a finished price. Sins are remitted in a way different from the old shadows—not a different mercy, but a different and final price."
+      "arminianNotes": "“I will remember their sins and their lawless deeds no more.” Arminian readers see full forgiveness given to all who enter the new covenant by faith.",
+      "reformedNotes": "Reformed readers see God’s complete and permanent forgiveness of his people, grounded in Christ’s satisfaction."
     },
     {
       "number": 18,
       "text": "Now where remission of these is, there is no more offering for sin.",
-      "arminianNotes": "Now where remission of these is, there is no more offering for sin. The logic is airtight: forgiven people do not need another victim.\n\nBoth camps shut the door on repeated propitiatory offerings. Flee to the one sacrifice, not back to the altar; hold the confession; the warning and the endurance that follow assume this finished forgiveness.",
-      "reformedNotes": "Calvin: where remission of these is, there is no more offering for sin. The sacrifices of the Law are proved abolished, and any repeated expiatory mass is a vain fiction against the Apostle's argument.\n\nPastorally: forgiveness ends offering. The church's worship is thanksgiving and communion, not a new Calvary. From this settled forgiveness the letter turns to confidence, assembly, warning, and endurance."
+      "arminianNotes": "Where there is forgiveness, there is no longer any offering for sin. Arminian readers see this as the reason that turning away from Christ leaves no other sacrifice (10:26).",
+      "reformedNotes": "Reformed readers see the sufficiency of Christ’s sacrifice, which excludes any repeated offering. Reformation polemics against the Mass drew on this verse."
     }
   ]
 }

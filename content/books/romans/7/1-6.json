@@ -6,66 +6,45 @@
   "verseEnd": 6,
   "translation": "WEB",
   "title": "Romans 7:1–6",
-  "context": "Paul uses a marriage-law illustration: death releases from the first husband; believers were made dead to the law through Christ’s body, to belong to the risen One and bear fruit for God, serving in newness of the Spirit, not in the oldness of the letter.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "How earlier teachers on both sides handled death to the law and belonging to Christ, quoted directly.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "The apostle continues the comparison between the former and the present state of a believer, and at the same time endeavours to wean the Jewish believers from their fondness for the Mosaic law. The law is here spoken of, by a common figure, as a person, to which, as to an husband, life and death are ascribed. He speaks indifferently of the law being dead to us, or we to it, the sense being the same. She is freed from the law of her husband—from that law which gave him a peculiar property in her. Thus ye also are now as free from the Mosaic law as an husband is, when his wife is dead. By the body of Christ—offered up; that is, by the merits of his death, that law expiring with him. Being dead to that whereby we were held—to our old husband, the law. That we might serve in newness of spirit—in a new, spiritual manner. And not in the oldness of the letter—not in a bare literal, external way, as we did before.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Rom 7:1–6)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "While the law holds us separated from Christ and bound to itself, it can do nothing but condemn us. We are dead to it through the body of Christ. The law was, as it were, our husband, under whose yoke we were kept until it became dead to us: after the death of the law Christ received us, that is, he joined us, when loosed from the law, to himself. This is not a release from the righteousness which is taught in the law, but from its rigid requirements, and from the curse which thence follows. We were delivered through the body of Christ—through his body as fixed to the cross—that we may be now bound to another husband. He regenerates us for this end—that by newness of life we may bring forth fruit unto God. We are then freed from the law, when God emancipates us from its rigid exactions and curse, and endues us with his Spirit, through whom we walk in his ways.",
-        "cite": "John Calvin",
-        "source": "Commentary on Romans (on Rom 7:1–6)"
-      }
-    ]
-  },
+  "context": "Paul uses the analogy of marriage to explain the believer’s release from the law. Just as death ends a marriage bond, believers have died to the law through the body of Christ so that they belong to another, the risen Christ, and bear fruit for God. They now serve in the new way of the Spirit, not the old way of the written code. Both traditions read this as the believer’s freedom from the law’s condemnation. They differ on the continuing role of the moral law.",
+  "showVoices": false,
   "verses": [
     {
       "number": 1,
       "text": "Or don’t you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives?",
-      "arminianNotes": "Paul speaks to men who know the law—Wesley: to the Jews chiefly. The law binds a man for as long as he lives: so long, and no longer. The law is spoken of, by a common figure, as a person, a husband, to which life and death are ascribed. He speaks indifferently of the law being dead to us, or we to it; the sense is the same.\n\nArminians hear the rule as pastoral: the condemning husband does not rule forever. Death ends the claim so that a new belonging is possible. The point is not a hidden list of who may later be loosed, but a known principle: those who have died with Christ are no longer bound as they were.",
-      "reformedNotes": "Calvin: the law was given to regulate the present life and belongs not to those who are dead; to this he subjoins that we are dead to it through the body of Christ. The dominion is while life lasts; death is the only release.\n\nThe principle is certain and already applied to those united to Christ. Binding-until-death is not a maybe. Those who have actually died with Him are actually free. The law’s condemning hold is ended by a death in union with Christ, not by a later choice to remain loosed."
+      "arminianNotes": "The law has authority over a person only while that person lives. Both traditions see the principle that death ends legal obligation.",
+      "reformedNotes": "Reformed readers see the law’s binding power as lasting as long as a person lives under it. That sets up Paul’s point that only death, here union with Christ in his death, can release someone from its condemnation."
     },
     {
       "number": 2,
       "text": "For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband.",
-      "arminianNotes": "Wesley: she is freed from the law of her husband—from that law which gave him a peculiar property in her. Death, not renegotiation, ends the first marriage. The living husband still binds; the dead husband does not.\n\nThe illustration is mercy: the condemning husband does not keep the widow. Release is given so that we may belong to another. Arminians detect a freedom granted for a new belonging to Christ—not a permission to wander, and not a bond that never needed death.",
-      "reformedNotes": "Calvin: the woman is bound to her living husband by the law, so that she cannot be the wife of another; after the death of her husband she is loosed from the bond of his law, so that she is free to marry whom she pleases. The law was, as it were, our husband, under whose yoke we were kept until it became dead to us.\n\nUnion’s logic: there is no freedom from a law but by death. The regenerate are actually released because a death has occurred. The first husband’s claim is over; another husband may now lawfully receive them. This is not a trial separation."
+      "arminianNotes": "A married woman is bound to her husband while he lives. Both traditions see an illustration, not a full teaching on marriage.",
+      "reformedNotes": "Reformed readers likewise take the marriage as an analogy, not a full teaching on marriage. They note that Paul’s point concerns the change of covenant relationship, not divorce law."
     },
     {
       "number": 3,
       "text": "So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man.",
-      "arminianNotes": "While the first husband lives, another union would be adultery. After his death, a new marriage is clean. Paul is not shaming the new belonging; he is showing why death had to come first.\n\nThe pastoral point: believers are not to serve two husbands. Release from the law as condemning husband is so we may belong to Christ without that old claim. Fruit is the intended path of those who remain in that belonging; the new marriage is meant to be lived, not merely announced.",
-      "reformedNotes": "Calvin’s application: after the death of the law Christ received us—he joined us, when loosed from the law, to himself. Being united to Christ risen from the dead, we ought to cleave to him alone; as the life of Christ after the resurrection is eternal, hereafter there shall be no divorce.\n\nThe regenerate belong to another. The old claim is dead; the new marriage is perpetual. This is union, not a lease. Fruit for God is what that sacred bond produces in those He has actually joined to the risen One."
+      "arminianNotes": "If the husband dies, she is free to marry another. Arminian readers draw from this that freedom from the law is a real change of status. It opens a new relationship that the believer is called to live out faithfully.",
+      "reformedNotes": "Reformed readers see the point of the analogy in the word “free.” The believer’s release from the law is as complete as a widow’s release from her marriage, so there is no lingering condemnation."
     },
     {
       "number": 4,
       "text": "Therefore, my brothers, you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might produce fruit to God.",
-      "arminianNotes": "Wesley: ye also are now as free from the Mosaic law as an husband is when his wife is dead. By the body of Christ—offered up; that is, by the merits of his death, that law expiring with him. Death through Christ’s body releases from the condemning husband so that we may belong to the risen One.\n\n“So that you may belong… in order that we might produce fruit.” Belonging and fruit are the intended path of those who remain in that union. The release is not imaginary; it is for a living attachment to Christ, served in newness of the Spirit. Fruit is what remaining in that belonging looks like—not a wage, and not a harvest guaranteed irrespective of remaining.",
-      "reformedNotes": "Calvin: we were delivered through the body of Christ—through his body as fixed to the cross. The bond of the law was destroyed not that we may live according to our own will, but that we may be now bound to another husband, from the law to Christ. He regenerates us for this end—that by newness of life we may bring forth fruit unto God.\n\nUnion with Christ’s death ends the law’s condemning claim. The regenerate now belong to another—the risen One—and will bear fruit for God by the Spirit. Fruit is the product of that sacred bond, not a maybe hanging on whether the marriage might still be the old one.",
-      "keyContrast": "Arminian readings typically read death to the law through Christ’s body as release from the law as a condemning husband, so that we may belong to the risen One and bear fruit—the intended path of those who remain in that belonging. Reformed readings take union with Christ’s death as ending the law’s condemning claim: the regenerate now belong to another and will bear fruit for God. Union is the hinge: a belonging to be remained in, versus a bond that has already remade the people."
+      "arminianNotes": "You died to the law through the body of Christ, so that you may belong to another. Arminian readers see freedom from the law as a covenant of works.",
+      "reformedNotes": "Reformed readers see release from the law’s curse and condemnation, while the moral law remains a guide for the believer’s life.",
+      "keyContrast": "Both agree that believers are released from the law’s condemnation. Reformed readers keep the moral law as a rule of life, often called its third use. Wesleyan Arminians also affirm the moral law as a guide to holy living."
     },
     {
       "number": 5,
       "text": "For when we were in the flesh, the sinful passions which were through the law worked in our members to bring out fruit to death.",
-      "arminianNotes": "Wesley: when ye were in the flesh—carnally minded, in a state of nature, before we believed in Christ. Our sins which were by the law were accidentally occasioned, or irritated thereby; they wrought in our members, spreading over the whole man. The old marriage bore death-fruit.\n\nThis is the former state, not the believer’s present tense. Passions which were through the law are why we needed release. Listen here for “before we believed”: the flesh-life is what faith left. Fruit for death is what the condemning husband produced; it is not the path of those who now belong to Christ and remain in that belonging.",
-      "reformedNotes": "Calvin: as long as the literal teaching of the law, unconnected with the Spirit of Christ, rules and bears sway, the wantonness of the flesh is not restrained but breaks out and prevails. Those under the law attain nothing else but that their ears are struck by its external sound without fruit, while they are inwardly destitute of the Spirit of God. Bondage to the law produces sin only; the emotions of the flesh brought forth fruit to death.\n\n“In the flesh” is the unrenewed state. The law without the Spirit inflames. This is why emancipation must be no pretense. The regenerate are no longer that people. Death-fruit belonged to the old dominion; it is not the ongoing harvest of those God has joined to Christ."
+      "arminianNotes": "In the flesh, sinful passions aroused by the law bore fruit for death. Both traditions see the law stirring up sin in fallen people.",
+      "reformedNotes": "Reformed readers see the law as unable to give life to people in the flesh. Rather than restraining sin, the commandment provoked it, which shows that the problem lies in the human heart, not in the law."
     },
     {
       "number": 6,
       "text": "But now we have been discharged from the law, having died to that in which we were held; so that we serve in newness of the spirit, and not in oldness of the letter.",
-      "arminianNotes": "Wesley: being dead to that whereby we were held—to our old husband, the law. That we might serve in newness of spirit—in a new, spiritual manner; and not in the oldness of the letter—not in a bare literal, external way, as we did before.\n\n“But now” is the believer’s present: released, dead to the captive-holder, serving in the Spirit’s newness. The purpose is that we serve. New-life Spirit, not old-letter, is the manner of those who remain in belonging to Christ. The fruit of v. 4 is this service. Release is not license; it is a new way meant to be lived in that belonging.",
-      "reformedNotes": "Calvin: we are then freed from the law when God emancipates us from its rigid exactions and curse, and endues us with his Spirit, through whom we walk in his ways. Before our will is formed according to the will of God by the Holy Spirit, we have in the law nothing but the outward letter, which bridles external actions but does not restrain the fury of our lusts. Newness is ascribed to the Spirit because it succeeds the old man.\n\nUnion has already done this. The regenerate serve in the Spirit because God has endued them. The old letter is not their husband. Fruit for God is what the Spirit produces in those so freed—not the old code’s harvest, and not an open question whether the new husband will keep them.",
-      "keyContrast": "Both confess release from the law by a death, so as to serve in newness of the Spirit, not the old letter. Arminians read the release as from the condemning husband, that we may serve in the Spirit’s newness—the intended path of those who remain in belonging to Christ. Reformed Christians take union with Christ’s death as God’s emancipation from the law’s rigid exaction and curse, the Spirit actually given so the regenerate will walk in His ways. Union is the key: remaining in the new belonging, versus a death that has already ended the old claim and given the new life."
+      "arminianNotes": "Now we serve in the new way of the Spirit. Arminian readers, especially Wesleyans, draw from this that the Spirit gives real power for obedience. Holiness is not just required but possible by grace.",
+      "reformedNotes": "Reformed readers see the Spirit writing the law on the heart, as Jeremiah 31 promised. Obedience now flows from a renewed nature, not from external pressure of the written code."
     }
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "book": "Revelation",
+  "bookSlug": "revelation",
+  "chapter": 22,
+  "verseStart": 16,
+  "verseEnd": 21,
+  "translation": "WEB",
+  "title": "Revelation 22:16–21",
+  "context": "Jesus confirms that he sent his angel to testify these things to the churches. He is the root and offspring of David and the bright morning star. The Spirit and the bride invite all who hear and all who thirst to come and take the water of life freely. A solemn warning protects the words of the book, and the Bible closes with Christ’s promise to come soon, the church’s answering prayer, and a blessing of grace.",
+  "showVoices": true,
+  "voices": {
+    "eyebrow": "From the tradition",
+    "heading": "Voices from both camps",
+    "intro": "On the Bible’s closing invitation to come and take the water of life freely, a classic statement from each tradition.",
+    "note": "Quotations lightly abridged for length; wording follows standard English editions of the sources named.",
+    "arminian": [
+      {
+        "quote": "The grace or love of God, whence cometh our salvation, is free in all, and free for all. It is free in all to whom it is given. It does not depend on any power or merit in man; no, not in any degree, neither in whole, nor in part.",
+        "cite": "John Wesley",
+        "source": "Sermon 128 (1872 edition), “Free Grace,” preached at Bristol"
+      }
+    ],
+    "reformed": [
+      {
+        "quote": "The Lord was pleased to make a second, commonly called the covenant of grace; wherein he freely offereth unto sinners life and salvation by Jesus Christ; requiring of them faith in him, that they may be saved; and promising to give unto all those that are ordained unto eternal life his Holy Spirit, to make them willing, and able to believe.",
+        "cite": "Westminster Confession of Faith (1646)",
+        "source": "Chapter 7.3, Of God’s Covenant with Man"
+      }
+    ]
+  },
+  "verses": [
+    {
+      "number": 16,
+      "text": "I, Jesus, have sent my angel to testify these things to you for the assemblies. I am the root and the offspring of David, the Bright and Morning Star.”",
+      "arminianNotes": "Jesus himself speaks, confirming that the whole book is his testimony to the churches. He is both the root of David, the source of David’s line, and its offspring, the promised son of David. Arminian readers see the Messiah who fulfills God’s promises.",
+      "reformedNotes": "Reformed readers note that Jesus is both David’s Lord and David’s son (compare Matthew 22:41–45), which points to his divine and human natures. The bright morning star announces the dawn of the new day."
+    },
+    {
+      "number": 17,
+      "text": "The Spirit and the bride say, “Come!” He who hears, let him say, “Come!” He who is thirsty, let him come. He who desires, let him take the water of life freely.",
+      "arminianNotes": "The Spirit and the bride, the church, say “Come!” The invitation is extended to whoever hears, whoever is thirsty, and whoever desires. Arminian readers see this as one of the clearest statements of the universal offer of grace. The water of life is offered freely to anyone willing to receive it, and the Bible’s final invitation is addressed to all.\n\nThe word “freely” matters as well. Salvation is a gift without price, and Arminian readers hold that God’s grace makes the response possible for anyone who hears.",
+      "reformedNotes": "Reformed readers affirm the free and sincere offer of the gospel to all who hear. The church is to invite everyone, and the Westminster Confession speaks of God freely offering life and salvation to sinners. The water is given without price.\n\nReformed theology adds that the thirst and the desire are themselves the work of the Spirit, who makes sinners willing and able to believe. The invitation goes to all, and those who come do so because God has drawn them, as Jesus taught in John 6:37–44.",
+      "keyContrast": "Both traditions read 22:17 as a free and sincere invitation, and both want it preached to everyone. Arminian readers see grace that enables any hearer to respond, so “whoever desires” shows that the offer is open to all. Reformed readers see the desire to come as itself the Spirit’s gift, so that all are invited and those who come have been drawn by God."
+    },
+    {
+      "number": 18,
+      "text": "I testify to everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues which are written in this book.",
+      "arminianNotes": "The warning against adding to the words of the prophecy echoes Deuteronomy 4:2. Arminian readers take it as a serious warning to anyone who would distort the message.",
+      "reformedNotes": "Reformed readers see a warning that protects the integrity of the book. Many also apply it more broadly to the sufficiency of Scripture, though the immediate reference is to this prophecy."
+    },
+    {
+      "number": 19,
+      "text": "If anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life, and out of the holy city, which are written in this book.",
+      "arminianNotes": "Arminian readers often cite this verse as evidence that a person can lose a share in the tree of life and the holy city. The warning is addressed to those who hear the book, and taking away from its words brings the loss of what was promised.",
+      "reformedNotes": "Reformed readers read the warning as directed at those who tamper with the word. Some take “his part” as the share that was offered or professed, not one actually possessed. The warning is serious and functions as a means of keeping God’s people faithful to his word.",
+      "keyContrast": "Arminian readers take the warning as showing that a person can lose a share in the tree of life. Reformed readers read “his part” as the share offered or professed, and they see the warning as a means God uses to keep his people faithful."
+    },
+    {
+      "number": 20,
+      "text": "He who testifies these things says, “Yes, I am coming soon.” Amen! Yes, come, Lord Jesus!",
+      "arminianNotes": "Christ promises a third time that he is coming soon, and the church answers, “Amen! Yes, come, Lord Jesus!” This echoes the early Aramaic prayer Maranatha (1 Corinthians 16:22). Arminian readers see the hope that shapes faithful living.",
+      "reformedNotes": "Reformed readers see the church’s longing for Christ’s return as the right response to the whole book. Whatever view of the millennium one holds, all agree on this prayer."
+    },
+    {
+      "number": 21,
+      "text": "The grace of the Lord Jesus Christ be with all the saints. Amen.",
+      "arminianNotes": "The book ends with grace, which Arminian readers see as the theme of the whole biblical story: God’s grace extended to all and received by faith.",
+      "reformedNotes": "Reformed readers note that Scripture’s last word is grace. The blessing is for all the saints, God’s people whom he has kept by his grace to the end."
+    }
+  ]
+}

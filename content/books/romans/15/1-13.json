@@ -6,110 +6,87 @@
   "verseEnd": 13,
   "translation": "WEB",
   "title": "Romans 15:1–13",
-  "context": "Paul turns from the weak and the strong to Christ's own pattern: the strong ought to bear the weaknesses of the weak, not to please themselves. Christ didn’t please himself; the Scriptures were written so that through endurance and encouragement we might have hope. He prays for harmony, then summons Jew and Gentile to accept one another, even as Christ also accepted them, that the God of hope may fill them with joy and peace in believing, and they may abound in hope by the power of the Holy Spirit.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Classic Arminian and Reformed comment on Romans 15:1–13, in the writers’ own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "We who are strong—Of a clearer judgment, and free from these scruples. And not to please ourselves—Without any regard to others. Christ bore not only the infirmities, but reproaches, of his brethren. That through the consolation which God gives us by the Scriptures, we may have patience and a joyful hope. Receive ye one another—Weak and strong, with mutual love. Christ was a servant of his Father, of the circumcision, for the salvation of the Jews, to manifest the truth and fidelity of God. In him shall the Gentiles hope—who before had been without hope. Now the God of hope—A glorious title of God, but till now unknown to the heathens.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Rom 15:1–13)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "The stronger then any one is in Christ, the more bound he is to bear with the weak. Since it is not right that a servant should refuse what his lord has himself undertaken, it would be very strange in us to wish an exemption from the duty of bearing the infirmities of others, to which Christ submitted himself; for he having no regard for himself, gave up himself wholly to this service. He, having received not one or two of us, but all together, has thus connected us, that we ought to cherish one another if we would continue in his bosom. It hence appears that the Lord does in no degree measure his precepts according to our strength or the power of free-will; he commands those things which require the aid of his grace, that he may stimulate us in our attention to prayer.",
-        "cite": "John Calvin",
-        "source": "Commentary on Romans (on Rom 15:1–13)"
-      }
-    ]
-  },
+  "context": "Paul finishes his appeal to the strong and the weak by pointing to Christ, who did not please himself. Scripture was written to give endurance and hope, and Paul prays that the church will glorify God with one voice. Believers are to welcome one another as Christ welcomed them, because Christ became a servant to Israel to confirm God’s promises and so that the Gentiles might glorify God for his mercy. A chain of Old Testament quotations celebrates the nations praising God, and Paul closes with a prayer to the God of hope. Both traditions read the passage as a vision of one people of God drawn from every nation, with different emphases on how that people is gathered.",
+  "showVoices": false,
   "verses": [
     {
       "number": 1,
       "text": "Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves.",
-      "arminianNotes": "The strong—Wesley says those of a clearer judgment, free from the scruples of Romans 14—are not excused from the table. They have an obligation: bear the weaknesses of the weak, and do not please yourselves. Strength is for carrying, not for winning the argument.\n\nChristlike liberty is liberty to stoop. The able remain responsible; this duty can be taken up or refused. A church is healthy when the strong actually take the weight, not when they lecture the weak from a height.",
-      "reformedNotes": "Calvin: this strength was bestowed so that they might sustain the weak and prevent them from falling. Gifts are for the body of Christ. The stronger anyone is in Christ, the more bound he is to bear with the weak—not merely to tolerate them, but to help carry what they cannot carry.\n\nObligation here is a trust, not a suggestion. God has committed the strong to the weak as surely as He committed knowledge to those who must teach. Strength is not a private comfort.",
-      "keyContrast": "Both bind the strong to carry the weak rather than please themselves. Arminians hear an obligation the strong can obey or refuse. Reformed interpreters hear strength itself as a gift bestowed for this duty—the stronger in Christ, the more bound."
+      "arminianNotes": "The strong ought to bear with the failings of the weak and not please themselves. Arminian readers see love that helps weaker believers keep going in faith.",
+      "reformedNotes": "Reformed readers see strength given by grace for the service of others. Christian maturity shows itself in patient care for the weak."
     },
     {
       "number": 2,
       "text": "Let each one of us please his neighbor for that which is good, to be building him up.",
-      "arminianNotes": "Please the neighbor—not to flatter, but for that which is good, to be building him up. Wesley: edification is one species of good. The aim is the other's growth in Christ, not a smoother evening.\n\nThe passage carries a wide, practical love: each of us is addressed. Building up is work we can do, and work we can neglect. The neighbor's good is a charge, not a mood.",
-      "reformedNotes": "Calvin: we are under obligations to others, and ought to accommodate ourselves to our brethren according to God's word, to their edification. Two things: do not rest in your own judgment, and do not please people toward their ruin.\n\nMost people cannot be pleased except you indulge their humor. The command is not popularity."
+      "arminianNotes": "Each should please his neighbor for his good, to build him up. Arminian readers stress the community’s role in strengthening believers.",
+      "reformedNotes": "Reformed readers see edification as the purpose of Christian liberty and the goal of all church life."
     },
     {
       "number": 3,
       "text": "For even Christ didn’t please himself. But, as it is written, “The reproaches of those who reproached you fell on me.”",
-      "arminianNotes": "The pattern is not a proverb; it is Christ. He did not please himself. Wesley: He bore not only the infirmities but the reproaches of His brethren, and so fulfilled Psalm 69. The strong are not asked to do what their Lord refused.\n\nIf Christ stooped, no one in the church is too free to stoop. Reproach that falls on a weak brother is not beneath the strong. The verse invites imitation, not a shrug that only Jesus could live this way.",
-      "reformedNotes": "Calvin: it would be very strange in us to wish exemption from a duty to which Christ, our Lord and King, submitted Himself. Having no regard for Himself, He gave Himself wholly to this service. Zeal for God's glory absorbed Him.\n\nThe servant does not refuse what the Lord has undertaken. Christ's self-emptying is the church's law because He reigns in His people. If He reigns in us, what derogates from God's glory will grieve us as if it struck our own name."
+      "arminianNotes": "Christ did not please himself; he bore reproach. Arminian readers see Christ as the model of self-giving love that believers are called and enabled to follow.",
+      "reformedNotes": "Reformed readers see Christ first as the substitute who bore reproach for his people, and then as their example. Imitation rests on redemption."
     },
     {
       "number": 4,
       "text": "For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope.",
-      "arminianNotes": "The Old Testament was not a closed file. Wesley: aforetime, in the Old Testament—and through the consolation God gives us by these writings we may have patience and a joyful hope. Scripture is for the living church, not only for the first readers.\n\nClassical Arminians take this as a sincere means of grace: God instructs, encourages, and holds out hope in the Word. Those who attend to the Scriptures are summoned to endure and to hope; the page is not a locked decree but a living comfort.",
-      "reformedNotes": "Calvin: there is nothing vain in the oracles of God. The Scriptures raise those prepared by patience and strengthened by consolation to the hope of eternal life. God alone is the author of patience and consolation; He uses His Word as the instrument.\n\nHope is not a mood we manufacture from old stories. The Spirit plants what the Word teaches. Former days were written for our salvation, and fanatics who discard the Old Testament rob the church of what God appointed for her."
+      "arminianNotes": "What was written in former days was written for our instruction, that we might have hope. Arminian readers see Scripture as a means of grace that sustains faith and hope.",
+      "reformedNotes": "Reformed readers see the unity of Scripture. The Old Testament speaks directly to Christians, and God uses it to produce endurance."
     },
     {
       "number": 5,
       "text": "Now the God of perseverance and of encouragement grant you to be of the same mind with one another according to Christ Jesus,",
-      "arminianNotes": "Paul does not merely command harmony; he asks the God of perseverance and of encouragement to grant it—in accord with Christ Jesus, not in accord with the stronger party's taste. Wesley hears this according to the power of Christ Jesus.\n\nGod grants what the church must still live. Prayer and responsibility sit together. Harmony is a gift to be received, not a trophy of the party that won Romans 14.",
-      "reformedNotes": "Calvin: after exhorting them, Paul turns to pray, for he fully understood that to speak of duty was to no purpose except God inwardly effected by His Spirit what he spoke by the mouth of man. God is the author of patience and consolation; the Word is His instrument.\n\nThe God who is named from what He produces is asked to produce like-mindedness. Unity according to Christ is not a human truce. God must bring minds to unanimity, or the exhortation dies on the page.",
-      "keyContrast": "Both pray that God grant harmony in accord with Christ, not that the strong simply win. Arminians find a gift that the church must still receive and live. Reformed readers follow Calvin's point: duty-talk is pointless unless God inwardly effects by His Spirit what the apostle speaks."
+      "arminianNotes": "May the God of endurance and encouragement grant you to live in harmony. Arminian readers see God giving grace in answer to prayer, which believers receive and use.",
+      "reformedNotes": "Reformed readers see unity as God’s gift, prayed for because only he can give it."
     },
     {
       "number": 6,
       "text": "that with one accord you may with one mouth glorify the God and Father of our Lord Jesus Christ.",
-      "arminianNotes": "The end of harmony is not a quieter church calendar. It is one voice—Wesley: Jews and Gentiles believing with one mind and confessing with one mouth—glorifying the God and Father of our Lord Jesus Christ.\n\nShared praise is the test. If the strong and the weak cannot sing the Father's glory together, the previous verses have not yet landed. Doxology is the point of the patience.",
-      "reformedNotes": "Calvin: God is not truly glorified by us unless the hearts of all agree in giving Him praise, and their tongues join in harmony. He so esteems the unity of His servants that He will not have His glory sounded forth amid discords.\n\nNo one may boast that he will glorify God after his own manner. This one thought ought to check the rage for contention. The Father of our Lord Jesus Christ is praised when the church is one mouth, not a contest of mouths."
+      "arminianNotes": "Together with one voice glorify the God and Father of our Lord Jesus Christ. Arminian readers see united worship as the goal of mutual acceptance.",
+      "reformedNotes": "Reformed readers see God’s glory as the final aim of the church’s unity, as of all things."
     },
     {
       "number": 7,
       "text": "Therefore accept one another, even as Christ also accepted you, to the glory of God.",
-      "arminianNotes": "Therefore—because Christ is the pattern and the Scriptures give hope—welcome one another. Wesley: weak and strong, with mutual love. The measure is not, Welcome those who have caught up to you, but, As Christ also accepted you.\n\nChrist's welcome is sincere and wide enough for this mixed room. If He received you when you were not yet strong, you may not freeze out a brother whose conscience still trembles. Glory to God is at stake in the greeting.",
-      "reformedNotes": "Calvin: Christ, having received not one or two of us but all together, has connected us so that we ought to cherish one another if we would continue in His bosom. Only thus do we confirm our calling: if we separate not ourselves from those the Lord has bound together.\n\nWelcome is covenant practice. Christ has actually received these people to the glory of God. To refuse a brother He has taken is to tear what He joined. The glory of the Father is made known in that reception.",
-      "keyContrast": "Both command a practical welcome because of Christ, for God's glory. Arminians hear Christ's welcome as the sincere pattern and offer that gathered this mixed church, so the strong and weak must receive one another without a hidden inner circle. Reformed readers hear that Christ has actually received these people into His bosom—those He bound together—so refusing a brother is tearing what Christ joined."
+      "arminianNotes": "Welcome one another as Christ welcomed you, for the glory of God. Arminian readers draw from this that Christ’s welcome extends to all who come to him in faith.",
+      "reformedNotes": "Reformed readers see Christ’s welcome of his people as the ground and pattern of their welcome of one another."
     },
     {
       "number": 8,
       "text": "Now I say that Christ has been made a servant of the circumcision for the truth of God, that he might confirm the promises given to the fathers,",
-      "arminianNotes": "Paul now shows how Christ received us. Wesley: He was a servant of His Father, of the circumcision, for the salvation of the Jews, to manifest the truth and fidelity of God. The promises to the patriarchs were not a feint; Christ confirmed them.\n\nClassical Arminians gladly confess that God's truthfulness stands: what He promised to the fathers He performed in the Son. Gentile believers do not erase Israel; they meet a Christ who first became a servant to the circumcised.",
-      "reformedNotes": "Calvin: Christ embraced us all, yet in the first place He was promised to the Jewish nation and in a manner peculiarly destined for them. He became servant of the circumcision to accomplish the truth of God by performing the promises given to the fathers. The old covenant was in reality spiritual.\n\nThis is no common honor—the Lord of heaven put on flesh to procure salvation for that people. Salvation in Christ belonged by covenant to the Jews; His coming fulfilled what the Father had promised Abraham. Truthfulness here is promise kept."
+      "arminianNotes": "Christ became a servant to the circumcised to confirm the promises given to the patriarchs. Arminian readers see God’s faithfulness to Israel as part of his plan to bless the world.",
+      "reformedNotes": "Reformed readers see Christ fulfilling the covenant promises to Abraham. The continuity of God’s covenant is central to Reformed theology."
     },
     {
       "number": 9,
       "text": "and that the Gentiles might glorify God for his mercy. As it is written, “Therefore I will give praise to you among the Gentiles and sing to your name.”",
-      "arminianNotes": "Christ's servanthood has a second aim: that the Gentiles might glorify God for His mercy. Wesley hears Psalm 18 as Jews and Gentiles joining in the worship of the God of Israel. Mercy is sung, not merely noted.\n\nThe nations are sincerely summoned into praise. Mercy to the Gentiles is not an afterthought God might withhold from those who would come; it is written into the psalm so that outsiders may actually sing His name.",
-      "reformedNotes": "Calvin: this is the second point, and Paul dwells on it longer because it was not so evident. Mercy named the Gentiles' share, as truth named the Jews'—promise kept to the fathers, mercy extended to those who had no such distinct pledge. God's praises are declared in the assembly of those who can hear them.\n\nThe calling of the Gentiles is a fulfilled prophecy, not a human expansion of the franchise. They glorify God for mercy because God has brought them into communion with His people so that His name is known among them."
+      "arminianNotes": "The Gentiles glorify God for his mercy. Arminian readers draw from this that God’s mercy is meant for all nations without restriction.",
+      "reformedNotes": "Reformed readers see God’s mercy reaching his elect among the Gentiles, as promised from the beginning.",
+      "keyContrast": "Both celebrate the Gentiles glorifying God for his mercy. Arminian readers see mercy offered to all people. Reformed readers see mercy reaching the elect from every nation."
     },
     {
       "number": 10,
       "text": "Again he says, “Rejoice, you Gentiles, with his people.”",
-      "arminianNotes": "The nations are not a tolerated gallery; they are called to rejoice with Israel, not instead of Israel.\n\nThe gospel's table is wide. Gentile joy is commanded joy, an invitation into the people's song. No one in Rome may treat the other half of the church as a guest who should stay quiet.",
-      "reformedNotes": "The Scripture says it again so no one can call Gentile inclusion a Pauline novelty. Gentiles rejoice with His people—joined, not annexed as a rival people of God.\n\nGod had already written the mixed choir. What Paul requires in the Roman church is what Moses and the psalms already sang. Unity here is obedience to Scripture, not a modern experiment."
+      "arminianNotes": "“Rejoice, you Gentiles, with his people.” Arminian readers see Jews and Gentiles joined in one worshiping community through faith.",
+      "reformedNotes": "Reformed readers see the one people of God, with Gentiles grafted into Israel’s blessings (11:17)."
     },
     {
       "number": 11,
       "text": "Again, “Praise the Lord, all you Gentiles! Let all the peoples praise him.”",
-      "arminianNotes": "Wesley simply marks the text. The smallest psalm opens the largest door: praise is asked of the nations, not only of Zion.\n\nHere the reader meets a sincere call. Peoples are summoned to extol the Lord; the summons is not theater. Those who hear may praise, and the church that believes this will not hoard the song.",
-      "reformedNotes": "Calvin: how can they who know not God's greatness praise Him? They could no more do this than call on His name when unknown. It is a prophecy most suitable to prove the calling of the Gentiles.\n\nThe psalm is not a wish that never lands. God calls the nations because He will have them praise Him. Extolling Him grows from being brought to know His name, not a compliment paid from remaining darkness."
+      "arminianNotes": "“Praise the Lord, all you Gentiles.” Arminian readers see the universal scope of the gospel reflected in the Psalms.",
+      "reformedNotes": "Reformed readers see worship from all peoples as the goal of God’s redemptive plan."
     },
     {
       "number": 12,
       "text": "Again, Isaiah says, “There will be the root of Jesse, he who arises to rule over the Gentiles; in him the Gentiles will hope.”",
-      "arminianNotes": "Isaiah 11: the root of Jesse—Wesley notes that kings and the Messiah were promised to Jesse even before David. In Him shall the Gentiles hope, who before had been without hope (Ephesians 2:12).\n\nThe nations are not left as spectators of Israel's Messiah. They may actually hope in Him. The root of Jesse arises to rule and to be trusted; former hopelessness is not the last word for those who now look to Christ.",
-      "reformedNotes": "Calvin: this prophecy is the most illustrious of them all. From the dry trunk of David's family a shoot would arise for the Gentiles' salvation. Hope in Christ is an evidence of His divinity. Twice the calling of the Gentiles is confirmed: He is raised as a sign, and they shall hope in Him—which cannot take place without the preaching of the word and illumination of the Spirit.\n\nGentile hope is Christ's gift, not a native religious talent. He arises to rule; they hope because the Word is preached and the Spirit gives light."
+      "arminianNotes": "The root of Jesse will rise to rule the Gentiles; in him they will hope. Arminian readers see Christ as the hope offered to every nation.",
+      "reformedNotes": "Reformed readers see the Messiah’s kingly rule gathering the nations under him, fulfilling Isaiah 11."
     },
     {
       "number": 13,
       "text": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope in the power of the Holy Spirit.",
-      "arminianNotes": "The section closes as it must: a prayer. Wesley: the God of hope—a glorious title, till now unknown to the heathens, whose goddess Hope was nothing. He fills with all joy and peace in believing, that we may abound in hope through the Spirit's power.\n\nFilling is God's, and believing is the appointed way. Hope overflows where people actually trust Him. The Spirit's power is help, not a substitute for faith; the church is invited to abound, not to wait and see whether hope was assigned.",
-      "reformedNotes": "Calvin: Paul desires the Lord to give what He had commanded. The Lord does not measure His precepts according to our strength or the power of free-will; He commands what requires the aid of His grace, that He may stimulate us to prayer. Through the power of the Holy Spirit all these are gifts of divine bounty—that wonderful energy by which the Spirit works in us faith, hope, joy, and peace.\n\nAbounding hope is not the extra mile of hardy souls. The God in whom we hope fills; the Spirit's power does the work. Prayer is the right response because the command outruns us.",
-      "keyContrast": "Both ascribe overflowing hope to the God of hope and the Spirit's power, not to native cheer. Arminians hear “in believing” as the appointed way God fills those who trust Him—filling joined to true faith. Reformed interpreters typically hear the Spirit's power as the energy that actually works faith, hope, joy, and peace; God does not command hope as if free-will were equal to it."
+      "arminianNotes": "May the God of hope fill you with joy and peace in believing, that you may abound in hope by the power of the Holy Spirit. Arminian readers see joy and peace as the experience of faith, sustained by the Spirit.",
+      "reformedNotes": "Reformed readers see hope, joy, and peace as gifts of God through the Spirit’s power. Believers abound in hope because God is its source."
     }
   ]
 }

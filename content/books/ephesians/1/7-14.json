@@ -6,28 +6,8 @@
   "verseEnd": 14,
   "translation": "WEB",
   "title": "Ephesians 1:7–14",
-  "context": "After the blessing of election (vv. 3–6, already live), Paul names redemption by Christ’s blood, the revealed mystery to sum up all things in Him, the inheritance predestined by God’s counsel, and the Spirit’s seal as guarantee.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On redemption by Christ’s blood, the mystery that unites all things in Him, the inheritance predestined by God’s counsel, and the Spirit’s seal, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "By whom we — Who believe. Have — From the moment we believe. Redemption — From the guilt and power of sin. Through his blood — Through what he hath done and suffered for us. According to the riches of his grace — According to the abundant overflowings of his free mercy and favour.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Eph 1:7)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "By his death he has restored us to favor with the Father; and therefore we ought always to direct our minds to the blood of Christ, as the means by which we obtain divine grace. After mentioning that, through the blood of Christ, we obtain redemption, he immediately styles it the forgiveness of sins.",
-        "cite": "John Calvin",
-        "source": "Commentary on Ephesians (on Eph 1:7)"
-      }
-    ]
-  },
+  "context": "Having praised God for choosing and adopting his people (vv. 3–6), Paul names redemption through Christ’s blood, the mystery of God’s plan to sum up all things in Christ, the inheritance assigned by God’s counsel, and the seal of the Spirit. Verse 11, “him who does all things after the counsel of his will,” is a key text on God’s sovereignty. Arminian and Reformed readers differ on how far that counsel determines human choices, and agree on the comfort of the Spirit’s seal.",
+  "showVoices": false,
   "verses": [
     {
       "number": 7,

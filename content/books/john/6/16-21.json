@@ -12,17 +12,17 @@
     "eyebrow": "From the tradition",
     "heading": "Voices from both camps",
     "intro": "Arminian and Reformed writers of the past on Jesus walking on the sea and the word “It is I; do not be afraid”, in their own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "note": "Quotations abridged; wording follows standard English editions of the sources named.",
     "arminian": [
       {
-        "quote": "He constrained his disciples — Who were unwilling to leave him. The fourth watch — The Jews (as well as the Romans) usually divided the night into four watches, of three hours each. Be of good cheer; it is I; be not afraid. Thou art the Son of God — They mean, the Messiah.",
+        "quote": "He constrained his disciples — Who were unwilling to leave him. The fourth watch — The Jews (as well as the Romans) usually divided the night into four watches, of three hours each.",
         "cite": "John Wesley",
         "source": "Explanatory Notes upon the New Testament (on John 6:16–21; cf. Matt 14:22–33)"
       }
     ],
     "reformed": [
       {
-        "quote": "It is I: be not terrified. We learn from them that it is in Christ’s presence alone that we have abundant grounds of confidence, so as to be calm and at ease. But this belongs exclusively to the disciples of Christ; for we shall afterwards see that wicked men were struck down by the same words, It is I. Believers, who know that he is given to them to make propitiation, as soon as they hear his name, take courage as if they had been raised from death to life. Nor does he only comfort them by his word, but actually removes also the cause of the terror by allaying the tempest.",
+        "quote": "It is I: be not terrified. We learn from them that it is in Christ’s presence alone that we have abundant grounds of confidence, so as to be calm and at ease.",
         "cite": "John Calvin",
         "source": "Commentary on John (on John 6:16–21)"
       }

@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 7:10–24",
   "context": "After his brothers go up, Jesus goes to the feast privately. Jerusalem mutters and fears. Mid-feast he teaches in the temple: his teaching is from the One who sent him; anyone whose will is to do God’s will will know the teaching’s origin. He exposes Sabbath hypocrisy over Moses’ circumcision and calls them to judge with right judgment, not appearances.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On a teaching not his own, and on the will that is willing to do God’s will, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "My doctrine is not mine—Acquired by any labour of learning; but his that sent me—Immediately infused by him. If any man be willing to do his will, he shall know of the doctrine, whether it be of God—This is a universal rule, with regard to all persons and doctrines. He that is thoroughly willing to do it, shall certainly know what the will of God is.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 7:16–17)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "Christ, therefore, replies that sound judgment flows from fear and reverence for God; so that, if their minds be well disposed to the fear of God, they will easily perceive if what he preaches be true or not. … if we are prepared to obey God, he will never fail to illuminate us by the light of his Spirit, so that we shall be able to distinguish between truth and falsehood. Nothing else, therefore, hinders us from judging aright, but that we are unruly and headstrong. … these words of Christ contain a definition of true religion; that is, when we are prepared heartily to follow the will of God, which no man can do, unless he has renounced his own views.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 7:17)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 10,

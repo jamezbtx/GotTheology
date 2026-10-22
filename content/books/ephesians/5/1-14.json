@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "Ephesians 5:1–14",
   "context": "A pastoral paragraph on imitating God, walking in love, holiness, and children of light.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Arminian and Reformed writers of the past on this pastoral paragraph—imitating God, walking in love, holiness, and children of light, in their own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Be ye therefore followers—Imitators. Of God—In forgiving and loving. O how much more honourable and more happy, to be an imitator of God, than of Homer, Virgil, or Alexander the Great! Ye were once darkness—Total blindness and ignorance. Walk as children of light—Suitably to your present knowledge. Reprove them—To avoid them is not enough. Wherefore he—God. Saith—In the general tenor of his word, to all who are still in darkness. Awake thou that sleepest—In ignorance of God and thyself; in stupid insensibility. And arise from the dead—From the death of sin. And Christ shall give thee light—Knowledge, holiness, happiness.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Eph 5:1–14)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "Having called on us to imitate God, he now calls on us to imitate Christ, who is our true model. We ought to embrace each other with that love with which Christ has embraced us, for what we perceive in Christ is our true guide. Darkness is the name here given to the whole nature of man before regeneration; for, where the brightness of God does not shine, there is nothing but fearful darkness. Light, again, is the name given to those who are enlightened by the Spirit of God. This does not mean that, when we have risen from death to life, his light begins to shine upon us, as if our performances came before his grace. All that is intended is to show that, when Christ enlightens us, we rise from death to life.",
-        "cite": "John Calvin",
-        "source": "Commentary on Ephesians (on Eph 5:1–14)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 1,

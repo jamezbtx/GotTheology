@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 1:43–51",
   "context": "Jesus finds Philip (“Follow me”); Philip finds Nathanael; prejudice about Nazareth yields to “Come and see”; Jesus names him an Israelite without deceit, having seen him under the fig tree; Nathanael confesses Son of God and King of Israel; Jesus promises heaven opened on the Son of Man.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Philip’s call and Nathanael under the fig tree: older Arminian and Reformed writers, each in their own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Can any good thing come out of Nazareth? — How cautiously should we guard against popular prejudices? When these had once possessed so honest a heart as that of Nathanael, they led him to suspect the blessed Jesus himself for an impostor, because he had been brought up at Nazareth. But his integrity prevailed over that foolish bias, and laid him open to the force of evidence. Nathanael answered — Happy are they that are ready to believe, swift to receive the truth and grace of God. Thou art the Son of God — So he acknowledges now more than he had heard from Philip.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 1:46, 49)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "When Philip was inflamed by this single word to follow Christ, we infer from it how great is the efficacy of the word of God; but it does not appear indiscriminately in all, for God addresses many without any advantage. The external preaching of the word is in itself unfruitful, except that it inflicts a deadly wound on the reprobate. But when the secret grace of God quickens it, all the senses must be affected in such a manner that men will be prepared to follow wherever God calls them. As Nathanael knew that Christ did not see him after the manner of men, but by a look truly divine, this might lead him to conclude that Christ did not now speak as a man.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 1:43, 48)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 43,

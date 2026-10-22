@@ -37,3 +37,8 @@
 /doctrine/          /doctrines/           301
 /attribute          /attributes/          301
 /attribute/         /attributes/          301
+
+# Force HTTPS and the apex host (Netlify also enforces HTTPS once the cert is active)
+http://got-theology.com/*      https://got-theology.com/:splat  301!
+http://www.got-theology.com/*  https://got-theology.com/:splat  301!
+https://www.got-theology.com/* https://got-theology.com/:splat  301!

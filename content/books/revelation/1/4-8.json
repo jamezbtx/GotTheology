@@ -1,0 +1,43 @@
+{
+  "book": "Revelation",
+  "bookSlug": "revelation",
+  "chapter": 1,
+  "verseStart": 4,
+  "verseEnd": 8,
+  "translation": "WEB",
+  "title": "Revelation 1:4–8",
+  "context": "John greets the seven churches with grace and peace from the eternal God, from the seven Spirits before his throne, and from Jesus Christ, the faithful witness, firstborn of the dead, and ruler of the kings of the earth. He praises Christ, who loves us and freed us by his blood, and announces his coming with the clouds. God speaks as the Alpha and the Omega, the Almighty.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 4,
+      "text": "John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne;",
+      "arminianNotes": "The greeting is trinitarian in shape: the eternal God, the seven Spirits, and Jesus Christ. Most interpreters read the seven Spirits as the Holy Spirit in his fullness, drawing on Isaiah 11:2 and Zechariah 4. Arminian readers see grace and peace offered to all seven churches, faithful and failing alike.",
+      "reformedNotes": "Reformed readers see the Trinity in the greeting, with the Father named by his eternal being, the Spirit by his fullness, and the Son by his saving work. Grace and peace come from God’s initiative. The name “who is and who was and who is to come” stresses God’s unchanging lordship over history."
+    },
+    {
+      "number": 5,
+      "text": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us, and washed us from our sins by his blood—",
+      "arminianNotes": "Christ is the faithful witness, the firstborn of the dead, and ruler of the kings of the earth. “To him who loves us, and washed us from our sins by his blood” celebrates his saving work. Arminian readers see his love and sacrifice extended in the gospel to all who believe.",
+      "reformedNotes": "Reformed readers note that the love is present and continuing, while the cleansing is a finished act accomplished by Christ’s blood. Many Reformed interpreters connect “us” with the people Christ has redeemed. His rule over the kings of the earth is already a reality, though not yet fully seen."
+    },
+    {
+      "number": 6,
+      "text": "and he made us to be a Kingdom, priests to his God and Father—to him be the glory and the dominion forever and ever. Amen.",
+      "arminianNotes": "Christ has made his people a kingdom and priests, echoing Exodus 19:6. Arminian readers stress that every believer has access to God and is called to serve him. The doxology gives glory to Christ forever.",
+      "reformedNotes": "Reformed readers see the priesthood of all believers grounded in Christ’s work. The church is a kingdom now, sharing in his rule as it serves God. The doxology to Christ is a strong witness to his deity."
+    },
+    {
+      "number": 7,
+      "text": "Behold, he is coming with the clouds, and every eye will see him, including those who pierced him. All the tribes of the earth will mourn over him. Even so, Amen.",
+      "arminianNotes": "“He is coming with the clouds” draws on Daniel 7:13 and Zechariah 12:10. Preterists often link the verse to Christ’s coming in judgment on Jerusalem in AD 70, while most other interpreters take it as his visible return at the end. Arminian readers see the mourning of the tribes as a warning that calls people to repent while there is time.",
+      "reformedNotes": "Reformed readers commonly read the verse as Christ’s personal and visible return, though some Reformed preterists apply it to AD 70. The mourning may be the grief of judgment or, as in Zechariah 12, the grief of repentance. Either way, the verse affirms that Christ will be seen by all."
+    },
+    {
+      "number": 8,
+      "text": "“I am the Alpha and the Omega, ” says the Lord God, “who is and who was and who is to come, the Almighty.”",
+      "arminianNotes": "God calls himself the Alpha and the Omega, the one who is and was and is to come, the Almighty. Arminian readers see a God who governs history and is faithful to his promises from beginning to end.",
+      "reformedNotes": "Reformed readers see God’s sovereignty over all of history. He stands at its beginning and its end, so nothing in the visions to follow falls outside his rule. The same title is later used of Christ (22:13)."
+    }
+  ]
+}

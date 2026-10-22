@@ -6,83 +6,63 @@
   "verseEnd": 18,
   "translation": "WEB",
   "title": "Hebrews 2:10–18",
-  "context": "The pioneer of salvation is perfected through suffering as the Father brings many sons to glory: sanctifier and sanctified share one source, so he calls them brothers, trusts the Father, and presents the children given him. Sharing flesh and blood, he destroys the devil’s death-power, frees from lifelong fear, helps Abraham’s offspring—not angels—and becomes a merciful, faithful high priest who propitiates and helps the tempted.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On the pioneer perfected through suffering, brotherhood, and the merciful high priest, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "It became him—it was suitable to all his attributes, both to his justice, goodness, and wisdom. For whom—as their ultimate end—and by whom—as their first cause—are all things, in bringing many sons to glory, to make the captain of their salvation perfect through sufferings. Captain—prince, leader, and author of their salvation. To perfect or consummate implies the bringing him to a full and glorious end of all his troubles. He that sanctifieth and they who are sanctified are all of one—partakers of one nature. Since the children partake of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil, and deliver them who through fear of death were all their lifetime subject to bondage. He taketh not hold of angels, but of the seed of Abraham. It behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest… to make reconciliation for the sins of the people. For in that he himself hath suffered being tempted, he is able to succour them that are tempted.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Heb 2:10–18)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "His object is to make Christ’s humiliation appear glorious to the godly. No better cause can be found than the good pleasure of God—for whom and by whom are all things. It was necessary that Christ, as the first-begotten, should by the cross be inaugurated into his supremacy, since that is the common lot of all; this is the conforming of the head with the members. He that sanctifieth and they who are sanctified are all of one—of one nature. He is not ashamed to call them brethren. “Behold, I and the children which God hath given me”: Christ brings none to the Father but those given him by the Father; this donation depends on eternal election. He put on our nature that by death he might redeem us from it; the devil’s power to hurt us is destroyed or restrained. He took the seed of Abraham, not angels. He was made like his brethren that he might be a merciful and faithful high priest… to make propitiation for the sins of the people. Having been tried by our evils, he is ready to bring us help.",
-        "cite": "John Calvin",
-        "source": "Commentary on Hebrews (on Heb 2:10–18)"
-      }
-    ]
-  },
+  "context": "The writer explains why the Son had to share in human nature and suffering. It was fitting for God to make the founder of salvation perfect through suffering, as he brings many sons to glory. Christ is not ashamed to call them brothers. He shared flesh and blood so that through death he might destroy the devil and free those enslaved by fear of death. He became like his brothers in every respect so that he could be a merciful and faithful high priest, making atonement for the people’s sins, and able to help those who are tempted. Both traditions treasure the passage. They read its references to “children” and “the people” differently.",
+  "showVoices": false,
   "verses": [
     {
       "number": 10,
       "text": "For it became him, for whom are all things and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.",
-      "arminianNotes": "Wesley: It became him—it was suitable to all his attributes, justice, goodness, and wisdom. For whom—as their ultimate end—and by whom—as their first cause—are all things. In bringing many children to glory—to perfect the captain of their salvation through sufferings. Captain: prince, leader, and author. Perfect/consummate: bring him to a full and glorious end of all his troubles. What is said of our Lord’s being made perfect through sufferings has no relation to our being saved or sanctified by sufferings as atonement; his atonement and his Spirit carrying on faith’s work alone can sanctify us.\n\nAgreed on both sides: the pioneer is perfected through suffering; many sons are brought to glory. Arminians gladly confess the fittingness of the Father’s plan without making our pains a second sacrifice.",
-      "reformedNotes": "Calvin: that Christ’s humiliation appear glorious to the godly. The best cause is God’s good pleasure—for whom and by whom are all things. It was necessary that Christ, as the first-begotten, should by the cross be inaugurated into his supremacy, since that is the common lot of all; this is the conforming of the head with the members (Rom 8:29). By sorrows the faithful are sanctified for glory as Christ himself was—so they may kiss the cross rather than dread it. τελειῶσαι: consecrated/perfected as captain.\n\nThe King who governs fits the Captain to the many sons by the same cruciform path he has decreed for his family—head and members."
+      "arminianNotes": "It was fitting that God, in bringing many sons to glory, should make the founder of their salvation perfect through suffering. Arminian readers see the many sons as all who come to God through faith in Christ.",
+      "reformedNotes": "Reformed readers see the “many sons” as the elect whom God has determined to bring to glory. Christ was perfected in the sense of being fully qualified as Savior through suffering."
     },
     {
       "number": 11,
       "text": "For both he who sanctifies and those who are sanctified are all from one, for which cause he is not ashamed to call them brothers,",
-      "arminianNotes": "Wesley: He that sanctifieth—Christ—and they who are sanctified—brought to God—are all of one—partakers of one nature from one parent, Adam. Hence he is not ashamed to call them brethren.\n\nShared solidarity: sanctifier and sanctified share one human source. Classical Arminians hear fraternity that grounds sympathy (vv. 17–18) without dissolving the distinction between Redeemer and redeemed.",
-      "reformedNotes": "Calvin: the author of holiness and we who partake of it are of one nature—out of the same mass. He not only as God sanctifies us; there is also power of sanctifying in his human nature, God having poured upon it a perfect fullness of holiness. He is not ashamed to call them brethren—even when elevated after the resurrection into immortal glory.\n\nUnion and shared nature; holiness drawn from the Head. Fraternity is honor conferred by the exalted Christ."
+      "arminianNotes": "He who sanctifies and those who are sanctified all have one source, so he is not ashamed to call them brothers. Arminian readers see Christ’s solidarity with humanity and with believers.",
+      "reformedNotes": "Reformed readers see the union between Christ and his people, whom he sanctifies by his blood."
     },
     {
       "number": 12,
       "text": "saying, “I will declare your name to my brothers. Among the congregation I will sing your praise.”",
-      "arminianNotes": "Wesley: I will declare thy name to my brethren—Christ declares God as gracious and merciful to all who believe. In the midst of the church will I sing praise—as precentor of the choir; he still does this by his word and Spirit.\n\nThe singing Brother leads congregational praise. Psalm 22’s voice is Christ’s among his brethren.",
-      "reformedNotes": "Calvin: from Ps 22—Christ is the speaker. Proclaiming God’s name began with the gospel and continues by pastors’ ministry; Christ is author of the gospel. He leads our songs—chief composer of our hymns.\n\nThe King who governs still speaks through gospel ministry; Christ himself is the herald in his disciples."
+      "arminianNotes": "“I will tell of your name to my brothers.” Arminian readers see Christ leading his people in worship.",
+      "reformedNotes": "Reformed readers see Christ as the leader of the worship of the redeemed, fulfilling Psalm 22."
     },
     {
       "number": 13,
       "text": "Again, “I will put my trust in him.” Again, “Behold, here I am with the children whom God has given me.”",
-      "arminianNotes": "Wesley: I will put my trust in him—as one who has communion with his brethren in sufferings as well as nature. Behold, here I am with the children which God hath given me—he presents all believers to God.\n\nChildren given are believers he presents; trust amid suffering is the Brother’s pattern. Held in common: incarnation solidarity.",
-      "reformedNotes": "Calvin: trust in God proves he was man exposed to human wants; what is natural to our helplessness he willingly undertook. “Children whom God has given me”: primary cause of obedience is God’s adoption; Christ brings none to the Father but those given him—this donation depends on eternal election. “All those whom the Father gives me will come to me” (John 6:37).\n\nThe children are the Father’s gift to the Son—election underwriting the trust and the family.",
-      "keyContrast": "Both hear the Son trusting the Father and naming “children.” Arminians stress believers presented as brethren who share his trust-path. Reformed readers (Calvin) typically stress that those children are given by the Father’s eternal election—Christ keeps and presents the gifted ones."
+      "arminianNotes": "“Here I am, and the children God has given me.” Arminian readers often read “the children God has given” as those who come to Christ in faith, given to him as they believe.",
+      "reformedNotes": "Reformed readers connect this with John 6:37 and 17:6. They see the children as a definite people given to Christ by the Father before time.",
+      "keyContrast": "Both see believers as children given to Christ. Arminian readers understand them as those who come in faith. Reformed readers understand them as a people given to Christ by the Father in eternal election."
     },
     {
       "number": 14,
       "text": "Since then the children have shared in flesh and blood, he also himself in the same way partook of the same, that through death he might bring to nothing him who had the power of death, that is, the devil,",
-      "arminianNotes": "Wesley: The children partake of flesh and blood—human nature with its infirmities. He likewise took part of the same, that through his own death he might destroy the tyranny of him that had, by God’s permission, the power of death—the devil. Death is the devil’s sergeant delivering those seized in sin.\n\nAgreed on both sides: incarnation, death, devil’s death-power broken. Arminians underline likewise—full participation—so help to the tempted is no Docetism.",
-      "reformedNotes": "Calvin: the Son of God became man to partake of our condition and by death redeem us from it. The devil’s destruction means he cannot prevail against us; his power to hurt is destroyed or restrained. Power of death is ascribed from the effect—destructive and bringing death. Tyranny abolished so that we may reckon him as though he were not.\n\nThe King who governs dismantles the devil’s reign for his people through the Brother’s death."
+      "arminianNotes": "Since the children share in flesh and blood, he also shared in them, so that through death he might destroy the one who has the power of death. Arminian readers see Christ’s victory over the devil opening freedom to all.",
+      "reformedNotes": "Reformed readers see Christ taking on human nature specifically for the children. His death defeats Satan on their behalf."
     },
     {
       "number": 15,
       "text": "and might deliver all of them who through fear of death were all their lifetime subject to bondage.",
-      "arminianNotes": "Wesley: deliver them who through fear of death were all their lifetime subject to bondage. Every man who fears death is subject to bondage; every man fears death who knows not Christ. He delivers all true believers from this bondage.\n\nDeliverance is for true believers; lifelong slavery is the pre-Christ condition. The warning passages later still matter—true faith continues.",
-      "reformedNotes": "Calvin: miserable are those who fear death apart from Christ—only curse appears, God’s wrath against sin. Christ, undergoing our curse, took away what is dreadful in death. We are not yet freed from dying, yet in life and death we have peace when Christ goes before us. Extreme fear of death is evidence of little proficiency in Christ’s faith.\n\nEffectual deliverance from death’s bondage-fear for those in Christ—peace because the curse-bearer leads."
+      "arminianNotes": "He frees those who all their lives were enslaved by fear of death. Arminian readers see freedom offered to everyone who trusts Christ.",
+      "reformedNotes": "Reformed readers see actual deliverance from bondage for those Christ came to save."
     },
     {
       "number": 16,
       "text": "For most certainly, he doesn’t give help to angels, but he gives help to the offspring of Abraham.",
-      "arminianNotes": "Wesley: He taketh not hold of angels—does not take their nature. He taketh hold of the seed of Abraham—takes human nature; Paul says Abraham’s seed rather than Adam’s because the promise was made to Abraham.\n\nHelp is for Abraham’s offspring, not angels. Incarnation targets the promised line.",
-      "reformedNotes": "Calvin: he enhances the benefit by comparison—he never did so much for angels. Preference for us was owing to our misery, not our excellency. This overthrows those who deny Christ to be actual man of human seed. He names Abraham’s seed for greater credit from Scripture.\n\nParticular help to Abraham’s seed—promise people—shows the King’s discriminating mercy."
+      "arminianNotes": "He helps not angels but the offspring of Abraham. Arminian readers see the offspring of Abraham as all who share Abraham’s faith (Galatians 3:7).",
+      "reformedNotes": "Reformed readers see Christ’s saving help given to Abraham’s spiritual offspring, God’s covenant people."
     },
     {
       "number": 17,
       "text": "Therefore he was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest in things pertaining to God, to make atonement for the sins of the people.",
-      "arminianNotes": "Wesley: It behoved him to be made like his brethren in all things pertaining to human nature and in all sufferings and temptations—that he might be a merciful and faithful high priest: merciful toward sinners, faithful toward God; to make reconciliation for the people’s sins.\n\nShared high-priest christology: likeness, mercy, faithfulness, propitiation. Arminians stress the fitness (“behoved”) of full likeness so that mercy is not theoretical.",
-      "reformedNotes": "Calvin: flesh and human feelings; Christ was made subject to human affections that he might be a merciful and therefore faithful high priest. Mercy is especially required in a priest; experience produces sympathy. He had no need of experience to know mercy, but we could not be persuaded he is ready to help had he not become acquainted by experience with our miseries. He made propitiation for the people’s sins.\n\nPropitiation for the people; the merciful priest is the King’s provision—sympathy grounded in assumption of our frame."
+      "arminianNotes": "He had to become like his brothers in every respect, to be a merciful and faithful high priest and make propitiation for the sins of the people. Arminian readers see propitiation made for sins in a way that makes salvation available to all.",
+      "reformedNotes": "Reformed readers see propitiation made for “the people,” meaning those Christ represents. They read this as actual satisfaction of God’s wrath on their behalf."
     },
     {
       "number": 18,
       "text": "For in that he himself has suffered being tempted, he is able to help those who are tempted.",
-      "arminianNotes": "Wesley: In that he hath suffered being tempted, he is able to succour them that are tempted—he has given a demonstrative proof that he is able so to do.\n\nPastorally: ability to help the tempted is proven in his own suffering. Hearers under pressure (and under 2:1’s warning) have a Brother who can actually help—help to be sought, not presumed while drifting.",
-      "reformedNotes": "Calvin: having been tried by our evils, he is ready to bring help. Temptation means experience or probation; to be able is to be fit or inclined. Whenever evils pass over us, nothing happens but what the Son of God has experienced that he might sympathize; he is present as though he suffered with us.\n\nThe King who governs has fitted his priest by temptation’s school—sure help for those being tempted among his people."
+      "arminianNotes": "Because he suffered when tempted, he is able to help those who are tempted. Arminian readers see Christ’s help as essential to persevering through trials.",
+      "reformedNotes": "Reformed readers see Christ’s sympathy and help as one way he preserves his people."
     }
   ]
 }

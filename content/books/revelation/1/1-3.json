@@ -1,0 +1,31 @@
+{
+  "book": "Revelation",
+  "bookSlug": "revelation",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 3,
+  "translation": "WEB",
+  "title": "Revelation 1:1–3",
+  "context": "The book opens by naming itself the revelation of Jesus Christ, given by God, sent through an angel, and testified by John. A blessing rests on the one who reads it aloud and on those who hear and keep it, because the time is near.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "This is the Revelation of Jesus Christ, which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel to his servant, John,",
+      "arminianNotes": "The revelation comes from God, is given to Jesus Christ, and is made known to his servants. Arminian readers note that its purpose is practical: to show servants what must happen so that they can respond faithfully. “Soon” is read in several ways. Preterists apply much of the book to the first century, historicists to the course of church history, futurists to the final years before Christ’s return, and idealists to the recurring conflict between the church and evil.",
+      "reformedNotes": "Reformed readers stress the chain of revelation from God through Christ, which grounds the book’s authority in God himself. The things that “must happen” reflect God’s ordered purpose in history. Reformed interpreters hold a range of views on the book’s structure, with many favoring an idealist or amillennial reading that sees the visions as repeated views of the whole church age, while others are historicist, preterist, or futurist."
+    },
+    {
+      "number": 2,
+      "text": "who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.",
+      "arminianNotes": "John testifies to God’s word and the testimony of Jesus. Arminian readers see the book as faithful witness meant to be received and obeyed.",
+      "reformedNotes": "Reformed readers note that “God’s word” and “the testimony of Jesus” mark the book as Scripture, not private speculation. John’s role is to bear witness to what he was shown."
+    },
+    {
+      "number": 3,
+      "text": "Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near.",
+      "arminianNotes": "This is the first of seven blessings in the book. It rests on the reader, likely the one reading aloud in the congregation, and on those who hear and keep the words. Arminian readers stress that the blessing belongs to those who keep what they hear, which makes the book a call to obedience more than a puzzle to decode.",
+      "reformedNotes": "Reformed readers also emphasize that the book was written to be read in worship and obeyed. “The time is near” marks the whole age after Christ’s coming as the last days. Whatever view one takes of the details, the blessing is promised to those who hold fast to the word."
+    }
+  ]
+}

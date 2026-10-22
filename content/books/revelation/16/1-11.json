@@ -1,0 +1,80 @@
+{
+  "book": "Revelation",
+  "bookSlug": "revelation",
+  "chapter": 16,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "WEB",
+  "title": "Revelation 16:1–11",
+  "context": "The first five bowls are poured out: sores, a sea turned to blood, rivers turned to blood, scorching sun, and darkness on the beast’s throne. An angel and the altar declare God’s judgments true and righteous. People curse God and do not repent.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "I heard a loud voice out of the temple, saying to the seven angels, “Go and pour out the seven bowls of the wrath of God on the earth!”",
+      "arminianNotes": "A voice from the temple sends the angels to pour out the bowls.",
+      "reformedNotes": "Reformed readers see judgment under God’s command."
+    },
+    {
+      "number": 2,
+      "text": "The first went, and poured out his bowl into the earth, and it became a harmful and painful sore on the people who had the mark of the beast, and who worshiped his image.",
+      "arminianNotes": "Sores fall on those with the beast’s mark, recalling the sixth plague of Egypt.",
+      "reformedNotes": "Reformed readers see judgment aimed at those who worshiped the beast."
+    },
+    {
+      "number": 3,
+      "text": "The second angel poured out his bowl into the sea, and it became blood as of a dead man. Every living thing in the sea died.",
+      "arminianNotes": "The sea becomes like a dead man’s blood.",
+      "reformedNotes": "Reformed readers see judgment now complete rather than partial, as with the trumpets."
+    },
+    {
+      "number": 4,
+      "text": "The third poured out his bowl into the rivers and springs of water, and they became blood.",
+      "arminianNotes": "Rivers and springs become blood.",
+      "reformedNotes": "Reformed readers see the plagues of Egypt intensified."
+    },
+    {
+      "number": 5,
+      "text": "I heard the angel of the waters saying, “You are righteous, who are and who were, O Holy One, because you have judged these things.",
+      "arminianNotes": "The angel of the waters declares God righteous in his judgments. Arminian readers see that God’s judgment is just.",
+      "reformedNotes": "Reformed readers see God vindicated in his justice."
+    },
+    {
+      "number": 6,
+      "text": "For they poured out the blood of saints and prophets, and you have given them blood to drink. They deserve this.”",
+      "arminianNotes": "Those who shed the blood of saints receive blood to drink. The punishment fits the crime.",
+      "reformedNotes": "Reformed readers see just retribution."
+    },
+    {
+      "number": 7,
+      "text": "I heard the altar saying, “Yes, Lord God, the Almighty, true and righteous are your judgments.”",
+      "arminianNotes": "The altar answers that God’s judgments are true and righteous.",
+      "reformedNotes": "Reformed readers see the martyrs’ prayers answered."
+    },
+    {
+      "number": 8,
+      "text": "The fourth poured out his bowl on the sun, and it was given to him to scorch men with fire.",
+      "arminianNotes": "The sun scorches people with fire.",
+      "reformedNotes": "Reformed readers see creation turned against rebels."
+    },
+    {
+      "number": 9,
+      "text": "People were scorched with great heat, and people blasphemed the name of God who has the power over these plagues. They didn’t repent and give him glory.",
+      "arminianNotes": "People blaspheme God and do not repent. Arminian readers see hardness as their own response to judgment.",
+      "reformedNotes": "Reformed readers see that judgment alone does not soften hearts.",
+      "keyContrast": "Both affirm human responsibility for refusing to repent. Arminian readers see a refusal that could have gone otherwise. Reformed readers see the heart’s hardness, which only grace overcomes."
+    },
+    {
+      "number": 10,
+      "text": "The fifth poured out his bowl on the throne of the beast, and his kingdom was darkened. They gnawed their tongues because of the pain,",
+      "arminianNotes": "The beast’s kingdom is darkened, and people gnaw their tongues in pain.",
+      "reformedNotes": "Reformed readers see the beast’s power unable to protect his followers."
+    },
+    {
+      "number": 11,
+      "text": "and they blasphemed the God of heaven because of their pains and their sores. They still didn’t repent of their works.",
+      "arminianNotes": "They curse God and still do not repent.",
+      "reformedNotes": "Reformed readers see the persistence of rebellion."
+    }
+  ]
+}

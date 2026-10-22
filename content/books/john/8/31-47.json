@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 8:31–47",
   "context": "Jesus turns to Jews who had believed him, If you remain in my word, then you are truly disciples; you will know the truth, and the truth will make you free. They protest Abrahamic freedom. He answers that everyone who commits sin is the bondservant of sin; a bondservant doesn’t live in the house forever, but a son does; if therefore the Son makes you free, you will be free indeed. Offspring of Abraham still seek to kill him because his word finds no place in them. Abraham’s children would do Abraham’s works; instead they do their father’s. They claim God as Father; he says if God were their Father they would love him. They cannot bear to hear his word because they are of their father the devil, a murderer and liar. Whoever is of God hears God’s words; the reason they do not hear is that they are not of God.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "What older interpreters in each camp said about abiding, true disciples, slave versus son, and why some cannot hear.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "The truth—Written in your hearts by the Spirit of God, shall make you free—From guilt, sin, misery, Satan. He that committeth sin, is, in fact, the slave of sin. And the slave abideth not in the house—All sinners shall be cast out of God’s house, as the slave was out of Abraham’s: but I, the Son, abide therein forever. If I therefore make you free, ye—shall partake of the same privilege: being made free from all guilt and sin, ye shall abide in the house of God forever. Ye cannot—Such is your stubbornness and pride, hear—Receive, obey my word. Not being desirous to do my will, ye cannot understand my doctrine. He that is of God—That either loves or fears him, heareth—With joy and reverence, God’s words.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 8:32–47)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "If you continue in my word. Here Christ warns them, in the first place, that it is not enough for any one to have begun well, if their progress to the end do not correspond to it; and for this reason he exhorts to perseverance in the faith those who have tasted of his doctrine. … He distinguishes his followers from hypocrites by this mark, that they who falsely boasted of faith give way as soon as they have entered into the course, or at least in the middle of it; but believers persevere constantly to the end. … Every man who committeth sin is the slave of sin. … all who are not delivered by him are in a state of slavery, and … all who derive the contagion of sin from corrupted nature are slaves from their birth. Yet this slavery is voluntary, so that they who necessarily sin are not compelled to sin. If then the Son shall make you free. … the right of freedom belongs to himself alone, and … all others, being born slaves, cannot be delivered but by his grace. … He who is of God hears the words of God. … there is not a more evident sign of a reprobate mind, than when one cannot endure the doctrine of Christ … if we embrace that doctrine cheerfully, we have what may be called a visible seal of our election.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 8:31–47)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 31,

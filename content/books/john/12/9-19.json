@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 12:9–19",
   "context": "A large crowd comes not only for Jesus but to see Lazarus; the chief priests plot to kill the raised man because many are believing. The next day pilgrims take palms and cry Hosanna to the King of Israel. Jesus sits on a young donkey, as Zechariah wrote. The disciples do not understand until He is glorified; Pharisees lament that the world has gone after Him.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "What older interpreters in each camp said about the palm-procession and faith that understands later.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "These things his disciples understood not at first—The design of God’s providential dispensations is seldom understood at first. We ought therefore to believe, though we understand not, and to give ourselves up to the Divine disposal. The great work of faith is, to embrace those things which we knew not now, but shall know hereafter.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 12:16)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "The Apostles are the servants of God to fulfill the prophecy, but they do not understand what they are doing. To them, therefore, it is an unmeaning exhibition, until the Lord, after his glorious resurrection, opens their eyes. We are blind, unless the word of God go before our steps, and it is not even enough that the word of God shine on us, if the Spirit do not also enlighten our eyes, which otherwise would be blind amidst the clearest light.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 12:16)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 9,

@@ -12,17 +12,17 @@
     "eyebrow": "From the tradition",
     "heading": "Voices from both camps",
     "intro": "Arminian and Reformed writers of the past on the old self, renewed mind, and new creation in God’s likeness, in their own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
+    "note": "Quotations abridged; wording follows standard English editions of the sources named.",
     "arminian": [
       {
-        "quote": "The old man—coeval with our being, and as old as the fall; our evil nature… which is corrupt according to the deceitful lusts. And to be renewed in the spirit of your mind—which was the first thing lost. And to put on the new man—whose soul was created in the image of God, in righteousness and true holiness.",
+        "quote": "The old man—coeval with our being, and as old as the fall; our evil nature… which is corrupt according to the deceitful lusts. And to be renewed in the spirit of your mind—which was the first thing lost.",
         "cite": "John Wesley",
         "source": "Explanatory Notes upon the New Testament (on Eph 4:22–24)"
       }
     ],
     "reformed": [
       {
-        "quote": "The old man is that nature which we bring with us from the womb, and which is so deeply corrupted that it infects the whole man… The new man is that which is formed in us by the Spirit of God. Created according to God—that is, in the likeness of God, which consists in righteousness and holiness of truth.",
+        "quote": "The old man is that nature which we bring with us from the womb, and which is so deeply corrupted that it infects the whole man… The new man is that which is formed in us by the Spirit of God.",
         "cite": "John Calvin",
         "source": "Commentary on Ephesians (on Eph 4:22–24)"
       }

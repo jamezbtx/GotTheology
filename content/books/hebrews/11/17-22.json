@@ -6,65 +6,45 @@
   "verseEnd": 22,
   "translation": "WEB",
   "title": "Hebrews 11:17–22",
-  "context": "Faith’s catalog presses into Abraham’s severest trial: offering Isaac, the son of promise, while holding that God was able to raise up even from the dead. Isaac then blesses Jacob and Esau concerning things to come; dying Jacob blesses Joseph’s sons and worships; Joseph, at the end, speaks of the exodus and commands concerning his bones—promise trusted beyond the grave.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Abraham’s testing with Isaac, resurrection-faith, and the dying blessings of Isaac, Jacob, and Joseph: older Arminian and Reformed writers, each in their own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "By faith Abraham—when God made that glorious trial of him—offered up Isaac. The will being accepted as if he had actually done it. Yea, he that had received the promises—particularly that grand promise, “In Isaac shall thy seed be called”—offered up this very son. Accounting that God was able even to raise him from the dead—though there had not been any instance of this in the world. From whence also, to speak in a figurative way, he did receive him afterwards, snatched from the jaws of death. By faith Isaac blessed Jacob and Esau concerning things to come. By faith Jacob, when dying, blessed both the sons of Joseph, and worshipped. By faith Joseph, when he died, made mention of the departing of the children of Israel, and gave commandment concerning his bones—to be carried into the land of promise.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Hebrews 11:17–22)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "The sacrificing of Isaac is to be estimated according to the purpose of the heart: it was not owing to Abraham that he did not actually perform what he was commanded. All the promises were founded on this declaration, “In Isaac shall thy seed be called”; when this foundation was taken away, no hope of blessing or of grace remained. Here nothing earthly was at issue, but the eternal salvation of Abraham, yea, of the whole world. Yet by faith he emerged above all these thoughts. Abraham ascribed this honor to God, that he was able to raise his son again from the dead. He then did not renounce the promise, but extended its power and its truth beyond the life of his son; he bound not God’s power to Isaac’s life, but felt persuaded it would be efficacious in his ashes when dead no less than in him while alive. By faith Isaac blessed as to future things; by faith Jacob preferred the younger; by faith Joseph, amid wealth and honors, forgot not the promise nor was detained in Egypt—ordering his bones to be exported to sharpen the nation’s desire for redemption.",
-        "cite": "John Calvin",
-        "source": "Commentary on Hebrews (on Hebrews 11:17–22)"
-      }
-    ]
-  },
+  "context": "Abraham, when tested, offered up Isaac, the son through whom the promise was to come, reasoning that God could raise him from the dead. Isaac, Jacob, and Joseph then acted by faith regarding things to come, blessing their sons and looking ahead to Israel’s exodus. Both traditions see faith that trusts God’s promise beyond death. They draw different lessons about testing.",
+  "showVoices": false,
   "verses": [
     {
       "number": 17,
       "text": "By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his only born son,",
-      "arminianNotes": "Wesley: when God made that glorious trial, Abraham offered up Isaac—the will accepted as if he had actually done it. He that had received the promises, particularly “In Isaac shall thy seed be called,” offered up this very son, the only one by Sarah.\n\nThe note struck is a trial answered by obedience of faith. The promises are not discarded; they are trusted in the dark. Pastoral force: faith can be tested severely and still offer what God asks.",
-      "reformedNotes": "Calvin: this trial surpassed every other; God is said to have then in an especial manner tried him. The act flowed from faith; Abraham had nothing more excellent than faith, which brought forth such extraordinary fruit. The resolution to obey was as though he had actually sacrificed his son.\n\nTesting proves what faith God has wrought. Offering the only son of promise is faith’s fruit, not a gamble that may fail God’s election."
+      "arminianNotes": "By faith Abraham, when tested, offered up Isaac. Arminian readers see a real test of Abraham’s faith, whose outcome mattered.",
+      "reformedNotes": "Reformed readers see God testing Abraham to reveal and strengthen the faith he had given him.",
+      "keyContrast": "Both read the testing as real. Arminian readers see a genuine test of free response. Reformed readers see God displaying and refining faith that he himself had produced."
     },
     {
       "number": 18,
       "text": "to whom it was said, “Your offspring will be accounted as from Isaac,”",
-      "arminianNotes": "Wesley: in Isaac shall thy seed be called—from him shall the blessed seed spring. The word of promise stands in the very sentence that seems to undo it.\n\nArminian readers hear the tension every believer may face: God’s command and God’s promise both true. Faith holds both without inventing a third way of human cleverness.",
-      "reformedNotes": "Calvin: all the promises were founded on this declaration; when this foundation was taken away, no hope of blessing or grace remained. Nothing earthly was at issue, but eternal salvation—of Abraham, yea of the whole world.\n\nThe named offspring is the hinge of grace’s hope. Faith does not edit the promise; it trusts the God of the promise when obedience seems to cancel it."
+      "arminianNotes": "He was told, “Through Isaac your offspring will be named.” Arminian readers see the tension between promise and command that faith held together.",
+      "reformedNotes": "Reformed readers see God’s promise as unbreakable, even when his command seemed to contradict it."
     },
     {
       "number": 19,
       "text": "concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead.",
-      "arminianNotes": "Wesley: accounting that God is able to raise up even from the dead—though there had not been any instance of this in the world. From whence, figuratively, he received him afterwards, snatched from the jaws of death.\n\nArminian interpreters hear resurrection-faith as the way sincere trust survives apparent contradiction: God is able. The figurative receiving back encourages hearers to reckon on God’s power beyond visible outcomes.",
-      "reformedNotes": "Calvin: he did not renounce the promise, but extended its power beyond Isaac’s life; he bound not God’s power to Isaac’s life, but felt persuaded it would be efficacious in his ashes no less than while alive. Hope did not disappoint; it was a sort of resurrection when his son was suddenly delivered.\n\nFaith keeps the promise by ascribing raising-power to God. This is not open-ended uncertainty; it is confidence that God’s word cannot fail.",
-      "keyContrast": "Both glory that Abraham held the promise by reckoning God able to raise Isaac, and both refuse a faith that discards God’s word. Arminians typically hear this as the pattern for tested believers who must actively account God able when obedience and promise seem to clash. Reformed commentators typically hear Calvin’s Abraham who did not renounce but extended the promise—faith emerging invincible because God’s power and word held him, not a faith that might as well have let the promise go."
+      "arminianNotes": "He considered that God was able to raise him from the dead; figuratively, he did receive him back. Arminian readers see faith in resurrection power.",
+      "reformedNotes": "Reformed readers see Isaac’s return as a type of Christ’s resurrection."
     },
     {
       "number": 20,
       "text": "By faith Isaac blessed Jacob and Esau, even concerning things to come.",
-      "arminianNotes": "Wesley: blessed—prophetically foretold the particular blessings they should partake of—preferring, in the event, according to the oracle.\n\nWesley’s tradition hears faith speaking future things God has shown. Blessing is not empty wish; it is trust that God will do what He said concerning things to come.",
-      "reformedNotes": "Calvin: to bless as to future things was the work of faith; when the thing itself does not exist and the word only appears, faith must bear rule. Isaac had nothing he could bestow but the word of God. Faith mainly shone when he distinguished the twins, giving first place to the younger, following God’s oracle.\n\nThe blessing depends on faith in God’s word, including God’s choice regarding Jacob and Esau."
+      "arminianNotes": "By faith Isaac invoked future blessings on Jacob and Esau. Arminian readers see blessing tied to God’s promise.",
+      "reformedNotes": "Reformed readers see God’s sovereign choice of Jacob over Esau carried out, as in Romans 9:10–13."
     },
     {
       "number": 21,
       "text": "By faith Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff.",
-      "arminianNotes": "Wesley: Jacob when dying—when near death—bowing down on the top of his staff as he sat on the side of his bed, blessed both sons of Joseph and worshipped.\n\nThe accent falls on faith active at the edge of death: blessing and worship together. Dying believers still speak promise and adore.",
-      "reformedNotes": "Calvin: nothing here agreeable to reason—Ephraim the younger preferred, eyes dim, two portions assigned as though lord of the land famine had driven him from—but faith ruled supreme. He worshipped, evidence of gratitude, led by faith to submit himself.\n\nDying faith blesses against sight and worships. Reason is not the master; God’s word is."
+      "arminianNotes": "By faith Jacob, dying, blessed each of Joseph’s sons and worshiped. Arminian readers see faith that looks forward even at death.",
+      "reformedNotes": "Reformed readers see God’s choice of the younger Ephraim reflecting his sovereign freedom."
     },
     {
       "number": 22,
       "text": "By faith Joseph, when his end was near, made mention of the departure of the children of Israel, and gave instructions concerning his bones.",
-      "arminianNotes": "Wesley: concerning his bones—to be carried into the land of promise. At the end, Joseph’s faith still pointed Israel forward.\n\nWhat comes through is end-of-life faith that mentions exodus and orders bones home. Promise outlasts Egyptian honor. Hearers are called to the same long memory of redemption.",
-      "reformedNotes": "Calvin: wealth, luxuries, and honors made not the holy man forget the promise nor detained him in Egypt—evidence of no small faith. He ordered bones exported not for a sweeter grave, but to sharpen the nation’s desire for redemption and strengthen their faith that they would be delivered.\n\nFaith ascends above what is elevated in the world. Joseph’s last word is gospel for a people who must wait."
+      "arminianNotes": "By faith Joseph, at the end of his life, spoke of the exodus and gave directions about his bones. Arminian readers see Joseph trusting God’s promise about the land.",
+      "reformedNotes": "Reformed readers see confidence in God’s covenant faithfulness to bring his people home."
     }
   ]
 }

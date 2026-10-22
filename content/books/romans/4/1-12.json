@@ -6,103 +6,81 @@
   "verseEnd": 12,
   "translation": "WEB",
   "title": "Romans 4:1–12",
-  "context": "Paul has just shut every mouth and set forth the righteousness of God through faith in Jesus Christ, by grace, in his blood. Now he calls Abraham to the stand: what did our forefather gain according to the flesh? Scripture answers from Genesis 15:6—Abraham believed God, and it was accounted to him for righteousness—before circumcision, apart from works, so that he is father of all those who believe.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Arminian and Reformed writers of the past on Abraham’s faith counted as righteousness, the justification of the ungodly, and circumcision as a seal, in their own words.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Abraham believed God—That promise of God concerning the numerousness of his seed, but especially the promise concerning Christ, through whom all nations should be blessed. And it was imputed to him for righteousness—God accepted him as if he had been altogether righteous. To him that worketh not—It being impossible he should without faith. But believeth, his faith is imputed to him for righteousness. Faith was imputed to Abraham for righteousness—This is fully consistent with our being justified, that is, pardoned and accepted by God upon our believing, for the sake of what Christ hath done and suffered. For though this, and this alone, be the meritorious cause of our acceptance with God, yet faith may be said to be imputed to us for righteousness, as it is the sole condition of our acceptance. Forgiveness, not imputing sin, and imputing righteousness, are all one. He received the sign of circumcision—A seal: an assurance on God’s part, that he accounted him righteous, upon his believing, before he was circumcised.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Romans 4:3, 5, 9, 11)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "If Abraham was justified, because he embraced, by faith, the bountiful mercy of God, it follows that he had nothing to glory in; for he brought nothing of his own, except a confession of his misery, which is a solicitation for mercy. The righteousness of faith is the refuge, and, as it were, the asylum of the sinner who is destitute of works. By faith they derive from another what is wanting in themselves; and hence the righteousness of faith is rightly called imputative. Faith brings us righteousness, not because it is a meritorious act, but because it obtains for us the favor of God. Faith adorns us with the righteousness of another, which it seeks as a gift from God. When the reason is asked why God loves us and owns us as just, it is necessary that Christ should come forth as one who clothes us with his own righteousness. He received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: seals by which the promises of God are in a manner imprinted on our hearts, and the certainty of grace confirmed.",
-        "cite": "John Calvin",
-        "source": "Commentary on Romans (on Romans 4:3, 5, 11)"
-      }
-    ]
-  },
+  "context": "Paul turns to Abraham to show that justification has always been by faith. Abraham believed God, and it was counted to him as righteousness, before he was circumcised. David also speaks of the blessedness of the one to whom God counts righteousness apart from works. Both traditions treat this as foundational for justification by faith. They differ on the meaning of “counted” and on how faith itself relates to righteousness.",
+  "showVoices": false,
   "verses": [
     {
       "number": 1,
       "text": "What then will we say that Abraham, our forefather, has found according to the flesh?",
-      "arminianNotes": "What then will we say that Abraham, our forefather, has found according to the flesh? Paul does not disown Abraham; he asks whether flesh—descent, circumcision, works—explains the father’s standing. The next word will send us to Genesis 15:6, not to the family tree.\n\nArminian readers find a sincere appeal to Israel’s father. If Abraham himself did not gain righteousness by the flesh, neither do his children. The question is pastoral: stop measuring gain by blood and start listening to Scripture.",
-      "reformedNotes": "Calvin already hears the trap: if Abraham was justified because he embraced mercy by faith, he had nothing to glory in. “According to the flesh” names the boast that would rest on lineage or works. Paul will not let the patriarch become a wage-earner at God’s bar.\n\nThe apostle is dismantling glorying before he quotes Moses. Abraham’s gain is not in the flesh. The courtroom is God’s; the next verses will prove that the father’s righteousness was imputed, not achieved."
+      "arminianNotes": "Paul asks what Abraham found. Both traditions see Abraham as the model of faith.",
+      "reformedNotes": "Reformed readers see Abraham as the pattern of justification for all believers."
     },
     {
       "number": 2,
       "text": "For if Abraham was justified by works, he has something to boast about, but not toward God.",
-      "arminianNotes": "If Abraham was justified by works, he has something to boast about, but not toward God. Wesley’s whole chapter will exclude merit: even the patriarch cannot found a boast at the bar. Works-righteousness, if it existed, would still fail “toward God.”\n\nArminians refuse boasting as heartily as any Calvinist. Justification, if it were by works, would be a human glory; Paul shuts that door. Abraham will be justified as a believer, not as a laborer collecting due.",
-      "reformedNotes": "Calvin: Abraham brought nothing of his own except a confession of his misery, which is a solicitation for mercy. If there be any righteousness by the law or by works, it must be in men themselves; by faith they derive from another what is wanting. Hence he has no boast before God.\n\n“not toward God” is the only court that matters. The righteousness of faith is the asylum of the sinner destitute of works. Mix Abraham’s later obedience into this verdict and the gift ceases to be gift."
+      "arminianNotes": "If Abraham was justified by works, he has something to boast about, but not before God. Both traditions agree that works give no ground for boasting before God.",
+      "reformedNotes": "Reformed readers see boasting excluded by the nature of justification."
     },
     {
       "number": 3,
       "text": "For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.”",
-      "arminianNotes": "Scripture answers the boast: Abraham believed God, and it was accounted to him for righteousness. Wesley: he believed that promise concerning his seed, and especially the promise concerning Christ; God accepted him as if he had been altogether righteous. Paul cites Genesis 15:6 as the Bible’s proof that justification is by faith, not by works.\n\nArminians hear a believing that God graciously reckons. Faith is the gospel’s condition, enabled by grace, not a meritorious work. Wesley keeps the fork honest: Christ alone is the meritorious cause of our acceptance, yet faith may be said to be imputed for righteousness as the sole condition. Match Genesis 15:6: to the believer, faith is accounted for righteousness through grace, while Christ’s obedience remains the only merit.",
-      "reformedNotes": "Moses named faith, then imputation; Paul reads it as righteousness obtained because the promise was embraced. Calvin: Abraham brought nothing except a confession of misery; the righteousness of faith is imputative—they derive from another what is wanting in themselves. Faith adorns us with the righteousness of another; Christ clothes us with his own righteousness.\n\nReformed confession presses Westminster’s distinction: God does not impute faith itself, the act of believing, as the righteousness that satisfies; He imputes Christ’s obedience and satisfaction, received by faith as gift. Genesis 15:6 in Paul’s courtroom is counted righteous because God counts Christ’s righteousness, not because Abraham’s believing became his righteousness.",
-      "keyContrast": "Both preach justification by faith from this citation of Genesis 15:6, not by Abraham’s works. Arminians typically say faith is graciously counted as righteousness (Christ remaining the meritorious cause); Reformed interpreters usually say Christ’s righteousness is imputed, and faith is the Spirit-given instrument—not itself the righteousness imputed."
+      "arminianNotes": "“Abraham believed God, and it was accounted to him for righteousness.” Wesley and many Arminians read this as God counting faith itself as righteousness, accepting it in place of perfect obedience for Christ’s sake.\n\nArminian readers stress that faith is not meritorious; God graciously reckons it for righteousness because of Christ.",
+      "reformedNotes": "Reformed readers usually read the verse as God crediting Christ’s righteousness to the believer through faith. Faith is the instrument that receives righteousness, not the righteousness itself.\n\nThe Westminster Confession states that God does not impute faith itself as righteousness but imputes Christ’s obedience and satisfaction, received by faith.",
+      "keyContrast": "Both agree that Abraham was justified by faith, not works. Many Arminians, with Wesley, describe God counting faith as righteousness for Christ’s sake. Reformed readers describe God crediting Christ’s righteousness to the believer, with faith as the instrument that receives it."
     },
     {
       "number": 4,
       "text": "Now to him who works, the reward is not counted as grace, but as something owed.",
-      "arminianNotes": "To him who works, reward is not counted as grace, but as something owed. Paul draws a bright line: gift and debt cannot be the same counting. Righteousness counted to Abraham is gift-language, not payroll.\n\nWesleyan Arminians take the warning: faith is not a work that puts God in debt. If believing were a wage, grace would be wages renamed. The gospel counts a gift to those who believe—enabled by grace, never earned.",
-      "reformedNotes": "Wages are due; mercy is not. Calvin’s imputative righteousness cannot be a paycheck. If Abraham had worked the verdict, God would owe him; Paul is about to say God justifies the ungodly.\n\nThe whole is from God and nothing from us. Due is what works would claim; gift is what faith receives. Do not smuggle a cooperative wage into a verse that names debt only to refuse it."
+      "arminianNotes": "To the one who works, wages are counted as owed, not as grace. Both traditions see grace and earning as opposites.",
+      "reformedNotes": "Reformed readers see justification as a gift, never a payment."
     },
     {
       "number": 5,
       "text": "But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness.",
-      "arminianNotes": "To him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness. Wesley: to him that worketh not—it being impossible he should without faith—but believeth, his faith is imputed for righteousness. God justifies the ungodly: pardoned and accepted upon believing, for the sake of what Christ hath done and suffered.\n\nClassical Arminians refuse to make the ungodly already godly before the verdict. Faith is accounted for righteousness as the sole condition of acceptance, not as a meritorious work. Christ remains the meritorious cause. Match Genesis 15:6: a believing that God graciously reckons.",
-      "reformedNotes": "Calvin calls this a very important sentence: faith brings us righteousness not because it is a meritorious act, but because it obtains for us the favor of God. Faith adorns us with the righteousness of another, which it seeks as a gift. God justifies the ungodly—not the already-improved.\n\n“his faith is accounted for righteousness” does not mean the act of believing is the righteousness that satisfies. Westminster: not by imputing faith itself, but by imputing Christ’s obedience, received by faith as the Spirit-given instrument. The ungodly is clothed; he is not paid for believing.",
-      "keyContrast": "Both confess that God justifies the ungodly, and that the one who doesn’t work, but believes has righteousness counted—never as a wage. Arminians typically say his faith is graciously counted as righteousness, the living condition of acceptance, Christ remaining the meritorious cause. Reformed commentators often say faith is counted because it receives another’s righteousness: the Spirit-given instrument, not itself the righteousness imputed."
+      "arminianNotes": "To the one who does not work but believes in him who justifies the ungodly, faith is counted as righteousness. Arminian readers see the gospel’s offer to the ungodly, received by faith.",
+      "reformedNotes": "Reformed readers see God justifying the ungodly, which means the ground of justification lies outside the sinner."
     },
     {
       "number": 6,
       "text": "Even as David also pronounces blessing on the man to whom God counts righteousness apart from works:",
-      "arminianNotes": "Even as David also pronounces blessing on the man to whom God counts righteousness apart from works. Paul adds a second witness so no one can say Genesis 15 was a patriarch-only deal. Wesley: forgiveness, not imputing sin, and imputing righteousness are all one.\n\nArminian interpreters hear the blessing as the gospel’s ordinary verdict: God counts righteousness to those who believe, apart from works. David sings what Abraham received. The condition remains living faith, enabled by grace, never a wage.",
-      "reformedNotes": "David’s blessing confirms imputative righteousness apart from works. The psalm is courtroom language: God counts. Calvin’s “imputative” is not a Reformation novelty; it is David’s beatitude over people who have no works to plead.\n\nTwo witnesses—Moses and David—establish gift-righteousness. Apart from works is absolute. Faith will be the instrument of receiving it, not a substitute work David forgot to mention."
+      "arminianNotes": "David speaks of the blessedness of the one to whom God counts righteousness apart from works. Both traditions see David as a second witness.",
+      "reformedNotes": "Reformed readers see imputed righteousness in David’s words."
     },
     {
       "number": 7,
       "text": "“Blessed are they whose iniquities are forgiven, whose sins are covered.",
-      "arminianNotes": "Blessed are they whose iniquities are forgiven, whose sins are covered. The blessing is pardon: lawless deeds forgiven, sins covered. This is not a small mop-up for almost-righteous people; it is mercy over lawlessness.\n\nArminians preach this as pastoral comfort to the ungodly who believe. Covering is God’s kindness in Christ, received by faith. Do not turn the beatitude into a demand to uncover your own righteousness first.",
-      "reformedNotes": "Forgiven and covered are God’s acts, not the sinner’s self-repair. Calvin’s asylum of the destitute is here in psalm-shape: lawless deeds meet covering, not wages.\n\nThe blessing David pronounces is the non-imputation of sin alongside the imputation of righteousness. Both are God’s counting. The covered sinner is the one Christ clothes—not the one who has already become his own covering."
+      "arminianNotes": "Blessed are those whose lawless deeds are forgiven and whose sins are covered. Arminian readers, with Wesley, see justification chiefly as forgiveness.",
+      "reformedNotes": "Reformed readers see forgiveness as one part of justification, joined with the imputation of righteousness."
     },
     {
       "number": 8,
       "text": "Blessed is the man whom the Lord will by no means charge with sin.”",
-      "arminianNotes": "Blessed is the man whom the Lord will by no means charge with sin. Wesley’s observation stands: not counting sin and counting righteousness are one blessing. The Lord refuses to put the believer’s sin on the ledger as the last word.\n\nArminian readers hear a non-imputation to those who believe. The blessing is as wide as the invitation: the ungodly who trust Christ are not counted as their sins deserve. Faith receives the blessing; it does not earn the Lord’s refusal to count.",
-      "reformedNotes": "The Lord will by no means charge with sin: non-imputation is God’s verdict, the other side of counting righteousness. Calvin: when the reason is asked why God owns us as just, Christ must come forth as the one who clothes us.\n\n“Will by no means charge with” is as sovereign as “accounted for righteousness.” God does the accounting. Faith is empty-handed here—the instrument that receives a blessing already decided in Christ, not a work that talks God out of counting."
+      "arminianNotes": "Blessed is the one against whom the Lord will not count sin. Both traditions see the joy of forgiveness.",
+      "reformedNotes": "Reformed readers see the non-imputation of sin as grounded in Christ bearing it."
     },
     {
       "number": 9,
       "text": "Is this blessing then pronounced only on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.",
-      "arminianNotes": "Is this blessing then pronounced only on the circumcised, or on the uncircumcised also? Paul repeats the thesis: faith was accounted to Abraham for righteousness. Wesley will soon say the seal came after the accounting. The question is already aimed at Gentiles.\n\nWesley’s heirs hear a sincere wideness: the blessing is also for the uncircumcised who believe. Abraham’s counting is the pattern for the nations, not a Jewish private ledger. “Also” is an earnest offer, not a theatrical aside.",
-      "reformedNotes": "Calvin’s logic from chapter 3 still holds: one God, one righteousness, no ethnic merit. The blessing David sang is not fenced by circumcision. Faith was accounted to Abraham—that fact will decide the timing in v. 10.\n\nAlso for the uncircumcised is all kinds, nations formerly alienated, brought under the same counting. The wideness of the question does not make every Gentile elect; it forbids treating the blessing as a Jewish wage."
+      "arminianNotes": "Is this blessing for the circumcised only? Paul says faith was counted to Abraham as righteousness. Both traditions see the blessing extended to Gentiles.",
+      "reformedNotes": "Reformed readers see one way of justification for all people."
     },
     {
       "number": 10,
       "text": "How then was it counted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
-      "arminianNotes": "How then was it counted to him? Abraham was counted righteous before circumcision, not after. The chronology is grace’s argument: Genesis 15 precedes Genesis 17. Abraham was already accepted as if altogether righteous while still uncircumcised.\n\nArminian readers take the history as pastoral: no rite completes a verdict already given upon believing. Circumcision did not create the righteousness; it followed faith. Gentiles who believe are not waiting on a Jewish gate.",
-      "reformedNotes": "The counting was not after, but before. God wrote the order: promise, faith, imputation—then the sign. Calvin will call the later circumcision a seal of righteousness already had.\n\nChronology is theology. If the verdict waited on the knife, works and signs would share the courtroom. They do not. Righteousness was imputed while Abraham was still uncircumcised, received by faith as gift."
+      "arminianNotes": "Abraham was counted righteous before he was circumcised. Both traditions see that the rite did not produce righteousness.",
+      "reformedNotes": "Reformed readers see the order of faith before sign."
     },
     {
       "number": 11,
       "text": "He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them.",
-      "arminianNotes": "He received the sign of circumcision, a seal of the righteousness of the faith which he had while still uncircumcised. Wesley: circumcision was a sign or token of being in covenant; a seal—an assurance on God’s part that he accounted him righteous upon his believing, before he was circumcised. The purpose: father of all those who believe without circumcision, so that righteousness might also be accounted to them as well.\n\nArminians hear the seal as God’s assurance of a verdict already given upon believing. Faith is the sole condition; Christ remains the meritorious cause. The sign did not create the righteousness. Gentiles who believe receive the same counting—a sincere wideness, not a Jewish rite plus faith as two merits.",
-      "reformedNotes": "Calvin: he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised; seals by which the promises of God are in a manner imprinted on our hearts, and the certainty of grace confirmed. The righteousness was already had by faith; the seal confirms, it does not cause.\n\nWhat is sealed is imputed righteousness received by faith as the Spirit-given instrument—not faith itself as the righteousness. Abraham is father of uncircumcised believers so that the same righteousness might also be accounted to them: Christ’s, received the same way. The sign preaches certainty of grace, not a cooperative wage.",
-      "keyContrast": "Both take circumcision, a seal of the righteousness Abraham already had by faith while uncircumcised, and both make him father of believing Gentiles and of circumcised people who walk in that same faith. Arminians hear the seal as God’s assurance that he accounted Abraham righteous upon believing—faith the sole condition, Christ the meritorious cause—and righteousness counted to all who likewise believe. Reformed interpreters hear the seal confirming imputed righteousness received by faith as the Spirit-given instrument, the certainty of grace imprinted, not faith itself as the righteousness sealed."
+      "arminianNotes": "Circumcision was a sign and seal of the righteousness Abraham had by faith. Arminian readers see signs confirming faith already present.",
+      "reformedNotes": "Reformed readers see sacraments as signs and seals of God’s covenant, and many connect this with infant baptism as a covenant sign."
     },
     {
       "number": 12,
       "text": "He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision.",
-      "arminianNotes": "Abraham is also the father of circumcision to those who are not only circumcised but who walk in the steps of the faith he had before he was circumcised. Lineage without that faith is merely. The footsteps are living trust, the same path Genesis 15 named.\n\nWesley’s tradition hears a call, not a compliment: circumcised people must believe as Abraham believed. Faith remains the condition of being his children. Walk is not a wage that earns the counting; it is the life of those who have received it by believing.",
-      "reformedNotes": "Father of the circumcised only if they are not merely circumcised. Calvin’s seals confirm grace; they do not replace faith. The footsteps are the faith God counted—before the sign, empty of works-boast.\n\nThe sign without the thing signed is not Abraham’s family. Those who walk in that faith walk in a gift: the Spirit-given instrument, not an independent performance that retraces the patriarch’s merit."
+      "arminianNotes": "Abraham is the father of all who walk in his faith. Both traditions see Abraham’s family defined by faith.",
+      "reformedNotes": "Reformed readers see the one covenant people of God including believing Jews and Gentiles."
     }
   ]
 }

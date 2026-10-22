@@ -14,6 +14,26 @@ const ATTRIBUTES_DIR = path.join(CONTENT, "attributes");
 const DOCTRINES_OUT = path.join(PUBLIC, "doctrines");
 const ATTRIBUTES_OUT = path.join(PUBLIC, "attributes");
 const VOICES_PATH = path.join(CONTENT, "voices.json");
+const ARTICLES_DIR = path.join(CONTENT, "articles");
+const ARTICLES_OUT = path.join(PUBLIC, "articles");
+// Passage pages listed here (book/chapter/range keys) are indexable, carry ads,
+// and appear in the sitemap. Every other passage page is noindex,follow and ad-free.
+// Grow the set by adding keys to content/indexed-set.json.
+const INDEXED_SET_PATH = path.join(CONTENT, "indexed-set.json");
+const INDEXED_SET = new Set(
+  fs.existsSync(INDEXED_SET_PATH) ? JSON.parse(fs.readFileSync(INDEXED_SET_PATH, "utf8")) : []
+);
+const NOINDEX = "noindex,follow";
+function isIndexedPassage(bookSlug, chapter, verseStart, verseEnd) {
+  return INDEXED_SET.has(bookSlug + "/" + chapter + "/" + verseFileStem(verseStart, verseEnd));
+}
+// Strip AdSense and add robots noindex,follow to a rendered passage page.
+function makeNoindexAdFree(html) {
+  return html
+    .replace("  " + ADSENSE_SCRIPT + "\n", "")
+    .replace(/\s*<aside class="ad-slot[\s\S]*?<\/aside>\s*<script>\(adsbygoogle[^<]*<\/script>/g, "")
+    .replace("</head>", '  <meta name="robots" content="' + NOINDEX + '" />\n</head>');
+}
 const YEAR = new Date().getFullYear();
 const SITE_ORIGIN = "https://got-theology.com";
 const ADSENSE_SCRIPT =
@@ -38,7 +58,13 @@ function gitDates() {
     const status = execSync("git status --porcelain", { cwd: ROOT, encoding: "utf8", maxBuffer: 64 * 1024 * 1024 });
     for (const line of status.split("\n")) {
       const f = line.slice(3).trim();
-      if (f) GIT_DATES.set(f, TODAY);
+      if (!f) continue;
+      try {
+        const st = fs.statSync(path.join(ROOT, f));
+        if (st.isFile()) GIT_DATES.set(f, new Date(st.mtimeMs).toLocaleDateString("en-CA"));
+      } catch (e) {
+        /* deleted file */
+      }
     }
   } catch (err) {
     console.warn("  note: git dates unavailable; sitemap lastmod uses today");
@@ -234,6 +260,7 @@ function primaryNavHtml(opts) {
     '        <a href="/">Home</a>\n' +
     '        <a href="/bible/">Bible</a>\n' +
     '        <a href="/doctrines/">Doctrines</a>\n' +
+    '        <a href="/articles/">Articles</a>\n' +
     '        <a href="/#perspectives">Perspectives</a>\n' +
     '        <a href="/about">About</a>\n' +
     '        <a href="/contact">Contact</a>\n' +
@@ -247,11 +274,13 @@ function footerNavHtml() {
     '          <a href="/">Home</a>\n' +
     '          <a href="/bible/">Bible</a>\n' +
     '          <a href="/doctrines/">Doctrines</a>\n' +
+    '          <a href="/articles/">Articles</a>\n' +
     '          <a href="/about">About</a>\n' +
     '          <a href="/contact">Contact</a>\n' +
     '          <a href="/privacy">Privacy</a>\n' +
     '          <a href="/terms">Terms</a>\n' +
-    '          <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me">@got_theology</a>'
+    '          <a href="https://www.facebook.com/GotTheology" target="_blank" rel="noopener noreferrer me" aria-label="GotTheology on Facebook (opens in a new tab)">Facebook</a>\n' +
+    '          <a href="https://x.com/got_theology" target="_blank" rel="noopener noreferrer me" aria-label="GotTheology on X, @got_theology (opens in a new tab)">X</a>'
   );
 }
 
@@ -1261,6 +1290,7 @@ function renderBookHub(book, items) {
       "Browse " + book.name + " chapter by chapter. Arminian and Reformed commentary on GotTheology.",
     canonicalPath: bookHubPath(book.slug),
     mainClass: "bible-index book-hub",
+    robots: NOINDEX,
     footerLabel: book.name,
     body,
   });
@@ -1297,6 +1327,7 @@ function renderChapterHub(book, chapter, items) {
       ". Verse-by-verse Arminian and Reformed commentary on GotTheology.",
     canonicalPath: chapterHubPath(book.slug, chapter),
     mainClass: "bible-index chapter-hub",
+    robots: NOINDEX,
     footerLabel: label,
     body,
   });
@@ -1315,8 +1346,7 @@ function writeRobotsTxt() {
   console.log("  wrote " + path.relative(ROOT, outPath));
 }
 
-function writeSitemap(passages, topics, extraPages) {
-  const bySlug = groupPassagesBySlug(passages);
+function writeSitemap(passages, topics, extraPages, articles) {
   const allSources = passages.map((p) => p.source);
   const topicSources = topics && topics.all ? topics.all.map((t) => t._source) : [];
   const entries = [
@@ -1325,16 +1355,9 @@ function writeSitemap(passages, topics, extraPages) {
     ["/doctrines/", topicSources],
     ["/attributes/", topicSources],
   ];
-  for (const book of CANONICAL_BOOKS) {
-    const items = bySlug.get(book.slug);
-    if (!items || !items.length) continue;
-    entries.push([bookHubPath(book.slug), items.map((p) => p.source)]);
-    const byChapter = groupByChapter(items);
-    for (const [ch, chItems] of byChapter) {
-      entries.push([chapterHubPath(book.slug, ch), chItems.map((p) => p.source)]);
-    }
-  }
-  for (const p of passages) entries.push([p.url, [p.source]]);
+  // Book and chapter hubs are noindex,follow, so they stay out of the sitemap.
+  for (const p of passages) if (p.indexed) entries.push([p.url, [p.source]]);
+  for (const a of articles || []) entries.push([a.url, [a.source]]);
   if (topics && topics.all) {
     for (const t of topics.all) entries.push([topicUrl(t.kind, t.slug), [t._source]]);
   }
@@ -1558,6 +1581,98 @@ function writeStaticPages() {
   return written;
 }
 
+// Long-form articles: content/articles/<slug>.json with
+// { title, description, published, order, body } where body is plain text:
+// blank lines separate paragraphs and lines starting with "## " are headings.
+function articleBodyHtml(body) {
+  return String(body || "")
+    .trim()
+    .split(/\n\s*\n/)
+    .map((blk) => blk.replace(/\s*\n\s*/g, " ").trim())
+    .filter(Boolean)
+    .map((blk) =>
+      blk.startsWith("## ")
+        ? "      <h2>" + escapeHtml(blk.slice(3)) + "</h2>"
+        : "      <p>" + escapeHtml(blk) + "</p>"
+    )
+    .join("\n");
+}
+
+function writeArticles() {
+  if (!fs.existsSync(ARTICLES_DIR)) return [];
+  if (fs.existsSync(ARTICLES_OUT)) fs.rmSync(ARTICLES_OUT, { recursive: true, force: true });
+  ensureDir(ARTICLES_OUT);
+  const list = fs
+    .readdirSync(ARTICLES_DIR)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => {
+      const src = path.join(ARTICLES_DIR, f);
+      const a = JSON.parse(fs.readFileSync(src, "utf8"));
+      a.slug = path.basename(f, ".json");
+      a.url = "/articles/" + a.slug;
+      a.source = src;
+      return a;
+    })
+    .sort((x, y) => (x.order || 99) - (y.order || 99));
+  for (const a of list) {
+    const words = String(a.body).split(/\s+/).filter(Boolean).length;
+    const body =
+      '    <div class="reader article">\n' +
+      '      <p class="browse-crumbs"><a href="/articles/">Articles</a></p>\n' +
+      '      <div class="page-intro">\n' +
+      '        <p class="eyebrow">Article</p>\n' +
+      "        <h1>" + escapeHtml(a.title) + "</h1>\n" +
+      "        <p>" + escapeHtml(a.description) + "</p>\n" +
+      '        <p class="article-meta">About ' + Math.max(1, Math.round(words / 230)) + " min read</p>\n" +
+      "      </div>\n" +
+      articleBodyHtml(a.body) + "\n" +
+      '      <aside class="disclaimer" role="note">' + siteDisclaimerHtml() + "</aside>\n" +
+      "    </div>";
+    const html = renderBrowseDocument({
+      title: a.title,
+      description: a.description,
+      canonicalPath: a.url,
+      mainClass: "bible-index article-page",
+      footerLabel: "Articles",
+      ads: true,
+      body,
+    });
+    fs.writeFileSync(urlToFile(a.url), html, "utf8");
+    console.log("  wrote " + path.relative(ROOT, urlToFile(a.url)) + " (" + words + " words)");
+  }
+  const items = list
+    .map(
+      (a) =>
+        '        <li><a href="' + a.url + '"><span class="ref">' + escapeHtml(a.title) +
+        "</span><span class=\"meta\">" + escapeHtml(a.description) + "</span></a></li>"
+    )
+    .join("\n");
+  const hubBody =
+    '    <div class="reader">\n' +
+    '      <div class="page-intro page-intro--hub">\n' +
+    '        <p class="eyebrow">Long-form</p>\n' +
+    "        <h1>Articles</h1>\n" +
+    "        <p>Longer studies of the passages and questions where Arminian and Reformed readers part ways, with each side stated in terms its own teachers would accept.</p>\n" +
+    "      </div>\n" +
+    '      <ul class="passage-list">\n' + items + "\n      </ul>\n" +
+    "    </div>";
+  fs.writeFileSync(
+    path.join(ARTICLES_OUT, "index.html"),
+    renderBrowseDocument({
+      title: "Articles",
+      description: "Long-form Arminian and Reformed studies on Romans 9, Ephesians 1, John 6, Hebrews 6, and TULIP vs the Remonstrance.",
+      canonicalPath: "/articles/",
+      mainClass: "bible-index articles-hub",
+      footerLabel: "Articles",
+      body: hubBody,
+    }),
+    "utf8"
+  );
+  console.log("  wrote public/articles/index.html (" + list.length + " articles)");
+  const hubSrcs = list.map((a) => a.source);
+  return [{ url: "/articles/", source: hubSrcs[0] }].concat(list);
+}
+
 function main() {
   ensureDir(path.join(PUBLIC, "assets"));
   if (!fs.existsSync(path.join(PUBLIC, "assets", "gottheology.css"))) {
@@ -1591,6 +1706,13 @@ function main() {
   );
 
   const files = findPassageFiles(BOOKS_DIR).sort();
+  // A book folder containing a "_draft" marker file stays out of the build
+  // (no /bible/ tile, hubs, sitemap, or search) unless INCLUDE_DRAFTS=1.
+  const includeDrafts = process.env.INCLUDE_DRAFTS === "1";
+  for (let i = files.length - 1; i >= 0; i--) {
+    const slug = path.relative(BOOKS_DIR, files[i]).split(path.sep)[0];
+    if (!includeDrafts && fs.existsSync(path.join(BOOKS_DIR, slug, "_draft"))) files.splice(i, 1);
+  }
   const liveSlugs = new Set(files.map((f) => path.relative(BOOKS_DIR, f).split(path.sep)[0]));
   LIVE_BOOKS_LABEL = joinList(CANONICAL_BOOKS.filter((b) => liveSlugs.has(b.slug)).map((b) => b.name));
   const passages = [];
@@ -1627,7 +1749,9 @@ function main() {
       chipPassagesApplied += 1;
       chipLinksApplied += topicChips.length;
     }
-    const html = renderPassagePage(data, { voices, canonicalPath: url, topicChips });
+    const indexed = isIndexedPassage(data.bookSlug, data.chapter, data.verseStart, data.verseEnd);
+    let html = renderPassagePage(data, { voices, canonicalPath: url, topicChips });
+    if (!indexed) html = makeNoindexAdFree(html);
     fs.writeFileSync(outPath, html, "utf8");
     console.log("  wrote " + path.relative(ROOT, outPath));
 
@@ -1645,6 +1769,7 @@ function main() {
       context: data.context || "",
       url,
       source: file,
+      indexed,
       text: buildSearchText({ ...data, title }),
     });
 
@@ -1694,7 +1819,8 @@ function main() {
 
   const staticPages = writeStaticPages();
   writeRobotsTxt();
-  writeSitemap(passages, topics, staticPages);
+  const articles = writeArticles();
+  writeSitemap(passages, topics, staticPages, articles);
 
   console.log(
     "Done. " +

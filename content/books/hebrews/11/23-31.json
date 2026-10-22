@@ -6,83 +6,63 @@
   "verseEnd": 31,
   "translation": "WEB",
   "title": "Hebrews 11:23–31",
-  "context": "Faith’s examples move through Moses: hidden by parents who did not fear the king’s edict; refusing Pharaoh’s household; choosing mistreatment with God’s people; considering Christ’s reproach greater wealth than Egypt’s treasures; enduring as seeing the Invisible; keeping the Passover. Then the people cross the Red Sea, Jericho’s walls fall, and Rahab does not perish with the disobedient.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On Moses’ choice, the reproach of Christ, Passover faith, the Red Sea, Jericho, and Rahab, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king’s commandment. By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter. Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he looked off from all those perishing treasures unto the recompence of reward—not to an inheritance in Canaan, but what his believing ancestors looked for, a future state of happiness in heaven. By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible. Through faith he kept the passover, and the sprinkling of blood. By faith they passed through the Red sea. By faith the walls of Jericho fell down. By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Hebrews 11:23–31)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "The parents of Moses relied confidently on God’s promise of a deliverer and preferred the infant’s safety to their own. Moses, when of mature age, disregarded the adoption of Pharaoh’s daughter; he preferred to return to his own nation. He reckons among the reproaches of Christ all the ignominious trials the faithful endure; he had his eyes fixed on the promise of God. If any concludes his faith did not recumb on God’s mercy alone because he had respect to the reward—the question here is not respecting righteousness or the cause of salvation; faith as to righteousness before God does not look on reward, but on the gratuitous goodness of God, not on our works but on Christ alone; but faith, apart from justification, since it extends to every word of God, has respect to the reward that is promised. By faith he forsook Egypt, not fearing the wrath of the king; he endured as seeing him who is invisible. Through faith he kept the Passover, acquiescing in God’s word alone when the effect did not appear. By faith they passed the Red Sea; by faith Jericho fell; by faith Rahab perished not with the unbelieving.",
-        "cite": "John Calvin",
-        "source": "Commentary on Hebrews (on Hebrews 11:23–31)"
-      }
-    ]
-  },
+  "context": "Moses’ parents hid him by faith, unafraid of the king’s edict. Moses himself refused to be called the son of Pharaoh’s daughter, choosing ill-treatment with God’s people over the passing pleasures of sin, because he considered the reproach of Christ greater wealth than Egypt’s treasures. By faith he left Egypt, kept the Passover, and led the people through the Red Sea. By faith the walls of Jericho fell, and Rahab was spared. Both traditions see faith making real choices. They frame those choices differently.",
+  "showVoices": false,
   "verses": [
     {
       "number": 23,
       "text": "By faith Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child; and they were not afraid of the king’s commandment.",
-      "arminianNotes": "Wesley: they saw—doubtless with a divine presage of things to come—and were not afraid of the king’s commandment.\n\nWesley’s heirs hear parental faith that fears God more than the edict. Beauty here is read with promise-sense, not mere sentiment. Courage to hide is faith’s fruit for the child’s life.",
-      "reformedNotes": "Calvin: induced to save him because God had promised a deliverer under oppression; they relied on that promise. Some mark of future excellency inspired hope of approaching deliverance. Their faith, though weak, was so approved as to secure Moses’ life, on which the Church’s deliverance depended.\n\nPromise-reliant courage, not fearlessness as temperament. God approved even weak faith that preferred the infant’s safety."
+      "arminianNotes": "By faith Moses’ parents hid him, not afraid of the king’s edict. Arminian readers see courageous faith choosing to obey God rather than men.",
+      "reformedNotes": "Reformed readers see God preserving his chosen deliverer through the faith of his parents."
     },
     {
       "number": 24,
       "text": "By faith Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter,",
-      "arminianNotes": "Wesley: refused to be called—any longer—the son of Pharaoh’s daughter. Grown-up faith renounces false belonging.\n\nThis is a deliberate refusal: identity with God’s people over palace title. Hearers likewise must refuse names that deny their calling.",
-      "reformedNotes": "Calvin: when of mature age, not by boyish levity, he disregarded the adoption. By visiting and relieving his brethren he proved he preferred his own nation. He could not have done so without being persuaded of the blessing promised to Abraham’s race—whose only witness was God’s promise.\n\nMature faith renounces Egypt’s name because it has seen the promise afar."
+      "arminianNotes": "By faith Moses refused to be called the son of Pharaoh’s daughter. Arminian readers see a real decision that cost him greatly.",
+      "reformedNotes": "Reformed readers see grace enabling Moses to choose God’s people."
     },
     {
       "number": 25,
       "text": "choosing rather to share ill treatment with God’s people than to enjoy the pleasures of sin for a time,",
-      "arminianNotes": "Wesley does not pause here with a long gloss; the choice is plain in the text he elsewhere frames by looking off to the reward (v. 26).\n\nClassical Arminians find an alternative set before Moses and before us: mistreatment with God’s people, or fleeting sinful pleasure. Faith chooses the people and the hardship.",
-      "reformedNotes": "Calvin: shun as deadly poison whatever cannot be enjoyed without offending God; pleasures of sin are allurements that draw us from God and our calling. Temporary pleasures vanish with life itself. He chose affliction with the people of God—otherwise he could not avow himself one of God’s people.\n\nChoosing mistreatment is faith’s separation to the Church; fleeting pleasure is unbelief’s bait."
+      "arminianNotes": "He chose to be mistreated with God’s people rather than enjoy the fleeting pleasures of sin. Arminian readers see Moses’ choice as a model of free, costly faith.",
+      "reformedNotes": "Reformed readers see a choice that flowed from a heart God had changed.",
+      "keyContrast": "Both see Moses making a real choice. Arminian readers stress the freedom of that choice, enabled by grace. Reformed readers stress that it flowed from a heart renewed by God."
     },
     {
       "number": 26,
       "text": "considering the reproach of Christ greater riches than the treasures of Egypt; for he looked to the reward.",
-      "arminianNotes": "Wesley: the reproach of Christ—that which he bore for believing in the Messiah to come, and acting accordingly. He looked off from perishing treasures unto the recompence of reward—not Canaan, which he never attained, but what his believing ancestors looked for: a future state of happiness in heaven.\n\nThe verse presses looking to the reward as holy motive for enduring reproach. Greater wealth is Christ’s reproach now; the recompense is heavenly. Faith’s eyes train off Egypt toward promised joy.",
-      "reformedNotes": "Calvin: those God has chosen He has also foreordained to be conformed to the Son’s image—not all by the same cross, but none may decline the cross in common with Christ. He had eyes fixed on God’s promise. Faith as to righteousness before God does not look on reward but on God’s gratuitous goodness and Christ alone; yet faith, embracing every word of God, has respect to the reward promised—without this having place in free justification.\n\nReproach of Christ is wealth; reward-hope is faith’s embrace of promise, not merit that purchases justification.",
-      "keyContrast": "Both honor Moses for counting Christ’s reproach better than Egypt and for looking to God’s promised reward, and both refuse treasure-religion. Arminians follow Wesley’s look-off to heavenly recompense as the believer’s sincere motive that sustains costly obedience. Reformed commentators side with Calvin’s careful fork: justification-faith rests on free mercy in Christ alone, while faith more broadly may eye the promised reward—never as wages that buy righteousness."
+      "arminianNotes": "He considered the reproach of Christ greater wealth than Egypt’s treasures, looking to the reward. Arminian readers see faith motivated by future reward.",
+      "reformedNotes": "Reformed readers see Moses identifying with the Messiah, which shows Old Testament faith looking to Christ."
     },
     {
       "number": 27,
       "text": "By faith he left Egypt, not fearing the wrath of the king; for he endured, as seeing him who is invisible.",
-      "arminianNotes": "Wesley: by faith he left Egypt, taking the Israelites; not then fearing the wrath of the king—as he did many years before. He endured as seeing Him who is invisible.\n\nListen here for endurance fueled by sight of the Invisible. Fear of the king yields when God is seen. Pastoral call: endure by that sight.",
-      "reformedNotes": "Calvin: wonderful strength of faith to bring out an untrained multitude and hope God would open a way. True faith sets God always before our eyes; beholds higher things in God than senses perceive; a view of God alone strengthens weakness to withstand Satan’s assaults. The weaker and less resolute, the less faith.\n\nSeeing the Invisible is faith’s office; endurance is its fruit, not stoic grit."
+      "arminianNotes": "By faith he left Egypt, enduring as seeing him who is invisible. Arminian readers see endurance sustained by a vision of God.",
+      "reformedNotes": "Reformed readers see faith as seeing the unseen God."
     },
     {
       "number": 28,
       "text": "By faith he kept the Passover and the sprinkling of the blood, that the destroyer of the firstborn should not touch them.",
-      "arminianNotes": "Wesley: the pouring out of the blood of the paschal lamb, sprinkled on the door-posts, lest the destroying angel should touch the Israelites.\n\nArminian interpreters hear Passover faith: blood sprinkled because God said so, before the Destroyer’s pass was seen. Shelter under the blood is for those who believe and keep what God appointed.",
-      "reformedNotes": "Calvin: kept by faith not merely because the lamb typified Christ, but because its benefit did not yet appear when doorposts were sprinkled. Satisfied with God’s word alone that the people would be exempt, Moses did not hesitate. Faith acquiesces in the word when the effect is hid.\n\nSprinkling is obedience of faith to a not-yet-seen deliverance. The Destroyer is stayed by God’s appointed blood, received by faith."
+      "arminianNotes": "By faith he kept the Passover and sprinkled the blood. Arminian readers see obedience to God’s provision of salvation.",
+      "reformedNotes": "Reformed readers see the Passover blood as a type of Christ’s blood, protecting God’s people."
     },
     {
       "number": 29,
       "text": "By faith they passed through the Red Sea as on dry land. When the Egyptians tried to do so, they were swallowed up.",
-      "arminianNotes": "Wesley: they—Moses, Aaron, and the Israelites—passed the Red Sea. Faith crosses where presumption drowns.\n\nArminians hear the same path taken two ways: by faith unto life, by unbelieving assay unto death. The sea is not magic; trust in God’s word makes the difference.",
-      "reformedNotes": "Calvin: many in that multitude were unbelieving; yet the Lord granted to the faith of a few that the whole multitude should pass. Faith’s crossing condemns Egypt’s copy without faith.\n\nGod honors faith; unbelieving imitation of the form perishes. Deliverance is the Lord’s through faith."
+      "arminianNotes": "By faith the people crossed the Red Sea as on dry land. Arminian readers see corporate faith acting on God’s word.",
+      "reformedNotes": "Reformed readers see God’s deliverance of his people, which Paul links with baptism (1 Corinthians 10:2)."
     },
     {
       "number": 30,
       "text": "By faith the walls of Jericho fell down after they had been encircled for seven days.",
-      "arminianNotes": "Wesley: by the faith of Joshua. Seven days of obedient circling precede the fall.\n\nThe passage carries patient, odd obedience that faith sustains until walls fall. Methods that look foolish are wise when God has spoken.",
-      "reformedNotes": "Calvin ascribes Jericho’s fall to faith—walls down after the word-commanded circuit. Faith waits God’s timing through seven days of apparent futility.\n\nThe fall is God’s act meeting faith’s obedience. Do not credit the march as technique; credit the God who spoke."
+      "arminianNotes": "By faith the walls of Jericho fell after being encircled seven days. Arminian readers see faith obeying instructions that seemed strange.",
+      "reformedNotes": "Reformed readers see God’s power working through obedient faith."
     },
     {
       "number": 31,
       "text": "By faith Rahab the prostitute didn’t perish with those who were disobedient, having received the spies in peace.",
-      "arminianNotes": "Wesley: Rahab—though formerly one not of the fairest character—perished not with them that believed not, when she received the spies with peace.\n\nArminian interpreters hear mercy to a scandalous past where faith welcomes God’s messengers. She did not perish with the disobedient; belief and hospitality mark the difference. Hope for unlikely hearers.",
-      "reformedNotes": "Calvin: by faith Rahab perished not with the unbelieving when she received the spies with peace. Faith separated her from the disobedient city.\n\nShe is saved with God’s people by faith, not by prior respectability. Disobedience perishes; faith receives and lives."
+      "arminianNotes": "By faith Rahab did not perish with the disobedient, because she welcomed the spies. Arminian readers see a Gentile outsider saved by responding in faith.",
+      "reformedNotes": "Reformed readers see God’s grace reaching an unlikely outsider and bringing her into his people and the line of Christ."
     }
   ]
 }

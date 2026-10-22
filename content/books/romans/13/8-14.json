@@ -6,72 +6,50 @@
   "verseEnd": 14,
   "translation": "WEB",
   "title": "Romans 13:8–14",
-  "context": "From civic dues Paul passes to an unpaid debt: love one another. The commandments against harming a neighbor are summed up in loving the neighbor as oneself; love does no wrong, and so fulfills the law. The hour has come to wake from sleep—salvation nearer now than when we first believed. Cast off the deeds of darkness, put on the armor of light, walk properly, as in the day, and put on the Lord Jesus Christ, making no provision for the flesh.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On love as the fulfilling of the law, waking from sleep, and putting on the Lord Jesus Christ, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "But put ye on the Lord Jesus Christ—Herein is contained the whole of our salvation. It is a strong and beautiful expression for the most intimate union with him, and being clothed with all the graces which were in him. The apostle does not say, Put on purity and sobriety, peacefulness and benevolence; but he says all this and a thousand times more at once, in saying, Put on Christ. And make not provision—To raise foolish desires, or, when they are raised already, to satisfy them.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on Rom 13:14)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "Now to put on Christ, means here to be on every side fortified by the power of his Spirit, and be thereby prepared to discharge all the duties of holiness; for thus is the image of God renewed in us, which is the only true ornament of the soul. For Paul had in view the end of our calling; inasmuch as God, by adopting us, unites us to the body of his only-begotten Son, and for this purpose,—that we, renouncing our former life, may become new men in him.",
-        "cite": "John Calvin",
-        "source": "Commentary on Romans (on Rom 13:14)"
-      }
-    ]
-  },
+  "context": "Paul sums up the law in love. Believers should owe nothing except the continuing debt of love, because love fulfills the commandments. He then adds urgency: the night is nearly over and the day of salvation is near, so believers should wake up, put off the works of darkness, and put on the Lord Jesus Christ. Augustine’s conversion turned on verses 13–14. Both traditions embrace the passage, with different emphases on holiness and on how the law relates to love.",
+  "showVoices": false,
   "verses": [
     {
       "number": 8,
       "text": "Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law.",
-      "arminianNotes": "From dues to magistrates Paul passes to general duties (Wesley). “Owe no one anything, except to love one another”—an eternal debt “which can never be sufficiently discharged; but yet if this be rightly performed, it discharges all the rest.” He that loves another as he ought “hath fulfilled the whole law toward his neighbour.”\n\nLove is not a mood that replaces the commandments; it is the living way they are kept. The debt remains open on purpose. A church that has paid Caesar can still default on the neighbor. Arminian readers hear a fulfillment: love, rightly performed, actually does the law’s neighbor-work—not a fiction, and not a ladder of merit, but the life grace trains.",
-      "reformedNotes": "Calvin would rather take the words simply: the precept about magistrates belongs to the law of love. “He then who introduces anarchy, violates love; for what immediately follows anarchy, is the confusion of all things.” He who loves his neighbor has fulfilled the law—hypothetically. “Paul declares not what men do or do not, but he speaks hypothetically of that which you will find nowhere accomplished.” Keeping the law would be true righteousness; “as no one performs it, and never has performed it… the only refuge is in the grace of Christ.”\n\nLove is the summary of neighbor-duty, including civic order. It is not a second justification. We owe love daily; we do not finish the bill and then rest in our performance. Refuge remains Christ.",
-      "keyContrast": "Both take the unpaid debt of love as true and as the summary of duty to neighbor. Arminians follow Wesley: if love is rightly performed it discharges the rest and fulfills the law toward the neighbor. Reformed Christians follow Calvin: the fulfillment is hypothetical, nowhere accomplished, so this verse cannot fund justification by works; the only refuge is the grace of Christ."
+      "arminianNotes": "Owe no one anything except to love one another, for love fulfills the law. Wesleyan readers see love as the substance of holiness. Wesley described entire sanctification as being filled with love for God and neighbor.",
+      "reformedNotes": "Reformed readers see love as the summary of the moral law, not its replacement. The commandments still describe what love looks like in practice."
     },
     {
       "number": 9,
       "text": "For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.”",
-      "arminianNotes": "The particular commandments—adultery, murder, theft, coveting, and any other toward the neighbor—are, are all summed up in this saying, namely, You shall love your neighbor as yourself. Wesley: if you were not even thinking of a given command, “yet if your heart was full of love, you would fulfil it.”\n\nLove is not vagueness; it is the heart from which the second table actually gets kept. A full heart of love would not need a separate reminder not to steal. The gospel that trains love does not annul the commandments; it writes them on the neighbor.",
-      "reformedNotes": "Calvin: Paul does not here give a complete list of the second table; he omits even parents, and adds “whatever other commandments there.” The point is that “God intended nothing else by all his commandments than to teach us the duty of love.” Obedience to magistrates is “not the least thing which tends to nourish peace, to preserve brotherly love.”\n\nThe commandments named are samples of neighbor-love, not a new law of our own making. Love toward man flows from love of God and is its evidence. Civic peace is one of love’s public forms."
+      "arminianNotes": "The commandments are summed up in “You shall love your neighbor as yourself.” Arminian readers see love as the motive that makes obedience joyful rather than burdensome.",
+      "reformedNotes": "Reformed readers see the second table of the law summed up but not abolished. Each commandment remains a specific expression of love."
     },
     {
       "number": 10,
       "text": "Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law.",
-      "arminianNotes": "Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law. Wesley: “the same love which restrains from all evil, incites us to all good.” Fulfillment is both No and Yes.\n\nA church can stop short at “do no harm” and call it love. Wesley will not allow it. The debt of v. 8 is active. Love that never wrongs and never helps is not the love that fulfills.",
-      "reformedNotes": "Calvin: true love “will never entertain the thought of injuring others.” What else does the whole second table forbid? Apply it: magistrates are “guardians of peace and justice”; those who want every person secured from wrong “ought to defend, as far as he can, the power of magistrates.” “The enemies of government show a disposition to do harm.” He speaks only of the second table; the first table is not in view.\n\nLove’s first public test is whether we wish our neighbor protected. Anarchy is not a more spiritual love. Fulfilling the law here still does not mean anyone has arrived at justifying righteousness."
+      "arminianNotes": "Love does no wrong to a neighbor, so love is the fulfilling of the law. Arminian readers, especially Wesleyans, see love as the goal toward which grace leads believers.",
+      "reformedNotes": "Reformed readers see the law fulfilled through love in believers, as Christ first fulfilled it perfectly on their behalf."
     },
     {
       "number": 11,
       "text": "Do this, knowing the time, that it is already time for you to awaken out of sleep, for salvation is now nearer to us than when we first believed.",
-      "arminianNotes": "“Do this”—fulfill the law of love—“knowing the season, full of grace, but hasting away” (Wesley). It is high time to awake. Wesley carries the metaphor: this life a night; the resurrection the day; the gospel shining on the heart the dawn. “Final salvation, glory, is now nearer to us than when we first believed—It is continually advancing, flying forward upon the swiftest wings of time.”\n\nWake because the time is grace, not because panic is holy. Sleep here is the believer’s drift. Salvation nearer is glory nearer. The same people who love the neighbor must not doze through the little moment left.",
-      "reformedNotes": "Calvin: another exhortation. The seasonable time has come to awake from sleep. “Nearer is salvation now to us than at that time when we began to believe.” He refuses to confine this to Jews under the law; it is said to the Roman church. The comparison of night and day looks toward the coming brightness.\n\nCalling and the day of visitation require a new life. Sleep is torpor in those already shone on. Salvation nearer is the approaching fullness, not a hint that we must finish justifying ourselves before dawn. Wake because Christ is near."
+      "arminianNotes": "Salvation is nearer now than when we first believed. Arminian readers see a call to vigilance, since believers must stay awake and remain faithful until the end.",
+      "reformedNotes": "Reformed readers see salvation here as its final completion at Christ’s return, which is certain for those who believe. The certainty motivates watchfulness."
     },
     {
       "number": 12,
       "text": "The night is far gone, and the day is near. Let’s therefore throw off the deeds of darkness, and let’s put on the armor of light.",
-      "arminianNotes": "“The night is far gone, and the day is near. Let’s therefore throw.” Wesley: rise, throw away night-clothes fit only for darkness, put on new, and, being soldiers, arm—we are encompassed with so many enemies. “The day dawns when we receive faith, and then sleep gives place. Then it is time to rise, to arm, to walk, to work, lest sleep steal upon us again.”\n\nCasting off works of darkness is an act of those who have seen dawn. Armor of light is for walking now. Grace that shone can be slept through; the warning exists because they might.",
-      "reformedNotes": "Calvin: the night has advanced; we are not in the thick darkness of the unbelieving. The gospel sets resurrection hope before our eyes. “Day” here is the glorious brightness of celestial life, whose beginnings we already see. Cast off shameful works; put on armor, “because we are to carry on a warfare for the Lord.”\n\nLook forward to the coming of Christ as people who already see dawn. The armor is given for a fight God appointed. Works of darkness are to be thrown off because the day is at hand, not because we dress ourselves for justification."
+      "arminianNotes": "The night is far gone and the day is near; cast off the works of darkness and put on the armor of light. Arminian readers stress the believer’s active part in putting away sin.",
+      "reformedNotes": "Reformed readers see the imperative resting on what God has already done. Believers belong to the day, so they must live as children of light."
     },
     {
       "number": 13,
       "text": "Let’s walk properly, as in the day; not in reveling and drunkenness, not in sexual promiscuity and lustful acts, and not in strife and jealousy.",
-      "arminianNotes": "Walk properly, as in the day; not orgies and drunkenness, not sexual promiscuity and lustful acts, and not quarreling and jealousy. Wesley hears “banqueting” as “luxurious, elegant feasts”—not only the alley but the polished table.\n\nThe three pairs are public and private, flesh and faction. Quarreling sits beside drunkenness on purpose. A church can stay technically chaste and still walk in the night by jealousy. Daytime living is ordinary holiness, the same courtesy Titus 3:2 names toward all people.",
-      "reformedNotes": "Calvin names three kinds, each with two names: excess in living, carnal lust, and envy-and-contention. “Strifes and contests arise from this fountain”: seeking to excel, envying, ambition. Even carnal men are ashamed to do these before witnesses; we who stand in God’s light should abstain even withdrawn from human eyes.\n\nThe daytime is not a costume for public respectability. God and angels see. Ambition is as much darkness as reveling. Walk as those already in the light of Christ, not as those performing for the street."
+      "arminianNotes": "Walk properly, not in revelry, drunkenness, sexual immorality, or quarreling. Arminian readers see a description of the holy life that is truly possible by grace.",
+      "reformedNotes": "Reformed readers note that the list includes quarreling and jealousy as well as gross sins. Sanctification reaches every area of life."
     },
     {
       "number": 14,
       "text": "But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts.",
-      "arminianNotes": "“Put on the Lord Jesus Christ.” Wesley: “Herein is contained the whole of our salvation. It is a strong and beautiful expression for the most intimate union with him, and being clothed with all the graces which were in him.” Paul does not say, Put on purity and sobriety; “he says all this and a thousand times more at once, in saying, Put on Christ.” “Make not provision—To raise foolish desires, or, when they are raised already, to satisfy them.”\n\nUnion with Christ is the dress, not a list of virtues we stitch together. The whole of salvation is in Him—graces included. Provision for the flesh is planned consent. Those united to Christ can still make that provision; the command exists because they might. Put Him on, and the nighttime list of v. 13 is already answered.",
-      "reformedNotes": "Calvin: to put on Christ here is “to be on every side fortified by the power of his Spirit, and be thereby prepared to discharge all the duties of holiness; for thus is the image of God renewed in us.” God, “by adopting us, unites us to the body of his only-begotten Son,” that we, “renouncing our former life, may become new men in him.” Provide for the flesh’s wants as pilgrims; do not indulge its lusts.\n\nThis is the holiness of the adopted, Spirit-armor for new men in the Son—not a human costume. No provision means a bridle on desire, not hatred of the body. The day is at hand; dress for it in Him.",
-      "keyContrast": "Both hear a putting on of Christ as new life, not a slogan. Arminians follow Wesley: here is “the whole of our salvation”—intimate union, clothed with all His graces at once. Reformed readers side with Calvin: the adopted are fortified by the Spirit to holiness, the image of God renewed as they become new men in the Son."
+      "arminianNotes": "Put on the Lord Jesus Christ and make no provision for the flesh. Arminian readers see a daily choice to clothe oneself with Christ and refuse sin. Augustine read this verse at his conversion.",
+      "reformedNotes": "Reformed readers see believers putting on in practice the Christ they have already been clothed with in baptism (Galatians 3:27). Augustine’s conversion through this verse is treasured in both traditions."
     }
   ]
 }

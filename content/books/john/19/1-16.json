@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 19:1–16",
   "context": "Pilate flogs Jesus; soldiers crown him with thorns and mock the King. The governor presents the man, finds no guilt, then hears the charge that he made himself the Son of God. Jesus names authority from above; Caesar's friendship outweighs justice; the priests confess no king but Caesar. Jesus is delivered to be crucified.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Classic comment on the innocent King delivered over, from both sides of the debate.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "He was the more afraid—He seems to have been afraid before of shedding innocent blood. Thou couldst have no power over me—For I have done nothing to expose me to the power of any magistrate. Therefore he that delivered me to thee, namely, Caiaphas, knowing this, is more blamable than thou.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 19:8, 11)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "His innocence is frequently attested by the testimony of the judge, in order to assure us that he was free from all sin, and that he was substituted as a guilty person in the room of others, and bore the punishment due to the sins of others. Pilate did not condemn Christ before he had several times acquitted him with his own mouth, in order that we may learn from it that it was for our sins that he was condemned, and not on his own account.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 19:1, 12)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 1,
@@ -95,7 +75,7 @@
       "text": "Jesus answered, “You would have no power at all against me, unless it were given to you from above. Therefore he who delivered me to you has greater sin.”",
       "arminianNotes": "Wesley: Thou couldst have no power over me—I have done nothing to expose me to any magistrate. Therefore Caiaphas, knowing this, is more blamable than thou. Jesus grants derived authority and grades guilt. Classical Arminians hold both: providence from above, and greater/lesser sin that is truly theirs.\n\nFrom above does not void Pilate's agency or Caiaphas's. Greater sin means comparison, not a puppet show. The gospel can say God gave the authority and still call the delivery a sin—because the gift of office was never a license to murder the innocent.",
       "reformedNotes": "Calvin prefers to confine the saying to the magistrate's office: Pilate's power is from God, and heaven's throne is higher than his tribunal. The one who delivered Jesus (the Jewish leadership pressing a holy ordinance into lawless service) has the greater sin, not to excuse Pilate but to mark how they pollute a divine government.\n\nNothing moves a finger but as God directs, and the actors remain sinners. The innocent is under a given authority so that he may be condemned in our room. Greater sin is still sin; the decree does not launder Caiaphas.",
-      "keyContrast": "Do not flatten the verse. Pilate's power is given from above, and delivering Jesus is sin—greater in the deliverer, still true in the judge. Arminians typically keep providence and resistible, culpable choice together: office was a chance to do right. Reformed interpreters typically hear the same givenness as the Father's purpose to hand over the Son, while still grading human guilt rather than calling the actors innocent tools."
+      "keyContrast": "This reading does not flatten the verse. Pilate's power is given from above, and delivering Jesus is sin—greater in the deliverer, still true in the judge. Arminians typically keep providence and resistible, culpable choice together: office was a chance to do right. Reformed interpreters typically hear the same givenness as the Father's purpose to hand over the Son, while still grading human guilt rather than calling the actors innocent tools."
     },
     {
       "number": 12,

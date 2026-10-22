@@ -6,109 +6,88 @@
   "verseEnd": 19,
   "translation": "WEB",
   "title": "Hebrews 3:7–19",
-  "context": "Having set Christ as Son over God's house and warned that we are his house if we hold fast, the writer cites Psalm 95: the Holy Spirit still says Today—do not harden your hearts as Israel did in the wilderness. The fathers tested God, went astray in heart, and under oath were barred from his rest. So take care, brothers: an evil unbelieving heart can lead away from the living God; exhort one another daily while it is called today; we have become partakers of Christ, if we hold the beginning of our confidence firm to the end. The generation that left Egypt under Moses rebelled, sinned, fell in the wilderness, and could not enter because of unbelief.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "On the Spirit's Today, the wilderness hardening, mutual exhortation, and sharing in Christ if we hold firm, a few classic voices from each tradition.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Wherefore—seeing he is faithful, be not ye unfaithful. Take heed, lest there be in any of you an evil heart of unbelief—unbelief is the parent of all evil, and the very essence of unbelief lies in departing from God, as the living God—the fountain of all our life, holiness, happiness. Exhort one another, while it is called To-day—this to-day will not last for ever. For we are made partakers of Christ—and we shall still partake of him and all his benefits, if we hold fast our faith unto the end. If—but not else; and a supposition made by the Holy Ghost is equal to the strongest assertion. Were they not all that came out of Egypt—an awful consideration! The whole elect people of God (a very few excepted) provoked God presently after their great deliverance, continued to grieve his Spirit for forty years, and perished in their sin. So we see they could not enter in—though afterward they desired it.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament, Hebrews 3"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "He proceeds in his exhortation, that they were to obey Christ speaking to them; and that he might add more weight to it, he confirms it by the testimony of David. As the Holy Ghost saith—this availed much more to touch their hearts than if he had quoted David by name; the words adduced from the prophets are those of God and not of men. Harden not your hearts—our rebellion against God flows from willful wickedness, by which we obstruct the entrance of his grace. Take heed, brethren, lest there be at any time in any of you a wicked heart of unbelief—he addressed them who had been imbued with the elements of Christianity; the sin of defection is accompanied with perfidy. Exhort one another—unless our faith be now and then raised up, it will lie prostrate; unless it be warmed, it will be frozen. For we are made partakers of Christ, if we hold the beginning of our confidence steadfast unto the end—lest under the pretext of the grace they had obtained they should indulge carnal security, he says there was need of perseverance. So we see that they could not enter in because of unbelief—unbelief was the chief of all their evils and the primary cause of their curse.",
-        "cite": "John Calvin",
-        "source": "Commentary on Hebrews 3:7–19"
-      }
-    ]
-  },
+  "context": "Quoting Psalm 95, the writer urges the readers not to harden their hearts as Israel did in the wilderness. That generation saw God’s works for forty years yet tested him, and God swore they would not enter his rest. The readers must take care that none of them has an evil, unbelieving heart that leads them to fall away from the living God, and must exhort one another daily. We have come to share in Christ, if we hold our original confidence firm to the end. Israel failed to enter because of unbelief. This passage is central to the warning theme of Hebrews.",
+  "showVoices": false,
   "verses": [
     {
       "number": 7,
       "text": "Therefore, even as the Holy Spirit says, “Today if you will hear his voice,",
-      "arminianNotes": "Therefore—seeing Christ is faithful as Son, be not you unfaithful. Wesley: Wherefore—seeing he is faithful, be not ye unfaithful (Ps. 95:7). The citation is the Holy Spirit's present word, not a dead archive. Today still names the open hour in which the voice may be heard.\n\nShared ground—the Spirit speaks; hear him now. No open-theist detour: God is not guessing who will listen. The urgency is true because the call is serious and the heart can still harden if it will not hear.",
-      "reformedNotes": "Calvin: As the Holy Ghost saith—this touches the heart more than naming David; the words of the prophets are God's, not men's. He proceeds that they were to obey Christ speaking; David is brought so the goad may be sharper without needless offense.\n\nThe Spirit still says Today. The same God who spoke in the Psalm addresses the church now. Hear his voice; the warning that follows is not theater."
+      "arminianNotes": "“Today, if you hear his voice.” Arminian readers see the Spirit addressing every hearer with a genuine call that requires a response now.",
+      "reformedNotes": "Reformed readers see the Spirit speaking through Scripture with present authority. The call is urgent for everyone who hears."
     },
     {
       "number": 8,
       "text": "don’t harden your hearts as in the rebellion, in the day of the trial in the wilderness,",
-      "arminianNotes": "Don’t harden your hearts as in the rebellion, in the day of testing in the wilderness. Wesley: As in the provocation—when Israel provoked me by their strife and murmurings. In the day of temptation—when at the same time they tempted me, by distrusting my power and goodness (Exod. 17:7).\n\nHardening is forbidden, and the wilderness pattern is a caution, not a fake scare. The heart can stiffen against the voice; grace summons a living refusal of that hardness today.",
-      "reformedNotes": "Calvin: Harden not your hearts—rebellion flows from willful wickedness that obstructs grace's entrance. We have by nature a heart of stone; yet when we reject God's voice it is spontaneous obstinacy. The Spirit rightly accuses unbelievers that they resist God and are authors of their own perverseness.\n\nDo not harden, as in the provocation. The warning is the means God uses; it is not emptied because God keeps his own. Soften while it is called today."
+      "arminianNotes": "Do not harden your hearts as in the rebellion. Arminian readers see hardening as a real human choice that can be resisted.",
+      "reformedNotes": "Reformed readers see the human responsibility not to harden one’s heart, alongside God’s sovereign hardening of those who persist in unbelief (Romans 9:18)."
     },
     {
       "number": 9,
       "text": "where your fathers tested me and tried me, and saw my deeds for forty years.",
-      "arminianNotes": "Where your fathers tested me and tried me, and saw my deeds for forty years. Wesley: Where your fathers—that hard-hearted and stiff-necked generation; so little cause had their descendants to glory in them. Tempted me—whether I could and would help them. Proved me—put my patience to the proof, even while they saw my glorious works of judgment and mercy, and that for forty years.\n\nLong sight of God's works did not save a generation that tested him. Take the wilderness history seriously; privilege without faith is no shelter.",
-      "reformedNotes": "Calvin: Tempted is taken badly—to provoke in a proud, insulting manner. Proved: when yet they had proved me and seen my works. So many evidences of divine power, and so bad a progress—marvelous stupidity to esteem God's power as nothing which had been so fully proved. Forty years marks incessant wickedness, not a brief stumble.\n\nThe fathers saw and still tested. Seeing miracles differs from knowing God's ways. The church must not romanticize that generation."
+      "arminianNotes": "Your fathers tested me and saw my works for forty years. Arminian readers see the guilt of people who resist God despite clear evidence.",
+      "reformedNotes": "Reformed readers see that seeing God’s works does not by itself produce faith. Only grace changes the heart."
     },
     {
       "number": 10,
       "text": "Therefore I was displeased with that generation, and said, ‘They always err in their heart, but they didn’t know my ways.’",
-      "arminianNotes": "God was displeased with that generation: they always err in their heart, but they didn’t know my ways. Wesley: Wherefore—to speak after the manner of men. I was grieved—displeased, offended. They always err in their hearts—led astray by stubborn will and vile affections. They didn’t know my ways—by which I would have led them like a flock.\n\nHeart-wandering and not knowing God's ways provoke him. The diagnosis is moral and spiritual, not a secret that the warning never meant them.",
-      "reformedNotes": "Calvin: This was God's sentence—they were destitute of a sound mind; they didn’t know my ways. He regarded them as past hope, without sense and reason. Assuming the character of man after long trials, he declares obstinate madness: they always went astray, and no hope of repentance appeared.\n\nAlways astray in heart is the Spirit's verdict on that generation. Provocation is just; the rest-warning that follows is earned, not arbitrary."
+      "arminianNotes": "They always go astray in their hearts; they have not known my ways. Arminian readers see a pattern of persistent unbelief that provokes God’s displeasure.",
+      "reformedNotes": "Reformed readers see the corruption of the heart as the root of rebellion."
     },
     {
       "number": 11,
       "text": "As I swore in my wrath, ‘They will not enter into my rest.’”",
-      "arminianNotes": "As I swore in my wrath, They will not enter into my rest. Wesley ties the rest here to the promised land—into my rest—in the promised land—while the letter will press a greater rest still. The oath makes exclusion solemn, not theatrical.\n\nWrath and oath barred that generation. Both camps take the wilderness/rest warning at face value. Who finally enters God's rest is the later fork; whether God meant what he swore is not.",
-      "reformedNotes": "Calvin: It was the punishment of their madness that they were deprived of the rest promised them. The Lord calls the land where they might have dwelt his rest—their perpetual inheritance by promise. Swearing If they shall enter sets forth wrath greatly inflamed; the defective oath-form recommends fear and reverence.\n\nThey shall not enter is a divine sentence. The warning that applies this history to the church is not fake for the Reformed either."
+      "arminianNotes": "As I swore in my wrath, they shall not enter my rest. Arminian readers see that people who were delivered from Egypt still failed to enter the land, a picture of believers who might fail to reach final rest.",
+      "reformedNotes": "Reformed readers see the wilderness generation as a mixed company. Many were outwardly redeemed but never truly believed."
     },
     {
       "number": 12,
       "text": "Beware, brothers, lest perhaps there might be in any one of you an evil heart of unbelief, in falling away from the living God;",
-      "arminianNotes": "Take care, brothers, lest perhaps there might be in any one of you an evil heart of unbelief, in falling away from the living God. Wesley: Take heed, lest perhaps there might be in any one of you—as there was in them. An evil heart of unbelief—unbelief is the parent of all evil, and the very essence of unbelief lies in departing from God, as the living God—the fountain of all our life, holiness, happiness.\n\nApplication: the possibility named is not a fiction—falling away from the living God through an evil unbelieving heart. Grace enables perseverance; the \"lest\" still summons care. Do not dissolve the warning into a threat that can never touch anyone who once professed.",
-      "reformedNotes": "Calvin: Take heed, brethren, lest there be at any time in any of you a wicked heart of unbelief—unbelief connected with depravity if after receiving the knowledge of Christ they departed from his faith. He addressed those imbued with Christianity's elements; hence By departing—the sin of defection is accompanied with perfidy.\n\nThe warning is means, not fake thunder. Those who finally belong do not fall away; an evil unbelieving heart marks departure from a profession, not the failure of God's keeping of his own. Still: take care—presumption is not faith.",
-      "keyContrast": "Both treat the wilderness pattern as a caution and refuse to pretend the \"lest\" is empty. Arminians hear a possibility of falling away from the living God through an evil unbelieving heart—care and perseverance as living conditions grace enables but does not render optional. Reformed readers hear the same urgency as God's means: those who truly belong do not finally fall away; unbelief exposes a heart that never rested in the living God, while the elect heed the warning and endure."
+      "arminianNotes": "Take care, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. Arminian readers see “brothers” warned against falling away, which they take as showing it is possible for believers.",
+      "reformedNotes": "Reformed readers see the warning addressed to the visible church, where some may not truly believe. It is also a means God uses to keep true believers faithful.",
+      "keyContrast": "Both take the warning seriously. Arminian readers see brothers in the faith who could truly fall away. Reformed readers see a warning addressed to the mixed visible church and used by God to preserve his elect."
     },
     {
       "number": 13,
       "text": "but exhort one another day by day, so long as it is called “today”, lest any one of you be hardened by the deceitfulness of sin.",
-      "arminianNotes": "Exhort one another every day, while it is still called “today,” so that none of you is hardened by the deceitfulness of sin. Wesley: But, to prevent it, exhort one another, while it is called To-day—this to-day will not last for ever. The day of life will end soon, and perhaps the day of grace yet sooner.\n\nMutual daily exhortation is the appointed remedy against hardening. Sin deceives; brothers must speak while Today remains. Community care is not optional piety; it is how none of you is left to harden alone.",
-      "reformedNotes": "Calvin: He pointed out the remedy—exhort one another. By nature inclined to evil, we need helps to retain us in God's fear. Unless faith is raised up, it lies prostrate; unless warmed, frozen; unless roused, torpid. Stimulate one another so Satan may not creep in by fallacies. We fall not at the first assault into open rebellion; meet the danger in due time. Watch over every member—neglect no sheep.\n\nExhort one another daily while it is called today. Hardening by deceitful sin is a near danger; the means of perseverance include the flock's mutual goads."
+      "arminianNotes": "Exhort one another every day, so that none of you is hardened by sin’s deceitfulness. Arminian readers see mutual encouragement as a real safeguard against apostasy.",
+      "reformedNotes": "Reformed readers see the church’s daily care as one of God’s means of preserving his people."
     },
     {
       "number": 14,
       "text": "For we have become partakers of Christ, if we hold the beginning of our confidence firm to the end,",
-      "arminianNotes": "We have become partakers of Christ, if we hold the beginning of our confidence firm to the end. Wesley: For we are made partakers of Christ—and we shall still partake of him and all his benefits, if we hold fast our faith unto the end. If—but not else; and a supposition made by the Holy Ghost is equal to the strongest assertion. Both the sentiment and the manner of expression are the same as Heb 3:6.\n\nFor the hearer: holding firm is the stated condition of sharing in Christ to the end. Original confidence must be kept; the \"if\" is not polite decoration. Grace enables the hold; the hold remains the path by which we still partake.",
-      "reformedNotes": "Calvin: He commends them for having begun well; lest under grace obtained they indulge carnal security, he says there was need of perseverance. Many having only tasted the Gospel stop mid-race or turn aside. Christ has given himself to be enjoyed on this condition: by the same faith by which we were admitted into participation of him, we preserve so great a blessing even to death. Beginning intimates faith only begun; it must make constant progress to the end.\n\nThose who finally share in Christ are those who hold firm to the end. The \"if\" is evidence and means, not a wager that God might lose his own. Hold original confidence—because true partakers do, and because security without perseverance is not the letter's comfort.",
-      "keyContrast": "Both refuse to treat \"if indeed we hold... firm to the end\" as sham. Arminians hear holding original confidence as the condition of continuing to share in Christ—\"if, but not else,\" as Wesley presses, parallel to 3:6. Reformed Christians typically hear the same clause as proving who truly became partakers: those who finally share hold firm; the warning drives perseverance as God's instrument, not as uncertainty whether he will keep his elect."
+      "arminianNotes": "We have come to share in Christ, if we hold our original confidence firm to the end. Arminian readers see holding firm as a condition of finally sharing in Christ.",
+      "reformedNotes": "Reformed readers note the tense: “we have come to share” is past. Holding firm proves that one has already truly shared in Christ.",
+      "keyContrast": "Both see perseverance as necessary. Arminian readers treat it as a condition for remaining a sharer in Christ. Reformed readers read the past tense as showing that perseverance is the evidence of a sharing already begun."
     },
     {
       "number": 15,
       "text": "while it is said, “Today if you will hear his voice, don’t harden your hearts, as in the rebellion.”",
-      "arminianNotes": "The Psalm returns: Today if you will hear his voice, don’t harden your hearts, as in the rebellion. The repetition after verse 14 keeps the condition and the caution joined—share in Christ by holding firm, and hear today without the wilderness hardness.\n\nToday is still the Spirit's word. Hearing and not hardening remain the living response. Do not let the second citation feel like filler; it re-applies the same urgent call.",
-      "reformedNotes": "Calvin: While it is said—he intimates that the reason for making progress never ceases as long as we live, because God calls us daily. Faith responds to the Gospel's preaching; as preaching continues through life, we ought to continue growing in faith. It is not enough to receive doctrine readily unless we exhibit the same teachableness tomorrow and every following day.\n\nToday and do not harden return on purpose. Ongoing calling means ongoing obedience; yesterday's hearing does not retire today's command."
+      "arminianNotes": "“Today, if you hear his voice, do not harden your hearts.” Arminian readers see the call repeated because the danger is real and present.",
+      "reformedNotes": "Reformed readers see the repetition as stressing urgency. Today is the time to respond."
     },
     {
       "number": 16,
       "text": "For who, when they heard, rebelled? Wasn’t it all those who came out of Egypt led by Moses?",
-      "arminianNotes": "Who heard, rebelled? Wasn’t it all those who came out of Egypt led by Moses? Wesley: Were they not all that came out of Egypt—an awful consideration! The whole elect people of God (a very few excepted) provoked God presently after their great deliverance, continued to grieve his Spirit for forty years, and perished in their sin!\n\nExodus privilege did not prevent rebellion. Hearing under Moses and still rebelling is the writer's mirror for the church. Take that generation seriously; deliverance without perseverance is no boast.",
-      "reformedNotes": "Calvin: David spoke as though that whole generation were unbelieving; yet some who truly feared God mingled with the wicked. The apostle modifies the severity so we know the word is preached that all may obey, and the people were justly condemned when the body was torn by the greatest part's defection. Saying some provoked, while they were by far the greatest part, avoids offense and sets believing fathers as examples too.\n\nThose who left Egypt under Moses are the cautionary \"who.\" Corporate privilege is not personal faith. The few who believed do not cancel the mass who rebelled."
+      "arminianNotes": "Who heard and rebelled? Was it not all who left Egypt under Moses? Arminian readers see that those who experienced God’s deliverance could still rebel.",
+      "reformedNotes": "Reformed readers see outward deliverance without inward faith, which is a warning to the visible church."
     },
     {
       "number": 17,
       "text": "With whom was he displeased forty years? Wasn’t it with those who sinned, whose bodies fell in the wilderness?",
-      "arminianNotes": "With whom was he displeased forty years? With those who sinned, whose bodies fell in the wilderness. The questions tighten: rebellion, then sin, then corpses in the desert. The history is bodily and final for that generation's march into rest.\n\nSin and divine provocation are linked; wilderness death is the displayed outcome. No camp softens the carcasses into metaphor that never threatened anyone.",
-      "reformedNotes": "Calvin: God had never been angry with his people except for just causes (cf. 1 Cor. 10:5–6). As many chastisements as we read, so many grievous sins provoked vengeance. Unbelief was the chief of all evils—mentioned last yet primary; once unbelievers, they never ceased adding sin to sin. Those who through unbelief rejected the land pursued obstinacy in lust, murmuring, adultery, and superstition.\n\nProvoked for forty years with those who sinned. Just anger; fall in the wilderness. The letter will next name disobedience and unbelief as the bar to rest."
+      "arminianNotes": "With whom was he provoked for forty years? Those who sinned, whose bodies fell in the wilderness. Arminian readers see the consequences of persistent sin.",
+      "reformedNotes": "Reformed readers see God’s judgment on unbelief within the covenant community."
     },
     {
       "number": 18,
       "text": "To whom did he swear that they wouldn’t enter into his rest, but to those who were disobedient?",
-      "arminianNotes": "To whom did he swear they wouldn’t enter into his rest? To those who were disobedient. The oath lands on the disobedient—unbelief's active refusal, not a minor stumble. Rest is refused where disobedience hardens the heart against the promise.\n\nDisobedience draws the oath. Both camps agree the barred are the disobedient unbelieving. The fork is not whether God swore truly; it is how that history presses perseverance on us who hear Today.",
-      "reformedNotes": "Calvin: To whom sware he that they should not enter into his rest, but to them that believed not? Unbelief prevented enjoying God's kindness; contempt of his word led them to sin. As at first they deserved through unbelief that God deprive them of the promised rest, so whatever sin followed flowed from the same fountain. He speaks of the community rather than every individual; many godly were not entangled or soon repented.\n\nThe sworn exclusion falls on the disobedient/unbelieving. Rest is God's gift; unbelief is the bar. Apply the oath as warning, not as curiosity about ancient geography."
+      "arminianNotes": "To whom did he swear they would not enter his rest, but to the disobedient? Arminian readers see disobedience as the expression of unbelief.",
+      "reformedNotes": "Reformed readers see unbelief and disobedience as inseparable."
     },
     {
       "number": 19,
       "text": "We see that they weren’t able to enter in because of unbelief.",
-      "arminianNotes": "So we see that they weren’t able to enter in because of unbelief. Wesley: So we see they could not enter in—though afterward they desired it. Desire after the door is shut does not reopen the oath. Unbelief, not lack of miracles, barred them.\n\nShared conclusion—unbelief made entry impossible. For readers: an evil unbelieving heart still threatens falling away from the living God; hold original confidence firm to the end. The wilderness generation is a mirror, not a scarecrow.",
-      "reformedNotes": "Calvin: So we see that they could not enter in because of unbelief—unbelief the chief evil and primary cause of the curse. From the beginning it prevented enjoyment of God's kindness. The apostle speaks of the whole community; the statement of the whole for a part is common when a multitude is in view.\n\nThose who finally enter are those who believe and hold firm; unbelief marks those who never truly entered the rest God gives. The warning remains the means that keeps the church soft to Today.",
-      "keyContrast": "Both conclude with the writer: unbelief barred the wilderness generation, and the warning is grave. Arminians typically press the mirror toward a grave danger of an unbelieving heart and the need to hold firm so as to share in Christ and enter rest. Reformed readers commonly press the same unbelief as the mark of those who never truly entered, while those who finally share hold firm—the oath and the exhortation serving as God's means, not as proof that perseverance is optional or that the elect may be lost."
+      "arminianNotes": "They were unable to enter because of unbelief. Arminian readers see unbelief as the decisive reason people fail to enter God’s rest, a choice for which they are responsible.",
+      "reformedNotes": "Reformed readers see unbelief as the root sin that excludes from God’s rest. Faith alone enters."
     }
   ]
 }

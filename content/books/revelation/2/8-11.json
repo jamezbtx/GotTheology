@@ -1,0 +1,38 @@
+{
+  "book": "Revelation",
+  "bookSlug": "revelation",
+  "chapter": 2,
+  "verseStart": 8,
+  "verseEnd": 11,
+  "translation": "WEB",
+  "title": "Revelation 2:8–11",
+  "context": "To persecuted Smyrna, Christ speaks as the first and the last, who died and came to life. He knows its oppression and poverty, though it is rich. He warns of imprisonment and calls it to be faithful to death, promising the crown of life and protection from the second death.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 8,
+      "text": "“To the angel of the assembly in Smyrna write: “The first and the last, who was dead, and has come to life says these things:",
+      "arminianNotes": "Christ, who died and rose, speaks to a church facing death. Arminian readers see his resurrection as the strength of believers who suffer.",
+      "reformedNotes": "Reformed readers see the risen Lord who has conquered death as the ground of the church’s confidence."
+    },
+    {
+      "number": 9,
+      "text": "“I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.",
+      "arminianNotes": "Smyrna is poor but rich in Christ. The “synagogue of Satan” refers to local opponents who slandered the church; the phrase concerns a particular first-century conflict and is not a basis for hostility toward Jewish people.",
+      "reformedNotes": "Reformed readers see true riches as belonging to those who are in Christ. The opponents’ slander is part of the church’s suffering. The language reflects a local conflict and gives no warrant for contempt toward Jewish people."
+    },
+    {
+      "number": 10,
+      "text": "Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.",
+      "arminianNotes": "“Be faithful to death, and I will give you the crown of life” calls believers to persevere through suffering. Arminian readers see the crown as given to those who remain faithful. The ten days suggest a limited period of testing.",
+      "reformedNotes": "Reformed readers see the command as one of the means by which Christ preserves his people through trial. The devil’s power is limited, and the crown is promised to those whose faith endures.",
+      "keyContrast": "Arminian readers see faithfulness to death as a condition believers are called to meet, with the possibility of failing. Reformed readers see the same call as the means by which Christ keeps his own faithful to the end."
+    },
+    {
+      "number": 11,
+      "text": "He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.",
+      "arminianNotes": "The overcomer will not be harmed by the second death, which is the lake of fire (20:14). Arminian readers see a promise for those who persevere.",
+      "reformedNotes": "Reformed readers see an assurance that physical death cannot touch the final security of those who belong to Christ."
+    }
+  ]
+}

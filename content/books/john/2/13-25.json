@@ -7,27 +7,7 @@
   "translation": "WEB",
   "title": "John 2:13–25",
   "context": "At Passover Jesus goes up to Jerusalem and drives the traders from his Father’s house. The disciples remember the zeal text. Asked for a sign, he answers, “Destroy this temple,” speaking of his body; later they believe the Scripture and his word. Many believe when they see the signs, but Jesus does not entrust himself to them, knowing what is in man.",
-  "showVoices": true,
-  "voices": {
-    "eyebrow": "From the tradition",
-    "heading": "Voices from both camps",
-    "intro": "Older voices from both traditions on John 2:13–25.",
-    "note": "Quotations lightly abridged for length; wording follows standard English translations of the sources named.",
-    "arminian": [
-      {
-        "quote": "Having made a scourge of rushes — (Which were strewed on the ground,) he drove all out of the temple, (that is, the court of it,) both the sheep and the oxen — Though it does not appear that he struck even them; and much less, any of the men. But a terror from God, it is evident, fell upon them. This temple — Doubtless pointing, while he spoke, to his body, the temple and habitation of the Godhead.",
-        "cite": "John Wesley",
-        "source": "Explanatory Notes upon the New Testament (on John 2:15, 19)"
-      }
-    ],
-    "reformed": [
-      {
-        "quote": "The Evangelist rather means, in my opinion, that Christ did not reckon them to be genuine disciples, but despised them as volatile and unsteady. It is a passage which ought to be carefully observed, that not all who profess to be Christ’s followers are such in his estimation. Christ, therefore, who knows the hearts, had no need of any one to inform him what sort of men they were. He knew them to have such a disposition and such feelings, that he justly regarded them as persons who did not belong to him.",
-        "cite": "John Calvin",
-        "source": "Commentary on John (on John 2:24–25)"
-      }
-    ]
-  },
+  "showVoices": false,
   "verses": [
     {
       "number": 13,
