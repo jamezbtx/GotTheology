@@ -459,6 +459,53 @@
       align-items: center;
     }
 
+
+    .book-picker {
+      flex-direction: column;
+      align-items: stretch;
+      flex: 1 1 16rem;
+      max-width: 24rem;
+      width: 100%;
+    }
+    .book-picker-label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--ink-muted);
+    }
+    .book-select {
+      width: 100%;
+      min-height: 2.9rem;
+      padding: 0.6rem 0.85rem;
+      font: inherit;
+      font-size: 1rem;
+      color: inherit;
+      background: var(--cream);
+      border: 1px solid var(--border);
+      border-radius: 0.6rem;
+    }
+    .book-list summary {
+      cursor: pointer;
+      font-size: 0.9rem;
+      color: var(--ink-muted);
+    }
+    .book-list-head {
+      margin: 0.7rem 0 0.3rem;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--ink-muted);
+    }
+    .book-list ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem 0.9rem;
+      font-size: 0.95rem;
+    }
+
     /* —— Start here / featured passages —— */
     .featured-passages {
       padding: 1.75rem 0 2.35rem;
@@ -1112,27 +1159,44 @@
     <section class="publishing" id="publishing" aria-labelledby="publishing-heading">
       <div class="container publishing-inner">
         <div class="publishing-copy">
-          <p class="eyebrow">Now live</p>
-          <h2 id="publishing-heading">Genesis, Psalms, Isaiah, Daniel, Matthew, John, Romans, Ephesians, Colossians, 1&ndash;2 Timothy, Titus, Hebrews &amp; 1&ndash;3 John</h2>
-          <p>Genesis (50 chapters), Psalms (150 chapters), Isaiah (66 chapters), Daniel (12 chapters), Matthew (28 chapters), John (21 chapters), Romans (16 chapters), Ephesians (6 chapters), Colossians (4 chapters), 1 Timothy (6 chapters), 2 Timothy (4 chapters), Titus (3 chapters), Hebrews (13 chapters), 1 John (5 chapters), 2 John, and 3 John are live—verse by verse, Arminian and Reformed side by side.</p>
+          <h2 id="publishing-heading">Now live</h2>
+          <p>19 books, verse by verse, Arminian and Reformed side by side.</p>
         </div>
-        <div class="publishing-actions">
-          <a href="/bible/genesis/1/1-5" class="btn btn-primary">Read Genesis</a>
-          <a href="/bible/psalms/" class="btn btn-secondary">Read Psalms</a>
-          <a href="/bible/isaiah/" class="btn btn-secondary">Read Isaiah</a>
-          <a href="/bible/daniel/" class="btn btn-secondary">Read Daniel</a>
-          <a href="/bible/matthew/1/18-25" class="btn btn-secondary">Read Matthew</a>
-          <a href="/bible/john/3/1-21" class="btn btn-secondary">Read John</a>
-          <a href="/bible/romans/" class="btn btn-secondary">Read Romans</a>
-          <a href="/bible/ephesians/1/3-6" class="btn btn-secondary">Read Ephesians</a>
-          <a href="/bible/colossians/1/15-23" class="btn btn-secondary">Read Colossians</a>
-          <a href="/bible/1-timothy/" class="btn btn-secondary">Read 1 Timothy</a>
-          <a href="/bible/2-timothy/" class="btn btn-secondary">Read 2 Timothy</a>
-          <a href="/bible/titus/" class="btn btn-secondary">Read Titus</a>
-          <a href="/bible/hebrews/" class="btn btn-secondary">Read Hebrews</a>
-          <a href="/bible/1-john/" class="btn btn-secondary">Read 1 John</a>
-          <a href="/bible/2-john/" class="btn btn-secondary">Read 2 John</a>
-          <a href="/bible/3-john/" class="btn btn-secondary">Read 3 John</a>
+        <div class="publishing-actions book-picker">
+          <label for="book-select" class="book-picker-label">Choose a book</label>
+          <select id="book-select" class="book-select" onchange="if(this.value)location.href=this.value">
+            <option value="" selected>Choose a book&hellip;</option>
+            <optgroup label="Old Testament">
+                <option value="/bible/genesis/">Genesis</option>
+                <option value="/bible/psalms/">Psalms</option>
+                <option value="/bible/isaiah/">Isaiah</option>
+                <option value="/bible/daniel/">Daniel</option>
+            </optgroup>
+            <optgroup label="New Testament">
+                <option value="/bible/matthew/">Matthew</option>
+                <option value="/bible/john/">John</option>
+                <option value="/bible/acts/">Acts</option>
+                <option value="/bible/romans/">Romans</option>
+                <option value="/bible/ephesians/">Ephesians</option>
+                <option value="/bible/colossians/">Colossians</option>
+                <option value="/bible/1-timothy/">1 Timothy</option>
+                <option value="/bible/2-timothy/">2 Timothy</option>
+                <option value="/bible/titus/">Titus</option>
+                <option value="/bible/hebrews/">Hebrews</option>
+                <option value="/bible/2-peter/">2 Peter</option>
+                <option value="/bible/1-john/">1 John</option>
+                <option value="/bible/2-john/">2 John</option>
+                <option value="/bible/3-john/">3 John</option>
+                <option value="/bible/revelation/">Revelation</option>
+            </optgroup>
+          </select>
+          <details class="book-list">
+            <summary>Browse all books</summary>
+            <p class="book-list-head">Old Testament</p>
+            <ul><li><a href="/bible/genesis/">Genesis</a></li><li><a href="/bible/psalms/">Psalms</a></li><li><a href="/bible/isaiah/">Isaiah</a></li><li><a href="/bible/daniel/">Daniel</a></li></ul>
+            <p class="book-list-head">New Testament</p>
+            <ul><li><a href="/bible/matthew/">Matthew</a></li><li><a href="/bible/john/">John</a></li><li><a href="/bible/acts/">Acts</a></li><li><a href="/bible/romans/">Romans</a></li><li><a href="/bible/ephesians/">Ephesians</a></li><li><a href="/bible/colossians/">Colossians</a></li><li><a href="/bible/1-timothy/">1 Timothy</a></li><li><a href="/bible/2-timothy/">2 Timothy</a></li><li><a href="/bible/titus/">Titus</a></li><li><a href="/bible/hebrews/">Hebrews</a></li><li><a href="/bible/2-peter/">2 Peter</a></li><li><a href="/bible/1-john/">1 John</a></li><li><a href="/bible/2-john/">2 John</a></li><li><a href="/bible/3-john/">3 John</a></li><li><a href="/bible/revelation/">Revelation</a></li></ul>
+          </details>
         </div>
       </div>
     </section>
