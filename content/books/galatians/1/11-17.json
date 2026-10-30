@@ -1,0 +1,56 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 1,
+  "verseStart": 11,
+  "verseEnd": 17,
+  "translation": "WEB",
+  "title": "Galatians 1:11–17",
+  "context": "Paul now defends the origin of his gospel by telling his story. He was a zealous persecutor advancing in Judaism, yet God, who set him apart from his mother’s womb, called him by grace and revealed his Son in him. He did not consult Jerusalem first. Reformed readers often point to these verses as a portrait of sovereign, effectual calling, while Arminian readers stress that God’s purpose for Paul was vocational and that Paul responded obediently to the heavenly vision.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 11,
+      "text": "But I make known to you, brothers, concerning the Good News which was preached by me, that it is not according to man.",
+      "arminianNotes": "Paul declares that the gospel he preached is not according to man. Arminian readers understand this as a claim about its source and character, not merely its delivery. It is not a human construction designed to suit human preferences.",
+      "reformedNotes": "Reformed readers see here the divine origin of the gospel, which grounds its authority. Because it is not man’s invention, it contradicts natural human instincts toward self-salvation. The phrase I make known to you introduces a solemn testimony."
+    },
+    {
+      "number": 12,
+      "text": "For neither did I receive it from man, nor was I taught it, but it came to me through revelation of Jesus Christ.",
+      "arminianNotes": "Paul says he did not receive the gospel from man nor was taught it, but through a revelation of Jesus Christ. Arminian readers see the Damascus encounter as the moment the risen Christ disclosed himself and his message to Paul. This does not deny Paul later learned historical traditions, but the core of his gospel came directly from the Lord.",
+      "reformedNotes": "Reformed readers emphasize that Paul’s gospel came by divine revelation, not human instruction. The phrase revelation of Jesus Christ can mean revelation from Christ or about Christ, and likely includes both. Saving knowledge of Christ is ultimately God’s gift of disclosure, not the product of human reasoning."
+    },
+    {
+      "number": 13,
+      "text": "For you have heard of my way of living in time past in the Jews’ religion, how that beyond measure I persecuted the assembly of God, and ravaged it.",
+      "arminianNotes": "Paul recalls his former life in Judaism, when he violently persecuted the church of God. Arminian readers see a candid confession that sets up the dramatic reversal ahead. He calls it the church of God, admitting he was fighting God himself.",
+      "reformedNotes": "Reformed readers see the depth of human hostility to God even in a deeply religious man. Paul was not seeking Christ; he was ravaging Christ’s people. This prepares for the sovereign initiative of grace in verse 15, which comes to an enemy rather than a seeker."
+    },
+    {
+      "number": 14,
+      "text": "I advanced in the Jews’ religion beyond many of my own age among my countrymen, being more exceedingly zealous for the traditions of my fathers.",
+      "arminianNotes": "Paul advanced beyond his peers, extremely zealous for ancestral traditions. Arminian readers note that zeal for tradition did not equal knowledge of God, a warning relevant to the Galatians who are now drawn to law observance. Religious success can coexist with blindness.",
+      "reformedNotes": "Reformed readers see Paul’s zeal as proof that religious effort cannot reach God’s righteousness. If anyone could have been justified by works of the law, it was Paul. The verse thus anticipates the letter’s argument against justification by law."
+    },
+    {
+      "number": 15,
+      "text": "But when it was the good pleasure of God, who separated me from my mother’s womb, and called me through his grace,",
+      "arminianNotes": "God set Paul apart from his mother’s womb and called him through his grace. Arminian readers read this mainly as a vocational calling to apostolic ministry, echoing the call of prophets such as Jeremiah, rather than a statement about individual election to salvation. Paul’s calling was gracious and purposeful, yet he still responded in obedience to the heavenly vision, as Acts 26:19 puts it.",
+      "reformedNotes": "Reformed readers see here a vivid instance of God’s sovereign and effectual grace. God’s good pleasure, his choice before Paul’s birth, and his gracious call all precede and cause Paul’s conversion, while Paul himself was actively persecuting the church. Calvin and later Reformed writers treat this as a pattern of how God calls his elect: grace finds its object, it is not first sought.",
+      "keyContrast": "Both see God’s prior purpose and gracious initiative behind Paul’s call. Arminian readers stress its prophetic, vocational character and Paul’s obedient response. Reformed readers stress that God’s good pleasure and effectual call caused Paul’s conversion itself."
+    },
+    {
+      "number": 16,
+      "text": "to reveal his Son in me, that I might preach him among the Gentiles, I didn’t immediately confer with flesh and blood,",
+      "arminianNotes": "God was pleased to reveal his Son in Paul so that he might preach him among the Gentiles. Arminian readers note the missionary purpose: the revelation was given so others could hear and believe. Paul did not immediately consult flesh and blood because his commission came straight from God.",
+      "reformedNotes": "Reformed readers note the phrase in me: God revealed Christ inwardly, illuminating Paul’s heart and not only his eyes. This inward revelation is the work of grace that opens blind minds. Paul’s independence from human consultation reinforces that his gospel rests on God’s action."
+    },
+    {
+      "number": 17,
+      "text": "nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia. Then I returned to Damascus.",
+      "arminianNotes": "Paul did not go to Jerusalem to the earlier apostles but went to Arabia and then returned to Damascus. Arminian readers see this as historical evidence for the independence of Paul’s gospel. Arabia may refer to the Nabataean region, where he may have begun preaching.",
+      "reformedNotes": "Reformed readers likewise see a careful historical record serving Paul’s claim. Whether Arabia meant reflection or mission, the point is that Jerusalem did not authorize his message. Divine calling did not wait on human credentials."
+    }
+  ]
+}

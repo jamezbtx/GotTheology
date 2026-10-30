@@ -1,0 +1,62 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 6,
+  "verseStart": 11,
+  "verseEnd": 18,
+  "translation": "WEB",
+  "title": "Galatians 6:11–18",
+  "context": "Paul takes the pen himself to write in large letters, summarizing the letter. The agitators want to make a good showing in the flesh and avoid persecution for the cross, but Paul will boast only in the cross, through which the world is crucified to him. What matters is new creation. He pronounces peace and mercy on all who walk by this rule and on the Israel of God, bears the marks of Jesus on his body, and closes with grace. Verse 16 is a much-discussed text on the relationship between the church and Israel.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 11,
+      "text": "See with what large letters I write to you with my own hand.",
+      "arminianNotes": "See with what large letters I write with my own hand. Arminian readers see Paul personally emphasizing his message. The postscript is urgent. Paul likely used a scribe for most of the letter, then wrote this final section himself.",
+      "reformedNotes": "Reformed readers see authenticity and emphasis. The large letters highlight the summary. Paul’s personal handwriting authenticates the letter and draws attention to its summary. Some suggest large letters reflect poor eyesight, but the main point is emphasis."
+    },
+    {
+      "number": 12,
+      "text": "As many as desire to make a good impression in the flesh compel you to be circumcised; just so they may not be persecuted for the cross of Christ.",
+      "arminianNotes": "Those who want a good showing in the flesh compel circumcision to avoid persecution for the cross. Arminian readers see social motives behind the false teaching. They seek approval. Circumcision allowed them to avoid conflict with Jewish opponents who disliked a law-free gospel.",
+      "reformedNotes": "Reformed readers see the false teachers avoiding the offense of the cross. Circumcision becomes a means of escaping persecution. Making a good showing in the flesh contrasts with boasting in the cross in verse 14."
+    },
+    {
+      "number": 13,
+      "text": "For even they who receive circumcision don’t keep the law themselves, but they desire to have you circumcised, that they may boast in your flesh.",
+      "arminianNotes": "Even the circumcised do not keep the law, but want to boast in your flesh. Arminian readers see hypocrisy. The agitators seek status. Their real concern is a show of success rather than true obedience to God.",
+      "reformedNotes": "Reformed readers see the inability of the law-keepers to keep the law. Their goal is boasting in converts. Paul points to a basic inconsistency: those who require circumcision do not keep the whole law (5:3). Their aim is to boast in numbers of circumcised converts. Religious boasting in others’ compliance is a perennial danger."
+    },
+    {
+      "number": 14,
+      "text": "But far be it from me to boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.",
+      "arminianNotes": "Far be it from me to boast except in the cross, through which the world is crucified to me and I to the world. Arminian readers see the cross as the only ground of boasting. It reshapes all values. Paul’s boasting stands opposite the agitators’ boasting in the flesh of their converts.",
+      "reformedNotes": "Reformed readers see the cross as the centre of Christian identity. Boasting in the cross excludes boasting in self. The world is crucified to Paul, meaning its values and its system of status no longer hold him. Boasting in the cross is the opposite of boasting in the flesh."
+    },
+    {
+      "number": 15,
+      "text": "For in Christ Jesus neither is circumcision anything, nor uncircumcision, but a new creation.",
+      "arminianNotes": "Neither circumcision nor uncircumcision counts for anything, but a new creation. Arminian readers see transformation as the key. New creation results from union with Christ. Paul’s point echoes 5:6. What matters is not ritual identity but God’s work of transformation.",
+      "reformedNotes": "Reformed readers see regeneration as God’s creative act. New creation is God’s work. New creation includes both the individual’s renewal (2 Corinthians 5:17) and the dawning of God’s new age. Neither circumcision nor uncircumcision contributes to it. It is entirely God’s work in Christ."
+    },
+    {
+      "number": 16,
+      "text": "As many as walk by this rule, peace and mercy be on them, and on God’s Israel.",
+      "arminianNotes": "Peace and mercy on all who walk by this rule, and on the Israel of God. Arminian readers vary, but many see the Israel of God as the church of Jews and Gentiles in Christ. Others see a reference to believing Jews.",
+      "reformedNotes": "Reformed readers commonly see the Israel of God as the whole church, the true people of God. Others within the tradition see believing Jews. The verse emphasizes continuity in God’s people. The rule is the new-creation principle of verse 15, so peace and mercy rest on all who live by grace.",
+      "keyContrast": "Both traditions contain interpreters who read the Israel of God as the whole church and others who see believing Jews. Reformed covenant theology more often favours the whole church. Arminian readers are more evenly divided."
+    },
+    {
+      "number": 17,
+      "text": "From now on, let no one cause me any trouble, for I bear the marks of the Lord Jesus branded on my body.",
+      "arminianNotes": "Let no one cause me trouble, for I bear the marks of Jesus. Arminian readers see Paul’s scars as evidence of his faithfulness. Suffering authenticates ministry. The marks of Jesus contrast with the mark of circumcision the agitators wanted to impose.",
+      "reformedNotes": "Reformed readers see the marks as identifying Paul as Christ’s servant. These replace circumcision as the sign of belonging. Paul’s scars from persecution identify him as belonging to Christ. He needs no further proof of his loyalty."
+    },
+    {
+      "number": 18,
+      "text": "The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.",
+      "arminianNotes": "The grace of our Lord Jesus Christ be with your spirit. Arminian readers see grace as the closing word. The letter ends where it began. Brothers, the last word before Amen, shows that despite his sharp tone Paul still regards them as family.",
+      "reformedNotes": "Reformed readers see grace as the theme of the letter. Paul’s final word reaffirms the gospel. Paul began with grace and peace (1:3) and ends with grace. The letter’s whole argument is that grace alone saves. Paul calls them brothers despite the conflict."
+    }
+  ]
+}

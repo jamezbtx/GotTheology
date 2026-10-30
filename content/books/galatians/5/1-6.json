@@ -1,0 +1,50 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 5,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "WEB",
+  "title": "Galatians 5:1–6",
+  "context": "Paul draws the practical conclusion of his argument: Christ has set believers free, so they must stand firm and not submit again to a yoke of slavery. Accepting circumcision as a requirement would obligate them to the whole law, cut them off from Christ, and mean falling from grace. Through the Spirit, by faith, believers wait for the hope of righteousness, and what counts is faith working through love. Verse 4 is one of the most debated texts on apostasy, and verse 6 on the relation between faith and works.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Stand firm therefore in the liberty by which Christ has made us free, and don’t be entangled again with a yoke of bondage.",
+      "arminianNotes": "Christ has set us free for freedom; stand firm and do not submit again to a yoke of slavery. Arminian readers stress the command to stand firm, implying believers must actively persevere in freedom. Freedom can be lost if they submit again to bondage.",
+      "reformedNotes": "Reformed readers see freedom as Christ’s accomplished work and standing firm as the fitting response. The indicative grounds the imperative. Christ’s work makes perseverance possible. The yoke of bondage was a familiar image, and Peter in Acts 15:10 calls the law a yoke neither the fathers nor we were able to bear."
+    },
+    {
+      "number": 2,
+      "text": "Behold, I, Paul, tell you that if you receive circumcision, Christ will profit you nothing.",
+      "arminianNotes": "If you accept circumcision, Christ will be of no benefit to you. Arminian readers see that relying on circumcision for justification severs a person from Christ’s benefits. The danger is real. Paul speaks of circumcision as a requirement for justification, not as a cultural practice.",
+      "reformedNotes": "Reformed readers see that adding works to Christ is rejecting Christ as sufficient Saviour. Christ is all or nothing as the ground of justification. Circumcision as a requirement nullifies grace. Reformed readers note the solemn I, Paul, which puts his apostolic authority behind the warning."
+    },
+    {
+      "number": 3,
+      "text": "Yes, I testify again to every man who receives circumcision, that he is a debtor to do the whole law.",
+      "arminianNotes": "Everyone who accepts circumcision is obligated to keep the whole law. Arminian readers note that the law cannot be taken selectively as a means of justification. Choosing law means choosing all of it. The agitators may have presented circumcision as a small step, but Paul shows it commits a person to an impossible standard.",
+      "reformedNotes": "Reformed readers see the law as a covenant of works demanding total obedience. Seeking justification by law brings its full demand. No sinner can meet it. Paul’s point echoes 3:10: the law is a package, and anyone who stands on it must keep all of it. This exposes the impossibility of mixing law and grace as the ground of justification."
+    },
+    {
+      "number": 4,
+      "text": "You are alienated from Christ, you who desire to be justified by the law. You have fallen away from grace.",
+      "arminianNotes": "You who seek justification by the law are severed from Christ; you have fallen away from grace. Arminian readers take this as clear evidence that genuine believers can fall from grace by abandoning faith in Christ for law-righteousness. Paul speaks to members of the church who had begun in the Spirit, and the language of being severed and fallen describes a real loss of a real relationship. The warning is meant to prevent them from completing that fall.",
+      "reformedNotes": "Reformed readers understand falling from grace here as abandoning grace as the principle of justification, not as the loss of salvation by one truly regenerate. Many, following Calvin, read the warning as describing what happens to anyone who seeks law-righteousness: they place themselves outside the sphere of grace. Paul’s confidence in 5:10 and the doctrine of perseverance shape the Reformed reading, while still honouring the seriousness of the warning.",
+      "keyContrast": "Both agree the verse describes a grave danger for those seeking justification by law. Arminian readers see a real possibility of genuine believers falling from saving grace. Reformed readers see a falling away from grace as the principle of justification, a state that would expose a profession as not truly regenerate."
+    },
+    {
+      "number": 5,
+      "text": "For we, through the Spirit, by faith wait for the hope of righteousness.",
+      "arminianNotes": "Through the Spirit, by faith, we wait for the hope of righteousness. Arminian readers see righteousness as having a future aspect awaited in hope. Faith continues until the final verdict. The Spirit sustains faith while believers wait for the final realization of righteousness.",
+      "reformedNotes": "Reformed readers see the hope of righteousness as the final vindication of the already justified. Justification is present, but its public confirmation is future. The Spirit sustains this hope. The present tense of waiting fits the already and not yet of salvation."
+    },
+    {
+      "number": 6,
+      "text": "For in Christ Jesus neither circumcision amounts to anything, nor uncircumcision, but faith working through love.",
+      "arminianNotes": "In Christ neither circumcision nor uncircumcision counts for anything, but faith working through love. Arminian readers stress that genuine faith is active and expresses itself in love. This guards against a merely intellectual faith.",
+      "reformedNotes": "Reformed readers see faith alone justifying, but the faith that justifies is never alone. Love is the fruit, not the ground, of justification. This verse was central in debates with Rome, where Reformed writers distinguished faith’s instrumental role from love’s evidential role."
+    }
+  ]
+}

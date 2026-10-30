@@ -1,0 +1,44 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "WEB",
+  "title": "Galatians 1:1–5",
+  "context": "Paul opens Galatians without his usual thanksgiving, signalling alarm from the first line. He insists that his apostleship comes not from men but from Jesus Christ and God the Father, and he compresses the gospel into a single clause: Christ gave himself for our sins to rescue us from the present evil age. Both Arminian and Reformed readers find here the heart of the letter, a gospel of rescue by Christ alone. They differ mainly in how they frame the will of God behind that rescue.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Paul, an apostle (not from men, nor through man, but through Jesus Christ, and God the Father, who raised him from the dead),",
+      "arminianNotes": "Paul names himself an apostle not from men nor through man, but through Jesus Christ and God the Father who raised him from the dead. Arminian readers note that Paul is defending his authority against teachers who apparently claimed he was a secondhand messenger dependent on Jerusalem. The mention of the resurrection matters, because the risen Christ personally commissioned him on the Damascus road. His gospel therefore carries the same authority as that of the earlier apostles.",
+      "reformedNotes": "Reformed readers stress that Paul’s apostleship originates entirely in divine initiative, coming from Christ and the Father rather than any human appointment. This anticipates the letter’s argument that the gospel itself is a revelation, not a human tradition. The pairing of Jesus Christ with God the Father as the source of his commission also reflects a high view of Christ’s divine authority."
+    },
+    {
+      "number": 2,
+      "text": "and all the brothers who are with me, to the assemblies of Galatia:",
+      "arminianNotes": "Paul includes all the brothers with him, showing that his message is not a private eccentricity but shared by a wider fellowship. Arminian readers see a pastoral touch: the Galatians are addressed by a community, not just a lone critic. The plural assemblies of Galatia indicates a circular letter to several congregations facing the same pressure.",
+      "reformedNotes": "Reformed readers observe the conspicuous absence of any praise or thanksgiving for the Galatian churches, unusual for Paul. The greeting is brief because the matter is urgent. By naming the brothers with him, Paul shows that the true gospel is the common confession of the church, not his personal theory."
+    },
+    {
+      "number": 3,
+      "text": "Grace to you and peace from God the Father, and our Lord Jesus Christ,",
+      "arminianNotes": "Paul wishes them grace and peace from God the Father and the Lord Jesus Christ. Arminian readers see grace as God’s free favour extended to all and received through faith. Given what follows, the greeting is pointed: grace is exactly what the Galatians are in danger of exchanging for law-keeping.",
+      "reformedNotes": "Reformed readers note that grace precedes peace, as cause precedes effect: reconciliation with God flows from his unmerited favour. In a letter defending justification by grace, even the greeting states the theme. The joint source in Father and Son again assumes Christ’s full deity."
+    },
+    {
+      "number": 4,
+      "text": "who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father—",
+      "arminianNotes": "Christ gave himself for our sins to deliver us from this present evil age according to the Father’s will. Arminian readers emphasize that Christ’s self-giving was voluntary and that the rescue is offered to all who believe. The phrase present evil age frames salvation as liberation from the powers of the old age, which makes returning to law-bondage a step backward.",
+      "reformedNotes": "Reformed readers see substitutionary atonement in the phrase gave himself for our sins and a definite purpose in the words that he might deliver us. The rescue is accomplished according to the will of God, so it rests on the Father’s eternal plan rather than human initiative. Many Reformed interpreters, following Calvin, connect this to the effectual work of Christ for his people.",
+      "keyContrast": "Both read the verse as Christ’s voluntary, substitutionary self-giving for sin. Arminian readers emphasize that this rescue is available to all who believe. Reformed readers emphasize that it accomplishes the Father’s set purpose to deliver his people."
+    },
+    {
+      "number": 5,
+      "text": "to whom be the glory forever and ever. Amen.",
+      "arminianNotes": "Paul breaks into a doxology: to God be the glory forever. Arminian readers note that praise is the fitting response to the gospel just summarized. If salvation is God’s gift in Christ, no human ritual can share the credit.",
+      "reformedNotes": "Reformed readers hear a characteristic emphasis: salvation is from God, and therefore the glory belongs to him alone. The doxology prepares for Paul’s charge that adding works to Christ steals glory from God. Soli Deo gloria is not an afterthought but the logic of the gospel."
+    }
+  ]
+}

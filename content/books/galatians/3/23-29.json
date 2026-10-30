@@ -1,0 +1,56 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 3,
+  "verseStart": 23,
+  "verseEnd": 29,
+  "translation": "WEB",
+  "title": "Galatians 3:23–29",
+  "context": "Before faith came, Israel was held in custody under the law, which functioned as a guardian until Christ. Now that faith has come, believers are no longer under that guardian but are children of God through faith, baptized into Christ, clothed with him, and one in him regardless of ethnicity, status, or sex. Arminian and Reformed readers agree that the law’s guardianship was temporary. They differ on how baptism relates to faith and on the covenant continuity implied by being Abraham’s offspring.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 23,
+      "text": "But before faith came, we were kept in custody under the law, confined for the faith which should afterwards be revealed.",
+      "arminianNotes": "Before faith came, we were held in custody under the law. Arminian readers see the law as a protective guardian for Israel during an earlier era. Faith here refers to the coming of Christ and the gospel. The custody described is both protective and restrictive, preparing Israel for what was to come.",
+      "reformedNotes": "Reformed readers see the custodial role of the law in redemptive history. It confined Israel until the fuller revelation of faith in Christ. This guardianship had a gracious purpose. The phrase confined for the faith which should afterwards be revealed shows that the custody looked forward to Christ from the beginning."
+    },
+    {
+      "number": 24,
+      "text": "So that the law has become our tutor to bring us to Christ, that we might be justified by faith.",
+      "arminianNotes": "The law was our tutor to bring us to Christ so that we might be justified by faith. Arminian readers see the law preparing people by exposing sin and pointing beyond itself. Its role was preparatory, and it is fulfilled when people respond to Christ.",
+      "reformedNotes": "Reformed readers often see this verse supporting the pedagogical use of the law, which convicts sinners and drives them to Christ. Many Reformed writers apply this both historically and personally. The law leads, but Christ justifies.",
+      "keyContrast": "Both agree the law served as a temporary guardian pointing to Christ. Reformed readers more often apply this to the law’s ongoing role in convicting individual sinners. Arminian readers more often stress the historical, era-bound character of the guardianship."
+    },
+    {
+      "number": 25,
+      "text": "But now that faith has come, we are no longer under a tutor.",
+      "arminianNotes": "Now that faith has come, we are no longer under the guardian. Arminian readers see a decisive change in era with the coming of Christ. Believers relate to God as mature children. The law’s guardianship role ends, though its moral vision is fulfilled in love (5:14).",
+      "reformedNotes": "Reformed readers see this as freedom from the law’s custodial role, not freedom from obedience. The law no longer stands over believers as condemning guardian. Reformed readers distinguish this from the abiding moral law, which believers now keep as children rather than as wards. The guardian has handed the heir over to the Father."
+    },
+    {
+      "number": 26,
+      "text": "For you are all children of God, through faith in Christ Jesus.",
+      "arminianNotes": "You are all sons of God through faith in Christ Jesus. Arminian readers stress that sonship is received through faith, available to every believer regardless of background. It is a status believers enter and continue in by faith.",
+      "reformedNotes": "Reformed readers see adoption as a gracious act grounded in union with Christ. All believers share the same status. Sonship is a privilege conferred by God, received through faith. The emphatic all erases any idea that Gentile believers need circumcision to complete their standing."
+    },
+    {
+      "number": 27,
+      "text": "For as many of you as were baptized into Christ have put on Christ.",
+      "arminianNotes": "All who were baptized into Christ have put on Christ. Arminian readers generally see baptism as the public expression of faith and union with Christ, closely tied to conversion. The image of clothing describes identification with Christ.",
+      "reformedNotes": "Reformed readers see baptism as a sign and seal of union with Christ, joined to faith. Many Reformed churches link this verse to covenant baptism, while maintaining that the reality signified is received by faith. Putting on Christ describes new identity."
+    },
+    {
+      "number": 28,
+      "text": "There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Christ Jesus.",
+      "arminianNotes": "There is neither Jew nor Greek, slave nor free, male nor female, for all are one in Christ. Arminian readers stress equal access to salvation and full membership in God’s family. Distinctions remain in life, but they do not determine standing before God.",
+      "reformedNotes": "Reformed readers see the unity of the church in Christ. The verse addresses status in Christ rather than abolishing all roles. Equality in salvation is foundational for Christian fellowship. Reformed and Arminian readers alike see this as one of the most socially significant verses in Paul, though they discuss its implications for church order differently within each tradition."
+    },
+    {
+      "number": 29,
+      "text": "If you are Christ’s, then you are Abraham’s offspring and heirs according to promise.",
+      "arminianNotes": "If you belong to Christ, you are Abraham’s offspring, heirs according to promise. Arminian readers see this as including Gentile believers fully in the people of God. Heirship comes through belonging to Christ by faith. No additional rite is needed to make Gentiles full heirs.",
+      "reformedNotes": "Reformed readers see covenant continuity: believers in Christ are the true seed of Abraham. The inheritance is secured by promise. The church shares in the same covenant blessing as Abraham. Reformed readers see this as the climax of chapter 3: the promise to Abraham’s single offspring, Christ, reaches all who are in him."
+    }
+  ]
+}

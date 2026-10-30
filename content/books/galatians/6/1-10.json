@@ -1,0 +1,76 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 6,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "WEB",
+  "title": "Galatians 6:1–10",
+  "context": "Paul applies life in the Spirit to congregational practice. The spiritual should restore a fallen brother gently, bear one another’s burdens to fulfil the law of Christ, test their own work, and support their teachers. God is not mocked: whoever sows to the flesh reaps corruption, and whoever sows to the Spirit reaps eternal life, so believers must not grow weary in doing good. Arminian and Reformed readers both draw on verses 7-9 when discussing perseverance and final judgment.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness; looking to yourself so that you also aren’t tempted.",
+      "arminianNotes": "If someone is caught in a transgression, the spiritual should restore him gently, watching themselves lest they too be tempted. Arminian readers see restoration as the goal of church discipline. Vulnerability to temptation calls for humility.",
+      "reformedNotes": "Reformed readers see pastoral care as an expression of grace. Restoration rather than punishment is the aim. All believers remain susceptible to sin. Paul’s word for restore was used for mending nets or setting bones, a picture of careful repair. Gentleness is itself a fruit of the Spirit (5:23)."
+    },
+    {
+      "number": 2,
+      "text": "Bear one another’s burdens, and so fulfill the law of Christ.",
+      "arminianNotes": "Bear one another’s burdens and so fulfil the law of Christ. Arminian readers see love as the law of Christ. Mutual help expresses that love. The law of Christ likely echoes the love command of 5:14, embodied in Jesus’ own life. Bearing others’ burdens is how freedom is used rightly.",
+      "reformedNotes": "Reformed readers see the law of Christ as the moral law interpreted and embodied in Christ’s love. Burden-bearing displays the gospel in community. Paul deliberately speaks of a law after rejecting the law as a means of justification. Christ’s law is the way of love he taught and lived."
+    },
+    {
+      "number": 3,
+      "text": "For if a man thinks himself to be something when he is nothing, he deceives himself.",
+      "arminianNotes": "If anyone thinks he is something when he is nothing, he deceives himself. Arminian readers see pride as self-deception. Humility is essential to Christian community. Spiritual people who restore others must not think themselves superior.",
+      "reformedNotes": "Reformed readers see human pride as incompatible with grace. Self-assessment must be sober. Self-deception is a danger especially for those who think themselves spiritual (6:1). Only grace gives a true view of oneself. Romans 12:3 calls believers to think soberly."
+    },
+    {
+      "number": 4,
+      "text": "But let each man examine his own work, and then he will have reason to boast in himself, and not in someone else.",
+      "arminianNotes": "Each should test his own work, and then his reason to boast will be in himself alone and not in his neighbour. Arminian readers see personal accountability. Comparison with others is no measure. Each believer answers to God for his own faithfulness, not for how he ranks against others.",
+      "reformedNotes": "Reformed readers see self-examination before God. Boasting is limited to one’s own faithfulness, all of which is by grace. Testing one’s own work guards against both self-congratulation and comparison with others."
+    },
+    {
+      "number": 5,
+      "text": "For each man will bear his own burden.",
+      "arminianNotes": "Each will bear his own load. Arminian readers see personal responsibility before God. Mutual burden-bearing does not cancel individual accountability. Burdens in verse 2 are crushing weights to be shared, while the load here is one’s own responsibility. Both are true at once.",
+      "reformedNotes": "Reformed readers see accountability at the final judgment. Each believer answers for his own stewardship. Paul uses a different word for burden than in verse 2. Each believer carries his own responsibility before God, while also helping others with heavy weights."
+    },
+    {
+      "number": 6,
+      "text": "But let him who is taught in the word share all good things with him who teaches.",
+      "arminianNotes": "The one taught should share all good things with the teacher. Arminian readers see support for ministry as a duty. Teaching is a valued service. Paul includes this because the community of grace includes material sharing. Ministers of the word deserve support.",
+      "reformedNotes": "Reformed readers see the principle of supporting gospel ministers. Material sharing reflects gratitude. Paul makes the same point in 1 Corinthians 9:14. Sharing all good things may include spiritual and material fellowship."
+    },
+    {
+      "number": 7,
+      "text": "Don’t be deceived. God is not mocked, for whatever a man sows, that he will also reap.",
+      "arminianNotes": "Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. Arminian readers see a sober principle of moral consequence that applies to believers. Persistent sowing to the flesh has real eternal outcomes.",
+      "reformedNotes": "Reformed readers see the principle as describing the moral order God maintains. Sowing and reaping describe the evident fruit of one’s life, which shows one’s true state before God. The principle is not a works-based salvation but a description of the life that results from one’s commitments.",
+      "keyContrast": "Both affirm God’s moral order of sowing and reaping. Arminian readers see it as a warning to believers about real eternal outcomes. Reformed readers see it as a revelation of whether one’s faith is genuine."
+    },
+    {
+      "number": 8,
+      "text": "For he who sows to his own flesh will from the flesh reap corruption. But he who sows to the Spirit will from the Spirit reap eternal life.",
+      "arminianNotes": "The one who sows to the flesh reaps corruption, but the one who sows to the Spirit reaps eternal life. Arminian readers see eternal life here as the final outcome conditioned on continuing to sow to the Spirit. Believers are responsible for their direction.",
+      "reformedNotes": "Reformed readers see eternal life as the fruit of the Spirit’s work in those who are his. The contrast reveals the two paths, not merit earning eternal life. Reformed readers note that this does not make eternal life a wage, since the Spirit himself produces the harvest.",
+      "keyContrast": "Both see eternal life connected to sowing to the Spirit. Arminian readers stress the conditional element dependent on continuing faith. Reformed readers stress that sowing to the Spirit is the Spirit’s own work in the elect."
+    },
+    {
+      "number": 9,
+      "text": "Let us not be weary in doing good, for we will reap in due season, if we don’t give up.",
+      "arminianNotes": "Let us not grow weary in doing good, for in due season we will reap if we do not give up. Arminian readers see perseverance as conditional: reaping depends on not giving up. The call is to faithful endurance.",
+      "reformedNotes": "Reformed readers see the call to perseverance as the means God uses to preserve his people. The promise of reaping is certain for those who endure, and those who are truly his will endure. The Westminster Confession, chapter 17, treats perseverance as God’s gift that believers nonetheless pursue with diligence.",
+      "keyContrast": "Both affirm the need to persevere. Arminian readers stress the conditional if, which leaves room for falling away. Reformed readers see the conditional as the means God uses to secure the perseverance of his people."
+    },
+    {
+      "number": 10,
+      "text": "So then, as we have opportunity, let’s do what is good toward all men, and especially toward those who are of the household of the faith.",
+      "arminianNotes": "Do good to everyone, especially to the household of faith. Arminian readers see universal benevolence with special care for fellow believers. Opportunity calls for action. Doing good is not limited to believers, though the family of faith has a special claim.",
+      "reformedNotes": "Reformed readers see the church’s priority without limiting love. Doing good flows from grace. Reformed readers note Paul’s phrase household of the faith, suggesting the church as God’s family. Doing good to all reflects God’s common goodness to all people. Opportunity is a gift that must be used."
+    }
+  ]
+}

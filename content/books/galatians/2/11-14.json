@@ -1,0 +1,37 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 2,
+  "verseStart": 11,
+  "verseEnd": 14,
+  "translation": "WEB",
+  "title": "Galatians 2:11–14",
+  "context": "At Antioch Peter had eaten freely with Gentile believers, but when men came from James he withdrew for fear of the circumcision party, and even Barnabas followed. Paul opposed Peter publicly because the truth of the gospel was at stake. Arminian and Reformed readers agree that table fellowship was a gospel issue: separating from uncircumcised believers implied they were second-class. Both also see a sobering lesson about how even mature leaders can stumble.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 11,
+      "text": "But when Peter came to Antioch, I resisted him to his face, because he stood condemned.",
+      "arminianNotes": "When Peter came to Antioch, Paul opposed him to his face because he stood condemned. Arminian readers see that even an apostle can act inconsistently with the gospel and needs correction. Public rebuke was fitting because the offense was public.",
+      "reformedNotes": "Reformed readers note that apostolic authority did not mean personal infallibility in conduct. Peter’s actions were condemned by the gospel itself. The episode shows that Scripture, not a leader’s prestige, judges the church."
+    },
+    {
+      "number": 12,
+      "text": "For before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing those who were of the circumcision.",
+      "arminianNotes": "Peter had eaten with Gentiles, but withdrew when men from James arrived, fearing the circumcision group. Arminian readers see fear of people as the root of Peter’s lapse. His freedom was real, but social pressure led him to act against what he knew.",
+      "reformedNotes": "Reformed readers see how a believer who knows the truth can still be swayed by fear. Peter did not change his doctrine but his practice, yet practice communicates doctrine. Withdrawal implied Gentile believers were unclean without the law."
+    },
+    {
+      "number": 13,
+      "text": "And the rest of the Jews joined him in his hypocrisy; so that even Barnabas was carried away with their hypocrisy.",
+      "arminianNotes": "The other Jews joined in this hypocrisy, and even Barnabas was carried away. Arminian readers note the contagious influence of leaders. Personal responsibility remains, but example shapes others powerfully. Leaders who fear people can lead others to compromise the truth they claim to hold.",
+      "reformedNotes": "Reformed readers see the word hypocrisy as Paul’s diagnosis: acting against inner conviction. That even Barnabas fell shows the strength of remaining sin in the godly. The church must guard the gospel in practice as well as in confession."
+    },
+    {
+      "number": 14,
+      "text": "But when I saw that they didn’t walk uprightly according to the truth of the Good News, I said to Peter before them all, “If you, being a Jew, live as the Gentiles do, and not as the Jews do, why do you compel the Gentiles to live as the Jews do?",
+      "arminianNotes": "Paul asked Peter how he could compel Gentiles to live like Jews when he himself lived like a Gentile. Arminian readers note that the issue was walking straight according to the truth of the gospel. Behaviour that pressures others into law-keeping effectively denies grace.",
+      "reformedNotes": "Reformed readers see that inconsistency in fellowship becomes a doctrinal error by implication. Compelling Gentiles to judaize means adding conditions to acceptance in Christ. The phrase truth of the gospel again marks what is at stake."
+    }
+  ]
+}

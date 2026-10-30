@@ -1,0 +1,55 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 1,
+  "verseStart": 18,
+  "verseEnd": 24,
+  "translation": "WEB",
+  "title": "Galatians 1:18–24",
+  "context": "Paul continues his narrative to show his independence from the Jerusalem leaders. His first visit came three years later and lasted only fifteen days, and the Judean churches knew him only by report. Yet they glorified God because the persecutor now preached the faith. Both traditions read this as historical testimony rather than a doctrinal battleground, though each notes how Paul’s story displays the grace that transforms an enemy into a herald.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 18,
+      "text": "Then after three years I went up to Jerusalem to visit Peter, and stayed with him fifteen days.",
+      "arminianNotes": "After three years Paul went to Jerusalem to visit Peter for fifteen days. Arminian readers note the respectful relationship: Paul honours Peter while making clear the visit was brief. The word for visit suggests getting acquainted, not receiving a commission.",
+      "reformedNotes": "Reformed readers see a balance: Paul affirms fellowship with Peter yet denies dependence on him. The unity of the apostles rests on one gospel revealed by one Lord, not on Paul’s subordination to Jerusalem."
+    },
+    {
+      "number": 19,
+      "text": "But of the other apostles I saw no one, except James, the Lord’s brother.",
+      "arminianNotes": "Paul saw no other apostle except James, the Lord’s brother. Arminian readers note the precise detail, which Paul offers as verifiable testimony. James was a leading figure in Jerusalem, so even this contact was limited.",
+      "reformedNotes": "Reformed readers observe that Paul’s careful accounting answers rumours about his training. James is called the Lord’s brother, a natural reading being a sibling of Jesus, and his later leadership shows God’s grace to a once-unbelieving family member."
+    },
+    {
+      "number": 20,
+      "text": "Now about the things which I write to you, behold, before God, I’m not lying.",
+      "arminianNotes": "Paul solemnly swears before God that he is not lying. Arminian readers see how seriously Paul takes the accusation that his gospel was secondhand. Truthfulness about his history matters because the gospel’s credibility is at stake.",
+      "reformedNotes": "Reformed readers note that the oath places Paul’s testimony under God’s scrutiny. Christian ministry operates before God, coram Deo, which is the opposite of people-pleasing described in verse 10. Paul’s careful narrative is meant to be checked, not merely accepted."
+    },
+    {
+      "number": 21,
+      "text": "Then I came to the regions of Syria and Cilicia.",
+      "arminianNotes": "Paul then went to Syria and Cilicia, far from Jerusalem. Arminian readers note that he was already preaching without Jerusalem’s direction. His home region of Cilicia included Tarsus. Acts 9:30 likewise records that the believers sent him to Tarsus, which fits Paul’s account.",
+      "reformedNotes": "Reformed readers see further evidence that God’s commission, not Jerusalem’s oversight, governed his early ministry. The geographic detail underlines the point of verses 11-12. Years of fruitful ministry passed with no oversight from the Jerusalem apostles."
+    },
+    {
+      "number": 22,
+      "text": "I was still unknown by face to the assemblies of Judea which were in Christ,",
+      "arminianNotes": "Paul was personally unknown to the Judean churches in Christ. Arminian readers note this refutes any idea that Paul trained under them. The phrase in Christ describes the churches’ identity. Paul could not have been their disciple if they did not even know his face.",
+      "reformedNotes": "Reformed readers note how Paul again emphasizes independence while calling the Judean congregations churches in Christ. He shares fellowship with them, even if not acquaintance. Union with Christ binds believers who have never met."
+    },
+    {
+      "number": 23,
+      "text": "but they only heard: “He who once persecuted us now preaches the faith that he once tried to destroy.”",
+      "arminianNotes": "The Judean churches only heard that the former persecutor now preached the faith he once tried to destroy. Arminian readers see a dramatic testimony to the power of the gospel to change a hostile heart that turns to Christ. The faith here likely means the gospel message itself.",
+      "reformedNotes": "Reformed readers see a living proof of grace: the persecutor became a preacher not by gradual self-improvement but by God’s intervention. The reversal displays that salvation is God’s work in the most unlikely person."
+    },
+    {
+      "number": 24,
+      "text": "And they glorified God in me.",
+      "arminianNotes": "They glorified God because of Paul. Arminian readers note that the churches rightly gave credit to God, not Paul, for his transformation. A changed life becomes a reason for worship. Paul quietly invites the Galatians to respond the same way instead of doubting his message.",
+      "reformedNotes": "Reformed readers see the fitting end of the narrative: God is glorified in Paul. Since God set him apart, called him, and revealed his Son in him, the glory belongs to God alone, echoing verse 5. The Judean churches, who had most reason to fear him, recognized God’s hand before the Galatians’ new teachers did."
+    }
+  ]
+}

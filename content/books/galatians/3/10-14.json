@@ -1,0 +1,45 @@
+{
+  "book": "Galatians",
+  "bookSlug": "galatians",
+  "chapter": 3,
+  "verseStart": 10,
+  "verseEnd": 14,
+  "translation": "WEB",
+  "title": "Galatians 3:10–14",
+  "context": "Paul now explains why relying on the law leads to curse rather than blessing. The law demands continuing in everything written, no one is justified by it, and righteousness comes by faith. Christ redeemed us from the curse by becoming a curse for us on the tree, so that Abraham’s blessing and the promised Spirit come to Gentiles through faith. Reformed readers find here a key text for penal substitution and imputation, while Arminian readers also affirm substitution but often frame it through governmental or representative categories alongside it.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 10,
+      "text": "For as many as are of the works of the law are under a curse. For it is written, “Cursed is everyone who doesn’t continue in all things that are written in the book of the law, to do them.”",
+      "arminianNotes": "All who rely on works of the law are under a curse, for the law curses anyone who does not continue in everything written. Arminian readers note the implied premise that no one keeps the law perfectly. Relying on the law as the way to be right with God therefore leaves a person under its curse.",
+      "reformedNotes": "Reformed readers see here the law functioning as a covenant of works demanding perfect obedience. Since all have sinned, all who rest on the law are condemned. This sets up the need for Christ to bear the curse in their place.",
+      "keyContrast": "Both agree that relying on law-keeping leaves sinners under curse because no one obeys perfectly. Reformed readers more explicitly frame this as a covenant of works. Arminian readers often emphasize the law’s inability rather than this covenant structure."
+    },
+    {
+      "number": 11,
+      "text": "Now that no man is justified by the law before God is evident, for, “The righteous will live by faith.”",
+      "arminianNotes": "No one is justified by the law before God, because the righteous will live by faith. Arminian readers see Habakkuk 2:4 as establishing faith as the principle of life before God. Faith is the human response that receives what God offers.",
+      "reformedNotes": "Reformed readers see the citation as proving justification by faith from the Old Testament itself. Before God emphasizes the divine courtroom. Righteousness comes by faith, never by law-keeping. Romans 1:17 and Hebrews 10:38 also cite Habakkuk 2:4, showing how central the text was for the apostolic church."
+    },
+    {
+      "number": 12,
+      "text": "The law is not of faith, but, “The man who does them will live by them.”",
+      "arminianNotes": "The law is not of faith; rather, the one who does them will live by them. Arminian readers note that the law operates on a principle of doing, which sinful people cannot fulfill. Faith operates on a different principle entirely.",
+      "reformedNotes": "Reformed readers see the contrast between two principles: doing versus believing. Leviticus 18:5 represents the law’s demand of obedience as the way to life. Since sinners cannot meet it, the only hope is faith in one who did."
+    },
+    {
+      "number": 13,
+      "text": "Christ redeemed us from the curse of the law, having become a curse for us. For it is written, “Cursed is everyone who hangs on a tree,”",
+      "arminianNotes": "Christ redeemed us from the law’s curse by becoming a curse for us. Arminian readers affirm a real substitution in which Christ bore the curse on our behalf, and many add that his death upholds God’s justice while opening salvation to all. Some Arminian traditions emphasize a governmental framing, but the language of redemption and curse-bearing remains central.",
+      "reformedNotes": "Reformed readers see this as one of the clearest statements of penal substitution: Christ took the curse sinners deserved. Redeemed implies purchase, and for us indicates substitution. Reformed theology often connects this with the effectual redemption of those for whom Christ died.",
+      "keyContrast": "Both affirm that Christ bore the law’s curse in our place. Reformed readers emphasize penal substitution and effectual redemption for God’s people. Arminian readers affirm substitution and often emphasize its universal provision and its upholding of God’s righteous government."
+    },
+    {
+      "number": 14,
+      "text": "that the blessing of Abraham might come on the Gentiles through Christ Jesus; that we might receive the promise of the Spirit through faith.",
+      "arminianNotes": "Christ became a curse so that the blessing of Abraham might come to Gentiles and believers might receive the promised Spirit through faith. Arminian readers stress that the blessing is made available to all nations and received by faith. The Spirit is the fulfilment of the promise.",
+      "reformedNotes": "Reformed readers see the Spirit as the great covenant gift purchased by Christ’s redemption. Christ’s work accomplishes both justification and the gift of the Spirit. The order is cross, then blessing, then Spirit, all through faith."
+    }
+  ]
+}
