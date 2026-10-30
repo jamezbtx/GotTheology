@@ -1193,3 +1193,11 @@ p, h1, h2, h3, h4, li, blockquote, span, a, label, td, th,
     .static-page .prose a:not(.btn) { text-decoration: underline; text-underline-offset: 2px; }
     .catalog-more { text-align: center; margin: 1.5rem 0 0; color: var(--ink-muted); font-size: 0.95rem; }
     .footer-bottom .scripture-notice { flex-basis: 100%; order: 3; }
+
+/* —— Parchment page background —— */
+body {
+  background-color: var(--cream);
+  background-image: url("/assets/parchment.webp");
+  background-repeat: repeat;
+  background-size: 450px auto;
+}

@@ -21,6 +21,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7106052656127997" crossorigin="anonymous"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="image" type="image/webp" href="/assets/hero-scripture-1280.webp" media="(min-width: 901px)" />
+  <link rel="preload" as="image" type="image/webp" href="/assets/hero-scripture-800.webp" media="(max-width: 900px)" />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
   <style>
     :root {
@@ -1081,6 +1083,48 @@
 
       .waitlist-form { flex-direction: column; }
       .waitlist-form .btn { width: 100%; }
+    }
+
+    /* —— Background design: parchment page + scripture hero —— */
+    body {
+      background-color: var(--cream);
+      background-image: url("/assets/parchment.webp");
+      background-repeat: repeat;
+      background-size: 450px auto;
+    }
+    .hero {
+      position: relative;
+      isolation: isolate;
+      color: #f7f3eb;
+      background-color: #0f1c2e;
+      background-image:
+        linear-gradient(90deg, rgba(10, 16, 28, 0.92) 0%, rgba(10, 16, 28, 0.80) 45%, rgba(10, 16, 28, 0.45) 75%, rgba(10, 16, 28, 0.35) 100%),
+        image-set(url("/assets/hero-scripture-1280.webp") type("image/webp"), url("/assets/hero-scripture-1280.jpg") type("image/jpeg"));
+      background-size: cover;
+      background-position: center 30%;
+    }
+    .hero h1, .hero .lede { color: #fbf8f1; text-shadow: 0 1px 12px rgba(0, 0, 0, 0.45); }
+    .hero .eyebrow { color: #e3c77f; }
+    .hero .hero-note { color: #e6dcc6; }
+    .hero .btn-primary { background: var(--gold-soft); color: #0f1c2e; }
+    .hero .btn-primary:hover { background: #d8bb72; }
+    .hero .btn-secondary { color: #fbf8f1; border-color: rgba(251, 248, 241, 0.55); }
+    .hero .btn-secondary:hover { background: rgba(251, 248, 241, 0.12); border-color: #fbf8f1; }
+    .hero .dual-card { background: rgba(255, 252, 247, 0.97); }
+    .hero-visual::before { display: none; }
+    .publishing { background: rgba(255, 252, 247, 0.78); }
+    .featured-passages { background: rgba(247, 243, 235, 0.55); }
+    .perspectives { background: rgba(239, 232, 218, 0.6); }
+    @media (max-width: 900px) {
+      .hero {
+        background-image:
+          linear-gradient(180deg, rgba(10, 16, 28, 0.40) 0%, rgba(10, 16, 28, 0.72) 30%, rgba(10, 16, 28, 0.86) 70%, #0a101c 100%),
+          image-set(url("/assets/hero-scripture-800.webp") type("image/webp"), url("/assets/hero-scripture-800.jpg") type("image/jpeg"));
+        background-color: #0a101c;
+        background-size: 100% 640px, auto 640px;
+        background-repeat: no-repeat;
+        background-position: 62% top, 62% top;
+      }
     }
   </style>
 </head>
