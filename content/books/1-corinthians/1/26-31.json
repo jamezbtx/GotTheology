@@ -1,0 +1,49 @@
+{
+  "book": "1 Corinthians",
+  "bookSlug": "1-corinthians",
+  "chapter": 1,
+  "verseStart": 26,
+  "verseEnd": 31,
+  "translation": "WEB",
+  "title": "1 Corinthians 1:26–31",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 26,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 27,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 28,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 29,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 30,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 31,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

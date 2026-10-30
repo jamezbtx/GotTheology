@@ -1,0 +1,49 @@
+{
+  "book": "1 Corinthians",
+  "bookSlug": "1-corinthians",
+  "chapter": 1,
+  "verseStart": 4,
+  "verseEnd": 9,
+  "translation": "WEB",
+  "title": "1 Corinthians 1:4–9",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 4,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 5,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 6,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 7,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 8,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 9,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
