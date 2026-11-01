@@ -1295,24 +1295,20 @@ main:not(:has(.hero))::after {
   --knob: radial-gradient(ellipse 50% 50% at 50% 50%, #9a6634 0%, #6e431d 55%, #3f250f 92%, transparent 100%);
   --roll: linear-gradient(to bottom, #a8895a 0%, #d9c49a 18%, #f3e8cc 42%, #e8d7b0 62%, #c4a675 84%, #8f7246 100%);
   --curl: linear-gradient(to bottom, rgba(70, 48, 20, 0.28), rgba(70, 48, 20, 0) 100%);
+  /* Painterly sepia rolls (v4 shape, repainted in the old book-art watercolour style):
+     left cap / repeatable middle / right cap so it stretches without distortion. */
+  --cap: calc(var(--roll-h) * 2.353);
+  --mid: url("/assets/scroll-roll-mid.svg");
   background:
-    /* knobs */
-    var(--knob) left 0 top 0 / var(--knob-w) var(--roll-h) no-repeat,
-    var(--knob) right 0 top 0 / var(--knob-w) var(--roll-h) no-repeat,
-    var(--knob) left 0 bottom 0 / var(--knob-w) var(--roll-h) no-repeat,
-    var(--knob) right 0 bottom 0 / var(--knob-w) var(--roll-h) no-repeat,
-    /* rolled parchment */
-    var(--roll) center top / calc(100% - 2 * var(--knob-w) + 4px) var(--roll-h) no-repeat,
-    var(--roll) center bottom / calc(100% - 2 * var(--knob-w) + 4px) var(--roll-h) no-repeat,
-    /* soft shadow where the sheet leaves each roll */
-    var(--curl) center top var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 10px no-repeat,
-    linear-gradient(to top, rgba(70, 48, 20, 0.22), rgba(70, 48, 20, 0)) center bottom var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 10px no-repeat,
-    /* dowel stems between knob and roll */
-    var(--wood) left calc(var(--knob-w) * 0.5) top calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
-    var(--wood) right calc(var(--knob-w) * 0.5) top calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
-    var(--wood) left calc(var(--knob-w) * 0.5) bottom calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
-    var(--wood) right calc(var(--knob-w) * 0.5) bottom calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat;
-  filter: drop-shadow(0 2px 3px rgba(60, 40, 15, 0.18));
+    url("/assets/scroll-roll-cap-l.webp") left top / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-cap-r.webp") right top / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-cap-l.webp") left bottom / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-cap-r.webp") right bottom / var(--cap) var(--roll-h) no-repeat,
+    var(--mid) center top / calc(100% - 2 * var(--cap) + 2px) var(--roll-h) no-repeat,
+    var(--mid) center bottom / calc(100% - 2 * var(--cap) + 2px) var(--roll-h) no-repeat,
+    linear-gradient(to bottom, rgba(110, 85, 50, 0.16), rgba(110, 85, 50, 0)) center top var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 12px no-repeat,
+    linear-gradient(to top, rgba(110, 85, 50, 0.14), rgba(110, 85, 50, 0)) center bottom var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 12px no-repeat;
+  filter: drop-shadow(0 2px 4px rgba(90, 70, 40, 0.12));
 }
 @media (max-width: 700px) {
   main:not(:has(.hero)) {
@@ -1327,4 +1323,7 @@ main:not(:has(.hero))::after {
 
 @media (max-width: 700px) {
   main:not(:has(.hero)) > .passage-header { margin-inline: 0.9rem; }
+}
+@media (max-width: 700px) {
+  main:not(:has(.hero))::after { --mid: url("/assets/scroll-roll-mid-sm.svg"); }
 }
