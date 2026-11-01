@@ -1248,3 +1248,79 @@ body::before {
 }
 /* Full-width section bands: let the single body background show through. */
 .voices, .passage-header { background: transparent; }
+
+/* —— Scroll frame around the main content (not the landing page, which has the hero) ——
+   ::before = the unrolled sheet: light parchment, darker aged edges, softly torn sides
+              (SVG wave mask whose period matches its tile height, so repeat-y is seamless).
+   ::after  = the two rolls with wooden dowel handles, drawn with CSS gradients only,
+              pinned to top and bottom so the frame stretches to any page height. */
+main:not(:has(.hero)) {
+  --roll-h: 34px;
+  --knob-w: 30px;
+  --edge: 30px;
+  position: relative;
+  isolation: isolate;
+  max-width: 1120px;
+  margin: 1.75rem auto 2.5rem;
+  padding: calc(var(--roll-h) + 0.75rem) clamp(1rem, 3vw, 2.5rem) calc(var(--roll-h) + 1.25rem);
+}
+main:not(:has(.hero))::before {
+  content: "";
+  position: absolute;
+  z-index: -2;
+  inset: calc(var(--roll-h) * 0.5) calc(var(--knob-w) + 6px);
+  background:
+    linear-gradient(to right,
+      rgba(139, 101, 48, 0.30) 0, rgba(166, 128, 70, 0.14) 10px, rgba(166, 128, 70, 0) var(--edge),
+      rgba(166, 128, 70, 0) calc(100% - var(--edge)), rgba(166, 128, 70, 0.14) calc(100% - 10px), rgba(139, 101, 48, 0.30) 100%),
+    linear-gradient(to bottom, rgba(120, 90, 40, 0.10), rgba(120, 90, 40, 0) 40px, rgba(120, 90, 40, 0) calc(100% - 40px), rgba(120, 90, 40, 0.10)),
+    #fbf6e9;
+  box-shadow: 0 2px 18px rgba(90, 64, 30, 0.10);
+  -webkit-mask:
+    linear-gradient(#000, #000) center / calc(100% - 14px) 100% no-repeat,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='140' viewBox='0 0 8 140' preserveAspectRatio='none'%3E%3Cpath d='M8 0H3C1 10 5 18 2 30C0 40 4 52 3 62C2 74 6 84 2 96C0 108 5 118 3 128C2 134 3 138 3 140H8Z'/%3E%3C/svg%3E") left top / 8px 140px repeat-y,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='140' viewBox='0 0 8 140' preserveAspectRatio='none'%3E%3Cpath d='M0 0H5C7 12 3 22 6 34C8 46 4 56 5 68C6 80 2 90 6 102C8 112 3 124 5 132C6 136 5 139 5 140H0Z'/%3E%3C/svg%3E") right top / 8px 140px repeat-y;
+  mask:
+    linear-gradient(#000, #000) center / calc(100% - 14px) 100% no-repeat,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='140' viewBox='0 0 8 140' preserveAspectRatio='none'%3E%3Cpath d='M8 0H3C1 10 5 18 2 30C0 40 4 52 3 62C2 74 6 84 2 96C0 108 5 118 3 128C2 134 3 138 3 140H8Z'/%3E%3C/svg%3E") left top / 8px 140px repeat-y,
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='140' viewBox='0 0 8 140' preserveAspectRatio='none'%3E%3Cpath d='M0 0H5C7 12 3 22 6 34C8 46 4 56 5 68C6 80 2 90 6 102C8 112 3 124 5 132C6 136 5 139 5 140H0Z'/%3E%3C/svg%3E") right top / 8px 140px repeat-y;
+}
+main:not(:has(.hero))::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  pointer-events: none;
+  --wood: linear-gradient(to bottom, #4e2f14 0%, #8b5a2b 30%, #b07a43 48%, #7a4b22 70%, #3f250f 100%);
+  --knob: radial-gradient(ellipse 50% 50% at 50% 50%, #9a6634 0%, #6e431d 55%, #3f250f 92%, transparent 100%);
+  --roll: linear-gradient(to bottom, #a8895a 0%, #d9c49a 18%, #f3e8cc 42%, #e8d7b0 62%, #c4a675 84%, #8f7246 100%);
+  --curl: linear-gradient(to bottom, rgba(70, 48, 20, 0.28), rgba(70, 48, 20, 0) 100%);
+  background:
+    /* knobs */
+    var(--knob) left 0 top 0 / var(--knob-w) var(--roll-h) no-repeat,
+    var(--knob) right 0 top 0 / var(--knob-w) var(--roll-h) no-repeat,
+    var(--knob) left 0 bottom 0 / var(--knob-w) var(--roll-h) no-repeat,
+    var(--knob) right 0 bottom 0 / var(--knob-w) var(--roll-h) no-repeat,
+    /* rolled parchment */
+    var(--roll) center top / calc(100% - 2 * var(--knob-w) + 4px) var(--roll-h) no-repeat,
+    var(--roll) center bottom / calc(100% - 2 * var(--knob-w) + 4px) var(--roll-h) no-repeat,
+    /* soft shadow where the sheet leaves each roll */
+    var(--curl) center top var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 10px no-repeat,
+    linear-gradient(to top, rgba(70, 48, 20, 0.22), rgba(70, 48, 20, 0)) center bottom var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 10px no-repeat,
+    /* dowel stems between knob and roll */
+    var(--wood) left calc(var(--knob-w) * 0.5) top calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
+    var(--wood) right calc(var(--knob-w) * 0.5) top calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
+    var(--wood) left calc(var(--knob-w) * 0.5) bottom calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
+    var(--wood) right calc(var(--knob-w) * 0.5) bottom calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat;
+  filter: drop-shadow(0 2px 3px rgba(60, 40, 15, 0.18));
+}
+@media (max-width: 700px) {
+  main:not(:has(.hero)) {
+    --roll-h: 20px;
+    --knob-w: 16px;
+    --edge: 12px;
+    margin: 0.75rem 0.35rem 1.5rem;
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+  }
+}
