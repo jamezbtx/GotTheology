@@ -1255,8 +1255,8 @@ body::before {
    ::after  = the two rolls with wooden dowel handles, drawn with CSS gradients only,
               pinned to top and bottom so the frame stretches to any page height. */
 main:not(:has(.hero)) {
-  --roll-h: 48px;
-  --knob-w: 34px;
+  --roll-h: 34px;
+  --knob-w: 30px;
   --edge: 30px;
   position: relative;
   isolation: isolate;
@@ -1291,33 +1291,33 @@ main:not(:has(.hero))::after {
   z-index: -1;
   inset: 0;
   pointer-events: none;
-  --cap: calc(var(--roll-h) * 1.333);
-  --mid: url("/assets/scroll-roll-mid.svg");
+  --wood: linear-gradient(to bottom, #4e2f14 0%, #8b5a2b 30%, #b07a43 48%, #7a4b22 70%, #3f250f 100%);
+  --knob: radial-gradient(ellipse 50% 50% at 50% 50%, #9a6634 0%, #6e431d 55%, #3f250f 92%, transparent 100%);
+  --roll: linear-gradient(to bottom, #a8895a 0%, #d9c49a 18%, #f3e8cc 42%, #e8d7b0 62%, #c4a675 84%, #8f7246 100%);
+  --curl: linear-gradient(to bottom, rgba(70, 48, 20, 0.28), rgba(70, 48, 20, 0) 100%);
   background:
-    url("/assets/scroll-roll-cap-l.svg") left top / var(--cap) var(--roll-h) no-repeat,
-    url("/assets/scroll-roll-cap-r.svg") right top / var(--cap) var(--roll-h) no-repeat,
-    url("/assets/scroll-roll-cap-l.svg") left bottom / var(--cap) var(--roll-h) no-repeat,
-    url("/assets/scroll-roll-cap-r.svg") right bottom / var(--cap) var(--roll-h) no-repeat,
-    var(--mid) center top / auto var(--roll-h) no-repeat,
-    var(--mid) center bottom / auto var(--roll-h) no-repeat,
-    /* the sheet curls softly into each roll */
-    radial-gradient(ellipse 50% 100% at 50% 0, rgba(92, 68, 36, 0.20), rgba(92, 68, 36, 0) 100%) center top calc(var(--roll-h) * 0.82) / calc(100% - 2 * var(--cap)) 18px no-repeat,
-    radial-gradient(ellipse 50% 100% at 50% 100%, rgba(92, 68, 36, 0.18), rgba(92, 68, 36, 0) 100%) center bottom calc(var(--roll-h) * 0.82) / calc(100% - 2 * var(--cap)) 18px no-repeat;
-  background-clip: border-box;
-  -webkit-mask: linear-gradient(#000, #000);
-  filter: drop-shadow(0 3px 4px rgba(70, 50, 25, 0.16));
-}
-/* keep the mid tiles between the caps */
-main:not(:has(.hero))::after {
-  background-size:
-    var(--cap) var(--roll-h), var(--cap) var(--roll-h), var(--cap) var(--roll-h), var(--cap) var(--roll-h),
-    calc(100% - 1.2 * var(--cap)) var(--roll-h), calc(100% - 1.2 * var(--cap)) var(--roll-h),
-    calc(100% - 2 * var(--cap)) 18px, calc(100% - 2 * var(--cap)) 18px;
+    /* knobs */
+    var(--knob) left 0 top 0 / var(--knob-w) var(--roll-h) no-repeat,
+    var(--knob) right 0 top 0 / var(--knob-w) var(--roll-h) no-repeat,
+    var(--knob) left 0 bottom 0 / var(--knob-w) var(--roll-h) no-repeat,
+    var(--knob) right 0 bottom 0 / var(--knob-w) var(--roll-h) no-repeat,
+    /* rolled parchment */
+    var(--roll) center top / calc(100% - 2 * var(--knob-w) + 4px) var(--roll-h) no-repeat,
+    var(--roll) center bottom / calc(100% - 2 * var(--knob-w) + 4px) var(--roll-h) no-repeat,
+    /* soft shadow where the sheet leaves each roll */
+    var(--curl) center top var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 10px no-repeat,
+    linear-gradient(to top, rgba(70, 48, 20, 0.22), rgba(70, 48, 20, 0)) center bottom var(--roll-h) / calc(100% - 2 * var(--knob-w) - 12px) 10px no-repeat,
+    /* dowel stems between knob and roll */
+    var(--wood) left calc(var(--knob-w) * 0.5) top calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
+    var(--wood) right calc(var(--knob-w) * 0.5) top calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
+    var(--wood) left calc(var(--knob-w) * 0.5) bottom calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat,
+    var(--wood) right calc(var(--knob-w) * 0.5) bottom calc(var(--roll-h) * 0.32) / calc(var(--knob-w) * 0.8) calc(var(--roll-h) * 0.36) no-repeat;
+  filter: drop-shadow(0 2px 3px rgba(60, 40, 15, 0.18));
 }
 @media (max-width: 700px) {
   main:not(:has(.hero)) {
-    --roll-h: 26px;
-    --knob-w: 18px;
+    --roll-h: 20px;
+    --knob-w: 16px;
     --edge: 12px;
     margin: 0.75rem 0.35rem 1.5rem;
     padding-left: 1.1rem;
@@ -1327,5 +1327,4 @@ main:not(:has(.hero))::after {
 
 @media (max-width: 700px) {
   main:not(:has(.hero)) > .passage-header { margin-inline: 0.9rem; }
-  main:not(:has(.hero))::after { --mid: url("/assets/scroll-roll-mid-sm.svg"); }
 }
