@@ -1288,3 +1288,63 @@ main:not(:has(.hero)) > .passage-header::after { margin: 1.5rem auto 0; }
   .topic-hub-passages::before,
   main:not(:has(.hero)) > .passage-header::after { width: 160px; height: 51px; }
 }
+
+/* —— Scroll around the main content (original generated assets, scripts/scroll-art/make.py) ——
+   ::before = sheet: fibre texture tile + gold-fleck edge strips (all seamless), soft torn sides.
+   ::after  = top and bottom rolls: left cap / repeating middle / right cap. */
+main:not(:has(.hero)) {
+  --roll-h: 44px;
+  --cap: calc(var(--roll-h) * 1.409);
+  --side: calc(var(--roll-h) * 0.62);
+  --mid: url("/assets/scroll-roll-mid.svg");
+  position: relative;
+  isolation: isolate;
+  max-width: 1120px;
+  margin: 1.75rem auto 2.5rem;
+  padding: calc(var(--roll-h) + 1rem) calc(var(--side) + clamp(1rem, 3vw, 2.5rem)) calc(var(--roll-h) + 1.5rem);
+}
+main:not(:has(.hero))::before {
+  content: "";
+  position: absolute;
+  z-index: -2;
+  inset: calc(var(--roll-h) * 0.5) var(--side);
+  background:
+    url("/assets/scroll-flecks-l.webp") left top / 180px 900px repeat-y,
+    url("/assets/scroll-flecks-r.webp") right top / 180px 900px repeat-y,
+    linear-gradient(to right, rgba(120, 95, 55, 0.16), rgba(120, 95, 55, 0) 26px, rgba(120, 95, 55, 0) calc(100% - 26px), rgba(120, 95, 55, 0.16)),
+    url("/assets/scroll-sheet.webp") 0 0 / 512px 512px repeat;
+  box-shadow: 0 6px 22px rgba(80, 60, 30, 0.16), 0 1px 4px rgba(80, 60, 30, 0.10);
+}
+main:not(:has(.hero))::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  pointer-events: none;
+  background:
+    url("/assets/scroll-roll-l.webp") left top / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-r.webp") right top / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-l.webp") left bottom / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-r.webp") right bottom / var(--cap) var(--roll-h) no-repeat,
+    var(--mid) center top / calc(100% - 2 * var(--cap) + 2px) var(--roll-h) no-repeat,
+    var(--mid) center bottom / calc(100% - 2 * var(--cap) + 2px) var(--roll-h) no-repeat,
+    radial-gradient(ellipse 50% 100% at 50% 0, rgba(80, 60, 30, 0.16), rgba(80, 60, 30, 0)) center top var(--roll-h) / calc(100% - 2 * var(--side)) 14px no-repeat,
+    radial-gradient(ellipse 50% 100% at 50% 100%, rgba(80, 60, 30, 0.14), rgba(80, 60, 30, 0)) center bottom var(--roll-h) / calc(100% - 2 * var(--side)) 14px no-repeat;
+  filter: drop-shadow(0 3px 5px rgba(70, 52, 25, 0.22));
+}
+@media (max-width: 700px) {
+  main:not(:has(.hero)) {
+    --roll-h: 24px;
+    --mid: url("/assets/scroll-roll-mid-sm.svg");
+    margin: 0.75rem 0.25rem 1.5rem;
+    padding-left: calc(var(--side) + 0.9rem);
+    padding-right: calc(var(--side) + 0.9rem);
+  }
+  main:not(:has(.hero))::before {
+    background-size: 110px 550px, 110px 550px, auto, 512px 512px;
+  }
+  main:not(:has(.hero)) > .passage-header { margin-inline: 0; }
+}
+/* the sheet carries its own flecks: drop margin sprigs, keep the footer divider only */
+body::after { display: none !important; }
+.topic-hub-passages::before, main:not(:has(.hero)) > .passage-header::after { display: none; }
