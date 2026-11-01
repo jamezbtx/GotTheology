@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="48" viewBox="0 0 64 48">
+  <defs><linearGradient id="v" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b9a47e"/>
+      <stop offset=".28" stop-color="#d8c9a6"/>
+      <stop offset=".5" stop-color="#e3d6b6"/>
+      <stop offset=".78" stop-color="#cbb68e"/>
+      <stop offset="1" stop-color="#a88f68"/>
+    </linearGradient>
+    <linearGradient id="w" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6b5038"/>
+      <stop offset=".4" stop-color="#8f7354"/>
+      <stop offset=".6" stop-color="#86694a"/>
+      <stop offset="1" stop-color="#5a4330"/>
+    </linearGradient>
+    <radialGradient id="e" cx=".55" cy=".45" r=".6">
+      <stop offset="0" stop-color="#e0d1ad"/>
+      <stop offset=".7" stop-color="#c7b18a"/>
+      <stop offset="1" stop-color="#a48a62"/>
+    </radialGradient>
+    <filter id="g"><feTurbulence type="fractalNoise" baseFrequency="0.05 1.2" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 .25 0 0 0 0 .17 0 0 0 0 .1 0 0 0 .35 0"/><feComposite in2="SourceGraphic" operator="in"/></filter>
+  </defs>
+  <!-- hand-turned finial with rings -->
+  <g>
+    <path id="f" d="M3 24 C3 17 7 14.5 10 15.5 C12 16 12.5 18.5 14 19 L18 19.6 C19 18 21 18 22 19.4 L30 20 L30 28 L22 28.6 C21 30 19 30 18 28.4 L14 29 C12.5 29.5 12 32 10 32.5 C7 33.5 3 31 3 24 Z" fill="url(#w)"/>
+    <path d="M3 24 C3 17 7 14.5 10 15.5 C12 16 12.5 18.5 14 19 L18 19.6 C19 18 21 18 22 19.4 L30 20 L30 28 L22 28.6 C21 30 19 30 18 28.4 L14 29 C12.5 29.5 12 32 10 32.5 C7 33.5 3 31 3 24 Z" fill="#fff" filter="url(#g)"/>
+    <path d="M14 19.2 L14 28.8 M18 19.6 L18 28.4 M22 19.5 L22 28.5" stroke="#4a3626" stroke-width=".6" opacity=".45"/>
+    <path d="M6 20 C8 18 10 18 11.5 19" stroke="#c2a57e" stroke-width=".8" fill="none" opacity=".45"/>
+  </g>
+  <!-- end of the rolled sheet: spiral -->
+  <ellipse cx="38" cy="24" rx="8.5" ry="16.2" fill="url(#e)"/>
+  <g fill="none" stroke="#8a7049" stroke-width=".6" opacity=".55">
+    <ellipse cx="38.4" cy="24" rx="6.2" ry="12.4"/>
+    <ellipse cx="38.8" cy="24" rx="4" ry="8.4"/>
+    <ellipse cx="39.1" cy="24" rx="2" ry="4.4"/>
+  </g>
+  <ellipse cx="39.2" cy="24" rx="1.1" ry="2.2" fill="#5f4732" opacity=".7"/>
+  
+</svg>
