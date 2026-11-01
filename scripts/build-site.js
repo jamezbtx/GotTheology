@@ -290,7 +290,8 @@ function footerBottomHtml(label) {
     "        <span>\u00a9 " + YEAR + " Got-Theology.com. All rights reserved.</span>\n" +
     '        <span class="scripture-notice">' + escapeHtml(SCRIPTURE_NOTICE) + "</span>\n" +
     (label ? "        <span>" + escapeHtml(label) + "</span>\n" : "") +
-    "      </div>"
+    "      </div>\n" +
+    '      <p class="credit"><a href="https://commschecktx.com" target="_blank" rel="noopener noreferrer"><img src="/comms-check-badge.gif" width="36" height="36" alt="Comms Check LLC" />Website built and maintained by Comms Check LLC</a></p>'
   );
 }
 
