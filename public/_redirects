@@ -17,6 +17,10 @@
 /titus/*            /bible/titus/:splat        301
 /romans            /bible/romans/            301
 /romans/*          /bible/romans/:splat      301
+/1-corinthians     /bible/1-corinthians/     301
+/1-corinthians/*   /bible/1-corinthians/:splat 301
+/galatians         /bible/galatians/         301
+/galatians/*       /bible/galatians/:splat   301
 /1-john            /bible/1-john/            301
 /1-john/*          /bible/1-john/:splat      301
 /2-john            /bible/2-john/            301
