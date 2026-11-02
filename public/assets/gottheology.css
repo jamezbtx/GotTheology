@@ -1268,27 +1268,6 @@ body::after {
   body::after { display: none; }
 }
 
-/* —— Pencil-sketch scroll divider between major sections and above the footer —— */
-.site-footer::before,
-.topic-hub-passages::before,
-main:not(:has(.hero)) > .passage-header::after {
-  content: "";
-  display: block;
-  width: 200px;
-  height: 64px;
-  margin: 0 auto 1.25rem;
-  background: url("/assets/divider-scroll.svg") center / contain no-repeat;
-  opacity: 0.6;
-}
-main:not(:has(.hero)) > .passage-header::after { margin: 1.5rem auto 0; }
-.site-footer { position: relative; margin-top: 5.5rem; }
-.site-footer::before { position: absolute; top: -78px; left: 50%; transform: translateX(-50%); margin: 0; }
-@media (max-width: 700px) {
-  .site-footer::before,
-  .topic-hub-passages::before,
-  main:not(:has(.hero)) > .passage-header::after { width: 160px; height: 51px; }
-}
-
 /* —— Scroll around the main content (original generated assets, scripts/scroll-art/make.py) ——
    ::before = sheet: fibre texture tile + gold-fleck edge strips (all seamless), soft torn sides.
    ::after  = top and bottom rolls: left cap / repeating middle / right cap. */
@@ -1348,9 +1327,8 @@ main:not(:has(.hero))::after {
   }
   main:not(:has(.hero)) > .passage-header { margin-inline: 0; }
 }
-/* the sheet carries its own flecks: drop margin sprigs, keep the footer divider only */
+/* the sheet carries its own flecks: drop margin sprigs */
 body::after { display: none !important; }
-.topic-hub-passages::before, main:not(:has(.hero)) > .passage-header::after { display: none; }
 
 /* —— v11: scroll flipped vertically and used as the page background, with weathering ——
    Rolls swapped top<->bottom (the -b assets are the vertical mirror), scroll widened so the
