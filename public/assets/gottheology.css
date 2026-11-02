@@ -1351,3 +1351,44 @@ main:not(:has(.hero))::after {
 /* the sheet carries its own flecks: drop margin sprigs, keep the footer divider only */
 body::after { display: none !important; }
 .topic-hub-passages::before, main:not(:has(.hero)) > .passage-header::after { display: none; }
+
+/* —— v11: scroll flipped vertically and used as the page background, with weathering ——
+   Rolls swapped top<->bottom (the -b assets are the vertical mirror), scroll widened so the
+   page sits on it, plus one stretched (non-tiling) weathering layer: stains, foxing, worn edges, creases. */
+main:not(:has(.hero)) {
+  --mid: url("/assets/scroll-roll-mid-b.svg");
+  --mid-b: url("/assets/scroll-roll-mid.svg");
+  max-width: 1240px;
+  margin: 1rem auto 2rem;
+}
+main:not(:has(.hero))::before {
+  background:
+    url("/assets/scroll-weathering.webp") center / 100% 100% no-repeat,
+    radial-gradient(ellipse 75% 55% at 50% 45%, rgba(255, 250, 238, 0.28), rgba(255, 250, 238, 0) 70%),
+    linear-gradient(rgba(196, 160, 110, 0.13), rgba(196, 160, 110, 0.13)),
+    url("/assets/scroll-flecks-l.webp") left top / 180px 900px repeat-y,
+    url("/assets/scroll-flecks-r.webp") right top / 180px 900px repeat-y,
+    linear-gradient(to right, rgba(120, 85, 45, 0.22), rgba(120, 85, 45, 0) 34px, rgba(120, 85, 45, 0) calc(100% - 34px), rgba(120, 85, 45, 0.22)),
+    url("/assets/scroll-sheet.webp") 0 0 / 512px 512px repeat;
+}
+main:not(:has(.hero))::after {
+  background:
+    url("/assets/scroll-roll-l-b.webp") left top / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-r-b.webp") right top / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-l.webp") left bottom / var(--cap) var(--roll-h) no-repeat,
+    url("/assets/scroll-roll-r.webp") right bottom / var(--cap) var(--roll-h) no-repeat,
+    var(--mid) center top / calc(100% - 2 * (var(--cap) - var(--feather))) var(--roll-h) no-repeat,
+    var(--mid-b) center bottom / calc(100% - 2 * (var(--cap) - var(--feather))) var(--roll-h) no-repeat,
+    radial-gradient(ellipse 50% 100% at 50% 0, rgba(80, 60, 30, 0.16), rgba(80, 60, 30, 0)) center top var(--roll-h) / calc(100% - 2 * var(--side)) 14px no-repeat,
+    radial-gradient(ellipse 50% 100% at 50% 100%, rgba(80, 60, 30, 0.14), rgba(80, 60, 30, 0)) center bottom var(--roll-h) / calc(100% - 2 * var(--side)) 14px no-repeat;
+}
+@media (max-width: 700px) {
+  main:not(:has(.hero)) {
+    --mid: url("/assets/scroll-roll-mid-sm-b.svg");
+    --mid-b: url("/assets/scroll-roll-mid-sm.svg");
+    margin: 0.5rem 0.2rem 1.25rem;
+  }
+  main:not(:has(.hero))::before {
+    background-size: 100% 100%, auto, auto, 110px 550px, 110px 550px, auto, 512px 512px;
+  }
+}
