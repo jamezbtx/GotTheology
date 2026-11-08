@@ -1,0 +1,37 @@
+{
+  "book": "Jude",
+  "bookSlug": "jude",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 4,
+  "translation": "WEB",
+  "title": "Jude 1:1–4",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 2,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 3,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 4,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

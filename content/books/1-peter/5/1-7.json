@@ -1,0 +1,55 @@
+{
+  "book": "1 Peter",
+  "bookSlug": "1-peter",
+  "chapter": 5,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "WEB",
+  "title": "1 Peter 5:1–7",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 2,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 3,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 4,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 5,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 6,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 7,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

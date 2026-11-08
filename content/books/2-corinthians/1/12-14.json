@@ -1,0 +1,31 @@
+{
+  "book": "2 Corinthians",
+  "bookSlug": "2-corinthians",
+  "chapter": 1,
+  "verseStart": 12,
+  "verseEnd": 14,
+  "translation": "WEB",
+  "title": "2 Corinthians 1:12–14",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 12,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 13,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 14,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "Mark",
+  "bookSlug": "mark",
+  "chapter": 7,
+  "verseStart": 31,
+  "verseEnd": 37,
+  "translation": "WEB",
+  "title": "Mark 7:31–37",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 31,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 32,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 33,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 34,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 35,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 36,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 37,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

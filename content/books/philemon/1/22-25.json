@@ -1,0 +1,37 @@
+{
+  "book": "Philemon",
+  "bookSlug": "philemon",
+  "chapter": 1,
+  "verseStart": 22,
+  "verseEnd": 25,
+  "translation": "WEB",
+  "title": "Philemon 1:22–25",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 22,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 23,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 24,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 25,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

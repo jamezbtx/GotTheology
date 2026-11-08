@@ -1,0 +1,43 @@
+{
+  "book": "Luke",
+  "bookSlug": "luke",
+  "chapter": 10,
+  "verseStart": 38,
+  "verseEnd": 42,
+  "translation": "WEB",
+  "title": "Luke 10:38–42",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 38,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 39,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 40,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 41,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 42,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

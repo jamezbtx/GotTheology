@@ -1,0 +1,31 @@
+{
+  "book": "Philippians",
+  "bookSlug": "philippians",
+  "chapter": 4,
+  "verseStart": 21,
+  "verseEnd": 23,
+  "translation": "WEB",
+  "title": "Philippians 4:21–23",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 21,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 22,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 23,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

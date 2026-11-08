@@ -1,0 +1,49 @@
+{
+  "book": "2 Corinthians",
+  "bookSlug": "2-corinthians",
+  "chapter": 13,
+  "verseStart": 5,
+  "verseEnd": 10,
+  "translation": "WEB",
+  "title": "2 Corinthians 13:5–10",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 5,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 6,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 7,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 8,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 9,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 10,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

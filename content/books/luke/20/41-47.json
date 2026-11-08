@@ -1,0 +1,55 @@
+{
+  "book": "Luke",
+  "bookSlug": "luke",
+  "chapter": 20,
+  "verseStart": 41,
+  "verseEnd": 47,
+  "translation": "WEB",
+  "title": "Luke 20:41–47",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 41,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 42,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 43,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 44,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 45,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 46,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 47,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
