@@ -6,80 +6,81 @@
   "verseEnd": 38,
   "translation": "WEB",
   "title": "Luke 6:27–38",
-  "context": "",
+  "context": "Jesus calls His hearers to love enemies, bless those who curse, give freely, and treat others as they want to be treated. Love that only returns love is no different from sinners’ love; God is kind to the ungrateful, so His children must be merciful as He is. Do not judge or condemn, forgive and give, for the measure used will be measured back. Both traditions see this as the ethic of the kingdom, flowing from grace; they nuance the relationship of reward and sonship to conduct.",
   "showVoices": false,
   "verses": [
     {
       "number": 27,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "“But I tell you who hear: love your enemies, do good to those who hate you,",
+      "arminianNotes": "Love your enemies. Arminian readers see radical love required. Jesus addresses those who hear, assuming they can respond.",
+      "reformedNotes": "Reformed readers see love flowing from grace. Love for enemies reflects God’s love for sinners who were His enemies."
     },
     {
       "number": 28,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "bless those who curse you, and pray for those who mistreat you.",
+      "arminianNotes": "Bless and pray for those who mistreat you. Arminian readers see active goodwill. Prayer for persecutors turns hostility into an occasion for grace.",
+      "reformedNotes": "Reformed readers see a Christlike response to hostility. Jesus later prays for His executioners in 23:34."
     },
     {
       "number": 29,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also.",
+      "arminianNotes": "Turn the other cheek. Arminian readers see non-retaliation. Interpreters debate how literally to apply this, but the call to forgo revenge is clear.",
+      "reformedNotes": "Reformed readers read this as a personal ethic of non-retaliation. Many in the tradition distinguish personal insult from the duties of civil justice."
     },
     {
       "number": 30,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "Give to everyone who asks you, and don’t ask him who takes away your goods to give them back again.",
+      "arminianNotes": "Give to everyone who asks. Arminian readers see generous love that trusts God’s provision rather than clinging to possessions.",
+      "reformedNotes": "Reformed readers see open-handed living as the fruit of grace. Jesus forbids the grasping spirit, though wisdom still guides how to give."
     },
     {
       "number": 31,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "“As you would like people to do to you, do exactly so to them.",
+      "arminianNotes": "Do to others as you would have them do to you. Arminian readers see the Golden Rule. Love takes the initiative rather than waiting to be treated well.",
+      "reformedNotes": "Reformed readers see the summary of the law’s second table. Jesus states the rule positively, calling for active good rather than mere restraint."
     },
     {
       "number": 32,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "“If you love those who love you, what credit is that to you? For even sinners love those who love them.",
+      "arminianNotes": "Loving those who love you is no credit. Arminian readers see higher standard. Even sinners love those who love them.",
+      "reformedNotes": "Reformed readers see grace calling disciples beyond ordinary reciprocity. Love that only returns love is common even among those who do not know God."
     },
     {
       "number": 33,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "If you do good to those who do good to you, what credit is that to you? For even sinners do the same.",
+      "arminianNotes": "Doing good to those who do good is no credit. Arminian readers see higher standard. Disciples must go beyond the world’s exchange of favors.",
+      "reformedNotes": "Reformed readers see the same contrast. Love that seeks no return mirrors God’s generosity to the undeserving."
     },
     {
       "number": 34,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "If you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive back as much.",
+      "arminianNotes": "Lending only to get repaid earns no credit. Arminian readers see a call to generosity that seeks the other person’s good rather than one’s own gain.",
+      "reformedNotes": "Reformed readers see grace exceeding prudent calculation. God’s people give as those who have received freely."
     },
     {
       "number": 35,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and evil.",
+      "arminianNotes": "Love enemies and be children of the Most High. Arminian readers see sonship displayed through love. Reward is promised, and children of the Most High resemble their Father.",
+      "reformedNotes": "Reformed readers see love for enemies revealing a family likeness to God. God’s kindness to the ungrateful is the model, and the reward is gracious.",
+      "keyContrast": "Both teach that love of enemies reflects God’s own kindness. Arminian readers more often see reward and sonship as tied to continued obedience. Reformed readers more often see such love as evidence of sonship already given by grace."
     },
     {
       "number": 36,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "“Therefore be merciful, even as your Father is also merciful.",
+      "arminianNotes": "Be merciful as your Father is merciful. Arminian readers see imitation of God. Mercy is the summary of all that Jesus has said in this section.",
+      "reformedNotes": "Reformed readers see mercy reflecting the grace believers have received. Children reflect their Father’s character."
     },
     {
       "number": 37,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "Don’t judge, and you won’t be judged. Don’t condemn, and you won’t be condemned. Set free, and you will be set free.",
+      "arminianNotes": "Do not judge or condemn; forgive. Arminian readers see reciprocal relationship. Jesus warns against a censorious spirit, not against all moral discernment.",
+      "reformedNotes": "Reformed readers see forgiveness as evidence of grace. Those forgiven much forgive others."
     },
     {
       "number": 38,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "“Give, and it will be given to you: good measure, pressed down, shaken together, and running over, will be given to you. For with the same measure you measure it will be measured back to you.”",
+      "arminianNotes": "Give, and it will be given. Arminian readers see generosity rewarded. The image is of grain poured into a fold of the garment until it overflows.",
+      "reformedNotes": "Reformed readers see God’s abundant response to generosity. The measure image warns that a stingy spirit reveals a heart that has not grasped grace."
     }
   ]
 }
