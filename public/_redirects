@@ -21,6 +21,26 @@
 /1-corinthians/*   /bible/1-corinthians/:splat 301
 /galatians         /bible/galatians/         301
 /galatians/*       /bible/galatians/:splat   301
+/mark             /bible/mark/  301
+/mark/*           /bible/mark/:splat 301
+/luke             /bible/luke/  301
+/luke/*           /bible/luke/:splat 301
+/2-corinthians    /bible/2-corinthians/  301
+/2-corinthians/*  /bible/2-corinthians/:splat 301
+/philippians      /bible/philippians/  301
+/philippians/*    /bible/philippians/:splat 301
+/1-thessalonians  /bible/1-thessalonians/  301
+/1-thessalonians/*/bible/1-thessalonians/:splat 301
+/2-thessalonians  /bible/2-thessalonians/  301
+/2-thessalonians/*/bible/2-thessalonians/:splat 301
+/philemon         /bible/philemon/  301
+/philemon/*       /bible/philemon/:splat 301
+/james            /bible/james/  301
+/james/*          /bible/james/:splat 301
+/1-peter          /bible/1-peter/  301
+/1-peter/*        /bible/1-peter/:splat 301
+/jude             /bible/jude/  301
+/jude/*           /bible/jude/:splat 301
 /1-john            /bible/1-john/            301
 /1-john/*          /bible/1-john/:splat      301
 /2-john            /bible/2-john/            301
