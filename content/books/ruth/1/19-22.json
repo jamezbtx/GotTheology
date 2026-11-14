@@ -1,0 +1,37 @@
+{
+  "book": "Ruth",
+  "bookSlug": "ruth",
+  "chapter": 1,
+  "verseStart": 19,
+  "verseEnd": 22,
+  "translation": "WEB",
+  "title": "Ruth 1:19–22",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 19,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 20,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 21,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 22,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

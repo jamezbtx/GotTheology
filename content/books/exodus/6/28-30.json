@@ -1,0 +1,31 @@
+{
+  "book": "Exodus",
+  "bookSlug": "exodus",
+  "chapter": 6,
+  "verseStart": 28,
+  "verseEnd": 30,
+  "translation": "WEB",
+  "title": "Exodus 6:28–30",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 28,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 29,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 30,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "book": "Ruth",
+  "bookSlug": "ruth",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 6,
+  "translation": "WEB",
+  "title": "Ruth 3:1–6",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 2,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 3,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 4,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 5,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 6,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
