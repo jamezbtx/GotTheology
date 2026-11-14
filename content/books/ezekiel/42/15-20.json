@@ -1,0 +1,49 @@
+{
+  "book": "Ezekiel",
+  "bookSlug": "ezekiel",
+  "chapter": 42,
+  "verseStart": 15,
+  "verseEnd": 20,
+  "translation": "WEB",
+  "title": "Ezekiel 42:15–20",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 15,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 16,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 17,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 18,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 19,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 20,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
