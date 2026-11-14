@@ -6,38 +6,39 @@
   "verseEnd": 5,
   "translation": "WEB",
   "title": "Leviticus 18:1–5",
-  "context": "",
+  "context": "Leviticus 18, within what is often called the Holiness Code (commonly identified as chapters 17–26), opens with a frame: Israel, redeemed from Egypt and heading to Canaan, must not copy the practices of either land but walk in the LORD’s statutes. The repeated refrain, I am the LORD your God, grounds every command in the covenant relationship. Both traditions read these laws as the way of life for a people already redeemed, though they relate 18:5 to Paul’s law–gospel argument in different ways.",
   "showVoices": false,
   "verses": [
     {
       "number": 1,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "The LORD said to Moses,",
+      "arminianNotes": "The LORD speaks to Moses, introducing a new section of instruction. Arminian readers see God continuing to guide a redeemed people by his word. The laws that follow come from him, not from human custom.",
+      "reformedNotes": "Reformed readers likewise see divine revelation as the source of Israel’s moral order. The narrative frame grounds the holiness laws in God’s speech. Both traditions read the opening as shared ground."
     },
     {
       "number": 2,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "“Speak to the children of Israel, and say to them, ‘I am the LORD your God.",
+      "arminianNotes": "God identifies himself as the LORD your God before giving commands. Arminian readers see the covenant relationship as the basis for obedience. Israel obeys as a people already claimed by God.",
+      "reformedNotes": "Reformed readers likewise see grace preceding law, as in the preface to the Ten Commandments in Exodus 20:2. Obedience is a response to God’s gracious claim. Both traditions share this reading."
     },
     {
       "number": 3,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "You shall not do as they do in the land of Egypt, where you lived. You shall not do as they do in the land of Canaan, where I am bringing you. You shall not follow their statutes.",
+      "arminianNotes": "Israel must not imitate the practices of Egypt or Canaan. Arminian readers see God calling his people to a distinct way of life. Redemption means leaving behind former patterns, not merely changing location.",
+      "reformedNotes": "Reformed readers likewise see holiness as separation from the surrounding culture’s sins. Romans 12:2 echoes the call not to be conformed to this world. Both traditions share this reading."
     },
     {
       "number": 4,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "You shall do my ordinances. You shall keep my statutes and walk in them. I am the LORD your God.",
+      "arminianNotes": "Israel is to do God’s ordinances and walk in his statutes. Arminian readers see obedience as a path to walk daily. God’s law shapes a whole manner of life.",
+      "reformedNotes": "Reformed readers likewise see the law as a guide for the life of the covenant people, often called the third use of the law. Both traditions affirm that God’s commands direct the redeemed."
     },
     {
       "number": 5,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "You shall therefore keep my statutes and my ordinances, which if a man does, he shall live in them. I am the LORD.",
+      "arminianNotes": "Keeping God’s statutes is the way of life: the one who does them shall live in them. Arminian readers commonly read this as describing the covenant life of a redeemed people who walk with God. Paul’s use in Romans 10:5 and Galatians 3:12 contrasts law-righteousness with faith, but many Arminians see that contrast as aimed at seeking justification by law, not at Leviticus’s own purpose.",
+      "reformedNotes": "Reformed readers often see in Paul’s citation a principle of law contrasted with gospel: perfect obedience brings life, which no sinner achieves, so Christ fulfilled it for his people. Others in the tradition stress that Leviticus describes life within the covenant of grace. Reformed writers debate how the Mosaic covenant relates to the covenant of works.",
+      "keyContrast": "Both affirm that God’s statutes are the path of life for his people. Arminian readers commonly read the verse as covenant life for the redeemed, with Paul contrasting it only with law as a means of justification. Reformed readers often see Paul drawing out a law principle of perfect obedience fulfilled by Christ. Views vary within each tradition."
     }
   ]
 }
