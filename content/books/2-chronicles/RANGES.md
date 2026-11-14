@@ -11,7 +11,7 @@ A `_draft` marker in this book folder keeps the book out of a default site build
 Chapter endings verified from the official eBible.org WEB numbered chapter HTML, not inferred from array length.
 Official counts match `en_web.json` for this book (no numbering gaps).
 
-No English/Hebrew chapter-boundary versification differences in 2 Chronicles. Preserve WEB verse numbers.
+English/WEB numbering: 2 Chronicles 2:1–18 is Hebrew 1:18 + 2:1–17 (WEB 2:1 = Hebrew 1:18). Preserve WEB verse numbers.
 
 ## Chapter 1 (17 verses)
 Source: https://ebible.org/engwebp/2CH01.htm
