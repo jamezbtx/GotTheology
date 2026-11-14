@@ -6,32 +6,32 @@
   "verseEnd": 26,
   "translation": "WEB",
   "title": "2 Samuel 20:23–26",
-  "context": "",
+  "context": "The chapter closes with a list of David’s officials, similar to the earlier list in 2 Samuel 8:16–18. Joab is over the army, Benaiah over the Cherethites and Pelethites, Adoram over forced labor, Jehoshaphat the recorder, Sheva the scribe, Zadok and Abiathar the priests, and Ira the Jairite chief minister to David. Some names differ from other lists: 1 Kings 4:6 names Adoniram over forced labor, and the scribe in 2 Samuel 8:17 is Seraiah, while the Hebrew word rendered chief minister in verse 26 is the ordinary word for priest, and translations differ on whether it describes a religious or political role. Readers in both traditions commonly read the list as a sign that order is restored after rebellion, while noting that Joab, despite his violence, remains in power. The list states names and roles only, and these notes avoid adding details the text does not supply.",
   "showVoices": false,
   "verses": [
     {
       "number": 23,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "Now Joab was over all the army of Israel, Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites,",
+      "arminianNotes": "Arminian readers see Joab over all the army and Benaiah over the Cherethites and Pelethites. Order returns after rebellion.",
+      "reformedNotes": "Reformed readers note that Joab remains in command despite his violence, a tension the narrative later addresses (1 Kings 2:5). Both traditions commonly read the list as factual."
     },
     {
       "number": 24,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "Adoram was over the men subject to forced labor, Jehoshaphat the son of Ahilud was the recorder,",
+      "arminianNotes": "Arminian readers see Adoram over forced labor and Jehoshaphat the recorder. The kingdom’s administration is restored after the upheaval.",
+      "reformedNotes": "Reformed readers see the offices as signs of an organized monarchy. Readers in both traditions commonly read the list as a record of structure rather than moral commentary."
     },
     {
       "number": 25,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "Sheva was scribe, Zadok and Abiathar were priests,",
+      "arminianNotes": "Arminian readers see Sheva the scribe and Zadok and Abiathar the priests. Worship and record-keeping continue under the restored king.",
+      "reformedNotes": "Reformed readers see the presence of priests as showing that worship remains central to the kingdom. Both traditions commonly read the verse as part of a simple administrative list."
     },
     {
       "number": 26,
-      "text": "",
-      "arminianNotes": "",
-      "reformedNotes": ""
+      "text": "and Ira the Jairite was chief minister to David.",
+      "arminianNotes": "Arminian readers see Ira the Jairite as chief minister to David. The list closes with a personal role close to the king himself.",
+      "reformedNotes": "Reformed readers note that the text gives his title without further detail. Readers in both traditions commonly avoid adding details about his role beyond what the verse states."
     }
   ]
 }
