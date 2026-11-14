@@ -1,0 +1,49 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 35,
+  "verseStart": 29,
+  "verseEnd": 34,
+  "translation": "WEB",
+  "title": "Numbers 35:29–34",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 29,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 30,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 31,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 32,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 33,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 34,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

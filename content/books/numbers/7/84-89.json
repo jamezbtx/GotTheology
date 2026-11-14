@@ -1,0 +1,49 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 7,
+  "verseStart": 84,
+  "verseEnd": 89,
+  "translation": "WEB",
+  "title": "Numbers 7:84–89",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 84,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 85,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 86,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 87,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 88,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 89,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

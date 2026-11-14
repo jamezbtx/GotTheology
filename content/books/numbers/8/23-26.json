@@ -1,0 +1,37 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 8,
+  "verseStart": 23,
+  "verseEnd": 26,
+  "translation": "WEB",
+  "title": "Numbers 8:23–26",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 23,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 24,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 25,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 26,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

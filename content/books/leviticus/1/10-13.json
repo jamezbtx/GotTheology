@@ -1,0 +1,37 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 1,
+  "verseStart": 10,
+  "verseEnd": 13,
+  "translation": "WEB",
+  "title": "Leviticus 1:10–13",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 10,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 11,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 12,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 13,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
