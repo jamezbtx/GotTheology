@@ -1,0 +1,31 @@
+{
+  "book": "Job",
+  "bookSlug": "job",
+  "chapter": 42,
+  "verseStart": 7,
+  "verseEnd": 9,
+  "translation": "WEB",
+  "title": "Job 42:7–9",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 7,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 8,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 9,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

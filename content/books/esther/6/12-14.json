@@ -1,0 +1,31 @@
+{
+  "book": "Esther",
+  "bookSlug": "esther",
+  "chapter": 6,
+  "verseStart": 12,
+  "verseEnd": 14,
+  "translation": "WEB",
+  "title": "Esther 6:12–14",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 12,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 13,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 14,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
