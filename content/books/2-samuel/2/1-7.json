@@ -1,0 +1,55 @@
+{
+  "book": "2 Samuel",
+  "bookSlug": "2-samuel",
+  "chapter": 2,
+  "verseStart": 1,
+  "verseEnd": 7,
+  "translation": "WEB",
+  "title": "2 Samuel 2:1–7",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 2,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 3,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 4,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 5,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 6,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 7,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

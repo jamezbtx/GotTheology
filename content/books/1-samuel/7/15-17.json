@@ -1,0 +1,31 @@
+{
+  "book": "1 Samuel",
+  "bookSlug": "1-samuel",
+  "chapter": 7,
+  "verseStart": 15,
+  "verseEnd": 17,
+  "translation": "WEB",
+  "title": "1 Samuel 7:15–17",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 15,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 16,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 17,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

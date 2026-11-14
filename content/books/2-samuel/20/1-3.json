@@ -1,0 +1,31 @@
+{
+  "book": "2 Samuel",
+  "bookSlug": "2-samuel",
+  "chapter": 20,
+  "verseStart": 1,
+  "verseEnd": 3,
+  "translation": "WEB",
+  "title": "2 Samuel 20:1–3",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 2,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 3,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

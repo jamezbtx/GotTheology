@@ -1,0 +1,31 @@
+{
+  "book": "Joshua",
+  "bookSlug": "joshua",
+  "chapter": 5,
+  "verseStart": 13,
+  "verseEnd": 15,
+  "translation": "WEB",
+  "title": "Joshua 5:13–15",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 13,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 14,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 15,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

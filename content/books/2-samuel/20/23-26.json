@@ -1,0 +1,37 @@
+{
+  "book": "2 Samuel",
+  "bookSlug": "2-samuel",
+  "chapter": 20,
+  "verseStart": 23,
+  "verseEnd": 26,
+  "translation": "WEB",
+  "title": "2 Samuel 20:23–26",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 23,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 24,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 25,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 26,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

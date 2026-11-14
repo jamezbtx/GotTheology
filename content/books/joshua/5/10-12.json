@@ -1,0 +1,31 @@
+{
+  "book": "Joshua",
+  "bookSlug": "joshua",
+  "chapter": 5,
+  "verseStart": 10,
+  "verseEnd": 12,
+  "translation": "WEB",
+  "title": "Joshua 5:10–12",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 10,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 11,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 12,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

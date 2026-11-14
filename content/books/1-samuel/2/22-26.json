@@ -1,0 +1,43 @@
+{
+  "book": "1 Samuel",
+  "bookSlug": "1-samuel",
+  "chapter": 2,
+  "verseStart": 22,
+  "verseEnd": 26,
+  "translation": "WEB",
+  "title": "1 Samuel 2:22–26",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 22,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 23,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 24,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 25,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 26,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

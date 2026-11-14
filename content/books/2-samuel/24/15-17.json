@@ -1,0 +1,31 @@
+{
+  "book": "2 Samuel",
+  "bookSlug": "2-samuel",
+  "chapter": 24,
+  "verseStart": 15,
+  "verseEnd": 17,
+  "translation": "WEB",
+  "title": "2 Samuel 24:15–17",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 15,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 16,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 17,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

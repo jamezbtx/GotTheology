@@ -1,0 +1,37 @@
+{
+  "book": "2 Samuel",
+  "bookSlug": "2-samuel",
+  "chapter": 6,
+  "verseStart": 12,
+  "verseEnd": 15,
+  "translation": "WEB",
+  "title": "2 Samuel 6:12–15",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 12,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 13,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 14,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 15,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

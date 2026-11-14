@@ -1,0 +1,49 @@
+{
+  "book": "Joshua",
+  "bookSlug": "joshua",
+  "chapter": 6,
+  "verseStart": 22,
+  "verseEnd": 27,
+  "translation": "WEB",
+  "title": "Joshua 6:22–27",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 22,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 23,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 24,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 25,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 26,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 27,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

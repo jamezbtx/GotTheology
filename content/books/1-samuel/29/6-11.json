@@ -1,0 +1,49 @@
+{
+  "book": "1 Samuel",
+  "bookSlug": "1-samuel",
+  "chapter": 29,
+  "verseStart": 6,
+  "verseEnd": 11,
+  "translation": "WEB",
+  "title": "1 Samuel 29:6–11",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 6,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 7,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 8,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 9,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 10,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 11,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}

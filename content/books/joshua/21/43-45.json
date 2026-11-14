@@ -1,0 +1,31 @@
+{
+  "book": "Joshua",
+  "bookSlug": "joshua",
+  "chapter": 21,
+  "verseStart": 43,
+  "verseEnd": 45,
+  "translation": "WEB",
+  "title": "Joshua 21:43–45",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 43,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 44,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 45,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
