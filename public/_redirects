@@ -30,9 +30,9 @@
 /philippians      /bible/philippians/  301
 /philippians/*    /bible/philippians/:splat 301
 /1-thessalonians  /bible/1-thessalonians/  301
-/1-thessalonians/*/bible/1-thessalonians/:splat 301
+/1-thessalonians/* /bible/1-thessalonians/:splat 301
 /2-thessalonians  /bible/2-thessalonians/  301
-/2-thessalonians/*/bible/2-thessalonians/:splat 301
+/2-thessalonians/* /bible/2-thessalonians/:splat 301
 /philemon         /bible/philemon/  301
 /philemon/*       /bible/philemon/:splat 301
 /james            /bible/james/  301
@@ -55,6 +55,14 @@
 /hebrews/*         /bible/hebrews/:splat     301
 /psalms            /bible/psalms/            301
 /psalms/*          /bible/psalms/:splat      301
+/exodus            /bible/exodus/  301
+/exodus/*          /bible/exodus/:splat 301
+/ruth              /bible/ruth/  301
+/ruth/*            /bible/ruth/:splat 301
+/proverbs          /bible/proverbs/  301
+/proverbs/*        /bible/proverbs/:splat 301
+/jonah             /bible/jonah/  301
+/jonah/*           /bible/jonah/:splat 301
 
 # Doctrine / attribute aliases
 /doctrine           /doctrines/           301
