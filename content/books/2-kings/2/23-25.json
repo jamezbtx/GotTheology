@@ -1,0 +1,31 @@
+{
+  "book": "2 Kings",
+  "bookSlug": "2-kings",
+  "chapter": 2,
+  "verseStart": 23,
+  "verseEnd": 25,
+  "translation": "WEB",
+  "title": "2 Kings 2:23–25",
+  "context": "",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 23,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 24,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    },
+    {
+      "number": 25,
+      "text": "",
+      "arminianNotes": "",
+      "reformedNotes": ""
+    }
+  ]
+}
