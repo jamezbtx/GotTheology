@@ -64,6 +64,13 @@
 /jonah             /bible/jonah/  301
 /jonah/*           /bible/jonah/:splat 301
 
+/acts              /bible/acts/              301
+/acts/*            /bible/acts/:splat        301
+/2-peter           /bible/2-peter/           301
+/2-peter/*         /bible/2-peter/:splat     301
+/revelation        /bible/revelation/        301
+/revelation/*      /bible/revelation/:splat  301
+
 # Doctrine / attribute aliases
 /doctrine           /doctrines/           301
 /doctrine/          /doctrines/           301

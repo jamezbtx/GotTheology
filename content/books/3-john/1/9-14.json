@@ -3,10 +3,10 @@
   "bookSlug": "3-john",
   "chapter": 1,
   "verseStart": 9,
-  "verseEnd": 15,
+  "verseEnd": 14,
   "translation": "WEB",
-  "title": "3 John 1:9–15",
-  "context": "The elder had written to the assembly, but Diotrephes, who loves to be first, will not acknowledge apostolic authority: wicked nonsense, refusal to welcome the brothers, stopping those who would, putting them out. Gaius is told not to imitate evil but good. He who does good is of God. He who does evil hasn’t seen God. Demetrius has a good testimony of all, and of the truth. Then pen and ink yield to the hope of face-to-face speech, peace, and friends greeted by name.",
+  "title": "3 John 1:9–14",
+  "context": "The elder had written to the assembly, but Diotrephes, who loves to be first, will not acknowledge apostolic authority: wicked nonsense, refusal to welcome the brothers, stopping those who would, putting them out. Gaius is told not to imitate evil but good. He who does good is of God. He who does evil hasn’t seen God. Demetrius has a good testimony of all, and of the truth. Then pen and ink yield to the hope of face-to-face speech, peace, and friends greeted by name. Versification: some English editions number the closing greeting as 1:15; in the WEB it is part of 1:14; this page keeps the WEB numbers.",
   "showVoices": true,
   "voices": {
     "eyebrow": "From the tradition",
@@ -62,15 +62,9 @@
     },
     {
       "number": 14,
-      "text": "but I hope to see you soon. Then we will speak face to face.",
-      "arminianNotes": "Hope to see you soon. Then talk face to face. Wesley’s 2 John parallel: not minded to write only these needful things when coming is better.\n\nThere is nothing here to argue over. Face to face is how the elder will also “remember” Diotrephes’s deeds (v. 10). Joy and order both wait on the visit.",
-      "reformedNotes": "The coming of v. 10 and the talk of v. 14 are one visit: presence for Gaius, and presence that will not leave Diotrephes’s deeds unspoken.\n\nBoth readings: close like 2 John. Paper is stopgap. No extra fight."
-    },
-    {
-      "number": 15,
-      "text": "Peace be to you. The friends greet you. Greet the friends by name.",
-      "arminianNotes": "Greet the friends by name. Wesley: salute the friends by name—in the same manner as if I had named them one by one. The word friend does not often occur in the New Testament, being swallowed up in the more endearing one of brother.\n\nClose the letter like 2 John 12–13. Named people, peace, no extra fight. The household of the truth has names.",
-      "reformedNotes": "Peace to you; friends greet; greet the friends by name. Calvin did not comment the line. The close is personal, as 2 John ended with the elect sister’s children.\n\nBoth traditions take this line the same way. Peace is the last word over a letter that had to name Diotrephes. By name keeps the church a set of faces, not a machine."
+      "text": "but I hope to see you soon. Then we will speak face to face. Peace be to you. The friends greet you. Greet the friends by name.",
+      "arminianNotes": "Hope to see you soon. Then talk face to face. Wesley’s 2 John parallel: not minded to write only these needful things when coming is better.\n\nThere is nothing here to argue over. Face to face is how the elder will also “remember” Diotrephes’s deeds (v. 10). Joy and order both wait on the visit.\n\nThe last lines also give peace and greet the friends by name. Wesley notes that “friend” is rarer in the New Testament than “brother,” and that greeting by name is as if each had been named.",
+      "reformedNotes": "The coming of v. 10 and the talk of v. 14 are one visit: presence for Gaius, and presence that will not leave Diotrephes’s deeds unspoken.\n\nBoth readings: close like 2 John. Paper is stopgap. No extra fight.\n\nPeace, and friends greeted by name, close the letter personally, as 2 John ended with the elect sister’s children. Both traditions take the close the same way: peace is the last word over a letter that had to name Diotrephes."
     }
   ]
 }
