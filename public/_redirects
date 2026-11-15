@@ -71,6 +71,16 @@
 /revelation        /bible/revelation/        301
 /revelation/*      /bible/revelation/:splat  301
 
+/leviticus         /bible/leviticus/  301
+/leviticus/*       /bible/leviticus/:splat 301
+/numbers           /bible/numbers/  301
+/numbers/*         /bible/numbers/:splat 301
+/deuteronomy       /bible/deuteronomy/  301
+/deuteronomy/*     /bible/deuteronomy/:splat 301
+
+# Renamed passage units
+/bible/3-john/1/9-15  /bible/3-john/1/9-14  301
+
 # Doctrine / attribute aliases
 /doctrine           /doctrines/           301
 /doctrine/          /doctrines/           301
