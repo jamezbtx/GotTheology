@@ -1,0 +1,55 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 31,
+  "verseStart": 24,
+  "verseEnd": 30,
+  "translation": "WEB",
+  "title": "Deuteronomy 31:24–30",
+  "context": "Moses finishes writing the law in a book and has the Levites place it beside the ark as a witness against Israel. Expecting rebellion after his death, he gathers the leaders, calls heaven and earth as witnesses, and recites the Song in the hearing of the whole assembly.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 24,
+      "text": "When Moses had finished writing the words of this law in a book, until they were finished,",
+      "arminianNotes": "Moses finishes writing the words of the law in a book. Arminian readers see the completion of a written record for future generations to consult.",
+      "reformedNotes": "Reformed readers likewise see God’s word fixed in written form. The phrase “until they were finished” emphasizes the completeness of the record. What Moses taught aloud now has a lasting written witness."
+    },
+    {
+      "number": 25,
+      "text": "Moses commanded the Levites, who bore the ark of the LORD’s covenant, saying,",
+      "arminianNotes": "Moses commands the Levites who carry the ark. Arminian readers see the custodians of the ark entrusted with the book as well. Those who carry the ark are trusted with the book that explains the covenant.",
+      "reformedNotes": "Reformed readers likewise see the Levites appointed to guard what God has given. The verse prepares for the book’s placement beside the ark. The book and the ark will be kept side by side."
+    },
+    {
+      "number": 26,
+      "text": "“Take this book of the law, and put it by the side of the ark of the LORD your God’s covenant, that it may be there for a witness against you.",
+      "arminianNotes": "The book is placed beside the ark as a witness against Israel. Arminian readers see the law standing as a reminder of covenant obligations Israel freely accepted.",
+      "reformedNotes": "Reformed readers likewise see the written law as a standing witness. Its placement beside the ark links the book closely with God’s covenant presence. The book speaks even when Moses is gone."
+    },
+    {
+      "number": 27,
+      "text": "For I know your rebellion and your stiff neck. Behold, while I am yet alive with you today, you have been rebellious against the LORD. How much more after my death?",
+      "arminianNotes": "Moses says, “I know your rebellion and your stiff neck,” and expects worse after his death. Arminian readers see a realistic assessment of Israel’s track record.",
+      "reformedNotes": "Reformed readers likewise see Moses naming the persistent sinfulness of the people. His words draw on long experience of Israel’s rebellions in the wilderness. His realism is pastoral, not cynical."
+    },
+    {
+      "number": 28,
+      "text": "Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears, and call heaven and earth to witness against them.",
+      "arminianNotes": "Moses asks for the elders and officers to gather so he can call heaven and earth as witnesses. Arminian readers see a formal covenant setting with solemn witnesses.",
+      "reformedNotes": "Reformed readers likewise see heaven and earth invoked as witnesses, a pattern found elsewhere in Deuteronomy. The gathering prepares for the recitation of the Song."
+    },
+    {
+      "number": 29,
+      "text": "For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do that which is evil in the LORD’s sight, to provoke him to anger through the work of your hands.”",
+      "arminianNotes": "Moses says, “I know that after my death you will utterly corrupt yourselves,” and evil will come in the latter days. Arminian readers see a prophetic warning meant to stir repentance.",
+      "reformedNotes": "Reformed readers likewise see Moses foretelling Israel’s corruption and its consequences. The warning and the coming Song both aim to make Israel accountable for its choices."
+    },
+    {
+      "number": 30,
+      "text": "Moses spoke in the ears of all the assembly of Israel the words of this song, until they were finished.",
+      "arminianNotes": "Moses speaks the words of the Song in the ears of the whole assembly. Arminian readers see the Song delivered publicly so all hear the warning and the hope it contains.",
+      "reformedNotes": "Reformed readers likewise see the Song given to the entire community. The verse introduces chapter 32 as Moses’ spoken witness to Israel. Everyone hears the same Song and its warning."
+    }
+  ]
+}

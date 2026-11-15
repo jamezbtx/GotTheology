@@ -1,0 +1,85 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 11,
+  "verseStart": 4,
+  "verseEnd": 15,
+  "translation": "WEB",
+  "title": "Numbers 11:4–15",
+  "context": "The mixed multitude and then Israel crave meat, remembering Egypt’s food and despising the manna God gives each day. The narrator pauses to describe the manna’s worth, and then Moses pours out an honest, even desperate, complaint to God about the burden of leading this people alone. The section contrasts grumbling against God with lament addressed to him. Arminian and Reformed readers largely share its lessons about ingratitude, memory, and the limits of human leadership.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 4,
+      "text": "The mixed multitude that was among them lusted exceedingly; and the children of Israel also wept again, and said, “Who will give us meat to eat?",
+      "arminianNotes": "The mixed multitude craves, and Israel weeps again, asking, “Who will give us meat to eat?” The ‘mixed multitude’ recalls the non-Israelites who left Egypt with them (Exodus 12:38).\n\nArminian readers see how desire spreads through a community. Influence matters, and people remain responsible for following it.",
+      "reformedNotes": "Craving begins at the edges and spreads to all Israel. The complaint questions God’s provision.\n\nReformed readers see the restlessness of the human heart even after redemption. Both traditions agree that the craving is the issue, not the wish for food itself."
+    },
+    {
+      "number": 5,
+      "text": "We remember the fish, which we ate in Egypt for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic;",
+      "arminianNotes": "The people remember Egypt’s fish, cucumbers, melons, leeks, onions, and garlic, eaten “for nothing.” Memory is selective; slavery is forgotten.\n\nArminian readers see the danger of romanticising the past. Nostalgia can turn people away from God’s present guidance.",
+      "reformedNotes": "The menu is vivid, but the claim that it was free ignores their bondage. Distorted memory feeds discontent.\n\nReformed readers see sin twisting perception of God’s goodness. Both traditions read this as a pastoral warning about forgetting what God has delivered his people from."
+    },
+    {
+      "number": 6,
+      "text": "but now we have lost our appetite. There is nothing at all except this manna to look at.”",
+      "arminianNotes": "“There is nothing at all except this manna to look at.” God’s daily gift has become boring to them.\n\nArminian readers see ingratitude growing where wonder fades. The people still choose how they regard God’s gifts.",
+      "reformedNotes": "Manna was a miracle given each day, yet they despise it. Familiarity breeds contempt.\n\nReformed readers see the heart’s tendency to undervalue grace. Both traditions note that Jesus later speaks of himself as the true bread from heaven (John 6), as shared ground."
+    },
+    {
+      "number": 7,
+      "text": "The manna was like coriander seed, and it looked like bdellium.",
+      "arminianNotes": "The narrator describes manna as like coriander seed, looking like bdellium. The WEB footnotes bdellium as a resin from certain African trees.\n\nArminian readers see the narrator quietly answering the complaint by describing the gift’s worth.",
+      "reformedNotes": "The narrator pauses to describe the manna. The description contrasts with the people’s scorn.\n\nReformed readers see the text honouring what the people despised. Both traditions read this aside as shared ground: God’s provision is good even when unappreciated."
+    },
+    {
+      "number": 8,
+      "text": "The people went around, gathered it, and ground it in mills, or beat it in mortars, and boiled it in pots, and made cakes of it. Its taste was like the taste of fresh oil.",
+      "arminianNotes": "People gathered, ground, pounded, boiled, and baked the manna; it tasted like fresh oil. It was versatile and nourishing.\n\nArminian readers see that the gift invited effort and creativity. Provision and human work go together.",
+      "reformedNotes": "The detail shows manna was not dull but adaptable. Their complaint was unjust.\n\nReformed readers see God’s generosity exceeding the people’s gratitude. Both traditions share this reading of the narrator’s gentle rebuke of their complaint."
+    },
+    {
+      "number": 9,
+      "text": "When the dew fell on the camp in the night, the manna fell on it.",
+      "arminianNotes": "The manna fell with the dew at night. God’s provision came quietly and reliably.\n\nArminian readers see daily faithfulness that invites daily trust. Each morning the people had fresh evidence of God’s care, and each morning they could respond with gratitude or complaint.",
+      "reformedNotes": "Manna arrived each night without fail. The rhythm teaches dependence.\n\nReformed readers see God’s steady providence sustaining his people. Both traditions agree that the regularity of the gift is a lesson in trust, echoed in Jesus’ prayer for daily bread."
+    },
+    {
+      "number": 10,
+      "text": "Moses heard the people weeping throughout their families, every man at the door of his tent; and the LORD’s anger burned greatly; and Moses was displeased.",
+      "arminianNotes": "Weeping spreads through every family at their tent doors. The LORD is very angry, and Moses is displeased.\n\nArminian readers see a community-wide choice to complain. Both God and Moses respond honestly to it.",
+      "reformedNotes": "The scene is public and widespread. God’s anger is just, and Moses’ displeasure is understandable.\n\nReformed readers see the seriousness of corporate unbelief. Both traditions read Moses’ reaction as a human response that leads into his own honest complaint to God."
+    },
+    {
+      "number": 11,
+      "text": "Moses said to the LORD, “Why have you treated your servant so badly? Why haven’t I found favor in your sight, that you lay the burden of all this people on me?",
+      "arminianNotes": "Moses asks God why he has treated his servant badly by laying this whole people on him. He speaks bluntly to God.\n\nArminian readers see a real relationship in which honest complaint is allowed. Moses’ frustration is not hidden.",
+      "reformedNotes": "Moses brings his burden directly to God. His complaint differs from the people’s because he speaks to God rather than against him.\n\nReformed readers see lament as faithful when it turns toward God. Both traditions value this as a model of honest prayer."
+    },
+    {
+      "number": 12,
+      "text": "Have I conceived all this people? Have I brought them out, that you should tell me, ‘Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers’?",
+      "arminianNotes": "Moses asks whether he conceived or birthed this people, that he should carry them like a nursing infant. The imagery is maternal.\n\nArminian readers see Moses feeling the weight of leadership. The image hints that God, not Moses, is the true parent of Israel.",
+      "reformedNotes": "Moses protests that Israel is not his child. The implication is that they are God’s.\n\nReformed readers see God as the one who bears his people. Both traditions read the parental imagery as shared ground about God’s care, which Moses cannot replace."
+    },
+    {
+      "number": 13,
+      "text": "Where could I get meat to give all these people? For they weep before me, saying, ‘Give us meat, that we may eat.’",
+      "arminianNotes": "Moses asks where he could find meat for all these people. The demand overwhelms him.\n\nArminian readers see the honest limits of a human leader. Moses cannot meet the need alone.",
+      "reformedNotes": "Moses confesses his inability. The question sets up God’s answer.\n\nReformed readers see human insufficiency making room for divine provision. Both traditions agree that leaders are not meant to carry what only God can provide, a theme that runs through the chapter."
+    },
+    {
+      "number": 14,
+      "text": "I am not able to bear all this people alone, because it is too heavy for me.",
+      "arminianNotes": "“I am not able to bear all this people alone.” Moses names his exhaustion plainly.\n\nArminian readers see God welcoming honest admission of weakness. The response will be shared leadership.",
+      "reformedNotes": "Moses admits the burden is too heavy. God will answer by sharing the Spirit with others.\n\nReformed readers see God’s care for his servants as well as his people. Both traditions read this as shared ground about leadership, burnout, and the need for community."
+    },
+    {
+      "number": 15,
+      "text": "If you treat me this way, please kill me right now, if I have found favor in your sight; and don’t let me see my wretchedness.”",
+      "arminianNotes": "Moses asks God to kill him rather than let him see his wretchedness. His despair is real.\n\nArminian readers see that faithful servants can reach the end of their strength. God does not rebuke Moses here; he provides help.",
+      "reformedNotes": "Moses’ prayer is extreme but honest. Similar despair appears later in Elijah (1 Kings 19:4).\n\nReformed readers see God’s patience with his weary servant. Both traditions read this pastorally: deep discouragement is met with provision, not condemnation."
+    }
+  ]
+}

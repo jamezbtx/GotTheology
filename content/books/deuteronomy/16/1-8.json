@@ -1,0 +1,61 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 16,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "WEB",
+  "title": "Deuteronomy 16:1–8",
+  "context": "Deuteronomy 16:1–8 commands Passover and the Feast of Unleavened Bread in the month of Abib, in memory of the night the LORD brought Israel out of Egypt. The new emphasis in Deuteronomy is that the Passover must be sacrificed at the place the LORD chooses for his name, not in any town. Arminian and Reformed readers agree that the feast is a memorial of redemption that shapes the people’s identity, and the New Testament presents Christ as the Passover lamb (1 Corinthians 5:7).",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Observe the month of Abib, and keep the Passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night.",
+      "arminianNotes": "Keep the Passover in Abib, for in that month the LORD brought you out of Egypt by night. Arminians see a yearly call to remember God’s saving act and respond with grateful worship.",
+      "reformedNotes": "Reformed interpreters agree that the feast rehearses God’s redemption. Both traditions see the Passover fulfilled in Christ (1 Corinthians 5:7) and agree on the verse."
+    },
+    {
+      "number": 2,
+      "text": "You shall sacrifice the Passover to the LORD your God, of the flock and the herd, in the place which the LORD shall choose to cause his name to dwell there.",
+      "arminianNotes": "Sacrifice the Passover from flock and herd at the place God chooses. Arminians see worship centered where God places his name.",
+      "reformedNotes": "Reformed readers agree. Both traditions note that Exodus 12:5 specifies a lamb or goat, and interpreters explain ‘herd’ here in different ways, for example as including the related festival offerings."
+    },
+    {
+      "number": 3,
+      "text": "You shall eat no leavened bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.",
+      "arminianNotes": "Eat unleavened bread seven days, the ‘bread of affliction’, remembering the haste of the exodus. Arminians see the meal as a lifelong reminder of God’s rescue.",
+      "reformedNotes": "Reformed interpreters agree that the feast trains memory and gratitude. Both traditions note that Paul applies unleavened bread to sincerity and truth (1 Corinthians 5:8)."
+    },
+    {
+      "number": 4,
+      "text": "No yeast shall be seen with you in all your borders seven days; neither shall any of the meat, which you sacrifice the first day at evening, remain all night until the morning.",
+      "arminianNotes": "No yeast for seven days, and no Passover meat left until morning. Arminians see careful obedience marking the feast as holy.",
+      "reformedNotes": "Reformed readers agree. Both traditions see the rule as continuing the pattern of Exodus 12:10 and agree on the verse. The ban on yeast throughout Israel’s borders extends the rule from the household to the whole land."
+    },
+    {
+      "number": 5,
+      "text": "You may not sacrifice the Passover within any of your gates which the LORD your God gives you;",
+      "arminianNotes": "The Passover may not be sacrificed in any town. Arminians see God gathering his people together rather than leaving worship scattered.",
+      "reformedNotes": "Reformed interpreters agree that the law centralizes Passover worship. Both traditions note this as a distinctive emphasis of Deuteronomy (compare chapter 12)."
+    },
+    {
+      "number": 6,
+      "text": "but at the place which the LORD your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.",
+      "arminianNotes": "Sacrifice it at the chosen place, at evening, at the time of the exodus. Arminians see the timing as drawing worshipers into the original story.",
+      "reformedNotes": "Reformed readers agree that the feast reenacts the night of deliverance. Both traditions agree on the meaning of the verse."
+    },
+    {
+      "number": 7,
+      "text": "You shall roast and eat it in the place which the LORD your God chooses. In the morning you shall return to your tents.",
+      "arminianNotes": "Roast and eat it at the chosen place, and return to your tents in the morning. Arminians accept the WEB rendering, which agrees with Exodus 12:9.",
+      "reformedNotes": "Reformed interpreters note that the Hebrew verb here is often rendered cook or boil in other passages, and that 2 Chronicles 35:13 seems to combine both ideas. Both traditions treat this as a translation question that does not affect the verse’s teaching."
+    },
+    {
+      "number": 8,
+      "text": "Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to the LORD your God. You shall do no work.",
+      "arminianNotes": "Six days of unleavened bread, then a solemn assembly on the seventh with no work. Arminians see the feast closing in worship and rest.",
+      "reformedNotes": "Reformed readers agree. Both traditions note that the seven days together form the Feast of Unleavened Bread and agree on the verse."
+    }
+  ]
+}

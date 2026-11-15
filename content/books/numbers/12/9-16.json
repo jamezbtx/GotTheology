@@ -1,0 +1,61 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 12,
+  "verseStart": 9,
+  "verseEnd": 16,
+  "translation": "WEB",
+  "title": "Numbers 12:9–16",
+  "context": "God’s anger burns and the cloud departs, leaving Miriam with a skin disease as a specific judgment in this narrative, not a general rule about illness. Aaron confesses, Moses intercedes for the sister who opposed him, and God sets a limited seven-day exclusion followed by restoration, while the camp waits for her. The people then move on to Paran, where the spy narrative begins. Both traditions read the passage as discipline tempered by mercy, with Moses’ intercession pointing ahead to Christ.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 9,
+      "text": "The LORD’s anger burned against them; and he departed.",
+      "arminianNotes": "The LORD’s anger burns against them, and he departs. God’s withdrawal is itself serious.\n\nArminian readers see God’s displeasure as a real response to the challenge against Moses. Words spoken against his servant matter to him.",
+      "reformedNotes": "The departure of God’s presence signals judgment. The hearing is over.\n\nReformed readers see God’s holiness offended by the attack on his servant. Both traditions read this as shared ground and note that the consequences follow immediately."
+    },
+    {
+      "number": 10,
+      "text": "The cloud departed from over the Tent; and behold, Miriam was leprous, as white as snow. Aaron looked at Miriam, and behold, she was leprous.",
+      "arminianNotes": "As the cloud departs, Miriam is leprous, white as snow. Aaron sees it. In this narrative the skin disease is a specific judgment.\n\nArminian readers note that this does not mean all skin disease is punishment; Leviticus 13–15 treats such conditions as ritual, not moral.",
+      "reformedNotes": "Miriam is struck, perhaps as the one who led the challenge, though the text does not say why Aaron is spared. Interpreters offer different explanations.\n\nReformed readers likewise distinguish this particular judgment from illness generally. Both traditions read it carefully without generalising."
+    },
+    {
+      "number": 11,
+      "text": "Aaron said to Moses, “Oh, my lord, please don’t count this sin against us, in which we have done foolishly, and in which we have sinned.",
+      "arminianNotes": "Aaron turns to Moses, calling him “my lord,” and asks him not to hold this sin against them. He confesses they acted foolishly.\n\nArminian readers see genuine repentance prompted by consequences. Aaron recognises Moses’ role.",
+      "reformedNotes": "Aaron confesses sin and appeals to the brother he challenged. The reversal is striking.\n\nReformed readers see God humbling those who exalted themselves. Both traditions read this as shared ground about confession and the restoration of right relationships."
+    },
+    {
+      "number": 12,
+      "text": "Let her not, I pray, be as one dead, of whom the flesh is half consumed when he comes out of his mother’s womb.”",
+      "arminianNotes": "Aaron pleads that Miriam not be like a stillborn child whose flesh is half consumed. His plea is anguished.\n\nArminian readers see family love and urgency in intercession. Aaron cannot heal his sister, so he appeals for mercy.",
+      "reformedNotes": "The image is vivid and painful. Aaron asks for mercy for his sister.\n\nReformed readers see the severity of judgment and the need for mercy. Both traditions read the verse pastorally, recognising grief that turns to prayer rather than resentment."
+    },
+    {
+      "number": 13,
+      "text": "Moses cried to the LORD, saying, “Heal her, God, I beg you!”",
+      "arminianNotes": "Moses cries to the LORD, “Heal her, God, I beg you!” The one who was attacked prays for his attacker.\n\nArminian readers see Moses’ humility in action. He intercedes rather than gloats.",
+      "reformedNotes": "Moses’ prayer is short and urgent. He seeks healing for Miriam.\n\nReformed readers see a mediator foreshadowing Christ, who prayed for those who wronged him (Luke 23:34). Both traditions treat Moses’ intercession here as clear shared ground."
+    },
+    {
+      "number": 14,
+      "text": "The LORD said to Moses, “If her father had but spit in her face, shouldn’t she be ashamed seven days? Let her be shut up outside of the camp seven days, and after that she shall be brought in again.”",
+      "arminianNotes": "God answers that if her father had spat in her face, she would be ashamed seven days; she must be shut outside the camp seven days, then brought back. Discipline is limited.\n\nArminian readers see judgment tempered by mercy and a promised restoration.",
+      "reformedNotes": "God grants a measured outcome: a week outside the camp, then return. The comparison to a father’s rebuke stresses shame, not destruction.\n\nReformed readers see fatherly discipline with restoration in view (compare Hebrews 12:5–11). Both traditions share this reading."
+    },
+    {
+      "number": 15,
+      "text": "Miriam was shut up outside of the camp seven days, and the people didn’t travel until Miriam was brought in again.",
+      "arminianNotes": "Miriam is shut out seven days, and the people do not travel until she is brought back. The whole camp waits for her.\n\nArminian readers see the community honouring Miriam even in discipline.",
+      "reformedNotes": "The camp does not move without her. Her restoration matters to all.\n\nReformed readers see God’s mercy and the community’s solidarity. Both traditions read this as a quietly hopeful ending: discipline leads to restoration, and Miriam remains part of God’s people."
+    },
+    {
+      "number": 16,
+      "text": "Afterward the people traveled from Hazeroth, and encamped in the wilderness of Paran.",
+      "arminianNotes": "Afterward the people travel from Hazeroth and camp in the wilderness of Paran. The journey resumes.\n\nArminian readers see God leading on after conflict and restoration. Paran becomes the base for sending the spies in chapter 13.",
+      "reformedNotes": "The itinerary moves forward. The next major test, the spying of Canaan, begins from Paran.\n\nReformed readers see God’s purposes continuing despite failures. Both traditions share this reading of God’s faithfulness carrying his people onward."
+    }
+  ]
+}

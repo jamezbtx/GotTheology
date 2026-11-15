@@ -1,0 +1,61 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 23,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "WEB",
+  "title": "Deuteronomy 23:1–8",
+  "context": "Deuteronomy 23 begins with rules about who may enter ‘the LORD’s assembly,’ Israel gathered as a worshiping covenant community. Certain categories are excluded, Ammon and Moab for their hostility on the journey, while Edomites and Egyptians may enter in the third generation. These boundaries belong to Israel’s historical setting. Later Scripture shows God’s welcome widening: Ruth the Moabite, the promise to eunuchs in Isaiah 56, and the Ethiopian eunuch in Acts 8. Both traditions read the passage respectfully and see this widening as shared ground.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "He who is emasculated by crushing or cutting shall not enter into the LORD’s assembly.",
+      "arminianNotes": "A man who has been emasculated may not enter the LORD’s assembly. The assembly here is Israel gathered as God’s worshiping community, and the rule concerns that formal gathering.\n\nArminian readers note the law’s concern with bodily wholeness in Israel’s worship, while Isaiah 56:3–5 later promises eunuchs a place and name in God’s house.",
+      "reformedNotes": "The reason for the rule is not stated; interpreters often connect it with wholeness in the sanctuary or with pagan practices, but the text is brief.\n\nReformed readers likewise point to Isaiah 56 and the Ethiopian eunuch’s baptism (Acts 8:27–38). Both traditions see the gospel’s welcome here as shared ground."
+    },
+    {
+      "number": 2,
+      "text": "A person born of a forbidden union shall not enter into the LORD’s assembly; even to the tenth generation shall no one of his enter into the LORD’s assembly.",
+      "arminianNotes": "A person born of a forbidden union may not enter the assembly, even to the tenth generation. The exact meaning of the Hebrew term behind ‘forbidden union’ is uncertain.\n\nArminian readers handle this carefully: the rule addresses Israel’s covenant boundaries, not the personal worth of a child before God.",
+      "reformedNotes": "Interpreters differ on which unions are meant. The text does not specify.\n\nReformed readers likewise avoid overclaiming. Both traditions read the verse in its historical setting and affirm that in Christ no one is excluded by the circumstances of their birth, as shared ground."
+    },
+    {
+      "number": 3,
+      "text": "An Ammonite or a Moabite shall not enter into the LORD’s assembly; even to the tenth generation shall no one belonging to them enter into the LORD’s assembly forever,",
+      "arminianNotes": "Ammonites and Moabites may not enter the assembly, even to the tenth generation. The reason follows in verses 4–5.\n\nArminian readers note that Ruth the Moabite was welcomed into Israel and became an ancestor of David (Ruth 4:13–22), showing that faith could cross these lines.",
+      "reformedNotes": "The ban is strong, and Nehemiah 13:1–3 later applies it. Yet Ruth’s story shows God’s grace reaching a Moabite who trusted him.\n\nReformed readers see both the seriousness of the covenant boundary and God’s freedom in mercy. Both traditions hold these together as shared ground."
+    },
+    {
+      "number": 4,
+      "text": "because they didn’t meet you with bread and with water on the way when you came out of Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to curse you.",
+      "arminianNotes": "The reason: Ammon and Moab did not meet Israel with bread and water, and Moab hired Balaam to curse them. Hostility to God’s people is named.\n\nArminian readers see the exclusion tied to specific national conduct, not ethnicity alone. The story of Balaam is told in Numbers 22–24.",
+      "reformedNotes": "The ban responds to historical actions against Israel. Withholding help and seeking a curse are both condemned.\n\nReformed readers see God taking seriously how nations treat his people. Both traditions read this as shared ground, grounded in the events of Israel’s journey."
+    },
+    {
+      "number": 5,
+      "text": "Nevertheless the LORD your God wouldn’t listen to Balaam, but the LORD your God turned the curse into a blessing to you, because the LORD your God loved you.",
+      "arminianNotes": "God would not listen to Balaam but turned the curse into a blessing, because he loved Israel. The point is God’s love, not Israel’s merit.\n\nArminian readers see God’s faithful love protecting his people against hostile plans.",
+      "reformedNotes": "God overruled Balaam’s intended curse. His love for Israel is the stated reason.\n\nReformed readers see God’s sovereign covenant love at work, as Nehemiah 13:2 also recalls. Both traditions treat God’s turning curse into blessing as clear shared ground."
+    },
+    {
+      "number": 6,
+      "text": "You shall not seek their peace nor their prosperity all your days forever.",
+      "arminianNotes": "Israel must not seek Ammon and Moab’s peace or prosperity forever. The language is formal and covenantal.\n\nArminian readers read this as a national treaty stance in Israel’s setting, not a command for personal hatred, and note Jesus’ command to love enemies (Matthew 5:44).",
+      "reformedNotes": "The verse can be read as concerning formal alliances rather than personal attitudes. The setting is Israel’s life among the nations.\n\nReformed readers likewise read it in its historical context and see the gospel calling believers to love and pray for enemies. Both traditions share this reading."
+    },
+    {
+      "number": 7,
+      "text": "You shall not abhor an Edomite, for he is your brother. You shall not abhor an Egyptian, because you lived as a foreigner in his land.",
+      "arminianNotes": "Israel must not abhor an Edomite, for he is a brother, nor an Egyptian, because Israel lived in his land. Kinship and memory shape attitudes.\n\nArminian readers see gratitude and family ties honored even after conflict. Edom descended from Esau, Jacob’s brother.",
+      "reformedNotes": "Edom is a brother nation; Egypt once hosted Israel, despite the later oppression. Both receive a measure of welcome.\n\nReformed readers see God tempering Israel’s memory with fairness. Both traditions read this as shared ground about remembering both kindness and kinship."
+    },
+    {
+      "number": 8,
+      "text": "The children of the third generation who are born to them may enter into the LORD’s assembly.",
+      "arminianNotes": "The third generation of Edomites and Egyptians may enter the assembly. Their inclusion is gradual but real.\n\nArminian readers see God’s openness to outsiders becoming part of his people over time.",
+      "reformedNotes": "The rule contrasts with the tenth-generation ban in verse 3. Edom and Egypt are treated more generously.\n\nReformed readers see God’s purpose of drawing the nations into his people, which the New Testament completes in Christ. Both traditions share this reading as an anticipation of the gospel’s wider welcome."
+    }
+  ]
+}

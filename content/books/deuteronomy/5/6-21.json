@@ -1,0 +1,109 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 5,
+  "verseStart": 6,
+  "verseEnd": 21,
+  "translation": "WEB",
+  "title": "Deuteronomy 5:6–21",
+  "context": "Moses repeats the Ten Commandments written on two stone tablets (Deuteronomy 4:13), with small differences from Exodus 20, most notably that the Sabbath is grounded here in Israel’s release from slavery rather than in creation. The commandments open with God’s self-introduction as the LORD who redeemed Israel from bondage, so obedience is a response to grace, not a way of earning it. Christian traditions number the commandments differently: many Protestants, including most Arminian and Reformed churches, count 5:7 and 5:8–10 as separate commandments, while Lutheran and Roman Catholic practice combines them and divides the coveting command in 5:21, and Jewish tradition counts 5:6 as the first word. Arminian and Reformed readers generally share a rich common reading of the Decalogue as a summary of God’s moral will, fulfilled in love (Romans 13:9–10) and deepened by Jesus (Matthew 5:21–28). Their main internal discussions, such as how the Sabbath applies to the Lord’s day, run within each tradition rather than between them.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 6,
+      "text": "“I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.",
+      "arminianNotes": "Arminian readers see the commandments grounded in grace: before any command, God declares that he redeemed Israel from bondage. Obedience answers deliverance already given.",
+      "reformedNotes": "Reformed readers likewise emphasize that the law is given to a redeemed people, so it serves as a guide for grateful living rather than a ladder to salvation. Both traditions commonly treat this verse as the key to reading the whole Decalogue."
+    },
+    {
+      "number": 7,
+      "text": "“You shall have no other gods before me.",
+      "arminianNotes": "Arminian readers see the first commandment as a call to undivided loyalty, which every person is responsible to give. No rival may share God’s place.",
+      "reformedNotes": "Reformed readers see exclusive worship of the one true God as the foundation of all other obedience. Readers in both traditions commonly apply the command to anything that takes God’s place in the heart."
+    },
+    {
+      "number": 8,
+      "text": "“You shall not make a carved image for yourself—any likeness of what is in heaven above, or what is on the earth beneath, or that is in the water under the earth.",
+      "arminianNotes": "Arminian readers see the ban on carved images as guarding the worship of the invisible God from distortion. God is not to be reduced to something people make.",
+      "reformedNotes": "Reformed readers, who generally count this as the second commandment, see it as governing how God is worshiped, not only whom. Both traditions commonly read it as forbidding idols and man-made representations used as objects of worship, with some internal diversity on how far it applies to religious art."
+    },
+    {
+      "number": 9,
+      "text": "You shall not bow yourself down to them, nor serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on the children and on the third and on the fourth generation of those who hate me",
+      "arminianNotes": "Arminian readers note that the iniquity visited on later generations is linked to “those who hate me,” showing that each generation’s response matters. God’s jealousy is the protective love of a covenant partner.",
+      "reformedNotes": "Reformed readers see God’s jealousy as his rightful zeal for his own glory and his people’s faithfulness. Readers in both traditions generally read the verse as describing the long reach of sin in families, without teaching that children are punished for sins they reject (compare Ezekiel 18)."
+    },
+    {
+      "number": 10,
+      "text": "and showing loving kindness to thousands of those who love me and keep my commandments.",
+      "arminianNotes": "Arminian readers rejoice that God’s loving kindness to thousands far outweighs his judgment. His mercy is broad and generous toward those who love him.",
+      "reformedNotes": "Reformed readers see the contrast between three or four generations and thousands as highlighting the abundance of God’s covenant love. Both traditions commonly see love and obedience joined in this verse (compare John 14:15)."
+    },
+    {
+      "number": 11,
+      "text": "“You shall not misuse the name of the LORD your God; for the LORD will not hold him guiltless who misuses his name.",
+      "arminianNotes": "Arminian readers see the command not to misuse God’s name as calling for reverence in speech and in how people represent him. The WEB footnote gives the traditional rendering, “take the name of the LORD your God in vain.”",
+      "reformedNotes": "Reformed readers likewise read the command broadly, covering false oaths, empty speech and conduct that dishonors God’s name. Readers in both traditions commonly see the warning that the LORD will not hold the offender guiltless as underlining its seriousness."
+    },
+    {
+      "number": 12,
+      "text": "“Observe the Sabbath day, to keep it holy, as the LORD your God commanded you.",
+      "arminianNotes": "Arminian readers note that Deuteronomy says “observe” where Exodus says “remember,” calling for active keeping of the Sabbath. The day is to be set apart for the LORD.",
+      "reformedNotes": "Reformed readers see the Sabbath as God’s gift of holy rest. How the command applies to Christians is discussed within both traditions, with many observing the Lord’s day (compare Acts 20:7; Revelation 1:10) and others stressing Christ’s fulfillment of Sabbath rest (Colossians 2:16; Hebrews 4:9)."
+    },
+    {
+      "number": 13,
+      "text": "You shall labor six days, and do all your work;",
+      "arminianNotes": "Arminian readers see six days of labor as part of God’s good design for human life. Work is honored, not merely tolerated.",
+      "reformedNotes": "Reformed readers see the rhythm of work and rest as reflecting God’s ordering of time. Both traditions commonly read the verse as affirming the dignity of ordinary labor."
+    },
+    {
+      "number": 14,
+      "text": "but the seventh day is a Sabbath to the LORD your God, in which you shall not do any work—neither you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your ox, nor your donkey, nor any of your livestock, nor your stranger who is within your gates; that your male servant and your female servant may rest as well as you.",
+      "arminianNotes": "Arminian readers are struck by the breadth of the Sabbath rest, extending to servants, strangers and animals. God’s concern reaches the most vulnerable.",
+      "reformedNotes": "Reformed readers see in the phrase “that your male servant and your female servant may rest as well as you” a humane purpose built into the command. Readers in both traditions commonly see the Sabbath as protecting others from endless toil (compare Mark 2:27)."
+    },
+    {
+      "number": 15,
+      "text": "You shall remember that you were a servant in the land of Egypt, and the LORD your God brought you out of there by a mighty hand and by an outstretched arm. Therefore the LORD your God commanded you to keep the Sabbath day.",
+      "arminianNotes": "Arminian readers note that here the Sabbath is grounded in Israel’s rescue from slavery, while Exodus 20:11 grounds it in creation. Rest becomes a weekly reminder of deliverance.",
+      "reformedNotes": "Reformed readers see the two grounds as complementary, linking creation and redemption. Both traditions commonly see the Sabbath as a celebration of what God has done, with many Christians connecting it to rest in Christ."
+    },
+    {
+      "number": 16,
+      "text": "“Honor your father and your mother, as the LORD your God commanded you, that your days may be long and that it may go well with you in the land which the LORD your God gives you.",
+      "arminianNotes": "Arminian readers see honoring parents as a commandment with a promise attached (Ephesians 6:2–3). Family respect contributes to the life of the whole community.",
+      "reformedNotes": "Reformed readers see the command as establishing God-given authority and care within the home and beyond. Readers in both traditions commonly read the promise of long days as a general blessing tied to Israel’s life in the land."
+    },
+    {
+      "number": 17,
+      "text": "“You shall not murder.",
+      "arminianNotes": "Arminian readers see the command against murder as protecting the life God gives. Jesus deepens it to include anger and contempt (Matthew 5:21–22).",
+      "reformedNotes": "Reformed readers likewise read the command as forbidding unjust killing and requiring care for life. Both traditions commonly read the Hebrew verb as referring to unlawful killing rather than every taking of life."
+    },
+    {
+      "number": 18,
+      "text": "“You shall not commit adultery.",
+      "arminianNotes": "Arminian readers see the command against adultery as guarding marriage and trust. Jesus extends it to lustful desire (Matthew 5:27–28).",
+      "reformedNotes": "Reformed readers see the command as protecting the covenant of marriage and calling for purity of heart and conduct. Readers in both traditions commonly treat it as a lasting part of God’s moral will."
+    },
+    {
+      "number": 19,
+      "text": "“You shall not steal.",
+      "arminianNotes": "Arminian readers see the command against stealing as protecting what belongs to others. It calls for honesty and fairness in all dealings.",
+      "reformedNotes": "Reformed readers likewise see it as requiring respect for property and active care for others’ goods. Both traditions commonly read it as including fraud and exploitation as well as outright theft."
+    },
+    {
+      "number": 20,
+      "text": "“You shall not give false testimony against your neighbor.",
+      "arminianNotes": "Arminian readers see the command against false testimony as protecting justice and reputation. Words carry real weight before God and others.",
+      "reformedNotes": "Reformed readers see truthfulness as reflecting the God of truth. Readers in both traditions commonly apply the command to all speech that harms a neighbor’s name, not only courtroom testimony."
+    },
+    {
+      "number": 21,
+      "text": "“You shall not covet your neighbor’s wife. Neither shall you desire your neighbor’s house, his field, or his male servant, or his female servant, his ox, or his donkey, or anything that is your neighbor’s.”",
+      "arminianNotes": "Arminian readers see the final command as reaching the heart, forbidding desires that lead to wrongdoing. Deuteronomy lists the neighbor’s wife first and adds his field.",
+      "reformedNotes": "Reformed readers see the command against coveting as showing that God’s law addresses inner desire, which Paul says revealed sin to him (Romans 7:7). Both traditions commonly see here the law’s role in exposing the heart and pointing to the need for grace."
+    }
+  ]
+}

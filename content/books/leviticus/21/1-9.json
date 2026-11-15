@@ -1,0 +1,67 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 21,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "WEB",
+  "title": "Leviticus 21:1–9",
+  "context": "Leviticus 21 turns from the people to the priests, who served nearest to God’s presence and were held to stricter standards. The ordinary priests were not to make themselves unclean through contact with the dead except for close relatives, were not to adopt mourning rites such as cutting the flesh, and were to marry within defined limits. The repeated reason is that they offer the bread of their God and must not profane his name. Arminian and Reformed readers share the main lines of application: these ceremonial rules belonged to the Levitical priesthood, which Christ fulfills as the holy high priest (Hebrews 7:26), while all believers are now called a royal priesthood (1 Peter 2:9) and to holy living. Neither tradition applies the specific mourning and marriage rules to Christian ministers as such.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people,",
+      "arminianNotes": "Arminian readers see the restriction on priests touching the dead as linked to Israel’s purity system, in which death represented the opposite of the life of God’s presence. Priests served at the altar and needed to remain ceremonially clean.",
+      "reformedNotes": "Reformed readers see the priest’s separation from death as pointing to God as the living God. Both traditions agree that these ceremonial rules belonged to the Levitical priesthood."
+    },
+    {
+      "number": 2,
+      "text": "except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,",
+      "arminianNotes": "Arminian readers notice the compassionate exception for close relatives, allowing priests to mourn and bury their own. God’s holiness does not erase human grief.",
+      "reformedNotes": "Reformed readers see the exception as showing that ceremonial law took family love seriously. Both traditions agree that the verse balances holiness and natural affection."
+    },
+    {
+      "number": 3,
+      "text": "and for his virgin sister who is near to him, who has had no husband; for her he may defile himself.",
+      "arminianNotes": "Arminian readers see the inclusion of an unmarried sister as reflecting her dependence on her brother’s household. The priest could attend to her death because she had no husband to do so.",
+      "reformedNotes": "Reformed readers likewise see care for vulnerable family members built into the law. Both traditions agree that the detail reflects the family structures of ancient Israel."
+    },
+    {
+      "number": 4,
+      "text": "He shall not defile himself, being a chief man among his people, to profane himself.",
+      "arminianNotes": "Arminian readers see the priest as having a representative role among his people, so that his ceremonial purity mattered for others. The Hebrew of this verse is difficult, and translations differ on whether it speaks of a chief man or a husband.",
+      "reformedNotes": "Reformed readers likewise note the uncertain wording while agreeing on the main point: the priest must not profane himself. Both traditions hold the exact sense of the verse with caution."
+    },
+    {
+      "number": 5,
+      "text": "“ ‘They shall not shave their heads or shave off the corners of their beards or make any cuttings in their flesh.",
+      "arminianNotes": "Arminian readers see the ban on shaving the head, trimming the beard’s corners and cutting the flesh as setting priests apart in how they mourned, echoing rules already given to all Israel (compare 19:27–28). Grief is to be expressed in ways that honor God.",
+      "reformedNotes": "Reformed readers see the priests as models of the holiness required of all Israel. The precise background of these practices is debated, and both traditions read them as ceremonial rules not binding on Christians."
+    },
+    {
+      "number": 6,
+      "text": "They shall be holy to their God, and not profane the name of their God, for they offer the offerings of the LORD made by fire, the bread of their God. Therefore they shall be holy.",
+      "arminianNotes": "Arminian readers note the reason given: priests offer the bread of their God and must not profane his name. Their conduct reflects on the God they serve.",
+      "reformedNotes": "Reformed readers see the priests’ holiness as required by their nearness to God’s presence. Both traditions agree that those who lead in worship are called to lives that honor God’s name."
+    },
+    {
+      "number": 7,
+      "text": "“ ‘They shall not marry a woman who is a prostitute, or profane. A priest shall not marry a woman divorced from her husband; for he is holy to his God.",
+      "arminianNotes": "Arminian readers see the marriage restrictions as safeguarding the priest’s household and the honor of his office. The meaning of “profane” here is debated.",
+      "reformedNotes": "Reformed readers see these rules as specific to the Levitical priesthood. Both traditions agree that the verse is not a general rule about marriage for Christians, while recognizing that it reflected the holiness of the priestly calling."
+    },
+    {
+      "number": 8,
+      "text": "Therefore you shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I the LORD, who sanctify you, am holy.",
+      "arminianNotes": "Arminian readers note that the people are to treat the priest as holy, because he offers on their behalf. God himself is the one who sanctifies.",
+      "reformedNotes": "Reformed readers emphasize “I the LORD, who sanctify you, am holy,” seeing God as the source of all holiness. Both traditions agree that the verse grounds the priest’s holiness in God’s own."
+    },
+    {
+      "number": 9,
+      "text": "“ ‘The daughter of any priest, if she profanes herself by playing the prostitute, she profanes her father. She shall be burned with fire.",
+      "arminianNotes": "Arminian readers see the severe penalty for a priest’s daughter who profanes herself as showing how closely the priest’s household was tied to his office. The verse is hard, and it belongs to Israel’s covenant law.",
+      "reformedNotes": "Reformed readers likewise see the penalty as part of the civil and ceremonial order of Israel. Both traditions agree it is not applied in the church, and that the gospel offers cleansing to all who repent."
+    }
+  ]
+}

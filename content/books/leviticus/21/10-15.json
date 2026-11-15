@@ -1,0 +1,49 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 21,
+  "verseStart": 10,
+  "verseEnd": 15,
+  "translation": "WEB",
+  "title": "Leviticus 21:10–15",
+  "context": "These verses set out even stricter rules for the high priest, anointed with oil and clothed in the holy garments. He must not show the customary signs of mourning, must not go near any dead body even for his parents, must not leave the sanctuary to do so, and must marry a virgin of his own people. The rules underline that the high priest’s whole life was dedicated to representing the people before the holy God. Both traditions commonly read these requirements as pointing to Christ, the high priest who is holy, guiltless and undefiled (Hebrews 7:26), and both agree that they are not binding as rules on believers today. They largely share this reading and do not divide over it.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 10,
+      "text": "“ ‘He who is the high priest among his brothers, upon whose head the anointing oil is poured, and who is consecrated to put on the garments, shall not let the hair of his head hang loose, or tear his clothes.",
+      "arminianNotes": "Arminian readers see the high priest’s distinct consecration, marked by anointing oil and holy garments. He must not show the usual signs of grief (compare 10:6), because his role was to represent the people before God.",
+      "reformedNotes": "Reformed readers commonly see the high priest’s special anointing as pointing to Christ, the anointed high priest. Both traditions agree that the high priest’s office required extraordinary separation."
+    },
+    {
+      "number": 11,
+      "text": "He must not go in to any dead body, or defile himself for his father or for his mother.",
+      "arminianNotes": "Arminian readers note the striking command that the high priest may not approach even his parents’ bodies. It shows the cost of his calling.",
+      "reformedNotes": "Reformed readers see this as a sign that the high priest’s service to God took precedence over natural ties. Both traditions read this as ceremonial and not binding on believers."
+    },
+    {
+      "number": 12,
+      "text": "He shall not go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am the LORD.",
+      "arminianNotes": "Arminian readers see the instruction not to leave the sanctuary as emphasizing the high priest’s constant dedication. The anointing oil marks him as set apart.",
+      "reformedNotes": "Reformed readers see the crown of anointing oil as a sign of God’s claim on the high priest. Both traditions agree that the verse highlights his unique role and relationship to the sanctuary."
+    },
+    {
+      "number": 13,
+      "text": "“ ‘He shall take a wife in her virginity.",
+      "arminianNotes": "Arminian readers see the requirement that the high priest marry a virgin as reflecting the purity expected of his household. It is part of his distinct calling.",
+      "reformedNotes": "Reformed readers see the rule as part of the ceremonial law that set the high priest apart. Both traditions agree that it is not a rule for Christian marriage."
+    },
+    {
+      "number": 14,
+      "text": "He shall not marry a widow, or one divorced, or a woman who has been defiled, or a prostitute. He shall take a virgin of his own people as a wife.",
+      "arminianNotes": "Arminian readers see the list of excluded marriages as safeguarding the high priest’s line within his own people. The rule is stricter than for ordinary priests.",
+      "reformedNotes": "Reformed readers note that Ezekiel’s temple vision gives a related rule for priests (Ezekiel 44:22). Both traditions agree that these rules applied to the Levitical priesthood rather than to believers today."
+    },
+    {
+      "number": 15,
+      "text": "He shall not profane his offspring among his people, for I am the LORD who sanctifies him.’ ”",
+      "arminianNotes": "Arminian readers see concern for the high priest’s offspring, so that the priestly line remained holy. God is the one who sanctifies him.",
+      "reformedNotes": "Reformed readers see God’s sanctifying work as the foundation of the high priest’s holiness. Both traditions agree that the verse grounds the priestly rules in God’s own character."
+    }
+  ]
+}

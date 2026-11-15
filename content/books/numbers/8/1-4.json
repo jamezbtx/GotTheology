@@ -1,0 +1,37 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 8,
+  "verseStart": 1,
+  "verseEnd": 4,
+  "translation": "WEB",
+  "title": "Numbers 8:1–4",
+  "context": "Chapter 8 opens with a brief instruction to Aaron: when he sets up the seven lamps, they must shine in front of the lampstand. Aaron obeys, and the narrator notes that the lampstand was hammered from gold according to the pattern the LORD had shown Moses (Exodus 25:31–40). The light of the sanctuary is maintained as God commanded.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD spoke to Moses, saying,",
+      "arminianNotes": "The LORD speaks to Moses, introducing instructions for Aaron. Arminian readers note God’s continued guidance after the altar’s dedication. Both traditions agree that the transition from chapter 7 to 8 moves from the altar to the lampstand and the Levites.",
+      "reformedNotes": "Reformed readers note the steady pattern of divine speech that governs every aspect of the sanctuary. Shared ground: Israel’s worship is regulated by God’s word, and Moses relays it faithfully to Aaron."
+    },
+    {
+      "number": 2,
+      "text": "“Speak to Aaron, and tell him, ‘When you light the lamps, the seven lamps shall give light in front of the lamp stand.’ ”",
+      "arminianNotes": "Aaron is to set the seven lamps so that they light the area in front of the lampstand. Arminian readers see God providing light in his dwelling. Both traditions agree that the lampstand lit the holy place opposite the table (Exodus 26:35).",
+      "reformedNotes": "Reformed readers note that the light is directed forward, illuminating the holy place. Some see in the lampstand a picture of God’s presence giving light to his people, though the text does not explain it. Shared ground: the light is maintained as God commands."
+    },
+    {
+      "number": 3,
+      "text": "Aaron did so. He lit its lamps to light the area in front of the lamp stand, as the LORD commanded Moses.",
+      "arminianNotes": "Aaron obeys, lighting the lamps as the LORD commanded Moses. Arminian readers note the high priest’s willing obedience. Both traditions agree that obedience in small details reflects faithfulness in worship.",
+      "reformedNotes": "Reformed readers see the formula “as the LORD commanded” as emphasizing conformity to God’s word. Shared ground: Aaron’s obedience contrasts with the presumption of Nadab and Abihu (Leviticus 10:1), and worship proceeds as God directs."
+    },
+    {
+      "number": 4,
+      "text": "This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which the LORD had shown Moses.",
+      "arminianNotes": "The lampstand is hammered from gold according to the pattern God showed Moses. Arminian readers see craftsmanship devoted to God. Both traditions note the connection with the pattern shown on the mountain (Exodus 25:40), which Hebrews 8:5 treats as a copy and shadow of heavenly things.",
+      "reformedNotes": "Reformed readers see the pattern as divinely given, so that worship follows God’s design. Shared ground: the lampstand is made exactly as God instructed, and both traditions read the tabernacle in light of its fulfillment in Christ, as Hebrews teaches."
+    }
+  ]
+}

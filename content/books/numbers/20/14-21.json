@@ -1,0 +1,61 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 20,
+  "verseStart": 14,
+  "verseEnd": 21,
+  "translation": "WEB",
+  "title": "Numbers 20:14–21",
+  "context": "Moses asks the king of Edom, as Israel’s brother, for passage along the king’s highway, recounting God’s deliverance from Egypt and promising not to take anything. Edom refuses twice and comes out in force, and Israel turns away. Both traditions read the episode as Israel pursuing peace with a related people and refusing to answer threat with war.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 14,
+      "text": "Moses sent messengers from Kadesh to the king of Edom, saying: “Your brother Israel says: You know all the travail that has happened to us;",
+      "arminianNotes": "Moses sends messengers from Kadesh to the king of Edom, calling Israel his brother. Arminian readers see an appeal to kinship rooted in the relationship between Jacob and Esau.",
+      "reformedNotes": "Reformed readers likewise see the reminder of shared ancestry. Both traditions agree that the message seeks peaceful passage rather than conflict. Israel approaches Edom first as family, not as an enemy."
+    },
+    {
+      "number": 15,
+      "text": "how our fathers went down into Egypt, and we lived in Egypt a long time. The Egyptians mistreated us and our fathers.",
+      "arminianNotes": "The messengers recount Israel’s descent into Egypt and their mistreatment there. Arminian readers see Israel sharing its story to appeal for understanding from its relatives.",
+      "reformedNotes": "Reformed readers likewise see the history of suffering presented as context. Both traditions agree the account summarizes events narrated in Genesis and Exodus. Shared memory is offered as common ground."
+    },
+    {
+      "number": 16,
+      "text": "When we cried to the LORD, he heard our voice, sent an angel, and brought us out of Egypt. Behold, we are in Kadesh, a city in the edge of your border.",
+      "arminianNotes": "When Israel cried out, the LORD heard, sent an angel, and brought them out; now they are at Kadesh. Arminian readers see Israel testifying to God’s deliverance before a foreign king.",
+      "reformedNotes": "Reformed readers likewise see God’s saving acts declared to the nations. Both traditions agree the message frames Israel’s journey as God’s work, not merely a migration."
+    },
+    {
+      "number": 17,
+      "text": "“Please let us pass through your land. We will not pass through field or through vineyard, neither will we drink from the water of the wells. We will go along the king’s highway. We will not turn away to the right hand nor to the left, until we have passed your border.”",
+      "arminianNotes": "Israel promises to stay on the king’s highway without taking from fields, vineyards, or wells. Arminian readers see a respectful request that honors Edom’s property.",
+      "reformedNotes": "Reformed readers likewise see Israel seeking passage without harm. Both traditions agree the offer shows restraint and goodwill toward a related people. The promise is specific and limited, asking only for safe passage."
+    },
+    {
+      "number": 18,
+      "text": "Edom said to him, “You shall not pass through me, lest I come out with the sword against you.”",
+      "arminianNotes": "Edom refuses and threatens to come out with the sword. Arminian readers see a brother nation rejecting kinship and choosing hostility. The appeal to family ties is met with a threat of violence.",
+      "reformedNotes": "Reformed readers likewise see Edom’s refusal as a sad turn in the relationship between the two peoples. Both traditions note that later Scripture, such as Obadiah, addresses Edom’s treatment of Israel."
+    },
+    {
+      "number": 19,
+      "text": "The children of Israel said to him, “We will go up by the highway; and if we drink your water, I and my livestock, then I will give its price. Only let me, without doing anything else, pass through on my feet.”",
+      "arminianNotes": "Israel offers to pay for any water and pass through on foot. Arminian readers see further patience and willingness to compensate rather than seize. Israel bends as far as it can.",
+      "reformedNotes": "Reformed readers likewise see Israel pursuing peace even after refusal. Both traditions agree the repeated request highlights Edom’s responsibility for the outcome. The request is humble and modest, asking nothing but the right to walk through."
+    },
+    {
+      "number": 20,
+      "text": "He said, “You shall not pass through.” Edom came out against him with many people, and with a strong hand.",
+      "arminianNotes": "Edom again refuses and comes out with a large, strong force. Arminian readers see threat replacing negotiation, closing the door to peaceful passage. Edom answers words with weapons.",
+      "reformedNotes": "Reformed readers likewise see Edom’s show of force ending the discussion. Both traditions agree that Israel does not respond by attacking its brother. The door is now firmly shut."
+    },
+    {
+      "number": 21,
+      "text": "Thus Edom refused to give Israel passage through his border, so Israel turned away from him.",
+      "arminianNotes": "Edom refuses passage, and Israel turns away. Arminian readers see Israel choosing not to fight, consistent with God’s later instruction in Deuteronomy 2 not to contend with Esau’s descendants.",
+      "reformedNotes": "Reformed readers likewise see restraint in turning aside. Both traditions agree that Israel’s withdrawal avoids bloodshed between related peoples, though it lengthens the journey. Patience costs Israel time."
+    }
+  ]
+}

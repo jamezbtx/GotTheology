@@ -1,0 +1,31 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 11,
+  "verseStart": 1,
+  "verseEnd": 3,
+  "translation": "WEB",
+  "title": "Numbers 11:1–3",
+  "context": "Numbers 11 begins a series of wilderness failures soon after Israel leaves Sinai. This brief opening episode at Taberah sets a pattern: the people complain, the LORD judges, Moses intercedes, and the place receives a name that preserves the memory. Both traditions read it as a warning against grumbling against God’s care and as a picture of the mediator who stands between God and his people.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The people were complaining in the ears of the LORD. When the LORD heard it, his anger burned; and the LORD’s fire burned among them, and consumed some of the outskirts of the camp.",
+      "arminianNotes": "Soon after leaving Sinai, the people complain in the LORD’s hearing, and fire burns at the edge of the camp. Complaint here is grumbling against God’s care, not honest lament.\n\nArminian readers see a real people whose choices provoke a real response. God’s judgment is serious yet limited to the outskirts.",
+      "reformedNotes": "The LORD hears the complaint and judges it. The text treats grumbling as a rejection of the God who has been leading them.\n\nReformed readers stress God’s holiness and also his restraint, since the fire strikes only the outskirts. Both traditions read this as a warning echoed in 1 Corinthians 10:10."
+    },
+    {
+      "number": 2,
+      "text": "The people cried to Moses; and Moses prayed to the LORD, and the fire abated.",
+      "arminianNotes": "The people cry to Moses, Moses prays, and the fire abates. The mediator stands between the people and judgment.\n\nArminian readers see prayer as genuinely effective; God responds to intercession. Christians often see Moses here as pointing ahead to Christ’s intercession.",
+      "reformedNotes": "Moses intercedes and God relents from the fire. Reformed readers see prayer as a means God has appointed to accomplish his merciful purposes.\n\nBoth traditions agree that God answers prayer and that Moses foreshadows the greater Mediator. Their differences on how prayer relates to God’s purposes are not the focus of this short scene."
+    },
+    {
+      "number": 3,
+      "text": "The name of that place was called Taberah, because the LORD’s fire burned among them.",
+      "arminianNotes": "The place is named Taberah, which the WEB footnote explains as meaning “burning.” The name preserves the memory of the event.\n\nArminian readers see place names as lasting reminders meant to shape future choices.",
+      "reformedNotes": "Naming the place fixes the lesson in Israel’s memory. The wilderness itinerary becomes a record of God’s dealings.\n\nReformed readers see God teaching his people through remembered history. Both traditions read this as shared ground: remembering judgment is meant to produce trust and gratitude."
+    }
+  ]
+}

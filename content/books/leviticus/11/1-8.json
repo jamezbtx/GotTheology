@@ -1,0 +1,61 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 11,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "WEB",
+  "title": "Leviticus 11:1–8",
+  "context": "Leviticus 11 begins the laws of clean and unclean (chapters 11–15), starting with which land animals Israel may eat: those that both part the hoof and chew the cud. Four borderline examples, the camel, hyrax, hare, and pig, show the rule’s application. These purity categories marked Israel as a people set apart to the holy God; they belong to the ceremonial order that the New Testament declares fulfilled (Mark 7:19; Acts 10), a point Arminian and Reformed readers share.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD spoke to Moses and to Aaron, saying to them,",
+      "arminianNotes": "The LORD speaks to both Moses and Aaron, fitting the priestly task of distinguishing clean and unclean (10:10). Arminian readers note that the food laws flow directly from God’s word. Both traditions see this chapter as part of the ceremonial law given to Israel in its historical setting.",
+      "reformedNotes": "Reformed readers note that Aaron is addressed because priests must teach these distinctions (10:10–11). The food laws belong to the ceremonial ordinances of the Mosaic covenant. Shared ground: these instructions come from God and serve his purpose of making Israel a distinct, holy people."
+    },
+    {
+      "number": 2,
+      "text": "“Speak to the children of Israel, saying, ‘These are the living things which you may eat among all the animals that are on the earth.",
+      "arminianNotes": "God tells Israel which land animals may be eaten. Arminian readers see God’s care extending to daily life, so that even meals become a matter of obedience. Both traditions agree the laws marked Israel as distinct from surrounding nations.",
+      "reformedNotes": "Reformed readers see the comprehensive scope of God’s covenant claim: nothing in Israel’s life lay outside his rule. The food laws functioned as boundary markers. Shared ground: these laws express holiness in Israel’s historical setting and are later declared fulfilled in Christ (Mark 7:19; Acts 10:15)."
+    },
+    {
+      "number": 3,
+      "text": "Whatever parts the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat.",
+      "arminianNotes": "Animals that both part the hoof and chew the cud are clean. Arminian readers note that the criteria are clear and practical. Both traditions acknowledge that many explanations for the categories have been proposed, including hygiene, symbolism, and separation from pagan practice, and that the text itself gives holiness as the reason (11:44–45).",
+      "reformedNotes": "Reformed readers note the twofold test and avoid overconfident explanations, since the text grounds the laws in God’s holiness rather than giving rationales for each category. Shared ground: the criteria define what is permitted, and the purpose is obedience and separation to God."
+    },
+    {
+      "number": 4,
+      "text": "“ ‘Nevertheless these you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because it chews the cud but doesn’t have a parted hoof, is unclean to you.",
+      "arminianNotes": "The camel chews the cud but lacks a parted hoof, so it is unclean. Arminian readers see the precision of the categories. Both traditions note that the descriptions use ordinary observation rather than modern zoological classification, so the point is the category, not a scientific claim.",
+      "reformedNotes": "Reformed readers note that the camel fails one of the two criteria, illustrating the rule. The description reflects how the animal appeared to ancient observers. Shared ground: the law’s aim is a clear distinction for Israel’s practice, not a technical account of animal anatomy."
+    },
+    {
+      "number": 5,
+      "text": "The hyrax, because it chews the cud but doesn’t have a parted hoof, is unclean to you.",
+      "arminianNotes": "The hyrax is unclean because it lacks a parted hoof. The WEB footnote gives alternative names, rock badger or cony, reflecting uncertainty in identifying the Hebrew term. Arminian readers note that its chewing movement may resemble cud-chewing. Both traditions read the classification as based on observable behavior.",
+      "reformedNotes": "Reformed readers note the WEB footnote’s alternatives and the general uncertainty of ancient animal names. The text describes the animal as it appeared to observers. Shared ground: the hyrax illustrates the principle of the two criteria, and identification questions do not change the law’s purpose."
+    },
+    {
+      "number": 6,
+      "text": "The hare, because it chews the cud but doesn’t have a parted hoof, is unclean to you.",
+      "arminianNotes": "The hare is unclean because it lacks a parted hoof. Arminian readers note that the hare’s chewing motion may explain the description. Both traditions agree that the law speaks in observational terms suited to its audience.",
+      "reformedNotes": "Reformed readers note that the hare is classified by the same criteria, and that the description reflects ordinary appearance rather than technical biology. Shared ground: the hare illustrates the rule, and the law’s purpose is practical separation, not scientific classification."
+    },
+    {
+      "number": 7,
+      "text": "The pig, because it has a split hoof, and is cloven-footed, but doesn’t chew the cud, is unclean to you.",
+      "arminianNotes": "The pig has a split hoof but does not chew the cud, so it is unclean. Arminian readers note that pork became one of the most recognizable markers of Jewish identity. Both traditions see the pig as the reverse case of the camel, hyrax, and hare.",
+      "reformedNotes": "Reformed readers note that the pig fails the second test. Its prohibition became a strong marker of covenant identity in later Jewish history. Shared ground: the pig illustrates the rule, and Christians in both traditions understand this prohibition as fulfilled in Christ (Mark 7:19)."
+    },
+    {
+      "number": 8,
+      "text": "You shall not eat their meat. You shall not touch their carcasses. They are unclean to you.",
+      "arminianNotes": "Israelites must not eat the meat of these animals or touch their carcasses. Arminian readers see the seriousness of ceremonial purity in Israel’s covenant life. Both traditions agree that uncleanness here is ritual, not moral, and restricted access to worship.",
+      "reformedNotes": "Reformed readers note that the prohibition extends to touching carcasses, introducing the contact rules of 11:24–40. Shared ground: these laws governed ritual purity, and both traditions read them as part of the ceremonial law fulfilled in Christ (Hebrews 9:10)."
+    }
+  ]
+}

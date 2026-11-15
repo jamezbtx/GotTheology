@@ -1,0 +1,79 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 26,
+  "verseStart": 1,
+  "verseEnd": 11,
+  "translation": "WEB",
+  "title": "Numbers 26:1–11",
+  "context": "After the plague at Peor, the LORD orders a second census, now through Moses and Eleazar, who has succeeded Aaron as priest (20:28). The terms match the first census in Numbers 1: men twenty years old and upward, able to go to war, counted by fathers’ houses. The setting is the plains of Moab by the Jordan at Jericho, on the edge of the land. This is the new generation that will inherit the land, and the census prepares for dividing it (26:52–56). The list now gives the clans within each tribe. Reuben comes first, and the narrator pauses at Eliab’s family to recall the rebellion of Dathan and Abiram with Korah (Numbers 16) and to note that Korah’s sons did not die. Both traditions read the census as a sign that God kept his promise to Israel through judgment, and as a fresh start for the next generation.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "After the plague, the LORD spoke to Moses and to Eleazar the son of Aaron the priest, saying,",
+      "arminianNotes": "“After the plague,” the LORD speaks to Moses and to Eleazar. Eleazar now stands where Aaron stood in the first census (1:3).\n\nArminian readers note that God renews his purpose for Israel right after judgment. The people are counted again for the future he still intends.",
+      "reformedNotes": "The census follows directly on the judgment at Peor.\n\nReformed readers stress God’s faithfulness to his promise even after his people’s failure. Both traditions agree that the change from Aaron to Eleazar marks the passing of one generation and the beginning of another."
+    },
+    {
+      "number": 2,
+      "text": "“Take a census of all the congregation of the children of Israel, from twenty years old and upward, by their fathers’ houses, all who are able to go out to war in Israel.”",
+      "arminianNotes": "The terms are the same as in Numbers 1: the whole congregation, twenty years and upward, by fathers’ houses, all who can go to war.\n\nArminian readers note that the new generation is mustered for the conquest the first generation refused (Numbers 13–14).",
+      "reformedNotes": "Repeating the terms of the first census invites comparison between the two generations.\n\nReformed readers see God bringing his people to the point where the earlier generation turned back. Both traditions read the census as preparation for entering and dividing the land."
+    },
+    {
+      "number": 3,
+      "text": "Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,",
+      "arminianNotes": "Moses and Eleazar speak to the people “in the plains of Moab by the Jordan at Jericho.” Israel is on the edge of the promised land.\n\nArminian readers note that the place itself calls the new generation to trust and obey.",
+      "reformedNotes": "The location marks how far God has brought his people, from Sinai to the border of Canaan.\n\nReformed readers stress God’s faithfulness in leading Israel through forty years. Both traditions agree that the setting gives the census its forward-looking character."
+    },
+    {
+      "number": 4,
+      "text": "“Take a census, from twenty years old and upward, as the LORD commanded Moses and the children of Israel.” These are those who came out of the land of Egypt.",
+      "arminianNotes": "The census is taken “as the LORD commanded.” The last sentence, “These are those who came out of the land of Egypt,” introduces the list. Its exact connection is difficult in the Hebrew, and interpreters take it as a heading for the tribes descended from those who came out of Egypt.\n\nArminian readers note that the new generation stands in the line of the exodus and inherits its calling.",
+      "reformedNotes": "The census rests on the LORD’s command, and the list ties the new generation to the exodus.\n\nReformed readers see one covenant people continuing across generations. Both traditions agree that the second generation inherits the promises given to the first."
+    },
+    {
+      "number": 5,
+      "text": "Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites;",
+      "arminianNotes": "Reuben, “the firstborn of Israel,” comes first, with the clans of Hanoch and Pallu. The clan names match the sons of Reuben in Gen 46:9.\n\nArminian readers note that each clan is named, so the people are counted as families, not just as numbers.",
+      "reformedNotes": "The list follows Jacob’s family as given in Genesis, which shows continuity from the patriarchs.\n\nReformed readers see God preserving the families of Israel through Egypt and the wilderness. Both traditions read the clan names as evidence of God’s care for the whole people."
+    },
+    {
+      "number": 6,
+      "text": "of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.",
+      "arminianNotes": "The clans of Hezron and Carmi complete Reuben’s four clans.\n\nArminian readers note that the families of Reuben survived the wilderness to be counted again.",
+      "reformedNotes": "The four clans of Reuben are preserved.\n\nReformed readers stress God’s faithfulness to the house of Jacob across generations. Both traditions agree that the lists show the people’s continuity."
+    },
+    {
+      "number": 7,
+      "text": "These are the families of the Reubenites; and those who were counted of them were forty-three thousand seven hundred thirty.",
+      "arminianNotes": "Reuben’s total is 43,730, down from 46,500 in the first census (1:21).\n\nArminian readers note that the totals change and invite reflection on the wilderness years, though the text does not explain each change.",
+      "reformedNotes": "The total gives the strength of Reuben for the coming division of the land.\n\nReformed readers note that the number serves the inheritance God will give. Both traditions agree that the text does not give reasons for each tribe’s rise or fall, and caution against speculating beyond it."
+    },
+    {
+      "number": 8,
+      "text": "The son of Pallu: Eliab.",
+      "arminianNotes": "The list traces Pallu’s line to Eliab, preparing to name his sons.\n\nArminian readers note that the genealogy pauses on a family with a sobering history.",
+      "reformedNotes": "The mention of Eliab leads to the account of Dathan and Abiram.\n\nReformed readers see the census used to recall God’s past judgments as well as his blessings. Both traditions read the verse as a transition to 26:9–11."
+    },
+    {
+      "number": 9,
+      "text": "The sons of Eliab: Nemuel, Dathan, and Abiram. These are that Dathan and Abiram who were called by the congregation, who rebelled against Moses and against Aaron in the company of Korah when they rebelled against the LORD;",
+      "arminianNotes": "Eliab’s sons include Dathan and Abiram, “who rebelled against Moses and against Aaron in the company of Korah when they rebelled against the LORD” (Numbers 16). Rebellion against God’s appointed leaders was rebellion against the LORD.\n\nArminian readers stress that these were men of standing in the congregation who chose to rebel.",
+      "reformedNotes": "The narrator identifies their rebellion as ultimately against the LORD.\n\nReformed readers stress that opposing the order God has appointed is opposing God himself. Both traditions agree that the reminder serves as a warning to the new generation."
+    },
+    {
+      "number": 10,
+      "text": "and the earth opened its mouth, and swallowed them up together with Korah when that company died; at the time the fire devoured two hundred fifty men, and they became a sign.",
+      "arminianNotes": "The earth swallowed them with Korah, and the fire consumed the two hundred fifty men, “and they became a sign.” Their judgment became a lasting warning to Israel.\n\nArminian readers read the sign as a call for the new generation to choose faithfulness.",
+      "reformedNotes": "God’s judgment on the rebels became a public sign of his holiness.\n\nReformed readers stress that God uses his judgments to teach and guard his people. Both traditions agree that remembering past judgment is meant to keep God’s people from repeating it."
+    },
+    {
+      "number": 11,
+      "text": "Notwithstanding, the sons of Korah didn’t die.",
+      "arminianNotes": "“Notwithstanding, the sons of Korah didn’t die.” Korah’s line continued, and several psalms later carry the heading “sons of Korah” (for example, Psalm 42).\n\nArminian readers see here that each person answers for his own choices. Korah’s sons did not share their father’s fate.",
+      "reformedNotes": "God preserved Korah’s line even in judgment.\n\nReformed readers stress God’s mercy that brought worship and song out of a family marked by rebellion. Both traditions agree that the verse shows mercy within judgment, and that God’s judgments are precise rather than indiscriminate."
+    }
+  ]
+}

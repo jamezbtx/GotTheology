@@ -1,0 +1,73 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 5,
+  "verseStart": 1,
+  "verseEnd": 10,
+  "translation": "WEB",
+  "title": "Numbers 5:1–10",
+  "context": "After the census and the ordering of the camp around the tabernacle (Numbers 1–4), chapter 5 turns to the purity and integrity of the camp in which the LORD dwells (5:3). Two short laws follow: those who are ritually unclean are placed outside the camp (vv. 1–4, drawing on Leviticus 13–15 and the corpse laws later set out in Numbers 19), and a wrong done to another person is to be confessed and repaid in full with a fifth added, as in Leviticus 6:1–7, with special provision when the wronged person has no kinsman (vv. 5–10). Holiness here touches both worship and everyday dealings with neighbors.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD spoke to Moses, saying,",
+      "arminianNotes": "The familiar introduction marks a new divine instruction. With the camp now arranged around the tabernacle (chapters 1–4), the LORD speaks about keeping that camp fit for his presence.\n\nArminian readers note that Israel’s life is shaped by God’s initiative and word from the start.",
+      "reformedNotes": "“The LORD spoke to Moses” presents these laws as revelation, not human custom.\n\nReformed readers likewise stress that God himself defines what holiness requires of his people. Both traditions agree on this starting point."
+    },
+    {
+      "number": 2,
+      "text": "“Command the children of Israel that they put out of the camp every leper, everyone who has a discharge, and whoever is unclean by a corpse.",
+      "arminianNotes": "Three kinds of uncleanness are named: skin disease (“leper”), bodily discharges, and contact with a corpse (cf. Lev 13–15; Num 19:11–13). These are ritual conditions, not necessarily moral sins; a person could become unclean simply by burying a relative.\n\nArminian readers stress that exclusion is temporary and tied to a condition the law also provides a way to cleanse.",
+      "reformedNotes": "Reformed readers likewise distinguish ritual uncleanness from moral guilt. These laws teach in visible form that what is unclean cannot stand in God’s presence.\n\nBoth traditions note that in the Gospels Jesus touches a leper and makes him clean (Mark 1:41), showing his authority over what this law could only separate."
+    },
+    {
+      "number": 3,
+      "text": "You shall put both male and female outside of the camp so that they don’t defile their camp, in the midst of which I dwell.”",
+      "arminianNotes": "The reason is given plainly: the camp is the place “in the midst of which I dwell.” The rule applies equally to male and female.\n\nArminian readers see here the privilege and seriousness of God’s nearness: his presence is the heart of Israel’s identity.",
+      "reformedNotes": "Reformed readers emphasize the holiness of God that the arrangement protects. The Holy One truly dwells among his people, and so their life must fit his presence.\n\nThis is shared ground: God’s nearness is both a gift and a call to holiness."
+    },
+    {
+      "number": 4,
+      "text": "The children of Israel did so, and put them outside of the camp; as the LORD spoke to Moses, so the children of Israel did.",
+      "arminianNotes": "Israel obeys exactly: “as the LORD spoke to Moses, so the children of Israel did.” This echoes the obedience refrains of Numbers 1–4.\n\nArminian readers note that the people’s real, responsive obedience is commended.",
+      "reformedNotes": "Reformed readers likewise see the obedience formula as a model of faithful response to God’s word.\n\nBoth traditions read the verse as straightforward narrative of compliance, not as raising questions about the source of that obedience."
+    },
+    {
+      "number": 5,
+      "text": "The LORD spoke to Moses, saying,",
+      "arminianNotes": "A second instruction begins with the same formula. The focus shifts from ritual uncleanness to wrongs done between people.\n\nArminian readers see that holiness in the camp includes honest dealings with neighbors, not only ritual purity.",
+      "reformedNotes": "Reformed readers note that the same God who governs worship also governs ordinary relationships; both come under his word.\n\nThis is shared ground."
+    },
+    {
+      "number": 6,
+      "text": "“Speak to the children of Israel: ‘When a man or woman commits any sin that men commit, so as to trespass against the LORD, and that soul is guilty,",
+      "arminianNotes": "Wrongdoing against another person is described as trespass “against the LORD.” The law applies to “a man or woman” alike.\n\nArminian readers stress that sin against a neighbor is never merely private; it also breaches faithfulness to God.",
+      "reformedNotes": "Reformed readers make the same point: every sin, even one done to a fellow human, is first an offense against God.\n\nBoth traditions note that “that soul is guilty” assumes real responsibility for the act."
+    },
+    {
+      "number": 7,
+      "text": "then he shall confess his sin which he has done; and he shall make restitution for his guilt in full, add to it the fifth part of it, and give it to him in respect of whom he has been guilty.",
+      "arminianNotes": "Two steps are required: confession of the sin and full restitution with a fifth added, given to the wronged person. This repeats and extends Leviticus 6:1–7.\n\nArminian readers note that repentance here is concrete: it names the wrong and repairs it. Zacchaeus’ restitution in Luke 19:8 shows the same spirit.",
+      "reformedNotes": "Reformed readers likewise see that true repentance includes confession and restitution where possible; the added fifth shows the wrong is taken seriously.\n\nBoth traditions agree that reconciliation with a neighbor belongs with right worship (cf. Matt 5:23–24)."
+    },
+    {
+      "number": 8,
+      "text": "But if the man has no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made to the LORD shall be the priest’s, in addition to the ram of the atonement, by which atonement shall be made for him.",
+      "arminianNotes": "If the wronged person has died and has no kinsman to receive payment, restitution still must be made. It goes to the LORD and becomes the priest’s, along with the ram by which atonement is made.\n\nArminian readers note that the debt cannot simply lapse; justice is still owed and paid.",
+      "reformedNotes": "Reformed readers stress the pairing of restitution and atonement: repaying the neighbor and the ram offered to the LORD go together.\n\nBoth traditions agree that repaying the neighbor does not replace atonement before God, and atonement does not cancel the duty to repay."
+    },
+    {
+      "number": 9,
+      "text": "Every heave offering of all the holy things of the children of Israel, which they present to the priest, shall be his.",
+      "arminianNotes": "Holy gifts presented to the priest belong to him. Within the context of chapter 5, this confirms that what is given to the LORD supports those who serve at the sanctuary.\n\nArminian readers see God’s provision for the priests through the gifts of the people.",
+      "reformedNotes": "Reformed readers likewise see the principle that those who minister at the altar are supported by what is offered there.\n\nThis is shared ground and raises no particular doctrinal difference."
+    },
+    {
+      "number": 10,
+      "text": "Every man’s holy things shall be his; whatever any man gives the priest, it shall be his.’ ”",
+      "arminianNotes": "The verse clarifies ownership: a person’s holy things are his own to give, but once given to the priest they belong to the priest.\n\nArminian readers note the voluntary, personal character of the gifts.",
+      "reformedNotes": "Reformed readers see an orderly rule that prevents dispute over offerings.\n\nBoth traditions treat the verse as a practical regulation closing the section on restitution and priestly portions."
+    }
+  ]
+}

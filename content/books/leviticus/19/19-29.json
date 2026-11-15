@@ -1,0 +1,79 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 19,
+  "verseStart": 19,
+  "verseEnd": 29,
+  "translation": "WEB",
+  "title": "Leviticus 19:19–29",
+  "context": "This unit mixes laws that later readers often classify differently: prohibitions on mixtures, a case involving an engaged slave woman, the waiting period for fruit trees, eating blood, divination, mourning practices, and prostituting a daughter. Christians in both traditions commonly distinguish moral, ceremonial, and civil law when applying such texts, while differing internally on where particular commands fall. The unifying theme is Israel’s distinctness as the LORD’s holy people.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 19,
+      "text": "“ ‘You shall keep my statutes. “ ‘You shall not cross-breed different kinds of animals. “ ‘You shall not sow your field with two kinds of seed; “ ‘Don’t wear a garment made of two kinds of material.",
+      "arminianNotes": "Keep God’s statutes; do not mix animals, seeds, or fabrics. Arminian readers see symbols of Israel’s distinctness. Wesley’s Articles of Religion, Article 6, distinguishes ceremonial, civil, and moral commands, and many Arminians read these as ceremonial laws fulfilled in Christ.",
+      "reformedNotes": "Reformed readers likewise commonly treat these as ceremonial, using the moral, ceremonial, and judicial distinction set out in Westminster Confession chapter 19. Both traditions show internal diversity on how particular commands are classified."
+    },
+    {
+      "number": 20,
+      "text": "“ ‘If a man lies carnally with a woman who is a slave girl, pledged to be married to another man, and not ransomed or given her freedom; they shall be punished. They shall not be put to death, because she was not free.",
+      "arminianNotes": "A man who lies with an engaged slave woman faces punishment, but not death, since she was not free. Arminian readers see the law addressing a specific social situation. Interpreters discuss the details, and the case reflects ancient slavery.",
+      "reformedNotes": "Reformed readers likewise see a civil case tied to Israel’s social setting. The law limits penalties while requiring atonement. Both traditions read it as civil law not directly binding today."
+    },
+    {
+      "number": 21,
+      "text": "He shall bring his trespass offering to the LORD, to the door of the Tent of Meeting, even a ram for a trespass offering.",
+      "arminianNotes": "The man brings a ram as a trespass offering. Arminian readers see the need for atonement even when civil penalties are limited. Sin is against God as well as people.",
+      "reformedNotes": "Reformed readers likewise see sacrifice addressing guilt before God. Christians in both traditions see the offering fulfilled in Christ. This is shared ground. Civil and religious duties stand together."
+    },
+    {
+      "number": 22,
+      "text": "The priest shall make atonement for him with the ram of the trespass offering before the LORD for his sin which he has committed; and the sin which he has committed shall be forgiven him.",
+      "arminianNotes": "The priest makes atonement, and the sin is forgiven. Arminian readers see God providing forgiveness through his appointed means. Grace meets real guilt. The verse ends with the assurance of forgiveness.",
+      "reformedNotes": "Reformed readers likewise see substitutionary atonement prefigured. Hebrews 9–10 shows Christ as the final sacrifice. Both traditions share this reading. Forgiveness is granted through the sacrifice God appointed, pointing toward the greater sacrifice to come."
+    },
+    {
+      "number": 23,
+      "text": "“ ‘When you come into the land, and have planted all kinds of trees for food, then you shall count their fruit as forbidden. For three years it shall be forbidden to you. It shall not be eaten.",
+      "arminianNotes": "Fruit from new trees is forbidden for three years. Arminian readers see patience and restraint built into agricultural life. The WEB footnote notes the Hebrew literally says uncircumcised.",
+      "reformedNotes": "Reformed readers likewise see a ceremonial law teaching that the land’s produce belongs to God. Both traditions read it as fulfilled rather than binding today."
+    },
+    {
+      "number": 24,
+      "text": "But in the fourth year all its fruit shall be holy, for giving praise to the LORD.",
+      "arminianNotes": "In the fourth year, the fruit is holy for praise to the LORD. Arminian readers see firstfruits given to God. Worship comes before personal enjoyment.",
+      "reformedNotes": "Reformed readers likewise see God honored with the first of the harvest. Both traditions share this reading. The fourth-year fruit is dedicated in praise before it becomes ordinary food."
+    },
+    {
+      "number": 25,
+      "text": "In the fifth year you shall eat its fruit, that it may yield its increase to you. I am the LORD your God.",
+      "arminianNotes": "In the fifth year, the fruit may be eaten for increase. Arminian readers see blessing following obedience. God provides for those who honor him. Restraint leads to fruitfulness.",
+      "reformedNotes": "Reformed readers likewise see God’s provision as the outcome of trust. Both traditions read the verse as shared ground. Waiting and dedicating the firstfruits prepare for later abundance under God’s blessing."
+    },
+    {
+      "number": 26,
+      "text": "“ ‘You shall not eat any meat with the blood still in it. You shall not use enchantments, nor practice sorcery.",
+      "arminianNotes": "Do not eat meat with blood or practice divination. Arminian readers see reverence for life and rejection of occult practices. Acts 15:20 echoes the blood prohibition.",
+      "reformedNotes": "Reformed readers likewise see both commands reflecting God’s holiness. Divination is rejected as trusting other powers. Both traditions share this reading. Acts 15:20, 29 shows the blood rule was discussed in the early church."
+    },
+    {
+      "number": 27,
+      "text": "“ ‘You shall not cut the hair on the sides of your head or clip off the edge of your beard.",
+      "arminianNotes": "Do not cut the sides of your hair or clip your beard. Arminian readers see practices likely connected with pagan mourning or worship. Most Christians read this as not binding today.",
+      "reformedNotes": "Reformed readers likewise often see a ceremonial law separating Israel from surrounding practices. Interpreters differ on the precise background. Both traditions share this reading. The command is distinctive to Israel."
+    },
+    {
+      "number": 28,
+      "text": "“ ‘You shall not make any cuttings in your flesh for the dead, nor tattoo any marks on you. I am the LORD.",
+      "arminianNotes": "Do not cut your flesh for the dead or mark your skin. Arminian readers see rejection of pagan mourning rites. The concern is idolatrous practice.",
+      "reformedNotes": "Reformed readers likewise see the command in its ancient context. Christians in both traditions differ on modern applications. The core rejection of pagan rites is shared."
+    },
+    {
+      "number": 29,
+      "text": "“ ‘Don’t profane your daughter, to make her a prostitute; lest the land fall to prostitution, and the land become full of wickedness.",
+      "arminianNotes": "Do not make your daughter a prostitute. Arminian readers see protection for daughters from exploitation. Such practice corrupts the land. Exploiting a daughter dishonors her and corrupts society.",
+      "reformedNotes": "Reformed readers likewise see the moral seriousness of sexual exploitation. Both traditions affirm this as abiding moral teaching. Fathers are to protect their daughters, not use them for gain, a moral principle that endures."
+    }
+  ]
+}

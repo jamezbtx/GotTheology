@@ -1,0 +1,43 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 31,
+  "verseStart": 9,
+  "verseEnd": 13,
+  "translation": "WEB",
+  "title": "Deuteronomy 31:9–13",
+  "context": "Moses writes the law and entrusts it to the Levitical priests and elders, commanding that it be read to all Israel every seven years at the feast of booths. Men, women, children, and foreigners are to hear, learn, fear the LORD, and obey, so that each new generation learns God’s word.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 9,
+      "text": "Moses wrote this law and delivered it to the priests the sons of Levi, who bore the ark of the LORD’s covenant, and to all the elders of Israel.",
+      "arminianNotes": "Moses writes the law and gives it to the Levitical priests who carry the ark and to the elders. Arminian readers see God’s word entrusted to responsible leaders for the people’s benefit.",
+      "reformedNotes": "Reformed readers likewise see the written word preserved and placed in the hands of appointed guardians. The verse marks the law’s transition from Moses’ spoken teaching to a written form."
+    },
+    {
+      "number": 10,
+      "text": "Moses commanded them, saying, “At the end of every seven years, in the set time of the year of release, in the feast of booths,",
+      "arminianNotes": "Every seven years, at the year of release during the feast of booths, the law is to be read. Arminian readers see public reading tied to a season of rest and celebration.",
+      "reformedNotes": "Reformed readers likewise see regular reading of God’s word built into Israel’s calendar. The connection with the year of release links hearing the law with God’s provision and mercy."
+    },
+    {
+      "number": 11,
+      "text": "when all Israel has come to appear before the LORD your God in the place which he will choose, you shall read this law before all Israel in their hearing.",
+      "arminianNotes": "When Israel appears before God at his chosen place, the law is read in their hearing. Arminian readers see the whole community invited to hear and respond to God’s word.",
+      "reformedNotes": "Reformed readers likewise see public reading of Scripture as central to covenant life. The phrase “in their hearing” stresses that the law was meant to be heard by all, not only by leaders."
+    },
+    {
+      "number": 12,
+      "text": "Assemble the people, the men and the women and the little ones, and the foreigners who are within your gates, that they may hear, learn, fear the LORD your God, and observe to do all the words of this law,",
+      "arminianNotes": "Men, women, children, and foreigners are assembled to hear, learn, fear the LORD, and obey. Arminian readers see God’s word addressed to everyone, inviting a real response from each hearer.",
+      "reformedNotes": "Reformed readers likewise see the whole covenant community gathered under the word. The progression from hearing to learning to fearing to obeying describes how God’s word shapes life."
+    },
+    {
+      "number": 13,
+      "text": "and that their children, who have not known, may hear and learn to fear the LORD your God, as long as you live in the land where you go over the Jordan to possess it.”",
+      "arminianNotes": "Children who have not known the law will hear and learn to fear the LORD. Arminian readers see each generation needing to hear and respond for itself.",
+      "reformedNotes": "Reformed readers likewise see God’s word as the means of forming the next generation. The verse treats passing on the faith as an ongoing responsibility tied to life in the land."
+    }
+  ]
+}

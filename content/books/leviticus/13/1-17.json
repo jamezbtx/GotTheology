@@ -1,0 +1,115 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 13,
+  "verseStart": 1,
+  "verseEnd": 17,
+  "translation": "WEB",
+  "title": "Leviticus 13:1–17",
+  "context": "Chapter 13 gives the priests procedures for examining skin conditions. The WEB renders the Hebrew term tsara’at as “leprosy,” but the word covers a range of surface conditions, and in verses 47–59 and 14:33–53 it is applied even to garments and houses. It should not be identified simply with modern Hansen’s disease. The priest acts not as a physician but as the one who declares ritual status: clean or unclean, with periods of isolation and re-examination when the case is unclear. Both traditions read these laws as protecting the holiness of the camp where God dwells, not as judging the sufferer’s moral worth. They also note that the Gospels show Jesus touching and cleansing people with this condition (Mark 1:40–45).",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD spoke to Moses and to Aaron, saying,",
+      "arminianNotes": "The LORD speaks to Moses and Aaron together. Aaron is included because the priests will carry out these examinations.\n\nArminian readers note that the priests are given responsibility to care for the community’s purity.",
+      "reformedNotes": "Reformed readers note that the priests act under God’s direction, not their own judgment alone.\n\nBoth traditions read the chapter as practical guidance entrusted to the priesthood."
+    },
+    {
+      "number": 2,
+      "text": "“When a man shall have a swelling in his body’s skin, or a scab, or a bright spot, and it becomes in the skin of his body the plague of leprosy, then he shall be brought to Aaron the priest or to one of his sons, the priests.",
+      "arminianNotes": "A swelling, scab, or bright spot that may become tsara’at must be shown to a priest. The WEB uses “leprosy,” but the Hebrew term covers a range of surface conditions.\n\nArminian readers note that the person is brought to the priest for a careful judgment.",
+      "reformedNotes": "Reformed readers note that the priest’s role is to declare ritual status, not to provide medical treatment.\n\nBoth traditions avoid identifying the condition with any single modern disease."
+    },
+    {
+      "number": 3,
+      "text": "The priest shall examine the plague in the skin of the body. If the hair in the plague has turned white, and the appearance of the plague is deeper than the body’s skin, it is the plague of leprosy; so the priest shall examine him and pronounce him unclean.",
+      "arminianNotes": "If the hair has turned white and the sore is deeper than the skin, the priest pronounces the person unclean. These are the visible signs the priest is told to look for.\n\nArminian readers note the care taken to base judgment on clear criteria.",
+      "reformedNotes": "Reformed readers note that the priest’s pronouncement determines the person’s standing in the camp.\n\nBoth traditions agree that the verdict concerns ritual status, not moral worth."
+    },
+    {
+      "number": 4,
+      "text": "If the bright spot is white in the skin of his body, and its appearance isn’t deeper than the skin, and its hair hasn’t turned white, then the priest shall isolate the infected person for seven days.",
+      "arminianNotes": "If the spot is white but not deeper and the hair is unchanged, the priest isolates the person for seven days. Uncertain cases are not decided hastily.\n\nArminian readers note the fairness of waiting before reaching a verdict.",
+      "reformedNotes": "Reformed readers note that the law builds patience into the process.\n\nBoth traditions see wisdom in not declaring someone unclean on uncertain evidence."
+    },
+    {
+      "number": 5,
+      "text": "The priest shall examine him on the seventh day. Behold, if in his eyes the plague is arrested and the plague hasn’t spread in the skin, then the priest shall isolate him for seven more days.",
+      "arminianNotes": "On the seventh day the priest examines again; if the condition has not spread, another seven days of isolation follow. The process is careful and repeated.\n\nArminian readers note the patience shown to the person under examination.",
+      "reformedNotes": "Reformed readers note that the priest’s judgment is based on observation over time.\n\nBoth traditions read this as protecting both the individual and the community."
+    },
+    {
+      "number": 6,
+      "text": "The priest shall examine him again on the seventh day. Behold, if the plague has faded and the plague hasn’t spread in the skin, then the priest shall pronounce him clean. It is a scab. He shall wash his clothes, and be clean.",
+      "arminianNotes": "If the spot has faded and not spread, the person is clean; it is only a scab. He washes his clothes and is clean.\n\nArminian readers note the relief of a favorable verdict and the simple washing that follows.",
+      "reformedNotes": "Reformed readers note that the law aims as much at declaring people clean as at declaring them unclean.\n\nBoth traditions see a pastoral concern for restoring people to the community."
+    },
+    {
+      "number": 7,
+      "text": "But if the scab spreads on the skin after he has shown himself to the priest for his cleansing, he shall show himself to the priest again.",
+      "arminianNotes": "If the scab spreads after the person was declared clean, he must return to the priest. A verdict can be revisited.\n\nArminian readers note that the process remains attentive to change.",
+      "reformedNotes": "Reformed readers note that the law expects ongoing care rather than a single inspection.\n\nBoth traditions read this as practical, not as a sign of distrust."
+    },
+    {
+      "number": 8,
+      "text": "The priest shall examine him; and behold, if the scab has spread on the skin, then the priest shall pronounce him unclean. It is leprosy.",
+      "arminianNotes": "If the scab has spread, the priest pronounces the person unclean; it is tsara’at. Spreading is the decisive sign.\n\nArminian readers note the seriousness of the verdict for the person involved.",
+      "reformedNotes": "Reformed readers note that the priest declares what the signs show, according to God’s instruction.\n\nBoth traditions read the verdict as ritual, not moral."
+    },
+    {
+      "number": 9,
+      "text": "“When the plague of leprosy is in a man, then he shall be brought to the priest;",
+      "arminianNotes": "When someone has tsara’at, he is brought to the priest. A new case is introduced.\n\nArminian readers note that the community brings the person forward rather than ignoring him.",
+      "reformedNotes": "Reformed readers note that the priest remains the appointed judge of ritual status.\n\nBoth traditions see the community’s responsibility for care and order."
+    },
+    {
+      "number": 10,
+      "text": "and the priest shall examine him. Behold, if there is a white swelling in the skin, and it has turned the hair white, and there is raw flesh in the swelling,",
+      "arminianNotes": "The priest looks for a white swelling, white hair, and raw flesh in the swelling. These signs indicate an established condition.\n\nArminian readers note the specific criteria given to the priest.",
+      "reformedNotes": "Reformed readers note that the law relies on visible signs, not guesswork.\n\nBoth traditions avoid trying to identify the condition medically."
+    },
+    {
+      "number": 11,
+      "text": "it is a chronic leprosy in the skin of his body, and the priest shall pronounce him unclean. He shall not isolate him, for he is already unclean.",
+      "arminianNotes": "This is a chronic case; the priest pronounces the person unclean without isolation, because he is already unclean. No waiting period is needed.\n\nArminian readers note the hardship of a lasting condition.",
+      "reformedNotes": "Reformed readers note that the verdict is clear when the signs are clear.\n\nBoth traditions read this with compassion for those who live with long-term conditions."
+    },
+    {
+      "number": 12,
+      "text": "“If the leprosy breaks out all over the skin, and the leprosy covers all the skin of the infected person from his head even to his feet, as far as it appears to the priest,",
+      "arminianNotes": "If the condition covers the whole body from head to foot, the priest examines it. A surprising case follows.\n\nArminian readers note the thoroughness of the examination.",
+      "reformedNotes": "Reformed readers note that the law addresses even unusual cases.\n\nBoth traditions read this verse together with the next, where the verdict may surprise modern readers."
+    },
+    {
+      "number": 13,
+      "text": "then the priest shall examine him. Behold, if the leprosy has covered all his flesh, he shall pronounce him clean of the plague. It has all turned white: he is clean.",
+      "arminianNotes": "If the whole body has turned white, the priest pronounces the person clean. The reason is not stated, and interpreters offer different explanations.\n\nArminian readers note that the verdict depends on the signs God specified, not on appearance alone.",
+      "reformedNotes": "Reformed readers likewise note the puzzle and avoid speculation.\n\nBoth traditions hold the meaning of this rule with caution."
+    },
+    {
+      "number": 14,
+      "text": "But whenever raw flesh appears in him, he shall be unclean.",
+      "arminianNotes": "But whenever raw flesh appears, the person is unclean. Raw flesh changes the verdict.\n\nArminian readers note that the status can change as the condition changes.",
+      "reformedNotes": "Reformed readers note that the law gives the priest clear criteria for each stage.\n\nBoth traditions read this as part of a careful, ongoing process."
+    },
+    {
+      "number": 15,
+      "text": "The priest shall examine the raw flesh, and pronounce him unclean: the raw flesh is unclean. It is leprosy.",
+      "arminianNotes": "The priest examines the raw flesh and pronounces the person unclean. Raw flesh is a sign of tsara’at.\n\nArminian readers note the consistency of the law’s criteria.",
+      "reformedNotes": "Reformed readers note that the priest declares status according to God’s instruction.\n\nBoth traditions avoid reading moral judgment into the verdict."
+    },
+    {
+      "number": 16,
+      "text": "Or if the raw flesh turns again, and is changed to white, then he shall come to the priest.",
+      "arminianNotes": "If the raw flesh turns white again, the person returns to the priest. Recovery is possible.\n\nArminian readers note the hope built into the law: a person can be restored.",
+      "reformedNotes": "Reformed readers note that the law expects change and provides for re-examination.\n\nBoth traditions see God’s care for restoration as well as separation."
+    },
+    {
+      "number": 17,
+      "text": "The priest shall examine him. Behold, if the plague has turned white, then the priest shall pronounce him clean of the plague. He is clean.",
+      "arminianNotes": "If the sore has turned white, the priest pronounces the person clean. The section ends with restoration.\n\nArminian readers note the joy of a person returning to the community.",
+      "reformedNotes": "Reformed readers note that the priest’s declaration of cleanness is as important as his declaration of uncleanness.\n\nBoth traditions see in this movement toward restoration a pattern fulfilled in Christ’s cleansing of the unclean (Mark 1:40–42)."
+    }
+  ]
+}

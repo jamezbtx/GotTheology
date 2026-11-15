@@ -1,0 +1,43 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 4,
+  "verseStart": 22,
+  "verseEnd": 26,
+  "translation": "WEB",
+  "title": "Leviticus 4:22–26",
+  "context": "The third case is a ruler, a tribal or clan leader, who sins unwittingly. When his sin is made known to him, he brings a male goat. Its blood is applied only to the outer altar of burnt offering, not inside the Tent, which marks a lesser degree of defilement than the priest’s or the whole congregation’s sin. The fat is burned as with the peace offering, and the priest makes atonement, and he is forgiven. Both traditions read the gradation as a sign that responsibility matches one’s role in the community.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 22,
+      "text": "“ ‘When a ruler sins, and unwittingly does any one of all the things which the LORD his God has commanded not to be done, and is guilty,",
+      "arminianNotes": "A ruler unwittingly breaks one of the commands of the LORD his God. The Hebrew word (nasi’) probably refers to a tribal or clan leader, not the king.\n\nArminian readers note that leaders are personally accountable to God. Their rank does not exempt them from his commands.",
+      "reformedNotes": "The ruler is under “the LORD his God,” a reminder that civil leaders are subject to God.\n\nReformed readers see magistrates accountable to God’s law. Both traditions agree that a leader’s unwitting sin still needs atonement."
+    },
+    {
+      "number": 23,
+      "text": "if his sin in which he has sinned is made known to him, he shall bring as his offering a goat, a male without defect.",
+      "arminianNotes": "When his sin is made known to him, he brings a male goat without defect. The text does not say how it becomes known, whether through conscience, others, or discovering the law.\n\nArminian readers see an honest response to newly known sin. Awareness calls for action.",
+      "reformedNotes": "The ruler’s offering is a male goat, less costly than a bull, matching his lesser representative role.\n\nReformed readers note that God measures responsibility by office. Both traditions agree that coming to know one’s sin brings the duty to deal with it before God."
+    },
+    {
+      "number": 24,
+      "text": "He shall lay his hand on the head of the goat, and kill it in the place where they kill the burnt offering before the LORD. It is a sin offering.",
+      "arminianNotes": "The ruler lays his hand on the goat and kills it where the burnt offering is slain.\n\nArminian readers see the offerer’s personal involvement again. He takes part in the act rather than delegating it.",
+      "reformedNotes": "The slaughter takes place at the usual place before the LORD, and the text names it “a sin offering.”\n\nReformed readers stress the God-appointed setting of sacrifice. Both traditions agree that hand-laying links the offerer to the animal, whatever its precise meaning."
+    },
+    {
+      "number": 25,
+      "text": "The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering. He shall pour out the rest of its blood at the base of the altar of burnt offering.",
+      "arminianNotes": "The blood goes only on the horns of the outer altar. Unlike the earlier cases, it is not brought into the Tent.\n\nArminian readers see the gradation in Leviticus: the more representative the sinner, the deeper into the sanctuary the cleansing must reach.",
+      "reformedNotes": "Many interpreters read the application at the outer altar as marking the ruler’s sin as less defiling than the high priest’s or the congregation’s.\n\nReformed readers note the careful proportion in God’s law. Both traditions agree that sins are not all equal in their effects even though all need atonement."
+    },
+    {
+      "number": 26,
+      "text": "All its fat he shall burn on the altar, like the fat of the sacrifice of peace offerings; and the priest shall make atonement for him concerning his sin, and he will be forgiven.",
+      "arminianNotes": "The fat is burned, the priest makes atonement, and “he will be forgiven.”\n\nArminian readers note the personal promise. Forgiveness is offered to the individual who brings the appointed offering.",
+      "reformedNotes": "The verse repeats the formula of atonement and forgiveness for the ruler.\n\nReformed readers stress that God attaches a sure promise to his appointed means. Both traditions agree that the promise of forgiveness is the goal of the whole rite."
+    }
+  ]
+}

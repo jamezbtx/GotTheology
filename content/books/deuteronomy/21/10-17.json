@@ -1,0 +1,61 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 21,
+  "verseStart": 10,
+  "verseEnd": 17,
+  "translation": "WEB",
+  "title": "Deuteronomy 21:10–17",
+  "context": "Two hard cases follow. The first concerns a woman taken captive in war whom an Israelite wishes to marry (verses 10–14). The law does not endorse capture as an ideal, and it is not modern ethics. Within its ancient setting, though, it restrains the soldier: the woman is given a month to mourn her parents, she must become a wife rather than a slave, and if the marriage ends she goes free and may not be sold, because she has been humbled. The second case protects the firstborn son of an unloved wife from losing his double portion to the son of a favored wife (verses 15–17), recalling the painful rivalry of Jacob’s household. Both traditions read these laws as regulating realities of a fallen world rather than approving them, a point Jesus makes about divorce in Matthew 19:8. They also see in the laws real limits on the powerful for the sake of the vulnerable.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 10,
+      "text": "When you go out to battle against your enemies, and the LORD your God delivers them into your hands and you carry them away captive,",
+      "arminianNotes": "The law addresses a time when Israel goes to war and the LORD gives enemies into their hands, and captives are taken. The setting is ancient warfare.\n\nArminian readers note that the law speaks into the harsh realities of war in that world, setting limits on the powerful rather than endorsing every practice.",
+      "reformedNotes": "Reformed readers note that God’s law often regulates conditions in a fallen world without presenting them as ideal (compare Matthew 19:8).\n\nBoth traditions read the passage honestly within Israel’s covenant setting and agree that it does not license capture or coercion today."
+    },
+    {
+      "number": 11,
+      "text": "and see among the captives a beautiful woman, and you are attracted to her, and desire to take her as your wife,",
+      "arminianNotes": "An Israelite sees a beautiful captive and desires her as his wife. Desire is not given free rein.\n\nArminian readers note that the law immediately channels desire into accountable obligations rather than leaving the woman at the soldier’s disposal.",
+      "reformedNotes": "Reformed readers note that the law addresses the human heart’s desires and places them under restraint. God’s law curbs what fallen people would otherwise do.\n\nBoth traditions see the following verses as protections for the woman, while acknowledging that the situation itself remains one of great vulnerability for her."
+    },
+    {
+      "number": 12,
+      "text": "then you shall bring her home to your house. She shall shave her head and trim her nails.",
+      "arminianNotes": "She is brought into his home, shaves her head, and trims her nails. These acts may mark mourning, purification, or the end of her former life; the exact meaning is uncertain.\n\nArminian readers note that the law creates a period of transition rather than immediate possession.",
+      "reformedNotes": "Reformed readers note that interpreters differ on the symbolism of these acts. The text does not explain them.\n\nBoth traditions hold the meaning cautiously and read the verse within the protective sequence that follows, which slows the man’s action and recognizes the woman’s loss."
+    },
+    {
+      "number": 13,
+      "text": "She shall take off the clothing of her captivity, and shall remain in your house, and bewail her father and her mother a full month. After that you shall go in to her and be her husband, and she shall be your wife.",
+      "arminianNotes": "She removes her captive’s clothing and mourns her father and mother for a full month before marriage. Only then may he become her husband.\n\nArminian readers note that the law requires the man to wait and honor the woman’s grief, recognizing her as a person with family bonds.",
+      "reformedNotes": "Reformed readers note that the month of mourning is a humane restraint unusual in its world, giving her time to grieve before any marriage.\n\nBoth traditions acknowledge that this is not modern ethics and that the woman’s loss is real; they also see in the law God’s concern for her dignity."
+    },
+    {
+      "number": 14,
+      "text": "It shall be, if you have no delight in her, then you shall let her go where she desires; but you shall not sell her at all for money. You shall not deal with her as a slave, because you have humbled her.",
+      "arminianNotes": "If he no longer delights in her, she must go free wherever she wishes; he may not sell her or treat her as a slave, because he has humbled her. Her status is protected.\n\nArminian readers note that the law protects her freedom and forbids turning her into property, holding the man accountable for the harm he has done.",
+      "reformedNotes": "Reformed readers note that the phrase about humbling her recognizes the wrong done to her. God’s law limits the man’s power even in a broken situation.\n\nBoth traditions see here a principle that carries over: the vulnerable may not be treated as commodities."
+    },
+    {
+      "number": 15,
+      "text": "If a man has two wives, the one beloved and the other hated, and they have borne him children, both the beloved and the hated, and if the firstborn son is hers who was hated,",
+      "arminianNotes": "A man has two wives, one loved and one unloved, and the firstborn son belongs to the unloved wife. The law names a painful household reality.\n\nArminian readers note that the law does not approve of polygamy but addresses the injustice it tends to produce.",
+      "reformedNotes": "Reformed readers note that Scripture’s narratives show the sorrow of such households, as in Jacob’s family, where the LORD saw that Leah was unloved and opened her womb (Genesis 29:31).\n\nBoth traditions read the law as protecting the vulnerable within a situation that falls short of God’s design for marriage (compare Genesis 2:24)."
+    },
+    {
+      "number": 16,
+      "text": "then it shall be, in the day that he causes his sons to inherit that which he has, that he may not give the son of the beloved the rights of the firstborn before the son of the hated, who is the firstborn;",
+      "arminianNotes": "When dividing his inheritance, he may not give the firstborn’s rights to the son of the favored wife. Favoritism is forbidden.\n\nArminian readers note that the law restrains a father’s personal preference to protect the rights of the less loved.",
+      "reformedNotes": "Reformed readers note that God’s law guards justice within families against the distortions of human affection.\n\nBoth traditions note that elsewhere God himself sometimes overturns birth order by his own choice, as with Jacob and Esau, but that is God’s sovereign act, not a license for parental favoritism."
+    },
+    {
+      "number": 17,
+      "text": "but he shall acknowledge the firstborn, the son of the hated, by giving him a double portion of all that he has; for he is the beginning of his strength. The right of the firstborn is his.",
+      "arminianNotes": "The father must acknowledge the true firstborn and give him a double portion, for he is the beginning of his strength. The firstborn’s right is secured.\n\nArminian readers note that justice requires honoring obligations even when affection points elsewhere.",
+      "reformedNotes": "Reformed readers note that the firstborn’s rights reflect God’s ordering of families. Paul calls Christ the firstborn over creation and from the dead (Colossians 1:15, 18), a title that draws on this background.\n\nBoth traditions see the protection of the unloved wife’s son as a principle of fairness that carries over."
+    }
+  ]
+}

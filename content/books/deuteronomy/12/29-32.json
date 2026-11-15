@@ -1,0 +1,37 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 12,
+  "verseStart": 29,
+  "verseEnd": 32,
+  "translation": "WEB",
+  "title": "Deuteronomy 12:29–32",
+  "context": "When the LORD cuts off the nations and Israel dwells in their land, the people must be careful not to be ensnared to follow them, and not to inquire after their gods, saying, “How do these nations serve their gods? I will do likewise.” They must not do so to the LORD; those nations have done every abomination he hates, even burning their sons and daughters in the fire to their gods. Whatever he commands, they are to observe; they shall not add to it or take away from it. In the Hebrew Bible this last verse is numbered 13:1, as the lead-in to the following laws about prophets and dreamers; WEB, like most English Bibles, numbers it 12:32 and keeps it as the close of this chapter. Both traditions read the unit as a warning against copying pagan worship and against altering the commanded word, and they do not force a fork over these verses.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 29,
+      "text": "When the LORD your God cuts off the nations from before you where you go in to dispossess them, and you dispossess them and dwell in their land,",
+      "arminianNotes": "When the LORD their God cuts off the nations before them, and they dispossess them and dwell in their land, a new temptation will be close at hand.\n\nArminian readers hear success itself as a moment of danger. Dwelling in the land of those God has cut off can become the setting for curiosity about their gods, which the next verse will forbid.",
+      "reformedNotes": "Reformed readers stress that the cutting off is the LORD’s act. The land is received from him, and the warning that follows is for a people already given that rest.\n\nBoth traditions take the verse as the setting for verses 30–32, on shared ground."
+    },
+    {
+      "number": 30,
+      "text": "be careful that you are not ensnared to follow them after they are destroyed from before you, and that you not inquire after their gods, saying, “How do these nations serve their gods? I will do likewise.”",
+      "arminianNotes": "They must be careful not to be ensnared to follow those nations after they are destroyed, and not to inquire after their gods, saying, “How do these nations serve their gods? I will do likewise.”\n\nArminian readers hear a snare in imitation. Even a question that sounds like inquiry can be the start of doing likewise, and the people are told not to go that way.",
+      "reformedNotes": "Reformed readers likewise take the quoted intention as forbidden. The destroyed nations are not a template for the LORD’s service, and curiosity after their gods is already a danger.\n\nBoth traditions read the verse as a ban on adopting Canaanite worship, the practical outworking of verse 4, without a contrast between the traditions."
+    },
+    {
+      "number": 31,
+      "text": "You shall not do so to the LORD your God; for every abomination to the LORD, which he hates, they have done to their gods; for they even burn their sons and their daughters in the fire to their gods.",
+      "arminianNotes": "They shall not do so to the LORD their God. Those nations have done every abomination he hates, even burning their sons and daughters in the fire to their gods.\n\nArminian readers hear why imitation is unthinkable: the LORD hates what those nations have done, and the worst of it is the burning of their own children. His worship must not be shaped by that horror.",
+      "reformedNotes": "Reformed readers stress that the abominations are what he hates, and that child sacrifice is named as an actual practice of those gods’ service, not as a metaphor.\n\nBoth traditions take the verse as a moral and cultic absolute, shared ground of revulsion and of loyalty to the LORD."
+    },
+    {
+      "number": 32,
+      "text": "Whatever thing I command you, that you shall observe to do. You shall not add to it, nor take away from it.",
+      "arminianNotes": "“Whatever thing I command you, that you shall observe to do. You shall not add to it, nor take away from it.”\n\nArminian readers hear a close that guards the whole chapter: do what is commanded, no more and no less. Adding a pagan rite, or trimming a command, would both violate the word set before them.",
+      "reformedNotes": "Reformed readers likewise take the ban on adding and taking away as a fence around the commanded statutes, in the same spirit as Deuteronomy 4:2, though the wording of that verse is not identical with this one.\n\nIn the Hebrew Bible this verse is numbered 13:1, just before the laws about prophets and dreamers; WEB keeps it as 12:32, the last verse of this chapter. Both traditions read the command itself as shared ground, not as a place to force a later debate about the rules of worship."
+    }
+  ]
+}

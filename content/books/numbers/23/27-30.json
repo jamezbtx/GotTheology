@@ -1,0 +1,37 @@
+{
+  "book": "Numbers",
+  "bookSlug": "numbers",
+  "chapter": 23,
+  "verseStart": 27,
+  "verseEnd": 30,
+  "translation": "WEB",
+  "title": "Numbers 23:27–30",
+  "context": "Balak makes a third attempt. He takes Balaam to the top of Peor, which looks down on the desert, hoping that it will please God to allow a curse from there. Balaam again calls for seven altars and for seven bulls and seven rams, and Balak offers a bull and a ram on every altar. The third parable itself follows in 24:1–14. Both traditions read this short unit as a further change of place and a repeated rite, not as a sign that God may yet be bargained into a curse. They also note the place name Peor, which later chapters will make infamous, without reading that later trespass back into these verses as if it were already narrated here.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 27,
+      "text": "Balak said to Balaam, “Come now, I will take you to another place; perhaps it will please God that you may curse them for me from there.”",
+      "arminianNotes": "Balak offers yet another place: perhaps it will please God that Balaam may curse Israel from there.\n\nArminian readers hear the king’s “perhaps” now attached to God’s pleasure. Balak still hopes a new site will change God’s mind, after verse 19 has said that God is not a man, that he should repent.",
+      "reformedNotes": "Reformed readers note the same hope against the word already given. A third location is treated as if it might please God to permit what he has refused.\n\nBoth traditions read the proposal as persistence in a lost cause, not as a genuine opening for a curse."
+    },
+    {
+      "number": 28,
+      "text": "Balak took Balaam to the top of Peor, that looks down on the desert.",
+      "arminianNotes": "Balak takes Balaam to the top of Peor, that looks down on the desert.\n\nArminian readers see only the new vantage in this verse: a height looking toward the waste, from which Israel is again to be viewed.",
+      "reformedNotes": "Reformed readers likewise take the notice as geographical. The name Peor will recur in the trespass of chapter 25 and in the later notice of Balaam’s counsel (Numbers 31:16), but this verse itself only records the place of the third attempt.\n\nBoth traditions refrain from treating the later Peor story as if it were already told here, while they do not hide the later connection when the narrative itself makes it."
+    },
+    {
+      "number": 29,
+      "text": "Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams for me here.”",
+      "arminianNotes": "Balaam again asks for seven altars and for seven bulls and seven rams, here at Peor.\n\nArminian readers hear the rite requested a third time, in the same terms as at the first site. The repetition has not yet produced a curse, and still Balaam prepares the same offerings.",
+      "reformedNotes": "Reformed readers note the unchanged request. The prophet does not invent a new ritual to force a new word; the same preparation is made, and the word will again be God’s.\n\nBoth traditions take the verse as a formal parallel to verse 1, still on shared descriptive ground."
+    },
+    {
+      "number": 30,
+      "text": "Balak did as Balaam had said, and offered up a bull and a ram on every altar.",
+      "arminianNotes": "Balak does as Balaam has said, and offers a bull and a ram on every altar.\n\nArminian readers see the king still compliant. He has not withdrawn his patronage, even after two blessings.",
+      "reformedNotes": "Reformed readers note that the third set of offerings is completed. The stage is set for the word of chapter 24, which will not be bought by these altars any more than the first two were.\n\nBoth traditions read the verse as the close of the setup, with the third parable still to come."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 19,
+  "verseStart": 14,
+  "verseEnd": 21,
+  "translation": "WEB",
+  "title": "Deuteronomy 19:14–21",
+  "context": "Three short laws protect justice in the community: do not move a neighbor’s boundary marker; do not convict anyone on the testimony of one witness; and punish a malicious false witness with the penalty he meant to bring on the accused. The section ends with the principle “life for life, eye for eye,” here applied by judges to perjury. Jesus and Paul both refer to the two-or-three-witness rule (Matthew 18:16; 2 Corinthians 13:1), and Jesus addresses “eye for eye” in Matthew 5:38–39.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 14,
+      "text": "You shall not remove your neighbor’s landmark, which they of old time have set, in your inheritance which you shall inherit, in the land that the LORD your God gives you to possess.",
+      "arminianNotes": "Israel must not move a neighbor’s boundary marker set by earlier generations. Arminian readers see respect for property and for the inheritance God allotted. Both traditions agree that moving landmarks was a form of theft, condemned also in Proverbs 22:28 and Deuteronomy 27:17.",
+      "reformedNotes": "Reformed readers see the boundary stone as a sign of God’s distribution of the land among families. Shared ground: secretly shifting a boundary steals from a neighbor and from future generations, and the law protects the vulnerable from such quiet injustice."
+    },
+    {
+      "number": 15,
+      "text": "One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+      "arminianNotes": "One witness is not enough to convict; a matter is established by two or three. Arminian readers see protection against false accusation. Both traditions note that Jesus and Paul apply this principle (Matthew 18:16; 2 Corinthians 13:1; 1 Timothy 5:19).",
+      "reformedNotes": "Reformed readers see the rule as a safeguard of justice that the church continues to honor in discipline. Shared ground: the principle, also in 17:6, guards against convicting anyone on a single testimony, and the New Testament carries it forward."
+    },
+    {
+      "number": 16,
+      "text": "If an unrighteous witness rises up against any man to testify against him of wrongdoing,",
+      "arminianNotes": "The law addresses a malicious witness who testifies falsely. Arminian readers note that false testimony is a serious moral wrong. Both traditions agree that the ninth commandment (Exodus 20:16) is the foundation of this law.",
+      "reformedNotes": "Reformed readers see the law as applying the ninth commandment to court procedure. Shared ground: a witness who lies to harm another commits a grave injustice, and the law treats such perjury as a crime."
+    },
+    {
+      "number": 17,
+      "text": "then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges who shall be in those days;",
+      "arminianNotes": "Both parties stand before the LORD, before the priests and judges. Arminian readers see accountability before God as well as before human judges. Both traditions agree that the phrase “before the LORD” marks the court as answerable to God.",
+      "reformedNotes": "Reformed readers note that the court is held in God’s presence, so judges and witnesses alike answer to him. Shared ground: justice in Israel is not merely civil but sacred, conducted under God’s eye."
+    },
+    {
+      "number": 18,
+      "text": "and the judges shall make diligent inquisition; and behold, if the witness is a false witness, and has testified falsely against his brother,",
+      "arminianNotes": "The judges must investigate thoroughly; if the witness lied, he has testified falsely against his brother. Arminian readers stress the duty of careful inquiry. Both traditions agree that justice requires investigation, not hasty judgment.",
+      "reformedNotes": "Reformed readers note the word “brother,” which reminds Israel that the accused is a fellow member of the covenant people. Shared ground: judges must examine evidence diligently, and false testimony harms the community’s bonds."
+    },
+    {
+      "number": 19,
+      "text": "then you shall do to him as he had thought to do to his brother. So you shall remove the evil from among you.",
+      "arminianNotes": "The false witness receives the penalty he intended for the accused. Arminian readers see poetic justice that discourages perjury. Both traditions agree that the punishment fits the intended harm, removing evil from Israel.",
+      "reformedNotes": "Reformed readers see the principle of proportional justice applied to perjury. Shared ground: the false witness cannot escape the consequences of his intent, and the community is purged of evil. The punishment answers the intended harm, not merely the words spoken."
+    },
+    {
+      "number": 20,
+      "text": "Those who remain shall hear, and fear, and will never again commit any such evil among you.",
+      "arminianNotes": "Others will hear and fear, and no one will repeat such evil. Arminian readers see the deterrent purpose of public justice. Both traditions agree that the law aims to protect the community by discouraging false testimony.",
+      "reformedNotes": "Reformed readers see the public nature of punishment as part of God’s design for social order. Shared ground: justice teaches, and the fear it produces protects others from harm. Fear of just consequences becomes a safeguard for the innocent."
+    },
+    {
+      "number": 21,
+      "text": "Your eyes shall not pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+      "arminianNotes": "“Life for life, eye for eye” is applied by judges to the false witness. Arminian readers note that in context this limits penalties to proportion rather than licensing private revenge. Jesus addresses personal retaliation in Matthew 5:38–39. Both traditions agree on this distinction.",
+      "reformedNotes": "Reformed readers see the principle as a rule of proportional justice for courts, also found in Exodus 21:23–25 and Leviticus 24:19–20. Shared ground: Jesus’ teaching forbids personal vengeance, while the principle of just proportion in public justice remains."
+    }
+  ]
+}

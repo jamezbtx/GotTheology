@@ -1,0 +1,67 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 21,
+  "verseStart": 16,
+  "verseEnd": 24,
+  "translation": "WEB",
+  "title": "Leviticus 21:16–24",
+  "context": "The chapter ends with rules that priests descended from Aaron who had a physical defect could not approach the altar or the veil to offer, though they could still eat the holy food. The list reflects the visual symbolism of wholeness required of what and who came nearest to God’s presence at the altar, similar to the requirement that offerings be without defect (22:20). The text does not say that such priests were less loved, less holy in person, or excluded from the priestly family, and verse 22 explicitly gives them a share in the most holy food. Arminian and Reformed readers share the main reading: these were ceremonial rules for the Levitical priesthood, fulfilled in Christ, and they give no warrant for excluding people with disabilities from God’s people or worship (compare Luke 14:13). Readers in both traditions differ somewhat on how much symbolic meaning to draw from the list.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 16,
+      "text": "The LORD spoke to Moses, saying,",
+      "arminianNotes": "Arminian readers note that the new section again begins with God’s word to Moses. The rules that follow concern the priests’ service at the altar.",
+      "reformedNotes": "Reformed readers likewise see the LORD as the author of these ceremonial instructions. Both traditions agree that the section belongs to the Levitical priesthood."
+    },
+    {
+      "number": 17,
+      "text": "“Say to Aaron, ‘None of your offspring throughout their generations who has a defect may approach to offer the bread of his God.",
+      "arminianNotes": "Arminian readers see the rule that priests with a defect may not offer as part of the visible symbolism of wholeness at the altar. It concerns the role of offering, not the person’s worth or place among God’s people.",
+      "reformedNotes": "Reformed readers see the requirement as parallel to the rule that offerings be without defect. Both traditions agree that the verse pointed to the perfection required for approaching God, fulfilled in Christ."
+    },
+    {
+      "number": 18,
+      "text": "For whatever man he is that has a defect, he shall not draw near: a blind man, or a lame, or he who has a flat nose, or any deformity,",
+      "arminianNotes": "Arminian readers note that the list includes conditions beyond anyone’s control, which makes clear that no moral failure is implied. Some terms in the list are uncertain in meaning.",
+      "reformedNotes": "Reformed readers likewise see the list as ceremonial and symbolic rather than moral. Both traditions agree that people with disabilities are fully welcome in Christ’s people (compare Luke 14:13)."
+    },
+    {
+      "number": 19,
+      "text": "or a man who has an injured foot, or an injured hand,",
+      "arminianNotes": "Arminian readers see injuries of foot or hand included in the list, again reflecting the visible symbolism of wholeness at the altar. These were not signs of sin.",
+      "reformedNotes": "Reformed readers see the rules as applying to service at the altar, not to belonging in Israel. Both traditions agree on reading the list with care and compassion."
+    },
+    {
+      "number": 20,
+      "text": "or hunchbacked, or a dwarf, or one who has a defect in his eye, or an itching disease, or scabs, or who has damaged testicles.",
+      "arminianNotes": "Arminian readers note that several terms in this verse are rare and their exact meaning is uncertain, so translations vary. The general point is visible physical defects.",
+      "reformedNotes": "Reformed readers likewise hold the precise meanings with caution while agreeing on the verse’s role in the ceremonial law. Both traditions agree that the list does not measure a person’s value before God."
+    },
+    {
+      "number": 21,
+      "text": "No man of the offspring of Aaron the priest who has a defect shall come near to offer the offerings of the LORD made by fire. Since he has a defect, he shall not come near to offer the bread of his God.",
+      "arminianNotes": "Arminian readers see the repeated reason, that the priest may not offer the offerings of the LORD, as clarifying the scope of the restriction. It concerns the act of offering at the altar.",
+      "reformedNotes": "Reformed readers see the repetition as underlining the ceremonial symbolism of wholeness in worship. Both traditions agree that the verse looks ahead to the perfect high priest, Christ (Hebrews 7:26)."
+    },
+    {
+      "number": 22,
+      "text": "He shall eat the bread of his God, both of the most holy, and of the holy.",
+      "arminianNotes": "Arminian readers find this verse especially important: priests with a defect still eat the most holy food. They remain part of the priestly family and share in its provision.",
+      "reformedNotes": "Reformed readers likewise see God’s provision for these priests as a sign that they are not cast out. Both traditions treasure this verse as showing that the restriction concerned service at the altar, not membership or worth."
+    },
+    {
+      "number": 23,
+      "text": "He shall not come near to the veil, nor come near to the altar, because he has a defect; that he may not profane my sanctuaries, for I am the LORD who sanctifies them.’ ”",
+      "arminianNotes": "Arminian readers see the restriction on approaching the veil and altar as protecting the symbolism of God’s holiness. God is the one who sanctifies the sanctuaries.",
+      "reformedNotes": "Reformed readers see the verse as pointing to the need for a perfect mediator to enter God’s presence. Both traditions agree that Christ fulfills this as the high priest who is holy and undefiled (Hebrews 7:26)."
+    },
+    {
+      "number": 24,
+      "text": "So Moses spoke to Aaron, and to his sons, and to all the children of Israel.",
+      "arminianNotes": "Arminian readers note that Moses speaks not only to Aaron and his sons but to all the children of Israel. The priests’ holiness was public knowledge for the whole people.",
+      "reformedNotes": "Reformed readers likewise see the people’s inclusion as showing that priestly holiness concerned the entire covenant community. Both traditions agree that God’s instructions were given openly to all."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 20,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "WEB",
+  "title": "Deuteronomy 20:1–9",
+  "context": "Chapter 20 gives Israel laws of war. Facing a stronger army, Israel is not to fear, because the LORD who brought them out of Egypt fights for them; a priest says so before battle. Officers then release several groups from service: men with a new house not yet dedicated, a vineyard not yet enjoyed, or a fiancée not yet married, and anyone who is afraid. The army is defined less by numbers than by trust in God.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "When you go out to battle against your enemies, and see horses, chariots, and a people more numerous than you, you shall not be afraid of them; for the LORD your God, who brought you up out of the land of Egypt, is with you.",
+      "arminianNotes": "Israel must not fear stronger armies with horses and chariots, because the LORD who brought them out of Egypt is with them. Arminian readers see trust rooted in God’s past deliverance. Both traditions agree that the exodus grounds confidence (compare Psalm 20:7).",
+      "reformedNotes": "Reformed readers see God’s presence as the decisive factor in Israel’s wars. Shared ground: remembering God’s saving acts gives courage, and military strength is not the measure of victory. The same God who defeated Egypt’s chariots goes with them now."
+    },
+    {
+      "number": 2,
+      "text": "It shall be, when you draw near to the battle, that the priest shall approach and speak to the people,",
+      "arminianNotes": "Before battle, the priest addresses the people. Arminian readers see spiritual preparation for war. Both traditions agree that the priest’s role underscores that Israel’s battles are under God’s authority. Worship and courage are joined before the fighting begins.",
+      "reformedNotes": "Reformed readers see the priest’s speech as reminding Israel that their warfare is not secular but under God’s covenant. Shared ground: the people are prepared by God’s word before they face the enemy."
+    },
+    {
+      "number": 3,
+      "text": "and shall tell them, “Hear, Israel, you draw near today to battle against your enemies. Don’t let your heart faint! Don’t be afraid, nor tremble, neither be scared of them;",
+      "arminianNotes": "The priest tells Israel not to faint, fear, tremble, or be scared. Arminian readers note the repeated encouragement. Both traditions agree that fear is natural, but God’s presence overcomes it. The priest’s words address the heart before the battle line.",
+      "reformedNotes": "Reformed readers see the repeated commands as reflecting God’s patience with human weakness. Shared ground: courage in battle is grounded in God’s promise, not in human bravery. The words “Hear, Israel” echo the call of 6:4, tying courage in battle to covenant loyalty."
+    },
+    {
+      "number": 4,
+      "text": "for the LORD your God is he who goes with you, to fight for you against your enemies, to save you.”",
+      "arminianNotes": "The LORD goes with them to fight for them and to save them. Arminian readers see God’s active presence. Both traditions agree that victory is God’s work, carried out through Israel’s obedience. Israel’s role is real, but it is not the deciding factor.",
+      "reformedNotes": "Reformed readers see God as the warrior who saves his people (compare Exodus 15:3). Shared ground: the battle belongs to the LORD, and Israel’s confidence rests on his saving presence. The word “save” frames the battle as deliverance, not conquest for its own sake."
+    },
+    {
+      "number": 5,
+      "text": "The officers shall speak to the people, saying, “What man is there who has built a new house, and has not dedicated it? Let him go and return to his house, lest he die in the battle, and another man dedicate it.",
+      "arminianNotes": "A man with a new house not yet dedicated may return home. Arminian readers see compassion for the individual. Both traditions agree that the exemption values ordinary life and the enjoyment of God’s gifts.",
+      "reformedNotes": "Reformed readers see the exemption as showing that Israel’s army does not depend on maximum manpower. Shared ground: God cares about the ordinary goods of home, and the law protects them even in war."
+    },
+    {
+      "number": 6,
+      "text": "What man is there who has planted a vineyard, and has not used its fruit? Let him go and return to his house, lest he die in the battle, and another man use its fruit.",
+      "arminianNotes": "A man who planted a vineyard and has not enjoyed its fruit may return home. Arminian readers see God’s concern that people enjoy the fruit of their labor. Both traditions agree that the exemption reflects the goodness of God’s gifts.",
+      "reformedNotes": "Reformed readers note that the vineyard required years before harvest (compare Leviticus 19:23–25). Shared ground: the law protects the expectation of enjoying one’s work, and God’s care extends to such ordinary hopes."
+    },
+    {
+      "number": 7,
+      "text": "What man is there who has pledged to be married to a wife, and has not taken her? Let him go and return to his house, lest he die in the battle, and another man take her.”",
+      "arminianNotes": "A man pledged to be married but not yet married may return home. Arminian readers see protection of marriage and family. Both traditions agree that Deuteronomy 24:5 extends a similar exemption to a newly married man for one year.",
+      "reformedNotes": "Reformed readers see the exemption as honoring marriage as a creation good. Shared ground: the law gives priority to establishing a household, and war does not override this concern. A household not yet begun is given priority over the army’s numbers."
+    },
+    {
+      "number": 8,
+      "text": "The officers shall speak further to the people, and they shall say, “What man is there who is fearful and faint-hearted? Let him go and return to his house, lest his brother’s heart melt as his heart.”",
+      "arminianNotes": "Anyone fearful or faint-hearted may go home, lest he discourage others. Arminian readers see realism about the contagious nature of fear. Both traditions note that Gideon’s army was reduced on a similar basis (Judges 7:3).",
+      "reformedNotes": "Reformed readers see the exemption as reinforcing that victory depends on God, not on numbers. Shared ground: a smaller, trusting army is better than a larger, fearful one. Fear is treated as a reason for release, not shame."
+    },
+    {
+      "number": 9,
+      "text": "It shall be, when the officers have finished speaking to the people, that they shall appoint captains of armies at the head of the people.",
+      "arminianNotes": "After the exemptions, captains are appointed to lead the army. Arminian readers note that order follows the release of those exempt. Both traditions agree that the army is organized under recognized leadership.",
+      "reformedNotes": "Reformed readers see the appointment as part of the orderly conduct of war under God’s law. Shared ground: Israel’s army is structured and led, not chaotic, and the exemptions come before the command structure is set."
+    }
+  ]
+}

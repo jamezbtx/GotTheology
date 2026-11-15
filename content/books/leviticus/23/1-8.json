@@ -1,0 +1,61 @@
+{
+  "book": "Leviticus",
+  "bookSlug": "leviticus",
+  "chapter": 23,
+  "verseStart": 1,
+  "verseEnd": 8,
+  "translation": "WEB",
+  "title": "Leviticus 23:1–8",
+  "context": "Leviticus 23 sets out the LORD’s appointed feasts, beginning with the weekly Sabbath and then Passover and Unleavened Bread in the first month. These holy convocations order Israel’s time around remembrance of deliverance. Feast typology, such as Christ as our Passover, is largely shared ground; differences about Christian Sabbath observance run within traditions rather than between Arminian and Reformed readers.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "The LORD spoke to Moses, saying,",
+      "arminianNotes": "The LORD speaks to Moses, introducing Israel’s sacred calendar. Arminian readers see God shaping the rhythms of his people’s year so that their time is ordered around him.",
+      "reformedNotes": "Reformed readers likewise see God appointing the times of worship. Both traditions agree the feasts are presented as God’s own institutions, not as Israel’s invention."
+    },
+    {
+      "number": 2,
+      "text": "“Speak to the children of Israel, and tell them, ‘The set feasts of the LORD, which you shall proclaim to be holy convocations, even these are my set feasts.",
+      "arminianNotes": "The set feasts of the LORD are holy convocations that Israel must proclaim. Arminian readers see invitations to gather before God and remember his works together.",
+      "reformedNotes": "Reformed readers likewise see appointed assemblies that belong to the LORD. Both traditions agree that the feasts are described as his, which frames all that follows."
+    },
+    {
+      "number": 3,
+      "text": "“ ‘Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation; you shall do no kind of work. It is a Sabbath to the LORD in all your dwellings.",
+      "arminianNotes": "Six days of work and a seventh day of solemn rest, a holy convocation, a Sabbath to the LORD. Arminian readers see weekly rest as a gift that reorients life toward God.",
+      "reformedNotes": "Reformed readers likewise see the Sabbath placed first among the appointed times. Both traditions agree on its significance in Israel while differing internally, not along Arminian and Reformed lines, about Christian application."
+    },
+    {
+      "number": 4,
+      "text": "“ ‘These are the set feasts of the LORD, even holy convocations, which you shall proclaim in their appointed season.",
+      "arminianNotes": "These are the set feasts, proclaimed in their appointed season. Arminian readers see a fresh heading introducing the annual festivals that mark Israel’s year. Time itself is claimed for God.",
+      "reformedNotes": "Reformed readers likewise see the transition from the weekly Sabbath to the yearly cycle. Both traditions agree that the appointed seasons emphasize God’s ordering of time."
+    },
+    {
+      "number": 5,
+      "text": "In the first month, on the fourteenth day of the month in the evening, is the LORD’s Passover.",
+      "arminianNotes": "Passover falls on the fourteenth day of the first month at evening. Arminian readers see Israel remembering God’s deliverance from Egypt each year at its appointed time.",
+      "reformedNotes": "Reformed readers likewise see Passover recalling God’s redemption. Both traditions agree with Paul’s identification of Christ as our Passover lamb in 1 Corinthians 5:7, a shared typological reading."
+    },
+    {
+      "number": 6,
+      "text": "On the fifteenth day of the same month is the feast of unleavened bread to the LORD. Seven days you shall eat unleavened bread.",
+      "arminianNotes": "The feast of unleavened bread begins on the fifteenth day and lasts seven days. Arminian readers see the feast continuing the remembrance of Israel’s hurried departure from Egypt.",
+      "reformedNotes": "Reformed readers likewise see the feast tied closely to Passover. Both traditions note that Paul in 1 Corinthians 5 draws on unleavened bread to call believers to sincerity and truth."
+    },
+    {
+      "number": 7,
+      "text": "In the first day you shall have a holy convocation. You shall do no regular work.",
+      "arminianNotes": "The first day is a holy convocation with no regular work. Arminian readers see rest from ordinary labor making room for corporate worship. The people stop so that they can gather.",
+      "reformedNotes": "Reformed readers likewise see a sacred assembly set apart by God. Both traditions agree that the cessation of regular work marks the day as holy."
+    },
+    {
+      "number": 8,
+      "text": "But you shall offer an offering made by fire to the LORD seven days. In the seventh day is a holy convocation. You shall do no regular work.’ ”",
+      "arminianNotes": "Offerings by fire are presented for seven days, and the seventh day is another holy convocation. Arminian readers see the whole week framed by worship and offering.",
+      "reformedNotes": "Reformed readers likewise see the feast bounded by sacred assemblies. Both traditions agree that the offerings throughout the week keep the festival centered on God."
+    }
+  ]
+}

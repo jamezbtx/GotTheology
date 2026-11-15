@@ -1,0 +1,43 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 5,
+  "verseStart": 1,
+  "verseEnd": 5,
+  "translation": "WEB",
+  "title": "Deuteronomy 5:1–5",
+  "context": "On the plains of Moab, near the end of the wilderness journey, Moses gathers all Israel and calls them to hear the statutes and ordinances of the covenant made at Horeb (Sinai). He presses the point that this covenant is not a relic of the past but binds the generation standing before him, even though many who stood at the mountain have died. He recalls that the LORD spoke out of the fire while Moses stood between God and the frightened people. Arminian and Reformed readers commonly read this as shared ground: God’s word comes to each generation personally, and his people need a mediator to stand between them and his holiness, a role many in both traditions see fulfilled in Christ (1 Timothy 2:5).",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Moses called to all Israel, and said to them, “Hear, Israel, the statutes and the ordinances which I speak in your ears today, that you may learn them, and observe to do them.”",
+      "arminianNotes": "Arminian readers note that Moses calls Israel to hear, learn and do, a summons that assumes a real response from the people. Hearing God’s word is meant to lead to obedience.",
+      "reformedNotes": "Reformed readers likewise see the call to learn and observe as the covenant people’s fitting response to God’s word. Both traditions commonly see “Hear, Israel” as a theme that runs through Deuteronomy and anticipates the Shema in 6:4."
+    },
+    {
+      "number": 2,
+      "text": "The LORD our God made a covenant with us in Horeb.",
+      "arminianNotes": "Arminian readers see the covenant at Horeb as God’s gracious initiative in binding himself to his people. The relationship begins with what God has done and spoken.",
+      "reformedNotes": "Reformed readers see the covenant made at Horeb as part of God’s unfolding covenant purposes for his people. Readers in both traditions commonly read the verse as grounding the commandments in a covenant relationship."
+    },
+    {
+      "number": 3,
+      "text": "The LORD didn’t make this covenant with our fathers, but with us, even us, who are all of us here alive today.",
+      "arminianNotes": "Arminian readers hear Moses insisting that the covenant applies to the living generation, calling each person to take it personally. Many read this as meaning not only with the fathers, but also with the living generation.",
+      "reformedNotes": "Reformed readers see the covenant renewed with each generation of God’s people, including those who were children at Horeb. Both traditions generally read the verse as stressing the present claim of God’s covenant rather than denying its earlier making."
+    },
+    {
+      "number": 4,
+      "text": "The LORD spoke with you face to face on the mountain out of the middle of the fire,",
+      "arminianNotes": "Arminian readers note the directness of God’s speech, “face to face,” out of the fire. God reveals himself personally and powerfully.",
+      "reformedNotes": "Reformed readers see the fire as a sign of God’s holiness and glory in his self-revelation. Readers in both traditions commonly read “face to face” as describing direct address, balanced by Moses’ mediating role in the next verse."
+    },
+    {
+      "number": 5,
+      "text": "(I stood between the LORD and you at that time, to show you the LORD’s word; for you were afraid because of the fire, and didn’t go up onto the mountain) saying,",
+      "arminianNotes": "Arminian readers see Moses standing between the LORD and the people because they were afraid. God graciously provides a mediator so that the people can receive his word.",
+      "reformedNotes": "Reformed readers see Moses’ mediation as pointing toward the greater mediator, Christ (1 Timothy 2:5; compare Galatians 3:19). Both traditions commonly treasure this picture of God providing a go-between for frightened sinners."
+    }
+  ]
+}

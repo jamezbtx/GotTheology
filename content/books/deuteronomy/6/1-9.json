@@ -1,0 +1,67 @@
+{
+  "book": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "chapter": 6,
+  "verseStart": 1,
+  "verseEnd": 9,
+  "translation": "WEB",
+  "title": "Deuteronomy 6:1–9",
+  "context": "Chapter 6 introduces the commandments Israel is to keep in the land and then gives the Shema (6:4–9), the confession that has shaped Jewish and Christian faith: the LORD is our God, the LORD is one, and he is to be loved with all heart, soul and might. These words are to be on the heart, taught diligently to children, spoken of throughout daily life, and marked on hand, forehead, doorposts and gates. Jesus names the command to love God this way as the first and great commandment (Matthew 22:37–38; Mark 12:29–30). Arminian and Reformed readers generally treat the Shema as wholly shared ground: it confesses the one true God, calls for wholehearted love, and makes the home a place of faith formation. Interpreters discuss how best to render 6:4 and whether the signs of verse 8 are literal or figurative, but these questions do not divide the two traditions.",
+  "showVoices": false,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Now these are the commandments, the statutes, and the ordinances, which the LORD your God commanded to teach you, that you might do them in the land that you go over to possess;",
+      "arminianNotes": "Arminian readers see the commandments given to be taught and done in the land. God’s instruction is practical, aimed at real life.",
+      "reformedNotes": "Reformed readers see the ordered sequence of commandments, statutes and ordinances as God’s provision for his people’s life. Both traditions commonly see teaching and doing joined in this verse."
+    },
+    {
+      "number": 2,
+      "text": "that you might fear the LORD your God, to keep all his statutes and his commandments, which I command you—you, your son, and your son’s son, all the days of your life; and that your days may be prolonged.",
+      "arminianNotes": "Arminian readers note that the commandments reach three generations, calling each to fear the LORD. Faith is meant to be passed on.",
+      "reformedNotes": "Reformed readers see the fear of the LORD as the goal and fruit of God’s instruction. Readers in both traditions commonly see the promise of prolonged days as a blessing of covenant faithfulness."
+    },
+    {
+      "number": 3,
+      "text": "Hear therefore, Israel, and observe to do it, that it may be well with you, and that you may increase mightily, as the LORD, the God of your fathers, has promised to you, in a land flowing with milk and honey.",
+      "arminianNotes": "Arminian readers see the call to hear and observe tied to God’s promise of blessing in the land. God’s word invites trust and obedience.",
+      "reformedNotes": "Reformed readers see God’s promise to the fathers as the foundation of Israel’s hope. Both traditions commonly read the verse as joining command and promise."
+    },
+    {
+      "number": 4,
+      "text": "Hear, Israel: The LORD is our God. The LORD is one.",
+      "arminianNotes": "Arminian readers treasure this confession that the LORD is Israel’s God and that he is one, ruling out every rival. The Hebrew can be rendered in more than one way, but its central claim of the LORD’s unique claim on Israel is clear.",
+      "reformedNotes": "Reformed readers likewise see the Shema as a foundational confession of the one true God. Readers in both traditions generally see it as fully compatible with Christian confession of one God in three persons (compare 1 Corinthians 8:6; Mark 12:29)."
+    },
+    {
+      "number": 5,
+      "text": "You shall love the LORD your God with all your heart, with all your soul, and with all your might.",
+      "arminianNotes": "Arminian readers hear a call to wholehearted love that engages every part of a person. Jesus names this the first and great commandment (Matthew 22:37–38).",
+      "reformedNotes": "Reformed readers see the command to love God with all heart, soul and might as the summary of the first table of the law. Both traditions commonly see that such love is the fruit of God’s grace and the heart of true obedience (compare Deuteronomy 30:6)."
+    },
+    {
+      "number": 6,
+      "text": "These words, which I command you today, shall be on your heart;",
+      "arminianNotes": "Arminian readers see the call for God’s words to be on the heart as inward, not merely external, obedience. Faith must be personal.",
+      "reformedNotes": "Reformed readers see the same call as anticipating the new covenant promise of the law written on the heart (Jeremiah 31:33). Readers in both traditions commonly see this verse as stressing internalized faith."
+    },
+    {
+      "number": 7,
+      "text": "and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up.",
+      "arminianNotes": "Arminian readers see diligent teaching of children in every part of daily life as a central responsibility of parents. Faith is formed through constant conversation.",
+      "reformedNotes": "Reformed readers see the household as a primary place of covenant nurture (compare Ephesians 6:4). Both traditions commonly see this verse as a model for discipleship in the home."
+    },
+    {
+      "number": 8,
+      "text": "You shall bind them for a sign on your hand, and they shall be for frontlets between your eyes.",
+      "arminianNotes": "Arminian readers see binding the words on hand and forehead as keeping God’s word central to action and thought. Whether this is literal or figurative is discussed.",
+      "reformedNotes": "Reformed readers likewise see the image as calling for God’s word to shape all of life. Jewish practice developed phylacteries from this verse (compare Matthew 23:5), and readers in both traditions generally treat the core command as figurative for Christians."
+    },
+    {
+      "number": 9,
+      "text": "You shall write them on the door posts of your house and on your gates.",
+      "arminianNotes": "Arminian readers see writing God’s words on doorposts and gates as making the home and community places marked by his word. Faith is public as well as private.",
+      "reformedNotes": "Reformed readers see the verse as calling for God’s word to govern household and public life. Both traditions commonly see the practice as a vivid reminder to keep God’s word before everyone who enters."
+    }
+  ]
+}
